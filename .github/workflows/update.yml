@@ -37,3 +37,7 @@ jobs:
           fi
           git commit -m "Weekly playlist update $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Announce to IndexNow
+        if: success()
+        run: node scripts/indexnow.mjs || true

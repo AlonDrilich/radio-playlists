@@ -658,6 +658,8 @@ async function writeSite(index, entriesOf) {
   files.push(['sitemap.xml', sitemap]);
   files.push(['robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${PAGES_BASE}sitemap.xml\n`]);
   files.push(['.nojekyll', '']);
+  // IndexNow key (Bing/Yandex): lets scripts/indexnow.mjs announce updated pages.
+  files.push(['d4fa494ef57c3c0f1500efdd4c367576.txt', 'd4fa494ef57c3c0f1500efdd4c367576']);
 
   const abs = join(ROOT, 'docs');
   await rm(abs, { recursive: true, force: true });
