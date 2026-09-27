@@ -253,15 +253,15 @@ https://radioserver.dk/alfaevent
 # 72FM: https://72fm.com/station/f03cd652-2231-4120-b255-bc80f0745fd9
 #EXTINF:-1 group-title="Denmark",Dansktop Kanalen
 https://netradio.classicfm.dk/dansktop
+# 72FM: https://72fm.com/station/5ef52e34-5c0d-41b8-b2ff-24bb3df52065
+#EXTINF:-1 tvg-logo="https://radiosolo.dk/wp-content/uploads/2021/06/radiosolo.svg" group-title="Denmark",Radio Solo
+https://radioserver.dk/solo
 # 72FM: https://72fm.com/station/2eab15b6-0294-48f2-8b4f-4d989fbda669
 #EXTINF:-1 tvg-logo="https://radio40plus.dk/images/logo_rund_150.png" group-title="Denmark",Radio 40plus
 http://stream.radiosolutions.dk/radio40plus
 # 72FM: https://72fm.com/station/d5080e47-531e-4871-a4c2-bd98ba726311
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hmpru8q4znst.jpg" group-title="Denmark",POP FM 80er
 https://live-bauerdk.sharp-stream.com//popfm80.mp3
-# 72FM: https://72fm.com/station/5ef52e34-5c0d-41b8-b2ff-24bb3df52065
-#EXTINF:-1 tvg-logo="https://radiosolo.dk/wp-content/uploads/2021/06/radiosolo.svg" group-title="Denmark",Radio Solo
-https://radioserver.dk/solo
 # 72FM: https://72fm.com/station/960f5428-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Denmark",DR P4 Midt & Vest
 http://live-icy.dr.dk/A/A09H.mp3
@@ -295,12 +295,12 @@ https://tangocopenhagen.stream.laut.fm/tangocopenhagen
 # 72FM: https://72fm.com/station/effb3b79-8c7f-41c9-83d4-b7bdc393b937
 #EXTINF:-1 tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/202.jpg?ver=1490698010" group-title="Denmark",Nova 100 Dansk
 https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
-# 72FM: https://72fm.com/station/0f28b3bb-8302-4433-94f8-a5c286c22cad
-#EXTINF:-1 group-title="Denmark",Musaiko
-http://fluo.muzaiko.saluton.dk:8000/radio.mp3
 # 72FM: https://72fm.com/station/cab6fb5c-c9f3-43fd-aa7f-536dab0f1a46
 #EXTINF:-1 tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark",DR P5 Sjælland (AAC)
 https://drliveradio1.akamaized.net/hls/live/2097651/p5sjaelland/masterab.m3u8
+# 72FM: https://72fm.com/station/0f28b3bb-8302-4433-94f8-a5c286c22cad
+#EXTINF:-1 group-title="Denmark",Musaiko
+http://fluo.muzaiko.saluton.dk:8000/radio.mp3
 # 72FM: https://72fm.com/station/104098d5-7b92-457d-8851-6ef6000aeb7b
 #EXTINF:-1 tvg-logo="https://skala.fm/wp-content/uploads/sites/2/2024/08/cropped-favicon_skala-180x180.png" group-title="Denmark",Skala FM
 https://netradio.skala.fm/ska8d
@@ -517,12 +517,12 @@ http://stream2.wlmm.dk/syddanmark.m3u
 # 72FM: https://72fm.com/station/87e811be-33a3-4236-a348-6e23d53b2c76
 #EXTINF:-1 tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark",DR P4 Esbjerg (AAC)
 https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8
-# 72FM: https://72fm.com/station/d3b4142e-efd3-4cd2-af83-432dcd428848
-#EXTINF:-1 tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark",DR P4 Esbjerg
-http://live-icy.gss.dr.dk/A/A15H.mp3
 # 72FM: https://72fm.com/station/9d096256-6a1c-4844-a5f6-9a6455fa960a
 #EXTINF:-1 tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark",DR P5 Fyn
 https://live-icy.dr.dk/A/A02H.mp3
+# 72FM: https://72fm.com/station/d3b4142e-efd3-4cd2-af83-432dcd428848
+#EXTINF:-1 tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark",DR P4 Esbjerg
+http://live-icy.gss.dr.dk/A/A15H.mp3
 # 72FM: https://72fm.com/station/1d8e56d5-b3d7-478a-a439-d1678b3d7edf
 #EXTINF:-1 tvg-logo="https://globusguld.dk/favicon.ico" group-title="Denmark",Globus Guld Country
 https://stream.probroadcast.dk/guldcountrymp3
@@ -580,9 +580,6 @@ https://faxe.jtw.dk/stream
 # 72FM: https://72fm.com/station/8dbeb94e-3497-4798-a8a7-9623902cd007
 #EXTINF:-1 tvg-logo="https://netradio.dk/img/rs.png" group-title="Denmark",Radio Sydhavsoerne Lolland
 https://radio1.jfmtech.dk/sydhavlolland
-# 72FM: https://72fm.com/station/b1f473f9-a522-49e2-a6cd-4a85ef5c4b6f
-#EXTINF:-1 tvg-logo="https://www.plantlandradio.com/favicon.png" group-title="Denmark",Plantland Radio
-https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3
 # 72FM: https://72fm.com/station/2940d3e6-770a-4073-9168-c814dcdc3f42
 #EXTINF:-1 tvg-logo="https://charlie.nu/" group-title="Denmark",Charlie Tourist (Sydvest)
 https://ec6.yesstreaming.net:4385/stream
@@ -592,6 +589,9 @@ https://knr.gl/radiolivestream
 # 72FM: https://72fm.com/station/316067bd-5d69-43de-a762-1604f7c27bbc
 #EXTINF:-1 group-title="Denmark",Music for Dreams Radio
 http://s2.radio.co/s0f2948883/listen
+# 72FM: https://72fm.com/station/b1f473f9-a522-49e2-a6cd-4a85ef5c4b6f
+#EXTINF:-1 tvg-logo="https://www.plantlandradio.com/favicon.png" group-title="Denmark",Plantland Radio
+https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3
 # 72FM: https://72fm.com/station/642d66e8-38ea-4950-861e-d711f891ea47
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/039/partyradiopro.5b79037f.png" group-title="Denmark",Partyradio.pro
 https://stream.partyradio.pro/listen/partyradio/stream

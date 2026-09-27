@@ -19,6 +19,8 @@ const USER_AGENT = '72FM-playlists/1.0 (+https://72fm.com)';
 const TIMEOUT_MS = 15_000;
 const PAGE_SIZE = 5000;
 const RAW_BASE = 'https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main';
+const REPO_URL = 'https://github.com/AlonDrilich/radio-playlists';
+const PAGES_BASE = 'https://alondrilich.github.io/radio-playlists/';
 const SITE = 'https://72fm.com';
 
 const MIN_COUNTRY_STATIONS = 5;
@@ -268,6 +270,13 @@ function normalise(raw) {
         .filter(Boolean),
       votes: Number(st.votes) || 0,
       clicks: Number(st.clickcount) || 0,
+      codec: /^[A-Za-z0-9+ .-]{1,16}$/.test(String(st.codec ?? '').trim()) &&
+        String(st.codec).trim().toUpperCase() !== 'UNKNOWN'
+        ? String(st.codec).trim().toUpperCase()
+        : null,
+      bitrate: Number.isInteger(Number(st.bitrate)) && Number(st.bitrate) > 0 && Number(st.bitrate) < 10_000
+        ? Number(st.bitrate)
+        : null,
     });
   }
   return out;
@@ -331,6 +340,7 @@ async function main() {
 
   const nameOf = (s) => (s.cc ? countryName(s.cc, s.countryRaw) : s.countryRaw || 'Unknown');
   const playlists = [];
+  const entriesOf = new Map(); // "type:id" -> stations in that file (for docs/)
 
   // Countries
   const byCountry = new Map();
@@ -346,6 +356,7 @@ async function main() {
     const name = countryName(cc, list[0].countryRaw);
     const entries = list.slice(0, PER_FILE_CAP);
     countryFiles.push([`${id}.m3u`, m3u(`Radio stations in ${name}`, entries, () => name)]);
+    entriesOf.set(`country:${id}`, entries);
     playlists.push({
       type: 'country',
       id,
@@ -375,6 +386,7 @@ async function main() {
   for (const g of ranked) {
     const entries = g.members.slice(0, PER_FILE_CAP);
     genreFiles.push([`${g.slug}.m3u`, m3u(`${g.name} radio stations`, entries, () => g.name)]);
+    entriesOf.set(`genre:${g.slug}`, entries);
     playlists.push({
       type: 'genre',
       id: g.slug,
@@ -427,11 +439,234 @@ async function main() {
   };
   await writeFile(join(ROOT, 'index.json'), JSON.stringify(index, null, 2) + '\n');
   await writeFile(join(ROOT, 'README.md'), readme(index, links.fromSitemap));
+  const pageCount = await writeSite(index, entriesOf);
 
   process.stderr.write(
     `Done: ${countryFiles.length} countries, ${genreFiles.length} genres, top ${top.length}. ` +
-      `${stations.length} working unique stations.\n`,
+      `${stations.length} working unique stations. docs/: ${pageCount} HTML pages.\n`,
   );
+}
+
+// ---------------------------------------------------------------- docs/ site
+//
+// Static GitHub Pages site (served from main /docs): an index page plus one
+// page per country and genre playlist. Plain HTML, no JavaScript.
+
+function esc(s) {
+  return String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+}
+
+const fmtInt = (n) => Number(n).toLocaleString('en-US');
+
+const CSS = `:root{color-scheme:light dark;--bg:#fff;--fg:#1b1b1b;--muted:#5c5c5c;--line:#d9d9d9;--row:#f5f5f5;--link:#0b57d0;--btn:#0b57d0;--btnfg:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#e6e6e6;--muted:#a6a6a6;--line:#343434;--row:#1b1b1b;--link:#8ab4f8;--btn:#8ab4f8;--btnfg:#10131a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:980px;margin:0 auto;padding:16px}
+a{color:var(--link)}
+h1{font-size:1.65rem;line-height:1.25;margin:.4em 0 .5em}
+h2{font-size:1.25rem;margin:1.6em 0 .5em}
+p,li{overflow-wrap:anywhere}
+.muted,.crumbs{color:var(--muted)}
+.crumbs{font-size:.9rem;margin:0}
+.actions{display:flex;flex-wrap:wrap;gap:.7em 1.3em;align-items:center;margin:1.1em 0}
+.btn{display:inline-block;background:var(--btn);color:var(--btnfg);padding:.55em 1em;border-radius:6px;text-decoration:none;font-weight:600}
+.cta{font-weight:600}
+code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.88em}
+pre{background:var(--row);border:1px solid var(--line);border-radius:6px;padding:.7em .9em;overflow-x:auto;white-space:pre}
+.tw{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);border-radius:6px;margin:.5em 0 1em}
+table{border-collapse:collapse;width:100%;font-size:.94rem}
+th,td{padding:.45em .7em;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+tbody tr:last-child td{border-bottom:0}
+tbody tr:nth-child(even){background:var(--row)}
+th{white-space:nowrap}
+td.nw,td.num{white-space:nowrap}
+td.num,th.num{text-align:right}
+td.name{min-width:11em}
+footer{color:var(--muted);font-size:.875rem;border-top:1px solid var(--line);margin-top:2.5em;padding-top:1em}`;
+
+function htmlPage({ title, description, canonical, body }) {
+  return `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>${esc(title)}</title>
+<meta name="description" content="${esc(description)}">
+<link rel="canonical" href="${esc(canonical)}">
+<style>
+${CSS}
+</style>
+</head>
+<body>
+<main>
+${body}
+</main>
+</body>
+</html>
+`;
+}
+
+function footerHtml(generated) {
+  return `<footer>
+<p>Data: <a href="https://www.radio-browser.info">Radio Browser</a>, a community-maintained directory whose data is released to the public domain. 72FM does not own, operate or curate these streams; station names, logos and audio belong to the stations. Some streams stop working between checks.</p>
+<p>Last updated ${esc(generated)}, rebuilt weekly. Playlists: CC0 1.0. Source and issue tracker: <a href="${REPO_URL}">github.com/AlonDrilich/radio-playlists</a>. Listen in the browser: <a href="${SITE}">72fm.com</a>.</p>
+</footer>`;
+}
+
+function formatOf(s) {
+  const parts = [];
+  if (s.bitrate) parts.push(`${s.bitrate} kbps`);
+  if (s.codec) parts.push(s.codec);
+  return parts.join(' ');
+}
+
+function stationTable(entries) {
+  const rows = entries
+    .map(
+      (s, i) =>
+        `<tr><td class="num">${i + 1}</td><td class="name">${esc(s.name)}</td><td class="nw">${esc(formatOf(s)) || '<span class="muted">–</span>'}</td>` +
+        `<td class="nw"><a href="${esc(s.url)}" rel="nofollow noopener">Stream</a></td>` +
+        `<td class="nw"><a href="${SITE}/station/${esc(encodeURIComponent(s.uuid))}">Listen on 72FM</a></td></tr>`,
+    )
+    .join('\n');
+  return `<div class="tw"><table>
+<thead><tr><th class="num">#</th><th>Station</th><th>Format</th><th>Stream</th><th>72FM</th></tr></thead>
+<tbody>
+${rows}
+</tbody>
+</table></div>`;
+}
+
+function playlistPage(p, entries, generated) {
+  const isCountry = p.type === 'country';
+  const path = `${p.type}/${p.id}/`;
+  const canonical = PAGES_BASE + path;
+  const n = p.stations;
+  const title = `${p.name} radio stations — M3U playlist (${n} stations)`;
+  const scope = isCountry ? `from ${p.name}` : `tagged ${p.name}`;
+  const description =
+    `Free M3U playlist of ${n} internet radio stations ${scope}, from the Radio Browser directory. ` +
+    `Opens in VLC and mpv. Updated weekly, last on ${generated}.`;
+  const ofAll =
+    p.stations_available > n
+      ? ` These are the ${fmtInt(n)} with the most community votes out of ${fmtInt(p.stations_available)} working stations ${scope} in the directory.`
+      : ` That is every station ${scope} that passed the directory's last check, sorted by community votes.`;
+  const intro =
+    `This playlist has ${fmtInt(n)} internet radio stations ${scope}, taken from the public-domain ` +
+    `<a href="https://www.radio-browser.info">Radio Browser</a> directory.${ofAll} ` +
+    `Each one passed Radio Browser's most recent stream check, but streams go offline or move, so a few may not play. ` +
+    `Last updated ${esc(generated)}.`;
+  const link72 = p.page_72fm
+    ? `<a class="cta" href="${esc(p.page_72fm)}">Listen to ${esc(p.name)} radio in the browser on 72FM →</a>`
+    : `<a class="cta" href="${SITE}">Listen in the browser on 72FM →</a>`;
+  const heading = isCountry ? `${p.flag} ${esc(p.name)} radio stations — M3U playlist` : `${esc(p.name)} radio stations — M3U playlist`;
+  const body = `<p class="crumbs"><a href="../../">All playlists</a> › ${isCountry ? 'Countries' : 'Genres'} › ${esc(p.name)}</p>
+<h1>${heading}</h1>
+<p>${intro}</p>
+<div class="actions">
+<a class="btn" href="${esc(p.url)}">Download playlist (.m3u)</a>
+${link72}
+</div>
+<p class="muted">In VLC: Media → Open Network Stream and paste the playlist link. With mpv:</p>
+<pre><code>mpv ${esc(p.url)}</code></pre>
+<h2>Stations (${fmtInt(entries.length)})</h2>
+${stationTable(entries)}
+${footerHtml(generated)}`;
+  return { path, html: htmlPage({ title, description, canonical, body }) };
+}
+
+function indexPage(index) {
+  const { generated, totals } = index;
+  const countries = index.playlists.filter((p) => p.type === 'country');
+  const genres = index.playlists.filter((p) => p.type === 'genre');
+  const top = index.playlists.find((p) => p.type === 'top');
+  const ex = `${RAW_BASE}/countries/de.m3u`;
+  const count = (p) =>
+    p.stations_available > p.stations ? `${fmtInt(p.stations)} <span class="muted">of ${fmtInt(p.stations_available)}</span>` : fmtInt(p.stations);
+
+  const genreRows = genres
+    .map(
+      (p) =>
+        `<tr><td class="name"><a href="genre/${esc(p.id)}/">${esc(p.name)}</a></td><td class="num">${count(p)}</td>` +
+        `<td class="nw"><a href="${esc(p.url)}">Download .m3u</a></td><td class="nw"><a href="genre/${esc(p.id)}/">Station list</a></td></tr>`,
+    )
+    .join('\n');
+  const countryRows = countries
+    .map(
+      (p) =>
+        `<tr><td>${p.flag}</td><td class="name"><a href="country/${esc(p.id)}/">${esc(p.name)}</a></td><td class="num">${count(p)}</td>` +
+        `<td class="nw"><a href="${esc(p.url)}">Download .m3u</a></td><td class="nw"><a href="country/${esc(p.id)}/">Station list</a></td></tr>`,
+    )
+    .join('\n');
+
+  const title = 'Internet Radio M3U Playlists by Country and Genre — free, updated weekly';
+  const description =
+    `Free M3U playlists of internet radio stations: ${totals.countries} countries and ${totals.genres} genres, ` +
+    `built from the public-domain Radio Browser directory. For VLC, mpv and other players. Updated weekly.`;
+  const body = `<h1>Internet radio M3U playlists by country and genre</h1>
+<p>Free M3U playlists of internet radio stations, one per country and one per genre, rebuilt every week from
+<a href="https://www.radio-browser.info">Radio Browser</a>, a community-maintained directory whose data is released to the public domain.
+Only stations that passed the directory's most recent stream check are included, at most ${PER_FILE_CAP} per playlist, sorted by community votes.</p>
+<p><strong>72FM does not own, operate or curate these streams.</strong> They are the directory's entries, filtered automatically.
+Streams go offline or move between checks, so some entries will not play.</p>
+<p class="actions"><a class="btn" href="${SITE}">Listen in the browser on 72FM → 72fm.com</a></p>
+<ul>
+<li>${fmtInt(totals.working_unique_stations)} working, de-duplicated stations in the directory at the last build</li>
+<li>${totals.countries} country playlists, ${totals.genres} genre playlists, and a <a href="${esc(top.url)}">top ${TOP_N} by votes</a> playlist</li>
+<li>Last updated ${esc(generated)}</li>
+<li>Every playlist with its raw URL, for scripts: <a href="${RAW_BASE}/index.json">index.json</a> · source code: <a href="${REPO_URL}">GitHub</a></li>
+</ul>
+<h2>How to use</h2>
+<p><strong>VLC:</strong> Media → Open Network Stream, paste a playlist link (the “Download .m3u” links below), or download the file and open it.</p>
+<p><strong>mpv:</strong> use <code>&gt;</code> and <code>&lt;</code> to move to the next or previous station.</p>
+<pre><code>mpv ${esc(ex)}</code></pre>
+<p><strong>Command line download:</strong></p>
+<pre><code>curl -LO ${esc(RAW_BASE)}/genres/jazz.m3u</code></pre>
+<p>More player notes (pyradio, Home Assistant, ESP32 and Raspberry Pi) are in the <a href="${REPO_URL}#how-to-use">README</a>.</p>
+<h2 id="genres">Genres</h2>
+<p class="muted">“300 of 1,234” means the playlist holds the ${PER_FILE_CAP} most-voted of that many matching stations.</p>
+<div class="tw"><table>
+<thead><tr><th>Genre</th><th class="num">Stations</th><th>Playlist</th><th>Page</th></tr></thead>
+<tbody>
+${genreRows}
+</tbody>
+</table></div>
+<h2 id="countries">Countries</h2>
+<div class="tw"><table>
+<thead><tr><th></th><th>Country</th><th class="num">Stations</th><th>Playlist</th><th>Page</th></tr></thead>
+<tbody>
+${countryRows}
+</tbody>
+</table></div>
+${footerHtml(generated)}`;
+  return htmlPage({ title, description, canonical: PAGES_BASE, body });
+}
+
+async function writeSite(index, entriesOf) {
+  const files = [['index.html', indexPage(index)]];
+  for (const p of index.playlists) {
+    if (p.type !== 'country' && p.type !== 'genre') continue;
+    const page = playlistPage(p, entriesOf.get(`${p.type}:${p.id}`) ?? [], index.generated);
+    files.push([`${page.path}index.html`, page.html]);
+  }
+  const urls = files.map(([f]) => PAGES_BASE + f.replace(/index\.html$/, ''));
+  const sitemap =
+    '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+    urls.map((u) => `  <url><loc>${esc(u)}</loc><lastmod>${index.generated}</lastmod></url>`).join('\n') +
+    '\n</urlset>\n';
+  files.push(['sitemap.xml', sitemap]);
+  files.push(['robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${PAGES_BASE}sitemap.xml\n`]);
+  files.push(['.nojekyll', '']);
+
+  const abs = join(ROOT, 'docs');
+  await rm(abs, { recursive: true, force: true });
+  for (const [name, body] of files) {
+    const target = join(abs, name);
+    await mkdir(dirname(target), { recursive: true });
+    await writeFile(target, body);
+  }
+  return files.filter(([f]) => f.endsWith('.html')).length;
 }
 
 // ---------------------------------------------------------------- README
@@ -468,6 +703,7 @@ other players that read M3U, and are easy to parse on an ESP32 or Raspberry Pi r
 - **${index.totals.countries}** country playlists, **${index.totals.genres}** genre playlists, [top ${TOP_N}](${RAW_BASE}/top/top-${TOP_N}.m3u)
 - Last build: **${index.generated}** (rebuilt every Monday)
 - Machine-readable list of every playlist: [\`index.json\`](index.json)
+- Browse online, one page per country and genre: **[${PAGES_BASE}](${PAGES_BASE})**
 
 Listen in the browser, no install: **https://72fm.com**
 
@@ -583,7 +819,8 @@ node scripts/build.mjs
 \`\`\`
 
 The script queries the Radio Browser API (\`de1\`, then \`de2\`, then \`all\` mirrors)
-with the user agent \`${USER_AGENT}\`. A GitHub Actions workflow runs it every Monday
+with the user agent \`${USER_AGENT}\`. It also writes the static browsing site in
+\`docs/\` (served by GitHub Pages). A GitHub Actions workflow runs it every Monday
 and commits the result. It refuses to write anything if the directory returns
 unusually few stations, so a bad API day cannot empty the playlists.
 

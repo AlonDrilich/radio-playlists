@@ -4,10 +4,11 @@ Free, weekly-updated **M3U playlists of internet radio stations**: one per count
 one per genre and a top-500 list. They open in VLC, mpv, pyradio and most
 other players that read M3U, and are easy to parse on an ESP32 or Raspberry Pi radio.
 
-- **48,624** working, de-duplicated stations in the source directory at the last build
+- **48,646** working, de-duplicated stations in the source directory at the last build
 - **166** country playlists, **60** genre playlists, [top 500](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/top/top-500.m3u)
 - Last build: **2026-09-27** (rebuilt every Monday)
 - Machine-readable list of every playlist: [`index.json`](index.json)
+- Browse online, one page per country and genre: **[https://alondrilich.github.io/radio-playlists/](https://alondrilich.github.io/radio-playlists/)**
 
 Listen in the browser, no install: **https://72fm.com**
 
@@ -146,7 +147,7 @@ Station counts are "in this file of all that matched" when a genre has more than
 | Metal | 300 of 453 | [metal.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/metal.m3u) | [72fm.com/genre/metal](https://72fm.com/genre/metal) |
 | News | 300 of 3024 | [news.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/news.m3u) | [72fm.com/genre/news](https://72fm.com/genre/news) |
 | Oldies | 300 of 1133 | [oldies.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/oldies.m3u) | [72fm.com/genre/oldies](https://72fm.com/genre/oldies) |
-| Pop | 300 of 5094 | [pop.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/pop.m3u) | [72fm.com/genre/pop](https://72fm.com/genre/pop) |
+| Pop | 300 of 5095 | [pop.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/pop.m3u) | [72fm.com/genre/pop](https://72fm.com/genre/pop) |
 | Punk | 192 | [punk.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/punk.m3u) | [72fm.com/genre/punk](https://72fm.com/genre/punk) |
 | R&B | 300 of 365 | [r-and-b.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/r-and-b.m3u) | [72fm.com/genre/r-and-b](https://72fm.com/genre/r-and-b) |
 | Ranchera | 79 | [ranchera.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/ranchera.m3u) | [72fm.com/genre/ranchera](https://72fm.com/genre/ranchera) |
@@ -194,7 +195,7 @@ Station counts are "in this file of all that matched" when a genre has more than
 | 🇧🇪 | Belgium | 300 of 429 | [be.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/be.m3u) | [72fm.com/radio/be](https://72fm.com/radio/be) |
 | 🇧🇴 | Bolivia | 60 | [bo.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/bo.m3u) | [72fm.com/radio/bo](https://72fm.com/radio/bo) |
 | 🇧🇦 | Bosnia & Herzegovina | 140 | [ba.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ba.m3u) | [72fm.com/radio/ba](https://72fm.com/radio/ba) |
-| 🇧🇷 | Brazil | 300 of 1237 | [br.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/br.m3u) | [72fm.com/radio/br](https://72fm.com/radio/br) |
+| 🇧🇷 | Brazil | 300 of 1238 | [br.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/br.m3u) | [72fm.com/radio/br](https://72fm.com/radio/br) |
 | 🇮🇴 | British Indian Ocean Territory | 6 | [io.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/io.m3u) | [72fm.com/radio/io](https://72fm.com/radio/io) |
 | 🇧🇬 | Bulgaria | 297 | [bg.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/bg.m3u) | [72fm.com/radio/bg](https://72fm.com/radio/bg) |
 | 🇰🇭 | Cambodia | 8 | [kh.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/kh.m3u) | [72fm.com/radio/kh](https://72fm.com/radio/kh) |
@@ -292,12 +293,12 @@ Station counts are "in this file of all that matched" when a genre has more than
 | 🇵🇪 | Peru | 234 | [pe.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pe.m3u) | [72fm.com/radio/pe](https://72fm.com/radio/pe) |
 | 🇵🇭 | Philippines | 300 of 596 | [ph.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ph.m3u) | [72fm.com/radio/ph](https://72fm.com/radio/ph) |
 | 🇵🇱 | Poland | 300 of 887 | [pl.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pl.m3u) | [72fm.com/radio/pl](https://72fm.com/radio/pl) |
-| 🇵🇹 | Portugal | 300 of 307 | [pt.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pt.m3u) | [72fm.com/radio/pt](https://72fm.com/radio/pt) |
+| 🇵🇹 | Portugal | 300 of 327 | [pt.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pt.m3u) | [72fm.com/radio/pt](https://72fm.com/radio/pt) |
 | 🇵🇷 | Puerto Rico | 50 | [pr.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pr.m3u) | [72fm.com/radio/pr](https://72fm.com/radio/pr) |
 | 🇶🇦 | Qatar | 15 | [qa.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/qa.m3u) | [72fm.com/radio/qa](https://72fm.com/radio/qa) |
 | 🇷🇪 | Réunion | 34 | [re.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/re.m3u) | [72fm.com/radio/re](https://72fm.com/radio/re) |
 | 🇷🇴 | Romania | 300 of 849 | [ro.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ro.m3u) | [72fm.com/radio/ro](https://72fm.com/radio/ro) |
-| 🇷🇺 | Russia | 300 of 2305 | [ru.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ru.m3u) | [72fm.com/radio/ru](https://72fm.com/radio/ru) |
+| 🇷🇺 | Russia | 300 of 2306 | [ru.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ru.m3u) | [72fm.com/radio/ru](https://72fm.com/radio/ru) |
 | 🇷🇼 | Rwanda | 7 | [rw.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/rw.m3u) | [72fm.com/radio/rw](https://72fm.com/radio/rw) |
 | 🇸🇲 | San Marino | 5 | [sm.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/sm.m3u) | [72fm.com/radio/sm](https://72fm.com/radio/sm) |
 | 🇸🇦 | Saudi Arabia | 55 | [sa.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/sa.m3u) | [72fm.com/radio/sa](https://72fm.com/radio/sa) |
@@ -347,7 +348,8 @@ node scripts/build.mjs
 ```
 
 The script queries the Radio Browser API (`de1`, then `de2`, then `all` mirrors)
-with the user agent `72FM-playlists/1.0 (+https://72fm.com)`. A GitHub Actions workflow runs it every Monday
+with the user agent `72FM-playlists/1.0 (+https://72fm.com)`. It also writes the static browsing site in
+`docs/` (served by GitHub Pages). A GitHub Actions workflow runs it every Monday
 and commits the result. It refuses to write anything if the directory returns
 unusually few stations, so a bad API day cannot empty the playlists.
 

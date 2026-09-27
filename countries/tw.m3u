@@ -142,12 +142,12 @@ http://202.39.43.67:1935/live/RA000001/chunklist.m3u8
 # 72FM: https://72fm.com/station/397481b9-2120-4445-8368-3d3dccd4fda6
 #EXTINF:-1 group-title="Taiwan",城市廣播網-城市廣播
 http://fm929.cityfm.tw:8080/929.mp3
-# 72FM: https://72fm.com/station/4b69f9bb-9c13-4b01-a19b-fc2e8c5b21a9
-#EXTINF:-1 group-title="Taiwan",台中廣播
-http://211.20.119.101:8081/
 # 72FM: https://72fm.com/station/74cf8b19-bc5b-4ae8-9e47-62fbcb21014d
 #EXTINF:-1 group-title="Taiwan",竹塹廣播電台
 http://211.72.230.118:8081/
+# 72FM: https://72fm.com/station/4b69f9bb-9c13-4b01-a19b-fc2e8c5b21a9
+#EXTINF:-1 group-title="Taiwan",台中廣播
+http://211.20.119.101:8081/
 # 72FM: https://72fm.com/station/2f72f08a-1ed8-45ed-bc1d-53d08fc9cbb4
 #EXTINF:-1 tvg-logo="https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_p07-1.jpg" group-title="Taiwan",台灣廣播 台北一台
 http://test.taiwan-radio.tw:8000/TP.AM1323
@@ -223,12 +223,12 @@ http://cast.uforadio.com.tw:8000/kao-stream
 # 72FM: https://72fm.com/station/74073d5f-0874-4469-8745-1ec0a9e3472f
 #EXTINF:-1 tvg-logo="https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A4802.jpg&w=256&q=75" group-title="Taiwan",世新廣播電台-2
 https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8
-# 72FM: https://72fm.com/station/bb3f742e-cf0c-4d76-a03d-1f769d6db244
-#EXTINF:-1 tvg-logo="https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_p07-1.jpg" group-title="Taiwan",台灣廣播 台北二台
-http://test.taiwan-radio.tw:8000/TP.AM1188
 # 72FM: https://72fm.com/station/66f2a995-86c9-47cf-b06e-3541ef4733a3
 #EXTINF:-1 tvg-logo="https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_b_s_p09s.jpg" group-title="Taiwan",台灣廣播 台中台
 http://test.taiwan-radio.tw:8000/TC.AM774
+# 72FM: https://72fm.com/station/bb3f742e-cf0c-4d76-a03d-1f769d6db244
+#EXTINF:-1 tvg-logo="https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_p07-1.jpg" group-title="Taiwan",台灣廣播 台北二台
+http://test.taiwan-radio.tw:8000/TP.AM1188
 # 72FM: https://72fm.com/station/10b4ef1e-ff58-44d3-9de3-8c41daaab021
 #EXTINF:-1 tvg-logo="https://www.cnr.cn/2007zt/2007gbfzlt/yhdw/200708/W020070821501155725836.jpg" group-title="Taiwan",神州之聲
 https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174761731342853&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5
@@ -346,27 +346,27 @@ http://test.taiwan-radio.tw:8000/CH.FM91.1
 # 72FM: https://72fm.com/station/32ca1bc6-65e0-42ea-8b0d-850bc1a7e5c9
 #EXTINF:-1 tvg-logo="https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A8001.jpg&w=256&q=75" group-title="Taiwan",益世廣播電台
 http://210.209.16.1:1935/YSLive/YSLive/playlist.m3u8
-# 72FM: https://72fm.com/station/1a191ec2-1ffc-454e-87ce-da9f94652aa0
-#EXTINF:-1 group-title="Taiwan",資悠網路廣播實驗電台
-http://test.taiwan-radio.tw:8000/GUIDECast.AH
 # 72FM: https://72fm.com/station/77902293-2d99-421b-ba6c-5816150c2841
 #EXTINF:-1 tvg-logo="https://am10441242.tw/wp-content/uploads/2019/05/ysbclogo2.png" group-title="Taiwan",燕聲AM1242
 http://test.taiwan-radio.tw:8000/HL.AM1242
-# 72FM: https://72fm.com/station/10730198-5342-46b1-bc6a-98af04c638fc
-#EXTINF:-1 group-title="Taiwan",警察廣播電臺 - 臺中分臺 FM 94.5
-https://stream.pbs.gov.tw/live/TCS/playlist.m3u8
+# 72FM: https://72fm.com/station/1a191ec2-1ffc-454e-87ce-da9f94652aa0
+#EXTINF:-1 group-title="Taiwan",資悠網路廣播實驗電台
+http://test.taiwan-radio.tw:8000/GUIDECast.AH
 # 72FM: https://72fm.com/station/f0b434c8-d15d-4ae9-a1ca-78662821c177
 #EXTINF:-1 tvg-logo="https://hakkafm917.org.tw/images/logo.svg" group-title="Taiwan",苗栗客家文化廣播電台
 http://test.taiwan-radio.tw:8000/ML.FM91.7
+# 72FM: https://72fm.com/station/10730198-5342-46b1-bc6a-98af04c638fc
+#EXTINF:-1 group-title="Taiwan",警察廣播電臺 - 臺中分臺 FM 94.5
+https://stream.pbs.gov.tw/live/TCS/playlist.m3u8
 # 72FM: https://72fm.com/station/4a9431fb-f5a1-4c4a-ae3c-42bab47bca2f
 #EXTINF:-1 tvg-logo="https://e-go.org.tw/esound/images/down02.gif" group-title="Taiwan",電聲電台
 http://test.taiwan-radio.tw:8000/TN.AM1071
-# 72FM: https://72fm.com/station/7190cfe5-c422-4c42-82b8-587b07c03579
-#EXTINF:-1 tvg-logo="https://www.baodaoradio.com.tw/web/images/logo.png" group-title="Taiwan",新竹之音
-http://test.taiwan-radio.tw:8000/HC.FM97.9
 # 72FM: https://72fm.com/station/ea2a84ca-ba50-4325-9396-b42d5159a125
 #EXTINF:-1 tvg-logo="https://www.icrt.com.tw/language_data/en/image/sh/logo.png" group-title="Taiwan",ICRT
 http://n03.rcs.revma.com/x27mfpztxp3vv
+# 72FM: https://72fm.com/station/7190cfe5-c422-4c42-82b8-587b07c03579
+#EXTINF:-1 tvg-logo="https://www.baodaoradio.com.tw/web/images/logo.png" group-title="Taiwan",新竹之音
+http://test.taiwan-radio.tw:8000/HC.FM97.9
 # 72FM: https://72fm.com/station/63362fba-4eda-4837-8893-f6904db4a867
 #EXTINF:-1 tvg-logo="https://cityfm.tw/Public/MyMedia/LOGO%E6%96%B9%E5%BD%A2%E5%9F%8E%E5%B8%82%E6%96%B0%E8%81%9E.jpg" group-title="Taiwan",城市廣播網-大苗栗廣播
 https://fm983.cityfm.com.tw:8083/983
@@ -376,12 +376,12 @@ http://59.120.102.91:8000/OnAir
 # 72FM: https://72fm.com/station/1f288f7b-17ce-4807-99b8-deb3a1c06cda
 #EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/taiwan/best-98-3.webp" group-title="Taiwan",高雄港都廣播
 https://n10.rcs.revma.com/q2m07dc59duvv
-# 72FM: https://72fm.com/station/93b2f9a2-af00-4361-9437-a76d19c62c6e
-#EXTINF:-1 tvg-logo="https://fm997.cityfm.tw/Public/MyMedia/Logo-%E5%8D%97%E6%8A%95%E5%B0%81%E9%9D%A2.jpg" group-title="Taiwan",城市廣播網-南投廣播
-https://fm997.cityfm.com.tw:8083/997
 # 72FM: https://72fm.com/station/52a1622a-ba46-45bd-be94-0cfc0aeb2581
 #EXTINF:-1 group-title="Taiwan",嘉義北回廣播電台
 http://test.taiwan-radio.tw:8000/CY.FM91.7
+# 72FM: https://72fm.com/station/93b2f9a2-af00-4361-9437-a76d19c62c6e
+#EXTINF:-1 tvg-logo="https://fm997.cityfm.tw/Public/MyMedia/Logo-%E5%8D%97%E6%8A%95%E5%B0%81%E9%9D%A2.jpg" group-title="Taiwan",城市廣播網-南投廣播
+https://fm997.cityfm.com.tw:8083/997
 # 72FM: https://72fm.com/station/fdd115fc-7934-45c7-9a16-ad22a60aa09e
 #EXTINF:-1 tvg-logo="https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A6301.jpg&w=256&q=75" group-title="Taiwan",先聲廣播電台 (基北桃竹苗)
 http://43.254.16.40:8000/TY.AM774
@@ -418,12 +418,12 @@ https://n01.rcs.revma.com/fkdywbc59duvv
 # 72FM: https://72fm.com/station/ef96e230-8de7-4bd0-8c33-061d690fa1c7
 #EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/taiwan/best.webp" group-title="Taiwan",連花廣播電台
 https://n05.rcs.revma.com/vh0xgcc59duvv
-# 72FM: https://72fm.com/station/f47e95d2-0bd5-4315-8d39-a9ba3e50248c
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f3c9b278-cea5-4bb9-a3c9-6158b5ab8a84-profile_image-300x300.png" group-title="Taiwan",飛碟聯播網 雲嘉民生展望
-http://cast.uforadio.com.tw:8000/yun-stream
 # 72FM: https://72fm.com/station/b33142fb-a715-4e7f-aa94-df72eeb5bbff
 #EXTINF:-1 tvg-logo="https://www.ksbc.com.tw/archive/image/model/images/footer_logo02_263_200.png" group-title="Taiwan",彰化國聲廣播AM810
 http://test.taiwan-radio.tw:8000/CH.AM810
+# 72FM: https://72fm.com/station/f47e95d2-0bd5-4315-8d39-a9ba3e50248c
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f3c9b278-cea5-4bb9-a3c9-6158b5ab8a84-profile_image-300x300.png" group-title="Taiwan",飛碟聯播網 雲嘉民生展望
+http://cast.uforadio.com.tw:8000/yun-stream
 # 72FM: https://72fm.com/station/21faf135-ace7-418b-a561-a43d8d162df3
 #EXTINF:-1 tvg-logo="https://www.pbs.npa.gov.tw/static/images/favicon.ico" group-title="Taiwan",警察廣播電臺 - 臺東分臺 FM 94.3
 https://stream.pbs.gov.tw/live/TTS/playlist.m3u8
@@ -472,12 +472,12 @@ https://n09.rcs.revma.com/9ssfduqkr0hvv
 # 72FM: https://72fm.com/station/56f14e5f-1234-42a9-946b-1ab9e7c06794
 #EXTINF:-1 group-title="Taiwan",Supreme Master TV
 https://radio.suprememastertv.com/128K
-# 72FM: https://72fm.com/station/612836ac-3609-428d-a047-982783e61eff
-#EXTINF:-1 tvg-logo="https://www.taiwanradio.org.tw/cache/com_zoo/images/me4_bada6fdad668aba1a31e151ced7ad6d8.png" group-title="Taiwan",華聲2台 AM1224
-http://43.254.16.40:8000/TP.AM1224
 # 72FM: https://72fm.com/station/7431ad39-122d-4428-b268-b1a9fc8ddba1
 #EXTINF:-1 group-title="Taiwan",Nei-Di's ACG Music
 http://neidi.homeip.net:8080/;
+# 72FM: https://72fm.com/station/612836ac-3609-428d-a047-982783e61eff
+#EXTINF:-1 tvg-logo="https://www.taiwanradio.org.tw/cache/com_zoo/images/me4_bada6fdad668aba1a31e151ced7ad6d8.png" group-title="Taiwan",華聲2台 AM1224
+http://43.254.16.40:8000/TP.AM1224
 # 72FM: https://72fm.com/station/3e33f0e6-0eed-4cc5-8760-40d51b96f66e
 #EXTINF:-1 group-title="Taiwan",栗子的輕音樂
 https://lizeradio.com/radio/stream

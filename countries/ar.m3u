@@ -307,12 +307,12 @@ https://cdn.instream.audio/:9069/stream?in_device_id=wp-5270c502-0535-444e-975b-
 # 72FM: https://72fm.com/station/c932e517-0a08-4db1-80a3-fd74127f9d55
 #EXTINF:-1 tvg-logo="https://www.lapopu.com.ar/img/favicon.png" group-title="Argentina",La Popu 92.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu.mp3?dist=c3-web
-# 72FM: https://72fm.com/station/5c8d6b20-6ef7-4ab2-809a-3b108e564521
-#EXTINF:-1 group-title="Argentina",Lalala Radio La música de Luis Alberto Spinetta
-http://server.laradio.online:25311/live
 # 72FM: https://72fm.com/station/47b98530-6132-47b2-8f42-7fd27c32f81f
 #EXTINF:-1 group-title="Argentina",FM 97.9 Vida
 https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
+# 72FM: https://72fm.com/station/5c8d6b20-6ef7-4ab2-809a-3b108e564521
+#EXTINF:-1 group-title="Argentina",Lalala Radio La música de Luis Alberto Spinetta
+http://server.laradio.online:25311/live
 # 72FM: https://72fm.com/station/a9cb9c06-6b6b-499a-8b04-545c34eda12e
 #EXTINF:-1 tvg-logo="https://comunicacionsocial.org.ar/wp-content/themes/comunicacionsocial-theme/assets/images/logo-fm-en-transito.png.webp" group-title="Argentina",FM en Transito
 https://cdn.instream.audio/:9110/stream
@@ -385,12 +385,12 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
 # 72FM: https://72fm.com/station/1f3e2906-f57c-4dd9-89a0-f6edce6fe719
 #EXTINF:-1 group-title="Argentina",Frecuencia Patagonia FM 99.3
 http://server.laradio.online:9188/live
-# 72FM: https://72fm.com/station/23484e43-ba70-4346-a7a4-353faecd99c6
-#EXTINF:-1 tvg-logo="https://infobrisas.com/images/custom/favicon/apple-touch-icon.png?_v=63" group-title="Argentina",Radio Brisas 98.5
-https://radio.ecolan.com:8443/stream.mp3
 # 72FM: https://72fm.com/station/e2fe4cfd-f5c0-40d3-870f-55372b7167c2
 #EXTINF:-1 tvg-logo="https://www.cadena3.com/img/logo.png" group-title="Argentina",Cadena 3
 http://server.laradio.online:8018/stream
+# 72FM: https://72fm.com/station/23484e43-ba70-4346-a7a4-353faecd99c6
+#EXTINF:-1 tvg-logo="https://infobrisas.com/images/custom/favicon/apple-touch-icon.png?_v=63" group-title="Argentina",Radio Brisas 98.5
+https://radio.ecolan.com:8443/stream.mp3
 # 72FM: https://72fm.com/station/1a017c54-0238-42d1-a8a2-27837ee05f9c
 #EXTINF:-1 group-title="Argentina",Radio Impacto Cordoba
 http://sonic.cloudstreaming.eu:9992/;
@@ -637,24 +637,24 @@ http://stream.zeno.fm/20ddyt65hfhvv
 # 72FM: https://72fm.com/station/95bab007-d3b6-4d1f-9b25-61e18c47d1e7
 #EXTINF:-1 group-title="Argentina",LU24 Radio Tres Arroyos
 https://streaming01.shockmedia.com.ar:10889/stream?icy=http
-# 72FM: https://72fm.com/station/fa79df9d-9b70-4162-a34c-0d0cc3884187
-#EXTINF:-1 group-title="Argentina",Radio Universidad AM580
-https://radios.solumedia.com:10976/stream
 # 72FM: https://72fm.com/station/1f0035af-7deb-4165-89d6-ac87d0587cec
 #EXTINF:-1 group-title="Argentina",Radio De la Azotea
 http://149.202.235.235:8164/;stream/1
+# 72FM: https://72fm.com/station/fa79df9d-9b70-4162-a34c-0d0cc3884187
+#EXTINF:-1 group-title="Argentina",Radio Universidad AM580
+https://radios.solumedia.com:10976/stream
 # 72FM: https://72fm.com/station/33999e0a-018c-49c5-8fc9-fcdfe7e0f81c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BsVZXv.jpeg" group-title="Argentina",M90 Vintage FM 94.1 Rosario
 http://23.111.184.195:8020/mileniumrosario.mp3
+# 72FM: https://72fm.com/station/117c4c11-7e46-4587-a7e8-5150964b7884
+#EXTINF:-1 tvg-logo="https://statics-v2.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg" group-title="Argentina",Antena 98.9
+http://server1.veemesoft.com.ar:8064/live
 # 72FM: https://72fm.com/station/3daaf1f1-8f49-4fdb-8c1b-1855dc25408c
 #EXTINF:-1 group-title="Argentina",Radio Latina 100.9 (General Roca)
 https://streamingraddios.online/proxy/luradioe?mp=/stream
 # 72FM: https://72fm.com/station/a7675c0e-e477-473a-a6c5-d1447dac982e
 #EXTINF:-1 group-title="Argentina",Vorterix
 https://ice2.edge-apps.net/radio1_high-20057.audio
-# 72FM: https://72fm.com/station/117c4c11-7e46-4587-a7e8-5150964b7884
-#EXTINF:-1 tvg-logo="https://statics-v2.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg" group-title="Argentina",Antena 98.9
-http://server1.veemesoft.com.ar:8064/live
 # 72FM: https://72fm.com/station/57dd2160-9658-4607-9e3d-666c4f660d87
 #EXTINF:-1 group-title="Argentina",Feeling 91.7
 http://turadioenvivo.com:8430/stream
@@ -688,6 +688,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOX_56AAC.a
 # 72FM: https://72fm.com/station/4bdc50ee-06c7-4393-b27f-e4bb670d880a
 #EXTINF:-1 group-title="Argentina",Ndr Radio
 https://streamconex.com:8096/;?listening-from-radio-garden=1640125124
+# 72FM: https://72fm.com/station/c30e559c-03bd-448d-a1bb-bc572a833c01
+#EXTINF:-1 group-title="Argentina",radio universidad de rosario
+https://cdn.instream.audio/:9202/stream
 # 72FM: https://72fm.com/station/52c5ad77-c162-4890-b8ef-3190e52548b8
 #EXTINF:-1 group-title="Argentina",Estación Vinilo 89.1
 http://173.255.205.241:1127/;
@@ -703,9 +706,6 @@ https://streamserver-2.xyz/listen/lvdiez/radio.aac
 # 72FM: https://72fm.com/station/27dac464-b206-4472-a4a5-f66a2819a383
 #EXTINF:-1 tvg-logo="https://www.radio5fm.com/img/logo_1695051485.png" group-title="Argentina",Radio 5 100.5 - General Pico
 https://streaming2.locucionar.com/proxy/radio5fm/stream
-# 72FM: https://72fm.com/station/c30e559c-03bd-448d-a1bb-bc572a833c01
-#EXTINF:-1 group-title="Argentina",radio universidad de rosario
-https://cdn.instream.audio/:9202/stream
 # 72FM: https://72fm.com/station/f0230c8e-e120-45f4-b6ca-43207c0f6385
 #EXTINF:-1 group-title="Argentina",Una Radio Muchas Voces
 https://stream.radios.red/unaradio.ogg
@@ -724,15 +724,15 @@ https://23113.live.streamtheworld.com/AM750AAC
 # 72FM: https://72fm.com/station/478d47a9-c4d7-420b-af85-0cf7b739b2a4
 #EXTINF:-1 tvg-logo="https://sonidofm.com/favicon.ico" group-title="Argentina",Sonifo FM 103.5 - El clásico sonido de Buenos Aires
 https://stream.serviciowebdigital.com/8780/stream
-# 72FM: https://72fm.com/station/cd66131b-b395-43c5-92b4-9dafad694213
-#EXTINF:-1 tvg-logo="https://escuchanosonline.com//clientes/img/estacionpopular/0cdc98b9f58d3db458480648046c8c77.jpg" group-title="Argentina",FM Estación Popular 101.1
-https://streaming.escuchanosonline.com:7298/;
 # 72FM: https://72fm.com/station/f1f11a51-89b4-49e9-94a2-6ef4cefe71fc
 #EXTINF:-1 group-title="Argentina",Enjoy Radio
 http://argentina.republicahosting.com:8261/stream
 # 72FM: https://72fm.com/station/16df700a-b9b8-482b-8eb2-e2ade5b90395
 #EXTINF:-1 tvg-logo="https://ahijuna.fm/wp-content/uploads/2023/05/cropped-Ahijuna-marca-color-violeta.png" group-title="Argentina",FM Ahijuna 94.7
 http://stream.ahijuna.fm/aire.mp3
+# 72FM: https://72fm.com/station/cd66131b-b395-43c5-92b4-9dafad694213
+#EXTINF:-1 tvg-logo="https://escuchanosonline.com//clientes/img/estacionpopular/0cdc98b9f58d3db458480648046c8c77.jpg" group-title="Argentina",FM Estación Popular 101.1
+https://streaming.escuchanosonline.com:7298/;
 # 72FM: https://72fm.com/station/e3fd8ca6-a69d-42a2-8277-c6664a2ebcae
 #EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/fmeclipse905.png" group-title="Argentina",FM Eclipse 90.5
 https://streaming2.locucionar.com/proxy/fmeclipse905?mp=/stream
@@ -769,12 +769,12 @@ https://radio02.ferozo.com/proxy/ra02001331?mp=/stream
 # 72FM: https://72fm.com/station/c56eed24-b6d6-4836-93e3-2de2a9eb374a
 #EXTINF:-1 tvg-logo="https://radioarg.net/storage/radios/8052/78645/conversions/2EIYdhWjd4ZfBzwuXGiKbQXhn8P1eO-metaU2NyZWVuc2hvdF82MS5wbmc=--lg.webp" group-title="Argentina",Radio Jazz Cafè FM-Smooth & Jazzy
 https://stream-289.surfernetwork.com/qktzze7sb18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxa3R6emU3c2IxOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InYxTmphSUlKUnVHYXlRUm94b1gySlEiLCJpYXQiOjE3OTA0MjM3NzIsImV4cCI6MTc5MDQyMzgzMn0.MQjHvYFcVjICL50QGTtHDgsx9377PbZSQK591apM0VI
-# 72FM: https://72fm.com/station/417a0590-e087-4b3b-9ed1-c76523a00f8a
-#EXTINF:-1 group-title="Argentina",BRH - Bahía Radio Hits
-https://miestacion.turadioonline.com.ar/8158/stream
 # 72FM: https://72fm.com/station/e989125f-6d6e-46eb-8d8d-66449124189a
 #EXTINF:-1 tvg-logo="https://fmandina929.com.ar/imagenes/banner.png" group-title="Argentina",Andina FM 92.9
 https://streaming01.shockmedia.com.ar:10801/stream?icy=http
+# 72FM: https://72fm.com/station/417a0590-e087-4b3b-9ed1-c76523a00f8a
+#EXTINF:-1 group-title="Argentina",BRH - Bahía Radio Hits
+https://miestacion.turadioonline.com.ar/8158/stream
 # 72FM: https://72fm.com/station/a9d2c0ca-5639-4912-8d75-3e7f203c0e78
 #EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/sc40a039d49acf98a/img/favicon.ico?t=1625931321" group-title="Argentina",Estación Mix
 http://stream.laut.fm/estacionmix
@@ -811,9 +811,6 @@ https://streaming01.shockmedia.com.ar/9716/stream
 # 72FM: https://72fm.com/station/7bd0ea49-28c3-49d1-bf75-cbfa8a38fa2d
 #EXTINF:-1 group-title="Argentina",FM Horizonte (historica 94.3)
 https://14223.live.streamtheworld.com/SAM06AAC243_SC
-# 72FM: https://72fm.com/station/ffb4076b-2563-48fa-8e3f-12e2fce507a6
-#EXTINF:-1 tvg-logo="https://ss-static-01.esmsv.com/id/95379/galeriaimagenes/obtenerimagen/?id=73&tipoEscala=stretch&width=438&height=312" group-title="Argentina",Pop Life 107.7
-http://streaming1.locucionar.com:14835/stream/;stream/1
 # 72FM: https://72fm.com/station/c6d87141-92d8-41a8-aa03-8ae3dd690a3d
 #EXTINF:-1 group-title="Argentina",Cadena Heat
 https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3?dist=c3-web
@@ -832,6 +829,9 @@ http://01.solumedia.com.ar:8324/stream
 # 72FM: https://72fm.com/station/ad752b05-eff5-4121-93c0-875e84a1cb90
 #EXTINF:-1 group-title="Argentina",Planet Music Bahía Blanca
 https://strcdn.klm99.com:10987/planetbahia
+# 72FM: https://72fm.com/station/ffb4076b-2563-48fa-8e3f-12e2fce507a6
+#EXTINF:-1 tvg-logo="https://ss-static-01.esmsv.com/id/95379/galeriaimagenes/obtenerimagen/?id=73&tipoEscala=stretch&width=438&height=312" group-title="Argentina",Pop Life 107.7
+http://streaming1.locucionar.com:14835/stream/;stream/1
 # 72FM: https://72fm.com/station/55902ab9-284c-45a5-9d43-bfbcaddd1218
 #EXTINF:-1 tvg-logo="https://www.eduneu.eu/logo_radio4.png" group-title="Argentina",Radio EduNeu 4: Rock & Pop de Argentina
 https://radio.eduneu.eu/hls/radio4/live.m3u8
@@ -889,6 +889,9 @@ https://streaming2.mundoradio.com.ar/9134/stream
 # 72FM: https://72fm.com/station/16eef88e-69c4-4c96-8e5e-7ef3872ecb3a
 #EXTINF:-1 tvg-logo="https://www.lavozdesanjusto.com.ar/favicon/favicon-32x32.png" group-title="Argentina",Am 1050 San Francisco
 https://vps-2333016-x.dattaweb.com/listen/am_1050_radio_san_francisco/radio.mp3
+# 72FM: https://72fm.com/station/d805f848-937c-4bdf-b757-089b76ae7244
+#EXTINF:-1 group-title="Argentina",Beat Digital Radio
+http://stream.zeno.fm/9s7nnwmknkhvv
 # 72FM: https://72fm.com/station/45511a03-ab78-4aeb-ad42-20177db0f438
 #EXTINF:-1 tvg-logo="https://radioarg.net/storage/radios/8111/10233/conversions/lu2-bahia-blanca-840-am-lg.webp" group-title="Argentina",LU2 Radio Bahía Blanca
 https://streaming6.locucionar.com:24228/stream?ver=492502
@@ -901,6 +904,3 @@ http://01.solumedia.com.ar:8562/;stream.nsv
 # 72FM: https://72fm.com/station/9a59a3f3-5d16-44b9-8475-27496e44b5f3
 #EXTINF:-1 tvg-logo="https://fmcristal.net/img/fmcristal.png" group-title="Argentina",FM CRISTAL 97.7
 https://streaming.radiosenlinea.com.ar/8520/stream
-# 72FM: https://72fm.com/station/a1b0e15b-ac97-4ea0-a2bc-b92c13202398
-#EXTINF:-1 tvg-logo="https://transmedia.unam.edu.ar/templates/yootheme/cache/42/logo_transmedia_home-4274af76.webp" group-title="Argentina",FM Universidad 98.7 - Universidad Nacional de Misiones
-https://fm.unam.edu.ar/fm

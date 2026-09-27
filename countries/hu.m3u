@@ -511,12 +511,12 @@ https://oxygenmusic.hu:8443/Classic_128
 # 72FM: https://72fm.com/station/a45a1600-8fae-4449-b23d-9dc552a7adbd
 #EXTINF:-1 tvg-logo="https://www.radio1eger.hu/wp-content/uploads/2025/02/logo_bg.png" group-title="Hungary",Rádió 1 Eger
 https://www.radio1eger.hu/radio1eger.mp3
-# 72FM: https://72fm.com/station/558d3f12-49c3-4c1a-81a5-33e656860135
-#EXTINF:-1 group-title="Hungary",MegaLive
-https://mega-live.net:2053/live.mp3
 # 72FM: https://72fm.com/station/01487972-88a0-4ed7-91b2-0727aa9f1810
 #EXTINF:-1 tvg-logo="https://radiozora.fm/wp-content/uploads/2024/01/RADIO24-ok-1-640x244.jpg" group-title="Hungary",RadiOzora Chill
 https://chill.out.airtime.pro/chill_a
+# 72FM: https://72fm.com/station/558d3f12-49c3-4c1a-81a5-33e656860135
+#EXTINF:-1 group-title="Hungary",MegaLive
+https://mega-live.net:2053/live.mp3
 # 72FM: https://72fm.com/station/71b53021-25a1-44bd-a4e0-92d60c51140c
 #EXTINF:-1 group-title="Hungary",Disco Diamond Radio
 https://ddr2020.radioca.st/stream
@@ -793,9 +793,6 @@ http://stream.zeno.fm/pssclobh1rhuv
 # 72FM: https://72fm.com/station/3df1506c-ce3b-4a93-be37-88a54d141705
 #EXTINF:-1 group-title="Hungary",Rábaköz Rádió
 https://radio.molnarkft.hu/rabakozradio
-# 72FM: https://72fm.com/station/5114061d-1c4d-405f-90da-9ba042109332
-#EXTINF:-1 group-title="Hungary",Sola Rádió
-https://stream1.virtualisan.net/prx/7000/live.mp3
 # 72FM: https://72fm.com/station/a61f0072-26ad-408f-9df2-b5c4857933ff
 #EXTINF:-1 group-title="Hungary",Cegléd Rádió
 http://stream.cegledradio.hu:4387/mp3
@@ -808,6 +805,9 @@ http://82.141.165.6:8000/
 # 72FM: https://72fm.com/station/0700256f-8b0d-4e1f-8044-2004cdabe52b
 #EXTINF:-1 group-title="Hungary",Paks fm
 http://str2.42net.hu:8000/paks_fm
+# 72FM: https://72fm.com/station/5114061d-1c4d-405f-90da-9ba042109332
+#EXTINF:-1 group-title="Hungary",Sola Rádió
+https://stream1.virtualisan.net/prx/7000/live.mp3
 # 72FM: https://72fm.com/station/0a4f1f1d-df8b-49aa-a7fe-9c7d5b4f6d91
 #EXTINF:-1 tvg-logo="https://sunshine.hu/images/channels/17002219173501.svg" group-title="Hungary",SunshineFM DANCE
 https://sunshine3.stream.composeit.hu/sunshine
@@ -838,9 +838,6 @@ https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3
 # 72FM: https://72fm.com/station/63c29edb-72df-4981-9b5a-b22cdc5edd1b
 #EXTINF:-1 tvg-logo="https://only1.hu/assets/img/fav/favicon-196x196.png" group-title="Hungary",ONLY1 - Electro
 https://stream.only1.hu/electro
-# 72FM: https://72fm.com/station/32fe98bc-65e5-49bb-8f34-7d69a1a0acac
-#EXTINF:-1 tvg-logo="https://radiocomedy.net/wp-content/uploads/2024/10/radiocomedy_logo_feher-1-768x348.png" group-title="Hungary",Rádió Comedy
-https://a7.asurahosting.com:8430/radio.mp3
 # 72FM: https://72fm.com/station/ec318e57-0210-4676-85ff-5f662a49b794
 #EXTINF:-1 group-title="Hungary",Rádió Comedy
 https://a7.asurahosting.com/listen/radio_comedy/radio.mp3
@@ -853,6 +850,9 @@ https://a3.asurahosting.com/listen/all-star_radio_80s_disco/radio.mp3
 # 72FM: https://72fm.com/station/93d9e19c-c8ce-487e-a57b-a3b62fc922f9
 #EXTINF:-1 group-title="Hungary",Lahmacun radio
 https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3
+# 72FM: https://72fm.com/station/32fe98bc-65e5-49bb-8f34-7d69a1a0acac
+#EXTINF:-1 tvg-logo="https://radiocomedy.net/wp-content/uploads/2024/10/radiocomedy_logo_feher-1-768x348.png" group-title="Hungary",Rádió Comedy
+https://a7.asurahosting.com:8430/radio.mp3
 # 72FM: https://72fm.com/station/60fc55a0-bd63-4cf9-906e-4ab91900be43
 #EXTINF:-1 tvg-logo="https://radiopod.top/radiopod.png" group-title="Hungary",Radiopod Fediverse
 https://radiopod.top/radio.mp3

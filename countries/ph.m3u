@@ -103,21 +103,21 @@ http://sg-icecast.eradioportal.com:8000/febc_dzas
 # 72FM: https://72fm.com/station/f0124e3e-570c-455c-b8e7-32f40f8f3c84
 #EXTINF:-1 group-title="Philippines",BIBLE RADIO
 https://stream.radio.co/se9de95c10/listen
-# 72FM: https://72fm.com/station/faf67a18-6660-438a-b472-0713dd0de1e1
-#EXTINF:-1 group-title="Philippines",98.7 DZFE The Master's Touch
-http://sg-icecast.eradioportal.com:8000/febc_dzfe
 # 72FM: https://72fm.com/station/ce5a4a02-88bb-4e79-809e-63f971059bfe
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png" group-title="Philippines",DepEd Radio Learning English 89.1 FM - HD3
 https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8
+# 72FM: https://72fm.com/station/faf67a18-6660-438a-b472-0713dd0de1e1
+#EXTINF:-1 group-title="Philippines",98.7 DZFE The Master's Touch
+http://sg-icecast.eradioportal.com:8000/febc_dzfe
 # 72FM: https://72fm.com/station/54c64d3c-910e-4680-910f-37d7eafff4f1
 #EXTINF:-1 tvg-logo="https://play.google.com/favicon.ico" group-title="Philippines",Hot Hiphop N RnB
 https://stream.zeno.fm/snqnkbnm208uv
-# 72FM: https://72fm.com/station/a8ecafb3-6c00-4fdf-969c-609c4d00dd43
-#EXTINF:-1 group-title="Philippines",RJ FM 100.3
-http://111.125.87.226:8000/rjfm
 # 72FM: https://72fm.com/station/2940f5dc-195e-4547-ab7a-f33ae2f70f41
 #EXTINF:-1 tvg-logo="https://dzrh.com.ph/opengraph-image.png?56ff2bbe65b6c224" group-title="Philippines",DZRH
 https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3
+# 72FM: https://72fm.com/station/a8ecafb3-6c00-4fdf-969c-609c4d00dd43
+#EXTINF:-1 group-title="Philippines",RJ FM 100.3
+http://111.125.87.226:8000/rjfm
 # 72FM: https://72fm.com/station/278b072f-d128-4654-9cb7-09c3ba609074
 #EXTINF:-1 group-title="Philippines",Yes The Best Cagayan de Oro
 http://yesfmcdo.radioca.st:8040/stream
@@ -211,12 +211,12 @@ https://a5.asurahosting.com:7530/radio.mp3
 # 72FM: https://72fm.com/station/b5704b74-2f3f-480c-8487-65796290eadc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkmJbMGly1Bat3iKoG3oxBckfAntnOFUH4X5wFwsCe9laDEYCkVWJ5UA&s=10" group-title="Philippines",Star FM 95.5 Cebu
 https://stream-146.zeno.fm/60cb36c29heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MGNiMzZjMjloZXV2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJMWEdONUVnUWFpUG1ETU1EeUhYX2ciLCJpYXQiOjE3NDE0MzA4NjIsImV4cCI6MTc0MTQzMDkyMn0.4qElo5I_0GF5A3aE5mUfF6T44wqKi0drur2zii2Q0KA
-# 72FM: https://72fm.com/station/2a8c5888-6c4a-48ba-898b-c493fef4cb06
-#EXTINF:-1 tvg-logo="https://ewtnasiapacific.com/wp-content/uploads/2022/04/cropped-ewtn-badge-2.jpg" group-title="Philippines",EWTN Philippines
-https://ewtn-sgrewind.streamguys1.com/sgrewind/philippines/playlist.m3u8
 # 72FM: https://72fm.com/station/13358c30-1623-4a61-a274-47d26e5144b6
 #EXTINF:-1 tvg-logo="https://api.easyrock.com.ph/v1/media/display?bucket=static.easyrock.com.ph&key=stations/2023/8/l-TEWUfICyQA3zoxDbpWp.webp" group-title="Philippines",Easy Rock Baguio
 http://comet.shoutca.st:8274/stream
+# 72FM: https://72fm.com/station/2a8c5888-6c4a-48ba-898b-c493fef4cb06
+#EXTINF:-1 tvg-logo="https://ewtnasiapacific.com/wp-content/uploads/2022/04/cropped-ewtn-badge-2.jpg" group-title="Philippines",EWTN Philippines
+https://ewtn-sgrewind.streamguys1.com/sgrewind/philippines/playlist.m3u8
 # 72FM: https://72fm.com/station/446e64bc-1030-431f-a244-7e35e4a6c168
 #EXTINF:-1 group-title="Philippines",89.1 LOVE FM
 https://eu8.fastcast4u.com/proxy/lovefmradio?mp=/1&1729057858413
@@ -523,12 +523,12 @@ http://58.97.187.52:5007/rp3
 # 72FM: https://72fm.com/station/6b8b82e8-0442-4802-9119-f3c69c2eefec
 #EXTINF:-1 tvg-logo="https://api.loveradio.com.ph/v1/media/display?bucket=static.loveradio.com.ph&key=stations/2023/8/GuysKKLoqftBGsvftWhVU.webp" group-title="Philippines",Love Radio Dagupan
 http://proxima.shoutca.st:8195/stream
-# 72FM: https://72fm.com/station/bc0f2ac2-5186-4116-affc-4b6d4a969f5a
-#EXTINF:-1 tvg-logo="https://radyopilipinas.ph/wp-content/uploads/2023/05/RP-MANILA-768x768.jpg" group-title="Philippines",Radyo Pilipinas 1 (RP1 News)
-http://58.97.187.52:5001/rp1
 # 72FM: https://72fm.com/station/25b7a661-6648-480a-9c1d-c2ac8f7f3c6f
 #EXTINF:-1 tvg-logo="https://imagedelivery.net/HHwzmHgltKa2rO5RHhbhqQ/8be2d580-6382-4d52-97af-91c8056c0e00/public" group-title="Philippines",JESUS IS LORD
 https://stream.zeno.fm/ygy55015e4duv
+# 72FM: https://72fm.com/station/bc0f2ac2-5186-4116-affc-4b6d4a969f5a
+#EXTINF:-1 tvg-logo="https://radyopilipinas.ph/wp-content/uploads/2023/05/RP-MANILA-768x768.jpg" group-title="Philippines",Radyo Pilipinas 1 (RP1 News)
+http://58.97.187.52:5001/rp1
 # 72FM: https://72fm.com/station/1f9758b7-c125-4cc4-a35c-385e8ed35453
 #EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_a9514abea1a8b5d5261f996a1ea0ec1c/logo200.jpg" group-title="Philippines",RAYSLAND CEBU
 http://173.208.146.230:8002/stream
@@ -691,12 +691,12 @@ http://us2.amfmph.com:8119/high
 # 72FM: https://72fm.com/station/c4aa14e7-f5e0-423f-9543-860293656f2a
 #EXTINF:-1 group-title="Philippines",Pinoy power radio media
 https://streaming.live365.com/a67821
-# 72FM: https://72fm.com/station/3e679369-285d-45e7-8b43-f6645b47db83
-#EXTINF:-1 tvg-logo="https://hoperadiotoledo.weebly.com/uploads/1/4/4/5/144543717/hope-toledo-baner_orig.png" group-title="Philippines",AWR HOPE RADIO 106.3 FM TOLEDO
-http://stream.zeno.fm/etwbrrdrf6cuv?1721286162242
 # 72FM: https://72fm.com/station/1e4d157b-26be-4a83-b588-c6b805333478
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nVavEWbjH6GFL07XpRgkuEheP4mSnusra5EMrOJwaI39nnttDfgPTyZXX5FBBgb4n2rg=s200-rw" group-title="Philippines",AMFMPH Streams Demo (48K AAC)
 https://us1.amfmph.com/proxy/iceshout?mp=/ac48&1689431249640
+# 72FM: https://72fm.com/station/3e679369-285d-45e7-8b43-f6645b47db83
+#EXTINF:-1 tvg-logo="https://hoperadiotoledo.weebly.com/uploads/1/4/4/5/144543717/hope-toledo-baner_orig.png" group-title="Philippines",AWR HOPE RADIO 106.3 FM TOLEDO
+http://stream.zeno.fm/etwbrrdrf6cuv?1721286162242
 # 72FM: https://72fm.com/station/bf7ce8f7-b77f-4795-b232-93810c4a8a01
 #EXTINF:-1 group-title="Philippines",28.2 GoodVibes Fm
 https://stream.zeno.fm/fu24r3f24c9uv
@@ -757,12 +757,12 @@ https://io.radyonatinfm.com:8030/candon
 # 72FM: https://72fm.com/station/303f1172-846e-4eaf-ba02-ce471c91d343
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/loBdloDCCozJ879JljLp9doG7MGAsxZNNTqmOtG3zVU9NkxiAIr6QeoB9dzEc-juvmg5gEr4nQ=s900-c-k-c0x00ffffff-no-rj" group-title="Philippines",106.7 LITE FM MEGA MANILA
 https://stream.zeno.fm/kc3cct89sxquv
-# 72FM: https://72fm.com/station/8172da9f-d86a-4294-85b4-1a73693aebf9
-#EXTINF:-1 tvg-logo="https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-SORSOGON-CITY-91.9-V2.png" group-title="Philippines",Radyo Natin Sorsogon
-https://stream.radyonatinfm.com:8010/sorsogon
 # 72FM: https://72fm.com/station/bc0a9dc2-5d37-417b-b9de-8e1040ab72b4
 #EXTINF:-1 tvg-logo="https://radyonatinfm.com/wp-content/uploads/2023/04/480-RN-BANGUED-95.3-V2.png" group-title="Philippines",Radyo Natin Bangued
 http://tx.radyonatinfm.com:8030/bangued
+# 72FM: https://72fm.com/station/8172da9f-d86a-4294-85b4-1a73693aebf9
+#EXTINF:-1 tvg-logo="https://radyonatinfm.com/wp-content/uploads/2023/02/480-RN-SORSOGON-CITY-91.9-V2.png" group-title="Philippines",Radyo Natin Sorsogon
+https://stream.radyonatinfm.com:8010/sorsogon
 # 72FM: https://72fm.com/station/7e139984-99d0-45b1-b6ca-8c901abc52cc
 #EXTINF:-1 tvg-logo="https://brigada-news-ph.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2025/07/11223747/cropped-Untitled-design-1-2.png" group-title="Philippines",Brigada News FM Butuan
 https://butuanstream.brigadanews.ph/

@@ -106,12 +106,12 @@ http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8
 # 72FM: https://72fm.com/station/080499ac-362b-4331-ab81-e518c37d6792
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s48938/images/logod.png?t=637036447340000000" group-title="Oldies",Radiostorm - Rock 104 - Classic Rock
 http://streaming.live365.com/b47785_128mp3
-# 72FM: https://72fm.com/station/df1045ec-c8ef-410f-b800-9a81cdf0d252
-#EXTINF:-1 tvg-logo="https://absolutradio.de/apple-touch-icon.png" group-title="Oldies",Absolut bella
-https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
 # 72FM: https://72fm.com/station/772b95cf-31e8-41f9-bad3-a2da08495e39
 #EXTINF:-1 group-title="Oldies",Oldpop Cafe
 http://cast.oldpopcafe.net:7080/
+# 72FM: https://72fm.com/station/df1045ec-c8ef-410f-b800-9a81cdf0d252
+#EXTINF:-1 tvg-logo="https://absolutradio.de/apple-touch-icon.png" group-title="Oldies",Absolut bella
+https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
 # 72FM: https://72fm.com/station/3a0985e9-788d-11e8-83fa-52543be04c81
 #EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512" group-title="Oldies",Bayern 1 Franken
 https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid
@@ -475,12 +475,12 @@ https://classichitsradio.streamingmedia.it/play
 # 72FM: https://72fm.com/station/0d25895a-3ca7-4b60-96fe-64d0aa7ecd69
 #EXTINF:-1 group-title="Oldies",iHeart Real Oldies
 http://stream.revma.ihrhls.com/zc4717/hls.m3u8
-# 72FM: https://72fm.com/station/9642aad0-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif" group-title="Oldies",Guldkanalen Malmö/Lund
-http://stream.dbmedia.se/gk96
 # 72FM: https://72fm.com/station/a8586ff7-fe81-42ef-a3fd-3680333bf9c4
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-50s_600x600.jpg" group-title="Oldies",- 0 N - 50s on Radio
 https://0n-50s.radionetz.de/0n-50s.aac
+# 72FM: https://72fm.com/station/9642aad0-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif" group-title="Oldies",Guldkanalen Malmö/Lund
+http://stream.dbmedia.se/gk96
 # 72FM: https://72fm.com/station/e8485a8b-d8c7-11e9-a861-52543be04c81
 #EXTINF:-1 group-title="Oldies",COOLFM Goldies
 http://mediagw.e-tiger.net:8000/stream/goldtin
@@ -655,12 +655,12 @@ http://naxidigital-gold128.streaming.rs:8060/;stream.nsv
 # 72FM: https://72fm.com/station/f8b84389-4cc8-4dfb-b47c-3ff3c0901769
 #EXTINF:-1 group-title="Oldies",MR7 - Dankó Rádió
 https://mr-stream.connectmedia.hu/4748/mr7.mp3
-# 72FM: https://72fm.com/station/f4318e61-7d93-4d94-9de3-c7f93f73e585
-#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-oldies.png" group-title="Oldies",Radios 100FM - 100% Oldies
-http://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio
 # 72FM: https://72fm.com/station/72e3e855-4a87-43f5-a431-5b5aba8ee5da
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tJKGkdJ/s54174d.webp" group-title="Oldies",Beatles Radio (MP3)
 http://www.beatlesradio.com:8000/;
+# 72FM: https://72fm.com/station/f4318e61-7d93-4d94-9de3-c7f93f73e585
+#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-oldies.png" group-title="Oldies",Radios 100FM - 100% Oldies
+http://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio
 # 72FM: https://72fm.com/station/f963b8cb-6921-4b1a-817e-21dee718cffb
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg" group-title="Oldies",- 0 N - 80s on Radio
 https://0n-80s.radionetz.de/0n-80s.mp3
@@ -820,27 +820,27 @@ http://82.64.123.204:8001/21radio
 # 72FM: https://72fm.com/station/c80acc57-1183-4b95-a782-252831626922
 #EXTINF:-1 group-title="Oldies",80smania
 http://158.69.114.190:8024/stream
-# 72FM: https://72fm.com/station/6eef21a3-51bd-4047-b8d4-e3f80daae4c7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg" group-title="Oldies",Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco
-https://ss1.audiorama.com.mx:6574/vibefm
 # 72FM: https://72fm.com/station/2f6269a1-dee4-4c13-994a-2b10803d5eec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xxj9zX6w/80s.png" group-title="Oldies",0R - 80s || 80s Pop, 80s Hits, Synthpop, New Wave, Dance, Disco, Pop Classics, Retro, Teen Pop, Funk, Pop Rock, Chart Hits, 80s Dance, Nostalgic, Hit Songs
 https://0nlineradio.radioho.st/0r-80s?ref=radio-browser26
+# 72FM: https://72fm.com/station/6eef21a3-51bd-4047-b8d4-e3f80daae4c7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg" group-title="Oldies",Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco
+https://ss1.audiorama.com.mx:6574/vibefm
 # 72FM: https://72fm.com/station/b77045b4-f44d-4a49-aed7-3aeb0cc02cbc
 #EXTINF:-1 group-title="Oldies",湖北经典音乐广播
 https://lhttp.qtfm.cn/live/1296/64k.mp3
 # 72FM: https://72fm.com/station/c29dbc3b-d9c5-4bf4-96e3-aeefaa6df8f6
 #EXTINF:-1 group-title="Oldies",Greatest Hits Radio USA
 https://stream.radiojar.com/6pz06e8nv4zuv
+# 72FM: https://72fm.com/station/cf54f0eb-57d1-4066-aae5-2954a0b22bbe
+#EXTINF:-1 tvg-logo="https://radiopogoda.pl/wp-content/uploads/sites/2/fbrfg/apple-touch-icon.png?v=2" group-title="Oldies",Radio Pogoda Gdańsk
+http://radiostream.pl/tuba145-1.mp3
 # 72FM: https://72fm.com/station/607c81fe-1537-4afa-bd1c-24f801db8d4c
 #EXTINF:-1 group-title="Oldies",涿州综合广播年代音乐959
 https://lhttp.qtfm.cn/live/5021381/64k.mp3
 # 72FM: https://72fm.com/station/01ccc0e1-8dbe-4dcc-9c50-4219aa05ed1a
 #EXTINF:-1 group-title="Oldies",Oldies WTTF
 https://ice64.securenetsystems.net/WTTF
-# 72FM: https://72fm.com/station/cf54f0eb-57d1-4066-aae5-2954a0b22bbe
-#EXTINF:-1 tvg-logo="https://radiopogoda.pl/wp-content/uploads/sites/2/fbrfg/apple-touch-icon.png?v=2" group-title="Oldies",Radio Pogoda Gdańsk
-http://radiostream.pl/tuba145-1.mp3
 # 72FM: https://72fm.com/station/0e98e51e-f373-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-70er_600x600.jpg" group-title="Oldies",- 1 A - 70er von 1A Radio
 https://1a-70er.radionetz.de/1a-70er.aac
