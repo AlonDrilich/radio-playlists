@@ -658,6 +658,8 @@ async function writeSite(index, entriesOf) {
   files.push(['sitemap.xml', sitemap]);
   files.push(['robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${PAGES_BASE}sitemap.xml\n`]);
   files.push(['.nojekyll', '']);
+  // Google Search Console ownership file for the Pages site — keep it.
+  files.push(['google614b7b99240c2ee1.html', 'google-site-verification: google614b7b99240c2ee1.html']);
   // IndexNow key (Bing/Yandex): lets scripts/indexnow.mjs announce updated pages.
   files.push(['d4fa494ef57c3c0f1500efdd4c367576.txt', 'd4fa494ef57c3c0f1500efdd4c367576']);
 
