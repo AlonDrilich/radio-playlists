@@ -1,0 +1,42 @@
+#EXTM3U
+# Radio stations in Malta
+# Source: Radio Browser (https://www.radio-browser.info), public domain data.
+# Streams belong to their stations; 72FM does not own, operate or curate them.
+# Listen in the browser: https://72fm.com
+
+# 72FM: https://72fm.com/station/bc95a0d2-666d-400d-9d9b-bba9f50277b3
+#EXTINF:-1 group-title="Malta",Calypso Radio
+https://s4.radio.co/sf3aa4c25a/listen
+# 72FM: https://72fm.com/station/86d48e9f-ad97-4da1-a506-d82566b16ebf
+#EXTINF:-1 group-title="Malta",One Radio
+http://s10.voscast.com:8202/stream
+# 72FM: https://72fm.com/station/179e2ab4-539e-11e8-a4d1-52543be04c81
+#EXTINF:-1 group-title="Malta",Radju Maria Malta
+http://dreamsiteradiocp.com:8102/
+# 72FM: https://72fm.com/station/bc745d84-6996-11e9-af37-52543be04c81
+#EXTINF:-1 tvg-logo="https://radjumarija.org/wp-content/uploads/2016/01/favicon-1.ico" group-title="Malta",RADJU MARIJA MALTA
+http://dreamsiteradiocp.com:8102/stream
+# 72FM: https://72fm.com/station/c1346103-8b8f-4960-bea9-5f86708a8ae8
+#EXTINF:-1 group-title="Malta",MALTIN BISS
+https://s4.voscast.com:8837/default
+# 72FM: https://72fm.com/station/5ae47396-1ba4-4b1d-92c7-bdc62d6f8879
+#EXTINF:-1 tvg-logo="https://bayeasy.mt/wp-content/uploads/2023/07/BayEasy_BLU-copy.png" group-title="Malta",Bay Easy 100.2
+https://stream.v3.network/proxy/easy/stream.mp3
+# 72FM: https://72fm.com/station/26df1ec1-d11b-4703-a4d2-07519b431b66
+#EXTINF:-1 tvg-logo="https://bay.com.mt/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGYmF5LmNvbS5tdCUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjEwJTJGU2l0ZUxvZ28ucG5nJmNhY2hlTWFya2VyPTE2NjIwNDc3MjQtNTA3OCZ0b2tlbj1jZTE2YTcwZTBiOTdkMTYy.q.png" group-title="Malta",Bay 89.7
+https://stream.v3.network/proxy/897bay/stream.mp3?_=1
+# 72FM: https://72fm.com/station/5acaf6b3-101d-41c6-b3e8-c6d63bed8999
+#EXTINF:-1 group-title="Malta",Christmas Radio Malta
+http://philae.shoutca.st:8402/stream?type=http&nocache=165
+# 72FM: https://72fm.com/station/b93e26d9-306c-4522-b420-cc4d537fc196
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s18846/images/logod.png?t=638303682800000000" group-title="Malta",Campus 103.7
+https://campusfm.radioca.st/campusfm_live
+# 72FM: https://72fm.com/station/450228f9-dff3-4924-aff1-d637135551aa
+#EXTINF:-1 group-title="Malta",One Radio
+http://cdn.voscast.com/resources/?key=249f148a69ad7268c63c10098840e4d6&c=wmp
+# 72FM: https://72fm.com/station/d509b24b-d833-4617-b278-88eba4ee8287
+#EXTINF:-1 tvg-logo="https://bay.com.mt/wp-content/uploads/2020/10/ListenToBay.png.webp" group-title="Malta",89.7 Bay
+https://stream.v3.network/proxy/897bay/stream.mp3
+# 72FM: https://72fm.com/station/38f192a9-5cf9-419b-be7d-4d36c7409cc5
+#EXTINF:-1 tvg-logo="https://magic.mt/wp-content/uploads/2024/11/cropped-pwa-icon-192x192-2-192x192.png" group-title="Malta",Magic
+https://s46.myradiostream.com:6076/stream

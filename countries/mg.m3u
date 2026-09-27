@@ -1,0 +1,42 @@
+#EXTM3U
+# Radio stations in Madagascar
+# Source: Radio Browser (https://www.radio-browser.info), public domain data.
+# Streams belong to their stations; 72FM does not own, operate or curate them.
+# Listen in the browser: https://72fm.com
+
+# 72FM: https://72fm.com/station/1b34da1a-246d-4fcb-9d33-1af386e1c064
+#EXTINF:-1 tvg-logo="https://becakgalon.com/img/begal-fiveicon.png" group-title="Madagascar",Radio des jeunes (RDJ)
+http://rdj966.net:8000/rdj966.mp3
+# 72FM: https://72fm.com/station/94f00da6-4a0a-460e-b2cb-0eb8060ab2cb
+#EXTINF:-1 group-title="Madagascar",Radio Don Bosco
+http://onair15.xdevel.com:9248/;
+# 72FM: https://72fm.com/station/2fcb9b03-c68f-11e8-a498-52543be04c81
+#EXTINF:-1 group-title="Madagascar",RNA Madagascar
+http://drs-live-rna.gasy-internet.info:9001/;
+# 72FM: https://72fm.com/station/14e39ca9-6bf4-4273-96c2-dd00ee862828
+#EXTINF:-1 tvg-logo="https://hopefy.fanantenanahoanao.org/static/uploads/album_art.1718582233.png" group-title="Madagascar",Hopefy Radio MG
+https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3
+# 72FM: https://72fm.com/station/5616ee52-e903-4913-8fe4-60fe35190e99
+#EXTINF:-1 group-title="Madagascar",Radio Rock Madagascar
+https://tanjona.radioca.st/stream
+# 72FM: https://72fm.com/station/7c0a647e-eda5-4eab-8bd7-e91ad62d6fab
+#EXTINF:-1 group-title="Madagascar",Top Radio 102.8
+https://listen.radioking.com/radio/309053/stream/356036
+# 72FM: https://72fm.com/station/fdd518db-f5ac-408b-a262-5e41155f6c8d
+#EXTINF:-1 tvg-logo="https://onair.rdb.mg/logo.webp" group-title="Madagascar",Radio Don Bosco Madagascar
+http://onair15.xdevel.com:9248/;stream.mp3
+# 72FM: https://72fm.com/station/b5fe26d1-ef12-4a65-8761-80f7678693da
+#EXTINF:-1 tvg-logo="https://www.esdesmada.com/wp-content/uploads/2024/11/esdes-logo-80x80-1.png" group-title="Madagascar",ESDES Radio
+https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3
+# 72FM: https://72fm.com/station/e96fb826-5e77-4845-aedb-9b17c8e9c520
+#EXTINF:-1 group-title="Madagascar",Radio Vazo Gasy
+https://stream.radiovazogasy.com/stream?1.mp3
+# 72FM: https://72fm.com/station/15c1f776-8895-49bf-a2e1-8705374448c9
+#EXTINF:-1 group-title="Madagascar",Radio Oasis
+https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3
+# 72FM: https://72fm.com/station/995b5039-49b4-42e5-9512-f2774f184030
+#EXTINF:-1 group-title="Madagascar",Radio HIFI
+https://listen.radioking.com/radio/52108/stream/89122
+# 72FM: https://72fm.com/station/0060ae50-b810-4245-9a93-5365a03e0e0b
+#EXTINF:-1 tvg-logo="https://flm-rff.org/logo.png" group-title="Madagascar",Radio Feon'ny Filazantsara
+https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1

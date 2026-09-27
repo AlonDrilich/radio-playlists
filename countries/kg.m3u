@@ -1,0 +1,24 @@
+#EXTM3U
+# Radio stations in Kyrgyzstan
+# Source: Radio Browser (https://www.radio-browser.info), public domain data.
+# Streams belong to their stations; 72FM does not own, operate or curate them.
+# Listen in the browser: https://72fm.com
+
+# 72FM: https://72fm.com/station/4fea1367-c881-4e25-b50b-64591ba7b1b8
+#EXTINF:-1 tvg-logo="https://coldstar.online/static/assets/android-chrome-512x512.png" group-title="Kyrgyzstan",ColdStar.Online Radio (Low quality)
+https://ice.coldstar.online/low.mp3
+# 72FM: https://72fm.com/station/01d60203-d360-4695-9496-97ee1300aead
+#EXTINF:-1 tvg-logo="https://obondoru.kg/wp-content/uploads/2022/08/cropped-logo_png-600-180x180.png" group-title="Kyrgyzstan",Кыргызстан Обондору (Kyrgyzstan Obondoru)
+https://cdn.radioplayer.kg:8443/obondoru64
+# 72FM: https://72fm.com/station/7576f174-f13e-434d-8a91-9537cd8df0b7
+#EXTINF:-1 group-title="Kyrgyzstan",Радио Тумар FM (Radio Tumar FM)
+https://radio.tumar.fm:8005/stream
+# 72FM: https://72fm.com/station/43f5812f-3431-4e82-b58f-ddd17d83a9b8
+#EXTINF:-1 group-title="Kyrgyzstan",Биринчи Radio
+https://liveradio.utrk.kg/1radio
+# 72FM: https://72fm.com/station/f73925ef-f89f-4959-a924-0b0f37e74e12
+#EXTINF:-1 group-title="Kyrgyzstan",Сүйүнчү FM (Suiunchu FM)
+https://cdn.radioplayer.kg:8443/suiunchu64
+# 72FM: https://72fm.com/station/33ecd479-837a-4e5b-bf3a-1d9d00f53e0d
+#EXTINF:-1 tvg-logo="https://coldstar.online/static/assets/android-chrome-512x512.png" group-title="Kyrgyzstan",ColdStar.Online Radio (High quality)
+https://ice.coldstar.online/high.ogg

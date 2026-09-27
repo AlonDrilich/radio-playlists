@@ -1,0 +1,27 @@
+#EXTM3U
+# Radio stations in New Caledonia
+# Source: Radio Browser (https://www.radio-browser.info), public domain data.
+# Streams belong to their stations; 72FM does not own, operate or curate them.
+# Listen in the browser: https://72fm.com
+
+# 72FM: https://72fm.com/station/3deff1ed-3854-11e9-9b4e-52543be04c81
+#EXTINF:-1 group-title="New Caledonia",Nouvelle-Calédonie La Première
+https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
+# 72FM: https://72fm.com/station/ebbe37af-0799-11e9-a80b-52543be04c81
+#EXTINF:-1 group-title="New Caledonia",Radio Djiido
+http://radiodjiido.nc:8002/
+# 72FM: https://72fm.com/station/ab9697c4-f1cf-48bc-b4d8-4d15ad5618fa
+#EXTINF:-1 group-title="New Caledonia",NIA Radio Lo-Fi
+https://radio.nia.nc/radio/8020/lofi-hq-stream.aac
+# 72FM: https://72fm.com/station/c5b94fa4-8b6d-4aa6-b0cc-5689098a8845
+#EXTINF:-1 tvg-logo="https://nia.nc/static/icons/apple-touch-icon.png" group-title="New Caledonia",NIA Radio - Pacifique
+https://radio.nia.nc/radio/8000/pacific-hq-stream.aac
+# 72FM: https://72fm.com/station/1cc1a872-5afa-4528-9a5a-7ec465472d4b
+#EXTINF:-1 tvg-logo="https://www.rrb.nc/favicon.ico" group-title="New Caledonia",Radio Rythme Bleu
+https://webradio.lagoon.nc/rrb
+# 72FM: https://72fm.com/station/2b5a1e88-5f42-406c-9894-95f33534f05b
+#EXTINF:-1 tvg-logo="https://nia.nc/static/icons/apple-touch-icon.png" group-title="New Caledonia",NIA Lo-Fi
+https://radio.nia.nc/radio/8020/lofi-hq-stream.aac?1734100301
+# 72FM: https://72fm.com/station/cfb12052-0fb9-4620-befe-d54349f49637
+#EXTINF:-1 tvg-logo="https://nia.nc/static/icons/apple-touch-icon.png" group-title="New Caledonia",NIA Pacifique
+https://radio.nia.nc/radio/8000/pacific-hq-stream.aac?1734100041

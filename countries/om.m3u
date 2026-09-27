@@ -1,0 +1,24 @@
+#EXTM3U
+# Radio stations in Oman
+# Source: Radio Browser (https://www.radio-browser.info), public domain data.
+# Streams belong to their stations; 72FM does not own, operate or curate them.
+# Listen in the browser: https://72fm.com
+
+# 72FM: https://72fm.com/station/2cc238bc-2466-4e27-a5ad-af7e02991220
+#EXTINF:-1 group-title="Oman",Quran Program Oman إذاعة-القرآن-الكريم
+https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
+# 72FM: https://72fm.com/station/26eb1c40-f314-4976-8969-a70d1fcce1fc
+#EXTINF:-1 group-title="Oman",Hala FM
+https://listen-halafm.sharp-stream.com/halafmlow.mp3
+# 72FM: https://72fm.com/station/ef2cb53f-3f77-482c-942b-a2826cb324af
+#EXTINF:-1 group-title="Oman",Al Wisal
+http://uk7.internet-radio.com:8067/;
+# 72FM: https://72fm.com/station/df11c6f9-6671-11e9-af37-52543be04c81
+#EXTINF:-1 group-title="Oman",Merge
+http://uk7.internet-radio.com:8040/
+# 72FM: https://72fm.com/station/a4cc08fb-cfad-41a4-9672-9a710542f612
+#EXTINF:-1 tvg-logo="https://ayn.om/images/fav.ico?v=112" group-title="Oman",90.4 FM الإذاعة-الإنجليزية
+https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
+# 72FM: https://72fm.com/station/fbb15f71-f6d6-4615-9230-fb9e0f0e684b
+#EXTINF:-1 group-title="Oman",Virgin Radio (Oman)
+http://uk5.internet-radio.com:8115/stream

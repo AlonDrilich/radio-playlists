@@ -1,0 +1,30 @@
+#EXTM3U
+# Radio stations in Aruba
+# Source: Radio Browser (https://www.radio-browser.info), public domain data.
+# Streams belong to their stations; 72FM does not own, operate or curate them.
+# Listen in the browser: https://72fm.com
+
+# 72FM: https://72fm.com/station/962a0a81-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Aruba",Magic 96.5 - Oranjestad
+http://158.69.114.190:8072/;
+# 72FM: https://72fm.com/station/3246de9b-bcfe-4bfd-b091-8982d456027d
+#EXTINF:-1 tvg-logo="https://canal90fm.aw/favicon.ico" group-title="Aruba",Canal90 FM
+https://stream.canal90.fm/live
+# 72FM: https://72fm.com/station/8b3905b1-3cfd-483b-a162-2c854c5cb615
+#EXTINF:-1 group-title="Aruba",yhju
+http://52.0.120.216:8000/stream/4/
+# 72FM: https://72fm.com/station/3e89e76c-888d-44d5-92ce-ac2307ef7a22
+#EXTINF:-1 tvg-logo="https://webradiodirectory.com/wp-content/uploads/2021/01/5b5c664d518942fc7bdfdff0ed74de52.jpg" group-title="Aruba",Fresh FM 1043
+http://www.coolaruba.com:8006/stream/;
+# 72FM: https://72fm.com/station/ff9a5046-1a1a-4b7b-878c-6e6d16a5d0b5
+#EXTINF:-1 tvg-logo="https://boguiafm.com/bo%20guia%20trans.png" group-title="Aruba",Bo Guia 88.9 FM
+http://whooshserver.net:9880/live
+# 72FM: https://72fm.com/station/89d4d9b5-3fb7-451a-86ec-f767fe85973f
+#EXTINF:-1 group-title="Aruba",Massive Arub
+http://surilive.com:8350/
+# 72FM: https://72fm.com/station/41b48ea3-9d7f-434c-998f-4fab1424f36f
+#EXTINF:-1 tvg-logo="https://masfmaruba.com/wp-content/uploads/2026/05/cropped-masfm-logo.png" group-title="Aruba",MasFM 105.1
+https://c13.radioboss.fm:8647/live?type=.mp3
+# 72FM: https://72fm.com/station/a8179336-6750-49d5-a1ac-04674ac0c1f6
+#EXTINF:-1 group-title="Aruba",Massive Aruba
+https://surilive.com:8350/

@@ -1,0 +1,27 @@
+#EXTM3U
+# Radio stations in Isle of Man
+# Source: Radio Browser (https://www.radio-browser.info), public domain data.
+# Streams belong to their stations; 72FM does not own, operate or curate them.
+# Listen in the browser: https://72fm.com
+
+# 72FM: https://72fm.com/station/9647b07f-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Isle of Man",Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)
+http://stream.laut.fm/alive
+# 72FM: https://72fm.com/station/a1b1993f-49b1-11e8-b1b0-52543be04c81
+#EXTINF:-1 tvg-logo="https://platform.aiircdn.com/sitelogos/147-T9L9fKDrZLR6Boqmmu5h.png" group-title="Isle of Man",Manx Radio FM
+http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac
+# 72FM: https://72fm.com/station/0b3b3d2e-da13-43ca-9063-880174892737
+#EXTINF:-1 tvg-logo="https://www.energyfm.net/images2015/logo.png" group-title="Isle of Man",EnergyFM
+https://ukwesta.streaming.broadcast.radio/energyfm
+# 72FM: https://72fm.com/station/1cd0cfad-6dcf-4491-b9ec-d695ae763926
+#EXTINF:-1 group-title="Isle of Man",Isle of Man Free Radio
+https://play.radioking.io/ian-byrne
+# 72FM: https://72fm.com/station/bdbe7b6d-2d2b-41a8-ac38-bccf76aab9d8
+#EXTINF:-1 tvg-logo="https://www.energyfm.net/images2015/logo.png" group-title="Isle of Man",Energy FM (Isle Of Man)
+http://ukwesta.streaming.broadcast.radio:15580/energyfm
+# 72FM: https://72fm.com/station/fd3cd8c1-d551-46da-8b09-e02060028ea8
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/5/654dfce44e0a2.png" group-title="Isle of Man",3FM (128Kbps MP3)
+https://n07a-eu.rcs.revma.com/0kv9v43t87zuv
+# 72FM: https://72fm.com/station/1167f32f-686b-470e-b97b-88f3057eb4dc
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/5/654dfce44e0a2.png" group-title="Isle of Man",3FM (48Kbps AAC+)
+https://n07a-eu.rcs.revma.com/s1q7dc4c0znwv

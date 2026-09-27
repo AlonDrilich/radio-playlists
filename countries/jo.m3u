@@ -1,0 +1,48 @@
+#EXTM3U
+# Radio stations in Jordan
+# Source: Radio Browser (https://www.radio-browser.info), public domain data.
+# Streams belong to their stations; 72FM does not own, operate or curate them.
+# Listen in the browser: https://72fm.com
+
+# 72FM: https://72fm.com/station/86d361d0-1f51-4f99-a6a7-cc4d5821ad02
+#EXTINF:-1 group-title="Jordan",Jordan Melody FM
+http://s3.voscast.com:9966/
+# 72FM: https://72fm.com/station/bed29a95-e782-44ce-ac83-1b176670053e
+#EXTINF:-1 tvg-logo="https://melody-fm.com/favicon.ico" group-title="Jordan",Melody Jordan Radio
+http://s3.voscast.com:9966/;stream1686938227998
+# 72FM: https://72fm.com/station/abf4447e-6da7-47d3-9b67-e051e3c76652
+#EXTINF:-1 group-title="Jordan",noursat jordan
+http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+# 72FM: https://72fm.com/station/41c8a217-ef9d-4f8f-83ab-8b8d730a1209
+#EXTINF:-1 group-title="Jordan",Jordan Radio (Main)
+https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8
+# 72FM: https://72fm.com/station/d04217b3-11be-4f7e-b6d7-8e238ca27efa
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/43386.v10.png" group-title="Jordan",Mazaj FM
+https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3
+# 72FM: https://72fm.com/station/f11a1158-1ee0-4772-bcb0-110522be1e18
+#EXTINF:-1 group-title="Jordan",Hayat FM
+https://dc1.serverse.com/proxy/kjxwtpdt/stream
+# 72FM: https://72fm.com/station/a0bac84d-1fc3-453e-866c-5a4a864193d9
+#EXTINF:-1 group-title="Jordan",Alnas FM
+http://stream.zeno.fm/yawenmfp64zuv
+# 72FM: https://72fm.com/station/3a2a6c82-76ff-4be6-8628-825d7a0f3296
+#EXTINF:-1 group-title="Jordan",Beat FM
+https://securestreams2.autopo.st:1242/live
+# 72FM: https://72fm.com/station/42f0f2b1-a1fc-4252-9e94-5a5e6c467c2d
+#EXTINF:-1 group-title="Jordan",Radio Dahab
+https://dahab.ice.infomaniak.ch/dahab-192.mp3
+# 72FM: https://72fm.com/station/b5f9df76-4119-4ca2-b778-0ac128c9442c
+#EXTINF:-1 group-title="Jordan",JRRadio
+https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8
+# 72FM: https://72fm.com/station/416484fb-1a73-4bf6-afdf-512859341ffa
+#EXTINF:-1 group-title="Jordan",Mood FM
+https://securestreams2.autopo.st:1241/live
+# 72FM: https://72fm.com/station/06e1ce15-a839-4bd6-9d77-6c4c32eb75cc
+#EXTINF:-1 tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/7/Mv/3/Thumbnail.png" group-title="Jordan",Quran Radio (JO)
+https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8
+# 72FM: https://72fm.com/station/e646da7b-41c6-4ecf-8af1-5634a358683c
+#EXTINF:-1 group-title="Jordan",Ain FM
+https://radio.ainfm.site/ainfm
+# 72FM: https://72fm.com/station/bd561679-5317-4a66-8393-c6f06970792d
+#EXTINF:-1 group-title="Jordan",Yarmouk University FM
+https://yufm.yu.edu.jo/broadwave.mp3
