@@ -711,6 +711,12 @@ other players that read M3U, and are easy to parse on an ESP32 or Raspberry Pi r
 
 Listen in the browser, no install: **https://72fm.com**
 
+## Related tools
+
+- [internet-radio-mcp](https://github.com/AlonDrilich/internet-radio-mcp): lets Claude, Cursor and other AI assistants search the same directory and return stream URLs.
+- [radio-player-72fm](https://github.com/AlonDrilich/radio-player-72fm): a WordPress plugin that puts a station's player on any post or page.
+- [72FM radio widget](https://72fm.com/radio-widget): copy-and-paste player for any website. All tools: [72fm.com/developers](https://72fm.com/developers).
+
 ## Where the data comes from
 
 Every entry comes from [Radio Browser](https://www.radio-browser.info), a

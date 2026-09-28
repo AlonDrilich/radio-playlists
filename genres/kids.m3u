@@ -97,12 +97,12 @@ https://stream.zeno.fm/d6v0xkba04zuv
 # 72FM: https://72fm.com/station/72e15a70-d929-11e9-a861-52543be04c81
 #EXTINF:-1 group-title="Kids",Pigy.cz – Disko Trysko
 http://ice.actve.net/web-pg-disko
-# 72FM: https://72fm.com/station/961f16d1-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Kids",Allzic Radio Comptines
-http://allzic05.ice.infomaniak.ch/allzic05.mp3
 # 72FM: https://72fm.com/station/9612e256-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Kids",Efteling Kids Radio
 http://29093.live.streamtheworld.com:3690/TLPSTR07_SC
+# 72FM: https://72fm.com/station/961f16d1-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Kids",Allzic Radio Comptines
+http://allzic05.ice.infomaniak.ch/allzic05.mp3
 # 72FM: https://72fm.com/station/abed049c-9c63-4b11-bdf1-07495564f2a6
 #EXTINF:-1 group-title="Kids",大连音乐广播
 http://lhttp.qingting.fm/live/1084/64k.mp3
@@ -310,12 +310,12 @@ http://abm21.com.au:8000/CONTAINER21
 # 72FM: https://72fm.com/station/1909ab8f-6928-4cf5-93cb-1fc8f24ed8fc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWRgzTn/125298576-3944741562313700-3896665899795207404-n.jpg" group-title="Kids",Tank FM - Kempsey - 103.1 FM (AAC)
 http://playerservices.streamtheworld.com/api/livestream-redirect/2WETAAC.aac
-# 72FM: https://72fm.com/station/5e65228f-289c-4b45-adee-f64164f3975d
-#EXTINF:-1 group-title="Kids",KDFC Glissando
-https://19273.live.streamtheworld.com/CC9_S01AAC_96_SC
 # 72FM: https://72fm.com/station/97e10857-78a3-4f10-a256-117ee57a957f
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_85&fit_cover&s_288x288/https://images.zeno.fm/LptBR19kqyZBq1dQgNEG6jxnwpkGY51-OnG2c_j1viI/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRElsT3pWbkFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJREl0T3pvbWdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTEwOTA3MzAwMA.webp" group-title="Kids",Panda NG
 https://stream.zeno.fm/61ux2pwbuuhvv
+# 72FM: https://72fm.com/station/5e65228f-289c-4b45-adee-f64164f3975d
+#EXTINF:-1 group-title="Kids",KDFC Glissando
+https://19273.live.streamtheworld.com/CC9_S01AAC_96_SC
 # 72FM: https://72fm.com/station/bcad41c0-53cc-4935-86a8-6cb23f5b1139
 #EXTINF:-1 group-title="Kids",Radio Taddy - Classics
 http://streamtdy.ir-media-tec.com/teddyclassics/mp3-128/web/play.mp3
@@ -364,9 +364,6 @@ http://icecast.vrtcdn.be/ketnetradio-high.mp3
 # 72FM: https://72fm.com/station/85b06d10-6007-4891-af95-51e00448e0af
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-stars.png" group-title="Kids",Radios 100FM - 100% Stars (ערוץ הכוכבים)
 https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio
-# 72FM: https://72fm.com/station/b58113e5-4f1a-4250-9302-20c097c3fbf2
-#EXTINF:-1 tvg-logo="https://www.radio-of-magic.com/wp-content/uploads/2021/05/favicon-512x512-1.png" group-title="Kids",Radio of Magic
-https://listen.radioking.com/radio/418372/stream/471466
 # 72FM: https://72fm.com/station/236f5c02-ac75-4f0f-b4f7-86dcad159765
 #EXTINF:-1 tvg-logo="https://lyssna.bananradion.se/static/uploads/bananradion/background.1740701637.png" group-title="Kids",BANANRADION
 https://lyssna.bananradion.se/listen/bananradion/128aac
@@ -376,15 +373,18 @@ https://laradio.souslacerise.fr/radio.m3u8
 # 72FM: https://72fm.com/station/d80487bf-1363-45a9-a392-3fee93978e52
 #EXTINF:-1 tvg-logo="https://www.radioexpert.net/radio-logo/romania/radio-asp-561-arge%C8%99-romania-320.jpg" group-title="Kids",Radio ASP (Asociatia Paraschiva Arges) - Retevoiești
 https://ssl.omegahost.ro/8096/stream
+# 72FM: https://72fm.com/station/b58113e5-4f1a-4250-9302-20c097c3fbf2
+#EXTINF:-1 tvg-logo="https://www.radio-of-magic.com/wp-content/uploads/2021/05/favicon-512x512-1.png" group-title="Kids",Radio of Magic
+https://listen.radioking.com/radio/418372/stream/471466
 # 72FM: https://72fm.com/station/76753ed0-a0e0-4814-9b22-ac9ad1ea0691
 #EXTINF:-1 tvg-logo="https://img.apmcdn.org/6548c88dc7ec73f1a1e7e96f1edf785d733c03c8/square/a6ec63-20210827-yourclassical-children-400.jpg" group-title="Kids",YourClassical Children
 https://classicalkids.stream.publicradio.org/classicalkids.aac
-# 72FM: https://72fm.com/station/3fefef81-0b20-4193-9dc7-c5839f5391eb
-#EXTINF:-1 tvg-logo="https://moygid.online/icon-512.png" group-title="Kids",МОЙГИДтв — аудиоэкскурсии (moygid.online)
-https://moygid.online/radio.mp3
 # 72FM: https://72fm.com/station/61f46b7e-4d05-4a43-b410-0d14598a0e05
 #EXTINF:-1 tvg-logo="https://www.mdr.de/tweens/logo_start_mdr_tweens-102-resimage_v-variantSmall1x1_w-512.png" group-title="Kids",MDR TWEENS
 https://radio-hls.mdr.de/hls/live/2112913/mdr-991101-0-hls/index.m3u8
+# 72FM: https://72fm.com/station/3fefef81-0b20-4193-9dc7-c5839f5391eb
+#EXTINF:-1 tvg-logo="https://moygid.online/icon-512.png" group-title="Kids",МОЙГИДтв — аудиоэкскурсии (moygid.online)
+https://moygid.online/radio.mp3
 # 72FM: https://72fm.com/station/66960427-d390-44ac-880b-17cc4fe9b4a4
 #EXTINF:-1 group-title="Kids",95 alive little lizzards
 http://95alive.net:8020/radio.mp3
@@ -403,12 +403,15 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/2WET.mp3
 # 72FM: https://72fm.com/station/4d0cef7e-cdb6-4143-9318-50d5205904aa
 #EXTINF:-1 group-title="Kids",Detské rádio
 http://stream.21.sk/detskeradio-128.mp3
-# 72FM: https://72fm.com/station/e6a941a9-f5b8-4648-8512-fb150ceabc02
-#EXTINF:-1 tvg-logo="https://workloom.de/media/radio/logo512.png" group-title="Kids",Naturmacher Radio
-https://workloom.de/radio/live.mp3
 # 72FM: https://72fm.com/station/bf14c444-be60-47a5-8f33-cb5493e117c3
 #EXTINF:-1 group-title="Kids",sonorizados kids
 https://kids.sonorizados.com/
+# 72FM: https://72fm.com/station/e6a941a9-f5b8-4648-8512-fb150ceabc02
+#EXTINF:-1 tvg-logo="https://workloom.de/media/radio/logo512.png" group-title="Kids",Naturmacher Radio
+https://workloom.de/radio/live.mp3
+# 72FM: https://72fm.com/station/77946df6-542a-4328-8308-af416d55b0a6
+#EXTINF:-1 tvg-logo="https://akoustakalytera.gr/polis911/wp-content/uploads/2017/01/polis-logo-pedika.webp" group-title="Kids",Polis 91.1 HeyKids Παιδικά
+https://s2.e-resellers.gr/proxy/poliskids/stream/;
 # 72FM: https://72fm.com/station/b35393aa-5f8e-429f-8df2-f7e14cc23ef1
 #EXTINF:-1 group-title="Kids",Babyradio España
 https://18213.live.streamtheworld.com:443/SAM04AAC34_SC
@@ -421,9 +424,6 @@ https://hls-01-gpm.hostingradio.ru/detifm495/128/playlist.m3u8
 # 72FM: https://72fm.com/station/73c83d14-715a-47e3-bbc1-7354a8955339
 #EXTINF:-1 group-title="Kids",Efteling Kids Radio (nieuw)
 https://media.hostin.live/audio/efteling.mp3?source=eftelingcom
-# 72FM: https://72fm.com/station/77946df6-542a-4328-8308-af416d55b0a6
-#EXTINF:-1 tvg-logo="https://akoustakalytera.gr/polis911/wp-content/uploads/2017/01/polis-logo-pedika.webp" group-title="Kids",Polis 91.1 HeyKids Παιδικά
-https://s2.e-resellers.gr/proxy/poliskids/stream/;
 # 72FM: https://72fm.com/station/0300ba77-b93b-478f-bc59-775a2ca34125
 #EXTINF:-1 group-title="Kids",Radio Henri Dès
 http://29327.live.streamtheworld.com/SP_R2329710.mp3

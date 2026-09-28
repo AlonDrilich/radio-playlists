@@ -349,12 +349,12 @@ http://s02.fjperezdj.com:8050/live
 # 72FM: https://72fm.com/station/14f40244-e7a6-40bb-8bd9-4c05bdd4278c
 #EXTINF:-1 tvg-logo="https://myradioonline.es/public/uploads/radio_img/radio-espana/fb_cover.jpg" group-title="Spain",Radio España - Directo
 http://stream-281.surfernetwork.com/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkdCYU0xSHhyU01lOXVMT3k4YlFHOXciLCJpYXQiOjE3OTA0MDM1NTAsImV4cCI6MTc5MDQwMzYxMH0.5kPNJ8owRDJkMY6HZuH9nNO69qqtEsA_ykor8Cbl8wg
-# 72FM: https://72fm.com/station/8cb4d1a5-523d-11ea-be63-52543be04c81
-#EXTINF:-1 tvg-logo="https://statics.ccma.cat/img/favicons/catmusica-favicon-96x96.png" group-title="Spain",Catalunya Música (CatMúsica)
-https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3
 # 72FM: https://72fm.com/station/75e2bc36-e044-471b-8db9-cd3201d6e9a2
 #EXTINF:-1 group-title="Spain",LOCA FM Trance
 http://s02.fjperezdj.com:8055/live
+# 72FM: https://72fm.com/station/8cb4d1a5-523d-11ea-be63-52543be04c81
+#EXTINF:-1 tvg-logo="https://statics.ccma.cat/img/favicons/catmusica-favicon-96x96.png" group-title="Spain",Catalunya Música (CatMúsica)
+https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3
 # 72FM: https://72fm.com/station/9613cc24-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Spain",IB3 Ràdio Menorca
 http://streaming01.ib3radio.com:8000/ib3radio_menorca
@@ -409,6 +409,9 @@ http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3
 # 72FM: https://72fm.com/station/e6a491f1-0b8b-47d3-85eb-f753bfc5e20c
 #EXTINF:-1 group-title="Spain",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
+# 72FM: https://72fm.com/station/44fefd48-3aae-4c64-bef7-261cae0da4cd
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s269847/images/logod.jpg" group-title="Spain",Graba Radio Ibiza
+https://radio.grabamusic.com/gmr-hd
 # 72FM: https://72fm.com/station/aec73334-6cc6-418b-8e3c-8acdb661f17c
 #EXTINF:-1 group-title="Spain",Ibiza Radios Deep House
 http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj
@@ -421,9 +424,6 @@ http://s02.fjperezdj.com:8026/live
 # 72FM: https://72fm.com/station/a2f2b549-d7ab-4aa7-a138-8ba37a62b343
 #EXTINF:-1 group-title="Spain",Adagio Radio HD
 https://stream.tunerplay.com/radio/8010/adagioradioHD.mp3
-# 72FM: https://72fm.com/station/44fefd48-3aae-4c64-bef7-261cae0da4cd
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s269847/images/logod.jpg" group-title="Spain",Graba Radio Ibiza
-https://radio.grabamusic.com/gmr-hd
 # 72FM: https://72fm.com/station/514b6fdc-69c3-4c92-bffe-78bd60de3f73
 #EXTINF:-1 group-title="Spain",Radio Moscatel 107.1 FM Axarquía - España
 https://axarquia.emisiononline.es/radio/8040/radio.mp3
@@ -541,12 +541,12 @@ https://a2.asurahosting.com:8800/radio.mp3
 # 72FM: https://72fm.com/station/29fd4b10-6bb3-4b11-b253-99267696f531
 #EXTINF:-1 group-title="Spain",FORMULA 10 MUSICA
 https://formula10musica.stream.laut.fm/formula10musica
-# 72FM: https://72fm.com/station/72eec378-2827-4f5c-a55f-5c5ebe73a494
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="Spain",Free FM
-https://rocafmadrid.radioca.st/
 # 72FM: https://72fm.com/station/7c9d25ce-b80f-4567-bcbe-c81229137e13
 #EXTINF:-1 group-title="Spain",Corazón FM 89.2
 https://stream2.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3
+# 72FM: https://72fm.com/station/72eec378-2827-4f5c-a55f-5c5ebe73a494
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="Spain",Free FM
+https://rocafmadrid.radioca.st/
 # 72FM: https://72fm.com/station/04d1ade1-d14d-4d85-9378-9c8fcd89e30f
 #EXTINF:-1 group-title="Spain",Pepe Radio
 http://server10.emitironline.com:8032/
@@ -640,12 +640,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA
 # 72FM: https://72fm.com/station/305ac0db-8957-43c4-9cdb-6bc2e235ab77
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/425740/69b141b69904df121b64c02f16655639.png" group-title="Spain",Vuelve el Remember
 https://cast1.asurahosting.com/proxy/javier1/stream
-# 72FM: https://72fm.com/station/97bda9d8-c4c7-4ca7-b10e-113db6f29667
-#EXTINF:-1 group-title="Spain",esRadio
-http://server9.emitironline.com:8822/radio
 # 72FM: https://72fm.com/station/846abb9e-0ff4-4482-8dc8-9ed22653e51d
 #EXTINF:-1 group-title="Spain",FeLove Biblia en Español
 http://radio.produccionescasaverde.com:8696/autodj
+# 72FM: https://72fm.com/station/97bda9d8-c4c7-4ca7-b10e-113db6f29667
+#EXTINF:-1 group-title="Spain",esRadio
+http://server9.emitironline.com:8822/radio
 # 72FM: https://72fm.com/station/b4f84998-e0cb-4b4f-8eb3-4ce2f86c3cb4
 #EXTINF:-1 group-title="Spain",VENEZUELA STEREO
 https://mediastreamm.com/8244/stream
@@ -658,15 +658,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp
 # 72FM: https://72fm.com/station/328563aa-8f11-472b-a191-e684bfe3afec
 #EXTINF:-1 tvg-logo="https://mytuner-radio.com/favicon.ico" group-title="Spain",80s 90s Absolute Hits
 https://live.streamthe.world/absolutehits
-# 72FM: https://72fm.com/station/5fc62f93-56f8-4df8-92b2-0bf285df6996
-#EXTINF:-1 group-title="Spain",Radio Voz (A Coruña)
-https://live.radiovoz.es/mp3/stream_coruna.mp3
-# 72FM: https://72fm.com/station/b0ece413-19a6-4065-a702-410ca90ba078
-#EXTINF:-1 group-title="Spain",Makina Fm
-https://stream-157.zeno.fm/roqewn7dp4gtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyb3Fld243ZHA0Z3R2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsImp0aSI6IkI0SXZuWFRBU21LVWRvWUZqSGstcUEiLCJpYXQiOjE3MTU0NzA1NzUsImV4cCI6MTcxNTQ3MDYzNX0.1HVDh84CZBnlRWWluiPLbGWAXEHbpedQw55Kv8AZZYg&zttl=5
 # 72FM: https://72fm.com/station/01adaafa-0ad7-4813-9427-add061d78b91
 #EXTINF:-1 tvg-logo="https://www.100porcientosalsa.com/wp-content/uploads/2024/08/LOGOBALANCE.png" group-title="Spain",100 % SALSA
 https://stm01.streammaximum.com:8194/;
+# 72FM: https://72fm.com/station/b0ece413-19a6-4065-a702-410ca90ba078
+#EXTINF:-1 group-title="Spain",Makina Fm
+https://stream-157.zeno.fm/roqewn7dp4gtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyb3Fld243ZHA0Z3R2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsImp0aSI6IkI0SXZuWFRBU21LVWRvWUZqSGstcUEiLCJpYXQiOjE3MTU0NzA1NzUsImV4cCI6MTcxNTQ3MDYzNX0.1HVDh84CZBnlRWWluiPLbGWAXEHbpedQw55Kv8AZZYg&zttl=5
+# 72FM: https://72fm.com/station/5fc62f93-56f8-4df8-92b2-0bf285df6996
+#EXTINF:-1 group-title="Spain",Radio Voz (A Coruña)
+https://live.radiovoz.es/mp3/stream_coruna.mp3
 # 72FM: https://72fm.com/station/03ca007a-cc8d-4b31-93cf-28a6a10f922f
 #EXTINF:-1 group-title="Spain",Kiss FM
 https://frontend.streamonkey.net/fhn-gong971/stream/mp3
@@ -697,12 +697,12 @@ http://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3
 # 72FM: https://72fm.com/station/3fde87a6-b6f8-4a6d-bc3a-6664d5f5ab13
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibV9pYnEabVR6GlnZKa4FUlFCM1Pt9ak26YCKncCohqDgq8_9gl_71ELh1ccHa5ChALsP2WLkprYZzKusvxROrASELi4UaEjhs6JZe-i9BlVWF9KR841zc3QR5SMkSzgOZ5FtmBeSiq7pZeGK-pfnkv1SAEeAIEoidYxUM9R3jt7M4U8ZbRQiWjQOQmrE/s176/channels4_profile.jpg" group-title="Spain",Remember Vip Techno
 https://stream-153.zeno.fm/xilwjn4t17qvv
-# 72FM: https://72fm.com/station/3e40eb83-289f-11ea-aa0c-52543be04c81
-#EXTINF:-1 group-title="Spain",Spectrum FM Costa Almeria
-https://eu8.fastcast4u.com/proxy/almeria2?mp=/1
 # 72FM: https://72fm.com/station/2b20d878-34f6-449e-a592-7c6b370d8989
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt0mmZmn/logo.png" group-title="Spain",Play Trance Radio Uplifting Only Channel (High Quality)
 https://streaming.playtrance.com/playtrance-uplifting-high
+# 72FM: https://72fm.com/station/3e40eb83-289f-11ea-aa0c-52543be04c81
+#EXTINF:-1 group-title="Spain",Spectrum FM Costa Almeria
+https://eu8.fastcast4u.com/proxy/almeria2?mp=/1
 # 72FM: https://72fm.com/station/9cd294c5-180a-45c4-bf87-d80e77960d78
 #EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Spain",Smooth Jazz Classics by Cloud Jazz
 https://stream-57.zeno.fm/w3phtkukfg8uv?zs=90IfdbcARnS99_b8RaX9sQ&acu-uid=736851429618&dyn-uid=&an-uid=0&mm-uid=a42b63d5-b9eb-4f00-9692-60c79195c3a4&triton-uid=cookie%3A7e5c2d9b-9c30-46f6-b8b4-0354fd4dd340&amb-uid=3916839388731891724

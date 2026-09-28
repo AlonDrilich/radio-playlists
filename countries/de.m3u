@@ -262,12 +262,12 @@ http://stream.bmr-radio.de/
 # 72FM: https://72fm.com/station/33de8eca-ae96-41fd-96e9-d3d3b7d00f39
 #EXTINF:-1 group-title="Germany",80s80s Funk & Soul
 http://streams.80s80s.de/soul/mp3-192/streams.80s80s.de/
-# 72FM: https://72fm.com/station/483a2e55-2047-11e8-a334-52543be04c81
-#EXTINF:-1 group-title="Germany",bigFM Deutsch Rap
-http://streams.bigfm.de/bigfm-deutschrap-128-aac
 # 72FM: https://72fm.com/station/960b6a9d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="Germany",WDR 2 Rhein und Ruhr
 http://wdr-wdr2-rheinruhr.icecast.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/483a2e55-2047-11e8-a334-52543be04c81
+#EXTINF:-1 group-title="Germany",bigFM Deutsch Rap
+http://streams.bigfm.de/bigfm-deutschrap-128-aac
 # 72FM: https://72fm.com/station/830a7eff-916d-456c-842a-d7786e475658
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4R6kNj/Electrohouse-tl.jpg" group-title="Germany",Technolovers ELECTRO HOUSE
 https://stream.technolovers.fm/electro-house?ref=radiobrowser
@@ -418,12 +418,12 @@ http://sunsl.streamabc.net/sunsl-ibiza-mp3-192-7872628?sABC=5nr16r6p%230%23q4026
 # 72FM: https://72fm.com/station/9609b65b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany",Laut.fm Housebomb
 http://housebomb-fn.stream.laut.fm/housebomb-fn?t302=2018-02-10_16-10-52&uuid=bff87322-9a02-49f3-9ac6-a2c1457286dc
-# 72FM: https://72fm.com/station/0e1a47cb-f16d-4169-851a-5985c6133055
-#EXTINF:-1 tvg-logo="https://www.deutschlandfunknova.de/apple-touch-icon.png" group-title="Germany",Deutschlandfunk Nova | DLF | MP3 128k
-https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
 # 72FM: https://72fm.com/station/9606b0a2-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-MKgxIKQIAOY/AAAAAAAAAAI/AAAAAAAAAAA/Qmoj6SQ1QIE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg" group-title="Germany",MDR Sputnik
 http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
+# 72FM: https://72fm.com/station/0e1a47cb-f16d-4169-851a-5985c6133055
+#EXTINF:-1 tvg-logo="https://www.deutschlandfunknova.de/apple-touch-icon.png" group-title="Germany",Deutschlandfunk Nova | DLF | MP3 128k
+https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
 # 72FM: https://72fm.com/station/f00f65b1-f36a-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-electro_600x600.jpg" group-title="Germany",- 0 N - Electro on Radio
 https://0n-electro.radionetz.de/0n-electro.mp3
@@ -454,15 +454,15 @@ http://streams.80s80s.de/mj/mp3-192/streams.80s80s.de/
 # 72FM: https://72fm.com/station/f28460cb-9f0d-4602-9a46-be8c49975a16
 #EXTINF:-1 group-title="Germany",Beats Radio
 http://live.streams.klassikradio.de/beats-radio/stream/mp3
+# 72FM: https://72fm.com/station/206d7215-9d16-11e9-a787-52543be04c81
+#EXTINF:-1 group-title="Germany",Radio Paloma - Kultschlager
+http://pool.radiopaloma.de/RP-Kultschlager.mp3
 # 72FM: https://72fm.com/station/ee6043f7-124d-4f20-b020-c1a77ca8383e
 #EXTINF:-1 group-title="Germany",Technolovers EURODANCE
 https://stream.technolovers.fm/eurodance?ref=radiobrowser
 # 72FM: https://72fm.com/station/439124ae-486e-4088-a701-eeaf4b020081
 #EXTINF:-1 group-title="Germany",Deep House Sounds
 http://stream.laut.fm/deep-house-sounds
-# 72FM: https://72fm.com/station/206d7215-9d16-11e9-a787-52543be04c81
-#EXTINF:-1 group-title="Germany",Radio Paloma - Kultschlager
-http://pool.radiopaloma.de/RP-Kultschlager.mp3
 # 72FM: https://72fm.com/station/963b0409-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany",laut.fm Sound
 http://stream.laut.fm/sound
@@ -490,12 +490,12 @@ https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
 # 72FM: https://72fm.com/station/77bad355-947b-11e8-a767-52543be04c81
 #EXTINF:-1 group-title="Germany",Laut.FM Eurodance
 http://stream.laut.fm/eurodance
-# 72FM: https://72fm.com/station/961251f9-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="Germany",WDR 3 HQ
-http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
 # 72FM: https://72fm.com/station/edaa4ad7-bdf3-11e8-aaf2-52543be04c81
 #EXTINF:-1 tvg-logo="https://dnbradio.com/apple-touch-icon.png" group-title="Germany",DNBRadio Main channel 192k
 http://ildnb1.dnbradio.com:8000/dnbradio_main.mp3
+# 72FM: https://72fm.com/station/961251f9-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="Germany",WDR 3 HQ
+http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
 # 72FM: https://72fm.com/station/9618c802-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany",RADIO BOB! BOBs Punk
 http://streams.radiobob.de/bob-punk/mp3-192/streams.radiobob.de/
@@ -532,24 +532,24 @@ https://stream.rockantenne.de/hair-metal/stream/aacp
 # 72FM: https://72fm.com/station/9643c506-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany",FluxFM - Techno Underground
 http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=6no7srnn%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790443178
-# 72FM: https://72fm.com/station/aedd2edd-c8f1-4f75-9667-9d84cd6d690c
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/a3/107873/5/c175.png" group-title="Germany",Maretimo Lounge
-https://s35.derstream.net/lounge.mp3
 # 72FM: https://72fm.com/station/b591d01a-e72b-4030-a640-a8da10ed73f6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bdF482/REMIX-PARTYNBREAKS-LOGO-1.png" group-title="Germany",# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
 https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
+# 72FM: https://72fm.com/station/aedd2edd-c8f1-4f75-9667-9d84cd6d690c
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/08/a3/107873/5/c175.png" group-title="Germany",Maretimo Lounge
+https://s35.derstream.net/lounge.mp3
 # 72FM: https://72fm.com/station/4d3b3a98-816d-49ad-ba17-b69851e0ccb8
 #EXTINF:-1 tvg-logo="https://www.best-of-rock.fm/favicons/apple-touch-icon.png" group-title="Germany",Best Of Rock.FM Rammstein (mp3-256)
 https://bestofrockfm.stream.vip/rammstein/mp3-256
 # 72FM: https://72fm.com/station/5f729860-a726-4468-bf41-67986e60bdef
 #EXTINF:-1 group-title="Germany",Radio BOB Progressive Rock
 https://streams.radiobob.de/progrock/mp3-192/
-# 72FM: https://72fm.com/station/717e3749-b9e8-4497-bd6a-61ccec935922
-#EXTINF:-1 tvg-logo="https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png" group-title="Germany",Deutschlandfunk | DLF | AAC 192k
-https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
 # 72FM: https://72fm.com/station/96319257-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany",80s80s NDW
 http://streams.80s80s.de/ndw/mp3-192/streams.80s80s.de/
+# 72FM: https://72fm.com/station/717e3749-b9e8-4497-bd6a-61ccec935922
+#EXTINF:-1 tvg-logo="https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png" group-title="Germany",Deutschlandfunk | DLF | AAC 192k
+https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
 # 72FM: https://72fm.com/station/960f0a94-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany",Classic Rock Radio
 http://internetradio.salue.de:8000/classicrock.mp3
@@ -592,18 +592,18 @@ https://sex-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/962a1121-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany",Jam FM
 http://stream.jam.fm/jamfm-live/mp3-128/radio-browser.info/
-# 72FM: https://72fm.com/station/960df2cd-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Germany",Antenne Bayern - Lovesongs
-http://stream.antenne.de/lovesongs
 # 72FM: https://72fm.com/station/5143bb9a-3c5e-4c53-a6ec-0108435caf5a
 #EXTINF:-1 group-title="Germany",CHILLOUT PIANO by Epic Piano
 https://stream.epic-piano.com/chillout-piano?ref=radiobrowser
-# 72FM: https://72fm.com/station/960e4255-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png" group-title="Germany",NDR Blue
-http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/960df2cd-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Germany",Antenne Bayern - Lovesongs
+http://stream.antenne.de/lovesongs
 # 72FM: https://72fm.com/station/036b5a3c-5418-4c26-ba35-25995cb872a8
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="Germany",RBB Radio Eins
 http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3Js9Dhc8o65T3MvBpgXKw2IbHj9&token=Bcoky3-Hw8WSIGBk-Chtlr8u6iyP7HLd2IO_RLvg2RU&tvf=X-PgOD3-2BhmMTIxLnJuZGZuay5jb20
+# 72FM: https://72fm.com/station/960e4255-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png" group-title="Germany",NDR Blue
+http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/9620b9a8-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://101fm.de/wp-content/uploads/2020/02/cropped-512er-180x180.png" group-title="Germany",101FM - 80s
 http://stream.laut.fm/0-24_80er_pop_rock
@@ -778,15 +778,15 @@ https://deutschrap-charts-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/9649888d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.deutschlandradio.de/static/img/deutschlandradio/icons/apple-touch-icon-128x128.png" group-title="Germany",Deutschlandfunk Dokumente und Debatten | DLF | AAC 96k
 https://st04.sslstream.dlf.de/dlf/04/mid/aac/stream.aac?aggregator=web
+# 72FM: https://72fm.com/station/9606baf5-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Germany",MDR Sputnik Club
+http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
 # 72FM: https://72fm.com/station/bd0b7f45-2ff6-4318-84b6-77a3490723f7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNxSg2H/schlageroldies.jpg" group-title="Germany",__SCHLAGER OLDIES__ by rautemusik (rm.fm)
 https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/2f7cead0-b1fa-4400-a6dd-8ccfc1be3e03
 #EXTINF:-1 group-title="Germany",Best Of Techno
 http://stream.laut.fm/best-of-techno
-# 72FM: https://72fm.com/station/9606baf5-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Germany",MDR Sputnik Club
-http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
 # 72FM: https://72fm.com/station/0e7339d1-bf47-11e9-8502-52543be04c81
 #EXTINF:-1 tvg-logo="https://cdn.bigfm.de/sites/all/themes/bigfm/favicon.ico" group-title="Germany",BigFM Sunset Lounge
 http://streams.bigfm.de/bigfm-sunsetlounge-128-mp3?usid=0-0-H-M-D-12

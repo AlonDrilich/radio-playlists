@@ -97,12 +97,12 @@ http://wr2.downtime.fi/kaakko.aac
 # 72FM: https://72fm.com/station/961ba952-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Finland",Radio Dei Helsinki
 http://isojako.radiodei.fi:8000/helsinki
-# 72FM: https://72fm.com/station/b6285b7d-f024-402d-8432-1a16596835d0
-#EXTINF:-1 tvg-logo="https://rondo.fi/wp-content/uploads/2022/04/Rondologo-300.jpg" group-title="Finland",Rondo Classic Klasu
-http://iradio.fi:8000/klasu-hi.mp3
 # 72FM: https://72fm.com/station/f8682eca-5a74-4385-ba72-5cde13e8ce98
 #EXTINF:-1 group-title="Finland",YLE X3M
 http://icecast.live.yle.fi/radio/YleX3M/icecast.audio
+# 72FM: https://72fm.com/station/b6285b7d-f024-402d-8432-1a16596835d0
+#EXTINF:-1 tvg-logo="https://rondo.fi/wp-content/uploads/2022/04/Rondologo-300.jpg" group-title="Finland",Rondo Classic Klasu
+http://iradio.fi:8000/klasu-hi.mp3
 # 72FM: https://72fm.com/station/32191e96-d5ef-413d-a602-4a359125dd8f
 #EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/426.png" group-title="Finland",Ysäri
 https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
@@ -226,15 +226,18 @@ https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 # 72FM: https://72fm.com/station/5ebce343-df89-4add-91e4-35ae5fb43f47
 #EXTINF:-1 tvg-logo="https://www.radiosandels.fi/attachments/Image/InShot_20211202_175929630_1.gif?template=generic" group-title="Finland",RADIO SANDELS
 https://radiosandels.radiotaajuus.fi:9050/radio
-# 72FM: https://72fm.com/station/218b95bb-e82c-49d6-ad7c-c8fdac9f44a4
-#EXTINF:-1 tvg-logo="https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/AitoIskelma_2560x2560.jpg?itok=hieHKR3-" group-title="Finland",Aito Iskelmä
-https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 # 72FM: https://72fm.com/station/5b477c0e-5a75-42b9-af39-d7b9d73d065a
 #EXTINF:-1 group-title="Finland",Ysäri
 https://stream-redirect.bauermedia.fi/ysari/ysari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+# 72FM: https://72fm.com/station/218b95bb-e82c-49d6-ad7c-c8fdac9f44a4
+#EXTINF:-1 tvg-logo="https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/AitoIskelma_2560x2560.jpg?itok=hieHKR3-" group-title="Finland",Aito Iskelmä
+https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 # 72FM: https://72fm.com/station/5274bf2b-c02b-4649-860b-cbc891c5d8b4
 #EXTINF:-1 tvg-logo="https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/Kantriradio_2560x2560.jpg?itok=HyCzbiaa" group-title="Finland",Kantriradio
 https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
+# 72FM: https://72fm.com/station/43697d5f-6d6a-4390-b9eb-5974f963ffc1
+#EXTINF:-1 tvg-logo="https://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="Finland",Radio Dei Kajaani
+https://stream.dei.fi:8443/kajaani
 # 72FM: https://72fm.com/station/45be7e54-944f-4a57-9d51-8f74c88097cb
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2015/05/Rondo-Classic-Klasu.jpg" group-title="Finland",Rondo Classic Klasu
 https://iradio.fi/klasu.flac
@@ -244,15 +247,12 @@ https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio
 # 72FM: https://72fm.com/station/4d1a27b8-9c81-4bd1-b79d-ca43b75c1b0a
 #EXTINF:-1 group-title="Finland",Yle radio Suomi Pohjanmaa
 https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio
-# 72FM: https://72fm.com/station/43697d5f-6d6a-4390-b9eb-5974f963ffc1
-#EXTINF:-1 tvg-logo="https://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="Finland",Radio Dei Kajaani
-https://stream.dei.fi:8443/kajaani
-# 72FM: https://72fm.com/station/961bae28-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Finland",Radio Dei Kemi
-http://isojako.radiodei.fi:8000/tornio
 # 72FM: https://72fm.com/station/2ceb9095-c509-4c30-a530-1df60e2600f1
 #EXTINF:-1 group-title="Finland",Yle radio Vega Östnyland
 https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio
+# 72FM: https://72fm.com/station/961bae28-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Finland",Radio Dei Kemi
+http://isojako.radiodei.fi:8000/tornio
 # 72FM: https://72fm.com/station/0b9f0bf8-9bd0-4a89-988b-9dd2168ceef8
 #EXTINF:-1 group-title="Finland",Radio Suomipop
 https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8?rp_source=1
@@ -262,12 +262,12 @@ https://streaming.radioplay.fi/fi_radiocity_128.mp3
 # 72FM: https://72fm.com/station/06e81ebd-b7fc-4bd6-8bb1-88d77f0d31a8
 #EXTINF:-1 tvg-logo="https://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="Finland",Radio Dei Lahti
 https://stream.dei.fi:8443/lahti
-# 72FM: https://72fm.com/station/5ccaf433-c2df-46e7-8e38-61e4445fe43c
-#EXTINF:-1 group-title="Finland",YleRadioSuomiLahti
-https://icecast.live.yle.fi/radio/YleLahti/icecast.audio
 # 72FM: https://72fm.com/station/ea090fe5-8c86-446c-b678-ca9be46b218e
 #EXTINF:-1 tvg-logo="https://arenan.yle.fi/favicon.ico" group-title="Finland",Yle Vega Åboland
 https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio
+# 72FM: https://72fm.com/station/5ccaf433-c2df-46e7-8e38-61e4445fe43c
+#EXTINF:-1 group-title="Finland",YleRadioSuomiLahti
+https://icecast.live.yle.fi/radio/YleLahti/icecast.audio
 # 72FM: https://72fm.com/station/b6b4301e-7c69-4c01-b798-5083b5b11f5c
 #EXTINF:-1 tvg-logo="https://www.radiotempo.fi/wp-content/themes/radiotempo/images/logo.png" group-title="Finland",Radio Tempo
 https://cast.radiotempo.fi/radiotempo
@@ -292,15 +292,15 @@ https://wr2.downtime.fi/kaakko.mp3
 # 72FM: https://72fm.com/station/d0f198e1-e71c-4aef-82e5-03058d00b790
 #EXTINF:-1 group-title="Finland",Groove FM
 https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8
-# 72FM: https://72fm.com/station/f7001430-7f36-4562-93b8-31b7f070a327
-#EXTINF:-1 tvg-logo="https://fuengirola.fi/wp-content/uploads/2024/09/FugeFM-logo.jpg" group-title="Finland",FugeFM
-https://streaming.broadcast.radio/fugefm
 # 72FM: https://72fm.com/station/4ab82b0e-cef6-4d86-9235-2591c37813bf
 #EXTINF:-1 group-title="Finland",SuomiRap
 https://streaming.radioplay.fi/fi_suomirap_128.mp3
 # 72FM: https://72fm.com/station/a19530b7-3549-4a93-bc7b-022a1e1cb2ff
 #EXTINF:-1 tvg-logo="https://www.savustamo.fi/wp-content/uploads/2025/12/cropped-0_c1bc9_14464e10_L-1590724515-300x300.jpg" group-title="Finland",NinjaBox 24/7
 https://djuplink.com/ninjabox.mp3
+# 72FM: https://72fm.com/station/f7001430-7f36-4562-93b8-31b7f070a327
+#EXTINF:-1 tvg-logo="https://fuengirola.fi/wp-content/uploads/2024/09/FugeFM-logo.jpg" group-title="Finland",FugeFM
+https://streaming.broadcast.radio/fugefm
 # 72FM: https://72fm.com/station/a1d96ed6-a5db-41cb-b294-8ed44973a468
 #EXTINF:-1 group-title="Finland",FinnRadio
 https://servidor39-5.brlogic.com:7076/live
@@ -310,30 +310,30 @@ http://live-bauerfi.sharp-stream.com/fi_radionova_64.aac?direct=true&aw_0_1st.pl
 # 72FM: https://72fm.com/station/617baea8-d8cc-412d-ab01-09f8b7b7ef21
 #EXTINF:-1 tvg-logo="https://kerhoradio.fi/wp-content/uploads/2025/08/Kerhoradio_logo_fix_pienikopio-3.png" group-title="Finland",Kerhoradio
 https://c40.radioboss.fm:8056/stream
-# 72FM: https://72fm.com/station/f46a7f78-6fbd-4251-a44f-33024264fab6
-#EXTINF:-1 tvg-logo="https://radiosun.fi/wp-content/uploads/2023/10/Radio-SUN-LOGO-Asiallisesti-paikallinen-1-1170x599.png" group-title="Finland",Radio Sun
-https://st.downtime.fi/sun.mp3
 # 72FM: https://72fm.com/station/297bb132-c38f-47f7-aa30-03a3cfc0de13
 #EXTINF:-1 group-title="Finland",Kesäseuraradio
 https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b
 # 72FM: https://72fm.com/station/f3fcac89-0f90-4534-90af-0a1d9fae1624
 #EXTINF:-1 group-title="Finland",Radio Soho
 https://sohostream.djonline.fi:8008/radio
-# 72FM: https://72fm.com/station/77a2ea2c-ae79-48bf-998a-0be1752563e9
-#EXTINF:-1 group-title="Finland",Vömba FM
-https://c4.radioboss.fm:18123/live
+# 72FM: https://72fm.com/station/f46a7f78-6fbd-4251-a44f-33024264fab6
+#EXTINF:-1 tvg-logo="https://radiosun.fi/wp-content/uploads/2023/10/Radio-SUN-LOGO-Asiallisesti-paikallinen-1-1170x599.png" group-title="Finland",Radio Sun
+https://st.downtime.fi/sun.mp3
 # 72FM: https://72fm.com/station/8720abb1-9d81-4ff3-94f7-5ba4bc79ab48
 #EXTINF:-1 group-title="Finland",Yle Radio Suomi, Rovaniemi
 https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio
-# 72FM: https://72fm.com/station/ff752290-8b6d-48bf-a0de-608287c7d30b
-#EXTINF:-1 group-title="Finland",Radio Auran Aallot
-https://streaming.radioplay.fi/fi_auranaallot_128.mp3
+# 72FM: https://72fm.com/station/77a2ea2c-ae79-48bf-998a-0be1752563e9
+#EXTINF:-1 group-title="Finland",Vömba FM
+https://c4.radioboss.fm:18123/live
 # 72FM: https://72fm.com/station/768a8929-c719-4ae2-ad04-c8e031fad2d8
 #EXTINF:-1 tvg-logo="https://www.radiovaasa.fi/wp-content/uploads/2020/12/cropped-radiovaasa-favicon-300x300.png" group-title="Finland",Radio Vaasa
 https://stream.protonbroadcast.com:8443/radiovaasa.mp3
 # 72FM: https://72fm.com/station/65ee044c-b0e0-4fc2-961e-3817014ff330
 #EXTINF:-1 group-title="Finland",Pride Radio
 https://streaming.radioplay.fi/fi_pride_128.mp3
+# 72FM: https://72fm.com/station/ff752290-8b6d-48bf-a0de-608287c7d30b
+#EXTINF:-1 group-title="Finland",Radio Auran Aallot
+https://streaming.radioplay.fi/fi_auranaallot_128.mp3
 # 72FM: https://72fm.com/station/ba8ca8d2-32f0-4f31-aea4-4e57773e6357
 #EXTINF:-1 tvg-logo="https://boofi.fi/boofi/radio-boofi.png" group-title="Finland",Radio Boofi
 https://radio.iranian.fi/listen/vip/radio.mp3
@@ -355,18 +355,18 @@ https://streaming.radioplay.fi/fi_classic_128.mp3
 # 72FM: https://72fm.com/station/1898ce90-f0a9-4a9a-99bd-18ee739322bb
 #EXTINF:-1 group-title="Finland",Radio Mega
 https://streaming.radioplay.fi/fi_radiomega_128.mp3
-# 72FM: https://72fm.com/station/d6684d02-578f-43f9-95c8-61b837bb2caf
-#EXTINF:-1 tvg-logo="https://www.jarviradio.fi/wp-content/uploads/2025/08/JRPUHE_LOGO_taajuus.png" group-title="Finland",Järviradio Puhe
-https://jarviradio.radiotaajuus.fi:9000/jrpuhe
 # 72FM: https://72fm.com/station/0559438c-2c99-44b5-b0c9-f1ae8a631bba
 #EXTINF:-1 tvg-logo="https://www.karjalainensyke.fi/wp-content/uploads/sites/5/2024/08/og-image-karjalainensyke.jpg" group-title="Finland",Karjalainen Syke
 https://radio.diks.fi/karjalainensyke
-# 72FM: https://72fm.com/station/2eb39e30-910b-4627-bd7c-ccd092cd37d7
-#EXTINF:-1 group-title="Finland",Radio Musa
-http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
 # 72FM: https://72fm.com/station/ee50d1e9-9168-4798-a68f-d7416d0791b5
 #EXTINF:-1 tvg-logo="https://areena.yle.fi/favicon.ico" group-title="Finland",Yle Radio Suomi, Joensuu
 https://icecast.live.yle.fi/radio/YleJoensuu/icecast.audio
+# 72FM: https://72fm.com/station/d6684d02-578f-43f9-95c8-61b837bb2caf
+#EXTINF:-1 tvg-logo="https://www.jarviradio.fi/wp-content/uploads/2025/08/JRPUHE_LOGO_taajuus.png" group-title="Finland",Järviradio Puhe
+https://jarviradio.radiotaajuus.fi:9000/jrpuhe
+# 72FM: https://72fm.com/station/2eb39e30-910b-4627-bd7c-ccd092cd37d7
+#EXTINF:-1 group-title="Finland",Radio Musa
+http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
 # 72FM: https://72fm.com/station/64636a34-a2f0-4388-bc20-6b0415aa2434
 #EXTINF:-1 group-title="Finland",Tekoälyradio
 https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3

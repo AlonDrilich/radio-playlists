@@ -28,12 +28,12 @@ https://s35.derstream.net/100austria.mp3
 # 72FM: https://72fm.com/station/1e13ed4e-daa9-4728-8550-e08d89c1c8e7
 #EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png" group-title="Austria",FM4 | ORF | HQ
 https://orf-live.ors-shoutcast.at/fm4-q2a
-# 72FM: https://72fm.com/station/9608a2aa-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg" group-title="Austria",Antenne Steiermark
-http://live.antenne.at/as
 # 72FM: https://72fm.com/station/9620cfc5-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.meinkinderradio.at/wp-content/uploads/2021/07/favicon.png" group-title="Austria",Radino - Mein Kinderradio Wien 103,2
 http://stream01.zogl.net:8906/stream
+# 72FM: https://72fm.com/station/9608a2aa-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg" group-title="Austria",Antenne Steiermark
+http://live.antenne.at/as
 # 72FM: https://72fm.com/station/17142ca0-4faf-11e9-a4d7-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.city23.at/wp-content/themes/city23/medias/app-icons/apple-icon-120x120.png" group-title="Austria",CITY23
 http://live.radiomax.technology/city23
@@ -175,12 +175,12 @@ http://www.fro.at:8008/fro64.mp3
 # 72FM: https://72fm.com/station/96096e93-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Austria",Radio Harmonie
 http://host6.cartwall.at:9630/
-# 72FM: https://72fm.com/station/566a0eab-7cef-4d41-bfbe-f6c83b52eef8
-#EXTINF:-1 tvg-logo="https://liferadio.konsole-labs.com/img/live.png" group-title="Austria",Life Radio Tirol
-http://stream.liferadio.tirol/live/aac-256/SHQ
 # 72FM: https://72fm.com/station/b9230e0b-1bb1-46c0-aa76-d2f55677619e
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/wp-content/uploads//2021/03/70er-1000x1000-Slogan-runde-Ecken-144x144.png" group-title="Austria",Antenne Vorarlberg 70er Hits
 https://web.radio.antennevorarlberg.at/av-70er
+# 72FM: https://72fm.com/station/566a0eab-7cef-4d41-bfbe-f6c83b52eef8
+#EXTINF:-1 tvg-logo="https://liferadio.konsole-labs.com/img/live.png" group-title="Austria",Life Radio Tirol
+http://stream.liferadio.tirol/live/aac-256/SHQ
 # 72FM: https://72fm.com/station/378f155b-6766-4eba-b7ad-9781a53ec927
 #EXTINF:-1 group-title="Austria",Radio Flamingo
 http://live.antenne.at/rf
@@ -346,12 +346,12 @@ https://live.welle1.at:18256/stream
 # 72FM: https://72fm.com/station/27d8066d-3745-4fea-8d9b-90bbe50a3be8
 #EXTINF:-1 tvg-logo="https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_METAL.png" group-title="Austria",88.6 Metal
 http://radio886.at/streams/88.6_Metal/mp3
-# 72FM: https://72fm.com/station/963794b6-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Austria",Technikum CITY
-http://technikumsmoothjazz.macjingle.at:8206/;stream/1
 # 72FM: https://72fm.com/station/a062f274-1424-4359-a206-7fdfc61e32fb
 #EXTINF:-1 group-title="Austria",Antenne Vorarlberg Chillout
 https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3
+# 72FM: https://72fm.com/station/963794b6-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Austria",Technikum CITY
+http://technikumsmoothjazz.macjingle.at:8206/;stream/1
 # 72FM: https://72fm.com/station/964de70e-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.antenne.at/favicon.ico" group-title="Austria",Antenne Kärnten Sunrise
 http://live.antenne.at/sun
@@ -436,21 +436,21 @@ http://cast2.name.ba:8185/
 # 72FM: https://72fm.com/station/58a6d4ab-3a77-4969-b361-0bb2f537fba5
 #EXTINF:-1 group-title="Austria",Antenne Vorarlberg Lovesongs
 https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3
-# 72FM: https://72fm.com/station/3b5a0bb4-dd07-4b56-a176-0d9bae9f3dfa
-#EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="Austria",Antenne Vorarlberg Christkindl Radio
-https://web.radio.antennevorarlberg.at/av-christkindl
 # 72FM: https://72fm.com/station/9cb7f80f-aa74-4907-9351-8e65ce3b4c27
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="Austria",Antenne vorarlberg Non Stop
 https://web.radio.antennevorarlberg.at/av-nonstop
+# 72FM: https://72fm.com/station/3b5a0bb4-dd07-4b56-a176-0d9bae9f3dfa
+#EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="Austria",Antenne Vorarlberg Christkindl Radio
+https://web.radio.antennevorarlberg.at/av-christkindl
 # 72FM: https://72fm.com/station/bf359dd0-b38e-40e1-87da-2b20e29d12a8
 #EXTINF:-1 tvg-logo="https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png" group-title="Austria",Arabella holiday
 https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arabella-playlistfile
-# 72FM: https://72fm.com/station/024e2c60-c423-4463-a057-617833a81cb2
-#EXTINF:-1 tvg-logo="https://soundportal.at/fileadmin/_processed_/a/f/csm_logo_c56844a102.png" group-title="Austria",Soundportal
-https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at
 # 72FM: https://72fm.com/station/47eb5654-12b6-4e4a-9026-e026382202cb
 #EXTINF:-1 tvg-logo="https://www.rotweissrot.fan/favicon.ico" group-title="Austria",Radio Rot Weiß Rot
 https://secureonair.krone.at/rwr.aac
+# 72FM: https://72fm.com/station/024e2c60-c423-4463-a057-617833a81cb2
+#EXTINF:-1 tvg-logo="https://soundportal.at/fileadmin/_processed_/a/f/csm_logo_c56844a102.png" group-title="Austria",Soundportal
+https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at
 # 72FM: https://72fm.com/station/63c4bb83-8567-42e3-ad1c-c1968b367ecf
 #EXTINF:-1 group-title="Austria",Styrialounge
 https://styrialounge.out.airtime.pro/styrialounge_a
@@ -565,6 +565,9 @@ http://stream.erf.at:8000/erfplus_320
 # 72FM: https://72fm.com/station/820b81db-6ca9-4af9-8938-e9ad8055bd41
 #EXTINF:-1 tvg-logo="https://metal-radio.at/assets/logo-D4TNgK9S.svg" group-title="Austria",Metal Radio
 https://stream.radiotechnikum.at/METALRadio
+# 72FM: https://72fm.com/station/66a7ef58-18e4-4291-a5b1-d0403761941e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t4ZSDxu.png" group-title="Austria",Kronehit
+http://onair.krone.at/kronehit.mp3
 # 72FM: https://72fm.com/station/779af9c6-7679-4b3a-ad6a-687c660024be
 #EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png" group-title="Austria",ORF Hitradio Ö3 (128k HLS)
 https://orf-live-oe3.mdn.ors.at/out/u/oe3/q3a/manifest.m3u8
@@ -574,9 +577,6 @@ https://popwelle.sp.radio.fm/stream
 # 72FM: https://72fm.com/station/50890eab-41ac-4f6b-8839-022f0c20444b
 #EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png" group-title="Austria",ORF - Radio Salzburg
 https://orf-live.ors-shoutcast.at/sbg-q1a
-# 72FM: https://72fm.com/station/66a7ef58-18e4-4291-a5b1-d0403761941e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t4ZSDxu.png" group-title="Austria",Kronehit
-http://onair.krone.at/kronehit.mp3
 # 72FM: https://72fm.com/station/77bd99ff-3de0-4c8b-9b1a-cf342614f520
 #EXTINF:-1 tvg-logo="https://vm1.at/wp-content/themes/radiovm1_theme/assets/images/logo.webp" group-title="Austria",Radio VM1 - Wien
 https://radiovm1.fluidstream.eu/radiovm1_a2.mp3
@@ -724,18 +724,18 @@ http://mp3.radioypsilon.at:8000/mp3-160
 # 72FM: https://72fm.com/station/df080de4-7260-46e3-b83c-9363f4dbf371
 #EXTINF:-1 group-title="Austria",ERF Plus Oesterreich 96k
 http://stream.erf.at:8000/erfplus_96
-# 72FM: https://72fm.com/station/9169bc9b-cfca-45c1-bc06-c1ad826a3245
-#EXTINF:-1 group-title="Austria",Rockantenne Österreich live
-https://s5-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
-# 72FM: https://72fm.com/station/6e577441-bc3f-4662-9256-6ec1c44cc049
-#EXTINF:-1 group-title="Austria",Radio Weanerisch gspielt
-https://radiovm1.fluidstream.eu/weanarisch
-# 72FM: https://72fm.com/station/37f9aec0-333a-46e1-818e-6458a7115a13
-#EXTINF:-1 tvg-logo="https://antenneoesterreich.oe24.at/apple-touch-icon.png" group-title="Austria",Atnnene sSterewich
-https://edge21.streamonkey.net/antoesterreich-live
 # 72FM: https://72fm.com/station/964ef42e-93cd-4533-88e7-a30e9e75217d
 #EXTINF:-1 tvg-logo="https://energy.at/api/streams/logos/aut.svg" group-title="Austria",Energy NRJ Österreich
 http://stream1.energy.at:8000/aut
+# 72FM: https://72fm.com/station/6e577441-bc3f-4662-9256-6ec1c44cc049
+#EXTINF:-1 group-title="Austria",Radio Weanerisch gspielt
+https://radiovm1.fluidstream.eu/weanarisch
+# 72FM: https://72fm.com/station/9169bc9b-cfca-45c1-bc06-c1ad826a3245
+#EXTINF:-1 group-title="Austria",Rockantenne Österreich live
+https://s5-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
+# 72FM: https://72fm.com/station/37f9aec0-333a-46e1-818e-6458a7115a13
+#EXTINF:-1 tvg-logo="https://antenneoesterreich.oe24.at/apple-touch-icon.png" group-title="Austria",Atnnene sSterewich
+https://edge21.streamonkey.net/antoesterreich-live
 # 72FM: https://72fm.com/station/859db466-2a81-4786-994f-c7136b685aad
 #EXTINF:-1 group-title="Austria",Now Radio 128k
 http://stream.erf.at:8000/nowradio_128
@@ -796,18 +796,18 @@ https://icecast.callshopradio.com/callshopradio-wien
 # 72FM: https://72fm.com/station/df0568b8-cc3c-4903-aa18-7a04f4b4b401
 #EXTINF:-1 group-title="Austria",Antenne Vorarlber Partymix
 http://web.radio.antennevorarlberg.at/av-chillout/stream/mp3
-# 72FM: https://72fm.com/station/0870c567-1eea-4557-9520-b9746585c72c
-#EXTINF:-1 tvg-logo="https://www.techno-livesets.com/wp-content/uploads/2021/09/Techno-Live-Sets-Technols-Logo-400px.png" group-title="Austria",Techno Music Radio
-https://hearthis.at/technolivesets/live/stream.mp3?referer=https%3A%2F%2Fwww.techno-livesets.com%2F&s=Yjy&t=1783864478
 # 72FM: https://72fm.com/station/ddf35f5d-9530-417e-8928-153bdb403c1a
 #EXTINF:-1 group-title="Austria",ClassicaL Relaxation Radio Art
 http://air.radioart.online/hClassical_relaxation.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317
-# 72FM: https://72fm.com/station/254034cb-4ec9-47c7-b01f-6f9565927763
-#EXTINF:-1 group-title="Austria",AIR-Radio
-https://streamsrv-airradio.kechit.eu/128
 # 72FM: https://72fm.com/station/5f08476a-e6f9-40ba-94b3-f15269555c13
 #EXTINF:-1 tvg-logo="https://maxfive.com/favicon.ico" group-title="Austria",PENNY live
 http://listen.radiomax.technology/penny
+# 72FM: https://72fm.com/station/0870c567-1eea-4557-9520-b9746585c72c
+#EXTINF:-1 tvg-logo="https://www.techno-livesets.com/wp-content/uploads/2021/09/Techno-Live-Sets-Technols-Logo-400px.png" group-title="Austria",Techno Music Radio
+https://hearthis.at/technolivesets/live/stream.mp3?referer=https%3A%2F%2Fwww.techno-livesets.com%2F&s=Yjy&t=1783864478
+# 72FM: https://72fm.com/station/254034cb-4ec9-47c7-b01f-6f9565927763
+#EXTINF:-1 group-title="Austria",AIR-Radio
+https://streamsrv-airradio.kechit.eu/128
 # 72FM: https://72fm.com/station/32558a94-51f9-42cd-a6f7-eead94bda8d8
 #EXTINF:-1 tvg-logo="https://u1-radio.at/wp-content/uploads/2022/03/2022_U1_Logo_RGB_Schrift-weiss-1-768x844.png" group-title="Austria",U1 Tirol
 https://live.u1-radio.at/u1-tirol-live/mp3-192/?ref=u1-website
@@ -817,15 +817,15 @@ http://live.helsinki.at:8088/live160.ogg
 # 72FM: https://72fm.com/station/afddab5c-01e7-4325-a1cc-57cbad3d92de
 #EXTINF:-1 tvg-logo="https://maxfive.com/wp-content/themes/Default/Assets/Favicons/apple-touch-icon.png" group-title="Austria",jö.live - Mein Tag. Meine Musik.
 https://edge21.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
-# 72FM: https://72fm.com/station/883f2499-200a-4ef9-bb2e-3084ed8321eb
-#EXTINF:-1 group-title="Austria",Radio Nachtvogel
-https://stream.tramp-cast.ch/8012/stream
 # 72FM: https://72fm.com/station/aa761038-425f-40ba-a76a-505d4f545d4e
 #EXTINF:-1 tvg-logo="https://www.xxxlutz-dasradio.at/images/logo.png" group-title="Austria",XXXLutz Radio
 https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite
 # 72FM: https://72fm.com/station/efc0d824-90e9-48f0-8902-c9077d92c272
 #EXTINF:-1 tvg-logo="https://www.freirad.at/wp-content/themes/betheme-child/images/logo-mobile.png" group-title="Austria",FREIRAD
 https://stream.freirad.at/live.mp3
+# 72FM: https://72fm.com/station/883f2499-200a-4ef9-bb2e-3084ed8321eb
+#EXTINF:-1 group-title="Austria",Radio Nachtvogel
+https://stream.tramp-cast.ch/8012/stream
 # 72FM: https://72fm.com/station/a9c48772-e12c-4eb6-9fd2-39d13240fce2
 #EXTINF:-1 tvg-logo="https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg" group-title="Austria",ReplayScape
 https://radio.replayscape.com:8443/128k.mp3
@@ -886,21 +886,21 @@ https://live.welle1.at:19000/live
 # 72FM: https://72fm.com/station/19a945e8-8ef0-4df5-a789-231b9203c1d3
 #EXTINF:-1 group-title="Austria",Radio Bollerwagen
 https://player.ffn.de/radiobollerwagen.mp3
+# 72FM: https://72fm.com/station/7e6c9fac-3fd6-43b4-8ea5-70079caa82cf
+#EXTINF:-1 tvg-logo="https://Www.radio-one.at" group-title="Austria",1 Radio One
+https://stream.radiotechnikum.at/RADIOONE
 # 72FM: https://72fm.com/station/0fe91320-9c43-46a8-94fb-1b54b928f3ed
 #EXTINF:-1 group-title="Austria",FFH 80ER
 https://mp3.ffh.de/ffhchannels/hq80er.mp3
 # 72FM: https://72fm.com/station/1659d626-b7db-48e0-82d7-d0d645bf43ae
 #EXTINF:-1 group-title="Austria",Rock Antenne (Austria)
 https://s6-webradio.webradio.de/rockantenne-oesterreich
-# 72FM: https://72fm.com/station/7e6c9fac-3fd6-43b4-8ea5-70079caa82cf
-#EXTINF:-1 tvg-logo="https://Www.radio-one.at" group-title="Austria",1 Radio One
-https://stream.radiotechnikum.at/RADIOONE
 # 72FM: https://72fm.com/station/64dd42ec-d283-4939-a76c-58b23c4b6259
 #EXTINF:-1 group-title="Austria",Peters Plattenthek
 http://server7524.streamplus.de/stream.mp3
-# 72FM: https://72fm.com/station/76507d48-9853-412c-a496-bd1e1ffee4af
-#EXTINF:-1 tvg-logo="https://modular-station.com/app/themes/modular-station/dist/images/modular-station-192_3bcbc4e6.png" group-title="Austria",Modular Station
-https://broadcast.modular-station.com/listen/modular_station/radio.aac
 # 72FM: https://72fm.com/station/4418483e-e675-452d-8a84-e469f0145f34
 #EXTINF:-1 group-title="Austria",Radio B138
 https://webstream.radiob138.at/
+# 72FM: https://72fm.com/station/76507d48-9853-412c-a496-bd1e1ffee4af
+#EXTINF:-1 tvg-logo="https://modular-station.com/app/themes/modular-station/dist/images/modular-station-192_3bcbc4e6.png" group-title="Austria",Modular Station
+https://broadcast.modular-station.com/listen/modular_station/radio.aac

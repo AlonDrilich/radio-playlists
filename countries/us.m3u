@@ -478,12 +478,12 @@ http://croonerradio_franksinatra.ice.infomaniak.ch/croonerradio-franksinatra-mid
 # 72FM: https://72fm.com/station/961837b1-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United States",181.FM - Good Time Oldies Radio
 http://listen.181fm.com/181-goodtime_128k.mp3
-# 72FM: https://72fm.com/station/d420bcf1-bb4c-11e9-acb2-52543be04c81
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/folkfwd-400.jpg" group-title="United States",SomaFM Folk Forward (128k AAC)
-https://ice6.somafm.com/folkfwd-128-aac
 # 72FM: https://72fm.com/station/960e14a9-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/folkfwd-400.jpg" group-title="United States",SomaFM Folk Forward (128k MP3)
 https://ice6.somafm.com/folkfwd-128-mp3
+# 72FM: https://72fm.com/station/d420bcf1-bb4c-11e9-acb2-52543be04c81
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/folkfwd-400.jpg" group-title="United States",SomaFM Folk Forward (128k AAC)
+https://ice6.somafm.com/folkfwd-128-aac
 # 72FM: https://72fm.com/station/dee09ddb-8e41-11e8-aa66-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.abidingradio.org/wp-content/uploads/2022/05/cropped-new_icon.png" group-title="United States",Abiding Radio - Instrumental
 https://streams.abidingradio.com/instrumental
@@ -577,12 +577,12 @@ https://listen.christianrock.net/stream/11/
 # 72FM: https://72fm.com/station/9618344a-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United States",WFMU 91.1 East Orange, NJ
 http://stream2.wfmu.org/freeform-128k
-# 72FM: https://72fm.com/station/a626bc71-2d77-11e8-91bf-52543be04c81
-#EXTINF:-1 group-title="United States",NYC House Radio
-http://www.ophanim.net:8400/;
 # 72FM: https://72fm.com/station/608bc971-3ec5-4c05-8143-de96c3bdb030
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.png" group-title="United States",Soma FM Groove Salad 320K AAC HLS
 https://hls.somafm.com/hls/groovesalad/320k/program.m3u8
+# 72FM: https://72fm.com/station/a626bc71-2d77-11e8-91bf-52543be04c81
+#EXTINF:-1 group-title="United States",NYC House Radio
+http://www.ophanim.net:8400/;
 # 72FM: https://72fm.com/station/7895ba8d-a1c9-4bb5-9b61-9e2893338c78
 #EXTINF:-1 tvg-logo="https://discostudio54.com/favicon.ico" group-title="United States",Disco Studio 54
 https://maiban00.radioca.st/stream
@@ -745,12 +745,12 @@ http://stream.laut.fm/80sexitos
 # 72FM: https://72fm.com/station/961f5d58-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/The_River_92.5_FM_logo.png" group-title="United States",WXRV "92.5 The River" Andover, MA
 http://72.13.83.130:8010/;.mp3
-# 72FM: https://72fm.com/station/6fe3eb2c-f2f2-45b0-98ea-d875d302a5c4
-#EXTINF:-1 group-title="United States",104.5 Latino Hits
-https://stream.revma.ihrhls.com/zc4051
 # 72FM: https://72fm.com/station/81262f7e-fb9d-4ad1-bcee-d4a64f2fa662
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/904/country-music-radio-00s-country.5f83bb9f.png" group-title="United States",2000's Country Music Radio
 https://2.mystreaming.net/uber/cmr00scountry/icecast.audio
+# 72FM: https://72fm.com/station/6fe3eb2c-f2f2-45b0-98ea-d875d302a5c4
+#EXTINF:-1 group-title="United States",104.5 Latino Hits
+https://stream.revma.ihrhls.com/zc4051
 # 72FM: https://72fm.com/station/32811bda-1a78-40b5-a572-d3e17c055da3
 #EXTINF:-1 group-title="United States",The Blaze radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/BLZE_1.mp3
@@ -844,18 +844,18 @@ https://stream.revma.ihrhls.com/zc1481
 # 72FM: https://72fm.com/station/c0c02d01-f94e-11e8-a97a-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/christmas-400.jpg" group-title="United States",SomaFM Christmas Lounge 256k
 https://ice5.somafm.com/christmas-256-mp3
-# 72FM: https://72fm.com/station/dcee5c2b-0e47-4538-9369-b43b52a34dd0
-#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="United States",Radio Paradise Rock Mix FLAC+meta
-http://stream.radioparadise.com/rock-flacm
 # 72FM: https://72fm.com/station/b25bbbff-e767-4275-bf88-46a7da629b89
 #EXTINF:-1 group-title="United States",Chillstep.info
 http://chillstep.info:1984/listen.mp3
-# 72FM: https://72fm.com/station/7fad4733-280c-4ed7-b92a-5558fee04f42
-#EXTINF:-1 group-title="United States",HD Radio - The Blues
-https://haradioblues-rfritschka.radioca.st/
+# 72FM: https://72fm.com/station/dcee5c2b-0e47-4538-9369-b43b52a34dd0
+#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="United States",Radio Paradise Rock Mix FLAC+meta
+http://stream.radioparadise.com/rock-flacm
 # 72FM: https://72fm.com/station/77c0b127-4805-4c8c-ac78-859ab4fadf17
 #EXTINF:-1 group-title="United States",Italo Disco USA
 http://broadcast.miami/proxy/italodisco?mp=/stream/;
+# 72FM: https://72fm.com/station/7fad4733-280c-4ed7-b92a-5558fee04f42
+#EXTINF:-1 group-title="United States",HD Radio - The Blues
+https://haradioblues-rfritschka.radioca.st/
 # 72FM: https://72fm.com/station/d28658db-fd87-11e8-a1be-52543be04c81
 #EXTINF:-1 group-title="United States",CBN Cross Country Christmas
 http://cbnradio.streamguys1.com/country-christmas-128K?app=cbnplayer

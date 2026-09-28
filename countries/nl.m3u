@@ -358,12 +358,12 @@ http://stream.kxclassikx.nl/
 # 72FM: https://72fm.com/station/f4aea998-df4a-437b-ad2d-d160c821f91b
 #EXTINF:-1 tvg-logo="https://www.radio10.nl/favicon.ico" group-title="Netherlands",Radio 10
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3?dist=radio10_web&amp;ttag=talpa_consent:0&amp;gdpr=1&amp;gdpr_consent=CPR8CQMPR8CRCADABCNLB7CgAAAAAEJAAAAAAAAMEgKgAVAAuACAAGQARAAmgBPADEAH4AQAAjABXADvAIQARYAjgBOwCsgIpAXmAwQAsJAJAAqACAAGQARAAmABPAHeARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAwALgCuAIQUgFgAVABAADIAIgATAAngBiAHeARYAjgC8ygAIAC4BOyQAEAC5KAMAEQAJgAYgB3gEcAXmQgCABMADEAO8AjgYACAK4VADACYARwBeYyAGAEwAjgC8w.YAAAAAAAA4AA
-# 72FM: https://72fm.com/station/202b568c-7641-4ed9-8ce9-6109d3de14e4
-#EXTINF:-1 group-title="Netherlands",Reformatorische omroep
-http://ro1.reformatorischeomroep.nl:8003/live
 # 72FM: https://72fm.com/station/54660f01-599c-4781-8fe2-008729962b4b
 #EXTINF:-1 group-title="Netherlands",RADIO 10 TOP 4000
 http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3
+# 72FM: https://72fm.com/station/202b568c-7641-4ed9-8ce9-6109d3de14e4
+#EXTINF:-1 group-title="Netherlands",Reformatorische omroep
+http://ro1.reformatorischeomroep.nl:8003/live
 # 72FM: https://72fm.com/station/961ef1bd-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Netherlands",Omroep Brabant
 http://streaming.omroepbrabant.nl/mp3hq
@@ -433,12 +433,12 @@ http://streams.greenhost.nl:8080/concertzenderlive
 # 72FM: https://72fm.com/station/e44074fa-f007-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://s.regiogroei.cloud/img/favicons/friesland/apple-touch-icon.png?v=1687163124059" group-title="Netherlands",Omrop Fryslân Radio
 https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3
-# 72FM: https://72fm.com/station/08e31de8-ffe3-4a42-92f5-99c0150bc0ce
-#EXTINF:-1 group-title="Netherlands",SLAM! Housuh In De Pauzuh
-http://stream.slam.nl/WEB16_MP3
 # 72FM: https://72fm.com/station/bb7561e5-e742-11e8-a9cc-52543be04c81
 #EXTINF:-1 tvg-logo="https://s.regiogroei.cloud/img/favicons/drenthe/apple-touch-icon.png?v=1689602133492" group-title="Netherlands",Radio Drenthe
 https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio
+# 72FM: https://72fm.com/station/08e31de8-ffe3-4a42-92f5-99c0150bc0ce
+#EXTINF:-1 group-title="Netherlands",SLAM! Housuh In De Pauzuh
+http://stream.slam.nl/WEB16_MP3
 # 72FM: https://72fm.com/station/39fdc531-f03f-11e9-a96c-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.intergalactic.fm/themes/custom/ifm/favicon.ico" group-title="Netherlands",INTERGALACTIC FM - Disco Fetish
 http://radio.intergalactic.fm/2
@@ -538,18 +538,18 @@ https://icecast.omroep.nl/radio1-bb-aac
 # 72FM: https://72fm.com/station/94471e9b-4dd6-4651-aa16-0f370023cf4f
 #EXTINF:-1 group-title="Netherlands",DesiZone
 http://www.desizone.nl:8000/
-# 72FM: https://72fm.com/station/87d5a90a-29bb-4bcf-91c8-9fd5c53b44e0
-#EXTINF:-1 group-title="Netherlands",Hardstyle FM
-http://stream.laut.fm/hardstylefm
 # 72FM: https://72fm.com/station/4a42f3e8-305c-479d-849d-f1fd55d9062d
 #EXTINF:-1 tvg-logo="https://www.q-dance.com/favicon.ico" group-title="Netherlands",Q-dance Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
-# 72FM: https://72fm.com/station/ab16f423-6d03-47c2-bc7a-0e4751c51df4
-#EXTINF:-1 tvg-logo="https://classic.nl/images/icons/favicon-32x32.png" group-title="Netherlands",Classic NL
-https://classic.nl/streams/?s=main
+# 72FM: https://72fm.com/station/87d5a90a-29bb-4bcf-91c8-9fd5c53b44e0
+#EXTINF:-1 group-title="Netherlands",Hardstyle FM
+http://stream.laut.fm/hardstylefm
 # 72FM: https://72fm.com/station/a2690cef-0049-4fc0-96af-de5dc76e2ac2
 #EXTINF:-1 tvg-logo="https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png" group-title="Netherlands",Amsterdam Funk Channel (AFC)
 https://stream.afc.fm/
+# 72FM: https://72fm.com/station/ab16f423-6d03-47c2-bc7a-0e4751c51df4
+#EXTINF:-1 tvg-logo="https://classic.nl/images/icons/favicon-32x32.png" group-title="Netherlands",Classic NL
+https://classic.nl/streams/?s=main
 # 72FM: https://72fm.com/station/c0357737-c4b3-4237-b8e9-1b14db02c157
 #EXTINF:-1 tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="Netherlands",Qmusic
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3
@@ -712,12 +712,12 @@ https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac?aw_0_1st.playe
 # 72FM: https://72fm.com/station/1baf43c4-7fba-4077-8644-af24a9f0cfd1
 #EXTINF:-1 group-title="Netherlands",Pure Lounge Radio
 https://mscp4.live-streams.nl:8142/lounge.mp3
-# 72FM: https://72fm.com/station/52d1b82f-1c32-423f-85e2-38d523cdb2a1
-#EXTINF:-1 tvg-logo="https://www.grootnieuwsradio.nl/favicons/favicon-1-180x180.png" group-title="Netherlands",Groot Nieuws Radio Blijde Klanken
-https://playerservices.streamtheworld.com/api/livestream-redirect/GNRBK.mp3
 # 72FM: https://72fm.com/station/e9ac3175-bb94-11e9-acb2-52543be04c81
 #EXTINF:-1 tvg-logo="https://s.regiogroei.cloud/rtvnoord/27c427e/img/favicons/groningen/apple-touch-icon.png?v=1685435658743" group-title="Netherlands",RTV Noord
 http://media.rtvnoord.nl/icecast/rtvnoord/radio
+# 72FM: https://72fm.com/station/52d1b82f-1c32-423f-85e2-38d523cdb2a1
+#EXTINF:-1 tvg-logo="https://www.grootnieuwsradio.nl/favicons/favicon-1-180x180.png" group-title="Netherlands",Groot Nieuws Radio Blijde Klanken
+https://playerservices.streamtheworld.com/api/livestream-redirect/GNRBK.mp3
 # 72FM: https://72fm.com/station/a66ad866-6e00-4370-a409-43197b5f33c0
 #EXTINF:-1 tvg-logo="https://www.olympia-radio.nl/assets/themes/olympia-radio_nl/img/logo.png" group-title="Netherlands",Radio Olympia - 100% Piratenhits en Nederlandstalige muziek
 https://streams.olympia-streams.nl/olympia
@@ -763,9 +763,6 @@ https://29043.live.streamtheworld.com/CANDLELIGHT_SC
 # 72FM: https://72fm.com/station/bbb85bf2-063e-4307-9228-a65ef69f5464
 #EXTINF:-1 tvg-logo="https://www.radiocaroline.nl/favicon.ico" group-title="Netherlands",Radio Caroline 259 AAC 96
 https://happy.radiocaroline.nl/listen/classic_rock/radio96.acc
-# 72FM: https://72fm.com/station/be993828-2a83-4c9c-ab25-8cd993e3e19e
-#EXTINF:-1 tvg-logo="https://italo.nu/images/logo%2dfantasy2017.png" group-title="Netherlands",Fantasy Italo Radio
-https://italo.live-streams.nl:8000/stream
 # 72FM: https://72fm.com/station/6c49dc4b-ad31-41ec-9129-90b655d7efc0
 #EXTINF:-1 tvg-logo="https://i0.wp.com/blackwoodfm.com/wp-content/uploads/2020/04/cropped-favicon.png?fit=180%2c180&#038;ssl=1" group-title="Netherlands",Blackwwod FM
 http://server-24.stream-server.nl:8326/stream
@@ -796,12 +793,12 @@ https://radiodance.streamingmedia.it/audio.aac
 # 72FM: https://72fm.com/station/5573061e-a938-49a1-ad96-ac45e601e356
 #EXTINF:-1 tvg-logo="https://www.538.nl/favicon.ico" group-title="Netherlands",538 Classics AAC
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac
-# 72FM: https://72fm.com/station/bd561f63-26fa-4bd1-b986-aa5025d7870b
-#EXTINF:-1 group-title="Netherlands",Christmas Hits Radio NL
-https://stream06.dotpoint.nl:8006/stream
 # 72FM: https://72fm.com/station/e2e82c41-96fc-422f-a982-9523a0038201
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nixxfm.nl/wp-content/uploads/2022/02/cropped-favicon-nixx-fm.jpg?fit=180%2c180&#038;ssl=1" group-title="Netherlands",NixxFM
 https://mediacp.shoutcastradio.nl:8002/NixxFM.m3u
+# 72FM: https://72fm.com/station/bd561f63-26fa-4bd1-b986-aa5025d7870b
+#EXTINF:-1 group-title="Netherlands",Christmas Hits Radio NL
+https://stream06.dotpoint.nl:8006/stream
 # 72FM: https://72fm.com/station/830b7ee1-3f04-4f6b-a8ad-1139e8e782e6
 #EXTINF:-1 tvg-logo="https://i0.wp.com/iskcrocks.com/wp-content/uploads/2021/06/RPO-1-720.jpg?fit=720%2C400&amp;ssl=1" group-title="Netherlands",ISKC Rock Radio RPO (Recent Prog Only)
 https://443-1.autopo.st/79/RockRadio2
@@ -832,12 +829,12 @@ https://samcloud.spacial.com/api/listen?sid=98569&m=sc&rid=174384
 # 72FM: https://72fm.com/station/aa01e1f5-9bb0-4cc1-a77d-88c3c2e712d4
 #EXTINF:-1 tvg-logo="https://www.frenchcore24fm-radio.nl/apple-touch-icon.png" group-title="Netherlands",FRENCHCORE24FM Radio
 https://a8.asurahosting.com:7890/radio.mp3
-# 72FM: https://72fm.com/station/3210cd2a-4774-4ac1-9ee3-077c30f46df9
-#EXTINF:-1 tvg-logo="https://www.skyradio.nl/favicon.ico" group-title="Netherlands",Sky LoveSongs
-https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3
 # 72FM: https://72fm.com/station/c87df85c-7a00-49a9-84f1-ed93a6a34bbb
 #EXTINF:-1 group-title="Netherlands",RADIO UNIQUE FM /HI-RES
 https://hilversumdrie.beheerstream.nl/8038/stream
+# 72FM: https://72fm.com/station/3210cd2a-4774-4ac1-9ee3-077c30f46df9
+#EXTINF:-1 tvg-logo="https://www.skyradio.nl/favicon.ico" group-title="Netherlands",Sky LoveSongs
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3
 # 72FM: https://72fm.com/station/9649fe2d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Netherlands",Hot Radio Hits
 http://server-67.stream-server.nl:8400/
@@ -889,18 +886,21 @@ https://ats.jammfm.nl/stream320.php
 # 72FM: https://72fm.com/station/8bcc3e89-0240-4130-9891-316a2627ea70
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/640px-NPO_Radio_1_logo_2014.svg.png" group-title="Netherlands",NPO Radio 1
 https://icecast.omroep.nl/radio1-sb-mp3
-# 72FM: https://72fm.com/station/cd43795e-4fc0-416b-8ce5-8d9bca59e4f3
-#EXTINF:-1 group-title="Netherlands",Radioachterhoek.nl
-https://stream.radioachterhoek.nl/index.html?sid=1
-# 72FM: https://72fm.com/station/c8a855c5-4bed-46b7-b2c3-e50dfb74a2a9
-#EXTINF:-1 tvg-logo="https://classic.nl/favicon.ico" group-title="Netherlands",Classicnl Soundtracks
-https://classic.nl/streams/?s=soundtracks
-# 72FM: https://72fm.com/station/221c9fa8-9de7-4c0c-876c-914c5853eca4
-#EXTINF:-1 group-title="Netherlands",WILD FM
-https://stream.wildfm.nl/wildfm.mp3
 # 72FM: https://72fm.com/station/82afe796-5b38-443b-bef4-7fcd0cfd7a9c
 #EXTINF:-1 group-title="Netherlands",Baars Classic Rock
 https://stream.iceradio.nl/baarsclassicrock
+# 72FM: https://72fm.com/station/c8a855c5-4bed-46b7-b2c3-e50dfb74a2a9
+#EXTINF:-1 tvg-logo="https://classic.nl/favicon.ico" group-title="Netherlands",Classicnl Soundtracks
+https://classic.nl/streams/?s=soundtracks
+# 72FM: https://72fm.com/station/cd43795e-4fc0-416b-8ce5-8d9bca59e4f3
+#EXTINF:-1 group-title="Netherlands",Radioachterhoek.nl
+https://stream.radioachterhoek.nl/index.html?sid=1
+# 72FM: https://72fm.com/station/221c9fa8-9de7-4c0c-876c-914c5853eca4
+#EXTINF:-1 group-title="Netherlands",WILD FM
+https://stream.wildfm.nl/wildfm.mp3
 # 72FM: https://72fm.com/station/73a08888-b51c-42f2-a960-0f2d755aa911
 #EXTINF:-1 group-title="Netherlands",Radio Noordvaarder Healing
 http://www1.radionoordvaarder.nl:8500/;
+# 72FM: https://72fm.com/station/dfb8d485-4843-462d-9d5e-6d686af62871
+#EXTINF:-1 tvg-logo="https://classic.nl/images/beeldmerk-classicnl@2x.png" group-title="Netherlands",Classic nl original
+https://stream.classic.nl/classicnl.mp3

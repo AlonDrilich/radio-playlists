@@ -205,15 +205,15 @@ https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cm
 # 72FM: https://72fm.com/station/656c6a0b-f0a8-4c8f-a0ef-97c72d130eef
 #EXTINF:-1 tvg-logo="https://sky24.inlive.co.kr/images/9.png" group-title="South Korea",하늘호수24
 https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8
+# 72FM: https://72fm.com/station/3df9fa02-ae92-4423-8f01-e007129c00ee
+#EXTINF:-1 group-title="South Korea",국방FM
+https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8
 # 72FM: https://72fm.com/station/f9f853c9-51d7-4127-9796-5c838a786107
 #EXTINF:-1 group-title="South Korea",Clasico kbs
 https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA1ODgzNjN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=MG4vNbFTCPolEOqkExEAnlN8hn8~l-NPupt9EazfykF74u1XyIzAonIMDbi7dm8tAnSvdKGEfZv9~R9ZEmK6EoTmko9oua4BI8ZamQ80EROtNvA9L2G6-KobsFcuqVu0EnMYQwsrW7nGggks7plysFxELv0lt8GubmnQMuGDHP9FmSb8jnbG3eTeQA7uRdiSEpAjG1bLNc6Gm1hMNHiJy~PECPCXNOApamsS9QHH0HMbi1QFpHiB-o0ltbAekqoZVxql-wMQHZsUleAS~dDFP3piRZIX5zA8LfXgZszVlbnEhq2fejzmLB6G7GZL1TyvkGJ6hbQJyC-tJ7ZF-6FPcw__
 # 72FM: https://72fm.com/station/7702bb1f-26bf-4df6-9209-5f10fb847058
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/04/91/049137633fcae422618f5e45e770d603.jpg" group-title="South Korea",SoneFM (SuwonFM)
 http://115.85.182.39/sonefm
-# 72FM: https://72fm.com/station/3df9fa02-ae92-4423-8f01-e007129c00ee
-#EXTINF:-1 group-title="South Korea",국방FM
-https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8
 # 72FM: https://72fm.com/station/63a8b961-1cd7-406f-8665-3cd005befd88
 #EXTINF:-1 group-title="South Korea",KBS Classic FM
 https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA1NjMxODd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=HtY9gMlSl6BPlAmZRRRc55eEkLoqPZFJqedp3mMnJPzRNGTLDm~KOp5zHxho5yKDlJER3jAEIkIQ-ENri8-eLYavrui566yx9BY5ihng7ODrBCe6Jo1yJTWqgsHxs2L8PQG6A6MylhwDNqctGRP-H9jm8bSMnLSv1oOgb6PskZ~zZVLPQSjAOs8qSOrJog~vjqz3gHFJGP~4vD5stx5kVI8gDoQhrQTnhJaNQno9VisRAER1e6OgsO~bbBpzPYUj33Bz4N6KeMBtLjonOMpSAwYmWIUPGMpOo0-yZ7yv5VaZOBJX5F0rQ55Xy6vlf7OY4z6QEjfWXM~DDVqK6Zq8kg__
@@ -271,12 +271,12 @@ https://radio.bsod.kr/stream/?stn=kbs&ch=1radio
 # 72FM: https://72fm.com/station/0164bed4-d071-4b85-bc61-dd2f29783c64
 #EXTINF:-1 group-title="South Korea",K-Meat
 http://kmeathosting.com:8000/kmeat
-# 72FM: https://72fm.com/station/b5885ea7-009a-4e46-8b44-3da1d7860ab8
-#EXTINF:-1 group-title="South Korea",(BSOD) KBS Classic FM
-https://radio.bsod.kr/stream/?stn=kbs&ch=1fm
 # 72FM: https://72fm.com/station/3058649c-068d-43e8-8c47-4a5a89dbdc4c
 #EXTINF:-1 group-title="South Korea",CBS 표준FM 98.1
 https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/b5885ea7-009a-4e46-8b44-3da1d7860ab8
+#EXTINF:-1 group-title="South Korea",(BSOD) KBS Classic FM
+https://radio.bsod.kr/stream/?stn=kbs&ch=1fm
 # 72FM: https://72fm.com/station/499d1484-b8ce-4ec4-827d-e18ea9ef997a
 #EXTINF:-1 group-title="South Korea",CBS Music FM
 https://radio.bsod.kr/stream/?stn=cbs&ch=mfmc
@@ -292,12 +292,12 @@ https://092007.xyz/radio/soshisubs
 # 72FM: https://72fm.com/station/9686c674-268e-46b6-b8e3-c80df26733fd
 #EXTINF:-1 group-title="South Korea",CBS Std FM
 https://radio.bsod.kr/stream/?stn=cbs&ch=sfm
-# 72FM: https://72fm.com/station/fb8a911e-e106-43fa-af7e-9a2da7779164
-#EXTINF:-1 group-title="South Korea",CBS Joy FM
-https://radio.bsod.kr/stream/?stn=cbs&ch=joy4u
 # 72FM: https://72fm.com/station/9b8512b7-436d-4da8-8777-633ad9b6671f
 #EXTINF:-1 group-title="South Korea",CBS JOY4U
 https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/fb8a911e-e106-43fa-af7e-9a2da7779164
+#EXTINF:-1 group-title="South Korea",CBS Joy FM
+https://radio.bsod.kr/stream/?stn=cbs&ch=joy4u
 # 72FM: https://72fm.com/station/817d592b-206d-44d1-b58e-3f03c09af18a
 #EXTINF:-1 group-title="South Korea",KBS 3radio
 https://radio.bsod.kr/stream/?stn=kbs&ch=3radio
