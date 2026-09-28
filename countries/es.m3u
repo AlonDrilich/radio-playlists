@@ -295,12 +295,12 @@ https://atres-live.ondacero.es/live/delegaciones/oc/valencia/master.m3u8
 # 72FM: https://72fm.com/station/49b2b4f0-c60f-11e8-a498-52543be04c81
 #EXTINF:-1 group-title="Spain",COPE Santander
 http://wecast03-o-cloud.flumotion.com/copesedes/santander.mp3
-# 72FM: https://72fm.com/station/c57dca9e-00c2-4aa9-bf95-29cf824f686a
-#EXTINF:-1 group-title="Spain",C. DIAL Latino
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
 # 72FM: https://72fm.com/station/b643d14c-03ce-4808-b6bc-8ccaa88fb2fa
 #EXTINF:-1 group-title="Spain",Onda Cero Bilbao
 https://atres-live.ondacero.es/live/delegaciones/oc/bilbao/bitrate_1.m3u8
+# 72FM: https://72fm.com/station/c57dca9e-00c2-4aa9-bf95-29cf824f686a
+#EXTINF:-1 group-title="Spain",C. DIAL Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
 # 72FM: https://72fm.com/station/e657d33c-f344-11e9-a96c-52543be04c81
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png" group-title="Spain",Los 40 Catalunya
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC
@@ -376,15 +376,15 @@ https://cadena100bcn-cope.flumotion.com/playlist.m3u8
 # 72FM: https://72fm.com/station/96056be6-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://radioalmaina.org/wp-content/uploads/2023/10/cropped-logo_radio_almaina-1-180x180.png" group-title="Spain",Radio Almaina
 http://s.streampunk.cc/almaina.ogg
+# 72FM: https://72fm.com/station/0f020519-257c-49b5-9e63-dfa9596f515e
+#EXTINF:-1 tvg-logo="https://www.radiomaria.es/favicon.ico" group-title="Spain",Radio María España
+http://dreamsiteradiocp2.com:8030/;stream.mp3
 # 72FM: https://72fm.com/station/7bf11719-575a-4f41-bdbf-d82a6e86e72d
 #EXTINF:-1 group-title="Spain",Free FM Top 100
 http://stream.zeno.fm/a5h7vfret68uv
 # 72FM: https://72fm.com/station/98a21771-737f-4aa8-aa41-465b1b9cb677
 #EXTINF:-1 group-title="Spain",Radio Cadena Stereo España
 http://stream-179.surfernetwork.com/kpe30u471mruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrcGUzMHU0NzFtcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlFQWk8tU0NVUXIybEY3SmVpUkFZOVEiLCJpYXQiOjE3OTA0MjI2NDMsImV4cCI6MTc5MDQyMjcwM30.CXw5taaC3NldWN5Mb45vn2hsdwFs5agCzSk4BVrdAXU
-# 72FM: https://72fm.com/station/0f020519-257c-49b5-9e63-dfa9596f515e
-#EXTINF:-1 tvg-logo="https://www.radiomaria.es/favicon.ico" group-title="Spain",Radio María España
-http://dreamsiteradiocp2.com:8030/;stream.mp3
 # 72FM: https://72fm.com/station/ac31acc8-4acc-488d-851c-19db501e8233
 #EXTINF:-1 group-title="Spain",Radio Nervión
 https://gruponervion.streaming-pro.com:6131/
@@ -430,6 +430,9 @@ https://axarquia.emisiononline.es/radio/8040/radio.mp3
 # 72FM: https://72fm.com/station/7dd8b01e-5d9b-11ea-be63-52543be04c81
 #EXTINF:-1 group-title="Spain",Radio Radio Network
 http://radioradio.es:8000/stream
+# 72FM: https://72fm.com/station/00526b4f-47a3-432d-baca-f914c1273f0b
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/871/cope-madrid.51d780e3.png" group-title="Spain",Cope Madrid FM
+https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3
 # 72FM: https://72fm.com/station/03fa5087-3dfd-410e-8930-6969afedb509
 #EXTINF:-1 group-title="Spain",Europa FM Guipuzcoa
 https://stream.zeno.fm/se76qau1hc9uv
@@ -439,9 +442,6 @@ https://libertaddigital-radio-live2.flumotion.com/libertaddigital/ld-live2-low.m
 # 72FM: https://72fm.com/station/6f8e0492-d632-4300-8662-197f9fec36ea
 #EXTINF:-1 group-title="Spain",华夏之声China FM·西班牙马德里FM92.9
 https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream
-# 72FM: https://72fm.com/station/00526b4f-47a3-432d-baca-f914c1273f0b
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/871/cope-madrid.51d780e3.png" group-title="Spain",Cope Madrid FM
-https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3
 # 72FM: https://72fm.com/station/96448ef7-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Spain",Exito Radio
 http://5.135.183.124:9252/stream
@@ -529,24 +529,24 @@ https://stream.zeno.fm/azgx0ktf4p8uv
 # 72FM: https://72fm.com/station/96380b38-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Spain",Radio Carrizal
 http://streaming.enantena.com:8000/radiocarrizal128.mp3
-# 72FM: https://72fm.com/station/f785408d-b933-4391-bef5-476cfa2dc2b8
-#EXTINF:-1 group-title="Spain",Radio Nostalgia Spain
-http://streamingv2.shoutcast.com/nostalgiaspain
 # 72FM: https://72fm.com/station/1473dc0b-23b1-4923-8892-7c467f712867
 #EXTINF:-1 tvg-logo="https://cadenaser.com/pf/resources/img/favicon.png?d=765" group-title="Spain",Cadena Ser Guadix
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIXAAC_SC
+# 72FM: https://72fm.com/station/f785408d-b933-4391-bef5-476cfa2dc2b8
+#EXTINF:-1 group-title="Spain",Radio Nostalgia Spain
+http://streamingv2.shoutcast.com/nostalgiaspain
 # 72FM: https://72fm.com/station/128b288d-94ec-4db9-b901-75deca97033c
 #EXTINF:-1 tvg-logo="https://multicanalradio.com/wp-content/uploads/2023/10/logo_and.png" group-title="Spain",Multicanal Radio
 https://a2.asurahosting.com:8800/radio.mp3
 # 72FM: https://72fm.com/station/29fd4b10-6bb3-4b11-b253-99267696f531
 #EXTINF:-1 group-title="Spain",FORMULA 10 MUSICA
 https://formula10musica.stream.laut.fm/formula10musica
-# 72FM: https://72fm.com/station/7c9d25ce-b80f-4567-bcbe-c81229137e13
-#EXTINF:-1 group-title="Spain",Corazón FM 89.2
-https://stream2.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3
 # 72FM: https://72fm.com/station/72eec378-2827-4f5c-a55f-5c5ebe73a494
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="Spain",Free FM
 https://rocafmadrid.radioca.st/
+# 72FM: https://72fm.com/station/7c9d25ce-b80f-4567-bcbe-c81229137e13
+#EXTINF:-1 group-title="Spain",Corazón FM 89.2
+https://stream2.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3
 # 72FM: https://72fm.com/station/04d1ade1-d14d-4d85-9378-9c8fcd89e30f
 #EXTINF:-1 group-title="Spain",Pepe Radio
 http://server10.emitironline.com:8032/
@@ -655,18 +655,18 @@ http://radioplaneta.emitironline.com:8000/
 # 72FM: https://72fm.com/station/01dd57ed-db38-4b33-bd4e-7a5ee8bcfe50
 #EXTINF:-1 group-title="Spain",Cadena SER Sevilla
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
-# 72FM: https://72fm.com/station/b0ece413-19a6-4065-a702-410ca90ba078
-#EXTINF:-1 group-title="Spain",Makina Fm
-https://stream-157.zeno.fm/roqewn7dp4gtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyb3Fld243ZHA0Z3R2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsImp0aSI6IkI0SXZuWFRBU21LVWRvWUZqSGstcUEiLCJpYXQiOjE3MTU0NzA1NzUsImV4cCI6MTcxNTQ3MDYzNX0.1HVDh84CZBnlRWWluiPLbGWAXEHbpedQw55Kv8AZZYg&zttl=5
 # 72FM: https://72fm.com/station/328563aa-8f11-472b-a191-e684bfe3afec
 #EXTINF:-1 tvg-logo="https://mytuner-radio.com/favicon.ico" group-title="Spain",80s 90s Absolute Hits
 https://live.streamthe.world/absolutehits
-# 72FM: https://72fm.com/station/01adaafa-0ad7-4813-9427-add061d78b91
-#EXTINF:-1 tvg-logo="https://www.100porcientosalsa.com/wp-content/uploads/2024/08/LOGOBALANCE.png" group-title="Spain",100 % SALSA
-https://stm01.streammaximum.com:8194/;
 # 72FM: https://72fm.com/station/5fc62f93-56f8-4df8-92b2-0bf285df6996
 #EXTINF:-1 group-title="Spain",Radio Voz (A Coruña)
 https://live.radiovoz.es/mp3/stream_coruna.mp3
+# 72FM: https://72fm.com/station/b0ece413-19a6-4065-a702-410ca90ba078
+#EXTINF:-1 group-title="Spain",Makina Fm
+https://stream-157.zeno.fm/roqewn7dp4gtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyb3Fld243ZHA0Z3R2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsImp0aSI6IkI0SXZuWFRBU21LVWRvWUZqSGstcUEiLCJpYXQiOjE3MTU0NzA1NzUsImV4cCI6MTcxNTQ3MDYzNX0.1HVDh84CZBnlRWWluiPLbGWAXEHbpedQw55Kv8AZZYg&zttl=5
+# 72FM: https://72fm.com/station/01adaafa-0ad7-4813-9427-add061d78b91
+#EXTINF:-1 tvg-logo="https://www.100porcientosalsa.com/wp-content/uploads/2024/08/LOGOBALANCE.png" group-title="Spain",100 % SALSA
+https://stm01.streammaximum.com:8194/;
 # 72FM: https://72fm.com/station/03ca007a-cc8d-4b31-93cf-28a6a10f922f
 #EXTINF:-1 group-title="Spain",Kiss FM
 https://frontend.streamonkey.net/fhn-gong971/stream/mp3
@@ -679,18 +679,18 @@ http://flucast-bl02.flumotion.com/cope/rockfm.aac
 # 72FM: https://72fm.com/station/b11e885d-e303-44ae-9db6-5ed3d6ec2947
 #EXTINF:-1 tvg-logo="https://secure.gravatar.com/blavatar/2674f97dc6ffb1ffca407a88951818c7" group-title="Spain",Radio Malva 104.9FM
 http://radiomalva.ddns.net:8000/rmbc.ogg
-# 72FM: https://72fm.com/station/0a7c6cdf-c22e-4a58-bc45-983b507d035b
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9u-dekaPrK3ofEaKOK0dUp5aQQnRCBnR2bAOYFBLRYjQHLLnTaneDm7NY7qtiuHYnEMo6KOheQ7eyCdvcDiZZjL3e60Lzd38yXpxwSSFEcqR5eVd95T7as-SybDgi5BW0g=w1280" group-title="Spain",Free FM Chill
-https://freefmchill.radioca.st/
-# 72FM: https://72fm.com/station/6da055c0-389c-40d8-bd16-f90167987c14
-#EXTINF:-1 group-title="Spain",RNE - Radio Clásica
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
 # 72FM: https://72fm.com/station/6655d7e7-6e26-473d-8eaf-08f42cfe5570
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2017/09/1000-Hits-Spain-100x47.jpg" group-title="Spain",1000 Hits Spain
 https://c2.auracast.net:8022/;
 # 72FM: https://72fm.com/station/18ad8ae6-019d-4782-8faa-fb348d9fcae0
 #EXTINF:-1 tvg-logo="https://logo.clearbit.com/los40.com" group-title="Spain",LOS40
 https://20103.live.streamtheworld.com/LOS40_SC
+# 72FM: https://72fm.com/station/0a7c6cdf-c22e-4a58-bc45-983b507d035b
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9u-dekaPrK3ofEaKOK0dUp5aQQnRCBnR2bAOYFBLRYjQHLLnTaneDm7NY7qtiuHYnEMo6KOheQ7eyCdvcDiZZjL3e60Lzd38yXpxwSSFEcqR5eVd95T7as-SybDgi5BW0g=w1280" group-title="Spain",Free FM Chill
+https://freefmchill.radioca.st/
+# 72FM: https://72fm.com/station/6da055c0-389c-40d8-bd16-f90167987c14
+#EXTINF:-1 group-title="Spain",RNE - Radio Clásica
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
 # 72FM: https://72fm.com/station/fc6ccb8d-7362-469d-b33f-0a97df9260e2
 #EXTINF:-1 group-title="Spain",ENERGIA FM - CARAVACA DE LA CRUZ 90.0
 http://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3
@@ -700,12 +700,12 @@ https://stream-153.zeno.fm/xilwjn4t17qvv
 # 72FM: https://72fm.com/station/3e40eb83-289f-11ea-aa0c-52543be04c81
 #EXTINF:-1 group-title="Spain",Spectrum FM Costa Almeria
 https://eu8.fastcast4u.com/proxy/almeria2?mp=/1
-# 72FM: https://72fm.com/station/9cd294c5-180a-45c4-bf87-d80e77960d78
-#EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Spain",Smooth Jazz Classics by Cloud Jazz
-https://stream-57.zeno.fm/w3phtkukfg8uv?zs=90IfdbcARnS99_b8RaX9sQ&acu-uid=736851429618&dyn-uid=&an-uid=0&mm-uid=a42b63d5-b9eb-4f00-9692-60c79195c3a4&triton-uid=cookie%3A7e5c2d9b-9c30-46f6-b8b4-0354fd4dd340&amb-uid=3916839388731891724
 # 72FM: https://72fm.com/station/2b20d878-34f6-449e-a592-7c6b370d8989
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt0mmZmn/logo.png" group-title="Spain",Play Trance Radio Uplifting Only Channel (High Quality)
 https://streaming.playtrance.com/playtrance-uplifting-high
+# 72FM: https://72fm.com/station/9cd294c5-180a-45c4-bf87-d80e77960d78
+#EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Spain",Smooth Jazz Classics by Cloud Jazz
+https://stream-57.zeno.fm/w3phtkukfg8uv?zs=90IfdbcARnS99_b8RaX9sQ&acu-uid=736851429618&dyn-uid=&an-uid=0&mm-uid=a42b63d5-b9eb-4f00-9692-60c79195c3a4&triton-uid=cookie%3A7e5c2d9b-9c30-46f6-b8b4-0354fd4dd340&amb-uid=3916839388731891724
 # 72FM: https://72fm.com/station/162203ff-03dc-46ce-8fa3-ba16019fc7cb
 #EXTINF:-1 group-title="Spain",RADIOLE (España)
 https://20043.live.streamtheworld.com/RADIOLE.mp3
@@ -718,27 +718,27 @@ https://22543.live.streamtheworld.com/LOS40_CLASSIC.mp3
 # 72FM: https://72fm.com/station/c1406a3c-e278-4c07-81e2-3b9771094547
 #EXTINF:-1 tvg-logo="https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png" group-title="Spain",COPE Tenerife
 https://wecast01-o-cloud.flumotion.com/copesedes/tenerife-mas.mp3
+# 72FM: https://72fm.com/station/50289e26-93e2-45e4-802e-222067940cff
+#EXTINF:-1 tvg-logo="https://copecieza.es/wp-content/uploads/2023/11/LOGO-COPE-CIEZA.jpg" group-title="Spain",Cope Cieza
+https://sonic.mediatelekom.net/8448/;?type=http&nocache=107036
 # 72FM: https://72fm.com/station/0ba93d6e-74e8-401f-ba5d-01673e3bafeb
 #EXTINF:-1 group-title="Spain",Loca FM
 http://s47.myradiostream.com:13914/;
 # 72FM: https://72fm.com/station/3ca6ceb6-c394-4b44-b151-6f5add5cd100
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240620_101739265.jpg?alt=media&token=c3ddd8ca-8050-4aa8-9caf-3433ce5d24b7" group-title="Spain",Cadena Ser +
 https://27953.live.streamtheworld.com/CADENASER_ALT1AAC.aac
-# 72FM: https://72fm.com/station/50289e26-93e2-45e4-802e-222067940cff
-#EXTINF:-1 tvg-logo="https://copecieza.es/wp-content/uploads/2023/11/LOGO-COPE-CIEZA.jpg" group-title="Spain",Cope Cieza
-https://sonic.mediatelekom.net/8448/;?type=http&nocache=107036
 # 72FM: https://72fm.com/station/ebce56b7-28a7-4b09-b1e0-61b975e17604
 #EXTINF:-1 group-title="Spain",RNE Radio 1 Galicia
 https://dispatcher.rndfnk.com/crtve/rne1/gal/mp3/high
-# 72FM: https://72fm.com/station/78b543d6-bdee-444a-a846-c626642c41bb
-#EXTINF:-1 group-title="Spain",SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
-# 72FM: https://72fm.com/station/94f0d7d6-8631-452b-8e04-379f749aeaa6
-#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/724/724528/600/600/kywx97am.png" group-title="Spain",RNE Radio 5 Valencia
-https://d131.rndfnk.com/star/crtve/rne5/vlc/aac/128/stream.aac?cid=01GEP70HQKHM3WJB5GHG662KX3&sid=2MHsjXUN7pFK03vBbXrL08rOPRJ&token=Gu5PoCVPt238lI_sOeSzHZPRNJrKj8eeS4mPRqXzSX4&tvf=AvB-hceGRxdkMTMxLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/f0b0d7fc-b4ec-490c-be74-b4a446c8410f
 #EXTINF:-1 group-title="Spain",Loca FM
 https://s3.we4stream.com:2020/stream/locafm
+# 72FM: https://72fm.com/station/94f0d7d6-8631-452b-8e04-379f749aeaa6
+#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/724/724528/600/600/kywx97am.png" group-title="Spain",RNE Radio 5 Valencia
+https://d131.rndfnk.com/star/crtve/rne5/vlc/aac/128/stream.aac?cid=01GEP70HQKHM3WJB5GHG662KX3&sid=2MHsjXUN7pFK03vBbXrL08rOPRJ&token=Gu5PoCVPt238lI_sOeSzHZPRNJrKj8eeS4mPRqXzSX4&tvf=AvB-hceGRxdkMTMxLnJuZGZuay5jb20
+# 72FM: https://72fm.com/station/78b543d6-bdee-444a-a846-c626642c41bb
+#EXTINF:-1 group-title="Spain",SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 # 72FM: https://72fm.com/station/52ea662c-f600-43e0-a583-ef4c3bea3f50
 #EXTINF:-1 group-title="Spain",LOCA FM 80s
 http://s02.fjperezdj.com:8075/live
@@ -769,12 +769,12 @@ https://ibizasonica.streaming-pro.com:8014/sonicalm
 # 72FM: https://72fm.com/station/668dbdc7-2b56-42b6-9e4f-6ca7f7d07d67
 #EXTINF:-1 tvg-logo="https://radiodiscomelodia.es/favicon.ico" group-title="Spain",Radio Disco Melodia FM
 https://sonic.mediatelekom.net/8020/stream
-# 72FM: https://72fm.com/station/0b45ea7c-d2cd-4af8-8970-2935840ef0ef
-#EXTINF:-1 tvg-logo="https://cadenaser.com/pf/resources/img/favicon.png?d=309" group-title="Spain",SER - Radio Zaragoza
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3
 # 72FM: https://72fm.com/station/a790914b-5ec5-4fc4-bb6e-2f345c2dbe9e
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240620_210054883.jpg?alt=media&token=175e5ab8-cd0d-47e3-a6cb-6bf5bf6edec2" group-title="Spain",Cadena Ser + Bilbao
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_BILBAO.mp3
+# 72FM: https://72fm.com/station/0b45ea7c-d2cd-4af8-8970-2935840ef0ef
+#EXTINF:-1 tvg-logo="https://cadenaser.com/pf/resources/img/favicon.png?d=309" group-title="Spain",SER - Radio Zaragoza
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3
 # 72FM: https://72fm.com/station/defa2299-abff-4130-87be-47ba40b45fab
 #EXTINF:-1 group-title="Spain",Radio del Hogar de la Brisa
 http://stream.zeno.fm/4vwgvyq82k8uv
@@ -787,12 +787,12 @@ https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high
 # 72FM: https://72fm.com/station/960dc74d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://radiobalear.net/wp-content/uploads/2025/01/cropped-icono-rb2-180x180.png" group-title="Spain",Radio Balear 99.9 Palma de Mallorca
 http://server6.20comunicacion.com:8076/
-# 72FM: https://72fm.com/station/86244f1d-3f27-41eb-9fd5-7a6f47820f94
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="Spain",Free FM Love
-http://stream.zeno.fm/umsptm6rvy8uv
 # 72FM: https://72fm.com/station/2090c69c-43b3-11ea-a860-52543be04c81
 #EXTINF:-1 tvg-logo="https://euskalerriairratia.eus/static/img/favicons/fav128.png" group-title="Spain",Euskalerria Irratia
 http://server4.beatproducciones.com:8014/
+# 72FM: https://72fm.com/station/86244f1d-3f27-41eb-9fd5-7a6f47820f94
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="Spain",Free FM Love
+http://stream.zeno.fm/umsptm6rvy8uv
 # 72FM: https://72fm.com/station/055fed0c-c3a9-4488-aa8a-c4eb3828629c
 #EXTINF:-1 group-title="Spain",RNE Radio 5 Galicia
 https://f141.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3?cid=01GEP53FAF08XXF9WHNDFYA8SJ&sid=3Js7lNZQSCFtrqqeQkIThDHytpS&token=hLG6XMsnovF8U_eqx1TLKLsVhQJiRM4Vr2BPz_aYQqk&tvf=xYAqtpX92BhmMTQxLnJuZGZuay5jb20
@@ -808,27 +808,27 @@ https://atres-live.ondacero.es/live/delegaciones/oc/barcelona/bitrate_1.m3u8
 # 72FM: https://72fm.com/station/88e8cc1d-66c8-4758-a3a0-564979d57c9a
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240620_211937553.jpg?alt=media&token=a9626ab2-247a-4891-ad7e-788edd841a05" group-title="Spain",Cadena Ser + Toledo
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_TOLEDO.mp3
-# 72FM: https://72fm.com/station/69ef271d-5f42-4afa-a6a8-1d93249e5df2
-#EXTINF:-1 tvg-logo="https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png" group-title="Spain",COPE Granada-Sta.Fe
-https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
 # 72FM: https://72fm.com/station/39d7fb7f-fc35-4ac5-b33a-15854ca6656c
 #EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg" group-title="Spain",Hits 1 Ibiza
 https://hits1spain-audiomediaradio.radioca.st/hits1mallorca
-# 72FM: https://72fm.com/station/54798787-3fbd-429e-9181-a87e9ee7f739
-#EXTINF:-1 group-title="Spain",COSTA DEL MAR
-http://stream.cdm-chillout.com:8020/stream-AAC-Chill
+# 72FM: https://72fm.com/station/69ef271d-5f42-4afa-a6a8-1d93249e5df2
+#EXTINF:-1 tvg-logo="https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png" group-title="Spain",COPE Granada-Sta.Fe
+https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
 # 72FM: https://72fm.com/station/1d4786b5-f5c1-417f-a88a-01f7e15141fb
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/888/cool-coffee.c29b1a7a.png" group-title="Spain",Cool Coffee
 https://listen.openstream.co/6781/audio
-# 72FM: https://72fm.com/station/5a4253f5-39b6-4e3c-8f7c-4187a8d974a1
-#EXTINF:-1 group-title="Spain",Radio Voz (Compostela)
-https://live.radiovoz.es/mp3/stream_santiago.mp3?source=web&JSESSIONID=B2F48ECDF937FC52DF9C6620C5562234&station=7&dial=Santiago_de_Compostela
 # 72FM: https://72fm.com/station/ce2090b8-76eb-4bf7-9352-e2c2f3cd9ffb
 #EXTINF:-1 tvg-logo="https://img2.rtve.es/css//rtve.2021/i/rtve-logos/logos_cadenas/radio-5_color.svg" group-title="Spain",RNE Radio 5 Las Palmas
 https://d121.rndfnk.com/star/crtve/rne5/lpa/mp3/128/stream.mp3?cid=01GEP4X9Y3EYSQDV2G2MRTWGGZ&sid=2KXdzbu8f6MPAaCmdrAfA7scSHY&token=wiTLRflaxoLHseM8UraPggqszRT9NNr2mUoTnKi8TdU&tvf=6Up4UpPDOxdkMTIxLnJuZGZuay5jb20
+# 72FM: https://72fm.com/station/54798787-3fbd-429e-9181-a87e9ee7f739
+#EXTINF:-1 group-title="Spain",COSTA DEL MAR
+http://stream.cdm-chillout.com:8020/stream-AAC-Chill
 # 72FM: https://72fm.com/station/4dcce9d5-f195-42c1-bfb0-9e396deafa2e
 #EXTINF:-1 group-title="Spain",Radio Surco Tomelloso
 https://carina.streamerr.co:8032/surco
+# 72FM: https://72fm.com/station/5a4253f5-39b6-4e3c-8f7c-4187a8d974a1
+#EXTINF:-1 group-title="Spain",Radio Voz (Compostela)
+https://live.radiovoz.es/mp3/stream_santiago.mp3?source=web&JSESSIONID=B2F48ECDF937FC52DF9C6620C5562234&station=7&dial=Santiago_de_Compostela
 # 72FM: https://72fm.com/station/e76c0295-0477-4f26-98fd-ab2f2236f62c
 #EXTINF:-1 tvg-logo="https://static.ondacero.es/img/favicon.ico?ondacero" group-title="Spain",Onda Cero Santiago de Compostela
 https://atres-live.ondacero.es/live/delegaciones/oc/santiago/master.m3u8
@@ -838,12 +838,12 @@ https://intereconomia.emitironline.com/
 # 72FM: https://72fm.com/station/fabb93fa-355a-476d-95ee-9be8efff844e
 #EXTINF:-1 tvg-logo="https://nostalgiafm.es/favicon.ico" group-title="Spain",Nostalgia
 https://azura.abcorp.es/listen/nostalgia/live
-# 72FM: https://72fm.com/station/1f002642-171a-464a-869f-5054b9d8a260
-#EXTINF:-1 group-title="Spain",Radio Esport 94.1
-http://streaming.radioesport914.com:8000/stream
 # 72FM: https://72fm.com/station/bb9cb63d-f23a-4514-b9a0-9027f1c7d028
 #EXTINF:-1 tvg-logo="https://www.ibizaglobalradio.com/dist/img/logo-igr-20.svg" group-title="Spain",Ibiza Global Classics
 https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3
+# 72FM: https://72fm.com/station/1f002642-171a-464a-869f-5054b9d8a260
+#EXTINF:-1 group-title="Spain",Radio Esport 94.1
+http://streaming.radioesport914.com:8000/stream
 # 72FM: https://72fm.com/station/4a1441aa-9cf9-4d25-b642-e9598884e02b
 #EXTINF:-1 group-title="Spain",IB3 Ràdio Mallorca
 https://icecast.ib3radio.com/ib3radio.mp3
@@ -877,27 +877,27 @@ https://s1.nexuscast.com:8054/1
 # 72FM: https://72fm.com/station/67e787f5-4be6-4584-80e3-15aa12a4952d
 #EXTINF:-1 group-title="Spain",Otaku MusicRadio
 http://kathy.torontocast.com:2880/;
-# 72FM: https://72fm.com/station/0810a990-a85a-472c-ba9c-f18af750a19f
-#EXTINF:-1 tvg-logo="https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-1/312819466_491072619722430_641458663595358072_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XkJA5WOxHPwAb5P-aFn&_nc_ht=scontent-mad2-1.xx&oh=00_AfBB8MPCOejIzK8Xxj32SL7lcq5tT4KclbC3n2LZakLQpQ&oe=66271F66" group-title="Spain",esRadio Granada
-https://azura.abcorp.es/listen/esradio_granada/radio.mp3
 # 72FM: https://72fm.com/station/ca3ad1f0-cc12-47ac-b1c0-85ad671b3560
 #EXTINF:-1 group-title="Spain",copesal
 https://salamanca-copesedes-rrcast.flumotion.com/copesedes/salamanca-low.mp3
+# 72FM: https://72fm.com/station/0810a990-a85a-472c-ba9c-f18af750a19f
+#EXTINF:-1 tvg-logo="https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-1/312819466_491072619722430_641458663595358072_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XkJA5WOxHPwAb5P-aFn&_nc_ht=scontent-mad2-1.xx&oh=00_AfBB8MPCOejIzK8Xxj32SL7lcq5tT4KclbC3n2LZakLQpQ&oe=66271F66" group-title="Spain",esRadio Granada
+https://azura.abcorp.es/listen/esradio_granada/radio.mp3
 # 72FM: https://72fm.com/station/d8e381de-b538-4579-8a2e-d57e3e37370a
 #EXTINF:-1 group-title="Spain",EDENEX
 http://164.138.210.62:13121/stream
 # 72FM: https://72fm.com/station/4b8b39c7-54a7-4e97-b9a9-e7dfda5eaa81
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="Spain",TDP TV
 https://ztnr.rtve.es/ztnr/1712295.m3u8
+# 72FM: https://72fm.com/station/9d5fe77a-04ce-4f68-a317-daed0246ba12
+#EXTINF:-1 group-title="Spain",Radio Bolero (Alcoy 97.7 FM)
+https://romanticafm.radioca.st/
 # 72FM: https://72fm.com/station/8bca3a31-d6aa-4aa9-bf84-6c08284c6dbd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7ccdcc_8d4e472bce864c9c8939f60f80f0d9fa%7emv2_d_1900_1478_s_2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/7ccdcc_8d4e472bce864c9c8939f60f80f0d9fa%7emv2_d_1900_1478_s_2.png" group-title="Spain",La Movida Latina
 https://server2.ejeserver.com:8400/stream
 # 72FM: https://72fm.com/station/73fd1529-ee8b-408d-9ce9-6d77b39941f7
 #EXTINF:-1 group-title="Spain",Onda Cero Granada
 https://atres-live.ondacero.es/live/delegaciones/oc/granada/bitrate_1.m3u8
-# 72FM: https://72fm.com/station/9d5fe77a-04ce-4f68-a317-daed0246ba12
-#EXTINF:-1 group-title="Spain",Radio Bolero (Alcoy 97.7 FM)
-https://romanticafm.radioca.st/
 # 72FM: https://72fm.com/station/1fc2ef8f-9ea7-4f6c-8e23-8c5ae10fb865
 #EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/streaming/logo_zuzenean_radio_vitoria.png" group-title="Spain",Radio Vitoria
 https://multimedia.eitb.eus/live-content/radiovitoria-hls/bitrate_1.m3u8

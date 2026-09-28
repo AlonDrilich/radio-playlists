@@ -193,12 +193,12 @@ https://quincy.torontocast.com:2020/stream.mp3
 # 72FM: https://72fm.com/station/3eacb8df-5cc0-4c6b-9a6f-084eeadb55c5
 #EXTINF:-1 group-title="Japan",J-Pop Powerplay
 https://kathy.torontocast.com:3560/;
-# 72FM: https://72fm.com/station/dbc6d144-67d0-4581-a93d-6b3d69a13079
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png" group-title="Japan",NHK WORLD RADIO 12
-https://master.nhkworld.jp/nhkworld-radio/playlist/kai/live.m3u8
 # 72FM: https://72fm.com/station/61f37beb-ded9-4dfb-aef0-1715b835a155
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan",NHK WORLD RADIO 3
 http://shoutcast.wrn.org:8025/nhk41left
+# 72FM: https://72fm.com/station/dbc6d144-67d0-4581-a93d-6b3d69a13079
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png" group-title="Japan",NHK WORLD RADIO 12
+https://master.nhkworld.jp/nhkworld-radio/playlist/kai/live.m3u8
 # 72FM: https://72fm.com/station/ce03f456-47f6-447f-8834-19cf0b808fc8
 #EXTINF:-1 group-title="Japan",J-Pop Sakura
 http://quincy.torontocast.com:2070/stream.mp3
@@ -238,15 +238,15 @@ https://stream.zenolive.com/xwa8ckz7mzzuv.aac
 # 72FM: https://72fm.com/station/87dabf49-c5ad-4906-b0bb-9716b710385a
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/e2ba4c2950bdc47c7af05acebcdb9661" group-title="Japan",Justplay
 https://justplay.stream.laut.fm/justplay
-# 72FM: https://72fm.com/station/ba5af88c-6fa9-4f56-990f-c0eaaf7c37ba
-#EXTINF:-1 tvg-logo="https://listen.moe/favicon.ico" group-title="Japan",Listen.Moe JPop Vorbis
-https://listen.moe/stream
-# 72FM: https://72fm.com/station/f224c900-8796-4063-8aca-0bb3afd8507f
-#EXTINF:-1 tvg-logo="https://hkradio.myaddr.io/api/station/new_radio/art/a6ea0df6141aff3b0519c707-1744450585.jpg" group-title="Japan",A Radio for ACG & others
-https://hkradio.myaddr.io/listen/new_radio/radio.aac
 # 72FM: https://72fm.com/station/fc7ccfdf-6e00-4d68-bb57-c8bf881510a0
 #EXTINF:-1 group-title="Japan",SHMUPRADIO
 https://stream.shmupradio.com/320
+# 72FM: https://72fm.com/station/f224c900-8796-4063-8aca-0bb3afd8507f
+#EXTINF:-1 tvg-logo="https://hkradio.myaddr.io/api/station/new_radio/art/a6ea0df6141aff3b0519c707-1744450585.jpg" group-title="Japan",A Radio for ACG & others
+https://hkradio.myaddr.io/listen/new_radio/radio.aac
+# 72FM: https://72fm.com/station/ba5af88c-6fa9-4f56-990f-c0eaaf7c37ba
+#EXTINF:-1 tvg-logo="https://listen.moe/favicon.ico" group-title="Japan",Listen.Moe JPop Vorbis
+https://listen.moe/stream
 # 72FM: https://72fm.com/station/1e054608-8472-4535-a9b5-f36c6282b958
 #EXTINF:-1 tvg-logo="https://fmsetagaya.com/wp/wp-content/uploads/2020/02/1400-300x300.jpg" group-title="Japan",83.4MHz FMSETAGAYA
 https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a

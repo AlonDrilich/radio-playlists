@@ -202,12 +202,12 @@ https://icecast.stv.livebox.sk/fm_128.mp3
 # 72FM: https://72fm.com/station/e876d397-4a73-4a31-aa94-810aeec81465
 #EXTINF:-1 tvg-logo="https://radioextra.sk/favicon.ico" group-title="Slovakia",Radio Extra
 http://live.topradio.cz:8000/extra192
-# 72FM: https://72fm.com/station/42b85b36-77e3-11ea-b1cf-52543be04c81
-#EXTINF:-1 group-title="Slovakia",G-Radio
-http://88.212.34.18:8050/mp3midband
 # 72FM: https://72fm.com/station/960f2635-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Slovakia",SRo5 Rádio Pátria /RSI
 http://live.slovakradio.sk:8000/Patria_128.mp3
+# 72FM: https://72fm.com/station/42b85b36-77e3-11ea-b1cf-52543be04c81
+#EXTINF:-1 group-title="Slovakia",G-Radio
+http://88.212.34.18:8050/mp3midband
 # 72FM: https://72fm.com/station/6ae3a862-44eb-44da-8c21-d87aaa10e582
 #EXTINF:-1 group-title="Slovakia",Top Rádio
 https://solid1.streamupsolutions.com/proxy/vhhggmih/stream
@@ -235,15 +235,15 @@ http://live.slovakradio.sk:8000/Devin_256.mp3
 # 72FM: https://72fm.com/station/b6c91be8-beb1-4d2e-8ab7-3c853e19bdb5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdT0UbB.png" group-title="Slovakia",RÁDIO_FM
 http://live.slovakradio.sk:8000/FM_256.mp3
-# 72FM: https://72fm.com/station/2eed477d-5f84-4d7f-b126-f9b8a1631bcc
-#EXTINF:-1 group-title="Slovakia",Rádio Logos
-http://radioserver.online:8824/;
 # 72FM: https://72fm.com/station/7197943c-8feb-47a0-b76e-aa3e46160c98
 #EXTINF:-1 group-title="Slovakia",Duflo Radio
 http://stream.zeno.fm/kxwhyvz2fm0uv
 # 72FM: https://72fm.com/station/12b9253e-774f-11ea-b1cf-52543be04c81
 #EXTINF:-1 tvg-logo="https://mariaradio.sk/favicon.ico" group-title="Slovakia",Mirjam Rádio - Mária Rádió Felvidék
 http://193.87.81.131:8081/MariaRadioFelvidek
+# 72FM: https://72fm.com/station/2eed477d-5f84-4d7f-b126-f9b8a1631bcc
+#EXTINF:-1 group-title="Slovakia",Rádio Logos
+http://radioserver.online:8824/;
 # 72FM: https://72fm.com/station/a79da3d2-8891-4622-ade3-35b8f7a9979c
 #EXTINF:-1 group-title="Slovakia",Funrádio Mileniálky
 http://stream.funradio.sk:8000/milenialky128.mp3
@@ -286,12 +286,12 @@ https://icecast2.radionet.sk/freshradio.sk
 # 72FM: https://72fm.com/station/524c6d90-493a-4692-aa6d-292ab4cc6350
 #EXTINF:-1 group-title="Slovakia",Rádio KIKS
 https://online.radiokiks.sk:8000/kiks_hq.mp3
-# 72FM: https://72fm.com/station/b1b95ad4-306b-4fb8-9ae8-7859634beffe
-#EXTINF:-1 tvg-logo="https://07912288e7.clvaw-cdnwnd.com/e113f3229f68b2ec4c7679e66a624900/200000070-8cef18cef3/favicon-7.ico?ph=07912288e7" group-title="Slovakia",897
-https://c34.radioboss.fm:8106/stream
 # 72FM: https://72fm.com/station/d05ad985-7193-4de8-80ca-225052e6b1d6
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.430SifHOiQrgPJT5x7bVkwHaCK%26pid%3DApi&f=1&ipt=bc089d517a31dcf260ec12eaa1e9808783150eb69c62a757ac3b4ed4b07a2aaf&ipo=images" group-title="Slovakia",Rádio MÁRIA SLOVENSKO
 https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3
+# 72FM: https://72fm.com/station/b1b95ad4-306b-4fb8-9ae8-7859634beffe
+#EXTINF:-1 tvg-logo="https://07912288e7.clvaw-cdnwnd.com/e113f3229f68b2ec4c7679e66a624900/200000070-8cef18cef3/favicon-7.ico?ph=07912288e7" group-title="Slovakia",897
+https://c34.radioboss.fm:8106/stream
 # 72FM: https://72fm.com/station/1592f35d-74f8-4ed1-a2bf-ad2df2f4e50d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcBjSsG/radio-regina-zapad-w.png" group-title="Slovakia",Rádio Regina Západ
 https://icecast.stv.livebox.sk/regina-ba_128.mp3
@@ -355,9 +355,6 @@ https://stream.radiox.sk:8443/ludovky.mp3
 # 72FM: https://72fm.com/station/9312ae29-0319-486a-854f-78e57493f2f9
 #EXTINF:-1 tvg-logo="https://www.radiox.sk/favicon.ico" group-title="Slovakia",Radio X64
 https://stream.radiox.sk:8443/radiox_64.mp3
-# 72FM: https://72fm.com/station/54c65ed6-6d1b-487f-98ae-a83a7272f069
-#EXTINF:-1 group-title="Slovakia",Rádio Sebastián
-https://s2.ssl-stream.com/listen/radiosebastian/radio.mp3
 # 72FM: https://72fm.com/station/4d0cef7e-cdb6-4143-9318-50d5205904aa
 #EXTINF:-1 group-title="Slovakia",Detské rádio
 http://stream.21.sk/detskeradio-128.mp3
@@ -367,3 +364,6 @@ https://stream.bauermedia.sk/expres-hi.mp3
 # 72FM: https://72fm.com/station/9c57e5ad-5d3a-4fea-bdd2-880de93a60fe
 #EXTINF:-1 tvg-logo="https://radiorock.sk/favicon-v4.png" group-title="Slovakia",Rádio Rock
 https://stream.bauermedia.sk/rock-hi.mp3?aw_0_req.gdpr=false
+# 72FM: https://72fm.com/station/54c65ed6-6d1b-487f-98ae-a83a7272f069
+#EXTINF:-1 group-title="Slovakia",Rádio Sebastián
+https://s2.ssl-stream.com/listen/radiosebastian/radio.mp3

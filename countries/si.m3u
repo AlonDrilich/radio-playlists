@@ -175,12 +175,12 @@ http://live2.infonetmedia.si:8000/Maxi
 # 72FM: https://72fm.com/station/961fc154-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Slovenia",Radio Triglav
 http://live.radiotriglav.si/Triglav
-# 72FM: https://72fm.com/station/e3cee858-515d-11e8-a4d1-52543be04c81
-#EXTINF:-1 group-title="Slovenia",radio nula 2
-http://streaming.radionula.com:8800/channel2
 # 72FM: https://72fm.com/station/d560008c-dcc0-4049-8186-29f22d0fbca8
 #EXTINF:-1 group-title="Slovenia",Radio Capris Rock
 http://stream02.exit.si:8000/ROCK?
+# 72FM: https://72fm.com/station/e3cee858-515d-11e8-a4d1-52543be04c81
+#EXTINF:-1 group-title="Slovenia",radio nula 2
+http://streaming.radionula.com:8800/channel2
 # 72FM: https://72fm.com/station/e655e587-ecf7-4358-9223-5c13b3c12bf3
 #EXTINF:-1 group-title="Slovenia",Radio City
 https://stream1.radiocity.si/CityMp3128.mp3
@@ -271,12 +271,12 @@ https://stream2.nextmedia.si/hls/gex/live.m3u8
 # 72FM: https://72fm.com/station/205c1286-82d2-4f69-a9c4-8d3e5af5890d
 #EXTINF:-1 tvg-logo="https://www.radioprlek.net/templates/jd_medical/images/presets/preset3/logo.png" group-title="Slovenia",Radio Prlek
 http://86.61.68.81:8000/;stream.nsv&type=mp3
-# 72FM: https://72fm.com/station/c8f00dda-0149-4f77-91ef-0bbb4d29fa5c
-#EXTINF:-1 group-title="Slovenia",Rádio Timea
-http://evcast.mediacp.eu:1480/stream
 # 72FM: https://72fm.com/station/aa1baab7-c967-478a-84e2-db318443ec90
 #EXTINF:-1 group-title="Slovenia",Rock radio classics
 https://stream.nextmedia.si/proxy/rocks_3
+# 72FM: https://72fm.com/station/c8f00dda-0149-4f77-91ef-0bbb4d29fa5c
+#EXTINF:-1 group-title="Slovenia",Rádio Timea
+http://evcast.mediacp.eu:1480/stream
 # 72FM: https://72fm.com/station/951c98de-9b51-4184-877f-44a5adb841b4
 #EXTINF:-1 group-title="Slovenia",MARŠ 95,9 MHz
 http://frekvenca.eu:8000/radiomars.mp3
@@ -349,15 +349,15 @@ http://89.142.192.172/live
 # 72FM: https://72fm.com/station/b63e193f-5950-487e-9d7e-1dad35498b61
 #EXTINF:-1 tvg-logo="https://media.radio1.si/ico/192.png" group-title="Slovenia",Radio 1 Koroska
 https://live.radio1.si/Radio1KOR
-# 72FM: https://72fm.com/station/2e9820c7-82d8-4f51-a12a-712e56a1e932
-#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/logo-capris.svg" group-title="Slovenia",Radio Capris Number 1's
-http://stream02.exit.si:8000/NO1?
-# 72FM: https://72fm.com/station/91ad39dd-a4c3-4cf7-8607-6ec861496e85
-#EXTINF:-1 tvg-logo="https://www.capitalradio.sl/wp/wp-content/uploads/2021/01/cropped-caplogo.gif" group-title="Slovenia",Capital Radio SL
-http://live.capitalradio.sl/
 # 72FM: https://72fm.com/station/f3e61ba2-c0e0-498b-9957-016b67783a9c
 #EXTINF:-1 group-title="Slovenia",Koroški radio
 https://live.radio.si/Koroski
+# 72FM: https://72fm.com/station/2e9820c7-82d8-4f51-a12a-712e56a1e932
+#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/logo-capris.svg" group-title="Slovenia",Radio Capris Number 1's
+http://stream02.exit.si:8000/NO1?
 # 72FM: https://72fm.com/station/e27dfe0a-1b8f-4099-a460-4b742ecd964d
 #EXTINF:-1 tvg-logo="https://www.radiometeor.si/logo.png" group-title="Slovenia",Radio METEOR .si
 https://stream.radiometeor.si/listen/meteor/live.mp3
+# 72FM: https://72fm.com/station/91ad39dd-a4c3-4cf7-8607-6ec861496e85
+#EXTINF:-1 tvg-logo="https://www.capitalradio.sl/wp/wp-content/uploads/2021/01/cropped-caplogo.gif" group-title="Slovenia",Capital Radio SL
+http://live.capitalradio.sl/
