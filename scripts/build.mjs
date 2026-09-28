@@ -301,6 +301,9 @@ function m3u(title, entries, groupOf) {
     if (s.logo) attrs.push(`tvg-logo="${s.logo}"`);
     const group = attr(groupOf(s));
     if (group) attrs.push(`group-title="${group}"`);
+    // Kodi's IPTV Simple Client files channels marked radio="true" under Radio, not TV;
+    // players that do not know the attribute ignore it.
+    attrs.push('radio="true"');
     lines.push(`# 72FM: ${SITE}/station/${s.uuid}`);
     lines.push(`#EXTINF:-1${attrs.length ? ' ' + attrs.join(' ') : ''},${s.name}`);
     lines.push(s.url);
@@ -752,7 +755,7 @@ Standard extended M3U, UTF-8:
 \`\`\`
 #EXTM3U
 # 72FM: https://72fm.com/station/<stationuuid>
-#EXTINF:-1 tvg-logo="https://…/logo.png" group-title="Germany",Station name
+#EXTINF:-1 tvg-logo="https://…/logo.png" group-title="Germany" radio="true",Station name
 https://stream.example.com/live.mp3
 \`\`\`
 
@@ -784,10 +787,18 @@ pyradio -s jazz.m3u          # play it
 pyradio --convert jazz.m3u   # or just convert to jazz.csv
 \`\`\`
 
+**Kodi** – enable the **IPTV Simple Client** PVR add-on (Add-ons → My add-ons →
+PVR clients), open **Configure → General**, choose a remote path and paste a playlist's
+raw URL, for example \`${RAW_BASE}/countries/de.m3u\`. Every entry carries
+\`radio="true"\`, so the stations appear under **Radio** in Kodi's main menu.
+Step-by-step: [72fm.com/guide/kodi-radio](https://72fm.com/guide/kodi-radio).
+
 **Home Assistant** – Home Assistant already ships a Radio Browser integration for
 browsing. To play a specific station from an automation or script, copy its stream
 URL from a playlist and call \`media_player.play_media\` with
 \`media_content_type: music\` and \`media_content_id: <stream URL>\`.
+
+More: [Home Assistant radio guide](https://72fm.com/guide/home-assistant-radio).
 
 **ESP32 / Raspberry Pi radios** – fetch a playlist over HTTP and take every line
 that does not start with \`#\` as a stream URL (the preceding \`#EXTINF\` line has the

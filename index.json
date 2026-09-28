@@ -11,7 +11,7 @@
     "min_country_stations": 5
   },
   "totals": {
-    "working_unique_stations": 48676,
+    "working_unique_stations": 48683,
     "countries": 166,
     "genres": 60
   },
@@ -165,7 +165,7 @@
       "name": "Austria",
       "flag": "🇦🇹",
       "stations": 300,
-      "stations_available": 302,
+      "stations_available": 303,
       "path": "countries/at.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/at.m3u",
       "page_72fm": "https://72fm.com/radio/at"
@@ -296,8 +296,8 @@
       "id": "bg",
       "name": "Bulgaria",
       "flag": "🇧🇬",
-      "stations": 297,
-      "stations_available": 297,
+      "stations": 300,
+      "stations_available": 306,
       "path": "countries/bg.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/bg.m3u",
       "page_72fm": "https://72fm.com/radio/bg"
@@ -374,7 +374,7 @@
       "name": "China",
       "flag": "🇨🇳",
       "stations": 300,
-      "stations_available": 1865,
+      "stations_available": 1861,
       "path": "countries/cn.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/cn.m3u",
       "page_72fm": "https://72fm.com/radio/cn"
@@ -439,8 +439,8 @@
       "id": "cu",
       "name": "Cuba",
       "flag": "🇨🇺",
-      "stations": 18,
-      "stations_available": 18,
+      "stations": 19,
+      "stations_available": 19,
       "path": "countries/cu.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/cu.m3u",
       "page_72fm": "https://72fm.com/radio/cu"
@@ -1177,7 +1177,7 @@
       "name": "Netherlands",
       "flag": "🇳🇱",
       "stations": 300,
-      "stations_available": 1093,
+      "stations_available": 1094,
       "path": "countries/nl.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/nl.m3u",
       "page_72fm": "https://72fm.com/radio/nl"
@@ -1583,8 +1583,8 @@
       "id": "se",
       "name": "Sweden",
       "flag": "🇸🇪",
-      "stations": 187,
-      "stations_available": 187,
+      "stations": 186,
+      "stations_available": 186,
       "path": "countries/se.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/se.m3u",
       "page_72fm": "https://72fm.com/radio/se"
@@ -1847,7 +1847,7 @@
       "id": "2000s",
       "name": "2000s",
       "stations": 300,
-      "stations_available": 409,
+      "stations_available": 410,
       "path": "genres/2000s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/2000s.m3u",
       "page_72fm": null
@@ -1887,7 +1887,7 @@
       "id": "90s",
       "name": "90s",
       "stations": 300,
-      "stations_available": 986,
+      "stations_available": 987,
       "path": "genres/90s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/90s.m3u",
       "page_72fm": "https://72fm.com/genre/90s"
@@ -1987,7 +1987,7 @@
       "id": "classic-rock",
       "name": "Classic Rock",
       "stations": 300,
-      "stations_available": 713,
+      "stations_available": 714,
       "path": "genres/classic-rock.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/classic-rock.m3u",
       "page_72fm": "https://72fm.com/genre/classic-rock"
@@ -2027,7 +2027,7 @@
       "id": "dance",
       "name": "Dance",
       "stations": 300,
-      "stations_available": 1359,
+      "stations_available": 1361,
       "path": "genres/dance.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/dance.m3u",
       "page_72fm": "https://72fm.com/genre/dance"
@@ -2247,7 +2247,7 @@
       "id": "pop",
       "name": "Pop",
       "stations": 300,
-      "stations_available": 5101,
+      "stations_available": 5104,
       "path": "genres/pop.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/pop.m3u",
       "page_72fm": "https://72fm.com/genre/pop"
@@ -2327,7 +2327,7 @@
       "id": "rock",
       "name": "Rock",
       "stations": 300,
-      "stations_available": 2455,
+      "stations_available": 2456,
       "path": "genres/rock.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/rock.m3u",
       "page_72fm": "https://72fm.com/genre/rock"
@@ -2387,7 +2387,7 @@
       "id": "talk",
       "name": "Talk",
       "stations": 300,
-      "stations_available": 1577,
+      "stations_available": 1578,
       "path": "genres/talk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/talk.m3u",
       "page_72fm": "https://72fm.com/genre/talk"
@@ -2447,7 +2447,7 @@
       "id": "top-500",
       "name": "Top 500 by votes",
       "stations": 500,
-      "stations_available": 48676,
+      "stations_available": 48683,
       "path": "top/top-500.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/top/top-500.m3u",
       "page_72fm": "https://72fm.com"

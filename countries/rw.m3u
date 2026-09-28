@@ -5,23 +5,23 @@
 # Listen in the browser: https://72fm.com
 
 # 72FM: https://72fm.com/station/1dc3ae71-b19a-46bc-8ad5-54d6defda867
-#EXTINF:-1 group-title="Rwanda",Radio 1
+#EXTINF:-1 group-title="Rwanda" radio="true",Radio 1
 http://80.241.215.175:5000/;
 # 72FM: https://72fm.com/station/8ff1237e-5f8e-11e9-a622-52543be04c81
-#EXTINF:-1 group-title="Rwanda",RADIO MARIA RWANDA
+#EXTINF:-1 group-title="Rwanda" radio="true",RADIO MARIA RWANDA
 http://dreamsiteradiocp.com:8044/stream
 # 72FM: https://72fm.com/station/f2f65d44-2101-4742-9c93-314f124dedbf
-#EXTINF:-1 group-title="Rwanda",Magic FM
+#EXTINF:-1 group-title="Rwanda" radio="true",Magic FM
 http://listen.rba.co.rw:8080/
 # 72FM: https://72fm.com/station/d05521ae-0b07-4c1e-ac57-939dc30771f0
-#EXTINF:-1 tvg-logo="https://rba.co.rw/icon/icr_home_rwanda.png" group-title="Rwanda",Radio Rwanda
+#EXTINF:-1 tvg-logo="https://rba.co.rw/icon/icr_home_rwanda.png" group-title="Rwanda" radio="true",Radio Rwanda
 https://listen.rba.co.rw:8008/rwanda/
 # 72FM: https://72fm.com/station/e21f6651-f2e0-4fe6-8e45-2cf63b7e5c96
-#EXTINF:-1 group-title="Rwanda",90.7 Magic FM
+#EXTINF:-1 group-title="Rwanda" radio="true",90.7 Magic FM
 http://listen.rba.co.rw:8080/;
 # 72FM: https://72fm.com/station/8518968f-2b34-4959-a941-3c86ddd302b4
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/uOG0m4DEoqAlAohkUfT4sTOslg0TsvxX66pvr3lQbYU/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2IwNzExOTU4LWE0YTMtNGJkMC05MjZmLWE4MTJhZTU5MzMyZC9pbWFnZS8_dT0xNzg0NzI5NjE4MzEx.webp" group-title="Rwanda",MENYA FM
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/uOG0m4DEoqAlAohkUfT4sTOslg0TsvxX66pvr3lQbYU/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2IwNzExOTU4LWE0YTMtNGJkMC05MjZmLWE4MTJhZTU5MzMyZC9pbWFnZS8_dT0xNzg0NzI5NjE4MzEx.webp" group-title="Rwanda" radio="true",MENYA FM
 https://stream.zeno.fm/k5rq7qwkggauv
 # 72FM: https://72fm.com/station/c3fc59e5-c064-44a4-be84-e414e4b3343e
-#EXTINF:-1 tvg-logo="https://travelradio.live/wp-content/uploads/2021/10/cropped-travel-radio-logo-original-1-192x192.png" group-title="Rwanda",Travel Radio Live
+#EXTINF:-1 tvg-logo="https://travelradio.live/wp-content/uploads/2021/10/cropped-travel-radio-logo-original-1-192x192.png" group-title="Rwanda" radio="true",Travel Radio Live
 https://travel-radio-live.radiocult.fm/stream
