@@ -7,9 +7,15 @@
 # 72FM: https://72fm.com/station/9d01e20a-1739-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Cyprus" radio="true",Kiss fm Cyprus 89.0
 http://r1.phileradio.com:8193/89FM
+# 72FM: https://72fm.com/station/9660917f-ce43-11e8-a54a-52543be04c81
+#EXTINF:-1 tvg-logo="https://tpc.googlesyndication.com/simgad/9820055778066934470" group-title="Cyprus" radio="true",Diesi Cyprus 101.1
+http://r1.cloudskep.com/radio/diesi/icecast.audio
 # 72FM: https://72fm.com/station/cb992f71-e64c-11e8-a9cc-52543be04c81
 #EXTINF:-1 group-title="Cyprus" radio="true",Kanali6 (106.00 | 98.6 | 107.00 | 106.9) Lemesos Cyprus Alternative Stream
 http://live3.istoikona.net:8372/stream/2/Title1=Kanali
+# 72FM: https://72fm.com/station/77bf34c0-087b-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://control.divio.com/static/favicon.png" group-title="Cyprus" radio="true",Trito Live
+http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
 # 72FM: https://72fm.com/station/32b7a6bb-40f4-4166-a7d8-73c6ea4ab8dc
 #EXTINF:-1 group-title="Cyprus" radio="true",Σπορ FM 95.0
 http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8
@@ -28,6 +34,9 @@ http://live3.istoikona.net:8278/;
 # 72FM: https://72fm.com/station/0b42d20d-3351-4005-82bb-21a0de5b1233
 #EXTINF:-1 group-title="Cyprus" radio="true",塞浦路斯中文广播
 https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+# 72FM: https://72fm.com/station/59e8078b-2da3-11e8-91bf-52543be04c81
+#EXTINF:-1 group-title="Cyprus" radio="true",Sport FM Cyprus
+http://sportfm-cyprus.live24.gr/sportfm-cyprus
 # 72FM: https://72fm.com/station/9992cf45-3ec2-11e9-aa55-52543be04c81
 #EXTINF:-1 group-title="Cyprus" radio="true",Ράδιο Άγιος Δημήτριος Ακροπόλεως - Κύπρος 93.3
 http://eco.onestreaming.com:8474/
@@ -61,12 +70,12 @@ https://live.enerjiplay.com/stream/dancefm
 # 72FM: https://72fm.com/station/57e9fe17-be3c-4911-aa7e-a302e056b119
 #EXTINF:-1 tvg-logo="https://zenithfm.com.cy/favicon.ico" group-title="Cyprus" radio="true",Zenith
 https://live3.istoikona.net:9836/stream
-# 72FM: https://72fm.com/station/7758bd16-da9a-40db-9333-48a550b0801f
-#EXTINF:-1 tvg-logo="https://bitrecord.one/favicon.ico" group-title="Cyprus" radio="true",BitrRcord
-https://c10.radioboss.fm:18095/stream
 # 72FM: https://72fm.com/station/9699f00f-7251-4f5b-b887-e20fe4b4d048
 #EXTINF:-1 group-title="Cyprus" radio="true",Active 107.4
 https://securestreams3.autopo.st:1417/active
+# 72FM: https://72fm.com/station/7758bd16-da9a-40db-9333-48a550b0801f
+#EXTINF:-1 tvg-logo="https://bitrecord.one/favicon.ico" group-title="Cyprus" radio="true",BitrRcord
+https://c10.radioboss.fm:18095/stream
 # 72FM: https://72fm.com/station/3ee0ecc7-4be2-4ee9-b356-61d98b40d933
 #EXTINF:-1 group-title="Cyprus" radio="true",Love FM
 http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8
@@ -82,12 +91,12 @@ http://live3.istoikona.net/proxy/cooleradio/stream
 # 72FM: https://72fm.com/station/73e9c84f-87cd-4c11-bb8d-492caa909c11
 #EXTINF:-1 tvg-logo="https://feelgood.fm/wp-content/uploads/2025/01/Logo-600x600-1.png" group-title="Cyprus" radio="true",FEELGOOD.FM
 https://radio.feelgood.fm/mp3
-# 72FM: https://72fm.com/station/53cfef35-635f-4c9d-a125-8f627981628e
-#EXTINF:-1 tvg-logo="https://politis.com.cy/images/favicon/favicon-32x32.png" group-title="Cyprus" radio="true",Politis 107.6 FM
-https://cdn.istoikona.com/politis/live/icecast.audio
 # 72FM: https://72fm.com/station/caeab5d2-73f4-4a20-a092-c8146508e67c
 #EXTINF:-1 group-title="Cyprus" radio="true",Mix4.me uplifitng trance web radio
 http://142.132.213.6:8497/stream
+# 72FM: https://72fm.com/station/53cfef35-635f-4c9d-a125-8f627981628e
+#EXTINF:-1 tvg-logo="https://politis.com.cy/images/favicon/favicon-32x32.png" group-title="Cyprus" radio="true",Politis 107.6 FM
+https://cdn.istoikona.com/politis/live/icecast.audio
 # 72FM: https://72fm.com/station/22ee0638-4a0b-4f08-96e3-54e6451a8b97
 #EXTINF:-1 tvg-logo="https://www.njoyradio.com.cy/wp-content/uploads/2021/11/njoy_logo.png" group-title="Cyprus" radio="true",NJOY Radio
 https://stream.radiojar.com/mg7kftnzka3vv
@@ -121,15 +130,21 @@ https://strm.mixlive.eu/mixfm/index.m3u8
 # 72FM: https://72fm.com/station/33cdfba0-cc12-4a39-ae71-1127e6bf9600
 #EXTINF:-1 group-title="Cyprus" radio="true",Zucca
 https://stream.zuccaradio.com/stream?
-# 72FM: https://72fm.com/station/7a0523b9-8d11-4be9-b50a-18343bf8cc8c
-#EXTINF:-1 tvg-logo="https://www.reymod.com/img/apple-touch-icon.png" group-title="Cyprus" radio="true",Radio ReyMod
-https://server.streamcasthd.com:7092/;
 # 72FM: https://72fm.com/station/2e1501dc-dbb8-47d2-bca6-e848107d22c4
 #EXTINF:-1 tvg-logo="https://radioturbo21.com/favicon.ico" group-title="Cyprus" radio="true",Radio Turbo21
 https://radioturbo21.com/radio/stream
+# 72FM: https://72fm.com/station/7a0523b9-8d11-4be9-b50a-18343bf8cc8c
+#EXTINF:-1 tvg-logo="https://www.reymod.com/img/apple-touch-icon.png" group-title="Cyprus" radio="true",Radio ReyMod
+https://server.streamcasthd.com:7092/;
 # 72FM: https://72fm.com/station/1064b224-2700-4d55-979f-b1a570211289
 #EXTINF:-1 group-title="Cyprus" radio="true",Radio T.O.A
 https://live3.istoikona.net/proxy/radiotoa/stream
+# 72FM: https://72fm.com/station/860bed25-d8b1-4266-8d82-a33965242a61
+#EXTINF:-1 group-title="Cyprus" radio="true",CYBC 1
+https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8
 # 72FM: https://72fm.com/station/7e738aa1-e7af-4e4f-81f4-c1bcd0668e22
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvF4MK0D/20260919-231600.jpg" group-title="Cyprus" radio="true",Greek Laika Nonstop Radio
 https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3
+# 72FM: https://72fm.com/station/4b8bfd19-d718-4ebc-b306-e389cab6b70c
+#EXTINF:-1 group-title="Cyprus" radio="true",CYBC 3
+https://r1.cloudskep.com/cybcr/cybc3/playlist.m3u8

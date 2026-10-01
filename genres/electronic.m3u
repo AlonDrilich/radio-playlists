@@ -21,7 +21,7 @@ http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 http://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de
 # 72FM: https://72fm.com/station/960d3f6f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/spacestation-400.png" group-title="Electronic" radio="true",SomaFM Space Station Soma (128k AAC)
-https://ice2.somafm.com/spacestation-128-aac
+https://ice5.somafm.com/spacestation-128-aac
 # 72FM: https://72fm.com/station/342a0e53-ab9b-11e9-88f4-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.trancebase.fm/media/icons/trb/apple-touch-icon.png" group-title="Electronic" radio="true",TranceBase.FM - AAC HD 256k
 http://listen.trancebase.fm/tunein-aac-hd-pls
@@ -42,7 +42,7 @@ https://stream.mixadance.fm/mixadance
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC
 # 72FM: https://72fm.com/station/961173b5-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="Electronic" radio="true",SomaFM Lush (128k MP3)
-https://ice5.somafm.com/lush-128-mp3
+https://ice6.somafm.com/lush-128-mp3
 # 72FM: https://72fm.com/station/9619e894-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="Electronic" radio="true",TMM 2
 https://listen-msmn.sharp-stream.com/nme2.mp3
@@ -63,7 +63,7 @@ http://live.deejay.hr:7002/;
 http://wma08.fluidstream.net:5010/;stream.aac
 # 72FM: https://72fm.com/station/960c154f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",XHEXA "Exa FM" 104.9 FM Mexico City, DF
-http://14223.live.streamtheworld.com/XHEXA_SC
+http://18213.live.streamtheworld.com:3690/XHEXA_SC
 # 72FM: https://72fm.com/station/bc8d535a-2514-11e8-91bf-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Costa del Mar - Deep House
 http://stream.cdm-chillout.com:8012/stream-mp3-Deep
@@ -76,6 +76,9 @@ https://trance-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/9610a8e7-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Jazz Radio Electro Swing
 http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
+# 72FM: https://72fm.com/station/96159295-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Electronic" radio="true",Hi On Line Lounge Radio
+http://mediaserv33.live-streams.nl:8036/live
 # 72FM: https://72fm.com/station/962683f5-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Sunshine Live - Lounge
 http://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/
@@ -235,15 +238,15 @@ http://195.23.85.126:9500/;
 # 72FM: https://72fm.com/station/9369ae3c-5bab-11e9-a622-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",HappyHardcore.com
 https://www.happyhardcore.com/livestreams/p/u9/
+# 72FM: https://72fm.com/station/9f756e2d-8e9b-45f5-8fc1-61573e23036b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png" group-title="Electronic" radio="true",FUN Radio
+http://icecast.funradio.fr/fun-1-44-128
 # 72FM: https://72fm.com/station/41282747-3723-11e8-bb9b-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",European Hit Radio - Party Service
 http://stream.europeanhitradio.com:8000/Stream_12.aac
 # 72FM: https://72fm.com/station/a7955208-a64e-4430-b41c-62de37b14562
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Dub Techno [2]
 http://79.120.39.202:8000/dubtechno
-# 72FM: https://72fm.com/station/9f756e2d-8e9b-45f5-8fc1-61573e23036b
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png" group-title="Electronic" radio="true",FUN Radio
-http://icecast.funradio.fr/fun-1-44-128
 # 72FM: https://72fm.com/station/5f7cdd03-86fc-4d13-89c1-2f9a0b92fc23
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Electronic" radio="true",__CLUB__ by rautemusik (rm.fm)
 https://club-high.rautemusik.fm/?ref=radiobrowser
@@ -267,7 +270,7 @@ https://orf-live.ors-shoutcast.at/fm4-q2a
 http://79.111.14.76:8000/drumbass
 # 72FM: https://72fm.com/station/5b59ea80-6ce9-11e8-b15b-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/defcon400.png" group-title="Electronic" radio="true",SomaFM DEF CON Radio (128k AAC)
-https://ice6.somafm.com/defcon-128-aac
+https://ice5.somafm.com/defcon-128-aac
 # 72FM: https://72fm.com/station/3e225e5d-bc1e-11e8-aaf2-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Sunshine LIve - Trance (64kbps)
 http://stream.sunshine-live.de/trance/aac-64/stream.sunshine-live.de/
@@ -280,12 +283,12 @@ https://stream.technolovers.fm/techno?ref=radiobrowser
 # 72FM: https://72fm.com/station/962a77ca-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",1.FM - Club 1 Radio
 http://strm112.1.fm/club_mobile_mp3
-# 72FM: https://72fm.com/station/a4192629-2918-4416-b614-9e4d49a1f9be
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="Electronic" radio="true",Frisky
-https://stream.frisky.friskyradio.com/frisky_mp3_high
 # 72FM: https://72fm.com/station/6cb69b95-72d9-4ea6-859f-52546a85c1fe
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png" group-title="Electronic" radio="true",# RdMix DJSET 70s 80s 90s
 https://cast1.torontocast.com:4560/stream
+# 72FM: https://72fm.com/station/a4192629-2918-4416-b614-9e4d49a1f9be
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="Electronic" radio="true",Frisky
+https://stream.frisky.friskyradio.com/frisky_mp3_high
 # 72FM: https://72fm.com/station/c0980d93-3271-11e8-91bf-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Virtual DJ radio
 http://virtualdjradio.com:8000/channel1.mp3/;
@@ -343,18 +346,18 @@ https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
 # 72FM: https://72fm.com/station/a1249d7e-eb60-48bf-ba83-ebf3960b9a90
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sunshine_live_Logo_2022.svg/640px-Sunshine_live_Logo_2022.svg.png" group-title="Electronic" radio="true",Sunshine Live
 http://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053?sABC=6557p1o3%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1700250035
-# 72FM: https://72fm.com/station/96293128-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Electronic" radio="true",Radio Dance Music
-http://stream.radiomusic.net:8130/stream
-# 72FM: https://72fm.com/station/aa272086-942c-48ec-b20e-2b4319297886
-#EXTINF:-1 group-title="Electronic" radio="true",Party Mix Radio
-http://stream.zeno.fm/rw6ckefezs8uv
-# 72FM: https://72fm.com/station/9606baf5-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Electronic" radio="true",MDR Sputnik Club
-http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
 # 72FM: https://72fm.com/station/2f7cead0-b1fa-4400-a6dd-8ccfc1be3e03
 #EXTINF:-1 group-title="Electronic" radio="true",Best Of Techno
 http://stream.laut.fm/best-of-techno
+# 72FM: https://72fm.com/station/9606baf5-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Electronic" radio="true",MDR Sputnik Club
+http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3
+# 72FM: https://72fm.com/station/aa272086-942c-48ec-b20e-2b4319297886
+#EXTINF:-1 group-title="Electronic" radio="true",Party Mix Radio
+http://stream.zeno.fm/rw6ckefezs8uv
+# 72FM: https://72fm.com/station/96293128-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Electronic" radio="true",Radio Dance Music
+http://stream.radiomusic.net:8130/stream
 # 72FM: https://72fm.com/station/22423370-efbf-4bf2-a301-5bd918cd8ad5
 #EXTINF:-1 group-title="Electronic" radio="true",Technolovers - BASS HOUSE
 https://stream.technolovers.fm/bass-house?ref=radiobrowser
@@ -366,7 +369,7 @@ https://stream.radio.co/sae989fe39/listen
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
 # 72FM: https://72fm.com/station/9627bacb-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",XHGLX "Exa FM" 91.7 FM Tijuana, BN
-http://18303.live.streamtheworld.com/XHGLX_SC
+http://26313.live.streamtheworld.com/XHGLX_SC
 # 72FM: https://72fm.com/station/2cbba83f-f6ac-488f-8eef-9e675ea57905
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Dream Trance
 http://79.120.39.202:8002/dreamtrance
@@ -385,18 +388,18 @@ http://79.111.14.76:8002/drumbass
 # 72FM: https://72fm.com/station/7f29690c-2cc0-11e8-91bf-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg" group-title="Electronic" radio="true",dinamo.fm locodyno
 http://channels.dinamo.fm/locodyno-mp3
-# 72FM: https://72fm.com/station/6d83b863-e60e-4f50-9916-597f23ebf1ce
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Electronic" radio="true",__HOUSE__ by rautemusik (rm.fm)
-https://house-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/1577922b-0dc0-11ea-a87e-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Радио Сектор / Sector SPACE (flac)
 http://89.223.45.5:8000/space-flac
-# 72FM: https://72fm.com/station/364d9e8c-bdf2-11e8-aaf2-52543be04c81
-#EXTINF:-1 group-title="Electronic" radio="true",RadiOzora Chill
-http://chill.out.airtime.pro:8000/chill_a
+# 72FM: https://72fm.com/station/6d83b863-e60e-4f50-9916-597f23ebf1ce
+#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Electronic" radio="true",__HOUSE__ by rautemusik (rm.fm)
+https://house-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/4d712fdb-596c-495a-80eb-6c0cf2c3e649
 #EXTINF:-1 group-title="Electronic" radio="true",NEU RADIO
 https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
+# 72FM: https://72fm.com/station/364d9e8c-bdf2-11e8-aaf2-52543be04c81
+#EXTINF:-1 group-title="Electronic" radio="true",RadiOzora Chill
+http://chill.out.airtime.pro:8000/chill_a
 # 72FM: https://72fm.com/station/960aaa1b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://upload.kissfm.de/production/static/1675427733216/icons/icon_64.be8y2280000.png" group-title="Electronic" radio="true",98.8 Kiss FM Clubsets
 http://stream.kissfm.de/kissfm-electro/mp3-128/internetradio/
@@ -453,7 +456,7 @@ http://radioserver-professional.it:8000/radio-015
 http://s3.we4stream.com:8045/live
 # 72FM: https://72fm.com/station/48d09371-ce3e-4278-a637-179bdba36cb7
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="Electronic" radio="true",radioeins-rbb-56 kbit/s
-http://d141.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3JqOb4ndswfgbCd3Dpt0PXuBZAc&token=2TNm2D081idorJtq9bAZsHr05tx1ohhPpvokFagCOEM&tvf=eq10fH_N2BhkMTQxLnJuZGZuay5jb20
+http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3K4ezWNz61EKiw0pjjN5BYQItsy&token=hx_dYQ4o1wBeilu7gtF5xapGitFArMbwu57YlaxREIw&tvf=Bs7Em1Za2hhmMTExLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/05d3034c-7599-4fa4-a2c5-3b8cfb055849
 #EXTINF:-1 tvg-logo="https://sky.ee/favicon.ico" group-title="Electronic" radio="true",Sky Plus DnB
 https://edge03.cdn.bitflip.ee:8888/NRJdnb
@@ -462,10 +465,10 @@ https://edge03.cdn.bitflip.ee:8888/NRJdnb
 http://79.120.39.202:9159/
 # 72FM: https://72fm.com/station/96185d96-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",EBM-Radio
-http://www.ebm-radio.org:7000/
+http://ebm-radio.org:8000/
 # 72FM: https://72fm.com/station/96458be5-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",FluxFM - ElektroFlux
-http://fluxfm.streamabc.net/flx-elektroflux-mp3-320-1359322?sABC=6no7qs71%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790435185
+http://fluxfm.streamabc.net/flx-elektroflux-mp3-320-1359322?sABC=6noro5q9%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790883289
 # 72FM: https://72fm.com/station/96da2d3d-89e9-11e9-ad01-52543be04c81
 #EXTINF:-1 tvg-logo="https://italosound.com/logo-cover.png" group-title="Electronic" radio="true",Italo Sound Radio
 http://stream.italosound.com:8000/italosound
@@ -489,7 +492,7 @@ http://s02.fjperezdj.com:8076/live
 https://sh.onweb.gr:7083/stream?type=http&nocache=35812
 # 72FM: https://72fm.com/station/aed36f60-4a68-4c79-866c-da5f9c405d5d
 #EXTINF:-1 group-title="Electronic" radio="true",RainWave Chiptune
-http://allrelays.rainwave.cc/chiptune.ogg
+https://relay.rainwave.cc/chiptune.ogg
 # 72FM: https://72fm.com/station/44b7f191-9478-46b0-a3b5-5a0ea2b2d64e
 #EXTINF:-1 group-title="Electronic" radio="true",ambient.fm
 https://ambient.fm/live/
@@ -499,30 +502,30 @@ https://megapolisfm.md:8443/886
 # 72FM: https://72fm.com/station/d829242c-3412-44ac-9026-a00128d935bc
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s129888d.png" group-title="Electronic" radio="true",Radio Dancefloor 90s
 http://streaming.radiodancefloor.it:443/
-# 72FM: https://72fm.com/station/10674899-aa35-4855-86ee-464e6b279ff4
-#EXTINF:-1 group-title="Electronic" radio="true",Coolfm Dance 90
-https://mediagw.e-tiger.net/stream/zc06
-# 72FM: https://72fm.com/station/7f925432-152f-11ea-a87e-52543be04c81
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="Electronic" radio="true",SomaFM Lush (128k AAC)
-https://ice6.somafm.com/lush-128-aac
-# 72FM: https://72fm.com/station/c6de7ff5-8c25-4e3a-987d-3e0c7ecb9db9
-#EXTINF:-1 group-title="Electronic" radio="true",Technolovers HARDCORE
-https://stream.technolovers.fm/hardcore?ref=radiobrowser
 # 72FM: https://72fm.com/station/e657d33c-f344-11e9-a96c-52543be04c81
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png" group-title="Electronic" radio="true",Los 40 Catalunya
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC
+# 72FM: https://72fm.com/station/10674899-aa35-4855-86ee-464e6b279ff4
+#EXTINF:-1 group-title="Electronic" radio="true",Coolfm Dance 90
+https://mediagw.e-tiger.net/stream/zc06
+# 72FM: https://72fm.com/station/c6de7ff5-8c25-4e3a-987d-3e0c7ecb9db9
+#EXTINF:-1 group-title="Electronic" radio="true",Technolovers HARDCORE
+https://stream.technolovers.fm/hardcore?ref=radiobrowser
+# 72FM: https://72fm.com/station/7f925432-152f-11ea-a87e-52543be04c81
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="Electronic" radio="true",SomaFM Lush (128k AAC)
+https://ice5.somafm.com/lush-128-aac
 # 72FM: https://72fm.com/station/7313a2ed-3c96-4e00-ab2b-73aedd1b6772
 #EXTINF:-1 group-title="Electronic" radio="true",Eurodance
 https://eurodance.stream.laut.fm/eurodance
 # 72FM: https://72fm.com/station/971cedc6-f328-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Traxx FM - Deep
 http://traxx013.ice.infomaniak.ch/traxx013-low.mp3
-# 72FM: https://72fm.com/station/964867ec-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Electronic" radio="true",SomaFM Deep Space One (64k AAC)
-https://ice6.somafm.com/deepspaceone-64-aac
 # 72FM: https://72fm.com/station/af915008-e9f1-4750-bf58-3f774ea5fc4a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbRPNdd/charts-mainstage.jpg" group-title="Electronic" radio="true",# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE - LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE - DANCE - LOUNGE - CHILLOUT - SUMMER - IBIZA HOUSE - WEDDING - BACH - SOULFUL - BEACH - CLUB - GERMANY DJ RADIO - PARTY - BREAKZ - POOL - POP - URBAN - HOT NEW MUSIC
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage
+# 72FM: https://72fm.com/station/964867ec-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Electronic" radio="true",SomaFM Deep Space One (64k AAC)
+https://ice2.somafm.com/deepspaceone-64-aac
 # 72FM: https://72fm.com/station/e70311c9-190c-11ea-a620-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Fréquence Mutine
 http://icecast.infini.fr:8000/mutine
@@ -562,18 +565,18 @@ http://79.120.39.202:8002/dubtechno
 # 72FM: https://72fm.com/station/9e636b65-64ce-478c-b935-523def2c393d
 #EXTINF:-1 group-title="Electronic" radio="true",__BREAKZ.FM__ by rm.fm (rautemusik)
 https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo
-# 72FM: https://72fm.com/station/04fdc3cb-0958-4232-9f51-f946f937c0c6
-#EXTINF:-1 tvg-logo="https://www.smoothjazz.com/sites/default/files/theme/sl-circle-logo.png" group-title="Electronic" radio="true",SmoothLounge.com (320k MP3)
-http://smoothjazz.cdnstream1.com/2586_320.mp3
-# 72FM: https://72fm.com/station/0a84a978-03e1-4ae8-8b5c-f14631de0012
-#EXTINF:-1 group-title="Electronic" radio="true",TechnoBase.FM - AACplus 96k
-http://listen.technobase.fm/tunein-aacplus-pls
-# 72FM: https://72fm.com/station/cfa786ac-cd53-4576-9283-574440ffab71
-#EXTINF:-1 tvg-logo="https://laxmedellin.com/static/images/LogoXMedellinFinal.144d8af15298.png" group-title="Electronic" radio="true",La X Medellín 103.9 FM
-https://tupanel.info:8000/stream
 # 72FM: https://72fm.com/station/62871417-0422-4068-afbb-e43280800b4d
 #EXTINF:-1 group-title="Electronic" radio="true",90s 90s Dance
 http://streams.90s90s.de/eurodance/mp3-192/vradio
+# 72FM: https://72fm.com/station/04fdc3cb-0958-4232-9f51-f946f937c0c6
+#EXTINF:-1 tvg-logo="https://www.smoothjazz.com/sites/default/files/theme/sl-circle-logo.png" group-title="Electronic" radio="true",SmoothLounge.com (320k MP3)
+http://smoothjazz.cdnstream1.com/2586_320.mp3
+# 72FM: https://72fm.com/station/cfa786ac-cd53-4576-9283-574440ffab71
+#EXTINF:-1 tvg-logo="https://laxmedellin.com/static/images/LogoXMedellinFinal.144d8af15298.png" group-title="Electronic" radio="true",La X Medellín 103.9 FM
+https://tupanel.info:8000/stream
+# 72FM: https://72fm.com/station/0a84a978-03e1-4ae8-8b5c-f14631de0012
+#EXTINF:-1 group-title="Electronic" radio="true",TechnoBase.FM - AACplus 96k
+http://listen.technobase.fm/tunein-aacplus-pls
 # 72FM: https://72fm.com/station/fed9a975-d67c-44d1-8591-f44208c196e3
 #EXTINF:-1 tvg-logo="https://doubleclap.dance/wp-content/uploads/2020/05/logo.png" group-title="Electronic" radio="true",Doubleclap Radio
 https://s3.radio.co/scfd7273b2/listen
@@ -604,33 +607,33 @@ https://mp3.ffh.de/ffhchannels/hqeurodance.aac
 # 72FM: https://72fm.com/station/29c01c13-3c62-4a69-8ae3-1f1c0a0be368
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5JqRGN7/technoloversvocaltrance.jpg" group-title="Electronic" radio="true",Techno Lovers FM Vocal Trance
 https://stream.technolovers.fm/vocal-trance
+# 72FM: https://72fm.com/station/10edd1ec-192b-40ff-aaf2-645471d04dfb
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000037533466-mgfbsp-t500x500.jpg" group-title="Electronic" radio="true",CruiseOne Radio
+https://solid24.streamupsolutions.com/proxy/cmxicxxx?mp=/256kbps
 # 72FM: https://72fm.com/station/a509502d-1ba7-4d51-9791-0be5a7d5ec34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/KEXP_logo_%28black_on_orange%29.svg/1890px-KEXP_logo_%28black_on_orange%29.svg.png" group-title="Electronic" radio="true",KEXP 90.3 FM Seattle, WA
 http://live-mp3-128.kexp.org/kexp128.mp3
 # 72FM: https://72fm.com/station/30b51c98-89e5-4058-9955-2abcb1d1e092
 #EXTINF:-1 group-title="Electronic" radio="true",TechnoBase.FM - MP3 192k
 http://listen.technobase.fm/tunein-mp3-pls
-# 72FM: https://72fm.com/station/10edd1ec-192b-40ff-aaf2-645471d04dfb
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000037533466-mgfbsp-t500x500.jpg" group-title="Electronic" radio="true",CruiseOne Radio
-https://solid24.streamupsolutions.com/proxy/cmxicxxx?mp=/256kbps
 # 72FM: https://72fm.com/station/a8d13fe5-2a55-11e8-91bf-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Sunshine Live - Gaming
 http://stream.sunshine-live.de/gaming/mp3-192/stream.sunshine-live.de/
-# 72FM: https://72fm.com/station/960b6d95-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Electronic" radio="true",Radio X Basel (MP3 Stream)
-http://mp3.radiox.ch:8000/standard.mp3
 # 72FM: https://72fm.com/station/3e283b98-a373-43e7-b16c-af332c70a1e9
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Electro Techno [1]
 http://213.141.131.10:8002/electrotechno
-# 72FM: https://72fm.com/station/eb4bf121-27c1-11e9-a80b-52543be04c81
-#EXTINF:-1 group-title="Electronic" radio="true",laut.fm - clubhits
-http://stream.laut.fm/clubhits
-# 72FM: https://72fm.com/station/dda16c1b-d49f-4022-845f-d73ebdb9ac96
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/59355.v14.png" group-title="Electronic" radio="true",Radio Caprice - Eurodance
-http://79.120.39.202:8002/eurodance
+# 72FM: https://72fm.com/station/960b6d95-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Electronic" radio="true",Radio X Basel (MP3 Stream)
+http://mp3.radiox.ch:8000/standard.mp3
 # 72FM: https://72fm.com/station/f60c842e-6d57-4586-ac29-1e0a5b621f5d
 #EXTINF:-1 group-title="Electronic" radio="true",SDX synthetic experience - EBM, Synth and Industrial
 http://radio.dawnshadow.se:8000/stream
+# 72FM: https://72fm.com/station/dda16c1b-d49f-4022-845f-d73ebdb9ac96
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/59355.v14.png" group-title="Electronic" radio="true",Radio Caprice - Eurodance
+http://79.120.39.202:8002/eurodance
+# 72FM: https://72fm.com/station/eb4bf121-27c1-11e9-a80b-52543be04c81
+#EXTINF:-1 group-title="Electronic" radio="true",laut.fm - clubhits
+http://stream.laut.fm/clubhits
 # 72FM: https://72fm.com/station/8ce502c2-5ba0-43ad-a2dc-462e34ac85df
 #EXTINF:-1 group-title="Electronic" radio="true",LOCA FM Techno
 http://s02.fjperezdj.com:8050/live
@@ -646,18 +649,18 @@ https://ice15.fluidstream.net/onedancech.aac
 # 72FM: https://72fm.com/station/269086b9-f36b-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-electro_600x600.jpg" group-title="Electronic" radio="true",- 0 N - Electro on Radio
 https://0n-electro.radionetz.de/0n-electro.aac
-# 72FM: https://72fm.com/station/7ac57607-cacc-441d-89fe-bcfc1a8faf36
-#EXTINF:-1 tvg-logo="https://nightride.fm/apple-touch-icon.png" group-title="Electronic" radio="true",Chillsynth
-https://stream.nightride.fm/chillsynth.mp3
 # 72FM: https://72fm.com/station/75e2bc36-e044-471b-8db9-cd3201d6e9a2
 #EXTINF:-1 group-title="Electronic" radio="true",LOCA FM Trance
 http://s02.fjperezdj.com:8055/live
+# 72FM: https://72fm.com/station/7ac57607-cacc-441d-89fe-bcfc1a8faf36
+#EXTINF:-1 tvg-logo="https://nightride.fm/apple-touch-icon.png" group-title="Electronic" radio="true",Chillsynth
+https://stream.nightride.fm/chillsynth.mp3
 # 72FM: https://72fm.com/station/f9c9fd7c-ba2e-11e8-aaf2-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Radio 105 - Trap
 http://icecast.unitedradio.it/105Trap.mp3
 # 72FM: https://72fm.com/station/9644e275-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",FluxFM - Sound Of Berlin
-http://fluxfm.streamabc.net/flx-soundofberlin-mp3-320-9689589?sABC=6no75q4p%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790401868
+http://fluxfm.streamabc.net/flx-soundofberlin-mp3-320-9689589?sABC=6noqs8qn%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790834906
 # 72FM: https://72fm.com/station/6c4f7ec4-7ab4-4c98-901a-27a530df628f
 #EXTINF:-1 group-title="Electronic" radio="true",BreakZ HipHop & House
 https://breakz-high.rautemusik.fm/?ref=radio-browser-info
@@ -694,12 +697,12 @@ https://radio.grabamusic.com/gmr-hd
 # 72FM: https://72fm.com/station/aed5f2c4-b50e-4eaa-a848-bb24b621ee8c
 #EXTINF:-1 group-title="Electronic" radio="true",LOCA FM House
 http://s02.fjperezdj.com:8026/live
+# 72FM: https://72fm.com/station/e3f530f8-f8f1-11e9-bbf2-52543be04c81
+#EXTINF:-1 tvg-logo="https://radiowow.com/wp-content/uploads/2024/09/cropped-radio-wow-180x180.png" group-title="Electronic" radio="true",Radio WoW
+http://sphera.fluidstream.eu/fluid_wow.aac?FLID=6
 # 72FM: https://72fm.com/station/9614f26b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/brfm-400.jpg" group-title="Electronic" radio="true",SomaFM Black Rock FM
 http://ice2.somafm.com/brfm-128-mp3
-# 72FM: https://72fm.com/station/e3f530f8-f8f1-11e9-bbf2-52543be04c81
-#EXTINF:-1 tvg-logo="https://radiowow.com/wp-content/uploads/2024/09/cropped-radio-wow-180x180.png" group-title="Electronic" radio="true",Radio WoW
-http://sphera.fluidstream.eu/fluid_wow.mp3?FLID=6
 # 72FM: https://72fm.com/station/f567f131-c8dc-4ea2-9cd4-defc9a1ce0e1
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Downtempo / Downbeat [3]
 http://79.120.77.11:8004/downtempo
@@ -729,7 +732,7 @@ http://culturefailure.com:8000/;
 https://stream.technolovers.fm/house?ref=radiobrowser
 # 72FM: https://72fm.com/station/a172a67e-4199-11e8-b74d-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="Electronic" radio="true",SomaFM Lush (64k AAC)
-https://ice5.somafm.com/lush-64-aac
+https://ice2.somafm.com/lush-64-aac
 # 72FM: https://72fm.com/station/148531bd-d12e-4c16-a2b4-579fea921edd
 #EXTINF:-1 group-title="Electronic" radio="true",Hazzard of Darkness
 http://hazzardstream.de:7777/stream/1/;202686764294902stream.nsv
@@ -748,42 +751,45 @@ http://79.120.39.202:8000/deephouse
 # 72FM: https://72fm.com/station/963f2357-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",LCLHST R2
 http://s1.radio.lclhst.net:1437/r2
-# 72FM: https://72fm.com/station/6f74701a-d559-4c46-ae23-c3e3b4d6be5a
-#EXTINF:-1 group-title="Electronic" radio="true",Technolovers - FRENCHCORE
-https://stream.technolovers.fm/frenchcore?ref=radiobrowser
-# 72FM: https://72fm.com/station/49d58862-1f99-4d04-9374-b3c1cfbdc092
-#EXTINF:-1 tvg-logo="https://radcap.ru/graf2/rclogo.png" group-title="Electronic" radio="true",Radio Caprice - Deep / Chill House [1]
-http://79.120.39.202:8002/deephouse
 # 72FM: https://72fm.com/station/d6efe91b-b16a-488b-8b0c-1b689e8dd815
 #EXTINF:-1 group-title="Electronic" radio="true",Technolovers MELBOURNE BOUNCE
 https://stream.technolovers.fm/melbourne-bounce?ref=radiobrowser
+# 72FM: https://72fm.com/station/49d58862-1f99-4d04-9374-b3c1cfbdc092
+#EXTINF:-1 tvg-logo="https://radcap.ru/graf2/rclogo.png" group-title="Electronic" radio="true",Radio Caprice - Deep / Chill House [1]
+http://79.120.39.202:8002/deephouse
+# 72FM: https://72fm.com/station/6f74701a-d559-4c46-ae23-c3e3b4d6be5a
+#EXTINF:-1 group-title="Electronic" radio="true",Technolovers - FRENCHCORE
+https://stream.technolovers.fm/frenchcore?ref=radiobrowser
+# 72FM: https://72fm.com/station/7481adce-989e-4692-bfcf-07774ed1ced9
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_3b8537296cb04e049fdfe55af2a45900~mv2.jpg" group-title="Electronic" radio="true",70's 80's 90's Riw Vintage Channel
+https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
 # 72FM: https://72fm.com/station/5d3bb64b-dcf5-413f-a7ac-e81378235358
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Mirage - ItaloDance Channel
 http://91.232.4.33:9569/Stream1
 # 72FM: https://72fm.com/station/3d0b3549-3c4c-11e8-b74d-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/spacestation-400.png" group-title="Electronic" radio="true",SomaFM Space Station Soma (64k AAC)
-https://ice5.somafm.com/spacestation-64-aac
-# 72FM: https://72fm.com/station/7481adce-989e-4692-bfcf-07774ed1ced9
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_3b8537296cb04e049fdfe55af2a45900~mv2.jpg" group-title="Electronic" radio="true",70's 80's 90's Riw Vintage Channel
-https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
+https://ice2.somafm.com/spacestation-64-aac
 # 72FM: https://72fm.com/station/f35f16ac-f329-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",Traxx FM - House
 http://traxx002.ice.infomaniak.ch/traxx002-low.mp3
+# 72FM: https://72fm.com/station/b0354088-057b-4b65-8dd4-3470d08369fe
+#EXTINF:-1 tvg-logo="https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png" group-title="Electronic" radio="true",Urban Revolution
+https://st1.urbanrevolution.es:8443/zonaelectronica
 # 72FM: https://72fm.com/station/810c8f16-fc17-4eab-a8ef-908f280eb26a
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Electronic" radio="true",__HARDER__ by rautemusik (rm.fm)
 https://harder-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/0816a06c-a7e9-4f3c-9708-2682485f7a79
 #EXTINF:-1 tvg-logo="https://lapfoxradio.com/apple-touch-icon-120x120.png" group-title="Electronic" radio="true",Lapfox Radio (FLAC)
 https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+# 72FM: https://72fm.com/station/a807ecc5-8410-4704-bac4-aed64ba76742
+#EXTINF:-1 group-title="Electronic" radio="true",SomaFM Deep Space One (128k MP3)
+https://ice6.somafm.com/deepspaceone-128-mp3
 # 72FM: https://72fm.com/station/961d018d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",laut.fm Dark-Mythos
 http://stream.laut.fm/dark-mythos
 # 72FM: https://72fm.com/station/9817bc6e-49dc-468a-8c14-b91841b7047e
 #EXTINF:-1 group-title="Electronic" radio="true",0nlineradio HOUSE
 https://stream.0nlineradio.com/house?ref=radiobrowser
-# 72FM: https://72fm.com/station/a807ecc5-8410-4704-bac4-aed64ba76742
-#EXTINF:-1 group-title="Electronic" radio="true",SomaFM Deep Space One (128k MP3)
-https://ice5.somafm.com/deepspaceone-128-mp3
 # 72FM: https://72fm.com/station/d673d576-68ab-4672-a8d4-66cf3048eaef
 #EXTINF:-1 group-title="Electronic" radio="true",LOCA FM Child Out
 http://s02.fjperezdj.com:8006/live
@@ -814,48 +820,45 @@ http://ice5.somafm.com/beatblender-128-aac
 # 72FM: https://72fm.com/station/960d588c-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",laut.fm Fantasyradio
 http://stream.laut.fm/fantasyradio
-# 72FM: https://72fm.com/station/48687ae4-39ad-4eba-b090-d160102f18f2
-#EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-untz/v3/color.svg" group-title="Electronic" radio="true",Studio Brussel UNTZ
-http://icecast.vrtcdn.be/stubru_untz.aac
 # 72FM: https://72fm.com/station/d4413977-e5dd-4de1-a545-6e052600e527
 #EXTINF:-1 group-title="Electronic" radio="true",Techno Record FM Tunja
 http://stream.zeno.fm/r3d2u9pu87zuv
+# 72FM: https://72fm.com/station/48687ae4-39ad-4eba-b090-d160102f18f2
+#EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-untz/v3/color.svg" group-title="Electronic" radio="true",Studio Brussel UNTZ
+http://icecast.vrtcdn.be/stubru_untz.aac
 # 72FM: https://72fm.com/station/3e7745c9-ab52-4737-bce3-4f44198174bf
 #EXTINF:-1 tvg-logo="https://spacefm.ro/wp-content/uploads/2022/04/Logo-alb.png" group-title="Electronic" radio="true",Space Fm Dance
 https://spacefm.live/radio/8000/spacefm128
-# 72FM: https://72fm.com/station/c5522782-3a90-11e9-9b4e-52543be04c81
-#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-chillout_600x600.jpg" group-title="Electronic" radio="true",- 1 A - Chillout von 1A Radio
-https://1a-chillout.radionetz.de/1a-chillout.aac
 # 72FM: https://72fm.com/station/4b0057a5-4885-48a0-bfde-15c964e5dcf9
 #EXTINF:-1 tvg-logo="https://mrg.fm/img/ambientradio125.jpg" group-title="Electronic" radio="true",AmbientRadio (MRG.fm)
 http://listen.mrg.fm:8888/stream
+# 72FM: https://72fm.com/station/c5522782-3a90-11e9-9b4e-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-chillout_600x600.jpg" group-title="Electronic" radio="true",- 1 A - Chillout von 1A Radio
+https://1a-chillout.radionetz.de/1a-chillout.aac
 # 72FM: https://72fm.com/station/19c57c60-bf6f-481b-9197-cb7e4f58c589
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Minimal Techno [1]
 http://79.120.39.202:8002/mintechno
+# 72FM: https://72fm.com/station/fd57ae03-5547-4d41-9540-33059a7a42c5
+#EXTINF:-1 tvg-logo="https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png" group-title="Electronic" radio="true",Nordic Chillout Radio
+https://play.radioking.io/nordic-chillout-radio/736489
 # 72FM: https://72fm.com/station/7cc630a3-660b-4b79-8380-c2f4d7b6de15
 #EXTINF:-1 tvg-logo="https://www.lamegamalaga.es/favicon.ico" group-title="Electronic" radio="true",La Mega Radio
 http://streaming2.elitecomunicacion.es:8220//stream?type=.mp3
 # 72FM: https://72fm.com/station/e7223f6a-0ee8-4c3f-9a10-977fae786d79
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/hgBdpd39Rk.png" group-title="Electronic" radio="true",Mongolian Music Radio
 http://65.108.143.81:7700/1
-# 72FM: https://72fm.com/station/43bffd48-8e43-4344-93cc-476a30d63812
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240605_205404475.jpg?alt=media&token=7e00c4a6-0db7-4d46-a07f-986ccc98b821" group-title="Electronic" radio="true",DIMusic Trance Club 🇧🇯
-http://stream1.dimusic.club:11534/rw?type=.aac
-# 72FM: https://72fm.com/station/fd57ae03-5547-4d41-9540-33059a7a42c5
-#EXTINF:-1 tvg-logo="https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png" group-title="Electronic" radio="true",Nordic Chillout Radio
-https://play.radioking.io/nordic-chillout-radio/736489
 # 72FM: https://72fm.com/station/d2a835f6-a5ce-4fe2-a4a8-6c0fa8c90a05
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Funky House [3]
 http://213.141.131.10:8004/funkyhouse
 # 72FM: https://72fm.com/station/800fa270-d90c-45bb-bdbd-7849f9d13a42
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Russian Club Dance Music [2]
 http://79.120.77.11:8000/clubru
-# 72FM: https://72fm.com/station/aa0c4df3-e693-4120-ae62-3ac84aaa8543
-#EXTINF:-1 tvg-logo="https://www.deegay.fm/favicon.ico" group-title="Electronic" radio="true",DeeGay Club
-https://stream.deegay.fm/deegay3.mp3
 # 72FM: https://72fm.com/station/c5cb655d-0ab6-4a2f-9f45-bb7a1e48544d
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Estacion Techno
 http://stream.zeno.fm/t3sqkau72rhvv
+# 72FM: https://72fm.com/station/aa0c4df3-e693-4120-ae62-3ac84aaa8543
+#EXTINF:-1 tvg-logo="https://www.deegay.fm/favicon.ico" group-title="Electronic" radio="true",DeeGay Club
+https://stream.deegay.fm/deegay3.mp3
 # 72FM: https://72fm.com/station/9643b94b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",my105 - Dance
 http://stream01.my105.ch/my105dance.mp3
@@ -874,9 +877,6 @@ http://stream05.warm.fm:9002/warm
 # 72FM: https://72fm.com/station/5a597723-62af-477b-9cd1-8a666ee72b5c
 #EXTINF:-1 tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-transilvania/play_250_250.jpg" group-title="Electronic" radio="true",Radio Transilvania - Cluj
 https://stream2.radiotransilvania.ro/Cluj
-# 72FM: https://72fm.com/station/b680db25-c170-417f-a530-d8ebbe32fdbc
-#EXTINF:-1 group-title="Electronic" radio="true",181.FM - Chilled Out (USA) 128k mp3
-http://listen.181fm.com/181-chilled_128k.mp3
 # 72FM: https://72fm.com/station/961cbef9-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Electronic" radio="true",laut.fm Schwarze Szene
 http://stream.laut.fm/schwarzeszene
@@ -898,9 +898,9 @@ https://cloud1.cdnseguro.com:2190/;
 # 72FM: https://72fm.com/station/86fa975a-f369-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-indie_600x600.jpg" group-title="Electronic" radio="true",- 0 N - Indie on Radio
 https://0n-indie.radionetz.de/0n-indie.aac
-# 72FM: https://72fm.com/station/0324180d-596a-4b6b-a486-67e606e23d36
-#EXTINF:-1 tvg-logo="https://www.jointil.com/broadcast/images/joint.radio350X350.png" group-title="Electronic" radio="true",#joint radio Beat Trance
-https://jointil.com/stream-beat
 # 72FM: https://72fm.com/station/7c41800e-9c63-4996-b406-c1758f01e9d1
 #EXTINF:-1 tvg-logo="https://colombiacrossover.com/wp-content/uploads/Logo-Colombia-Lounge-nueva-modified.png" group-title="Electronic" radio="true",Colombia Lounge
 https://play10.tikast.com/proxy/collounge?mp=/stream
+# 72FM: https://72fm.com/station/0324180d-596a-4b6b-a486-67e606e23d36
+#EXTINF:-1 tvg-logo="https://www.jointil.com/broadcast/images/joint.radio350X350.png" group-title="Electronic" radio="true",#joint radio Beat Trance
+https://jointil.com/stream-beat

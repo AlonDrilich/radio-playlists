@@ -55,12 +55,12 @@ https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006
 # 72FM: https://72fm.com/station/40ca8034-5373-11e8-a4d1-52543be04c81
 #EXTINF:-1 group-title="Blues" radio="true",Rock The Blues
 http://stream.laut.fm/rock-the-blues
-# 72FM: https://72fm.com/station/cc4e23dd-5485-4176-9ade-0a79a08b3ee1
-#EXTINF:-1 group-title="Blues" radio="true",Country/folk blues - Radio Caprice
-http://79.120.77.11:8004/countryblues
 # 72FM: https://72fm.com/station/961f44d7-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Blues" radio="true",Radyo A (Radyo Anadolu Üniversitesi)
 http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+# 72FM: https://72fm.com/station/cc4e23dd-5485-4176-9ade-0a79a08b3ee1
+#EXTINF:-1 group-title="Blues" radio="true",Country/folk blues - Radio Caprice
+http://79.120.77.11:8004/countryblues
 # 72FM: https://72fm.com/station/96141072-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="Blues" radio="true",Allzic Radio Blues
 http://allzic09.ice.infomaniak.ch/allzic09.mp3
@@ -148,12 +148,12 @@ http://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer
 # 72FM: https://72fm.com/station/8636630a-3631-4ffc-b83f-0cef69949ce1
 #EXTINF:-1 group-title="Blues" radio="true",民谣·蓝调
 http://stream3.hndt.com/now/XWfN89gh/playlist.m3u8
-# 72FM: https://72fm.com/station/7c67f9b4-7a55-48f5-bf55-1f0c51760ef0
-#EXTINF:-1 group-title="Blues" radio="true",Texas Rebel Radio
-https://ice41.securenetsystems.net/KNAF?playSessionID=6CC4A665-B891-1B7E-1922BD6BD5D4109F
 # 72FM: https://72fm.com/station/964fb436-21c5-4729-8958-fe5991b81dfd
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-ico-beta.ico" group-title="Blues" radio="true",CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
 https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+# 72FM: https://72fm.com/station/7c67f9b4-7a55-48f5-bf55-1f0c51760ef0
+#EXTINF:-1 group-title="Blues" radio="true",Texas Rebel Radio
+https://ice41.securenetsystems.net/KNAF?playSessionID=6CC4A665-B891-1B7E-1922BD6BD5D4109F
 # 72FM: https://72fm.com/station/4610edcd-9987-4b55-b0f5-87bea6f94377
 #EXTINF:-1 group-title="Blues" radio="true",民谣·蓝调
 http://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8
@@ -201,7 +201,7 @@ http://stream.kjzz.org/kjzz_mp3_128
 http://ice8.securenetsystems.net/KJLU
 # 72FM: https://72fm.com/station/3191969c-1d2d-4df1-a569-5bc9e99c1598
 #EXTINF:-1 group-title="Blues" radio="true",Buffalo
-http://buffalo.stream.laut.fm/buffalo?uuid=e8e4d5a8-b19e-e4ab-8f98-1a8062596876&t302=2026-09-26_06-30-50
+http://buffalo.stream.laut.fm/buffalo?t302=2026-10-01_07-34-52&uuid=d0fbc9bb-78c6-8021-1f12-747b62e5de44
 # 72FM: https://72fm.com/station/ca818265-e55d-4539-99ed-b995104201ca
 #EXTINF:-1 group-title="Blues" radio="true",Mixadance FM
 https://stream.mixadance.fm/mixadancejazz
@@ -211,12 +211,12 @@ http://janus.cdnstream.com:5140/live
 # 72FM: https://72fm.com/station/d46f2dcb-d9cf-4dd9-acbb-bd155e6b9058
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-blues_600x600.jpg" group-title="Blues" radio="true",- 0 N - Blues on Radio
 https://0n-blues.radionetz.de/0n-blues.aac
-# 72FM: https://72fm.com/station/26429362-f43a-11e9-a96c-52543be04c81
-#EXTINF:-1 group-title="Blues" radio="true",Gritty Rock Radio
-http://www.radioking.com/play/gritty-rock
 # 72FM: https://72fm.com/station/a648882e-b8d3-422a-9a79-307ccab8c406
 #EXTINF:-1 tvg-logo="https://www.247onlineradio.com/wp-content/uploads/2023/04/247-Blues-Radio.jpg" group-title="Blues" radio="true",24/7 Blues Radio
 https://ec3.yesstreaming.net:3685/stream
+# 72FM: https://72fm.com/station/26429362-f43a-11e9-a96c-52543be04c81
+#EXTINF:-1 group-title="Blues" radio="true",Gritty Rock Radio
+http://www.radioking.com/play/gritty-rock
 # 72FM: https://72fm.com/station/e958786b-9edc-4c84-a3f1-519b84939db5
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Blues" radio="true",exclusive BB King
 https://streaming.exclusive.radio/er/bbking/icecast.audio
@@ -232,12 +232,12 @@ http://cast3.radiohost.ovh:8352/
 # 72FM: https://72fm.com/station/121b4078-33b4-11e9-8f31-52543be04c81
 #EXTINF:-1 group-title="Blues" radio="true",Radio Zica
 http://live.1chi.si/zica
-# 72FM: https://72fm.com/station/b7aefb22-0ab1-403d-950e-237773113269
-#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="Blues" radio="true",Radio Canada Ici Musique - Québec City, QC
-https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
 # 72FM: https://72fm.com/station/866bbebe-56e1-4db9-9299-6e477e6f1754
 #EXTINF:-1 group-title="Blues" radio="true",Радио Эрмитаж Санкт-Петербург 90.1 FM
 https://hermitage.hostingradio.ru/hermitage128.mp3
+# 72FM: https://72fm.com/station/b7aefb22-0ab1-403d-950e-237773113269
+#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="Blues" radio="true",Radio Canada Ici Musique - Québec City, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
 # 72FM: https://72fm.com/station/bc97d762-e996-44da-93f6-5769cadd2059
 #EXTINF:-1 group-title="Blues" radio="true",Lightness of Rock
 https://stream.zeno.fm/n0dt87vrnd0uv
@@ -252,7 +252,7 @@ https://streamer.radio.co/sf662f27c0/listen
 https://ais-sa3.cdnstream1.com/2442_128.aac/playlist.m3u8
 # 72FM: https://72fm.com/station/e3cebe3a-feaf-4f15-955f-3efbf9b8e6e0
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/favicon.ico" group-title="Blues" radio="true",CBC Music Pacific (Vancouver) MP3 Stream
-https://26183.live.streamtheworld.com/CBUFM_CBC_SC
+https://17813.live.streamtheworld.com/CBUFM_CBC_SC
 # 72FM: https://72fm.com/station/af9c905f-cb40-40c6-93a9-dd343cf84578
 #EXTINF:-1 tvg-logo="https://www.radioswissjazz.ch/_nuxt/img/rsj-logo-claim-desktop.beb322c.png" group-title="Blues" radio="true",Radio Suisse Jazz
 https://stream.srg-ssr.ch/m/rsj/aacp_96
@@ -270,28 +270,28 @@ http://79.111.14.76:8002/chicagoblues
 https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/masterhq.m3u8
 # 72FM: https://72fm.com/station/278df5f8-6b73-4254-a8df-07c62e07da8b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png" group-title="Blues" radio="true",CBC Music Eastern (Toronto) MP3 Stream
-https://26373.live.streamtheworld.com/CBLFM_CBC_SC
+https://22983.live.streamtheworld.com/CBLFM_CBC_SC
 # 72FM: https://72fm.com/station/1d86737b-bf6f-41f2-bd52-cd29d4a73688
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-ico-beta.ico" group-title="Blues" radio="true",CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
 https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
 # 72FM: https://72fm.com/station/0f9b53ac-460c-4ad1-8fdc-aee4f446fafd
 #EXTINF:-1 group-title="Blues" radio="true",Itapema 102.3 FM
 https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/chunklist_0ac85862-caaa-446f-93bf-3e12816c36a0.m3u8
-# 72FM: https://72fm.com/station/c010da19-26c4-4067-a062-e9c47a964aa6
-#EXTINF:-1 tvg-logo="https://www.radio.net/300/topblues.png" group-title="Blues" radio="true",TopBlues
-http://us3.internet-radio.com:8342/
 # 72FM: https://72fm.com/station/96446e2f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Blues" radio="true",Laut.FM GhostDog Radio
 http://stream.laut.fm/ghostdog
+# 72FM: https://72fm.com/station/c010da19-26c4-4067-a062-e9c47a964aa6
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/topblues.png" group-title="Blues" radio="true",TopBlues
+http://us3.internet-radio.com:8342/
 # 72FM: https://72fm.com/station/f879e31a-4120-11ea-a9fa-52543be04c81
 #EXTINF:-1 group-title="Blues" radio="true",ITU Radio Jazz/Blues
 http://160.75.86.29:8082/
-# 72FM: https://72fm.com/station/53548d01-14fa-4c90-92c5-8a13ce0ae0fd
-#EXTINF:-1 group-title="Blues" radio="true",KISS Pop Rock
-https://radiola.me/listen/kiss_pop_rock/radio.mp3
 # 72FM: https://72fm.com/station/f5481400-edb1-4c32-8069-8c86f325cb76
 #EXTINF:-1 tvg-logo="https://www.swingfm.asso.fr/wp-content/themes/bsi_swingfm/img/logo_d.png" group-title="Blues" radio="true",Swing FM
 http://swingfm.ice.infomaniak.ch/swingfm-128.mp3
+# 72FM: https://72fm.com/station/53548d01-14fa-4c90-92c5-8a13ce0ae0fd
+#EXTINF:-1 group-title="Blues" radio="true",KISS Pop Rock
+https://radiola.me/listen/kiss_pop_rock/radio.mp3
 # 72FM: https://72fm.com/station/c8333a97-8739-4dd2-9471-ab48e4436ad5
 #EXTINF:-1 group-title="Blues" radio="true",Radio Caprice Country / Folk Blues
 http://79.120.77.11:8002/countryblues
@@ -307,6 +307,9 @@ https://2.mystreaming.net/er/ellafitzgerald/icecast.audio
 # 72FM: https://72fm.com/station/cd2deed3-7606-4f79-9580-683cc51cf9d8
 #EXTINF:-1 group-title="Blues" radio="true",Exclusively Ella Fitzgerald
 https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio
+# 72FM: https://72fm.com/station/f09eef4e-bcca-416b-9280-f69e6280fd02
+#EXTINF:-1 tvg-logo="https://radiorelax.md/front-assets/favicon/apple-touch-icon.png" group-title="Blues" radio="true",Radio Relax - Jazz & Blues
+https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac
 # 72FM: https://72fm.com/station/fb454031-4fa0-4dc2-91a9-4bf6a72e8e30
 #EXTINF:-1 group-title="Blues" radio="true",Silde Guitar / Caprice Radio
 http://213.141.131.10:8000/slideguitar
@@ -316,9 +319,6 @@ https://streaming.live365.com/a45877
 # 72FM: https://72fm.com/station/a061f7fe-1d83-4f60-9a62-fad0a8048c77
 #EXTINF:-1 tvg-logo="https://bhfr.co.uk/favicon.png" group-title="Blues" radio="true",The UK 1940s Radio Station
 http://solid2.streamupsolutions.com:24929/stream
-# 72FM: https://72fm.com/station/f09eef4e-bcca-416b-9280-f69e6280fd02
-#EXTINF:-1 tvg-logo="https://radiorelax.md/front-assets/favicon/apple-touch-icon.png" group-title="Blues" radio="true",Radio Relax - Jazz & Blues
-https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac
 # 72FM: https://72fm.com/station/8dc15f8b-5996-40ae-873c-d75e782366d6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xo2K6Jl.jpeg" group-title="Blues" radio="true",Big Blue Swing
 http://radio.bigblueswing.com:8002/;64bit.mp3
@@ -331,21 +331,21 @@ https://streams.radiobob.de/blues/aac-64/streams.radiobob.de/
 # 72FM: https://72fm.com/station/e13b81e6-7dca-4a9d-a13b-0327b2dd5219
 #EXTINF:-1 tvg-logo="https://ebsradio.ro/wp-content/themes/ebs/favicons/apple-touch-icon.png" group-title="Blues" radio="true",EBS | Blues
 https://azura.ebsmedia.ro/listen/blues/blues128.mp3
-# 72FM: https://72fm.com/station/99272d5c-a460-4ff5-bc18-aee72e1e51d5
-#EXTINF:-1 group-title="Blues" radio="true",RADIO STREAMING SEHATI
-https://c4.siar.us:8092/autodj
 # 72FM: https://72fm.com/station/0ed5a697-31d6-401b-bfa5-bb9d13156e24
 #EXTINF:-1 group-title="Blues" radio="true",Morena FM 98
 https://ssl1.transmissaodigital.com:2692/stream
-# 72FM: https://72fm.com/station/2002eff7-12ed-4725-8687-9e04a8e5b4c9
-#EXTINF:-1 group-title="Blues" radio="true",BENFM
-http://stream.laut.fm/benfm
+# 72FM: https://72fm.com/station/99272d5c-a460-4ff5-bc18-aee72e1e51d5
+#EXTINF:-1 group-title="Blues" radio="true",RADIO STREAMING SEHATI
+https://c4.siar.us:8092/autodj
 # 72FM: https://72fm.com/station/ef2f3ab1-3fe7-4402-a7c6-6d555bd9d8a3
 #EXTINF:-1 group-title="Blues" radio="true",Blue Radio
 http://sip.blueradio.gr:8033/stream?type=http&nocache=308275
 # 72FM: https://72fm.com/station/6d592c38-f897-4df9-a9aa-00eb274cf771
 #EXTINF:-1 group-title="Blues" radio="true",Exclusively Tom Waits
 https://nl4.mystreaming.net/er/tomwaits/icecast.audio
+# 72FM: https://72fm.com/station/2002eff7-12ed-4725-8687-9e04a8e5b4c9
+#EXTINF:-1 group-title="Blues" radio="true",BENFM
+http://stream.laut.fm/benfm
 # 72FM: https://72fm.com/station/581e71c7-94df-469e-8709-52d96a17c691
 #EXTINF:-1 group-title="Blues" radio="true",Nova 106
 http://novafm106.media.friktoria.net:8000/novafm106.mp3
@@ -367,12 +367,12 @@ https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
 # 72FM: https://72fm.com/station/ab754ccd-8e6c-4132-979d-5eda0844828b
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0522/6245/articles/wallpaper_1024x1024.jpg" group-title="Blues" radio="true",Munck Music Radio
 https://streamer.radio.co/s4b5c8e335/listen
-# 72FM: https://72fm.com/station/1f531c07-adf4-4ab5-8f63-c94ef224831f
-#EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_1f5c182eda51351e69f41ddfc29caa29/logo200.jpg" group-title="Blues" radio="true",Nitty-Gritty Music Radio
-https://cast1.torontocast.com:1490/stream
 # 72FM: https://72fm.com/station/622a9284-a40a-49a1-b45a-467b273e311f
 #EXTINF:-1 group-title="Blues" radio="true",Exclusively Bonnie Raitt
 http://2.mystreaming.net/er/bonnieraitt/icecast.audio
+# 72FM: https://72fm.com/station/1f531c07-adf4-4ab5-8f63-c94ef224831f
+#EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_1f5c182eda51351e69f41ddfc29caa29/logo200.jpg" group-title="Blues" radio="true",Nitty-Gritty Music Radio
+https://cast1.torontocast.com:1490/stream
 # 72FM: https://72fm.com/station/4043fd6b-ba19-4467-8e84-382a54bbae0e
 #EXTINF:-1 tvg-logo="https://www.mysterytrainradio.com/favicon.ico" group-title="Blues" radio="true",Mystery Train Radio
 https://streamer.radio.co/sf662f27c0/low
@@ -381,7 +381,7 @@ https://streamer.radio.co/sf662f27c0/low
 http://s30.myradiostream.com:31752/
 # 72FM: https://72fm.com/station/2c73ee77-c681-42b2-b2c4-ccb8712ab9da
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png" group-title="Blues" radio="true",CBC Music Atlantic (Halifax) MP3 Stream
-https://26733.live.streamtheworld.com/CBH_CBC_SC
+https://26183.live.streamtheworld.com/CBH_CBC_SC
 # 72FM: https://72fm.com/station/4c77180b-47ef-44f9-980e-a748cde6a938
 #EXTINF:-1 group-title="Blues" radio="true",JAZZDINGS
 http://stream.laut.fm/jazzdings
@@ -406,21 +406,21 @@ https://stream.regalradio.net/stream.mp3
 # 72FM: https://72fm.com/station/e2a62b4b-ff61-44f2-b550-a68be151ef08
 #EXTINF:-1 group-title="Blues" radio="true",Radio campus bordeaux
 https://live.radio-campus.org:8002/campus-bordeaux
+# 72FM: https://72fm.com/station/7558dca9-dbd0-43b0-bd6c-e5a909066160
+#EXTINF:-1 tvg-logo="https://ella-radio.de/uplink/Ella_Blues.jpg" group-title="Blues" radio="true",Ella Radio - Blues
+https://stream.ella-radio.de/ella-blues/mp3-192/?ref=radio-browser
 # 72FM: https://72fm.com/station/ac2aeb00-792b-11e9-aa30-52543be04c81
 #EXTINF:-1 group-title="Blues" radio="true",CFBW "BWR 91.3" Hanover, ON
 http://s41.myradiostream.com:29922/listen.mp3
 # 72FM: https://72fm.com/station/4e8fbccb-479c-46d7-a28c-e941eac966a1
 #EXTINF:-1 group-title="Blues" radio="true",Laut.fm alive
 http://alive.stream.laut.fm/alive
-# 72FM: https://72fm.com/station/7558dca9-dbd0-43b0-bd6c-e5a909066160
-#EXTINF:-1 tvg-logo="https://ella-radio.de/uplink/Ella_Blues.jpg" group-title="Blues" radio="true",Ella Radio - Blues
-https://stream.ella-radio.de/ella-blues/mp3-192/?ref=radio-browser
-# 72FM: https://72fm.com/station/c0a80b16-14db-4fa8-84c4-94e9162a3502
-#EXTINF:-1 group-title="Blues" radio="true",Radio Furgoncino
-https://stream.radiojar.com/sf65dpxy9vzuv
 # 72FM: https://72fm.com/station/a4203df7-66a5-11e9-af37-52543be04c81
 #EXTINF:-1 group-title="Blues" radio="true",CKTP 95.7 "The Wolf" Fredericton, NB
 http://149.56.234.138:8173/stream
+# 72FM: https://72fm.com/station/c0a80b16-14db-4fa8-84c4-94e9162a3502
+#EXTINF:-1 group-title="Blues" radio="true",Radio Furgoncino
+https://stream.radiojar.com/sf65dpxy9vzuv
 # 72FM: https://72fm.com/station/786772c9-c7da-424b-9a79-5356960537af
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="Blues" radio="true",Radio Canada Ici Musique (Mauricie-Centre-du-Québec) Trois-Rivieres, QC
 https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/master.m3u8
@@ -433,12 +433,18 @@ https://stream.artsound.fm/mp3
 # 72FM: https://72fm.com/station/fe54540f-ac7f-43db-8925-9e053928e2d7
 #EXTINF:-1 group-title="Blues" radio="true",Dux Radio
 https://radio.duxradio.ro:8002/stream
+# 72FM: https://72fm.com/station/3fb19748-a163-4b72-9cd7-a27ffafd1198
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png" group-title="Blues" radio="true",CBC Music Central (Winnipeg) - MP3 Stream
+https://22983.live.streamtheworld.com/CBWFM_CBC_SC
 # 72FM: https://72fm.com/station/530df49b-e845-41d9-beb6-654a0d7efe50
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Blues" radio="true",Radio Canada Ici Musique - Ottawa, ON
 https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/master.m3u8
 # 72FM: https://72fm.com/station/5e007f4a-4db8-4145-91fa-544a85ae7389
 #EXTINF:-1 group-title="Blues" radio="true",Radio Zones 93,8 FM
 http://radiozones.dyndns.org:8000/radiozones
+# 72FM: https://72fm.com/station/a08f5f5a-b392-4615-b0f4-c0fb43575a60
+#EXTINF:-1 tvg-logo="https://www.controradio.it/wp-content/uploads/2021/09/cropped-favicon-32x32.png" group-title="Blues" radio="true",Controradio
+https://s4.yesstreaming.net:17199/stream
 # 72FM: https://72fm.com/station/cad28be0-3d75-4b8a-aef4-a951ff362706
 #EXTINF:-1 tvg-logo="https://radiodos.com/assets/LogoRadio2.svg" group-title="Blues" radio="true",Radio Dos (2) Costa Rica
 https://s5.radio.co/sd515b7b34/listen
@@ -448,54 +454,54 @@ https://live.amperwave.net/manifest/caradio-koztfmaac-hlsc3.m3u8
 # 72FM: https://72fm.com/station/2a3f1f28-9a43-41fa-af0c-b4a5fbc650a1
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5d3385f73530e5000176743a/1581581011383-HEI1U91CUFQ990Z1ZCC9/Facebook+Header_TreeSkyRecord+copy.jpg" group-title="Blues" radio="true",River Theater Radio - KGGV-LP - Guerneville, California
 http://s30.myradiostream.com:31904/listen.m4a
-# 72FM: https://72fm.com/station/a08f5f5a-b392-4615-b0f4-c0fb43575a60
-#EXTINF:-1 tvg-logo="https://www.controradio.it/wp-content/uploads/2021/09/cropped-favicon-32x32.png" group-title="Blues" radio="true",Controradio
-https://s4.yesstreaming.net:17199/stream
 # 72FM: https://72fm.com/station/58ab4a1b-d3c9-4923-bcb8-9674df9e7a38
 #EXTINF:-1 group-title="Blues" radio="true",Radio Caprice Texas Blues
 http://79.111.14.76:8002/texasblues
-# 72FM: https://72fm.com/station/0fc0643c-86b8-42b5-89b6-ea74d9f4a5d4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Blues" radio="true",Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
-https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
 # 72FM: https://72fm.com/station/f748bfd6-0cef-4ae4-80b7-5cdf0305632c
 #EXTINF:-1 tvg-logo="https://candilradio.com/wp-content/uploads/2019/12/roundlogo.gif" group-title="Blues" radio="true",Candil Radio
 https://candilradio.com/liveradio/candil/live.mp3
 # 72FM: https://72fm.com/station/35ee9c33-341e-4f95-8e53-3937c8347e43
 #EXTINF:-1 tvg-logo="https://radionw.gr/favicon.ico" group-title="Blues" radio="true",Nowhere
 http://i.streams.ovh:9364/stream
+# 72FM: https://72fm.com/station/0fc0643c-86b8-42b5-89b6-ea74d9f4a5d4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Blues" radio="true",Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
 # 72FM: https://72fm.com/station/003d3d6b-0d7d-4e13-beeb-f0018a00c09e
 #EXTINF:-1 tvg-logo="https://kmhd.org/favicon.ico" group-title="Blues" radio="true",KMHD 192k mp3
 https://api.spreaker.com/v2/episodes/57033473/play.mp3
-# 72FM: https://72fm.com/station/55239504-7080-4be8-97f9-f224f3aecf2e
-#EXTINF:-1 group-title="Blues" radio="true",RADIO BOB - Southern Rock [aac | 64 kbps]
-https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de/
 # 72FM: https://72fm.com/station/8aaf1e64-f9eb-46f5-9844-2da720f9f83f
 #EXTINF:-1 tvg-logo="https://www.cantbeseriousrecords.com/images/logo-CBS.jpg" group-title="Blues" radio="true",Can't Be Serious Records
 https://stream.zeno.fm/tfzhyatgswzuv
 # 72FM: https://72fm.com/station/403637a6-9680-46e5-870c-3d4d13c5cf58
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Blues" radio="true",Radio Canada Ici Musique (Saguenay-Lac-Saint-Jean) Saguenay, QC
 https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/master.m3u8
+# 72FM: https://72fm.com/station/55239504-7080-4be8-97f9-f224f3aecf2e
+#EXTINF:-1 group-title="Blues" radio="true",RADIO BOB - Southern Rock [aac | 64 kbps]
+https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de/
 # 72FM: https://72fm.com/station/b2cc0fa5-4458-4e21-ae99-1019494a7ca6
 #EXTINF:-1 group-title="Blues" radio="true",Sampotaz
 https://eu10.fastcast4u.com/sampotaz
 # 72FM: https://72fm.com/station/23687a64-3d15-44ab-a45c-e0114719b277
 #EXTINF:-1 tvg-logo="https://www.ujimaradio.com/favicon.ico" group-title="Blues" radio="true",Ujima Radio
 https://radio.canstream.co.uk:8037/live.mp3
-# 72FM: https://72fm.com/station/6f12a4d1-56cf-46c8-aab9-b887d9e5fbd3
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23389/images/logog.png?t=1656370789000" group-title="Blues" radio="true",WUMB Blues
-http://wumb.streamguys1.com/wumb919st
-# 72FM: https://72fm.com/station/7353f1f9-6ec5-4d38-8fe9-134e5a9bf3ab
-#EXTINF:-1 group-title="Blues" radio="true",hotmix
-https://streaming.hotmixradio.fr/hotmix-blues-en-mp3
 # 72FM: https://72fm.com/station/7994106c-e293-41bf-ad54-df742486e7da
 #EXTINF:-1 group-title="Blues" radio="true",Friends of 'CSB (Tuner feed of 89.3 FM)
 https://s20.myradiostream.com:18792/listen.mp3
+# 72FM: https://72fm.com/station/6f12a4d1-56cf-46c8-aab9-b887d9e5fbd3
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s23389/images/logog.png?t=1656370789000" group-title="Blues" radio="true",WUMB Blues
+http://wumb.streamguys1.com/wumb919st
 # 72FM: https://72fm.com/station/624be6bb-ab3c-4a0f-952e-0c45e980b162
 #EXTINF:-1 tvg-logo="https://muzaica.fm/wp-content/uploads/2021/01/player-logo-256.png" group-title="Blues" radio="true",Muzaica Radio
 https://radio.muzaica.fm:9000/stream
 # 72FM: https://72fm.com/station/9625fdb1-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Blues" radio="true",WESM 91.3 Princess Anne, MD
-http://26233.live.streamtheworld.com/WESMFM_SC
+http://18323.live.streamtheworld.com:3690/WESMFM_SC
+# 72FM: https://72fm.com/station/7353f1f9-6ec5-4d38-8fe9-134e5a9bf3ab
+#EXTINF:-1 group-title="Blues" radio="true",hotmix
+https://streaming.hotmixradio.fr/hotmix-blues-en-mp3
+# 72FM: https://72fm.com/station/961962c7-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Blues" radio="true",WJAB 90.9 Huntsville, AL
+http://wjab.streamguys.net/live
 # 72FM: https://72fm.com/station/7d26eaef-54ec-4a6c-ba91-e1f49b4403fa
 #EXTINF:-1 group-title="Blues" radio="true",Australian Digital Radio Network - Blues and Soul (MP3)
 http://abm21.com.au:8000/CONTAINER118
@@ -505,27 +511,27 @@ https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8
 # 72FM: https://72fm.com/station/637c36d6-7c28-4184-8340-f569700c2d28
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a50a7a_81465ac4da92440e8e9dbca4534a3a02~mv2.png" group-title="Blues" radio="true",Rádio LAM
 https://stream1.svrdedicado.org/8028/stream
-# 72FM: https://72fm.com/station/bdbc9ee7-ff95-43a8-be2c-95800dbdf9bb
-#EXTINF:-1 group-title="Blues" radio="true",StarBox Blues
-https://drive.uber.radio/uber/starboxblues/icecast.audio
 # 72FM: https://72fm.com/station/058fd4fb-d101-41f2-a4f5-78299e3705a0
 #EXTINF:-1 tvg-logo="https://www.radioplug.co.uk/img/channel/19-03-2025-22-43-21-c.png" group-title="Blues" radio="true",EklectyWaves - The Sharing Radio
 https://play.radioking.io/eklectywaves-the-sharing-radio
 # 72FM: https://72fm.com/station/aa7630c7-9ff2-458f-9ac7-90bac6a8ebd2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/KLEB_1600_Logo.png" group-title="Blues" radio="true",KLEB 1600 AM - The Rajun' Cajun
 http://sc03.warpradio.com:8634/;stream.mp3%C2%A1
+# 72FM: https://72fm.com/station/bdbc9ee7-ff95-43a8-be2c-95800dbdf9bb
+#EXTINF:-1 group-title="Blues" radio="true",StarBox Blues
+https://drive.uber.radio/uber/starboxblues/icecast.audio
 # 72FM: https://72fm.com/station/8ad3d395-c05f-45af-b79a-d887c0bdffa7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Blues" radio="true",Radio Canada Ici Musique (Nouveau-Brunswick) Moncton, NB
 https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8
 # 72FM: https://72fm.com/station/fdd63bf6-b2f9-488e-ad02-883194ccd0bf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZpXEqB.jpeg" group-title="Blues" radio="true",Blues Club - Laut.fm
 http://bluesclub.stream.laut.fm/bluesclub
-# 72FM: https://72fm.com/station/06fede96-6849-4dc4-92f7-ae11374c9dda
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wnhnfm.org/wp-content/uploads/2022/06/cropped-favicon5_sm_wborder.png?fit=192%2C192&ssl=1" group-title="Blues" radio="true",WNHN-LP FM Concord, NH
-https://seahorse.juststreamwith.us:8008/stream
 # 72FM: https://72fm.com/station/f2f48ab9-1839-4247-b3e2-fc015873f525
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Blues" radio="true",Radio Canada Ici Musique (Estrie) Sherbrooke, QC
 https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8
+# 72FM: https://72fm.com/station/06fede96-6849-4dc4-92f7-ae11374c9dda
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.wnhnfm.org/wp-content/uploads/2022/06/cropped-favicon5_sm_wborder.png?fit=192%2C192&ssl=1" group-title="Blues" radio="true",WNHN-LP FM Concord, NH
+https://seahorse.juststreamwith.us:8008/stream
 # 72FM: https://72fm.com/station/fa3028e4-62c8-4566-a02c-1fcd9ba3d3ad
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:CBC_Music_Logo.png" group-title="Blues" radio="true",CBC Music Central (Winnipeg) - AAC Stream
 https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/adaptive_192/chunklist_ao.m3u8
@@ -556,63 +562,66 @@ https://deb.patrikmalmgrenrask.se:10443/
 # 72FM: https://72fm.com/station/7e6c707f-70a5-497d-b679-d2a9513223b0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/KRVS_logo_since_2012.svg/170px-KRVS_logo_since_2012.svg.png" group-title="Blues" radio="true",KRVS
 https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFMAAC.aac
-# 72FM: https://72fm.com/station/5d64b66c-431c-4c93-ab29-b5690e674271
-#EXTINF:-1 group-title="Blues" radio="true",KNKX
-https://knkx-live-a.edge.audiocdn.com/6284_128k
-# 72FM: https://72fm.com/station/f2dd391b-b5d5-447e-bd46-b1439a017e1d
-#EXTINF:-1 tvg-logo="https://mrg.fm/img/mondelloradio125.jpg" group-title="Blues" radio="true",Mondello Radio (MRG.fm)
-http://listen.mrg.fm:8000/stream
-# 72FM: https://72fm.com/station/97c865e2-c403-4597-bfbb-192e1fe816e6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBbNMRM/ARTSOUND-logo-with-DAB-TRANSPARENT-FOR-DARK-BACKGROUND.jpg" group-title="Blues" radio="true",ArtSound FM - Canberra - 92.7 FM (MP3)
-http://stream.artsound.fm/mp3
 # 72FM: https://72fm.com/station/d770ed04-88a1-4ef5-9198-018e2035a9bc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Blues" radio="true",Radio Canada Ici Musique (Saskatchewan) Regina, SK
 https://rcavliveaudio.akamaized.net/hls/live/2022748/M-7SREG0_REG/master.m3u8
+# 72FM: https://72fm.com/station/5d64b66c-431c-4c93-ab29-b5690e674271
+#EXTINF:-1 group-title="Blues" radio="true",KNKX
+https://knkx-live-a.edge.audiocdn.com/6284_128k
+# 72FM: https://72fm.com/station/97c865e2-c403-4597-bfbb-192e1fe816e6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBbNMRM/ARTSOUND-logo-with-DAB-TRANSPARENT-FOR-DARK-BACKGROUND.jpg" group-title="Blues" radio="true",ArtSound FM - Canberra - 92.7 FM (MP3)
+http://stream.artsound.fm/mp3
+# 72FM: https://72fm.com/station/f2dd391b-b5d5-447e-bd46-b1439a017e1d
+#EXTINF:-1 tvg-logo="https://mrg.fm/img/mondelloradio125.jpg" group-title="Blues" radio="true",Mondello Radio (MRG.fm)
+http://listen.mrg.fm:8000/stream
 # 72FM: https://72fm.com/station/9ade757f-e87f-456d-9237-50ef43b37477
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4Gs2Mqc/118302-v5.jpg" group-title="Blues" radio="true",Rockeasyradio.com - Perth (MP3)
 http://cast2.my-control-panel.com/proxy/steve12/stream
 # 72FM: https://72fm.com/station/200c4b5e-dfd6-41c3-b1dc-7e448afd514c
 #EXTINF:-1 group-title="Blues" radio="true",RADIO MAGIA INIMII TALE
 https://a9.asurahosting.com:7030/radio.mp3
-# 72FM: https://72fm.com/station/b18cae37-c758-46d8-9df5-3694bdb3585f
-#EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/bda95ca4-c21c-4752-b8bb-615e6411684f.jpg" group-title="Blues" radio="true",Best 94.7
-https://i2.streams.ovh:9470/stream
 # 72FM: https://72fm.com/station/97c20876-fe22-4196-b8ab-49f8e9fc9c67
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrFRWxV8/67c4f8a8d93c99fd1cda00b2.webp" group-title="Blues" radio="true",Great Southern FM - Albany - 100.9 FM (AAC+)
 http://playerservices.streamtheworld.com/api/livestream-redirect/6CRAAAC.aac
-# 72FM: https://72fm.com/station/d1507cf9-4a88-4222-8a6d-5170306b413f
-#EXTINF:-1 group-title="Blues" radio="true",KHUG - Best Blues Rock Streaming Commercial Free
-http://noasrv.caster.fm:10070/khug
+# 72FM: https://72fm.com/station/b18cae37-c758-46d8-9df5-3694bdb3585f
+#EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/bda95ca4-c21c-4752-b8bb-615e6411684f.jpg" group-title="Blues" radio="true",Best 94.7
+https://i2.streams.ovh:9470/stream
 # 72FM: https://72fm.com/station/46945ed3-8866-4736-9083-eb6e9ecf418d
 #EXTINF:-1 tvg-logo="https://kslo-fm.cms.vipology.com/wp-content/uploads/sites/117/KSLO-105.3-Digital-Elements-7-23_KSLO-105.3-Digital-Elements-7-23-Web-Header-Small.png" group-title="Blues" radio="true",KSLO 105.3 The Home Of Zydeco
 https://ice6.securenetsystems.net/KSLO
+# 72FM: https://72fm.com/station/4bd0c575-f6ae-46b0-8efb-3267b9cb211c
+#EXTINF:-1 tvg-logo="https://www.frc.utn.edu.ar/radio/pub/image/logoRadio.gif" group-title="Blues" radio="true",Radio UTN FRC FM 94.3
+https://01.solumedia.com.ar:8200/stream
 # 72FM: https://72fm.com/station/8c0705b7-536f-4896-9dfa-eefa30c3aff5
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241115_213722426.jpg?alt=media&token=2832fcdc-bfa8-4090-8bac-3753f0caa320" group-title="Blues" radio="true",Island 92 Philipsburg
 http://ais-sa1.streamon.fm/7338_48k.aac
 # 72FM: https://72fm.com/station/fe1c6f93-b507-455e-acd5-74fea37eed76
 #EXTINF:-1 tvg-logo="https://www.kbia.org/apple-touch-icon.png" group-title="Blues" radio="true",KBIA HD3
 https://das-sa43.cdnstream1.com/6064_256k.aac
-# 72FM: https://72fm.com/station/4bd0c575-f6ae-46b0-8efb-3267b9cb211c
-#EXTINF:-1 tvg-logo="https://www.frc.utn.edu.ar/radio/pub/image/logoRadio.gif" group-title="Blues" radio="true",Radio UTN FRC FM 94.3
-https://01.solumedia.com.ar:8200/stream
-# 72FM: https://72fm.com/station/a95180b5-4e17-42fd-9ce8-bad85e7893fd
-#EXTINF:-1 tvg-logo="https://dev.40upradio.nl/wp-content/uploads/2021/12/40-up-radio.jpg" group-title="Blues" radio="true",40UP Radio
-https://stream.40upradio.nl/40up
+# 72FM: https://72fm.com/station/d1507cf9-4a88-4222-8a6d-5170306b413f
+#EXTINF:-1 group-title="Blues" radio="true",KHUG - Best Blues Rock Streaming Commercial Free
+http://noasrv.caster.fm:10070/khug
 # 72FM: https://72fm.com/station/ad7f3e5d-9485-4cc4-9893-c89d171e5be9
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/9d67f28806aa3cffab882336666e2710" group-title="Blues" radio="true",889 FMberlin
 https://889fmberlin.stream.laut.fm/889fmberlin
-# 72FM: https://72fm.com/station/087daaf7-e51e-43ab-b305-9bb76627a801
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Blues" radio="true",Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine (Rimouski, QC)
-https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8
 # 72FM: https://72fm.com/station/7a432fca-42f1-4402-b9d0-8071ffcc7eb9
 #EXTINF:-1 tvg-logo="https://957thewolf.ca/templates/95.7thewolf/images/logo.png" group-title="Blues" radio="true",CKTP-FM "95.7 The Wolf" Fredericton, NB
 https://centova.radioservers.biz/proxy/cktpradi/stream
 # 72FM: https://72fm.com/station/275e8b45-4df3-49c3-9e2a-bb965579acb5
 #EXTINF:-1 tvg-logo="https://az-de-01.worldradiobeat.com/static/uploads/browser_icon/192.1732244547.png" group-title="Blues" radio="true",Original Fast Radio
 https://az-de-01.worldradiobeat.com/listen/originalfastradio/live
+# 72FM: https://72fm.com/station/087daaf7-e51e-43ab-b305-9bb76627a801
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="Blues" radio="true",Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine (Rimouski, QC)
+https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8
+# 72FM: https://72fm.com/station/a95180b5-4e17-42fd-9ce8-bad85e7893fd
+#EXTINF:-1 tvg-logo="https://dev.40upradio.nl/wp-content/uploads/2021/12/40-up-radio.jpg" group-title="Blues" radio="true",40UP Radio
+https://stream.40upradio.nl/40up
 # 72FM: https://72fm.com/station/679b092e-e41b-4ae1-a722-b452e8c7f73a
 #EXTINF:-1 group-title="Blues" radio="true",The Chill Factor
 http://65.108.98.93:7503/stream
+# 72FM: https://72fm.com/station/b39fc10c-b667-4b44-94ed-8c70bea3f831
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrFRWxV8/67c4f8a8d93c99fd1cda00b2.webp" group-title="Blues" radio="true",Great Southern FM - Albany - 100.9 FM (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/6CRA.mp3
 # 72FM: https://72fm.com/station/09f04b51-0555-40ce-8e80-e7e76c6c3f57
 #EXTINF:-1 group-title="Blues" radio="true",Mountain Town FM
 https://streaming.live365.com/a74617
@@ -622,111 +631,114 @@ https://nodo102.liveradio.com.es/8016/stream
 # 72FM: https://72fm.com/station/6ae06700-1446-4ead-867d-524e3f7bdcbe
 #EXTINF:-1 group-title="Blues" radio="true",Radio Autómata
 http://giss.tv:8001/radio_automata.ogg
-# 72FM: https://72fm.com/station/b39fc10c-b667-4b44-94ed-8c70bea3f831
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrFRWxV8/67c4f8a8d93c99fd1cda00b2.webp" group-title="Blues" radio="true",Great Southern FM - Albany - 100.9 FM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/6CRA.mp3
-# 72FM: https://72fm.com/station/1dffee5e-17a8-4c14-b529-cf159c7135d1
-#EXTINF:-1 tvg-logo="https://wcuw.org/wp-content/uploads/2018/05/wcuw-logo-small4.png" group-title="Blues" radio="true",WCUW
-http://peridot.streamguys.com:5490/live
-# 72FM: https://72fm.com/station/be9d864c-9895-4494-90c4-b4df8b27faa6
-#EXTINF:-1 group-title="Blues" radio="true",WSDL 90.7 Rhythm & News
-https://26153.live.streamtheworld.com/WSDLFM.mp3
-# 72FM: https://72fm.com/station/d8357885-b58f-42da-a2de-576ebb20a43b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwtCWSXN/7ec7ca02-dacd-4589-93e8-ec195e9bc92b.jpg" group-title="Blues" radio="true",Radio Geraldton (MP3)
-http://listen.radioking.com/radio/708113/stream/773624
 # 72FM: https://72fm.com/station/e81b2a46-e756-4aec-9795-ff3d2c109d1d
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s300309/images/logod.png" group-title="Blues" radio="true",TimiBanat -Eurodisco
 https://streaming12.elitecomunicacion.es:8102/stream3
+# 72FM: https://72fm.com/station/1dffee5e-17a8-4c14-b529-cf159c7135d1
+#EXTINF:-1 tvg-logo="https://wcuw.org/wp-content/uploads/2018/05/wcuw-logo-small4.png" group-title="Blues" radio="true",WCUW
+http://peridot.streamguys.com:5490/live
+# 72FM: https://72fm.com/station/a03d0d90-73ec-451d-bb7e-b698f9b3698e
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Blues" radio="true",Blues
+https://mml1.prostream.se/listen/blues/radio.mp3
+# 72FM: https://72fm.com/station/b2d960e0-c643-4472-9429-ff02a5925372
+#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-blues-en-mp3.jpg" group-title="Blues" radio="true",Hotmix Blues
+https://streaming.hotmixradio.com/hotmix-blues-en-mp3?provider=radiobrowser
 # 72FM: https://72fm.com/station/4efb7004-cfbc-407f-8a69-ecdebab67ccb
 #EXTINF:-1 group-title="Blues" radio="true",furry radio by laut.fm
-https://furryradio.stream.laut.fm/furryradio?t302=2026-09-26_00-32-19&uuid=fb8b9d5e-92a6-697f-b8d1-cbeb19013b27
+https://furryradio.stream.laut.fm/furryradio?t302=2026-10-01_00-51-16&uuid=60fd1813-24d3-06aa-135c-aac7af1b14fc
+# 72FM: https://72fm.com/station/d8357885-b58f-42da-a2de-576ebb20a43b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwtCWSXN/7ec7ca02-dacd-4589-93e8-ec195e9bc92b.jpg" group-title="Blues" radio="true",Radio Geraldton (MP3)
+http://listen.radioking.com/radio/708113/stream/773624
+# 72FM: https://72fm.com/station/be9d864c-9895-4494-90c4-b4df8b27faa6
+#EXTINF:-1 group-title="Blues" radio="true",WSDL 90.7 Rhythm & News
+https://26153.live.streamtheworld.com/WSDLFM.mp3
 # 72FM: https://72fm.com/station/d608c6be-d1b8-410a-9999-8429ae95928b
 #EXTINF:-1 tvg-logo="https://trustfm.live/assets/icons/favicon.png" group-title="Blues" radio="true",TrustFM
 https://trust-canberra-b3c69c68.radiocult.fm/stream
 # 72FM: https://72fm.com/station/41781c15-15ca-4999-be3e-6100e3bde972
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KMRC.png" group-title="Blues" radio="true",KMRC Radio
 https://us2.maindigitalstream.com/ssl/KMRC
-# 72FM: https://72fm.com/station/b2d960e0-c643-4472-9429-ff02a5925372
-#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-blues-en-mp3.jpg" group-title="Blues" radio="true",Hotmix Blues
-https://streaming.hotmixradio.com/hotmix-blues-en-mp3?provider=radiobrowser
-# 72FM: https://72fm.com/station/0a40754f-b514-4b4f-b7a2-b683189f240c
-#EXTINF:-1 tvg-logo="https://live365.com/favicon.ico" group-title="Blues" radio="true",Nude Radio
-https://streaming.live365.com/a07325
 # 72FM: https://72fm.com/station/fc94c734-f869-4f68-b894-603ece8db18f
 #EXTINF:-1 tvg-logo="https://musiclovequest.pages.dev/img/social.png" group-title="Blues" radio="true",theradio.fm
 https://servidor36-2.brlogic.com:7064/live
-# 72FM: https://72fm.com/station/3880b004-8ccc-48bd-ad05-fe0063920b5c
-#EXTINF:-1 group-title="Blues" radio="true",Radio De Wasrol
-https://streams.radioerfgoed.nl/radiodewasrol
+# 72FM: https://72fm.com/station/0a40754f-b514-4b4f-b7a2-b683189f240c
+#EXTINF:-1 tvg-logo="https://live365.com/favicon.ico" group-title="Blues" radio="true",Nude Radio
+https://streaming.live365.com/a07325
+# 72FM: https://72fm.com/station/fde33f7f-7d7d-41a7-b213-285c7989e612
+#EXTINF:-1 tvg-logo="https://newageradio.gr/jazz_1024x1024.png" group-title="Blues" radio="true",1st Greek Jazz FLAC Radio Lossless
+https://stream.newageradio.gr/listen/jazz/radio.flac
 # 72FM: https://72fm.com/station/25f74e5f-195c-454f-9878-51b344976730
 #EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/blues.jpg" group-title="Blues" radio="true",Clasic Radio_Blues -București
 https://live.radioclasic.com/listen/radio_clasic_blues/live.mp3
 # 72FM: https://72fm.com/station/ca08b6ba-9db6-42d1-9b84-f5ac0b10a599
 #EXTINF:-1 group-title="Blues" radio="true",Swingtime Radio
 https://15113.live.streamtheworld.com/SAM04AAC169.mp3
-# 72FM: https://72fm.com/station/b636d82c-6319-4008-86d4-aadfb04b8e1f
-#EXTINF:-1 group-title="Blues" radio="true",EBS Radio Blues -Cluj Napoca
-https://azura.ebsmedia.ro/listen/blues/blues128.mp3?refresh=1779028682377
-# 72FM: https://72fm.com/station/f6b1a559-4666-46ba-810e-a85c3cc1463e
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s87997/images/logod.jpg" group-title="Blues" radio="true",HORIZONTE: Amplía Tu Escucha
-https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8014/stream
-# 72FM: https://72fm.com/station/acc196b2-0ad5-4024-840a-79283d590cf2
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/933/723/small/radio-online-neon-signs-style-text-free-vector.jpg" group-title="Blues" radio="true",Homemade Radio
-https://homemaderadio-brianager.radioca.st/;
-# 72FM: https://72fm.com/station/b8a0cfa8-922d-483e-a3d0-540852bf1a46
-#EXTINF:-1 group-title="Blues" radio="true",Rock Classic Bits
-http://stm25.xcast.com.br:6862/
-# 72FM: https://72fm.com/station/3e53d0b1-542d-4d67-b849-fcc5665f284d
-#EXTINF:-1 tvg-logo="https://motoradio.online/favicon.ico" group-title="Blues" radio="true",MOTORADIO.ONLINE, 320 kbps
-https://stream.motoradio.online/std-mp3
+# 72FM: https://72fm.com/station/3880b004-8ccc-48bd-ad05-fe0063920b5c
+#EXTINF:-1 group-title="Blues" radio="true",Radio De Wasrol
+https://streams.radioerfgoed.nl/radiodewasrol
 # 72FM: https://72fm.com/station/937de10c-0885-4041-aa36-2c5198d2d762
 #EXTINF:-1 tvg-logo="https://newageradio.gr/jazz_1024x1024.png" group-title="Blues" radio="true",1st Greek Jazz FLAC Radio AAC+
 https://stream.newageradio.gr/listen/jazz/radio.aac
+# 72FM: https://72fm.com/station/acc196b2-0ad5-4024-840a-79283d590cf2
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/001/933/723/small/radio-online-neon-signs-style-text-free-vector.jpg" group-title="Blues" radio="true",Homemade Radio
+https://homemaderadio-brianager.radioca.st/;
+# 72FM: https://72fm.com/station/f6b1a559-4666-46ba-810e-a85c3cc1463e
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s87997/images/logod.jpg" group-title="Blues" radio="true",HORIZONTE: Amplía Tu Escucha
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8014/stream
+# 72FM: https://72fm.com/station/b636d82c-6319-4008-86d4-aadfb04b8e1f
+#EXTINF:-1 group-title="Blues" radio="true",EBS Radio Blues -Cluj Napoca
+https://azura.ebsmedia.ro/listen/blues/blues128.mp3?refresh=1779028682377
 # 72FM: https://72fm.com/station/cd000b7b-4185-4ddb-bc71-5bd70053c190
 #EXTINF:-1 group-title="Blues" radio="true",Exclusively ZZ Top
 https://2.mystreaming.net/er-app/zztop/icecast.audio
+# 72FM: https://72fm.com/station/0df0cfb3-33a3-447c-8dd4-5e0a2e1edf4e
+#EXTINF:-1 group-title="Blues" radio="true",De Geluidsfabriek
+https://s5.radio.co/s4674a3b1c/listen
+# 72FM: https://72fm.com/station/3e53d0b1-542d-4d67-b849-fcc5665f284d
+#EXTINF:-1 tvg-logo="https://motoradio.online/favicon.ico" group-title="Blues" radio="true",MOTORADIO.ONLINE, 320 kbps
+https://stream.motoradio.online/std-mp3
+# 72FM: https://72fm.com/station/b8a0cfa8-922d-483e-a3d0-540852bf1a46
+#EXTINF:-1 group-title="Blues" radio="true",Rock Classic Bits
+http://stm25.xcast.com.br:6862/
 # 72FM: https://72fm.com/station/89269e0b-d758-4c95-8564-bdc031ce84d5
 #EXTINF:-1 tvg-logo="https://jamtown.us/favicon.ico" group-title="Blues" radio="true",Jam Town
 https://65.109.88.81:8160/radio.mp3
 # 72FM: https://72fm.com/station/abf0d086-aeaa-4c06-9196-bc9a0721b8b8
 #EXTINF:-1 tvg-logo="https://www.pbsfm.org.au/" group-title="Blues" radio="true",PBS 106.7FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAACHIGH.aac
-# 72FM: https://72fm.com/station/beea8de9-e9cf-4453-bd00-28808b7358c1
-#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png" group-title="Blues" radio="true",Radios 100FM - 100% Blues
-https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8
-# 72FM: https://72fm.com/station/5b08693f-7072-49d2-9d4e-98e319dc9e19
-#EXTINF:-1 tvg-logo="https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-uno.png" group-title="Blues" radio="true",Rete Uno | 32k AAC+
-https://stream.srg-ssr.ch/m/reteuno/aacp_32
-# 72FM: https://72fm.com/station/0df0cfb3-33a3-447c-8dd4-5e0a2e1edf4e
-#EXTINF:-1 group-title="Blues" radio="true",De Geluidsfabriek
-https://s5.radio.co/s4674a3b1c/listen
+# 72FM: https://72fm.com/station/7ba5eae1-8b25-44f7-93ff-f72b132dbda9
+#EXTINF:-1 tvg-logo="https://youritmix.ru/logo-1200.png" group-title="Blues" radio="true",YouRitmix
+https://youritmix.ru/stream/
 # 72FM: https://72fm.com/station/01f322cf-7ad2-4751-b6f8-3a2bb570c9d8
 #EXTINF:-1 group-title="Blues" radio="true",Focus FM Regional -Vrancea, Braila, Galati 97,0 FM
 http://live.focusfm.ro:8000/focusfmlow.ogg
 # 72FM: https://72fm.com/station/bcccb1a1-1ed4-4457-827f-90622a6fb1c3
 #EXTINF:-1 tvg-logo="https://ona92fm.es/logo.png" group-title="Blues" radio="true",Ona 92 FM
 https://ona92fm.es/radio
-# 72FM: https://72fm.com/station/fde33f7f-7d7d-41a7-b213-285c7989e612
-#EXTINF:-1 tvg-logo="https://newageradio.gr/jazz_1024x1024.png" group-title="Blues" radio="true",1st Greek Jazz FLAC Radio Lossless
-https://stream.newageradio.gr/listen/jazz/radio.flac
-# 72FM: https://72fm.com/station/2326c5fc-5f02-4f3c-94e9-ce67b8f39108
-#EXTINF:-1 group-title="Blues" radio="true",Champion Radio
-http://sportradio.com.ua:8000/championradio
-# 72FM: https://72fm.com/station/303c336c-ef6c-41f0-8981-53038b268ee7
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/158553.v1.png" group-title="Blues" radio="true",Javier & Amis – Radio
-https://a1.my-control-panel.com/listen/javier__amis_radio/radio.mp3
 # 72FM: https://72fm.com/station/f6e1fdf7-70b6-4d44-a37b-cbe4912ff064
 #EXTINF:-1 tvg-logo="https://video.rsi-tv.eu/logo.png" group-title="Blues" radio="true",Radio Stars International
 https://radio.rsi-tv.eu/listen/radio_stars_international/radio.mp3
+# 72FM: https://72fm.com/station/beea8de9-e9cf-4453-bd00-28808b7358c1
+#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png" group-title="Blues" radio="true",Radios 100FM - 100% Blues
+https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8
+# 72FM: https://72fm.com/station/5b08693f-7072-49d2-9d4e-98e319dc9e19
+#EXTINF:-1 tvg-logo="https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-uno.png" group-title="Blues" radio="true",Rete Uno | 32k AAC+
+https://stream.srg-ssr.ch/m/reteuno/aacp_32
 # 72FM: https://72fm.com/station/782ddb56-6e35-4e77-8178-362bcfd8ec55
 #EXTINF:-1 tvg-logo="https://rf.broadcast.radio/api/image/a47741f3-6103-40c4-9e21-0453a30fc67e.png?g=center&w=600&h=600&f=png" group-title="Blues" radio="true",Rock.Scot
 http://uksoutha.streaming.broadcast.radio:16641/caledonia-tx-ltd
+# 72FM: https://72fm.com/station/303c336c-ef6c-41f0-8981-53038b268ee7
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/158553.v1.png" group-title="Blues" radio="true",Javier & Amis – Radio
+https://a1.my-control-panel.com/listen/javier__amis_radio/radio.mp3
+# 72FM: https://72fm.com/station/f4bc7051-0389-499a-a5c3-d2b259ea6f26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHcMtcHQ/radiotecnologicodecelaya.jpg" group-title="Blues" radio="true",RADIO TECNOLÓGICO DE CELAYA 89.9 (Celaya) - 89.9 FM - XHITC-FM - Instituto Tecnológico de Celaya - Celaya, Guanajuato
+https://radios.radiohd.com.mx/8282/;
 # 72FM: https://72fm.com/station/5aa2d2b0-bb71-44c4-ae56-33ededbf059f
 #EXTINF:-1 group-title="Blues" radio="true",Dark Hollow Radio
 https://ec3.yesstreaming.net:1970/stream
-# 72FM: https://72fm.com/station/0a775573-a17a-4d6f-9b1c-f7d578d8f67d
-#EXTINF:-1 group-title="Blues" radio="true",JAM 66 Radio
-https://eu4.fastcast4u.com/proxy/jam66?mp=/1
+# 72FM: https://72fm.com/station/a7633680-8e05-448e-8a73-bc87d2aec697
+#EXTINF:-1 group-title="Blues" radio="true",Exclusively Gary Moore
+https://nl4.mystreaming.net/er/garymoore/icecast.audio
 # 72FM: https://72fm.com/station/aac75a15-8669-4249-8555-7fb0a64e94ba
 #EXTINF:-1 tvg-logo="https://acornradio.org/radio_player_kabf/img/bg-capa.jpg" group-title="Blues" radio="true",KABF
 https://cast.acornradio.org/kabf
@@ -739,42 +751,24 @@ https://listen.radioking.com/radio/432101/stream/485900
 # 72FM: https://72fm.com/station/1c0da841-1ca8-4210-a229-e62a31da14e8
 #EXTINF:-1 tvg-logo="https://myradioonline.ro/public/uploads/radio_img/supersonic-radio/play_250_250.webp" group-title="Blues" radio="true",Radio Supersonic -Buzău
 https://s5.radio.co/s08e5c5875/listen
-# 72FM: https://72fm.com/station/f4bc7051-0389-499a-a5c3-d2b259ea6f26
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHcMtcHQ/radiotecnologicodecelaya.jpg" group-title="Blues" radio="true",RADIO TECNOLÓGICO DE CELAYA 89.9 (Celaya) - 89.9 FM - XHITC-FM - Instituto Tecnológico de Celaya - Celaya, Guanajuato
-https://radios.radiohd.com.mx/8282/;
 # 72FM: https://72fm.com/station/b887db2d-fd7c-4add-9c00-a6d3b9cac001
 #EXTINF:-1 tvg-logo="https://www.x-fm.ro/images/logo_xfm.png" group-title="Blues" radio="true",XFM Radio - XFM 90s
 http://live2.x-fm.ro:7480/
-# 72FM: https://72fm.com/station/7ba5eae1-8b25-44f7-93ff-f72b132dbda9
-#EXTINF:-1 tvg-logo="https://youritmix.ru/logo-1200.png" group-title="Blues" radio="true",YouRitmix
-https://youritmix.ru/stream/
 # 72FM: https://72fm.com/station/c5df1376-b2e8-44d0-bca7-9cc4637c39fc
 #EXTINF:-1 tvg-logo="https://newageradio.gr/jazz_1024x1024.png" group-title="Blues" radio="true",1st Greek Jazz FLAC Radio
 https://stream.newageradio.gr/listen/jazz/radio.mp3
-# 72FM: https://72fm.com/station/16c9807a-cf6b-4f4a-b99e-6daab12212dd
-#EXTINF:-1 group-title="Blues" radio="true",Nostalgie Blues
-https://streaming.nrjaudio.fm/ou8ordgk7oiu?origine=fluxurlradio&aw_0_1st.station=Nostalgie-Blues
 # 72FM: https://72fm.com/station/708bd211-73cf-403a-8ec9-2af4f87dc613
 #EXTINF:-1 tvg-logo="https://radio.greenwoodlabs.ca/static/uploads/fallout26/background.1779547063.png" group-title="Blues" radio="true",Fallout '26 radio
 https://radio.greenwoodlabs.ca/listen/fallout26/radio.mp3
-# 72FM: https://72fm.com/station/eb4f9a62-0cb4-4de5-bff2-f221ea6e7a37
-#EXTINF:-1 tvg-logo="https://cdn.iono.fm/files/p3519/logo_3519_20250905_204605_750.jpeg" group-title="Blues" radio="true",Zone Radio
-https://edge.iono.fm/xhls/279_medium.m3u8?ref=https%3A%2F%2Fradio-browser.info&adToken=&pofToken=
-# 72FM: https://72fm.com/station/a7633680-8e05-448e-8a73-bc87d2aec697
-#EXTINF:-1 group-title="Blues" radio="true",Exclusively Gary Moore
-https://nl4.mystreaming.net/er/garymoore/icecast.audio
-# 72FM: https://72fm.com/station/2e7297b8-f132-4145-b30c-e8632e766720
-#EXTINF:-1 group-title="Blues" radio="true",Focus FM Regional -Slobozia 92,9 FM
-http://live.focusfm.ro:8000/;
+# 72FM: https://72fm.com/station/315320fe-e849-4c84-8667-127095a3c335
+#EXTINF:-1 tvg-logo="https://bluesactu.com/wp-content/uploads/2026/03/cropped-favicon.png" group-title="Blues" radio="true",Blues Actu Radio
+http://manager4.streamradio.fr:2440/stream
 # 72FM: https://72fm.com/station/c885c397-bda9-47c6-a0a4-6c3d3fb4ff11
 #EXTINF:-1 group-title="Blues" radio="true",Podjazz Radio
 https://radio.podjazz.net/listen/podjazz_radio/radio.mp3
 # 72FM: https://72fm.com/station/848a71ae-64e7-4e14-b0a3-4ff3b862c3ab
 #EXTINF:-1 tvg-logo="https://bissakouwebradio.com/favicon.ico" group-title="Blues" radio="true",Bissakou Web Radio
 https://bissakouwebradio.com/listen/bissakou_web_radio/radio.mp3
-# 72FM: https://72fm.com/station/315320fe-e849-4c84-8667-127095a3c335
-#EXTINF:-1 tvg-logo="https://bluesactu.com/wp-content/uploads/2026/03/cropped-favicon.png" group-title="Blues" radio="true",Blues Actu Radio
-http://manager4.streamradio.fr:2440/stream
 # 72FM: https://72fm.com/station/f79a2628-1691-4c64-823c-30a39c14f85d
 #EXTINF:-1 group-title="Blues" radio="true",Bottle o' Groove
 http://n06.radiojar.com/n8buhxbsk9duv?rj-ttl=5&rj-tok=AAABeD060SkAnhYCEHekyrYV6g
@@ -784,6 +778,15 @@ https://sc.host-live.com:8140/stream
 # 72FM: https://72fm.com/station/770839a7-75bd-40e9-b090-d8263e6c36f6
 #EXTINF:-1 group-title="Blues" radio="true",Focus FM Regional -Rm,Sarat 104,7 FM
 http://89.40.72.71:8000/stream
+# 72FM: https://72fm.com/station/2e7297b8-f132-4145-b30c-e8632e766720
+#EXTINF:-1 group-title="Blues" radio="true",Focus FM Regional -Slobozia 92,9 FM
+http://live.focusfm.ro:8000/;
+# 72FM: https://72fm.com/station/eb4f9a62-0cb4-4de5-bff2-f221ea6e7a37
+#EXTINF:-1 tvg-logo="https://cdn.iono.fm/files/p3519/logo_3519_20250905_204605_750.jpeg" group-title="Blues" radio="true",Zone Radio
+https://edge.iono.fm/xhls/279_medium.m3u8?ref=https%3A%2F%2Fradio-browser.info&adToken=&pofToken=
+# 72FM: https://72fm.com/station/16c9807a-cf6b-4f4a-b99e-6daab12212dd
+#EXTINF:-1 group-title="Blues" radio="true",Nostalgie Blues
+https://streaming.nrjaudio.fm/ou8ordgk7oiu?origine=fluxurlradio&aw_0_1st.station=Nostalgie-Blues
 # 72FM: https://72fm.com/station/54a71ddd-f509-40a5-98d8-0a1c9879fb4d
 #EXTINF:-1 tvg-logo="https://rock.scot/assets/images/logo.webp" group-title="Blues" radio="true",Rock.Scot
 https://uksoutha.streaming.broadcast.radio/caledonia-tx-ltd
@@ -796,24 +799,27 @@ https://s5.radio.co/sf0581b682/listen
 # 72FM: https://72fm.com/station/88c7b82a-392c-4ea8-b0f9-89496ec9df55
 #EXTINF:-1 group-title="Blues" radio="true",Chaos FM
 https://chaosfm.com:8443/stream
-# 72FM: https://72fm.com/station/eae9f750-1222-42b4-855b-7332c1cccd65
-#EXTINF:-1 group-title="Blues" radio="true",Rockin' Rhythm & Blues Radio
-http://s6.voscast.com:11632/live
+# 72FM: https://72fm.com/station/d5249860-ad7f-4951-9fa6-0e133fbdc314
+#EXTINF:-1 group-title="Blues" radio="true",Bluesbude
+https://bluesbude.stream.laut.fm/bluesbude?t302=2026-10-01_03-33-17&uuid=5712c261-8971-0c47-b66a-76607e1f03a1
 # 72FM: https://72fm.com/station/345901b2-897c-4903-a493-87a19caaf56a
 #EXTINF:-1 tvg-logo="https://www.estacionprodan.com.ar/" group-title="Blues" radio="true",Estación PRODAN fm 100.7
 https://streaming6.locucionar.com/stream/estacionprodan
-# 72FM: https://72fm.com/station/db3df142-6a6c-4149-a203-0221e35c9587
-#EXTINF:-1 tvg-logo="https://radio-oiom.eu/favicon.ico" group-title="Blues" radio="true",Radio OIOM
-https://azura2.radio-oiom.eu/listen/radio_oiom/radio.aac
-# 72FM: https://72fm.com/station/425a4b21-341d-4029-b58d-932e65588b75
-#EXTINF:-1 group-title="Blues" radio="true",Music Hollow Radio
-https://eu8.fastcast4u.com/proxy/standingrights/stream
-# 72FM: https://72fm.com/station/d5249860-ad7f-4951-9fa6-0e133fbdc314
-#EXTINF:-1 group-title="Blues" radio="true",Bluesbude
-https://bluesbude.stream.laut.fm/bluesbude?t302=2026-09-26_01-13-44&uuid=87d271cf-2902-c2e8-07e1-509a003d9f3d
+# 72FM: https://72fm.com/station/eae9f750-1222-42b4-855b-7332c1cccd65
+#EXTINF:-1 group-title="Blues" radio="true",Rockin' Rhythm & Blues Radio
+http://s6.voscast.com:11632/live
+# 72FM: https://72fm.com/station/f03f42aa-cf1b-4051-b8d2-bd0378b0512e
+#EXTINF:-1 group-title="Blues" radio="true",XRDS.fm
+https://us1.internet-radio.com/proxy/xrds?mp=/stream
 # 72FM: https://72fm.com/station/e04cd769-5632-42a0-91e8-47ac14ffc8c8
 #EXTINF:-1 group-title="Blues" radio="true",Indaco
 https://radio.celodex.com/stream/indaco.mp3
+# 72FM: https://72fm.com/station/425a4b21-341d-4029-b58d-932e65588b75
+#EXTINF:-1 group-title="Blues" radio="true",Music Hollow Radio
+https://eu8.fastcast4u.com/proxy/standingrights/stream
+# 72FM: https://72fm.com/station/db3df142-6a6c-4149-a203-0221e35c9587
+#EXTINF:-1 tvg-logo="https://radio-oiom.eu/favicon.ico" group-title="Blues" radio="true",Radio OIOM
+https://azura2.radio-oiom.eu/listen/radio_oiom/radio.aac
 # 72FM: https://72fm.com/station/9c38dd87-81bb-4c35-b483-1f3596abd646
 #EXTINF:-1 group-title="Blues" radio="true",RocknationFmuk
 http://s8.myradiostream.com:56048/listen.mp3

@@ -24,7 +24,7 @@ https://cast1.torontocast.com:4610/stream
 http://eu4.fastcast4u.com:5248/;stream.mp3
 # 72FM: https://72fm.com/station/962af33f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Hard Rock" radio="true",181.FM - The Rock! (HardRock)
-https://listen.181fm.com/181-hardrock_128k.mp3
+http://listen.181fm.com/181-hardrock_128k.mp3
 # 72FM: https://72fm.com/station/32b2e232-8634-4eb5-a820-af28ae9709f2
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="Hard Rock" radio="true",Exclusively Guns N’ Roses
 https://streaming.exclusive.radio/er/gunsnroses/icecast.audio
@@ -169,12 +169,12 @@ https://live-bauerno.sharp-stream.com/radiorock_no_mp3
 # 72FM: https://72fm.com/station/41b70c63-05bc-42a4-970c-20ceb0a07206
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Hard Rock" radio="true",Exclusively The Who - Only Hits
 https://streaming.exclusive.radio/er-app/whohits/icecast.audio
-# 72FM: https://72fm.com/station/716d0d91-4c12-4bd6-bf7e-e5173ef40d39
-#EXTINF:-1 group-title="Hard Rock" radio="true",0nlineradio METAL
-https://stream.0nlineradio.com/metal?ref=radiobrowser
 # 72FM: https://72fm.com/station/3ef378fb-01a6-48f2-80e1-f659e7ac3e4d
 #EXTINF:-1 tvg-logo="https://colombiacrossover.com/wp-content/uploads/Logo-colombia-poprock-nueva-1024x1024.png" group-title="Hard Rock" radio="true",Colombia Pop Rock
 https://play10.tikast.com/proxy/colpoprock?mp=/stream
+# 72FM: https://72fm.com/station/716d0d91-4c12-4bd6-bf7e-e5173ef40d39
+#EXTINF:-1 group-title="Hard Rock" radio="true",0nlineradio METAL
+https://stream.0nlineradio.com/metal?ref=radiobrowser
 # 72FM: https://72fm.com/station/17116268-baaa-4a2e-88ee-dc83f5b71a33
 #EXTINF:-1 group-title="Hard Rock" radio="true",ARfm
 http://108.163.245.230:9016/stream
@@ -202,9 +202,6 @@ https://0n-heavymetal.radionetz.de/0n-heavymetal.aac
 # 72FM: https://72fm.com/station/45cdd461-3aaf-11e8-b74d-52543be04c81
 #EXTINF:-1 group-title="Hard Rock" radio="true",Bates FM Hard Rock
 http://bigrradio.cdnstream1.com/5135_128
-# 72FM: https://72fm.com/station/aec438e2-74b3-11ea-b1cf-52543be04c81
-#EXTINF:-1 group-title="Hard Rock" radio="true",Radyo ODTU - Rock
-http://stream.radyoodtu.com.tr/rock
 # 72FM: https://72fm.com/station/dec031e0-4419-45d2-9f3e-76e91d876c40
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2377/images/logod.png" group-title="Hard Rock" radio="true",PLANET ROCK: Where Rock Lives
 https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
@@ -264,16 +261,16 @@ https://0n-rock.radionetz.de/0n-rock.aac
 http://streams.fluxfm.de/hardrock/mp3-128/streams.fluxfm.de/
 # 72FM: https://72fm.com/station/961a7322-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Hard Rock" radio="true",R.SA Rockzirkus
-http://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-192-3220659?sABC=6no7pq90%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790430608
-# 72FM: https://72fm.com/station/2b480134-b9a9-11e9-acb2-52543be04c81
-#EXTINF:-1 group-title="Hard Rock" radio="true",RadioBOB AC/DC Collection (64 kbps AAC)
-http://streams.radiobob.de/bob-acdc/aac-64/mediaplayer
-# 72FM: https://72fm.com/station/548d3232-fd53-4942-933b-38e9ddb4bcb3
-#EXTINF:-1 group-title="Hard Rock" radio="true",EldoPop FM
-http://stm10.srvstm.com:34794/stream
+http://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-192-3220659?sABC=6nor7569%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790866793
 # 72FM: https://72fm.com/station/ab55d4aa-01db-46c6-9934-288828374ea1
 #EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" group-title="Hard Rock" radio="true",Rock Antenne - Hard Rock
 https://stream.rockantenne.de/rock-antenne-hard-rock/stream/mp3
+# 72FM: https://72fm.com/station/548d3232-fd53-4942-933b-38e9ddb4bcb3
+#EXTINF:-1 group-title="Hard Rock" radio="true",EldoPop FM
+http://stm10.srvstm.com:34794/stream
+# 72FM: https://72fm.com/station/2b480134-b9a9-11e9-acb2-52543be04c81
+#EXTINF:-1 group-title="Hard Rock" radio="true",RadioBOB AC/DC Collection (64 kbps AAC)
+http://streams.radiobob.de/bob-acdc/aac-64/mediaplayer
 # 72FM: https://72fm.com/station/92843212-0221-45fc-85a9-47d7b13f9e94
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/a2/92/186945/1/c300.png" group-title="Hard Rock" radio="true",RADIO BOB - Roadtrip
 https://streams.radiobob.de/roadtrip/mp3-192/streams.radiobob.de/
@@ -294,7 +291,7 @@ https://uptheirons.stream.laut.fm/up_the_irons
 https://streams.radiobob.de/70errock/aac-64/streams.radiobob.de/
 # 72FM: https://72fm.com/station/c5bc9dde-3059-11e9-8f31-52543be04c81
 #EXTINF:-1 group-title="Hard Rock" radio="true",100Rock
-http://100rock.stream.laut.fm/100rock?uuid=095d521a-956a-571d-e5b8-88593dc3e50f&t302=2026-09-26_18-36-29
+http://100rock.stream.laut.fm/100rock?t302=2026-10-01_21-27-52&uuid=9449927d-575b-ffba-e1da-0a0eea85ec8b
 # 72FM: https://72fm.com/station/ad37b092-f582-4841-8022-bd70b7592067
 #EXTINF:-1 group-title="Hard Rock" radio="true",The Generator
 https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892
@@ -348,10 +345,10 @@ https://1a-rock.radionetz.de/1a-rock.aac
 http://stream.laut.fm/bang
 # 72FM: https://72fm.com/station/f35a597f-c36f-4545-a8fe-61970fa45504
 #EXTINF:-1 group-title="Hard Rock" radio="true",Éxtasis Digital (Parral) - 94.9 FM - XHSB-FM - Radiorama - Parral, Chihuahua
-https://stream-289.surfernetwork.com/3c5ctyyv538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzYzVjdHl5djUzOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InM0aXBYT2R2U1I2cHQyZlVweW5MTkEiLCJpYXQiOjE3OTAzNzc0MjUsImV4cCI6MTc5MDM3NzQ4NX0.J7np-FuF_a_eRLSPxVDPFYS8_5oa3t4CSE7jxMs6eVk
+https://stream-289.surfernetwork.com/3c5ctyyv538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzYzVjdHl5djUzOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IktlOEdBMFpWU0UtS3hyY2pxMm9qTlEiLCJpYXQiOjE3OTA4MTA3MjYsImV4cCI6MTc5MDgxMDc4Nn0.QvGkz1NHhGP4v8Df2u-O7VOrSHltOVIcOHB5znnjJEc
 # 72FM: https://72fm.com/station/2a445907-c15c-4dee-a7c5-4ebd3707d7ba
 #EXTINF:-1 group-title="Hard Rock" radio="true",Éxtasis Digital (León) - 95.9 FM / 590 AM - XHGTO-FM / XEGTO-AM - Radiorama Bajío - León, Guanajuato
-https://stream-283.surfernetwork.com/gcdxabxx5rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY2R4YWJ4eDVyaHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlZRG5sTmczU3NxSWhCU2QySkJmY3ciLCJpYXQiOjE3OTA0MzcwOTIsImV4cCI6MTc5MDQzNzE1Mn0.TFJRq0BUcIW2BSySEnW3AaZttA6Mbn7bp_p3oJjJJ7Q
+https://stream-283.surfernetwork.com/gcdxabxx5rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY2R4YWJ4eDVyaHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkxKeXp1UGpnVG9paEZzcXk3bElPN3ciLCJpYXQiOjE3OTA4NzU1NTUsImV4cCI6MTc5MDg3NTYxNX0.13ZqT_vQxqA7xrflLgQR6BJZ6xUNVXVX0rmo_pbfnd8
 # 72FM: https://72fm.com/station/5643cfdf-047a-4408-9f7b-f9ba49e38283
 #EXTINF:-1 group-title="Hard Rock" radio="true",Exclusively Billy Idol
 http://2.mystreaming.net/er/billyidol/icecast.audio
@@ -387,25 +384,25 @@ https://hts01.brascast.com:9194/live
 https://stream.laut.fm/southern-rock_radio
 # 72FM: https://72fm.com/station/17a37e51-76d5-41f2-9053-a0ee09911987
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NG9cNmDK/EXTASIS-DIGITAL-CHIHUAHUA.jpg" group-title="Hard Rock" radio="true",ÉXTASIS DIGITAL 580 (Chihuahua) - 580 AM - XEFI-AM - Radiorama Chihuahua - Chihuahua, Chihuahua
-https://stream-204.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkM0TU5VMUxYU0h5NWR6RGFSbW5JNVEiLCJpYXQiOjE3OTA0MTQzMDgsImV4cCI6MTc5MDQxNDM2OH0.3gYUSwu9rRiRef2O_JNCybBEPaPBe1ZZQ5eI8WUkvxQ
-# 72FM: https://72fm.com/station/c0a80b16-14db-4fa8-84c4-94e9162a3502
-#EXTINF:-1 group-title="Hard Rock" radio="true",Radio Furgoncino
-https://stream.radiojar.com/sf65dpxy9vzuv
+https://stream-284.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjFySHB3bzEtVDdLN1ZXQjZiT1h5U0EiLCJpYXQiOjE3OTA4NDk5MzYsImV4cCI6MTc5MDg0OTk5Nn0.CEkE9B_H5jLAFGNyLQkaTOD5u_dKd21fYQtUs7jZQ5E
 # 72FM: https://72fm.com/station/5e63c494-2c63-401b-8e4e-ceef8b3bca47
 #EXTINF:-1 tvg-logo="https://femmetal.net/favicon.ico" group-title="Hard Rock" radio="true",Femmetal Classics Radio
 https://cast2.my-control-panel.com/proxy/femmetal/stream
+# 72FM: https://72fm.com/station/c0a80b16-14db-4fa8-84c4-94e9162a3502
+#EXTINF:-1 group-title="Hard Rock" radio="true",Radio Furgoncino
+https://stream.radiojar.com/sf65dpxy9vzuv
 # 72FM: https://72fm.com/station/6010ee2f-c88e-4ee6-a2a1-1c1526cc48ca
 #EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg" group-title="Hard Rock" radio="true",Studio Brussel Zware Gitaren
 http://icecast.vrtcdn.be/stubru_bruut-high.mp3
 # 72FM: https://72fm.com/station/19052118-563f-4793-8a4c-9f009de0b00f
 #EXTINF:-1 group-title="Hard Rock" radio="true",Radio Bizzz
 http://cast1.my-control-panel.com:7551/stream?type=http&nocache=8
-# 72FM: https://72fm.com/station/b4652e7b-2ea7-46cc-855d-81d6aedd65ba
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NG9cNmDK/EXTASIS-DIGITAL-CHIHUAHUA.jpg" group-title="Hard Rock" radio="true",EXTASIS DIGITAL 96.5 (Chihuahua) - 96.5 FM - XHFI-FM - Radiorama Chihuahua - Chihuahua, Chihuahua
-https://stream-204.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im9NS0ZZaGtIUTMtZTRIaC1wMnVEbVEiLCJpYXQiOjE3OTA0MjI4NjYsImV4cCI6MTc5MDQyMjkyNn0.aJ4ieGKSFVh8gLbHCOckZ9y5GT8fhQxjBRhq5qYmbMA
 # 72FM: https://72fm.com/station/08429f60-383a-46ee-9bdf-03b442aab240
 #EXTINF:-1 tvg-logo="https://radioplayerfm.com/doblenuevelive/classic/img/classic.jpg" group-title="Hard Rock" radio="true",Doble Nueve - Classic
 https://conectperu.com:7003/stream?icy=http
+# 72FM: https://72fm.com/station/b4652e7b-2ea7-46cc-855d-81d6aedd65ba
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NG9cNmDK/EXTASIS-DIGITAL-CHIHUAHUA.jpg" group-title="Hard Rock" radio="true",EXTASIS DIGITAL 96.5 (Chihuahua) - 96.5 FM - XHFI-FM - Radiorama Chihuahua - Chihuahua, Chihuahua
+https://stream-284.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlZacXBtWkZ2UTNlVUVfU2g0N0dNSHciLCJpYXQiOjE3OTA4NTk4NjcsImV4cCI6MTc5MDg1OTkyN30.m6FJg16lkO_RJPqZIIYJMXa6HJ1mQu3IThgXRUfZZvM
 # 72FM: https://72fm.com/station/63dc20d1-47f3-43c4-bac6-25fb474ca71d
 #EXTINF:-1 tvg-logo="https://nige.au/e42d030b5a4d24bab6ebde3377a2b23e.png" group-title="Hard Rock" radio="true",NIGE!
 https://ais-arn.streamguys1.com/au_030/playlist.m3u8
@@ -421,21 +418,21 @@ https://2.mystreaming.net/er/joanjett/icecast.audio
 # 72FM: https://72fm.com/station/d754a202-8815-4e25-9d27-b296837021f1
 #EXTINF:-1 tvg-logo="https://i0.wp.com/iskcrocks.com/wp-content/uploads/2014/10/cropped-Baloon720.jpg?fit=192%2C192&ssl=1" group-title="Hard Rock" radio="true",ISKC Only Live
 https://mediaserv68.live-streams.nl:18012/OnlyLive
+# 72FM: https://72fm.com/station/81f64f21-cf21-4d4f-83cc-0374a9f6f98e
+#EXTINF:-1 tvg-logo="https://darksymphonyradio.co.uk/assets/logo-dsr.png" group-title="Hard Rock" radio="true",Dark Symphony Radio
+https://streaming.live365.com/a02267
 # 72FM: https://72fm.com/station/39a48c87-7226-4438-927b-80b1aa1be819
 #EXTINF:-1 tvg-logo="https://www.rockland.de/typo3conf/ext/ch_radio21/Resources/Public/Favicons/RocklandRadio/apple-touch-icon.png" group-title="Hard Rock" radio="true",Rockland Radio - Trier
 https://streams.rockland.de/trier/aac-64/streams.rockland.de/
 # 72FM: https://72fm.com/station/234e9835-641e-46d0-99b4-5d5282d27a14
 #EXTINF:-1 tvg-logo="https://maximum.ru/b/d/XS_d975tB1YUbdZMJDm-Eo5uJ-xCQw4Ib4niY8fCC5yiPwesYzA2jBpIGTUa-QsLzDVV9OvuSKfcCpztsyGAW15bDCkc=R9sMMhtj79SRcdBBUeF5qg.jpg" group-title="Hard Rock" radio="true",MAXIMUM Ozzy Osbourne
 https://maximum-ozzy.hostingradio.ru/ozzy96.aacp
-# 72FM: https://72fm.com/station/81f64f21-cf21-4d4f-83cc-0374a9f6f98e
-#EXTINF:-1 tvg-logo="https://darksymphonyradio.co.uk/assets/logo-dsr.png" group-title="Hard Rock" radio="true",Dark Symphony Radio
-https://streaming.live365.com/a02267
 # 72FM: https://72fm.com/station/09ca95f0-641c-44fd-bd0a-327859ac15f7
 #EXTINF:-1 group-title="Hard Rock" radio="true",Rock Radioo
 https://a10.asurahosting.com:7570/radio.mp3
 # 72FM: https://72fm.com/station/8a337c75-fc94-4d58-9e01-4dde877ff0a5
 #EXTINF:-1 tvg-logo="https://thumbnail.anii.io/mx/radio-extasis-digital-95-9-fm-guanajuato-mexico.webp" group-title="Hard Rock" radio="true",EXTASIS DIGITAL 95.9 (León) - 95.9 FM - XHGTO-FM - Radiorama Bajío - León, Guanajuato
-https://stream-204.surfernetwork.com/gcdxabxx5rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY2R4YWJ4eDVyaHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlIySkQtODVlUk51M2EteEhrV01Rc1EiLCJpYXQiOjE3OTAzNzA5MzEsImV4cCI6MTc5MDM3MDk5MX0.ukr7Kj9QGAjgYR18COX-INdxtWA7RrtyAQTF2dWGDpk
+https://stream-283.surfernetwork.com/gcdxabxx5rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY2R4YWJ4eDVyaHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InExcXFVNVJDU1g2ODFySmhBcGVyRVEiLCJpYXQiOjE3OTA4MDU4MzksImV4cCI6MTc5MDgwNTg5OX0.j-eQjvoQ-xhYZMg0R5mllVFpOQ0jOITuPbmBK91k1iM
 # 72FM: https://72fm.com/station/9608fe3e-8aaa-4efe-89ba-363a56a183e7
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/276318/600/600/lqv11z2p.png" group-title="Hard Rock" radio="true",Rockland Radio - Linz / Remagen
 https://radio21.streamabc.net/radio21-rrneuwied-mp3-192-7339815
@@ -448,12 +445,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR10_s01AAC.
 # 72FM: https://72fm.com/station/b6a89a4f-7624-4497-8d36-76f747dd0fa4
 #EXTINF:-1 group-title="Hard Rock" radio="true",Radio Rock Norway AAC
 https://live-bauerno.sharp-stream.com/radiorock_no_aac
-# 72FM: https://72fm.com/station/ca39d796-807b-4641-92a0-3684769f145a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHvtSRJb/Li-STNR-Square-Tile-3000x3000-HARD-N-HEAVY.jpg" group-title="Hard Rock" radio="true",LiSTNR - Hard N Heavy (HLS)
-http://sa46.scastream.com.au/live/2hardnheavy_128.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/202d6d31-699e-476d-b392-99e238704df8
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Hard Rock" radio="true",Rock
+https://mml1.prostream.se/listen/rock/radio.mp3
 # 72FM: https://72fm.com/station/0275f1fc-e179-4c0e-a0ed-be03b1f22f4c
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/43314.v4.png" group-title="Hard Rock" radio="true",Club 74 Discothek Esch
 https://stream.laut.fm/club_74
+# 72FM: https://72fm.com/station/ca39d796-807b-4641-92a0-3684769f145a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHvtSRJb/Li-STNR-Square-Tile-3000x3000-HARD-N-HEAVY.jpg" group-title="Hard Rock" radio="true",LiSTNR - Hard N Heavy (HLS)
+http://sa46.scastream.com.au/live/2hardnheavy_128.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/76200b90-939a-46ad-9b37-069f32ba4366
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVkhWpyL/radioactivo.jpg" group-title="Hard Rock" radio="true",RADIOACTIVO 98 1/2: Fuck Everyone Else!
 http://stream.zeno.fm/0dede0adz4zuv
@@ -475,54 +475,60 @@ https://n3fb-e2.revma.ihrhls.com/zc9380/63_zun0p3v3w43c02/playlist.m3u8?streamid
 # 72FM: https://72fm.com/station/7ffae44d-4d6c-49f3-a448-d2342b084841
 #EXTINF:-1 tvg-logo="https://nu.net.hr/wp-content/uploads/2023/03/Logo-radio-nu.png" group-title="Hard Rock" radio="true",Thompson 24/7 - Radio NU
 https://slusaj.hr:10446/stream?type=http&nocache=9
-# 72FM: https://72fm.com/station/82370617-9a11-4489-bd8e-c02813b50eff
-#EXTINF:-1 group-title="Hard Rock" radio="true",Rock 94 & 1/2 - KHTQ - Spokane
-https://18433.live.streamtheworld.com/KHTQFMAAC.aac
 # 72FM: https://72fm.com/station/89fab36f-403c-4616-92c5-ce2fc35736d6
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/1478/688ca83fcb9b7.png" group-title="Hard Rock" radio="true",CKOT-FM 101.3 Giant FM classic rock
 https://mybroadcasting.streamb.live/SB00444
+# 72FM: https://72fm.com/station/82370617-9a11-4489-bd8e-c02813b50eff
+#EXTINF:-1 group-title="Hard Rock" radio="true",Rock 94 & 1/2 - KHTQ - Spokane
+https://18433.live.streamtheworld.com/KHTQFMAAC.aac
 # 72FM: https://72fm.com/station/11a88d11-8a29-4976-b455-1d9bf709e599
 #EXTINF:-1 tvg-logo="https://89goiania.com.br/wp-content/uploads/2024/07/icone_89.png" group-title="Hard Rock" radio="true",89 FM A Rádio Rock Goiânia
 https://ice.fabricahost.com.br/89aradiorockgo
 # 72FM: https://72fm.com/station/51412285-a3fc-48b2-9cf4-6d339efe3ad3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxBhbXCm/lokurarock.png" group-title="Hard Rock" radio="true",LOKURA: Te Reto A Que Me Escuches
 https://mdstrm.com/audio/69373baa6d5fd824ec8440c5/live.m3u8
+# 72FM: https://72fm.com/station/143ff518-5d57-4bf0-9859-e82af365a771
+#EXTINF:-1 group-title="Hard Rock" radio="true",Q103.3 KTMQ
+http://stream.revma.ihrhls.com/zc5130
+# 72FM: https://72fm.com/station/53dac0bd-de56-447a-a42c-9f841af15e2e
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Hard Rock" radio="true",Metal Mayhem
+https://mml2.prostream.se/listen/metal_mayhem/radio.mp3
 # 72FM: https://72fm.com/station/679e5c4f-740d-4c92-9d22-0d7948c5910d
 #EXTINF:-1 tvg-logo="https://stream.deecibel.com/rock_logo.png" group-title="Hard Rock" radio="true",Deecibel Rock Radio
 https://stream.deecibel.com/rock
 # 72FM: https://72fm.com/station/5892d8a4-fbf4-497c-9e64-6f468fa0465c
 #EXTINF:-1 tvg-logo="https://www.odsradio.com/media/radio/thumb/360x360_691f2bd2af31f-plan-de-travail-1.webp" group-title="Hard Rock" radio="true",ODS Radio Légende du Rock
 http://egwr-ods-ldr.ice.infomaniak.ch/ods-legend-du-rock.mp3
-# 72FM: https://72fm.com/station/143ff518-5d57-4bf0-9859-e82af365a771
-#EXTINF:-1 group-title="Hard Rock" radio="true",Q103.3 KTMQ
-http://stream.revma.ihrhls.com/zc5130
-# 72FM: https://72fm.com/station/5676ffa5-d687-4df9-823b-ecd591caa4ee
-#EXTINF:-1 group-title="Hard Rock" radio="true",Exclusive - Scorpions
-https://streaming.exclusive.radio/er/scorpions/icecast.audio
-# 72FM: https://72fm.com/station/277acce7-f1bb-47e8-a342-7b1d560b65d2
-#EXTINF:-1 group-title="Hard Rock" radio="true",Radio Caprice - HeavyPsych (heavy psychedelic rock)
-http://79.120.39.202:8000/heavypsych
-# 72FM: https://72fm.com/station/f2f3ff2a-a4d0-4e2c-b4e5-aeb0b0f07db5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cdcZybt/xhsb.jpg" group-title="Hard Rock" radio="true",EXTASIS DIGITAL 94.9 (Parral) - 94.9 FM - XHSB-FM - Radiorama Parral - Parral, ChihuahuaRadiorama
-https://stream-289.surfernetwork.com/3c5ctyyv538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzYzVjdHl5djUzOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InJON2RVZ3lJUVc2UUIxY3VGTGFOVWciLCJpYXQiOjE3OTAzNzkxMDIsImV4cCI6MTc5MDM3OTE2Mn0.3czaBrpSEpM1EPSRaxH-KNdVFhaO-1wcAr2nAULfzMI
 # 72FM: https://72fm.com/station/548724bd-78e1-41a9-8b5c-09ecb8a7d79a
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-hard_rock-en-mp3.jpg" group-title="Hard Rock" radio="true",Hotmix Hard Rock
 https://streaming.hotmixradio.com/hotmix-hard-rock-en-mp3?provider=radiobrowser
+# 72FM: https://72fm.com/station/c16ffe2f-a305-4f11-9d85-0aa615b9ed04
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63f9116c52398de39f539db6" group-title="Hard Rock" radio="true",Q 103.3 - Rockin' the Temecula Valley!
+https://stream.revma.ihrhls.com/zc5130/hls.m3u8
+# 72FM: https://72fm.com/station/5676ffa5-d687-4df9-823b-ecd591caa4ee
+#EXTINF:-1 group-title="Hard Rock" radio="true",Exclusive - Scorpions
+https://streaming.exclusive.radio/er/scorpions/icecast.audio
+# 72FM: https://72fm.com/station/f2f3ff2a-a4d0-4e2c-b4e5-aeb0b0f07db5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cdcZybt/xhsb.jpg" group-title="Hard Rock" radio="true",EXTASIS DIGITAL 94.9 (Parral) - 94.9 FM - XHSB-FM - Radiorama Parral - Parral, ChihuahuaRadiorama
+https://stream-289.surfernetwork.com/3c5ctyyv538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzYzVjdHl5djUzOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkhYeEc3U0RmUkMyZURJdWpmQnRSdHciLCJpYXQiOjE3OTA4MTYwNjksImV4cCI6MTc5MDgxNjEyOX0.R5WBze5P71Has6JJBeLMEskHv4UIhBK4Mxsg3VkyONs
+# 72FM: https://72fm.com/station/277acce7-f1bb-47e8-a342-7b1d560b65d2
+#EXTINF:-1 group-title="Hard Rock" radio="true",Radio Caprice - HeavyPsych (heavy psychedelic rock)
+http://79.120.39.202:8000/heavypsych
 # 72FM: https://72fm.com/station/ae8a8b9d-2e79-4ac1-b7d0-9118901fa063
 #EXTINF:-1 tvg-logo="https://knac.com/" group-title="Hard Rock" radio="true",Pure Rock KNAC.COM
 https://stream.rcast.net/71987
 # 72FM: https://72fm.com/station/76d2c0ab-8341-4fcd-9e9c-42f5259ea7f8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVkhWpyL/radioactivo.jpg" group-title="Hard Rock" radio="true",RADIOACTIVO 98 1/2 FM (CDMX) - Online - zeno.fm/radio/radioactivo-98-5/ - Ciudad de México
 http://stream-56.zeno.fm/0dede0adz4zuv
-# 72FM: https://72fm.com/station/31a41c92-c94c-417b-9178-23641b8b8d5c
-#EXTINF:-1 tvg-logo="https://tanase.tapinarii.ro/wp-content/cropped-SIgla-Rockstar-Radio212-1.png" group-title="Hard Rock" radio="true",Rockstar Radio
-https://a5.asurahosting.com:7120/radio.mp3
 # 72FM: https://72fm.com/station/c11e4caf-0344-4ab5-8567-95cfac2f570f
 #EXTINF:-1 group-title="Hard Rock" radio="true",Metalwar
 https://c2.radioboss.fm:8674//stream?type=.mp3
-# 72FM: https://72fm.com/station/c16ffe2f-a305-4f11-9d85-0aa615b9ed04
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63f9116c52398de39f539db6" group-title="Hard Rock" radio="true",Q 103.3 - Rockin' the Temecula Valley!
-https://stream.revma.ihrhls.com/zc5130/hls.m3u8
+# 72FM: https://72fm.com/station/31a41c92-c94c-417b-9178-23641b8b8d5c
+#EXTINF:-1 tvg-logo="https://tanase.tapinarii.ro/wp-content/cropped-SIgla-Rockstar-Radio212-1.png" group-title="Hard Rock" radio="true",Rockstar Radio
+https://a5.asurahosting.com:7120/radio.mp3
+# 72FM: https://72fm.com/station/8d86b9d5-0afc-4063-8b90-e0351d5aa464
+#EXTINF:-1 group-title="Hard Rock" radio="true",Space Coast Metal
+http://radio.pcmodsquad.com/
 # 72FM: https://72fm.com/station/180e9acf-af32-4a21-9c77-1d66d2af0303
 #EXTINF:-1 group-title="Hard Rock" radio="true",Nuclear Fallout Radio
 https://s4.radioforge.com:5170/stream
@@ -535,12 +541,6 @@ https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac
 # 72FM: https://72fm.com/station/e98a9578-6006-4611-af89-f80d1bf13817
 #EXTINF:-1 group-title="Hard Rock" radio="true",Rock Connection 77
 https://s43.myradiostream.com:22226/listen.mp3
-# 72FM: https://72fm.com/station/aeb82637-ba20-4cee-9072-50cab4f9e723
-#EXTINF:-1 tvg-logo="https://www.hrhradio.com/wp-content/uploads/2023/08/HRH-BLANCO.png" group-title="Hard Rock" radio="true",Hard Rock Heaven
-https://ais-sa2.cdnstream1.com/1521_128
-# 72FM: https://72fm.com/station/8e176e3e-dc3e-45c6-97bf-82e422af99fe
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcjGU01LJJfXPmEgfX7NcZrhY5AtjCa4xkA&s" group-title="Hard Rock" radio="true",Hotmix Hard Rock
-https://streaming.hotmixradio.fr/hotmix-hard_rock-en-mp3
 # 72FM: https://72fm.com/station/74b63d30-f3f1-4040-a09d-82a51196bc6c
 #EXTINF:-1 tvg-logo="https://www.hardrockpalace.de/HRP/HARDROCKPALACE-Logo.jpg" group-title="Hard Rock" radio="true",HARD ROCK PALACE
 https://stream.laut.fm/hrp
@@ -550,15 +550,21 @@ https://stream.revma.ihrhls.com/zc333/hls.m3u8
 # 72FM: https://72fm.com/station/e616e031-2b23-414a-b441-1eed887bd284
 #EXTINF:-1 group-title="Hard Rock" radio="true",Rock 94 And A Half (KHTQ-FM)
 https://playerservices.streamtheworld.com/api/livestream-redirect/KHTQFMAAC.aac
-# 72FM: https://72fm.com/station/8d86b9d5-0afc-4063-8b90-e0351d5aa464
-#EXTINF:-1 group-title="Hard Rock" radio="true",Space Coast Metal
-http://radio.pcmodsquad.com/
-# 72FM: https://72fm.com/station/4dc166c7-acde-405e-b134-eba17c514215
-#EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2025-05/classic_rock_stream_schrift.jpg" group-title="Hard Rock" radio="true",RADIO BOB Classic Rock
-https://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer/
+# 72FM: https://72fm.com/station/aeb82637-ba20-4cee-9072-50cab4f9e723
+#EXTINF:-1 tvg-logo="https://www.hrhradio.com/wp-content/uploads/2023/08/HRH-BLANCO.png" group-title="Hard Rock" radio="true",Hard Rock Heaven
+https://ais-sa2.cdnstream1.com/1521_128
+# 72FM: https://72fm.com/station/8e176e3e-dc3e-45c6-97bf-82e422af99fe
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcjGU01LJJfXPmEgfX7NcZrhY5AtjCa4xkA&s" group-title="Hard Rock" radio="true",Hotmix Hard Rock
+https://streaming.hotmixradio.fr/hotmix-hard_rock-en-mp3
 # 72FM: https://72fm.com/station/f2d38d55-01ef-4d78-9686-61f54d48ee03
 #EXTINF:-1 group-title="Hard Rock" radio="true",Heavy Metal Radio
 http://107.161.126.115:8000/
+# 72FM: https://72fm.com/station/4dc166c7-acde-405e-b134-eba17c514215
+#EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2025-05/classic_rock_stream_schrift.jpg" group-title="Hard Rock" radio="true",RADIO BOB Classic Rock
+https://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer/
+# 72FM: https://72fm.com/station/8b2a827f-963b-4b07-80d6-5051e9e09411
+#EXTINF:-1 tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3797/files/2026/01/cfwf-30-year-socast-200x200-1.png" group-title="Hard Rock" radio="true",The Wolf 104.9 (CFWF)
+http://cfwf.streamon.fm/radioplayer-3/CFWF-64k.aac
 # 72FM: https://72fm.com/station/0cd363a2-d26f-4957-bc69-9b1f85b5f173
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiaRXhd4mh2OYTmv6C3LtByAejEL3CpjYbvi_9fFSF4A&s=10" group-title="Hard Rock" radio="true",Q104.3
 https://ample.revma.ihrhls.com/zc1465/12_1uoo2d7lcwrcy02/playlist.m3u8
@@ -568,15 +574,15 @@ http://79.120.39.202:8004/heavypsych
 # 72FM: https://72fm.com/station/b60c41f0-f041-4146-bcca-88d03775e0a2
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/4f002ea7d902e5e084e798c2901fbb9f?t=_120x120" group-title="Hard Rock" radio="true",Waste Water Music
 https://wastewatermusic.stream.laut.fm/wastewatermusic
-# 72FM: https://72fm.com/station/913fc253-fd99-4f0e-a215-f7751bbed27a
-#EXTINF:-1 tvg-logo="https://www.radiorockcorner.de/index-Dateien/image707.png" group-title="Hard Rock" radio="true",Rockcorner
-https://stream.laut.fm/rockcorner
-# 72FM: https://72fm.com/station/8b2a827f-963b-4b07-80d6-5051e9e09411
-#EXTINF:-1 tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3797/files/2026/01/cfwf-30-year-socast-200x200-1.png" group-title="Hard Rock" radio="true",The Wolf 104.9 (CFWF)
-http://cfwf.streamon.fm/radioplayer-3/CFWF-64k.aac
 # 72FM: https://72fm.com/station/25d7b677-a866-4b32-aabc-20fa43e2d479
 #EXTINF:-1 tvg-logo="https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtSGFyZFJvY2stMTU4ODA2MzA2NzExMXBuZy12aXJnaW5fcmFkaW9faGFyZF9yb2NrLnBuZw/-/0/0?r=219f4eb58f50ac8f9908b1be8fc5cdcb" group-title="Hard Rock" radio="true",Virgin Radio Hard Rock
 https://icy.unitedradio.it/VirginHardRock.mp3
+# 72FM: https://72fm.com/station/913fc253-fd99-4f0e-a215-f7751bbed27a
+#EXTINF:-1 tvg-logo="https://www.radiorockcorner.de/index-Dateien/image707.png" group-title="Hard Rock" radio="true",Rockcorner
+https://stream.laut.fm/rockcorner
+# 72FM: https://72fm.com/station/f95f4310-ff8c-4106-9b8e-18f05e594f1f
+#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/265822/logo/f46222eb-a1b8-4192-8a00-c6755d10080a.jpeg" group-title="Hard Rock" radio="true",Vinyl-Valley Rock Radio
+https://listen.radioking.com/radio/265822/stream/311047
 # 72FM: https://72fm.com/station/59a3411a-e5bc-4ff9-9341-bb949f09a230
 #EXTINF:-1 tvg-logo="https://radio.dogmazic.net/favicon.ico" group-title="Hard Rock" radio="true",Dogmazic Radio
 http://radio.dogmazic.net:8000/stream.mp3
@@ -586,6 +592,3 @@ https://stream.zeno.fm/0br8wwsuwchvv
 # 72FM: https://72fm.com/station/c9e17187-7b9f-48af-8454-0cf8462302c7
 #EXTINF:-1 tvg-logo="https://realrockrevival.com/wp-content/uploads/2026/08/cropped-c8eb6030-cd3f-4b78-ac61-8a1c9b2f6da7.png" group-title="Hard Rock" radio="true",Real Rock Revival
 https://puma.streemlion.com:2085/stream
-# 72FM: https://72fm.com/station/f95f4310-ff8c-4106-9b8e-18f05e594f1f
-#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/265822/logo/f46222eb-a1b8-4192-8a00-c6755d10080a.jpeg" group-title="Hard Rock" radio="true",Vinyl-Valley Rock Radio
-https://listen.radioking.com/radio/265822/stream/311047

@@ -488,7 +488,9 @@ td.num,th.num{text-align:right}
 td.name{min-width:11em}
 footer{color:var(--muted);font-size:.875rem;border-top:1px solid var(--line);margin-top:2.5em;padding-top:1em}`;
 
-function htmlPage({ title, description, canonical, body }) {
+function htmlPage({ title, description, canonical, body, jsonLd }) {
+  // Only the index page passes jsonLd (schema.org Dataset, for Google Dataset Search).
+  const ld = jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replace(/</g, '\\u003c')}</script>\n` : '';
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -497,7 +499,7 @@ function htmlPage({ title, description, canonical, body }) {
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
 <link rel="canonical" href="${esc(canonical)}">
-<style>
+${ld}<style>
 ${CSS}
 </style>
 </head>
@@ -643,7 +645,26 @@ ${countryRows}
 </tbody>
 </table></div>
 ${footerHtml(generated)}`;
-  return htmlPage({ title, description, canonical: PAGES_BASE, body });
+  const jsonLd = {
+    '@context': 'https://schema.org/',
+    '@type': 'Dataset',
+    name: 'Internet Radio M3U Playlists by Country and Genre',
+    description: `Weekly-rebuilt M3U playlists of internet radio stream URLs from the public-domain Radio Browser directory: ${totals.countries} country playlists, ${totals.genres} genre playlists and a top-${TOP_N} list, plus a JSON index of every file. Only stations that passed Radio Browser's latest stream check are included, de-duplicated by stream URL, at most ${PER_FILE_CAP} most-voted stations per file. Stream URLs point to third-party stations.`,
+    url: PAGES_BASE,
+    sameAs: REPO_URL,
+    keywords: ['internet radio', 'radio stations', 'M3U', 'playlist', 'streaming audio', 'Radio Browser', 'open data'],
+    license: 'https://creativecommons.org/publicdomain/zero/1.0/',
+    isAccessibleForFree: true,
+    isBasedOn: 'https://www.radio-browser.info/',
+    creator: { '@type': 'Organization', name: '72FM', url: SITE },
+    spatialCoverage: 'Worldwide',
+    dateModified: generated,
+    distribution: [
+      { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: `${RAW_BASE}/index.json` },
+      { '@type': 'DataDownload', encodingFormat: 'audio/x-mpegurl', contentUrl: top.url },
+    ],
+  };
+  return htmlPage({ title, description, canonical: PAGES_BASE, body, jsonLd });
 }
 
 async function writeSite(index, entriesOf) {

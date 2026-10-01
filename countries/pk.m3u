@@ -4,9 +4,6 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/4413f4de-4a87-4835-8525-a80a23b3d39f
-#EXTINF:-1 group-title="Pakistan" radio="true",FM 100 Pakistan
-http://162.244.80.118:4900/;stream.mp3
 # 72FM: https://72fm.com/station/82785967-c645-4bc2-a02a-e5e00e03ce4a
 #EXTINF:-1 group-title="Pakistan" radio="true",Hot FM 105
 http://172.93.237.106:8000/listen.mp3
@@ -16,15 +13,12 @@ https://whmsonic.radio.gov.pk:8034/stream
 # 72FM: https://72fm.com/station/755d2c71-1bdd-45b0-a526-02f0e4754af5
 #EXTINF:-1 group-title="Pakistan" radio="true",Radio Pakistan Islamabad
 https://whmsonic.radio.gov.pk:7003/stream
-# 72FM: https://72fm.com/station/7c4a79da-e5ad-44ea-a56a-e51634bfbef7
-#EXTINF:-1 group-title="Pakistan" radio="true",FM 100 Pakistan Islamabad
-http://162.244.80.118:4900/stream.mp3?ver=604498
-# 72FM: https://72fm.com/station/6f46ab47-2919-4ed5-a70a-9ea0cd739cc2
-#EXTINF:-1 group-title="Pakistan" radio="true",FM 100 Pakistan Karachi
-http://162.244.80.118:3024/stream.mp3?ver=349829
 # 72FM: https://72fm.com/station/34cdd9d2-fba9-4a1e-a0d0-35d70252d349
 #EXTINF:-1 group-title="Pakistan" radio="true",Radio Pakistan Lahore News and Current Affair AM 1332 KHZ
 https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12
+# 72FM: https://72fm.com/station/6f46ab47-2919-4ed5-a70a-9ea0cd739cc2
+#EXTINF:-1 group-title="Pakistan" radio="true",FM 100 Pakistan Karachi
+http://162.244.80.118:3024/stream.mp3?ver=349829
 # 72FM: https://72fm.com/station/e366ead6-6019-4a01-824d-6f4bea17f9a0
 #EXTINF:-1 group-title="Pakistan" radio="true",FM 101 Islamabad
 https://whmsonic.radio.gov.pk:7008/stream
@@ -34,9 +28,6 @@ https://whmsonic.radio.gov.pk:8036/relay
 # 72FM: https://72fm.com/station/7423d8e7-7da9-4e0c-bc66-32e2f22830ef
 #EXTINF:-1 group-title="Pakistan" radio="true",Radio Pakistan World Service
 https://whmsonic.radio.gov.pk:7005/stream
-# 72FM: https://72fm.com/station/9312c071-8882-4f85-8539-0dcb1b59f1a8
-#EXTINF:-1 group-title="Pakistan" radio="true",FM 100 Pakistan Abbottabad
-http://162.244.80.118:4900/stream.mp3
 # 72FM: https://72fm.com/station/a754b1cb-4a13-47ab-9215-10473d5a13c8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfsXeLHe8pcIRbGUSr7KczIjjpiMiGNh101nywFkEQkHmz1yKAftWRL06&s=10" group-title="Pakistan" radio="true",Hum FM 106.2
 https://server.mediacast4u.stream/8002/stream
@@ -52,9 +43,6 @@ http://162.244.80.118:3024/stream.mp3?ver=517748
 # 72FM: https://72fm.com/station/a9592d38-17fc-4fd7-9d8a-f0526906c5ed
 #EXTINF:-1 group-title="Pakistan" radio="true",FM 93 Lahore
 https://whmsonic.radio.gov.pk:8088/stream
-# 72FM: https://72fm.com/station/be82fba4-6953-4f0c-95e7-7aaa7f56b060
-#EXTINF:-1 group-title="Pakistan" radio="true",FM 100 Pakistan Gujrat
-http://162.244.80.118:4900/stream.mp3?ver=682776
 # 72FM: https://72fm.com/station/ffcdc7e1-089e-4dfb-b11f-c2dcb26ef923
 #EXTINF:-1 group-title="Pakistan" radio="true",Love-Islam-Radio
 https://stream-52.zeno.fm/f9h69cgbu68uv
@@ -166,9 +154,9 @@ https://whmsonic.radio.gov.pk:8054/stream
 # 72FM: https://72fm.com/station/839ddcf6-e094-4542-96b6-4d7e6c252220
 #EXTINF:-1 group-title="Pakistan" radio="true",Hot fm Nawabshah
 https://stream.zeno.fm/t961q1d0vp6vv/
-# 72FM: https://72fm.com/station/05a993a1-3718-434a-9f16-39b05810701e
-#EXTINF:-1 tvg-logo="https://universalhealthradio.org/favicon.png" group-title="Pakistan" radio="true",Universal Health Radio (اردو)
-https://radio.universalhealthradio.org/uhr-ur.mp3
 # 72FM: https://72fm.com/station/1434bd71-b352-42a1-924a-6aa005684224
 #EXTINF:-1 group-title="Pakistan" radio="true",Highrise 24/7 Radio - PAKISTAN
 http://78.154.103.2:9326/stream
+# 72FM: https://72fm.com/station/05a993a1-3718-434a-9f16-39b05810701e
+#EXTINF:-1 tvg-logo="https://universalhealthradio.org/favicon.png" group-title="Pakistan" radio="true",Universal Health Radio (اردو)
+https://radio.universalhealthradio.org/uhr-ur.mp3

@@ -52,6 +52,9 @@ http://gemersikfm.iradio.work:8000/;
 # 72FM: https://72fm.com/station/61c62eb4-0fb6-441b-bc1f-c53c03e0d392
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uxM8yNfSSSXXmrI2Jft9Md3V-SrlyBl8XYk1YrnEXykn71l3AK8g8_kjQsFk1lLi-hM=w600-h300-pc0xffffff-pd" group-title="Malaysia" radio="true",WAI FM IBAN
 http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3
+# 72FM: https://72fm.com/station/b6453f76-5883-4283-bcf0-e43333bb554b
+#EXTINF:-1 group-title="Malaysia" radio="true",SkyChatzFM
+http://java.skychatz.org:8080/;stream/1
 # 72FM: https://72fm.com/station/ab64926d-f0ea-473e-9ef5-657823f00e4b
 #EXTINF:-1 group-title="Malaysia" radio="true",Dunia Muzik FM
 http://185.109.169.80:8009/stream
@@ -202,33 +205,33 @@ https://usa3.fastcast4u.com/proxy/gegarmuzikfm?mp=/1
 # 72FM: https://72fm.com/station/311696c4-a5d6-43c1-bed1-127008042cd1
 #EXTINF:-1 group-title="Malaysia" radio="true",era sarawak
 https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8
-# 72FM: https://72fm.com/station/90bf5590-1177-4ca4-a8fe-aec0ad428e02
-#EXTINF:-1 group-title="Malaysia" radio="true",Zayan
-https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8
 # 72FM: https://72fm.com/station/578d9dae-2168-40a1-a9a2-cb18e84700b2
 #EXTINF:-1 tvg-logo="https://radio.rtm.gov.my/storage/stations/1777447046-gemini-generated-image-chd08qchd08qchd0.png" group-title="Malaysia" radio="true",REDfm
 https://22273.live.streamtheworld.com/RED_FMAAC.aac
+# 72FM: https://72fm.com/station/90bf5590-1177-4ca4-a8fe-aec0ad428e02
+#EXTINF:-1 group-title="Malaysia" radio="true",Zayan
+https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8
 # 72FM: https://72fm.com/station/8667464d-16d0-49f3-a802-99444106f5f8
 #EXTINF:-1 tvg-logo="https://zuiai.tv/zb_users/upload/2026/2/2026021770053457_mini.jpg" group-title="Malaysia" radio="true",Red FM
 https://22253.live.streamtheworld.com/RED_FMAAC.aac
 # 72FM: https://72fm.com/station/5e8a0e9f-af91-4e7e-95e9-2bf1baf80764
 #EXTINF:-1 group-title="Malaysia" radio="true",Cats FM
 https://stream.rcs.revma.com/51qe53rv0y3vv.m4a
-# 72FM: https://72fm.com/station/5153ca76-a990-45cf-9bd6-5063b3d4f04f
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib54xrfaC80eyBw6RaeV3k4RJeZWMuBgkSl6yEuBftL4OMEFAoWzNVdxzoFmT7Gifvi_k4O9Gm8oBnqDSdG66ENvUSOIlZxl_SXS8LuTocBjClSuIO5ATe66ecVLYdBUky6RPFc7rfISc/s1600/Logo3+edited.jpg" group-title="Malaysia" radio="true",Amboi FM
-http://amboifm.iradio.work:8000/stream
 # 72FM: https://72fm.com/station/d1519076-f661-4647-8262-4afb7e5d81f3
 #EXTINF:-1 tvg-logo="https://manyfm.com/images/i125300.png" group-title="Malaysia" radio="true",AFO Radio Chinese
 https://stream.rcs.revma.com/7x3gv2y4bshvv
-# 72FM: https://72fm.com/station/28709ea4-30b7-44f2-aaaa-d9fa3fcb1a58
-#EXTINF:-1 tvg-logo="https://manyfm.com/images/i137564.png" group-title="Malaysia" radio="true",AFO Radio English
-https://stream.rcs.revma.com/8150ezy4bshvv
+# 72FM: https://72fm.com/station/5153ca76-a990-45cf-9bd6-5063b3d4f04f
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib54xrfaC80eyBw6RaeV3k4RJeZWMuBgkSl6yEuBftL4OMEFAoWzNVdxzoFmT7Gifvi_k4O9Gm8oBnqDSdG66ENvUSOIlZxl_SXS8LuTocBjClSuIO5ATe66ecVLYdBUky6RPFc7rfISc/s1600/Logo3+edited.jpg" group-title="Malaysia" radio="true",Amboi FM
+http://amboifm.iradio.work:8000/stream
 # 72FM: https://72fm.com/station/5fca2d75-3595-43d0-b5d9-43fa9369b152
 #EXTINF:-1 tvg-logo="https://d62zl39gesnj2.cloudfront.net/stations/hitz/2025/hitz_square_updated.png" group-title="Malaysia" radio="true",HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!
 https://stream.rcs.revma.com/488kt4sbv4uvv
 # 72FM: https://72fm.com/station/d83137ea-cc36-4f36-9d41-b32bfe94f97d
 #EXTINF:-1 tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01_v2.jpg" group-title="Malaysia" radio="true",Hot FM Malaysia
 https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
+# 72FM: https://72fm.com/station/28709ea4-30b7-44f2-aaaa-d9fa3fcb1a58
+#EXTINF:-1 tvg-logo="https://manyfm.com/images/i137564.png" group-title="Malaysia" radio="true",AFO Radio English
+https://stream.rcs.revma.com/8150ezy4bshvv
 # 72FM: https://72fm.com/station/86486fe1-ce06-41ed-bc32-3667ef351ce9
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/TraXX_FM.png/250px-TraXX_FM.png" group-title="Malaysia" radio="true",Traxx FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC

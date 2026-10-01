@@ -19,9 +19,6 @@ http://stream.europeanhitradio.com:8000/Stream_21.aac
 # 72FM: https://72fm.com/station/962cd16b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",Latvijas Radio 1
 http://lr1mp1.latvijasradio.lv:8012/;
-# 72FM: https://72fm.com/station/962ce682-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Latvia" radio="true",Radio ENERGY.LV - Russian
-http://radio2.radioenergy.lv:9000/
 # 72FM: https://72fm.com/station/962cdd18-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - Russkie Hiti
 http://stream.europeanhitradio.com:8000/khr.aac
@@ -127,12 +124,12 @@ https://live.relaxfm.lv/06
 # 72FM: https://72fm.com/station/ae5eebee-fea8-4311-a507-e7c45f4730be
 #EXTINF:-1 tvg-logo="https://www.ehr.fm/build/favicons/favicon.png" group-title="Latvia" radio="true",EHR
 https://stream.ehrhiti.lv:8000/ehr.aac
-# 72FM: https://72fm.com/station/bc410d06-5b4d-4f6a-b29e-d8e7ea4bd873
-#EXTINF:-1 group-title="Latvia" radio="true",Radio Skonto Plus
-https://stream.radioskontoplus.lv:8443/st128
 # 72FM: https://72fm.com/station/5f563e34-3e8e-4395-8359-712b476f076d
 #EXTINF:-1 group-title="Latvia" radio="true",Kurzemes Radio
 http://31.170.16.6:8000/
+# 72FM: https://72fm.com/station/bc410d06-5b4d-4f6a-b29e-d8e7ea4bd873
+#EXTINF:-1 group-title="Latvia" radio="true",Radio Skonto Plus
+https://stream.radioskontoplus.lv:8443/st128
 # 72FM: https://72fm.com/station/8cb977c6-433f-482d-a8e1-32ae2f830d46
 #EXTINF:-1 tvg-logo="https://www.ehr.fm/content/channels/614c776f-f4e9-4370-a221-999d4c675c97.png?w=205&h=205&fm=webp&s=63442b5cdd1bc22bc65780825c083d18" group-title="Latvia" radio="true",Retro FM Latvija
 https://stream.ehrhiti.lv:8000/Stream_RE.aac
@@ -166,6 +163,9 @@ https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3
 # 72FM: https://72fm.com/station/34a98692-9494-45c0-9ac4-f755d4145997
 #EXTINF:-1 tvg-logo="https://radio7.lv/wp-content/uploads/2021/03/cropped-radio7-symbol-32x32.png" group-title="Latvia" radio="true",Radio 7
 https://listen.radio7.lv:2053/Radio7
+# 72FM: https://72fm.com/station/7c488516-a286-4309-bdbf-fa49af85220e
+#EXTINF:-1 tvg-logo="https://latvijasradio.lsm.lv/public/assets/userfiles/logo/LR3-logo-RGB-square.png" group-title="Latvia" radio="true",Latvijas Radio 3 - Klasika
+https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8
 # 72FM: https://72fm.com/station/1d229119-d55e-444c-894e-b78a8e082508
 #EXTINF:-1 tvg-logo="https://radiomelodija.lv/upload/photos/69048604d622c8.08038779_final.png" group-title="Latvia" radio="true",Radio Melodija
 https://live.relaxfm.lv/08
@@ -190,66 +190,69 @@ https://live.advailo.com/audio/mp3/icecast.audio
 # 72FM: https://72fm.com/station/23cc41c2-3667-474f-a247-2da5092d786b
 #EXTINF:-1 tvg-logo="https://skontotev.lv/uploads/LOGO/Saraksta%20skata%20kart%C4%ABte/straumes_1a_kartite_chillax%20FM.png" group-title="Latvia" radio="true",Chillax FM
 https://streams.chillaxfm.lv/chillaxfm
-# 72FM: https://72fm.com/station/4e2439db-4312-4331-b89e-1b000dc7bd4d
-#EXTINF:-1 tvg-logo="https://retrofm.lv/files/logo_01.png" group-title="Latvia" radio="true",Retro FM
-https://23613.live.streamtheworld.com/RETRO_FM.mp3
 # 72FM: https://72fm.com/station/6f1ed812-b827-47bb-a8cb-14c37a740bf5
 #EXTINF:-1 group-title="Latvia" radio="true",EHR Gold
 http://stream.ehrhiti.lv:8000/Stream_64.mp3
-# 72FM: https://72fm.com/station/ec9d93fe-a161-4c97-ad39-858afd229ca7
-#EXTINF:-1 tvg-logo="https://retrofm.lv/files/logo_02.png" group-title="Latvia" radio="true",Retro FM Disco
-https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3
+# 72FM: https://72fm.com/station/4e2439db-4312-4331-b89e-1b000dc7bd4d
+#EXTINF:-1 tvg-logo="https://retrofm.lv/files/logo_01.png" group-title="Latvia" radio="true",Retro FM
+https://23613.live.streamtheworld.com/RETRO_FM.mp3
 # 72FM: https://72fm.com/station/0268a606-217c-4d80-89ac-3b94c71b7784
 #EXTINF:-1 tvg-logo="https://tv3cdn.lv/skaties/images/starfm/apple-touch-icon-precomposed.png" group-title="Latvia" radio="true",Star FM Latvia
 https://live.advailo.com/audio/live/playlist.m3u8
+# 72FM: https://72fm.com/station/ec9d93fe-a161-4c97-ad39-858afd229ca7
+#EXTINF:-1 tvg-logo="https://retrofm.lv/files/logo_02.png" group-title="Latvia" radio="true",Retro FM Disco
+https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3
 # 72FM: https://72fm.com/station/1ffa1528-eea5-4b32-81c7-8098970678b5
 #EXTINF:-1 group-title="Latvia" radio="true",Your City Padio
 https://c28.radioboss.fm:18234/stream
-# 72FM: https://72fm.com/station/b70334e2-5eed-48cb-9d79-a3e98f57d8bd
-#EXTINF:-1 tvg-logo="https://c28.radioboss.fm/stationlogo/234.jpg?9299" group-title="Latvia" radio="true",Your City Radio
-https://c34.radioboss.fm:8234/stream
 # 72FM: https://72fm.com/station/57d2c82e-ee07-403c-a055-051e794f3ab0
 #EXTINF:-1 tvg-logo="https://tirkultura.lv/favicon-32x32.png" group-title="Latvia" radio="true",Tīrkultūra
 https://s3.radio.co/s216811754/listen
-# 72FM: https://72fm.com/station/7c1bfed3-89ac-410d-9792-6e7db3967415
-#EXTINF:-1 group-title="Latvia" radio="true",Radio Talsi .:: Electronic ::.
-http://kuums.lv:6555/;
-# 72FM: https://72fm.com/station/31d2f37d-facc-4a52-ac63-ceb1b0866abe
-#EXTINF:-1 group-title="Latvia" radio="true",Njoyradio
-https://live.njoyradio.lv/02
+# 72FM: https://72fm.com/station/b70334e2-5eed-48cb-9d79-a3e98f57d8bd
+#EXTINF:-1 tvg-logo="https://c28.radioboss.fm/stationlogo/234.jpg?9299" group-title="Latvia" radio="true",Your City Radio
+https://c34.radioboss.fm:8234/stream
+# 72FM: https://72fm.com/station/4eb37cd9-cca8-453d-bf14-9d8aba81fb7d
+#EXTINF:-1 group-title="Latvia" radio="true",EHR Festivālu Hiti
+http://stream.ehrhiti.lv:8000/Stream_73.mp3
 # 72FM: https://72fm.com/station/a2035787-2838-46c5-81ef-1e5098e3735c
 #EXTINF:-1 group-title="Latvia" radio="true",EHR TOP 40
 http://stream.europeanhitradio.com:8000/Stream_27.mp3
+# 72FM: https://72fm.com/station/31d2f37d-facc-4a52-ac63-ceb1b0866abe
+#EXTINF:-1 group-title="Latvia" radio="true",Njoyradio
+https://live.njoyradio.lv/02
+# 72FM: https://72fm.com/station/7c1bfed3-89ac-410d-9792-6e7db3967415
+#EXTINF:-1 group-title="Latvia" radio="true",Radio Talsi .:: Electronic ::.
+http://kuums.lv:6555/;
 # 72FM: https://72fm.com/station/cfbbbfbd-1c6c-4e9b-be7f-1e2506901bcb
 #EXTINF:-1 tvg-logo="https://gradio.lv/logo/only-g-without-gloss-web-200.png" group-title="Latvia" radio="true",gradio.lv ONE
 https://stream.gradio.lv/gradio-one.mp4a
 # 72FM: https://72fm.com/station/aa64093e-7155-4a60-9b32-66c490a3a877
 #EXTINF:-1 group-title="Latvia" radio="true",EHR Ice Ice Party
 http://stream.ehrhiti.lv:8000/Stream_67.mp3
-# 72FM: https://72fm.com/station/f18809c9-1dc1-4e0c-ac76-da4a92c3a6c5
-#EXTINF:-1 tvg-logo="https://skontotev.lv/uploads/LOGO/128x83/128x128%20px%20Chillax_labots.png" group-title="Latvia" radio="true",Chillax
-https://streams.chillaxfm.lv/chillax
-# 72FM: https://72fm.com/station/eb8f210a-5afb-4218-b76f-6de963148842
-#EXTINF:-1 group-title="Latvia" radio="true",EHR Darbam
-http://stream.ehrhiti.lv:8000/Stream_23.mp3
 # 72FM: https://72fm.com/station/80a0aae5-c299-4b1a-be6c-6c1d21ffe596
 #EXTINF:-1 tvg-logo="https://lustigsradio.lv/stream/img/fons.jpg" group-title="Latvia" radio="true",Lustīgs Radio
 http://stream.lustigsradio.lv/live
+# 72FM: https://72fm.com/station/eb8f210a-5afb-4218-b76f-6de963148842
+#EXTINF:-1 group-title="Latvia" radio="true",EHR Darbam
+http://stream.ehrhiti.lv:8000/Stream_23.mp3
+# 72FM: https://72fm.com/station/f18809c9-1dc1-4e0c-ac76-da4a92c3a6c5
+#EXTINF:-1 tvg-logo="https://skontotev.lv/uploads/LOGO/128x83/128x128%20px%20Chillax_labots.png" group-title="Latvia" radio="true",Chillax
+https://streams.chillaxfm.lv/chillax
 # 72FM: https://72fm.com/station/da8c27fe-e11f-4b38-8051-83524982c7bd
 #EXTINF:-1 group-title="Latvia" radio="true",Radio Talsi .:: Misc ::.
 http://radio.kuums.lv:4555/;
 # 72FM: https://72fm.com/station/93d79144-d3a0-453b-8445-558828e70156
 #EXTINF:-1 tvg-logo="https://www.dkradio.lv/userfiles/theme/logo.svg" group-title="Latvia" radio="true",Divu Krastu Radio
 https://live.dkradio.lv/01
+# 72FM: https://72fm.com/station/636c6d2d-d97b-44d7-97bc-0bf02a544330
+#EXTINF:-1 tvg-logo="https://radioliepaja.lv/favicon.svg" group-title="Latvia" radio="true",Radio Liepāja
+https://stream.radioliepaja.lv/live/playlist.m3u8
 # 72FM: https://72fm.com/station/1a862fe1-e929-45e0-924e-d44e97f33acb
 #EXTINF:-1 group-title="Latvia" radio="true",EHR Fresh
 http://stream.ehrhiti.lv:8000/Stream_25.mp3
 # 72FM: https://72fm.com/station/43824dd6-87f1-42cc-9970-ad772f690c71
 #EXTINF:-1 tvg-logo="https://m.lradiostation.com/en/favicon.ico" group-title="Latvia" radio="true",LRADIO BALTIJA
 http://balticom-238-238.balticom.lv/live.aac
-# 72FM: https://72fm.com/station/636c6d2d-d97b-44d7-97bc-0bf02a544330
-#EXTINF:-1 tvg-logo="https://radioliepaja.lv/favicon.svg" group-title="Latvia" radio="true",Radio Liepāja
-https://stream.radioliepaja.lv/live/playlist.m3u8
 # 72FM: https://72fm.com/station/598bb19f-2520-47ec-a839-fc4f93b75285
 #EXTINF:-1 group-title="Latvia" radio="true",Radio Talsi .:: Future ::.
 http://kuums.lv:7555/;
@@ -259,12 +262,18 @@ https://stream.radiotev.lv:8443/radiov
 # 72FM: https://72fm.com/station/e5258129-80ac-4fe9-aa24-ce5a21fde985
 #EXTINF:-1 tvg-logo="https://www.schlagers.org/images/pages/logo.jpg" group-title="Latvia" radio="true",Schlager Time Radio
 http://schlagers.org:8760/
+# 72FM: https://72fm.com/station/b12adcc4-3057-4f07-a31a-8b136ef6fccf
+#EXTINF:-1 group-title="Latvia" radio="true",EHR iDeal Music
+http://stream.ehrhiti.lv:8000/Stream_78.mp3
 # 72FM: https://72fm.com/station/482a0a75-4e67-4ad6-9e04-8bd3ba070f3c
 #EXTINF:-1 group-title="Latvia" radio="true",NewDanceRadio
 https://stream.newdanceradio.lv/mp3_192
 # 72FM: https://72fm.com/station/ecdb53d0-3685-4039-87d7-6b9fab0973ea
 #EXTINF:-1 group-title="Latvia" radio="true",Radio Talsi .:: Lounge ::.
 http://kuums.lv:5555/;
+# 72FM: https://72fm.com/station/d0ff14be-8db4-4203-b56a-09d6b0e95b93
+#EXTINF:-1 group-title="Latvia" radio="true",EHR Rise & Shine
+http://stream.ehrhiti.lv:8000/Stream_36.mp3
 # 72FM: https://72fm.com/station/34ce3faa-8ea3-4c0c-94fb-46a562ac55cf
 #EXTINF:-1 group-title="Latvia" radio="true",IvoFm
 https://radio.ivofm.lv/listen/ivofm/radio.mp3
@@ -274,21 +283,18 @@ http://lr5mp1.latvijasradio.lv:8016/
 # 72FM: https://72fm.com/station/cf490244-175c-47d1-aa80-07f27b8b97c7
 #EXTINF:-1 tvg-logo="https://xo.fm/files/xo_fm.jpg" group-title="Latvia" radio="true",XO.FM
 https://live.xo.fm/xofm256
-# 72FM: https://72fm.com/station/d0ff14be-8db4-4203-b56a-09d6b0e95b93
-#EXTINF:-1 group-title="Latvia" radio="true",EHR Rise & Shine
-http://stream.ehrhiti.lv:8000/Stream_36.mp3
 # 72FM: https://72fm.com/station/a129090f-42c7-434a-af43-91999cf32527
 #EXTINF:-1 tvg-logo="https://www.kurmislv.info/templates/kubrik/images/logo.png" group-title="Latvia" radio="true",KurmisLV
 http://www.kurmislv.info:8000/live-kurmislv-hq.mp3
 # 72FM: https://72fm.com/station/e47ce4b2-b15d-4ef4-b345-2a7cb3344cc3
 #EXTINF:-1 group-title="Latvia" radio="true",Latvijas Radio 2
 https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/4769648b-8358-430f-8ac8-8c02271070de
-#EXTINF:-1 group-title="Latvia" radio="true",Radio Nemiers
-https://stream.radionemiers.com/nmrs/playlist.m3u8
 # 72FM: https://72fm.com/station/fcb31800-06fd-4626-9afe-5ee3bbda06dd
 #EXTINF:-1 tvg-logo="https://radioviens.lv/avatar.png" group-title="Latvia" radio="true",Radio Viens
 https://radioviens.lv/live
+# 72FM: https://72fm.com/station/4769648b-8358-430f-8ac8-8c02271070de
+#EXTINF:-1 group-title="Latvia" radio="true",Radio Nemiers
+https://stream.radionemiers.com/nmrs/playlist.m3u8
 # 72FM: https://72fm.com/station/09157387-068a-42c9-8027-9822469388a4
 #EXTINF:-1 group-title="Latvia" radio="true",Latvijas Radio 1
 https://muste.latvijasradio.lv/shoutcast/mp4:lr1a.stream/playlist.m3u8
