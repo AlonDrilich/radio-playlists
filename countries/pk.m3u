@@ -4,12 +4,18 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/babb87d8-14f7-4d42-b813-390ac01fb3c9
+#EXTINF:-1 group-title="Pakistan" radio="true",Samaa FM 107.4
+https://samaakhi107-itelservices.radioca.st/stream
 # 72FM: https://72fm.com/station/82785967-c645-4bc2-a02a-e5e00e03ce4a
 #EXTINF:-1 group-title="Pakistan" radio="true",Hot FM 105
 http://172.93.237.106:8000/listen.mp3
 # 72FM: https://72fm.com/station/7a1339a6-c0ef-41b1-9d5b-9fa469ef3463
 #EXTINF:-1 group-title="Pakistan" radio="true",Radio Pakistan Multan MW
 https://whmsonic.radio.gov.pk:8034/stream
+# 72FM: https://72fm.com/station/cc059379-dd72-451e-82af-434cb3859c7b
+#EXTINF:-1 tvg-logo="https://hpanel.hostinger.com/favicons/hostinger.png" group-title="Pakistan" radio="true",Radio Pak Filmi
+http://s17.ssl-stream.com:8214/stream
 # 72FM: https://72fm.com/station/755d2c71-1bdd-45b0-a526-02f0e4754af5
 #EXTINF:-1 group-title="Pakistan" radio="true",Radio Pakistan Islamabad
 https://whmsonic.radio.gov.pk:7003/stream
@@ -22,6 +28,9 @@ https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12
 # 72FM: https://72fm.com/station/e366ead6-6019-4a01-824d-6f4bea17f9a0
 #EXTINF:-1 group-title="Pakistan" radio="true",FM 101 Islamabad
 https://whmsonic.radio.gov.pk:7008/stream
+# 72FM: https://72fm.com/station/1c4c4c77-a792-4075-846d-dff13cfc0980
+#EXTINF:-1 group-title="Pakistan" radio="true",City FM 89
+https://radio.cityfm89.com/stream
 # 72FM: https://72fm.com/station/7ba74437-f804-4526-aaa5-6105c9f534f8
 #EXTINF:-1 group-title="Pakistan" radio="true",FM 93 Rawalpindi
 https://whmsonic.radio.gov.pk:8036/relay
@@ -61,9 +70,6 @@ https://whmsonic.radio.gov.pk:8060/relay
 # 72FM: https://72fm.com/station/441f7112-15a2-4e0b-9ef4-ee665f413196
 #EXTINF:-1 group-title="Pakistan" radio="true",FM 93 Faisalabad
 https://whmsonic.radio.gov.pk:8022/relay
-# 72FM: https://72fm.com/station/82d0c589-9c97-4ca1-896a-1653e351ec93
-#EXTINF:-1 group-title="Pakistan" radio="true",Mera FM 107.4
-https://samaakhi107-itelservices.radioca.st/stream
 # 72FM: https://72fm.com/station/4a8afdc5-60a8-4ad5-b228-a83d14bcee01
 #EXTINF:-1 group-title="Pakistan" radio="true",fm.92
 http://s33.myradiostream.com:13872/listen.m4a
@@ -88,6 +94,9 @@ https://cc.vmakerhost.com/proxy/magic?mp=/live
 # 72FM: https://72fm.com/station/d41946b4-342a-4b9a-b0e5-f86f017980ea
 #EXTINF:-1 group-title="Pakistan" radio="true",FM 101 Mithi
 https://whmsonic.radio.gov.pk:8052/stream
+# 72FM: https://72fm.com/station/aeeb2c2b-8697-44c6-aa11-528ecf40e5ca
+#EXTINF:-1 group-title="Pakistan" radio="true",Radio Pakistan Multan
+https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12
 # 72FM: https://72fm.com/station/d5144a6e-50c3-4dfb-a555-a82ff7756e19
 #EXTINF:-1 tvg-logo="https://fm91.com.pk/wp-content/uploads/2021/10/site-logo-2.png" group-title="Pakistan" radio="true",Radio One FM 91 Gwadar
 http://cc.vmakerhost.com:8147/stream
@@ -97,6 +106,9 @@ https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9
 # 72FM: https://72fm.com/station/abb391a9-3226-4822-b0ee-243a80b27227
 #EXTINF:-1 group-title="Pakistan" radio="true",FM 93 Chitral
 https://whmsonic.radio.gov.pk:8066/relay
+# 72FM: https://72fm.com/station/fe532813-c79a-4c5d-9dfc-4e8c3f097cee
+#EXTINF:-1 group-title="Pakistan" radio="true",পাকিস্তান
+https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
 # 72FM: https://72fm.com/station/ed3e4d31-7133-4eb3-a7e5-9729bf9c3ab2
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4D0BAQEI7mldY8HjDQ/company-logo_200_200/0/1646142095845/papajohnspk_logo?e=2147483647&v=beta&t=RFodNsVeiGcT4jU520HdsgjnHcfRiyJMk0WoLbBQ4XY" group-title="Pakistan" radio="true",Papa John's Pizza Pakistan
 http://162.252.85.85:7086/
@@ -115,12 +127,6 @@ http://canada1.reliastream.com:8191/stream
 # 72FM: https://72fm.com/station/a2d26639-cddd-4d4e-8a9f-028f9a22ddc4
 #EXTINF:-1 group-title="Pakistan" radio="true",live
 http://live.mp3quran.net:9752/
-# 72FM: https://72fm.com/station/daed4a04-0bca-4296-a5b4-cb19a0887812
-#EXTINF:-1 group-title="Pakistan" radio="true",City FM 89
-https://radio.cityfm89.com/stream
-# 72FM: https://72fm.com/station/a022e00c-7572-464d-9d7c-1d2064e4f411
-#EXTINF:-1 group-title="Pakistan" radio="true",Multan MW
-https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12
 # 72FM: https://72fm.com/station/978471ff-f3b8-478c-ac05-4265920fcfa6
 #EXTINF:-1 group-title="Pakistan" radio="true",Radio Mirpur
 https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9
@@ -130,10 +136,7 @@ https://samaalhr107-itelservices.radioca.st/stream
 # 72FM: https://72fm.com/station/3ab56e05-9da3-4c21-8f0a-933f1763ee40
 #EXTINF:-1 group-title="Pakistan" radio="true",fm...
 http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A
-# 72FM: https://72fm.com/station/fcca7b76-244f-424d-aa81-cc5468ac855c
-#EXTINF:-1 group-title="Pakistan" radio="true",Radio Pakistan WS
-https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
-# 72FM: https://72fm.com/station/ef58b117-6681-46f8-989f-fca63f34ed89
+# 72FM: https://72fm.com/station/2983eb2f-065f-4a8e-aadd-35a16b111ea2
 #EXTINF:-1 group-title="Pakistan" radio="true",AK radio Trarkhal
 https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9
 # 72FM: https://72fm.com/station/0741fb0c-e2fb-4f03-83fb-02cfd6d8ff92

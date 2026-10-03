@@ -19,6 +19,12 @@ https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
 # 72FM: https://72fm.com/station/960ed37d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Czechia" radio="true",Kiss 98 FM
 http://icecast2.play.cz:8000/kiss128aac
+# 72FM: https://72fm.com/station/961d7ccb-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Czechia" radio="true",Radio Beat
+http://icecast2.play.cz/radiobeat128.mp3
+# 72FM: https://72fm.com/station/9641d770-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=" group-title="Czechia" radio="true",Radio Čas Rock
+http://icecast6.play.cz/casrock128.mp3
 # 72FM: https://72fm.com/station/960ec4c7-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio Blaník živé
 http://ice.abradio.cz/blanikfm128.mp3
@@ -43,6 +49,9 @@ http://icecast6.play.cz/cro2-128.mp3
 # 72FM: https://72fm.com/station/960c2ab1-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_492_images_w200.png" group-title="Czechia" radio="true",Hitrádio Devadesátka
 http://ice.abradio.cz/hit90128.mp3
+# 72FM: https://72fm.com/station/72fd7498-b41e-448d-9f1a-b8a00e3b8ca8
+#EXTINF:-1 group-title="Czechia" radio="true",Radio Kiss
+http://icecast4.play.cz/kiss128.mp3
 # 72FM: https://72fm.com/station/961f6cc4-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Czechia" radio="true",Free Rádio 107,0 FM Brno
 http://icecast8.play.cz/freeradio128.mp3
@@ -52,6 +61,9 @@ http://ice.abradio.cz/orion128.mp3
 # 72FM: https://72fm.com/station/8c5750b4-6870-11ea-9d09-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.fajnradio.cz/favicon.ico" group-title="Czechia" radio="true",Fajn Rádio
 http://ice.abradio.cz/fajn128.mp3
+# 72FM: https://72fm.com/station/59425e67-86b7-11e9-aa30-52543be04c81
+#EXTINF:-1 group-title="Czechia" radio="true",Oldies Rádio
+http://ice.abradio.cz/oldiesradio128.mp3
 # 72FM: https://72fm.com/station/961cf04b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_490_images_w200.png" group-title="Czechia" radio="true",Hitrádio Osmdesátka
 http://ice.abradio.cz/hit80128.mp3
@@ -76,18 +88,24 @@ http://fr.radio-streamhosting.com:8000/metalheartradio64aac
 # 72FM: https://72fm.com/station/96209a4c-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Czechia" radio="true",Rock Rádio Šumava
 http://ice.abradio.cz/sumava128.mp3
+# 72FM: https://72fm.com/station/961e622e-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Czechia" radio="true",Radio Krokodyl
+http://icecast-u2.play.cz:8000/krokodyl128.mp3
+# 72FM: https://72fm.com/station/961d4a91-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_246_images_w200.png" group-title="Czechia" radio="true",Radio Depeche Mode
+http://mp3stream4.abradio.cz/depeche128.mp3
 # 72FM: https://72fm.com/station/848caf0f-5992-11ea-be63-52543be04c81
 #EXTINF:-1 group-title="Czechia" radio="true",povídka
 https://ice3.abradio.cz/povidka128.mp3
 # 72FM: https://72fm.com/station/fb6df011-77a5-11e8-83fa-52543be04c81
 #EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="Czechia" radio="true",Hitrádio FM
 http://ice.abradio.cz/hitradiofm128.mp3
+# 72FM: https://72fm.com/station/120f9ba0-c55a-498a-ae36-58b5c27ac2af
+#EXTINF:-1 tvg-logo="https://www.funkstar.eu/favicon.ico" group-title="Czechia" radio="true",Funkstar Radio
+https://funkstar.radioca.st/stream
 # 72FM: https://72fm.com/station/961f6420-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://plus.rozhlas.cz/sites/default/files/favicon_plus.ico" group-title="Czechia" radio="true",ČRo Plus
 http://amp.cesnet.cz:8000/cro-plus-256.ogg
-# 72FM: https://72fm.com/station/348fdad1-69cc-4f53-a848-a73175aad522
-#EXTINF:-1 group-title="Czechia" radio="true",Kiss Radio
-http://icecast4.play.cz/kiss128.mp3
 # 72FM: https://72fm.com/station/961d4eb8-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_442_images_w200.png" group-title="Czechia" radio="true",Helax 93,7
 http://ice.abradio.cz/helax128.mp3
@@ -127,15 +145,18 @@ http://icecast6.play.cz/casradio128.mp3
 # 72FM: https://72fm.com/station/979f5cb0-a052-456d-95e7-48d032aedd00
 #EXTINF:-1 tvg-logo="https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="Czechia" radio="true",Radio Svoboda (ru) (official stream)
 https://stream.radiojar.com/hcrb063nn3quv
+# 72FM: https://72fm.com/station/c6756b5f-3bd7-422d-87c7-4e4ae8fe829f
+#EXTINF:-1 tvg-logo="https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png" group-title="Czechia" radio="true",Express FM
+http://icecast8.play.cz/expres128mp3
 # 72FM: https://72fm.com/station/5f7c90af-32b5-4c04-8af9-d07642a73250
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio Blaník
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3
 # 72FM: https://72fm.com/station/17e20c76-e993-45fb-88f4-6efdef17cc28
 #EXTINF:-1 tvg-logo="https://radiocolor.cz/image/color_logo500x500.jpg" group-title="Czechia" radio="true",Color Music Radio
 http://sc.ipip.cz:8206/;stream
-# 72FM: https://72fm.com/station/94567573-8777-473b-8ab0-09487d84ebef
-#EXTINF:-1 tvg-logo="https://radia.cz/favicon.ico" group-title="Czechia" radio="true",Radia CZ - Depeche Mode
-http://mp3stream4.abradio.cz/depeche128.mp3
+# 72FM: https://72fm.com/station/1b568695-9ce7-493d-ba72-d9b3d5e0a364
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MPpLH6b/6067b0e51f4e27fc0549b36ac5c01f91.jpg" group-title="Czechia" radio="true",Evropa 2 - Radio
+https://ice.actve.net/fm-evropa2-128
 # 72FM: https://72fm.com/station/fac2e54e-c199-46fb-afd9-e47b6f7ee5d4
 #EXTINF:-1 tvg-logo="https://www.kiss.cz/assets/favicon/apple-touch-icon.png" group-title="Czechia" radio="true",Kiss Radio - 128MP3
 https://icecast1.play.cz/kissdelta128.mp3
@@ -163,12 +184,12 @@ http://ice.actve.net/fm-bonton-128
 # 72FM: https://72fm.com/station/94850cb6-4bcd-11e8-a4d1-52543be04c81
 #EXTINF:-1 group-title="Czechia" radio="true",svobodne-radio
 http://svobodneradio.radioca.st:8859/stream
+# 72FM: https://72fm.com/station/0933cedf-76b4-4953-8561-12563becd8ee
+#EXTINF:-1 group-title="Czechia" radio="true",ČRo D-dur FLAC
+http://amp.cesnet.cz:8000/cro-d-dur.flac
 # 72FM: https://72fm.com/station/5c65222f-7623-4cda-8d02-110b1dd35b18
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio humor 2
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac
-# 72FM: https://72fm.com/station/aaec68f1-aa06-423e-aa82-2dab5a36ff82
-#EXTINF:-1 tvg-logo="https://d-dur.rozhlas.cz/favicon.ico" group-title="Czechia" radio="true",Cesky Rozhlas Classical Lossless FLAC Stream
-http://amp.cesnet.cz:8000/cro-d-dur.flac
 # 72FM: https://72fm.com/station/014a73bb-b743-4619-a2b5-103a333022ac
 #EXTINF:-1 group-title="Czechia" radio="true",Svobodný vysílač
 http://stream.svobodny-vysilac.cz:8000/live.ogg
@@ -181,12 +202,21 @@ https://rozhlas.stream/radiozurnal_aac_128.aac
 # 72FM: https://72fm.com/station/edbb4c24-20ff-49a9-889e-7faeaa98c2cd
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-152x152.png" group-title="Czechia" radio="true",PHONK RADIO
 https://stream-43.zeno.fm/90fvpb27u18uv?zs=vRvgZYxuSUWsgBGCbKMLnA
+# 72FM: https://72fm.com/station/149c48ae-ab14-40b6-8fd7-6f26635bec90
+#EXTINF:-1 group-title="Czechia" radio="true",Fed's Trap Radio
+https://backend.fedstrapradio.com:8000/radio.mp3
+# 72FM: https://72fm.com/station/86ade1ec-0b06-4ede-97a1-04ab18299265
+#EXTINF:-1 tvg-logo="https://www.netroliferadio.cz/files/resize/128/128/netro-favicon-top-0.png" group-title="Czechia" radio="true",Netro Life Radio 100,8 FM
+https://icecast9.play.cz/netro-life-radio.mp3
 # 72FM: https://72fm.com/station/1961d0d5-e080-43ad-bf48-7a5e8424f6fe
 #EXTINF:-1 group-title="Czechia" radio="true",ROCK MAX
 http://ice.abradio.cz/rockmax256.mp3
 # 72FM: https://72fm.com/station/281c9866-2b6d-47ed-840e-49055f6d94c8
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio Jih
 http://icecast6.play.cz/jih128.mp3
+# 72FM: https://72fm.com/station/960c7093-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Czechia" radio="true",Radio City FM
+http://ice.abradio.cz/cityfm128.mp3
 # 72FM: https://72fm.com/station/961d7067-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Czechia" radio="true",HEY rádio
 http://icecast3.play.cz/hey-radio128.mp3
@@ -196,21 +226,18 @@ http://ice.abradio.cz/magicbrno128.mp3
 # 72FM: https://72fm.com/station/6d8af92e-3174-472d-8476-6521cb520054
 #EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130" group-title="Czechia" radio="true",Frekvence 1 - Youradio Osmdesátky
 http://ice.actve.net/web-80
-# 72FM: https://72fm.com/station/7cf86499-d207-4522-bb8a-0b5a25f8bb73
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png" group-title="Czechia" radio="true",Evropa 2 - Actve
-https://ice.actve.net/fm-evropa2-128
 # 72FM: https://72fm.com/station/c6dbc068-03f6-486e-bf74-bbd13c75d1c2
 #EXTINF:-1 group-title="Czechia" radio="true",Svobodný vysílač
 http://stream.svobodny-vysilac.cz:8000/live.mp3
+# 72FM: https://72fm.com/station/eac6a047-c06e-42bf-a504-09ace8f810a3
+#EXTINF:-1 tvg-logo="https://radioblanik.cz/design/favicons/apple-icon-180x180.png" group-title="Czechia" radio="true",Rádio BLANÍK
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac?gdpr=0
 # 72FM: https://72fm.com/station/c1f742d6-b2c4-4b73-a9ad-30ddf194345e
 #EXTINF:-1 group-title="Czechia" radio="true",ČRO Radiožurnál Sport
 https://rozhlas.stream/radiozurnal_sport_high.aac
 # 72FM: https://72fm.com/station/056e5ad2-c0d5-4e72-a719-d39c86fc734b
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10545/images/logog.jpg" group-title="Czechia" radio="true",Hitrádio Faktor
 https://ice.abradio.cz/faktor128.mp3
-# 72FM: https://72fm.com/station/eac6a047-c06e-42bf-a504-09ace8f810a3
-#EXTINF:-1 tvg-logo="https://radioblanik.cz/design/favicons/apple-icon-180x180.png" group-title="Czechia" radio="true",Rádio BLANÍK
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac?gdpr=0
 # 72FM: https://72fm.com/station/3fda342d-d929-11e9-a861-52543be04c81
 #EXTINF:-1 group-title="Czechia" radio="true",Pigy.cz – Pohádky
 http://ice.actve.net/web-pg-pohadky
@@ -277,6 +304,9 @@ http://ice.actve.net/web-pg-pisnicky
 # 72FM: https://72fm.com/station/8cdf37a5-303a-4f50-8395-623466abdacb
 #EXTINF:-1 group-title="Czechia" radio="true",Radio SPIN 96.2 FM
 http://icecast-u2.play.cz:8000/spin128.mp3
+# 72FM: https://72fm.com/station/309a02c6-8c06-474d-94db-8b2845f7c909
+#EXTINF:-1 tvg-logo="https://d-dur.rozhlas.cz/sites/default/files/favicon_d-dur.ico" group-title="Czechia" radio="true",ČRo D-dur HD
+http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
 # 72FM: https://72fm.com/station/961edb13-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Czechia" radio="true",Kiss Delta
 http://icecast1.play.cz:8000/kissdelta192.mp3
@@ -289,9 +319,6 @@ https://ice.abradio.cz/znamkapunku128.mp3
 # 72FM: https://72fm.com/station/146fc49c-d0eb-4fbb-bc4f-79a772c769e2
 #EXTINF:-1 group-title="Czechia" radio="true",RadioParty.pl
 https://s2.radioparty.pl:8015/stream
-# 72FM: https://72fm.com/station/d6bb6104-fc0b-41d9-9e46-24ffb08543ef
-#EXTINF:-1 tvg-logo="https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png" group-title="Czechia" radio="true",Expres FM
-http://icecast8.play.cz/expres128mp3
 # 72FM: https://72fm.com/station/ca2f254a-1908-42a7-aefc-85e7a0984b2c
 #EXTINF:-1 tvg-logo="https://www.clickandcountry.com/images/favicon/apple-icon-120x120.png" group-title="Czechia" radio="true",Rádio Click & Country
 http://radio.clickandcountry.cz:8000/clickandcountry.mp3
@@ -310,6 +337,9 @@ http://icecast1.play.cz/beat64.mp3
 # 72FM: https://72fm.com/station/81361abb-1d2f-4064-bace-ac0e32bbe505
 #EXTINF:-1 tvg-logo="https://hitradiocernahora.cz/design/favicons/apple-icon-120x120.png" group-title="Czechia" radio="true",Hitrádio Černá Hora
 http://ice.abradio.cz/cernahora128.mp3
+# 72FM: https://72fm.com/station/4740ae67-9381-4846-8fba-8aaf5707d889
+#EXTINF:-1 tvg-logo="https://radia.cz/favicon.ico" group-title="Czechia" radio="true",Hitrádio PopRock
+http://ice.abradio.cz/hitpoprock128.mp3
 # 72FM: https://72fm.com/station/ccc6b59f-e9bb-4373-9f29-eeecf4c98342
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio MB
 http://icecast3.play.cz/radiomb.mp3
@@ -334,15 +364,9 @@ http://icecast6.play.cz/radio1-128.mp3
 # 72FM: https://72fm.com/station/3107a066-eebd-4dcf-834c-eaa3ab106354
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio Blaník Oldies
 https://ice.radia.cz/oldiesradio128.mp3
-# 72FM: https://72fm.com/station/298d3e94-dd4b-4dbd-b336-2d7b631b1d79
-#EXTINF:-1 tvg-logo="https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=" group-title="Czechia" radio="true",Radio Cas Rock
-http://icecast6.play.cz/casrock128.mp3
 # 72FM: https://72fm.com/station/d3bd0cbb-993e-4673-81b4-d74f6cc498e7
 #EXTINF:-1 tvg-logo="https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="Czechia" radio="true",Крым.Реалии
 https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8
-# 72FM: https://72fm.com/station/5275df88-4198-4524-acf3-abc564737131
-#EXTINF:-1 group-title="Czechia" radio="true",Radio Krokodyl
-http://icecast-u2.play.cz:8000/krokodyl128.mp3
 # 72FM: https://72fm.com/station/033a307e-4396-4b97-b2c5-a7f24cf604fc
 #EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130" group-title="Czechia" radio="true",Frekvence 1 - Youradio Legendy
 http://ice.actve.net/web-f1-legendy
@@ -358,12 +382,12 @@ http://icecast6.play.cz/jihcimbalka128.mp3
 # 72FM: https://72fm.com/station/00a169e2-99be-4eb5-88f6-e32960718882
 #EXTINF:-1 tvg-logo="https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg" group-title="Czechia" radio="true",Rádio folk Czech
 http://mp3stream2.abradio.cz:8000/folk320.mp3
-# 72FM: https://72fm.com/station/58633ddd-fa5d-4ead-a150-a95137ac094d
-#EXTINF:-1 tvg-logo="https://hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="Czechia" radio="true",City FM
-http://ice.abradio.cz/cityfm128.mp3
 # 72FM: https://72fm.com/station/c47820b3-e0ec-49f6-b51b-d88b604e1d2b
 #EXTINF:-1 group-title="Czechia" radio="true",WeHouseRadio
 https://stream.zunradio.cz/zun2.aac
+# 72FM: https://72fm.com/station/613525ac-8afa-4e94-beec-ae5cf6c7034e
+#EXTINF:-1 tvg-logo="https://freerave.cz/imgz/favicon32.png" group-title="Czechia" radio="true",FREERAVE.CZ
+http://164.68.122.137:8061/
 # 72FM: https://72fm.com/station/d28e2fc3-2b9e-4a56-a34c-ef139a9dffce
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio Diana – Retro Club
 https://westradio.cz/radio/8000/radio.mp3
@@ -403,9 +427,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 # 72FM: https://72fm.com/station/4cf99ab0-79f3-45bf-8dca-7fa71002c716
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio 7 32kb
 http://icecast1.play.cz:8000/radio7cz32.mp3
-# 72FM: https://72fm.com/station/89c307c8-626a-4af8-aae1-c332b6492f3a
-#EXTINF:-1 tvg-logo="https://fedstrapradio.com/img/apple-touch-icon.png" group-title="Czechia" radio="true",Fed's Trap Radio
-https://backend.fedstrapradio.com:8000/radio.mp3
 # 72FM: https://72fm.com/station/f74b1240-0198-4828-91a8-ef7718cd255b
 #EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/f1a30ba0ae3a38a7b2ceef8a16375700196275f2.svg" group-title="Czechia" radio="true",Rock rádio – CZ Rock
 https://ice2.radia.cz/rockzabava128.aac
@@ -433,9 +454,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 # 72FM: https://72fm.com/station/4b42896a-5fd7-4f9a-bc35-32d93ef650e3
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio 7
 http://icecast8.play.cz/radio7-128.mp3
-# 72FM: https://72fm.com/station/f30802ce-2b2c-4a5c-8f18-7537b2234617
-#EXTINF:-1 tvg-logo="https://d-dur.rozhlas.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png" group-title="Czechia" radio="true",Cesky Rozhlas D-dur
-http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
 # 72FM: https://72fm.com/station/3321ebec-e7f8-46bc-bf47-3a4de512ecf1
 #EXTINF:-1 group-title="Czechia" radio="true",Óčko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
@@ -469,9 +487,6 @@ http://icecast1.play.cz/proglas96aac
 # 72FM: https://72fm.com/station/f84d4751-53b7-4a05-b838-5923740429aa
 #EXTINF:-1 group-title="Czechia" radio="true",ELLIS
 http://stream.laut.fm/ellis
-# 72FM: https://72fm.com/station/9bea3d90-d08b-4441-ab92-47ab2ccb5c9b
-#EXTINF:-1 tvg-logo="https://radia.cz/favicon.ico" group-title="Czechia" radio="true",Hit PopRock
-http://ice.abradio.cz/hitpoprock128.mp3
 # 72FM: https://72fm.com/station/4a84dbc3-3203-4ef4-b5b6-4babd9ce4ae8
 #EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/95db039bf174984aa88b002e45148ee1603fce6d.svg" group-title="Czechia" radio="true",Rádio Koleda
 https://ice3.radia.cz/koleda_64.aac
@@ -484,9 +499,6 @@ https://ice3.abradio.cz/hitradiocontact128.mp3
 # 72FM: https://72fm.com/station/04602093-2633-4f1a-9e22-c0007e9436af
 #EXTINF:-1 tvg-logo="https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico" group-title="Czechia" radio="true",ČRo Wave
 https://rozhlas.stream/wave_mp3_128.mp3
-# 72FM: https://72fm.com/station/05af3db3-5b11-483c-b008-07f3fd56df15
-#EXTINF:-1 group-title="Czechia" radio="true",Rádio Beat
-http://icecast2.play.cz/radiobeat128.mp3
 # 72FM: https://72fm.com/station/720e5547-8a01-4f5c-a404-e53dcc8a9c3c
 #EXTINF:-1 tvg-logo="https://radia.cz/favicon.ico" group-title="Czechia" radio="true",COOP TIP Radio
 http://ice4.abradio.cz/coop128.mp3
@@ -505,6 +517,9 @@ http://mp3stream4.abradio.cz/fajnfresh64.mp3
 # 72FM: https://72fm.com/station/07eb56e1-0eb8-4070-a68e-4bd24b545db3
 #EXTINF:-1 tvg-logo="https://budejovice.rozhlas.cz/" group-title="Czechia" radio="true",Český rozhlas České Budějovice
 https://rozhlas.stream/ceske_budejovice_high.aac
+# 72FM: https://72fm.com/station/27e1f1e4-7857-4ddf-bbb8-0604234c08e4
+#EXTINF:-1 group-title="Czechia" radio="true",Rádio Energic
+https://icecast9.play.cz/energic.mp3
 # 72FM: https://72fm.com/station/40b1f7b6-93da-4187-9f4b-76b1a9ba8f1c
 #EXTINF:-1 tvg-logo="https://api.play.cz/static/radio_logo/t200/seejay-radio.png" group-title="Czechia" radio="true",SeeJay Radio
 http://icecast6.play.cz/seejay128.mp3
@@ -523,12 +538,12 @@ https://radiootava.trefcon.cz:8889/radio.mp3
 # 72FM: https://72fm.com/station/c34f97eb-de1b-4164-9344-b9f0a4f9ac91
 #EXTINF:-1 group-title="Czechia" radio="true",COLOR Music Radio
 https://icecast8.play.cz/color128.mp3
+# 72FM: https://72fm.com/station/d45dca1f-d3ab-4bc6-a247-ad98d91cb09e
+#EXTINF:-1 group-title="Czechia" radio="true",čro radiožurnál sport Stream AdHoc 2
+https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3
 # 72FM: https://72fm.com/station/29ff758e-ef10-48c8-af38-e50062301f37
 #EXTINF:-1 group-title="Czechia" radio="true",Radia.cz - Birds
 https://ice2.radia.cz/relax-morning-birds64.aac
-# 72FM: https://72fm.com/station/d5145b3a-7814-4690-b496-a04f02ff0ce9
-#EXTINF:-1 tvg-logo="https://radioenergic.cz/favicon.ico" group-title="Czechia" radio="true",ENERGIC
-https://icecast9.play.cz/energic.mp3
 # 72FM: https://72fm.com/station/4bd6e6c3-6284-4a83-9d30-edbc7666265f
 #EXTINF:-1 tvg-logo="https://radiosazava.cz/porady/sazava_logo_vlnka.png" group-title="Czechia" radio="true",Rádio Sázava
 https://icecast8.play.cz/sazava192.mp3
@@ -538,9 +553,6 @@ http://ice2.abradio.cz/folk64a.aac
 # 72FM: https://72fm.com/station/1fa537a5-d0af-48b6-b2ed-bbbca5d238f5
 #EXTINF:-1 group-title="Czechia" radio="true",ZUN rádio
 https://icecast9.play.cz/zun48.aac
-# 72FM: https://72fm.com/station/b74ae42b-9648-4caa-9a95-bd175294d0af
-#EXTINF:-1 group-title="Czechia" radio="true",ČRO Radiožurnál sport AdHoc stream 2
-https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3
 # 72FM: https://72fm.com/station/e142a5dc-8515-4ed8-b742-d965516fff92
 #EXTINF:-1 group-title="Czechia" radio="true",Impuls Ráááádio
 https://stream.sepia.sk:8000/impuls128.mp3
@@ -574,9 +586,6 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 # 72FM: https://72fm.com/station/7f727b20-8a77-4978-8bec-b5101a1867cc
 #EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/c74730db0152b88c98e2e7d26dae3ab823128cf8.svg" group-title="Czechia" radio="true",Hitradio Zlín
 https://ice.radia.cz/radiozlin128.mp3
-# 72FM: https://72fm.com/station/7b65aafa-6b87-4164-866a-01234cc6e27d
-#EXTINF:-1 group-title="Czechia" radio="true",Free Rave CZ
-http://164.68.122.137:8061/
 # 72FM: https://72fm.com/station/638c4a10-d179-46d5-86bc-d8cb1f35013f
 #EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/9d6a0554f2f3fb7891748805e83c6030f5177074.svg" group-title="Czechia" radio="true",Hitrádio Osmdesátka
 https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac
@@ -601,6 +610,9 @@ https://stream.sepia.sk:8000/rnt128.mp3
 # 72FM: https://72fm.com/station/bdb4026e-62a0-44f8-a5d2-0164aa4938f5
 #EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=radio%20wave%20cz&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D124596689571&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcroradiowave%2F&docid=2nm_8JxQcjiK4M&tbnid=fMNzx05xHoFe9M&vet=12ahUKEwiRkcWVm-KKAxUDHrkGHdqgK4QQM3oECEwQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwiRkcWVm-KKAxUDHrkGHdqgK4QQM3oECEwQAA" group-title="Czechia" radio="true",Cro Radio Wave
 http://amp.cesnet.cz:8000/cro-radio-wave.flac
+# 72FM: https://72fm.com/station/09583181-fc2c-4e96-b432-55bbeacd040b
+#EXTINF:-1 tvg-logo="https://fonlord.github.io/Virtualni-basnik/radio-fonlord-logo-512.png" group-title="Czechia" radio="true",Radio Fonlord
+https://a5.asurahosting.com:6530/radio.mp3
 # 72FM: https://72fm.com/station/742cecbd-db1f-4515-9f28-0ee41b09a77b
 #EXTINF:-1 group-title="Czechia" radio="true",Black Hornet Radio
 http://icecast2.play.cz/bhradio-192.mp3
@@ -616,9 +628,6 @@ https://icecast7.play.cz/bikersradiodoupe128.mp3
 # 72FM: https://72fm.com/station/ddaead89-3868-4d31-8934-29f254f198a1
 #EXTINF:-1 tvg-logo="https://slagr-radio.cz/logo-pisnicka.webp" group-title="Czechia" radio="true",Rádio Písnička
 https://stream.slagr-radio.cz/pisnicka
-# 72FM: https://72fm.com/station/4300fc98-119d-417d-b9d7-f06578d68240
-#EXTINF:-1 tvg-logo="https://www.netroliferadio.cz/files/resize/152/152/netro-favicon-top-0.png" group-title="Czechia" radio="true",Netro Life radio 100,8 FM
-https://icecast9.play.cz/netro-life-radio.mp3
 # 72FM: https://72fm.com/station/b13ea46f-9a4e-4a42-a16f-0c5e3da82657
 #EXTINF:-1 tvg-logo="https://www.calimeroclub.eu/img/picture/192/logo-calimero.jpg" group-title="Czechia" radio="true",Calimeroclub Radio
 http://live.topradio.cz:8000/calimero192
@@ -661,9 +670,6 @@ https://stream.deecibel.com/one
 # 72FM: https://72fm.com/station/679e5c4f-740d-4c92-9d22-0d7948c5910d
 #EXTINF:-1 tvg-logo="https://stream.deecibel.com/rock_logo.png" group-title="Czechia" radio="true",Deecibel Rock Radio
 https://stream.deecibel.com/rock
-# 72FM: https://72fm.com/station/d328cbff-5cd6-49fc-bf14-2f020a1204d5
-#EXTINF:-1 group-title="Czechia" radio="true",Oldies radio
-http://ice.abradio.cz/oldiesradio128.mp3
 # 72FM: https://72fm.com/station/4e75d7de-0d0e-4393-abf0-81b3e084b3b4
 #EXTINF:-1 tvg-logo="https://slagr-radio.cz/logo.webp" group-title="Czechia" radio="true",Šlágr Rádio
 https://stream.slagr-radio.cz/mp3
@@ -697,12 +703,12 @@ https://rozhlas.stream/hradec_kralove.mp3
 # 72FM: https://72fm.com/station/0e8e5dec-9bac-40d4-8f60-163e6aa4b10e
 #EXTINF:-1 group-title="Czechia" radio="true",Chat Rádio
 https://radio.chatujme.cz:8000/chatradio
-# 72FM: https://72fm.com/station/628ae621-9cdf-4f69-b638-8f40d69e8fc2
+# 72FM: https://72fm.com/station/73a33d2a-12a7-43e5-b96b-aeaa05b7a3b9
+#EXTINF:-1 tvg-logo="https://radiomb.cz/wp-content/uploads/2026/06/Logo-MB.jpg" group-title="Czechia" radio="true",Radio MB
+https://ice3.abradio.cz/radiomb128.mp3
+# 72FM: https://72fm.com/station/2391e0fd-3755-41f7-8389-f9bd9e89d350
 #EXTINF:-1 group-title="Czechia" radio="true",PowerPonies Radio
 http://powerponies.cz:8000/;stream.mp3
-# 72FM: https://72fm.com/station/511c1130-53b9-478c-8ec7-29d36f7e90aa
-#EXTINF:-1 group-title="Czechia" radio="true",Radio Fonlord
-https://a5.asurahosting.com:6530/radio.mp3
 # 72FM: https://72fm.com/station/9815961b-c3f7-4fca-b911-bd4ee63c2dfe
 #EXTINF:-1 group-title="Czechia" radio="true",NONSTOPRADIO CZ
 http://stream.nonstopradio.cz:8080/
@@ -748,12 +754,6 @@ https://ice2.radia.cz/relax-sea64.aac
 # 72FM: https://72fm.com/station/684c64d4-9c62-40cf-b330-5637be5f838f
 #EXTINF:-1 tvg-logo="https://chatradio.cz/assets/img/chat-radio-circle-512x512.png" group-title="Czechia" radio="true",Chat R�dio
 https://radio.chatradio.cz/chatradio
-# 72FM: https://72fm.com/station/3f81a106-2835-4766-aa3b-b7f361f3d23e
-#EXTINF:-1 tvg-logo="https://radiomb.cz/wp-content/uploads/2026/06/Logo-MB.jpg" group-title="Czechia" radio="true",Radio MB
-https://ice3.abradio.cz/radiomb128.mp3
-# 72FM: https://72fm.com/station/28bf6c75-4377-4488-a898-c44ee1152803
-#EXTINF:-1 tvg-logo="https://www.funkstar.eu/wp-content/uploads/2018/12/FS_144-144.png" group-title="Czechia" radio="true",Funkstar Radio
-https://funkstar.radioca.st/stream
 # 72FM: https://72fm.com/station/e95f6195-0adf-40d8-b9e8-e630adc1b561
 #EXTINF:-1 group-title="Czechia" radio="true",Rádio G6
 http://mpc1.mediacp.eu:8098/stream

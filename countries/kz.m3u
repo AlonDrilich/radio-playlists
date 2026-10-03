@@ -4,6 +4,9 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/963fb135-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://pp.userapi.com/c837231/v837231617/5990/ChfZPOJgSmA.jpg" group-title="Kazakhstan" radio="true",Radio 90s Eurodance
+https://listen1.myradio24.com/5967
 # 72FM: https://72fm.com/station/2c21d6a9-8cf2-4d26-a4bb-712352e918db
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/99521.v1.png" group-title="Kazakhstan" radio="true",Russian Dance Radio
 https://lux-radio.com:8015/stream
@@ -16,15 +19,15 @@ https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
 # 72FM: https://72fm.com/station/21745b17-764e-471a-ae34-5f92c88e7e34
 #EXTINF:-1 tvg-logo="https://qazradio.fm/images/icon-114x114.png?9" group-title="Kazakhstan" radio="true",Shalqar
 https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+# 72FM: https://72fm.com/station/1a03c96c-e9a8-40de-ac2e-5c523447cf3e
+#EXTINF:-1 group-title="Kazakhstan" radio="true",Avtoradio
+http://178.88.167.62:8080/AVTORADIO_192
 # 72FM: https://72fm.com/station/ab723787-b6b8-4a03-8114-403ee4bd82c7
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6336-3866-4639-b664-353833373961/GIF.gif" group-title="Kazakhstan" radio="true",Народное Радио
 http://178.88.167.62:8080/DALA_192
 # 72FM: https://72fm.com/station/a47510c5-2d32-11e9-a35e-52543be04c81
 #EXTINF:-1 group-title="Kazakhstan" radio="true",KTK TV
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-# 72FM: https://72fm.com/station/ec84163e-cb4f-4b60-b62a-eb905c84dfdc
-#EXTINF:-1 group-title="Kazakhstan" radio="true",Auto Radio Kazakhstan
-http://178.88.167.62:8080/AVTORADIO_192
 # 72FM: https://72fm.com/station/dd1745e2-b8ee-46fb-b82b-2aae118e7ff4
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5RoB9Ug0phTuTpTqgExTIo5cdgPllBJhvpEmLfj_t2tZCkUJst9OzrwzhgsNGvv_VwQ=w240-h480-rw" group-title="Kazakhstan" radio="true",Aspan FM
 http://77.240.38.228:8000/aspanfm
@@ -34,12 +37,21 @@ https://icecast.ns.kz/radions
 # 72FM: https://72fm.com/station/59996d89-7bf3-4c1f-80b3-a141ac769fa3
 #EXTINF:-1 group-title="Kazakhstan" radio="true",ЖАНА FM
 https://live.zhanafm.kz:8443/zhanafm_onair
+# 72FM: https://72fm.com/station/a252eb81-a2bb-41ab-9f7d-13d792cb7a72
+#EXTINF:-1 group-title="Kazakhstan" radio="true",Tengri FM
+http://91.201.214.229:8000/tengrifm
+# 72FM: https://72fm.com/station/0b4826f5-02f3-4257-a1e4-cc3fde604c9f
+#EXTINF:-1 group-title="Kazakhstan" radio="true",Радио Талап
+https://okeyradio.ru/okey
 # 72FM: https://72fm.com/station/51dd947f-f30a-4f15-8259-7c062190e8c1
 #EXTINF:-1 group-title="Kazakhstan" radio="true",Радио SANA
 https://listen4.myradio24.com/radiosana
 # 72FM: https://72fm.com/station/93dda347-fb16-448c-9827-6028e0df82d2
 #EXTINF:-1 group-title="Kazakhstan" radio="true",ВАШЕ РАДИО
 https://live.zhanafm.kz:8443/vasheradio
+# 72FM: https://72fm.com/station/41a64f88-c639-4f5b-8dec-0543f94ceb1a
+#EXTINF:-1 group-title="Kazakhstan" radio="true",Pioner FM
+https://live.zhanafm.kz:8443/pionerfm
 # 72FM: https://72fm.com/station/a4be486b-4dbc-443d-afbf-0d6483d80181
 #EXTINF:-1 tvg-logo="https://vmeste.eu/img/services/96/myradio24.png" group-title="Kazakhstan" radio="true",Radio Azamat
 https://listen4.myradio24.com/8162
@@ -55,18 +67,6 @@ https://listen4.myradio24.com/rauan
 # 72FM: https://72fm.com/station/dbcb9ca8-5c14-4fd4-977a-04bfe3c6ba4c
 #EXTINF:-1 tvg-logo="https://qazradio.fm/images/classicfm.png?v=0.133" group-title="Kazakhstan" radio="true",Радио Classic
 https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
-# 72FM: https://72fm.com/station/2bdfd9b3-e163-4276-a476-5153d8e6bc00
-#EXTINF:-1 group-title="Kazakhstan" radio="true",The Holy Quran by Sheikh Mahmoud Al-Husari
-https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
-# 72FM: https://72fm.com/station/12605daa-5785-44dc-bc3d-084bb4e0e872
-#EXTINF:-1 group-title="Kazakhstan" radio="true",Radio Tengri FM
-http://91.201.214.229:8000/tengrifm
-# 72FM: https://72fm.com/station/2866af84-c9ad-4c68-bb72-ea7b1f22d2e0
-#EXTINF:-1 group-title="Kazakhstan" radio="true",Pioner FM
-https://live.zhanafm.kz:8443/pionerfm
-# 72FM: https://72fm.com/station/4beb9a12-0267-4726-a9ea-33a88754811b
-#EXTINF:-1 group-title="Kazakhstan" radio="true",Радио Талап
-https://okeyradio.ru/okey
 # 72FM: https://72fm.com/station/6e18d0d4-d3f4-436e-b7df-efb27105d92e
 #EXTINF:-1 tvg-logo="https://zhanafm.kz/favicon-32x32.png" group-title="Kazakhstan" radio="true",Жаңа Rock
 https://live.zhanafm.kz:8443/zhanarock
@@ -79,8 +79,8 @@ https://live.zhanafm.kz:8443/zhanalounge
 # 72FM: https://72fm.com/station/75437893-9527-4de8-902e-c04f08af2dfc
 #EXTINF:-1 tvg-logo="https://loveradio.kz/img/touch-icon-ipad-pro.png" group-title="Kazakhstan" radio="true",Love Radio Kazakhstan
 https://stream.gakku.tv:8443/love128.mp3
-# 72FM: https://72fm.com/station/11208a93-9194-4a60-84f8-99bfe1912b83
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240422_113249093.jpg?alt=media&token=f4c478dc-d724-4936-8fd1-50a22dcf3539" group-title="Kazakhstan" radio="true",Radio TMK
+# 72FM: https://72fm.com/station/22a02704-edaa-4f2a-b90b-77ee2b8e4189
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240423_115629497.jpg?alt=media&token=ffd13e64-214c-4108-b5e5-8a7ab3355f27" group-title="Kazakhstan" radio="true",Радио ТМК
 https://a4.radioheart.ru:9036/RH13170
 # 72FM: https://72fm.com/station/465e8c27-0340-4e2b-a067-3319f55cdbff
 #EXTINF:-1 tvg-logo="https://palmerablanca.com/cover.png" group-title="Kazakhstan" radio="true",Palmera Blanca radio - Daystream

@@ -34,9 +34,15 @@ http://server7.servistreaming.com:10021/stream?type=.mp3
 # 72FM: https://72fm.com/station/e6b46597-087b-4662-8348-f2f16ece3b21
 #EXTINF:-1 group-title="Puerto Rico" radio="true",Super K FM
 http://grupomedrano.stream-audio.com:8856/SuperK
+# 72FM: https://72fm.com/station/2d661749-ce77-4514-bfd8-271cf8847cf5
+#EXTINF:-1 group-title="Puerto Rico" radio="true",La X 100.7 FM
+http://stream.eleden.com:8235/lax.ogg
 # 72FM: https://72fm.com/station/118012be-410e-11e8-b74d-52543be04c81
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s21849q.png" group-title="Puerto Rico" radio="true",WPAB 550 PONCE
 http://68.235.35.243:9059/stream
+# 72FM: https://72fm.com/station/143cc7af-f0f0-44cd-9384-b6cd7c031a5b
+#EXTINF:-1 group-title="Puerto Rico" radio="true",RADIO TROPICAL PR
+https://cast.miradio.in/proxy/radiotropical/stream
 # 72FM: https://72fm.com/station/357a56ea-3ca3-4529-a5d0-3d2aadf1be70
 #EXTINF:-1 group-title="Puerto Rico" radio="true",Catolica Radio
 https://live.turadio.stream:7017/catolicaradiopr
@@ -64,24 +70,18 @@ https://livestreamcdn.net:2000/stream/waparadio
 # 72FM: https://72fm.com/station/d14750f8-9bbf-45c7-bf9a-3315e10db893
 #EXTINF:-1 tvg-logo="https://listenonlineradio.com/wp-content/uploads/2019/12/104.1-Redentor.jpg" group-title="Puerto Rico" radio="true",104.1 FM Redentor
 https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream
-# 72FM: https://72fm.com/station/909fe396-4f70-4a03-b14b-4cfe86ff7b7d
-#EXTINF:-1 group-title="Puerto Rico" radio="true",LA X
-http://stream.eleden.com:8235/lax.ogg
+# 72FM: https://72fm.com/station/d2c27710-48c0-4a5a-8ed7-b5e127cdcde2
+#EXTINF:-1 tvg-logo="https://bit.ly/logopgr" group-title="Puerto Rico" radio="true",WRPG-DB Pura Gracia
+https://15113.live.streamtheworld.com:443/SAM05AAC459_SC
 # 72FM: https://72fm.com/station/c8a78cc5-38a9-4351-a7d0-557fa6cb69ef
 #EXTINF:-1 tvg-logo="https://cumbre1470am.com/wp-content/uploads/2021/12/avatar.png" group-title="Puerto Rico" radio="true",Cumbre 1470 AM - 106.3 FM
 https://sp.unoredcdn.net/8158/stream
-# 72FM: https://72fm.com/station/0bac2001-582b-48df-a788-f42873071e2b
-#EXTINF:-1 group-title="Puerto Rico" radio="true",Radio Tropical
-https://cast.miradio.in/proxy/radiotropical/stream
 # 72FM: https://72fm.com/station/259d2db5-ef18-4b5a-81b6-5c21332bf7ae
 #EXTINF:-1 group-title="Puerto Rico" radio="true",Vid 90
 http://s3.voscast.com:7720/;stream1726930102886/1
 # 72FM: https://72fm.com/station/b95692d0-9b6f-4810-b6e6-395bbe6a5d0b
 #EXTINF:-1 tvg-logo="https://bloximages.chicago2.vip.townnews.com/wkaq580.com/content/tncms/custom/image/9732c65a-a5bb-11ee-8102-67d137cd6b72.png?resize=400%2C167" group-title="Puerto Rico" radio="true",WKAQ 580
 https://televicentro.streamguys1.com/wkaqam-icy?key=a548fad34362b181adc2d8c3cc86b7cf1d424ef2d81c4050b3e6e1ba21f8de3d&source=tunein&source=TuneIn&us_privacy=1YNY&bundle=tunein.com&lat=18.4038&long=-66.1493&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1772682016&aw_0_1st.bundleId=tunein.com&lon=-66.1493&listenerid=555c2c74177be24010a700c94e4e5933&aw_0_1st.abtest=&partnerId=RadioTime&aw_0_1st.stationId=s30075&aw_0_1st.premium=false&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g255&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=dsk.Web&aw_0_azn.planguage=[iv,%20es]&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a116918,a40075,a39100&aw_0_1st.bandId=1&delivery=1&aw_0_1st.lotamesegments=;;
-# 72FM: https://72fm.com/station/27f8f287-3fa1-4e3d-93dc-57ba44a04a64
-#EXTINF:-1 tvg-logo="https://radio.archipielago.uno/radio-sola.png" group-title="Puerto Rico" radio="true",Radio Costa
-https://radio.archipielago.uno/radiocosta
 # 72FM: https://72fm.com/station/cf716fb2-b0f4-4006-b12e-d4eb21fe29f9
 #EXTINF:-1 group-title="Puerto Rico" radio="true",OldiVille
 https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3
@@ -103,9 +103,6 @@ https://listen.radioking.com/radio/418162/stream/471250?n=1
 # 72FM: https://72fm.com/station/56802a60-6436-44cd-8078-4881f344fe01
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/902/la-nueva-94.41a122ec.png" group-title="Puerto Rico" radio="true",La Nueva 94 (WODA FM)
 https://liveaudio.lamusica.com/PR_WODA_icy
-# 72FM: https://72fm.com/station/a5518803-f2ed-4e53-a5df-d4b7a6c731ea
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arios71/puragracia.com/refs/heads/main/assets/icons/logo-512.png" group-title="Puerto Rico" radio="true",Pura Gracia Radio | WRPG-DB
-https://15113.live.streamtheworld.com:443/SAM05AAC459_SC
 # 72FM: https://72fm.com/station/c0fb4c86-1a71-411c-ada4-99f102f3b425
 #EXTINF:-1 tvg-logo="https://radioisla.tv/wp-content/uploads/2019/07/cropped-favicon-32x32.png" group-title="Puerto Rico" radio="true",Radio Isla 1320 AM (WSKN 1320 AM)
 https://server7.servistreaming.com/proxy/radioisla?mp=/stream?type=.mp3&_=1
@@ -130,9 +127,6 @@ https://streams.proftsc.com/listen/woro/woro.mp3
 # 72FM: https://72fm.com/station/b0ce91c3-1b72-45e6-bd46-df86aa76d30d
 #EXTINF:-1 group-title="Puerto Rico" radio="true",PR Magic 97.3
 https://a4.asurahosting.com:6760/radio.mp3
-# 72FM: https://72fm.com/station/ccbb579c-5d52-47de-8327-bfa81f2bf1f5
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s20409d.png" group-title="Puerto Rico" radio="true",CNN en Español
-https://tunein.cdnstream1.com/3517_96_nn.mp3
 # 72FM: https://72fm.com/station/ad911f6a-1b9e-4ca2-924b-b74a49043e82
 #EXTINF:-1 tvg-logo="https://wrtu.uprrp.edu/wp-content/uploads/2025/01/cropped-WRTU-LOGO_350x90.png" group-title="Puerto Rico" radio="true",PR - Radio Universidad UPR Rio Piedras
 https://wrtustream.uprrp.edu/listen.mp3

@@ -4,6 +4,9 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/96185693-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Rai Radio 1
+http://icestreaming.rai.it/1.mp3
 # 72FM: https://72fm.com/station/9619f126-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Classic Rock
 http://icy.unitedradio.it/VirginRockClassics.mp3
@@ -16,6 +19,15 @@ http://icecast.unitedradio.it/Radio105.mp3
 # 72FM: https://72fm.com/station/9628632e-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Stereocittà
 http://onair11.xdevel.com:8134/;stream.mp3
+# 72FM: https://72fm.com/station/83dcfac4-b3c3-4731-afc1-a80dd271dffa
+#EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="Italy" radio="true",Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
+# 72FM: https://72fm.com/station/9608eb3e-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Rai Radio 3
+http://icestreaming.rai.it/3.mp3
+# 72FM: https://72fm.com/station/961a5a75-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",RMC Radio Monte Carlo
+http://icecast.unitedradio.it/RMC.mp3
 # 72FM: https://72fm.com/station/9619eb8a-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Italia
 http://icecast.unitedradio.it/Virgin.mp3
@@ -46,6 +58,9 @@ http://edge.radiomontecarlo.net/rmcweb008
 # 72FM: https://72fm.com/station/216ee092-939d-43b6-8562-c646f73ad89f
 #EXTINF:-1 tvg-logo="https://www.radioitalia.it/images/logo-radioitalia.png" group-title="Italy" radio="true",Radio Italia Solo Musica Italiana
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8
+# 72FM: https://72fm.com/station/9619ef9e-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Hard Rock
+http://icy.unitedradio.it/VirginHardRock.mp3
 # 72FM: https://72fm.com/station/961e1310-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Centro Suono Sport
 http://streaming.centrosuono.com:8000/cssport.mp3
@@ -67,6 +82,9 @@ http://icy.unitedradio.it/Virgin_06.mp3
 # 72FM: https://72fm.com/station/962c02bc-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://radioibiza.it/wp-content/uploads/2021/07/cropped-favicon-ibiza-180x180.png" group-title="Italy" radio="true",Radio Ibiza
 http://wma08.fluidstream.net:5010/;stream.aac
+# 72FM: https://72fm.com/station/ae6a44a0-2ae6-421f-b66b-d2700c8f92e8
+#EXTINF:-1 group-title="Italy" radio="true",CLASSIC HITS RADIO Italia
+https://classichitsradio.streamingmedia.it/play
 # 72FM: https://72fm.com/station/f428a295-760d-11ea-b1cf-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",ITALIA Italia 70
 https://icy.unitedradio.it/um020.mp3
@@ -106,15 +124,27 @@ http://icy.unitedradio.it/105Zoo.mp3
 # 72FM: https://72fm.com/station/c229f726-760d-11ea-b1cf-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",ITALIA Italia 80
 https://icy.unitedradio.it/um016.mp3
+# 72FM: https://72fm.com/station/46904395-5af6-444d-bbf9-786000f39bac
+#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="Italy" radio="true",Radio Deejay
+http://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
 # 72FM: https://72fm.com/station/079f5cb5-c17a-412e-b242-15b22123162b
 #EXTINF:-1 group-title="Italy" radio="true",NEW HITS RADIO Italia
 https://newhitsradio.streamingmedia.it/play
 # 72FM: https://72fm.com/station/266c9ba9-7fad-11e8-a43d-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",MUSIC STAR Roger Waters - Pink Floyd
 http://icy.unitedradio.it/VirginRogerWaters.mp3
+# 72FM: https://72fm.com/station/22d0e6ba-6090-40ed-91d8-be21dd57362a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/480px-Soccer_ball.svg.png" group-title="Italy" radio="true",Radio Sei (Italia)
+https://icecast.ithost.it/radiosei.ogg
 # 72FM: https://72fm.com/station/962766ef-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",R101 Made in Italy
 http://icy.unitedradio.it/R101MadeInItaly.aac
+# 72FM: https://72fm.com/station/daea35b7-ba89-11e8-aaf2-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Rai Radio 1 Sport
+http://icestreaming.rai.it/13.mp3
+# 72FM: https://72fm.com/station/32c1aa82-c639-4c73-9236-948bbda511d7
+#EXTINF:-1 group-title="Italy" radio="true",Radio Manà Manà Sport Roma
+https://stream10.xdevel.com/audio2s975363-2142/stream/icecast.audio
 # 72FM: https://72fm.com/station/27c3e080-2908-11e9-a80b-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Rock '90
 http://icy.unitedradio.it/Virgin_03.mp3
@@ -154,9 +184,6 @@ http://nr11.newradio.it:9208/stream
 # 72FM: https://72fm.com/station/86132968-f954-11e9-bbf2-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Subasio Per un'ora d'amore
 http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
-# 72FM: https://72fm.com/station/02814188-9141-4978-a307-daf19dbb799b
-#EXTINF:-1 tvg-logo="https://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png" group-title="Italy" radio="true",Radio 24, Il Sole 24 Ore, AAC 48k
-http://shoutcast.radio24.it:8000/
 # 72FM: https://72fm.com/station/96283c12-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio 105 - Miami
 http://icy.unitedradio.it/105Miami.mp3
@@ -166,6 +193,9 @@ http://icy.unitedradio.it/105RapItalia.mp3
 # 72FM: https://72fm.com/station/962d8a90-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",MUSIC STAR Vasco
 http://icy.unitedradio.it/Vasco.mp3
+# 72FM: https://72fm.com/station/5a492e5f-48fc-4ad2-891b-e53c70499228
+#EXTINF:-1 group-title="Italy" radio="true",ITALIAN RADIO - Only (romantic) Italian Music
+https://italianradio.streamingmedia.it/play
 # 72FM: https://72fm.com/station/96286716-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",RMC Italia
 http://edge.radiomontecarlo.net/rmcweb005
@@ -175,15 +205,30 @@ http://icy.unitedradio.it/Subasio.mp3
 # 72FM: https://72fm.com/station/961ae1a3-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Popolare Milano
 http://livex.radiopopolare.it/radiopop2
+# 72FM: https://72fm.com/station/f8a910c3-fd87-4376-af20-1af5bfec6ab4
+#EXTINF:-1 group-title="Italy" radio="true",Radio M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+# 72FM: https://72fm.com/station/999ff951-68eb-4f4a-bec9-ed972b99d258
+#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="Italy" radio="true",Radio Deejay
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
 # 72FM: https://72fm.com/station/4c584e2c-aaad-485e-976c-5f200cca6fe3
 #EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Rockstar: Rolling Stones
 https://icy.unitedradio.it/VirginSpecialEvent.mp3
 # 72FM: https://72fm.com/station/96286c14-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",RMC 90
 http://edge.radiomontecarlo.net/rmcweb009
+# 72FM: https://72fm.com/station/fbe60456-15e8-4db4-a1f1-4ce77b7aaecc
+#EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/favicon.ico" group-title="Italy" radio="true",Radio Capital
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
 # 72FM: https://72fm.com/station/cc40c5c2-d8a3-11e9-a861-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",One Dance
 http://ice10.fluidstream.net/rn1_2.mp3
+# 72FM: https://72fm.com/station/9608fda3-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Rai Südtirol
+http://radiobzlive.rai.it/RAIBZ_Livestream
+# 72FM: https://72fm.com/station/4782ccd8-2a36-47ff-9e2f-af0da5400f9a
+#EXTINF:-1 group-title="Italy" radio="true",Venice Classic Radio *LIVE
+http://116.202.241.212:8020/
 # 72FM: https://72fm.com/station/962b85f0-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Italianissima
 http://onair15.xdevel.com:9100/
@@ -211,6 +256,9 @@ https://discofunk.streamingmedia.it/play
 # 72FM: https://72fm.com/station/cb74060e-8b0b-45f0-8e6b-e2f8c6c1a152
 #EXTINF:-1 group-title="Italy" radio="true",Radio Romanista
 https://romanista.newradio.it/stream
+# 72FM: https://72fm.com/station/b05da069-bfb3-11e9-8502-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Rai Radio Tutta Italiana
+http://icestreaming.rai.it/4.mp3
 # 72FM: https://72fm.com/station/962703d0-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",RMC Nights Story
 http://edge.radiomontecarlo.net/rmcweb012
@@ -226,6 +274,9 @@ https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8
 # 72FM: https://72fm.com/station/9629f5d7-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Padova
 http://str01.fluidstream.net:6020/listen.pls
+# 72FM: https://72fm.com/station/6b4d2d9d-1435-44aa-b5ee-1db50f833ddc
+#EXTINF:-1 group-title="Italy" radio="true",Venice Classic Radio
+https://uk2.streamingpulse.com/ssl/vcr1
 # 72FM: https://72fm.com/station/96286dce-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",RMC Marine
 http://edge.radiomontecarlo.net/rmcweb010
@@ -250,6 +301,12 @@ https://rtr99.fluidstream.eu/rtr99_pooh.mp3
 # 72FM: https://72fm.com/station/9619f1f2-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Rock Alternative
 http://icy.unitedradio.it/VirginRockAlternative.mp3
+# 72FM: https://72fm.com/station/962607c7-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Radio Marconi 2 "Musica Clasica"
+http://onair22.streaming.xdevel.com:7598/;stream.mp3
+# 72FM: https://72fm.com/station/96149c7f-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",RMC Kay Kay
+http://edge.radiomontecarlo.net/rmcweb004
 # 72FM: https://72fm.com/station/962848be-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radiobruno.it/wp-content/uploads/2023/10/logo-148-90-black1.png" group-title="Italy" radio="true",Radio Bruno
 http://onair18.xdevel.com:8062/;
@@ -265,9 +322,18 @@ http://edge.radiomontecarlo.net/rmcweb007
 # 72FM: https://72fm.com/station/96262cd1-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",R101 Enjoy The Music
 http://icy.unitedradio.it/101Legend.aac
+# 72FM: https://72fm.com/station/df3a63d4-e944-4f00-abb7-4de1581e7533
+#EXTINF:-1 group-title="Italy" radio="true",Rai Radio 1 +Calcio
+http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
 # 72FM: https://72fm.com/station/95e91688-897b-4900-9406-ca4b744effdf
 #EXTINF:-1 group-title="Italy" radio="true",Rai 1 Friuli Venezia Giulia
 https://icestreaming.rai.it/1.mp3
+# 72FM: https://72fm.com/station/af6b114a-5c13-426e-b667-f58a9bd79b92
+#EXTINF:-1 tvg-logo="https://romanticaradio.it/wp-content/uploads/2022/05/cropped-favicon_romantica-180x180.png" group-title="Italy" radio="true",ROMANTICA-RADIO
+https://vetrina.multi-radio.com/romanticaradio
+# 72FM: https://72fm.com/station/5b3c0b41-f11c-4e2a-b954-074792fd09f7
+#EXTINF:-1 group-title="Italy" radio="true",Rai Radio 2
+http://icestreaming.rai.it/2.mp3
 # 72FM: https://72fm.com/station/04ff55d7-48cf-46c1-b8ef-79e1af3381dd
 #EXTINF:-1 tvg-logo="https://www.italiadancemusic.com/it/themes/corporate_lite/favicon.ico" group-title="Italy" radio="true",Italia Dance Music
 http://sr2.inmystream.info:8032/;
@@ -331,6 +397,9 @@ http://streaming.radiodancefloor.it/live.mp3
 # 72FM: https://72fm.com/station/7a67fe09-ab18-11e9-88f4-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",One Dance
 https://ice04.fluidstream.net/rn1_2.aac
+# 72FM: https://72fm.com/station/2a921377-d27d-4fc8-acd0-f7dee943c7f8
+#EXTINF:-1 tvg-logo="https://www.radiosubasio.it/wp-content/themes/radiosubasiov2/assets/images/logo-radio-subasio.png" group-title="Italy" radio="true",RADIO SUBASIO
+https://icy.unitedradio.it/Subasio.mp3
 # 72FM: https://72fm.com/station/d35468c5-a584-4f1a-9f54-e15b49eaaa43
 #EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Rockstar: Oasis
 http://icy.unitedradio.it/um1030.mp3
@@ -355,9 +424,6 @@ http://eu1.fastcast4u.com:10942/stream
 # 72FM: https://72fm.com/station/c12c9dd6-9e1a-11e9-a787-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",RMC Voyage Voyage
 http://edge.radiomontecarlo.net/rmcweb022
-# 72FM: https://72fm.com/station/cfb5f97a-1cae-486f-888a-97231b903a5a
-#EXTINF:-1 tvg-logo="https://www.veniceclassicradio.eu/player/new/image/l.png" group-title="Italy" radio="true",Venice Classic Radio *LIVE
-http://116.202.241.212:8020/
 # 72FM: https://72fm.com/station/9629c2dd-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Nostalgia Liguria
 http://wma08.fluidstream.net:8000/listen.pls
@@ -376,6 +442,9 @@ http://ice02.fluidstream.net/lattemielepuglia.aac?FLID=6
 # 72FM: https://72fm.com/station/960e88e8-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Studio Più - The Dance Station
 http://77.241.4.100:8010/;
+# 72FM: https://72fm.com/station/a89028bc-0cef-4228-9fce-5c91039aca94
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1200px-Radio_Capital_logo_%282020%29.svg.png" group-title="Italy" radio="true",Radio Capital IT
+https://streamcdnr8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
 # 72FM: https://72fm.com/station/5072c6d5-622f-4837-9cd1-137a670f31df
 #EXTINF:-1 group-title="Italy" radio="true",70/80 Non Stop
 http://shoutcast3.streamingmedia.it:3038/;
@@ -397,6 +466,9 @@ http://icy.unitedradio.it/SubasioCollection.mp3
 # 72FM: https://72fm.com/station/571ecf3e-f348-4bdb-b30d-31e2a20e8fe9
 #EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/capital/sites/2/2016/11/webradio-funkytown2-320x320.jpg" group-title="Italy" radio="true",Radio Capital Funky Town
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8
+# 72FM: https://72fm.com/station/697cbf25-8cd5-49e6-bf3d-f4e20f797140
+#EXTINF:-1 group-title="Italy" radio="true",RMC Jazz
+http://edge.radiomontecarlo.net/rmcweb019
 # 72FM: https://72fm.com/station/96da2d3d-89e9-11e9-ad01-52543be04c81
 #EXTINF:-1 tvg-logo="https://italosound.com/logo-cover.png" group-title="Italy" radio="true",Italo Sound Radio
 http://stream.italosound.com:8000/italosound
@@ -424,6 +496,9 @@ https://icy.unitedradio.it/MusicStarPrince.mp3
 # 72FM: https://72fm.com/station/964501c9-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Play Capital
 http://onair11.xdevel.com:8166/;stream.nsv
+# 72FM: https://72fm.com/station/1df2ab44-7fb1-11e8-a43d-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Running Radio
+http://edge.radiomontecarlo.net/rmcweb021
 # 72FM: https://72fm.com/station/9624d45b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.marilu.it/wp-content/uploads/2023/03/cropped-radio-marilu-plettro-180x180.png" group-title="Italy" radio="true",Radio Marilù
 http://wma01.fluidstream.net/marilu
@@ -451,6 +526,9 @@ http://stream.radioholiday.it:8000/
 # 72FM: https://72fm.com/station/964d49d9-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Mitology
 http://onair15.xdevel.com:9120/;stream.mp3
+# 72FM: https://72fm.com/station/96263034-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Rai Alto Adige
+http://radiobzlive.rai.it/RAI_AltoAdige
 # 72FM: https://72fm.com/station/96283abb-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio 105 - Hits
 http://icy.unitedradio.it/105Hits.mp3
@@ -466,6 +544,9 @@ https://sr11.inmystream.it/proxy/dumdumradio
 # 72FM: https://72fm.com/station/f06ae218-ef40-11e8-a471-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Play Emotions
 http://91.121.38.216:8054/
+# 72FM: https://72fm.com/station/eb10fc32-63d3-47a1-9d1b-3040f3580dee
+#EXTINF:-1 tvg-logo="https://www.rainews.it/dl/rainews/images/favicon.png" group-title="Italy" radio="true",Rai News 24
+https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 # 72FM: https://72fm.com/station/9628ec05-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png" group-title="Italy" radio="true",Radio Kiss Kiss History Hits
 http://ice08.fluidstream.net/kk_history.aac
@@ -523,9 +604,12 @@ http://5.135.39.189:8036/;
 # 72FM: https://72fm.com/station/963c677a-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Funky Corner Radio
 http://andromeda.shoutca.st:8411/stream
-# 72FM: https://72fm.com/station/22c8a12c-6d82-4b8d-874f-74074e9ec011
-#EXTINF:-1 group-title="Italy" radio="true",Rai Radio 1
-http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
+# 72FM: https://72fm.com/station/9986b7a6-1e48-480a-87fa-d17358d8c2ec
+#EXTINF:-1 group-title="Italy" radio="true",Rai Radio 3
+http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast
+# 72FM: https://72fm.com/station/9627bc91-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Italy" radio="true",Radio 105 - Classics
+http://icy.unitedradio.it/105Classics.mp3
 # 72FM: https://72fm.com/station/962b53a5-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Gamma 5
 http://ice05.fluidstream.net/fluid0510.mp3?FLID=6
@@ -538,9 +622,6 @@ https://radiocavolo.org/stream
 # 72FM: https://72fm.com/station/9628e946-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png" group-title="Italy" radio="true",Radio Kiss Kiss Latina
 http://ice08.fluidstream.net/kk_latina.aac
-# 72FM: https://72fm.com/station/ca9cb094-32f0-4fac-bed1-0c6bdb3d2297
-#EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/m2o/sites/2/2021/10/LOGO-e1635353469455-1200x1200.png" group-title="Italy" radio="true",GEDI - m2o
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
 # 72FM: https://72fm.com/station/b29aa53e-b95d-11e9-acb2-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.lifegate.it/app/uploads/share1.png" group-title="Italy" radio="true",LifeGate Radio HD
 http://onair15.xdevel.com:8214/;stream.mp3
@@ -553,18 +634,18 @@ https://icy.unitedradio.it/um021.mp3
 # 72FM: https://72fm.com/station/63b7ed83-da88-4d58-9118-efe1d37dc4f3
 #EXTINF:-1 group-title="Italy" radio="true",RTR 99 Canzoni e parole fuori dal coro
 https://rtr99.fluidstream.eu/rtr99.mp3?FLID=3
-# 72FM: https://72fm.com/station/30f99511-84c1-4716-ab76-fd29d6d8bdbc
-#EXTINF:-1 group-title="Italy" radio="true",Rai Radio 1 Sport
-http://icestreaming.rai.it/13.mp3
+# 72FM: https://72fm.com/station/86b7c416-5e84-4b61-b88e-17b21be94967
+#EXTINF:-1 tvg-logo="https://www.reteradioazzurra.it/" group-title="Italy" radio="true",rete radio azzurra
+https://reteradioazzurra.radioca.st/stream
 # 72FM: https://72fm.com/station/a1091208-b22e-11e8-afe1-52543be04c81
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8b/5e/8b5ec10decf33621fcb663bc67d8bf83.jpg" group-title="Italy" radio="true",Antenna 1 FM 107.1 Roma
 http://a1-it.newradio.it/stream
 # 72FM: https://72fm.com/station/9608e82f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Antenna 1 Roma (107.1 MHz FM)
 http://s3.mediastreaming.it:7568/;
-# 72FM: https://72fm.com/station/bb8dfcf3-18c2-4816-b054-1162c35cb821
-#EXTINF:-1 group-title="Italy" radio="true",Radio Montecarlo
-http://icecast.unitedradio.it/RMC.mp3
+# 72FM: https://72fm.com/station/74cb9de6-d8c8-4295-a73c-aa6d3ced4ec8
+#EXTINF:-1 tvg-logo="https://www.radioradicale.it/sites/www.radioradicale.it/files/favicon_0.ico" group-title="Italy" radio="true",Radio Radicale
+https://live.radioradicale.it/live.mp3
 # 72FM: https://72fm.com/station/c3493c19-add2-4cc1-acd0-8591fb2e6a76
 #EXTINF:-1 group-title="Italy" radio="true",RMC Music Star Pino Daniele
 https://icy.unitedradio.it/Daniele.mp3
@@ -592,12 +673,12 @@ http://stream15.top-ix.org/partygroove
 # 72FM: https://72fm.com/station/38767341-e305-4b48-9251-d833ba561dd9
 #EXTINF:-1 group-title="Italy" radio="true",Music Star Franco Battiato
 https://icy.unitedradio.it/um057.mp3
-# 72FM: https://72fm.com/station/5e698557-ac9b-4cff-b7c2-125ac70c8b03
-#EXTINF:-1 group-title="Italy" radio="true",Radio 70 80 90 Dance Marche
-https://rblive.it:8060/radio.mp3
 # 72FM: https://72fm.com/station/ce0278f3-406e-11e9-aa55-52543be04c81
 #EXTINF:-1 tvg-logo="https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png" group-title="Italy" radio="true",Radio Kiss Kiss Sanremo Story
 http://ice08.fluidstream.net/kk_sanremo.mp3
+# 72FM: https://72fm.com/station/5e698557-ac9b-4cff-b7c2-125ac70c8b03
+#EXTINF:-1 group-title="Italy" radio="true",Radio 70 80 90 Dance Marche
+https://rblive.it:8060/radio.mp3
 # 72FM: https://72fm.com/station/9644467a-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Deltauno
 http://nr9.newradio.it:9540/;stream.mp3
@@ -610,27 +691,18 @@ http://5.196.98.235/stream1
 # 72FM: https://72fm.com/station/9628664c-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",RMC Duets
 http://edge.radiomontecarlo.net/rmcweb003
-# 72FM: https://72fm.com/station/d02c926b-6e4a-4d74-bf48-57eea61eb8ef
-#EXTINF:-1 group-title="Italy" radio="true",Classic Hits Radio CLASSIC HITS anni 70 80 90
-https://classichitsradio.streamingmedia.it/play
 # 72FM: https://72fm.com/station/bfcf9b2d-b008-420b-a342-b868aee01e19
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cb9577_389d27d8f1214dfba6d28a9381d7ccdc%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/cb9577_389d27d8f1214dfba6d28a9381d7ccdc%7emv2.png" group-title="Italy" radio="true",Globo Vintage
 https://m100.newradio.it/m100-64
 # 72FM: https://72fm.com/station/04284ca0-3852-46cc-b6f7-8a28b82c0587
 #EXTINF:-1 group-title="Italy" radio="true",RMC R&B
 https://icy.unitedradio.it/rmcweb003
-# 72FM: https://72fm.com/station/a1622d2e-280f-4b21-ac4c-6ff3daf3971e
-#EXTINF:-1 group-title="Italy" radio="true",RMC Running
-http://edge.radiomontecarlo.net/rmcweb021
 # 72FM: https://72fm.com/station/e81cf293-174e-4936-b3cb-db62decedacd
 #EXTINF:-1 tvg-logo="https://www.radio708090.it/wp-content/uploads/2021/10/708090-160-150x150.png" group-title="Italy" radio="true",70 80 90
 https://rblive.it:8170/radio.mp3
 # 72FM: https://72fm.com/station/cb9ebb6d-a3e4-11e8-abb8-52543be04c81
 #EXTINF:-1 tvg-logo="https://artofmusic.fm/resources/apple-touch-icon.png" group-title="Italy" radio="true",Art Of Music
 http://sr6.inmystream.info:8024/stream
-# 72FM: https://72fm.com/station/737d604c-df80-4886-8883-538febcb4189
-#EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2024/05/funky.radio_logo_300x300.webp" group-title="Italy" radio="true",Funky Radio
-https://funkyradio.streamingmedia.it/play.mp3
 # 72FM: https://72fm.com/station/68df3c3b-d0e5-4290-8a5e-364a33e2d334
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_66f56cd8d2f44aed871cfd62bf70af65~mv2.jpg" group-title="Italy" radio="true",# 100 NU-DISCO CENTRAL RADIO
 https://stream.zeno.fm/jqhhzffjynbuv
@@ -646,6 +718,9 @@ http://www.shoutcastitalia.com:8016/stream
 # 72FM: https://72fm.com/station/ac0e104d-6f38-4c7e-943b-ce9637a20acd
 #EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/static.radioliberta.net/wp-content/uploads/2024/05/18104309/cropped-android-chrome-512x512-1-180x180.png" group-title="Italy" radio="true",Radio Liberta
 http://onair15.xdevel.com:8258/;stream.aac
+# 72FM: https://72fm.com/station/422d2b66-2a6f-481e-b871-c907a52b3ffd
+#EXTINF:-1 group-title="Italy" radio="true",70s 80s DiscoFunk ModernSoul Boogie
+http://my.streamingmedia.it:8020/play
 # 72FM: https://72fm.com/station/7cf450b4-2b1d-4aaf-af19-5d1efb7ce95d
 #EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Rockstar: Bon Jovi
 https://icy.unitedradio.it/um1027.mp3
@@ -658,9 +733,6 @@ http://sphera.fluidstream.eu/fluid_wow.aac?FLID=6
 # 72FM: https://72fm.com/station/962af569-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Country Power Station
 http://shoutcast.countrypowerstation.net:8000/stream
-# 72FM: https://72fm.com/station/63028c50-508d-4759-863c-f8732e3a0418
-#EXTINF:-1 group-title="Italy" radio="true",Radio deejay
-http://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
 # 72FM: https://72fm.com/station/e98dc9e0-c582-4a8e-a90c-e14add53ed0f
 #EXTINF:-1 group-title="Italy" radio="true",DeeGay Pop & Dance
 https://stream.deegay.fm/deegay1.mp3
@@ -670,18 +742,12 @@ https://livex.radiopopolare.it/radiopop2
 # 72FM: https://72fm.com/station/5a96524a-5cde-11ea-be63-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.tmwradio.com/template/tmwradio.com/default/favicon/favicon144.png" group-title="Italy" radio="true",TMW Radio
 https://stream.tmwradio.com/tmw.aac
-# 72FM: https://72fm.com/station/470dd31b-edfd-4abc-8f38-d5507dd091b6
-#EXTINF:-1 group-title="Italy" radio="true",radio rai 3
-http://icestreaming.rai.it/3.mp3
 # 72FM: https://72fm.com/station/5cf3bd5f-760e-11ea-b1cf-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",ITALIA Rock Italiano
 https://icy.unitedradio.it/um076.mp3
 # 72FM: https://72fm.com/station/336779d5-ee59-4860-958d-b51884ae1c6a
 #EXTINF:-1 group-title="Italy" radio="true",RADIO NOSTALGIA LIGURIA
 http://rn1.fluidstream.eu/nostalgia_li.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3
-# 72FM: https://72fm.com/station/94629921-717b-4752-a945-f3795321cd0a
-#EXTINF:-1 tvg-logo="https://www.veniceclassicradio.eu/player/new/image/a.png" group-title="Italy" radio="true",VCR | Venice Classic Radio Auditorium
-https://uk2.streamingpulse.com/ssl/vcr1
 # 72FM: https://72fm.com/station/962d8e27-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",MUSIC STAR Tiziano Ferro
 http://icy.unitedradio.it/Ferro.mp3
@@ -700,9 +766,6 @@ http://onair22.streaming.xdevel.com:10084/;stream.mp3
 # 72FM: https://72fm.com/station/9609a3bb-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Manbassa
 http://91.121.90.186:8000/radiomanbassa
-# 72FM: https://72fm.com/station/044acc55-255b-4382-af22-ccf28445bb3e
-#EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/favicon.ico" group-title="Italy" radio="true",Radio Capital
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
 # 72FM: https://72fm.com/station/580ee01e-e202-4517-a920-7b90506d5949
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241011_201636010.jpg?alt=media&token=86da9735-db7e-4bd0-ab63-9a1ac120773f" group-title="Italy" radio="true",Discoradio - Il Ritmo della tua città
 http://icstream.rds.radio/disco
@@ -715,9 +778,15 @@ http://onair15.xdevel.com:8490/stream
 # 72FM: https://72fm.com/station/9645ea36-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.grupporadioamore.it/images/stories/loghi/radio_amore_i_migliori_anni.jpg" group-title="Italy" radio="true",Radio Amore i migliori anni Napoli
 http://onair20.xdevel.com:8204/;stream.mp3
+# 72FM: https://72fm.com/station/e610c4ad-1989-498e-8234-a5ca6f23b40b
+#EXTINF:-1 group-title="Italy" radio="true",Rai RadioDue
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
 # 72FM: https://72fm.com/station/1f7a58a0-5fc5-4c53-9861-1c1a520545ce
 #EXTINF:-1 group-title="Italy" radio="true",Venice Classic Radio *LIVE
 http://116.202.241.212:8020/stream
+# 72FM: https://72fm.com/station/12cfc0d8-0ff1-4dcb-9c63-1f8f46538dc9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWZRDrj/onda-rossa-logo.png" group-title="Italy" radio="true",Radio Onda Rossa
+https://s.streampunk.cc/ondarossa.ogg
 # 72FM: https://72fm.com/station/96160a7b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radioitaliauno.org/wp-content/uploads/2021/09/cropped-1296702-180x180.png?x40432" group-title="Italy" radio="true",Radio Italia Uno
 http://stream15.top-ix.org/radioitaliauno
@@ -730,12 +799,6 @@ http://onair11.xdevel.com:8000/;stream.mp3
 # 72FM: https://72fm.com/station/962d8eda-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",MUSIC STAR Mina
 http://edge.radiomontecarlo.net/rmcweb014
-# 72FM: https://72fm.com/station/905c5b6f-627b-464e-90e6-809d5b5d6fda
-#EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/img/logo_capital_1024x1024.png" group-title="Italy" radio="true",GEDI - Radio Capital
-https://streamcdnr8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
-# 72FM: https://72fm.com/station/636773fa-8503-4cee-8c16-c7e343e510b3
-#EXTINF:-1 tvg-logo="https://www.raiplaysound.it/cropgd/184x184/dl/img/2021/07/16/1626451934893_radio-tuttaitaliana_600x6001.png" group-title="Italy" radio="true",Rai Radio Tutta italiana
-http://icestreaming.rai.it/4.mp3
 # 72FM: https://72fm.com/station/fa80ca1a-24a7-4b01-85d7-2b5417c73b74
 #EXTINF:-1 group-title="Italy" radio="true",Giornale Radio Ultima Ora
 https://gr.fluidstream.eu/gr2.mp3
@@ -745,12 +808,12 @@ https://sphera.fluidstream.eu/easyrock.aac
 # 72FM: https://72fm.com/station/47bc5707-8672-11e9-aa30-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Italy 2 TV
 http://wms.shared.streamshow.it/italia2/mp4:italia2/chunklist_w723662020.m3u8
+# 72FM: https://72fm.com/station/af473ac5-1059-11e9-a80b-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.radio.it/assets/fav/apple-touch-icon.png" group-title="Italy" radio="true",Radio Mitology
+http://onair15.xdevel.com:9120/;
 # 72FM: https://72fm.com/station/9631b4a0-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Azzurra
 http://s3.mediastreaming.it:7100/;stream.mp3
-# 72FM: https://72fm.com/station/af42f402-dc96-4ae1-8b4c-063c7d86c0a6
-#EXTINF:-1 tvg-logo="https://radio-streaming.it/assets/image/radio/180/RadioSei250.png" group-title="Italy" radio="true",Radio Sei
-https://icecast.ithost.it/radiosei.ogg
 # 72FM: https://72fm.com/station/1fbe05e9-cc05-11e9-8502-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Subasio+
 http://icy.unitedradio.it/SubasioPiu.mp3
@@ -787,12 +850,12 @@ http://onair20.xdevel.com:8346/;
 # 72FM: https://72fm.com/station/9624edef-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio 19
 http://rn1.fluidstream.eu/radio19.aac?FLID=6
-# 72FM: https://72fm.com/station/85fc1a40-34ef-4d33-903f-191ec87f6982
-#EXTINF:-1 group-title="Italy" radio="true",Radio Monte Carlo Jazz
-http://edge.radiomontecarlo.net/rmcweb019
 # 72FM: https://72fm.com/station/f768db9e-bb3e-4b2c-b61a-dabc83f80afa
 #EXTINF:-1 group-title="Italy" radio="true",Electro Lounge
 https://electrolounge.stream.laut.fm/electrolounge
+# 72FM: https://72fm.com/station/9142e9ce-a3b4-4a45-a55f-4160843e932e
+#EXTINF:-1 group-title="Italy" radio="true",Radio Mozart Italia
+http://onair15.xdevel.com:7064/1/
 # 72FM: https://72fm.com/station/c8f34992-4f1d-44d3-a521-0e7895355f4f
 #EXTINF:-1 tvg-logo="https://www.radiobandito.it/wp-content/uploads/2022/04/cropped-cropped-rb-180x180.png" group-title="Italy" radio="true",Radio Bandito
 https://s2.radio.co/s8add5b3eb/listen
@@ -826,6 +889,9 @@ https://sphera.fluidstream.eu/easy_jazz.mp3
 # 72FM: https://72fm.com/station/0c6860fd-dfec-469d-9ef7-48711c43d465
 #EXTINF:-1 tvg-logo="https://www.radiobruno.it/wp-content/uploads/2023/10/logo-148-90-black1.png" group-title="Italy" radio="true",Radio Bruno Pentasport Fiorentina
 https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio
+# 72FM: https://72fm.com/station/4517523d-6fb7-4e1b-9b1a-22fcae079099
+#EXTINF:-1 group-title="Italy" radio="true",Venice Classic Radio Auditorium
+https://uk2.streamingpulse.com/ssl/vcr2
 # 72FM: https://72fm.com/station/70890285-e40f-40fb-b4d8-9ff6f254927b
 #EXTINF:-1 group-title="Italy" radio="true",Radio Gemini
 https://geminione.it/proxy/gemini/stream
@@ -838,69 +904,3 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeeja
 # 72FM: https://72fm.com/station/96294b0f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Italy" radio="true",Radio Web Italia - Only Italian Music
 http://188.165.206.81:10030/stream
-# 72FM: https://72fm.com/station/259504da-522f-4668-8f0f-9746756959cf
-#EXTINF:-1 group-title="Italy" radio="true",Radio Margherita
-https://streaming.radiomargherita.com/stream/radiomargherita
-# 72FM: https://72fm.com/station/9b9cbba2-f6d8-42c5-ac38-9ea33ff7e0e0
-#EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2023/10/7080discofunk_logo_600.png" group-title="Italy" radio="true",70s 80s Disco Funk ModernSoul Boogie
-http://my.streamingmedia.it:8020/play
-# 72FM: https://72fm.com/station/ad330c56-0bf6-4a60-9da6-8f95bb3e46dd
-#EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_deejay_suona_italia-320x320.png" group-title="Italy" radio="true",Deejay Suona Italia
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/playlist.m3u8
-# 72FM: https://72fm.com/station/e8c9fe92-e2ce-11e8-a9cc-52543be04c81
-#EXTINF:-1 group-title="Italy" radio="true",Today Dance Radio
-http://protostar.shoutca.st:8390/;
-# 72FM: https://72fm.com/station/abe84722-1ff1-471a-b048-7f761b2056a0
-#EXTINF:-1 group-title="Italy" radio="true",Radio Onda d'urto
-https://hochimin.urtostream.org:8443/radiondadurto.mp3
-# 72FM: https://72fm.com/station/ac6091b9-49bc-4768-b4dc-46051a4ecea2
-#EXTINF:-1 tvg-logo="https://forever80.altervista.org/wp-content/uploads/2020/01/FOREVER-70-DANCE-POP-320x207.jpg" group-title="Italy" radio="true",FOREVER 70
-https://stream.laut.fm/forever70
-# 72FM: https://72fm.com/station/1627892b-c68d-4d0b-9688-92b748764ef0
-#EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/favicon.ico" group-title="Italy" radio="true",GEDI - Radio Capital Funky Town
-https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8
-# 72FM: https://72fm.com/station/edbfa8f0-73b3-44e9-97cc-f687e2893aa8
-#EXTINF:-1 tvg-logo="https://www.raiplaysound.it/assets/img/canali/logo-raiisoradio.svg" group-title="Italy" radio="true",Rai Isoradio
-https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast
-# 72FM: https://72fm.com/station/47d3cfa8-2450-11e8-91bf-52543be04c81
-#EXTINF:-1 group-title="Italy" radio="true",Radio 105 - Coldplay
-http://icy.unitedradio.it/ColdPlay.mp3
-# 72FM: https://72fm.com/station/179d19ed-7a1a-4beb-85c6-dbe0cd5620b8
-#EXTINF:-1 group-title="Italy" radio="true",Radio Cuore Trapani
-http://94.23.67.20:8016/;
-# 72FM: https://72fm.com/station/9628ae51-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Italy" radio="true",Lady Radio
-http://onair15.xdevel.com:9126/;stream.mp3
-# 72FM: https://72fm.com/station/c6f4f114-6e99-4db0-999f-8cc80eeda712
-#EXTINF:-1 group-title="Italy" radio="true",RMC Music Star Zucchero
-https://icy.unitedradio.it/Zucchero.mp3
-# 72FM: https://72fm.com/station/5bf38ac3-97ee-47e3-ab8f-acb9f3a618a6
-#EXTINF:-1 group-title="Italy" radio="true",Radio Italia Network - Network satellite
-http://sr2.inmystream.info:8123/
-# 72FM: https://72fm.com/station/07ee48b6-cd55-4557-b569-8b717841b2e9
-#EXTINF:-1 group-title="Italy" radio="true",Radio Rouge Italy
-https://nl1.streamingpulse.com/ssl/radiorougeitaly
-# 72FM: https://72fm.com/station/9633aad9-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Italy" radio="true",RCS Napoli
-http://ice09.fluidstream.net/fluid0905.aac
-# 72FM: https://72fm.com/station/0af0f6c6-a779-4333-9975-2058383fa725
-#EXTINF:-1 group-title="Italy" radio="true",United Music Movies Pop
-http://icy.unitedradio.it/um030.mp3
-# 72FM: https://72fm.com/station/40c63975-b5c8-4e25-8d9c-09ccb953ea75
-#EXTINF:-1 tvg-logo="https://www.lolliradio.net/wp-content/uploads/2020/03/lolliradio-icon.png" group-title="Italy" radio="true",Lolliradio Italia
-https://stream.lolliradio.net/lolli_italia.mp3
-# 72FM: https://72fm.com/station/349f2f7e-3f30-4a67-a3a4-82f30394c0c6
-#EXTINF:-1 group-title="Italy" radio="true",Radio Rock
-https://onlineradiobox.com/json/it/radiorock/play?platform=web
-# 72FM: https://72fm.com/station/9627bbaa-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Italy" radio="true",Radio 105 - InDaKlubb
-http://icy.unitedradio.it/105InDaKlubb.mp3
-# 72FM: https://72fm.com/station/79e42983-2f06-4d72-a4aa-84563a3e7082
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OV3dyaf1RvpUEYh6nj2OrqPNt-s_uFs2vw&amp;usqp=CAU" group-title="Italy" radio="true",Radio Dimensione Italia
-http://nr8.newradio.it:9647/stream
-# 72FM: https://72fm.com/station/ccdd09af-a0dd-4277-88b6-0f3564d88d29
-#EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/capital/sites/2/2016/11/webradio-vivalitalia-320x320.jpg" group-title="Italy" radio="true",Radio Capital W L'Italia
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/playlist.m3u8
-# 72FM: https://72fm.com/station/75c74370-fa71-43e7-bc51-7732cd36aa1b
-#EXTINF:-1 group-title="Italy" radio="true",Radio Napoli Doc
-https://ice08.fluidstream.net/RadioNapoli.aac

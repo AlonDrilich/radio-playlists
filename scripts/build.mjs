@@ -2,7 +2,7 @@
 // Builds M3U playlists from the Radio Browser public directory
 // (https://www.radio-browser.info, data released to the public domain).
 //
-// No dependencies. Needs Node 20+ (global fetch, Intl.DisplayNames).
+// No dependencies. Needs Node 22+ (global fetch, Intl.DisplayNames).
 // Usage: node scripts/build.mjs
 
 import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
@@ -29,8 +29,18 @@ const TOP_N = 500;
 const GENRE_COUNT = 60;
 const MIN_GENRE_STATIONS = 10;
 // If the directory answers with far fewer stations than usual, something is
-// wrong upstream. Refuse to overwrite good playlists with a degraded set.
-const MIN_TOTAL_STATIONS = 20_000;
+// wrong upstream. Refuse to overwrite good playlists with a degraded set: an
+// absolute floor, and a floor relative to the previous build (index.json).
+// Set ALLOW_SHRINK=1 to accept a genuine drop.
+const MIN_TOTAL_STATIONS = 40_000;
+const MIN_KEEP_RATIO = 0.85;
+// A station with more tags than this is tag-stuffing: it still appears in its
+// country and in the top list, but is not placed in genre playlists.
+const MAX_TAGS_FOR_GENRES = 15;
+const MAX_TAG_LEN = 40;
+const MAX_NAME_LEN = 120;
+const MAX_URL_LEN = 1000;
+const RB_UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
 
 // Curated genre candidates. Radio Browser tags are free text, so each genre
 // lists the tags that mean the same thing. The top GENRE_COUNT candidates
@@ -139,12 +149,19 @@ async function fetchWithTimeout(url, accept = 'application/json') {
   return res;
 }
 
+/** Like fetchWithTimeout, but a mirror may not redirect us to another host. */
+async function fetchMirror(url) {
+  const res = await fetchWithTimeout(url);
+  if (new URL(res.url).host !== new URL(url).host) throw new Error(`redirected to ${new URL(res.url).host}`);
+  return res;
+}
+
 /** GET a Radio Browser path as JSON, trying each mirror in order. */
 async function api(path) {
   const errors = [];
   for (const base of MIRRORS) {
     try {
-      const res = await fetchWithTimeout(base + path);
+      const res = await fetchMirror(base + path);
       return await res.json();
     } catch (err) {
       errors.push(`${base}: ${err.message}`);
@@ -214,11 +231,19 @@ function flag(code) {
   return [...code.toUpperCase()].map((c) => String.fromCodePoint(0x1f1e6 + c.charCodeAt(0) - 65)).join('');
 }
 
-function cleanText(s) {
-  return String(s ?? '')
-    .replace(/[\u0000-\u001f\u007f]/g, ' ')
+// Line breaks (C0/C1 controls, U+2028/2029) become spaces; characters that hide or
+// reorder text (zero-width, bidi overrides and isolates, BOM, private use, the invisible
+// Unicode "tag" block) are dropped. ZWJ/ZWNJ stay: Persian, Indic scripts and emoji need them.
+const LINE_BREAKING = /[\u0000-\u001f\u007f-\u009f\u2028\u2029]/g;
+const INVISIBLE = /[\u200b\u2060-\u2064\u202a-\u202e\u2066-\u2069\ufeff\ufff9-\ufffb\ue000-\uf8ff]|[\u{e0000}-\u{e007f}\u{f0000}-\u{10ffff}]/gu;
+
+function cleanText(s, max = 200) {
+  const t = String(s ?? '')
+    .replace(LINE_BREAKING, ' ')
+    .replace(INVISIBLE, '')
     .replace(/\s+/g, ' ')
     .trim();
+  return Array.from(t).slice(0, max).join('').trim();
 }
 
 // Attribute values: no quotes (would end the value) and no commas (several
@@ -227,46 +252,76 @@ function attr(s) {
   return cleanText(s).replace(/[",]/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
+// Addresses that only mean something on the listener's own network. A public
+// playlist must not make a player or a home-automation box call into a LAN.
+function isLocalHost(host) {
+  const h = host.toLowerCase().replace(/^\[|\]$/g, '');
+  if (h === 'localhost' || h.endsWith('.localhost') || h.endsWith('.local') || h.endsWith('.internal') || h.endsWith('.lan')) return true;
+  const v4 = h.match(/^(\d+)\.(\d+)\.(\d+)\.(\d+)$/);
+  if (v4) {
+    const [a, b] = [Number(v4[1]), Number(v4[2])];
+    return a === 0 || a === 10 || a === 127 || (a === 169 && b === 254) || (a === 172 && b >= 16 && b <= 31) || (a === 192 && b === 168) || (a === 100 && b >= 64 && b <= 127);
+  }
+  if (h.includes(':')) return h === '::1' || h === '::' || /^f[cd]/.test(h) || /^fe[89ab]/.test(h) || h.startsWith('::ffff:');
+  return !h.includes('.'); // a bare name such as "radio" only resolves on a LAN
+}
+
+/** A plain http(s) URL: no credentials, no local host, printable ASCII, bounded. Returns null otherwise. */
+function safeUrl(value, { httpsOnly = false } = {}) {
+  const v = String(value ?? '').trim();
+  if (!v || v.length > MAX_URL_LEN) return null;
+  let u;
+  try {
+    u = new URL(v);
+  } catch {
+    return null;
+  }
+  if (u.protocol !== 'https:' && (httpsOnly || u.protocol !== 'http:')) return null;
+  if (u.username || u.password || !u.hostname || isLocalHost(u.hostname)) return null;
+  const out = /^[\x21-\x7e]+$/.test(v) ? v : u.href;
+  return /^[\x21-\x7e]+$/.test(out) && out.length <= MAX_URL_LEN ? out : null;
+}
+
 function streamUrl(st) {
   for (const u of [st.url_resolved, st.url]) {
-    const v = String(u ?? '').trim();
-    if (/^https?:\/\/[^\s]+$/i.test(v)) return v;
+    const v = safeUrl(u);
+    if (v) return v;
   }
   return null;
 }
 
 function logoUrl(favicon) {
-  const v = String(favicon ?? '').trim();
-  if (!/^https:\/\/[^\s",]+$/i.test(v) || v.length > 400) return null;
-  return v;
+  const v = safeUrl(favicon, { httpsOnly: true });
+  return v && v.length <= 400 && !/[",\s]/.test(v) ? v : null;
+}
+
+/** Same stream with a trailing slash, an uppercase host or a default port counts as one station. */
+function urlKey(url) {
+  const u = new URL(url);
+  return `${u.protocol}//${u.host}${u.pathname.replace(/\/$/, '')}${u.search}`;
 }
 
 function normalise(raw) {
-  const out = [];
-  const seen = new Set();
-  const seenUuid = new Set();
+  const candidates = [];
   for (const st of raw) {
-    if (st.lastcheckok !== 1) continue;
+    if (!st || st.lastcheckok !== 1) continue;
+    const uuid = String(st.stationuuid ?? '').trim().toLowerCase();
+    if (!RB_UUID.test(uuid)) continue;
     const url = streamUrl(st);
-    const name = cleanText(st.name);
-    if (!url || !name || !st.stationuuid) continue;
-    // Pages are ordered by name, so a station can repeat across a page
-    // boundary; dedupe by uuid as well as by stream URL.
-    if (seen.has(url) || seenUuid.has(st.stationuuid)) continue;
-    seen.add(url);
-    seenUuid.add(st.stationuuid);
+    const name = cleanText(st.name, MAX_NAME_LEN);
+    if (!url || !name) continue;
     const cc = String(st.countrycode ?? '').toUpperCase();
-    out.push({
-      uuid: st.stationuuid,
+    candidates.push({
+      uuid,
       name,
       url,
       logo: logoUrl(st.favicon),
       cc: /^[A-Z]{2}$/.test(cc) ? cc : null,
-      countryRaw: cleanText(st.country),
+      countryRaw: cleanText(st.country, 60),
       tags: String(st.tags ?? '')
         .toLowerCase()
         .split(',')
-        .map((t) => t.trim())
+        .map((t) => cleanText(t, MAX_TAG_LEN))
         .filter(Boolean),
       votes: Number(st.votes) || 0,
       clicks: Number(st.clickcount) || 0,
@@ -274,10 +329,23 @@ function normalise(raw) {
         String(st.codec).trim().toUpperCase() !== 'UNKNOWN'
         ? String(st.codec).trim().toUpperCase()
         : null,
-      bitrate: Number.isInteger(Number(st.bitrate)) && Number(st.bitrate) > 0 && Number(st.bitrate) < 10_000
+      bitrate: Number.isInteger(Number(st.bitrate)) && Number(st.bitrate) > 0 && Number(st.bitrate) < 1000
         ? Number(st.bitrate)
         : null,
     });
+  }
+  // Most-voted first, so when several entries share a stream URL (or a uuid) the
+  // best-supported one is kept, not whichever sorts first by name.
+  candidates.sort(byPopularity);
+  const out = [];
+  const seen = new Set();
+  const seenUuid = new Set();
+  for (const s of candidates) {
+    const key = urlKey(s.url);
+    if (seen.has(key) || seenUuid.has(s.uuid)) continue;
+    seen.add(key);
+    seenUuid.add(s.uuid);
+    out.push(s);
   }
   return out;
 }
@@ -308,7 +376,42 @@ function m3u(title, entries, groupOf) {
     lines.push(`#EXTINF:-1${attrs.length ? ' ' + attrs.join(' ') : ''},${s.name}`);
     lines.push(s.url);
   }
-  return lines.join('\n') + '\n';
+  const body = lines.join('\n') + '\n';
+  assertM3u(title, body, entries.length);
+  return body;
+}
+
+/**
+ * Last line of defence: every generated playlist must be exactly header, comments,
+ * and (#EXTINF, URL) pairs. If a hostile directory entry got a line break or a stray
+ * directive through the cleaning above, the build stops before anything is written.
+ */
+function assertM3u(title, body, expectedEntries) {
+  const fail = (why) => {
+    throw new Error(`Refusing to write "${title}": ${why}`);
+  };
+  if (/[\u0000-\u0009\u000b-\u001f\u007f-\u009f\u2028\u2029]/.test(body)) fail('control or line-separator character');
+  const lines = body.split('\n');
+  if (lines.pop() !== '') fail('missing final newline');
+  if (lines[0] !== '#EXTM3U') fail('missing #EXTM3U header');
+  let waiting = false;
+  let entries = 0;
+  for (const line of lines.slice(1)) {
+    if (line === '' || /^# [^\n]*$/.test(line)) continue;
+    if (line.startsWith('#EXTINF:')) {
+      if (waiting) fail('#EXTINF without a URL');
+      if (!/^#EXTINF:-1(?: tvg-logo="https:\/\/[^\s",]+")?(?: group-title="[^",]*")? radio="true",[^\n]+$/.test(line)) fail(`malformed #EXTINF: ${line.slice(0, 80)}`);
+      waiting = true;
+    } else if (/^https?:\/\/[\x21-\x7e]+$/.test(line)) {
+      if (!waiting) fail(`URL without #EXTINF: ${line.slice(0, 80)}`);
+      waiting = false;
+      entries++;
+    } else {
+      fail(`unexpected line: ${line.slice(0, 80)}`);
+    }
+  }
+  if (waiting) fail('#EXTINF without a URL at the end');
+  if (entries !== expectedEntries) fail(`expected ${expectedEntries} entries, found ${entries}`);
 }
 
 async function writeDir(dir, files) {
@@ -318,8 +421,28 @@ async function writeDir(dir, files) {
   for (const [name, body] of files) await writeFile(join(abs, name), body);
 }
 
+// README cells: names come from a community directory, so neutralise anything markdown or HTML would act on.
 function mdEscape(s) {
-  return String(s).replace(/\|/g, '\\|');
+  return String(s).replace(/[\\|`*_{}\[\]()<>#+!&~]/g, (c) => '\\' + c);
+}
+
+/** Refuse to replace a good build with a much smaller one (bad upstream day). ALLOW_SHRINK=1 overrides. */
+async function guardAgainstShrink(now, indexPath = join(ROOT, 'index.json')) {
+  if (process.env.ALLOW_SHRINK === '1') return;
+  let prev;
+  try {
+    prev = JSON.parse(await readFile(indexPath, 'utf8'));
+  } catch {
+    return; // first build
+  }
+  const problems = [];
+  for (const [key, label] of [['working_unique_stations', 'stations'], ['countries', 'country playlists'], ['genres', 'genre playlists']]) {
+    const before = Number(prev?.totals?.[key]);
+    if (before > 0 && now[key] < before * MIN_KEEP_RATIO) problems.push(`${label}: ${now[key]} now vs ${before} in the last build`);
+  }
+  if (problems.length) {
+    throw new Error(`Output shrank by more than ${Math.round((1 - MIN_KEEP_RATIO) * 100)}%; aborting without writing (set ALLOW_SHRINK=1 to accept).\n  ${problems.join('\n  ')}`);
+  }
 }
 
 // ---------------------------------------------------------------- main
@@ -332,7 +455,8 @@ async function main() {
   if (stations.length < MIN_TOTAL_STATIONS) {
     throw new Error(`Only ${stations.length} usable stations (expected >= ${MIN_TOTAL_STATIONS}); aborting without writing.`);
   }
-  stations.sort(byPopularity);
+  const stuffed = stations.filter((s) => s.tags.length > MAX_TAGS_FOR_GENRES).length;
+  process.stderr.write(`  ${stuffed} stations with more than ${MAX_TAGS_FOR_GENRES} tags are kept out of genre playlists\n`);
 
   process.stderr.write('Fetching tag counts...\n');
   const tags = await api('/json/tags?order=stationcount&reverse=true&hidebroken=true&limit=5000');
@@ -376,7 +500,7 @@ async function main() {
   // Genres
   const ranked = GENRES.map(([slug, name, aliases]) => {
     const set = new Set(aliases);
-    const members = stations.filter((s) => s.tags.some((t) => set.has(t)));
+    const members = stations.filter((s) => s.tags.length <= MAX_TAGS_FOR_GENRES && s.tags.some((t) => set.has(t)));
     const rank = aliases.reduce((n, a) => n + (tagCount.get(a) || 0), 0);
     return { slug, name, members, rank };
   })
@@ -416,6 +540,12 @@ async function main() {
     page_72fm: SITE,
   });
 
+  await guardAgainstShrink({
+    working_unique_stations: stations.length,
+    countries: countryFiles.length,
+    genres: genreFiles.length,
+  });
+
   await writeDir('countries', countryFiles);
   await writeDir('genres', genreFiles);
   await writeDir('top', topFiles);
@@ -428,7 +558,9 @@ async function main() {
     note: 'Stream URLs point to third-party stations. 72FM does not own, operate or curate them.',
     criteria: {
       lastcheckok: 1,
-      dedupe: 'by stream URL (url_resolved preferred)',
+      dedupe: 'by stream URL (url_resolved preferred); when entries share one, the most-voted is kept',
+      urls: 'public http(s) addresses only: no credentials, no localhost or private-network hosts',
+      genres: `stations with more than ${MAX_TAGS_FOR_GENRES} tags are left out of genre playlists`,
       sort: 'votes desc, then clickcount desc',
       per_file_cap: PER_FILE_CAP,
       min_country_stations: MIN_COUNTRY_STATIONS,
@@ -758,12 +890,18 @@ stations themselves.
 How the playlists are built (\`scripts/build.mjs\`):
 
 - only stations that passed Radio Browser's most recent stream check (\`lastcheckok = 1\`)
-- only \`http://\` and \`https://\` stream URLs; the resolved URL is used when available
-- duplicates removed by stream URL
+- only \`http://\` and \`https://\` stream URLs on public hosts (no credentials, no \`localhost\` or
+  private-network addresses); the resolved URL is used when available
+- station names and other text are cleaned: line breaks, control characters and invisible or
+  direction-changing characters are removed, and names are cut at ${MAX_NAME_LEN} characters
+- duplicates removed by stream URL; when several entries share one, the most-voted is kept
 - sorted by community votes, then click count; at most ${PER_FILE_CAP} stations per file
 - countries with at least ${MIN_COUNTRY_STATIONS} working stations
 - genres: a fixed list of common genres, each matching several spellings of the same tag
-  (for example \`hip-hop\`, \`hiphop\` and \`rap\`), ranked by how many stations use them
+  (for example \`hip-hop\`, \`hiphop\` and \`rap\`), ranked by how many stations use them;
+  stations with more than ${MAX_TAGS_FOR_GENRES} tags are left out of genre playlists
+- every generated file is checked before it is written: only a header, comments and
+  \`#EXTINF\`/URL pairs are allowed, otherwise the build stops
 
 Streams go offline, move or change format between checks, so **some entries will
 not play**. That is normal for any radio list. If one is broken, please
@@ -783,9 +921,10 @@ https://stream.example.com/live.mp3
 \`\`\`
 
 The \`# 72FM:\` line is a plain M3U comment that links to the station's page on
-72fm.com. Players skip lines that start with \`#\` and are not directives they know
-(checked against the VLC, mpv and pyradio M3U parsers), and it sits above the
-\`#EXTINF\` line so parsers that pair \`#EXTINF\` with the next line are unaffected.
+72fm.com. In the M3U format, lines that start with \`#\` and are not a directive the
+player knows are skipped, and this one sits above the \`#EXTINF\` line so parsers
+that pair \`#EXTINF\` with the next line are unaffected. If a player you use trips
+over it, [open an issue](../../issues).
 Quotes and commas are removed from attribute values, because some players split
 the \`#EXTINF\` line on its first comma.
 
@@ -856,7 +995,7 @@ ${countryRows}
 
 ## Build it yourself
 
-Needs Node.js 20 or newer, no dependencies:
+Needs Node.js 22 or newer, no dependencies:
 
 \`\`\`sh
 node scripts/build.mjs
@@ -866,7 +1005,9 @@ The script queries the Radio Browser API (\`de1\`, then \`de2\`, then \`all\` mi
 with the user agent \`${USER_AGENT}\`. It also writes the static browsing site in
 \`docs/\` (served by GitHub Pages). A GitHub Actions workflow runs it every Monday
 and commits the result. It refuses to write anything if the directory returns
-unusually few stations, so a bad API day cannot empty the playlists.
+unusually few stations (under 40,000, or more than 15% fewer than the last build),
+so a bad API day cannot empty the playlists. Station data from the directory is
+treated as untrusted input; see the list above.
 
 ## License
 
@@ -880,7 +1021,12 @@ Made by [72FM](https://72fm.com), a free web radio player built on the same dire
 `;
 }
 
-main().catch((err) => {
-  console.error(err.stack || String(err));
-  process.exit(1);
-});
+export { assertM3u, cleanText, guardAgainstShrink, mdEscape, m3u, normalise, safeUrl };
+
+// Run the build only when executed directly, so scripts/build.test.mjs can import the helpers.
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  main().catch((err) => {
+    console.error(err.stack || String(err));
+    process.exit(1);
+  });
+}

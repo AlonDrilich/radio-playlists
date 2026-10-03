@@ -4,6 +4,12 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/98adecf7-2683-4408-9be7-02d3f9098eb8
+#EXTINF:-1 group-title="United Kingdom" radio="true",BBC World Service
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+# 72FM: https://72fm.com/station/96063f25-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="United Kingdom" radio="true",Classic FM UK
+http://ice-the.musicradio.com/ClassicFMMP3
 # 72FM: https://72fm.com/station/9614bbb6-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",LBC Radio
 http://media-sov.musicradio.com/LBC973MP3Low
@@ -16,15 +22,36 @@ http://media-ice.musicradio.com/CapitalMP3
 # 72FM: https://72fm.com/station/c4077677-dc2f-11e9-a8ba-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Heart 80s
 https://media-ssl.musicradio.com/Heart80sMP3
+# 72FM: https://72fm.com/station/9608ade8-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2846/images/logoq.jpg" group-title="United Kingdom" radio="true",Heart London 106.2 [MP3]
+http://ice-sov.musicradio.com/HeartLondonMP3
+# 72FM: https://72fm.com/station/6efe216d-bf7e-11e9-8502-52543be04c81
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s220687q.png" group-title="United Kingdom" radio="true",LBC UK
+http://media-ice.musicradio.com/LBCUK
+# 72FM: https://72fm.com/station/962b27a3-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="United Kingdom" radio="true",Smooth Radio
+http://media-the.musicradio.com/SmoothEastMids
+# 72FM: https://72fm.com/station/9619e7d7-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s159857/images/logod.png" group-title="United Kingdom" radio="true",TMM 1
+https://listen-msmn.sharp-stream.com/nme1.mp3
 # 72FM: https://72fm.com/station/963ad02f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",LBC London (National stream)
 http://media-ice.musicradio.com/LBCUKMP3Low
+# 72FM: https://72fm.com/station/e7205cd4-dc30-11e9-a8ba-52543be04c81
+#EXTINF:-1 group-title="United Kingdom" radio="true",Heart 70s
+https://media-ssl.musicradio.com/Heart70sMP3
 # 72FM: https://72fm.com/station/0a1e0bb0-dc37-11e9-a8ba-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Gold
 https://media-ssl.musicradio.com/GoldMP3
 # 72FM: https://72fm.com/station/598c4d0e-6b06-43fb-bff4-717c591213a9
 #EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_world_service_colour.svg" group-title="United Kingdom" radio="true",BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+# 72FM: https://72fm.com/station/32da2113-229c-11e9-a80b-52543be04c81
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/472px-Classic_FM_logo.svg.png" group-title="United Kingdom" radio="true",Classic FM
+http://media-ice.musicradio.com/ClassicFMMP3
+# 72FM: https://72fm.com/station/478fd7f4-dc36-11e9-a8ba-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Smooth Chill
+https://media-ssl.musicradio.com/ChillMP3
 # 72FM: https://72fm.com/station/fa76f16f-dc31-11e9-a8ba-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Heart Dance
 https://media-ssl.musicradio.com/HeartDanceMP3
@@ -37,6 +64,12 @@ https://media-ssl.musicradio.com/Heart90sMP3
 # 72FM: https://72fm.com/station/9619e894-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="United Kingdom" radio="true",TMM 2
 https://listen-msmn.sharp-stream.com/nme2.mp3
+# 72FM: https://72fm.com/station/ba093e53-c020-484b-a6a6-b184e7382744
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61wHBPSryzL.png" group-title="United Kingdom" radio="true",Classic FM Relax
+http://media-the.musicradio.com/ClassicFM-M-Relax
+# 72FM: https://72fm.com/station/03387f8e-4a8b-4b2b-8740-5d35a5cc8c48
+#EXTINF:-1 group-title="United Kingdom" radio="true",RadioX UK
+http://icecast.thisisdax.com/RadioXUKMP3
 # 72FM: https://72fm.com/station/961917f2-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",LBC London (London stream) AAC
 http://media-sov.musicradio.com/LBCLondon
@@ -46,6 +79,9 @@ http://media-ice.musicradio.com/HeartLondon
 # 72FM: https://72fm.com/station/973c88e9-bf3d-11e8-aaf2-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",LBC London News
 http://media-ice.musicradio.com/LBC1152
+# 72FM: https://72fm.com/station/98137c2d-ce68-4e33-8cb7-ddf3692ecc9d
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="United Kingdom" radio="true",BBC Radio 4 (128k)
+http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
 # 72FM: https://72fm.com/station/1ee17d63-1702-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Classic FM UK
 http://media-the.musicradio.com/ClassicFM
@@ -55,6 +91,9 @@ http://media-ice.musicradio.com/HeartUKMP3
 # 72FM: https://72fm.com/station/33d17f6d-df26-4524-8e55-79acfc796ac7
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/afrique/images/icons/icon-128x128.png" group-title="United Kingdom" radio="true",BBC Afrique Radio
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8
+# 72FM: https://72fm.com/station/def842a8-e3aa-11e8-a9cc-52543be04c81
+#EXTINF:-1 group-title="United Kingdom" radio="true",BEST SMOOTH JAZZ - UK
+http://64.95.243.43:8002/stream
 # 72FM: https://72fm.com/station/b342f658-2726-11e8-91bf-52543be04c81
 #EXTINF:-1 tvg-logo="https://techno.fm/favicon.ico" group-title="United Kingdom" radio="true",Techno.FM
 http://stream.techno.fm/radio.mp3
@@ -82,6 +121,9 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 # 72FM: https://72fm.com/station/ea391ded-00f0-47e0-841c-d92663e11854
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/2560px-BBC_News_HD_Logo.svg.png" group-title="United Kingdom" radio="true",BBC News HD (720P)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+# 72FM: https://72fm.com/station/177dda8f-ce5f-4f18-a19e-c6c8b6f5319a
+#EXTINF:-1 group-title="United Kingdom" radio="true",TalkSPORT
+https://radio.talksport.com/stream
 # 72FM: https://72fm.com/station/9f1574b3-b2c1-11e9-acb2-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Classic FM at the Movies
 http://media-sov.musicradio.com/ClassicFM-M-Movies
@@ -94,15 +136,27 @@ http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radi
 # 72FM: https://72fm.com/station/fdbdc2b0-c184-437b-8643-9a5bfa45c253
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="United Kingdom" radio="true",BBC Radio 1
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
+# 72FM: https://72fm.com/station/14569027-6e99-41d0-bf1e-25a0627f971a
+#EXTINF:-1 group-title="United Kingdom" radio="true",GBNews
+http://listen-gbnews.sharp-stream.com/gbnews.mp3
+# 72FM: https://72fm.com/station/962a93da-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="United Kingdom" radio="true",DanceRadioUK - Dance UK
+http://uk2.internet-radio.com:8024/stream
 # 72FM: https://72fm.com/station/1c6dcd6f-88c6-4fd4-8191-078435168e85
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="United Kingdom" radio="true",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+# 72FM: https://72fm.com/station/d69fbc2c-530a-4d40-ac9f-56532356b248
+#EXTINF:-1 group-title="United Kingdom" radio="true",Chillout Ibiza FM
+https://edge3.peta.live365.net/b05055_128mp3
 # 72FM: https://72fm.com/station/962e9a46-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Heart 80s
 http://media-ice.musicradio.com/Heart80sMP3
-# 72FM: https://72fm.com/station/fec7847c-b936-4bb3-a4c0-610db9b66c93
-#EXTINF:-1 group-title="United Kingdom" radio="true",GB News
-http://listen-gbnews.sharp-stream.com/gbnews.mp3
+# 72FM: https://72fm.com/station/73490696-3343-4fa2-8045-b8d11e3bb0fb
+#EXTINF:-1 tvg-logo="https://www.linn.co.uk/" group-title="United Kingdom" radio="true",Linn Jazz
+http://radio.linn.co.uk:8000/autodj
+# 72FM: https://72fm.com/station/686a0847-a519-460d-b351-831e1a80d516
+#EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="United Kingdom" radio="true",Linn Classical
+http://radio.linn.co.uk:8004/autodj
 # 72FM: https://72fm.com/station/70ce5567-4d1e-4a07-baa5-f5f08ca4b2f6
 #EXTINF:-1 group-title="United Kingdom" radio="true",Exclusively Dire Straits
 https://streaming.exclusive.radio/er/direstraits/icecast.audio
@@ -115,15 +169,30 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 # 72FM: https://72fm.com/station/df3607fb-311d-43b1-bd0c-98d91a4f2df4
 #EXTINF:-1 tvg-logo="https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Capital Dance
 https://icecast.thisisdax.com/CapitalDanceMP3
+# 72FM: https://72fm.com/station/8e630042-ef66-4063-a403-7632117ef5c8
+#EXTINF:-1 group-title="United Kingdom" radio="true",Virgin Radio Chilled
+https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
+# 72FM: https://72fm.com/station/7b6de1b4-ec9e-4598-9409-2a2f03c48cb7
+#EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="United Kingdom" radio="true",Naim Jazz [320k aac]
+http://mscp3.live-streams.nl:8340/jazz-high.aac
+# 72FM: https://72fm.com/station/f468711f-a403-11e8-abb8-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Smooth Radio London 102.2
+http://media-the.musicradio.com/SmoothLondonMP3
 # 72FM: https://72fm.com/station/96222e78-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Gold AM 1548 London
 http://media-ice.musicradio.com/GoldMP3
+# 72FM: https://72fm.com/station/30820d12-0409-44b7-b5e8-edc594910d92
+#EXTINF:-1 tvg-logo="https://seva.ru/radio/radio.png" group-title="United Kingdom" radio="true",Радио Сева (Radio Seva Novgorodsev)
+https://seva.ru/radio/stream
 # 72FM: https://72fm.com/station/03e68f6d-1ca3-459f-891a-c55d84711646
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="United Kingdom" radio="true",BBC Radio 3 (128k)
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
 # 72FM: https://72fm.com/station/ccd9d009-b369-4451-9ebb-a2138bed734f
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6839q.png" group-title="United Kingdom" radio="true",BBC Radio 4 Extra (128k)
 http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
+# 72FM: https://72fm.com/station/3e1ea4e1-aac3-4617-93e3-b35b67b1ff86
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="United Kingdom" radio="true",BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
 # 72FM: https://72fm.com/station/96112075-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Radio X London (MP3)
 http://media-the.musicradio.com/RadioXLondonMP3
@@ -133,15 +202,12 @@ http://cast1.asurahosting.com:8621/med
 # 72FM: https://72fm.com/station/b445d099-6958-11ea-b1cf-52543be04c81
 #EXTINF:-1 tvg-logo="https://truckers.fm/favicon.ico" group-title="United Kingdom" radio="true",TruckersFM
 http://radio.truckers.fm/
-# 72FM: https://72fm.com/station/e8c4dc8d-2f73-4779-b074-90eefb98b388
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fbhlSLX.jpg" group-title="United Kingdom" radio="true",Radio X
-http://icecast.thisisdax.com/RadioXUKMP3
+# 72FM: https://72fm.com/station/7d196930-5f3d-45e2-b11a-d261c4515161
+#EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2022/virgin-radio-uk.jpg" group-title="United Kingdom" radio="true",Virgin Radio UK
+https://radio.virginradio.co.uk/stream
 # 72FM: https://72fm.com/station/963c8518-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Heart
 http://media-the.musicradio.com/HeartNorthLancsCumbria
-# 72FM: https://72fm.com/station/0dc3dc2d-04a1-4d53-9995-e1104fc637f6
-#EXTINF:-1 tvg-logo="https://www.danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="United Kingdom" radio="true",Dance UK Radio danceradiouk
-http://51.89.148.171:8022/stream
 # 72FM: https://72fm.com/station/2c788192-ca75-42c9-ace6-866087380796
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="United Kingdom" radio="true",TMM 2 (HQ)
 https://listen-msmn.sharp-stream.com/nme2high.mp3
@@ -160,6 +226,9 @@ http://media-ice.musicradio.com/ChillMP3
 # 72FM: https://72fm.com/station/d177cdd0-175c-11ea-a620-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",1Mix EDM Radio
 http://fr1.1mix.co.uk:8060/
+# 72FM: https://72fm.com/station/dfa6d153-83de-4112-bd36-2156720bdfc5
+#EXTINF:-1 group-title="United Kingdom" radio="true",Exclusively Supertramp
+https://streaming.exclusive.radio/er/supertramp/icecast.audio
 # 72FM: https://72fm.com/station/b157c703-f875-4c97-8f6a-b435e76c66f0
 #EXTINF:-1 tvg-logo="https://www.radiocaroline.co.uk/favicon.ico" group-title="United Kingdom" radio="true",Radio Caroline AAC 96 kbps
 http://78.129.202.200:8030/;
@@ -178,18 +247,30 @@ https://media-ssl.musicradio.com/LBCNewsUK
 # 72FM: https://72fm.com/station/a5be3d91-3546-11ea-8dd7-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",TrancePulse FM
 http://live.trance.ie:8000/stream
+# 72FM: https://72fm.com/station/49bc6344-102d-4c30-a7d8-b64112837509
+#EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="United Kingdom" radio="true",Naim Radio [lossless flac]
+http://mscp3.live-streams.nl:8360/flac.flac
 # 72FM: https://72fm.com/station/af518728-8669-440a-ab6a-b103dec0144c
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="United Kingdom" radio="true",Naim Classical
 http://mscp3.live-streams.nl:8250/class-high.aac
 # 72FM: https://72fm.com/station/3a0cdb51-c7d5-4446-b954-982e95ce18af
 #EXTINF:-1 tvg-logo="https://www.1mix.co.uk/favicon.ico" group-title="United Kingdom" radio="true",1Mix Radio - Trance (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320b
+# 72FM: https://72fm.com/station/57d9c792-5ead-4b1b-ae00-7ad1aa3b09e7
+#EXTINF:-1 tvg-logo="https://bsj.fm/assets/img/bsj-favicon.ico" group-title="United Kingdom" radio="true",BSJ.FM Best Smooth Jazz
+https://bsj.lucasmultimedia.com:8002/stream.ogg
 # 72FM: https://72fm.com/station/9634ab94-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",NTS Radio 2
 http://stream-relay-geo.ntslive.net/stream2
+# 72FM: https://72fm.com/station/47416a39-4289-47a9-8747-056843a60c0b
+#EXTINF:-1 tvg-logo="https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title="United Kingdom" radio="true",BritCom 2 - Pumpkin FM
+https://cast2.asurahosting.com/proxy/britcom2/stream
 # 72FM: https://72fm.com/station/88321903-6939-11e9-af37-52543be04c81
 #EXTINF:-1 tvg-logo="https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png" group-title="United Kingdom" radio="true",London Soul Radio
 http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a
+# 72FM: https://72fm.com/station/59813592-9a30-4e5c-bfc6-665724728582
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="United Kingdom" radio="true",BBC Live News (128k)
+http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8
 # 72FM: https://72fm.com/station/ba93ec29-66c9-4bee-8f71-b71481001c8e
 #EXTINF:-1 group-title="United Kingdom" radio="true",Exclusively AC/DC
 https://streaming.exclusive.radio/er/acdc/icecast.audio
@@ -217,6 +298,9 @@ http://media-the.musicradio.com/RadioXLondon
 # 72FM: https://72fm.com/station/dce75ec5-a0f8-4bba-bf4c-2827c871490c
 #EXTINF:-1 group-title="United Kingdom" radio="true",Strange Radio - Pumpkin FM
 https://cast2.asurahosting.com/proxy/strangeradio/stream
+# 72FM: https://72fm.com/station/64712b5f-a8c3-48cd-a8d2-2f19c94b3473
+#EXTINF:-1 group-title="United Kingdom" radio="true",DnB Liquified
+http://antares.dribbcast.com:5000/stream
 # 72FM: https://72fm.com/station/8c78482a-17db-4057-a7c7-8fa14b3c3ce9
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/aWa7xGKfBh.jpg" group-title="United Kingdom" radio="true",House Nation UK
 https://streaming.radio.co/s06bd9d805/listen
@@ -235,6 +319,9 @@ http://uk7.internet-radio.com:8352/
 # 72FM: https://72fm.com/station/7ccca232-b731-4060-9baf-c3a1a5b992e7
 #EXTINF:-1 tvg-logo="https://techno.fm/images/logos/logo_80px.png" group-title="United Kingdom" radio="true",Techno.FM (320 kbit)
 http://stream.techno.fm/radio320.mp3
+# 72FM: https://72fm.com/station/8cf13f16-df99-4fd8-b152-ab8218563a36
+#EXTINF:-1 tvg-logo="https://pumpkinfm.com/wp-content/uploads/2019/02/BritComOne300x300.jpg" group-title="United Kingdom" radio="true",BritCom 1 - British Comedy Radio (Pumpkin FM OTRN)
+https://cast2.asurahosting.com/proxy/britcom1/stream
 # 72FM: https://72fm.com/station/ff337e7b-4b92-4fa1-886f-fa889dbdf272
 #EXTINF:-1 group-title="United Kingdom" radio="true",England - Heart London Radio
 http://ice-the.musicradio.com/HeartLondonMP3
@@ -277,6 +364,9 @@ http://streaming.radio.co/s20224a067/listen
 # 72FM: https://72fm.com/station/822b1291-d6c9-4493-a008-6e87c2e943da
 #EXTINF:-1 group-title="United Kingdom" radio="true",Sonatica Classical Radio
 http://orion.shoutca.st:8742/160
+# 72FM: https://72fm.com/station/d5468df4-e6d0-11e9-a96c-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="United Kingdom" radio="true",Slow Focus | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape
 # 72FM: https://72fm.com/station/fba2054a-0812-4a8f-b9bf-ab0546c5cccd
 #EXTINF:-1 group-title="United Kingdom" radio="true",Kniteforce Radio
 https://kniteforce.out.airtime.pro/kniteforce_a
@@ -328,9 +418,6 @@ https://streaming04.liveboxstream.uk/proxy/roksta14/stream
 # 72FM: https://72fm.com/station/0e0f2961-5c53-4c52-af70-eebe1b2af496
 #EXTINF:-1 tvg-logo="https://24-7nicheradio.com/wp-content/uploads/2017/04/psychedelic.png" group-title="United Kingdom" radio="true",24-7 Psychedelic Rock
 http://antares.dribbcast.com:4289/stream
-# 72FM: https://72fm.com/station/aaad1ee5-08a2-4d15-8efb-1c69b4daa761
-#EXTINF:-1 group-title="United Kingdom" radio="true",Linn Jazz
-http://radio.linn.co.uk:8000/autodj
 # 72FM: https://72fm.com/station/15a7162c-45a3-4bde-b864-aa7731c6dd87
 #EXTINF:-1 group-title="United Kingdom" radio="true",Smooth Relax
 https://icecast.thisisdax.com/SmoothRelaxMP3
@@ -340,6 +427,9 @@ http://fr2.1mix.co.uk:9000/aach
 # 72FM: https://72fm.com/station/c58c0009-ad0d-4ed5-a208-a8e797885a75
 #EXTINF:-1 group-title="United Kingdom" radio="true",House Music Radio
 https://uk4-vn.mixstream.net/8128/listen.mp3
+# 72FM: https://72fm.com/station/dfaf9dd9-6705-494d-bf96-ce7fbdbba021
+#EXTINF:-1 group-title="United Kingdom" radio="true",Capital Chill
+https://media-ssl.musicradio.com/CapitalChill
 # 72FM: https://72fm.com/station/29d3eb85-b212-4c93-9448-7dd768ea88c0
 #EXTINF:-1 tvg-logo="https://24-7nicheradio.com/wp-content/uploads/2022/06/24-7-The-60s.png" group-title="United Kingdom" radio="true",24-7 The ’60s
 http://antares.dribbcast.com:4361/stream
@@ -361,9 +451,6 @@ https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061
 # 72FM: https://72fm.com/station/afd2672a-d921-11e8-a9cc-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Giants of Jazz Radio
 http://streaming.radio.co/s297e618a7/listen
-# 72FM: https://72fm.com/station/e70ca27e-0c1a-4045-8996-d754914b999d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Eric_Clapton_-_Royal_Albert_Hall_-_Wednesday_24th_May_2017_EricClaptonRAH240517-30_%2834987232355%29_%28cropped%29.jpg/1200px-Eric_Clapton_-_Royal_Albert_Hall_-_Wednesday_24th_May_2017_EricClaptonRAH240517-30_%2834987232355%29_%28cropped%29.jpg" group-title="United Kingdom" radio="true",Eric Clapton
-https://streaming.exclusive.radio/er/ericclapton/icecast.audio
 # 72FM: https://72fm.com/station/526b6bad-68f3-4197-9cfa-fa8b341830bb
 #EXTINF:-1 group-title="United Kingdom" radio="true",MoE Lofi
 http://stream.zeno.fm/3u1qndyk8rhvv
@@ -376,6 +463,9 @@ https://admin.stream.rinse.fm/proxy/kool/stream
 # 72FM: https://72fm.com/station/a33fbe2d-a308-40a1-a96d-9aaa27557e84
 #EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_two/colour_default.svg" group-title="United Kingdom" radio="true",BBC Radio 2
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.norewind.m3u8
+# 72FM: https://72fm.com/station/d8dc960b-20d2-45a1-96cf-a79af5c64a61
+#EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="United Kingdom" radio="true",Naim Jazz
+http://mscp3.live-streams.nl:8340/jazz-flac.flac
 # 72FM: https://72fm.com/station/918b6360-1354-11e9-a80b-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Heart FM Glasgow
 http://media-the.musicradio.com/HeartGlasgow?amsparams=playerid:UKRP;skey:1546958888&aw_0_req.gdpr=true&aw_0_1st.playerid=UKRP&amp;aw_0_1st.ts=1546958886&nmcuid=null&aw_0_1st.nmc=%5B%22%22%5D
@@ -394,6 +484,9 @@ https://stream-mixtape-geo.ntslive.net/mixtape2
 # 72FM: https://72fm.com/station/45afe60a-8bda-4b4b-a2b7-e9fab765b028
 #EXTINF:-1 group-title="United Kingdom" radio="true",Redroad FM 102.4
 http://s45.myradiostream.com:13784/;
+# 72FM: https://72fm.com/station/30369d73-370f-4403-b5d5-39843a00fcec
+#EXTINF:-1 tvg-logo="https://www.danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="United Kingdom" radio="true",DanceRadioUK - Dance UK
+https://dancestream.danceradiouk.com/stream/1/
 # 72FM: https://72fm.com/station/5ed77642-9f68-484a-8bbc-af00a4acc629
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/460/5fb3bb6151ee4.png" group-title="United Kingdom" radio="true",Boom Radio UK
 https://listen-boomradio.sharp-stream.com/65_boom_radio_live_192
@@ -403,6 +496,9 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660
 # 72FM: https://72fm.com/station/df59a041-0f80-466b-b257-4f551229a771
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s44490q.png" group-title="United Kingdom" radio="true",BBC Asian Network (128k)
 http://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d128000.norewind.m3u8
+# 72FM: https://72fm.com/station/1a1ef3a9-0f99-11ea-a87e-52543be04c81
+#EXTINF:-1 group-title="United Kingdom" radio="true",Virgin Radio Anthems
+https://radio.virginradio.co.uk/stream-anthems
 # 72FM: https://72fm.com/station/005917e5-1770-11ea-a620-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.nonstopplay.com/wp-content/uploads/2022/12/favicon.png" group-title="United Kingdom" radio="true",NonStopPlay Pure Dance
 http://stream.nonstopplay.co.uk/nsppd-32k-aac
@@ -412,9 +508,9 @@ http://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF
 # 72FM: https://72fm.com/station/10edd1ec-192b-40ff-aaf2-645471d04dfb
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000037533466-mgfbsp-t500x500.jpg" group-title="United Kingdom" radio="true",CruiseOne Radio
 https://solid24.streamupsolutions.com/proxy/cmxicxxx?mp=/256kbps
-# 72FM: https://72fm.com/station/3c0b37c0-644b-4178-b63c-1a3b3e31b01f
-#EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="United Kingdom" radio="true",Linn Jazz
-http://mscp3.live-streams.nl:8340/jazz-high.aac
+# 72FM: https://72fm.com/station/5984167a-b25e-4eec-a878-ff9253ee0c4a
+#EXTINF:-1 group-title="United Kingdom" radio="true",KISS UK
+https://live-kiss.sharp-stream.com/kiss100.mp3
 # 72FM: https://72fm.com/station/b7925a87-ce5d-48f1-b0df-fb30d75aa2c4
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/339/67698698b4c61.png" group-title="United Kingdom" radio="true",Radio Essex
 https://stream.aiir.com/ujzy590c3stvv
@@ -427,27 +523,36 @@ http://stream6.hippynet.co.uk:8023/automation
 # 72FM: https://72fm.com/station/a0be6d17-c517-44f7-bc04-0c15bd56e63e
 #EXTINF:-1 tvg-logo="https://24-7nicheradio.com/wp-content/uploads/2017/04/24-7-Reggae.png" group-title="United Kingdom" radio="true",24-7 Reggae
 http://antares.dribbcast.com:4346/stream
+# 72FM: https://72fm.com/station/46f13c3e-823f-4f1e-ab82-5a7b145c337f
+#EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Smooth Country
+https://media-ssl.musicradio.com/SmoothCountry
 # 72FM: https://72fm.com/station/854a35f1-442b-4982-a7da-febeb8e16e49
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="United Kingdom" radio="true",BBC Radio Scotland (128k)
 http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8
 # 72FM: https://72fm.com/station/996a22a8-9bc1-48dc-8f08-e46b71dafc66
 #EXTINF:-1 tvg-logo="https://media-ssl.musicradio.com/favicon.ico" group-title="United Kingdom" radio="true",Gold London
 https://media-ssl.musicradio.com/Gold?isLoggedIn=false&dax_version=release_2019&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1612127423858_0.6253666805372976&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1612127423&aw_0_req.userConsentV2=CPA5x3uPA5x3uAGABCENBLCgAAAAAAAAAATIAAAAAAAA.YAAAAAAAAAAA
+# 72FM: https://72fm.com/station/1408a44f-4c34-49ac-a746-80715c2fea54
+#EXTINF:-1 tvg-logo="https://www.my45radio.co.uk/apple-touch-icon.png" group-title="United Kingdom" radio="true",45 Radio
+https://stream1.themediasite.co.uk:7009/stream
+# 72FM: https://72fm.com/station/5ed6b080-b967-4202-8bb5-96b4557aee5d
+#EXTINF:-1 group-title="United Kingdom" radio="true",Street Sounds Radio
+https://streaming.broadcastradio.com:10525/streetsd
 # 72FM: https://72fm.com/station/c86ac89d-f196-11e8-a471-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",FUNK2DISCO
 http://stream.laut.fm/funk2disco
 # 72FM: https://72fm.com/station/7cc0c486-92cb-4509-9b93-775e41950ed3
 #EXTINF:-1 group-title="United Kingdom" radio="true",Classic FM Movies
 https://media-ice.musicradio.com/ClassicFMMoviesMP3
+# 72FM: https://72fm.com/station/9c100db7-ba97-4e6f-821f-dba1ed08ad52
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-HFUM5iVBOYInWEED-oro7Vg-t200x200.jpg" group-title="United Kingdom" radio="true",Rinse UK
+https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 # 72FM: https://72fm.com/station/a740cc4c-9563-4fbe-a13f-e7f9e89b7441
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="United Kingdom" radio="true",BBC Radio 1 (128k)
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8
 # 72FM: https://72fm.com/station/9604400f-2c5a-4462-b290-43c7dcb951c7
 #EXTINF:-1 group-title="United Kingdom" radio="true",Linn Radio
 http://radio.linn.co.uk:8003/autodj
-# 72FM: https://72fm.com/station/cf23f407-af34-40d6-acc3-874ebeb84cb6
-#EXTINF:-1 group-title="United Kingdom" radio="true",Heart LOndon
-http://ice-sov.musicradio.com/HeartLondonMP3
 # 72FM: https://72fm.com/station/c0ba5cba-d388-4ecc-824e-734e767174e2
 #EXTINF:-1 tvg-logo="https://bbc.co.uk/favicon.ico" group-title="United Kingdom" radio="true",BBC for Australasia
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia
@@ -487,12 +592,15 @@ http://s2.xrad.io:8058/stream
 # 72FM: https://72fm.com/station/00a8642f-98b2-4cd7-86f9-53f6dfaba63c
 #EXTINF:-1 group-title="United Kingdom" radio="true",Virgin Radio
 https://radio.virginradio.co.uk/stream?aw_0_1st.platform=vr-web
-# 72FM: https://72fm.com/station/c669835f-64ca-45b0-ae19-498febb83cb1
-#EXTINF:-1 tvg-logo="https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title="United Kingdom" radio="true",BritCom 2 - British Comedy Radio (Pumpkin FM OTRN)
-https://cast2.asurahosting.com/proxy/britcom2/stream
 # 72FM: https://72fm.com/station/81001fc1-72fd-483c-91f7-8475bdc8bbc4
 #EXTINF:-1 group-title="United Kingdom" radio="true",Surf Rock Radio
 http://139.162.89.191:8020/radio.mp3
+# 72FM: https://72fm.com/station/a7180d12-5a8c-46f9-a27f-be73889c3db5
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="United Kingdom" radio="true",BBC World Service (128k)
+http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d128000.norewind.m3u8
+# 72FM: https://72fm.com/station/658e103a-ed12-41d7-be75-e3dd6b55902b
+#EXTINF:-1 group-title="United Kingdom" radio="true",Joy Hits UK
+http://joyhits.online/joyhitshq.mp3
 # 72FM: https://72fm.com/station/9859afb8-d110-4373-b29d-96dc3e981a4d
 #EXTINF:-1 tvg-logo="https://assets.radiox.co.uk/2024/36/radio-x-chilled-1726064662-editorial-short-form-0.jpg" group-title="United Kingdom" radio="true",Radio X Chilled
 http://media-ice.musicradio.com/RadioXChilledMP3
@@ -508,6 +616,9 @@ https://stream.pcradio.ru/dire_straits-hi
 # 72FM: https://72fm.com/station/58341289-63e4-4ef6-b760-09bbfd420659
 #EXTINF:-1 group-title="United Kingdom" radio="true",KICKS fm
 https://s6.citrus3.com:8452/stream
+# 72FM: https://72fm.com/station/7a6953ac-e6d1-11e9-a96c-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="United Kingdom" radio="true",Expansions | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape3
 # 72FM: https://72fm.com/station/e847f0b7-4694-4d96-a56a-3bc9543c5705
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/a1/f8/126083/1/c300.png" group-title="United Kingdom" radio="true",Classic FM Essential Classical
 https://icecast.thisisdax.com/ClassicFM-M-Essential
@@ -517,12 +628,18 @@ http://23.81.33.82:24914/stream
 # 72FM: https://72fm.com/station/17116268-baaa-4a2e-88ee-dc83f5b71a33
 #EXTINF:-1 group-title="United Kingdom" radio="true",ARfm
 http://108.163.245.230:9016/stream
+# 72FM: https://72fm.com/station/dbb7ac2b-cda4-42ef-9e7a-18c62dade3f6
+#EXTINF:-1 group-title="United Kingdom" radio="true",1940s Radio HS - Pumpkin FM
+https://cast2.asurahosting.com/proxy/1940sradio/stream
 # 72FM: https://72fm.com/station/19da0207-9c0a-4697-a0db-4571f8354af8
 #EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_6music/colour_default.svg" group-title="United Kingdom" radio="true",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8
 # 72FM: https://72fm.com/station/1cedf594-9460-47c9-ad66-1c3bda41901b
 #EXTINF:-1 tvg-logo="https://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Classic FM Video Game Music
 https://icecast.thisisdax.com/ClassicFM-M-Gaming
+# 72FM: https://72fm.com/station/96243040-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="United Kingdom" radio="true",Radio Jackie (HiEnd)
+http://media.radiojackie.com:5873/
 # 72FM: https://72fm.com/station/962bc116-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://extra.resonance.fm/favicon.ico" group-title="United Kingdom" radio="true",Resonance Extra
 http://stream.resonance.fm:8000/resonance-extra
@@ -532,12 +649,12 @@ https://joyhits.online/joyhits.flac.ogg
 # 72FM: https://72fm.com/station/ceab5124-608a-4eb1-8149-d65829f9a9d7
 #EXTINF:-1 tvg-logo="https://images.radio.co/station_logos/s5c5da6a36.20240717025356.png" group-title="United Kingdom" radio="true",Birdsong Radio
 https://a1.radio.co/s5c5da6a36/listen
-# 72FM: https://72fm.com/station/86cbd3d9-dfce-4c62-830a-c92fe552d476
-#EXTINF:-1 group-title="United Kingdom" radio="true",Davide of MIMIC
-https://streaming04.liveboxstream.uk/proxy/davideof?mp=/stream
 # 72FM: https://72fm.com/station/0816371a-d5a5-439e-beb2-717d9cf7e689
 #EXTINF:-1 group-title="United Kingdom" radio="true",Radio England - Pumpkin FM
 https://cast2.asurahosting.com/proxy/radioengland/stream
+# 72FM: https://72fm.com/station/86cbd3d9-dfce-4c62-830a-c92fe552d476
+#EXTINF:-1 group-title="United Kingdom" radio="true",Davide of MIMIC
+https://streaming04.liveboxstream.uk/proxy/davideof?mp=/stream
 # 72FM: https://72fm.com/station/14ed260e-abd1-401c-8cf0-7e4625f58dae
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/35209.v3.png" group-title="United Kingdom" radio="true",Energy FM - Dance Music Radio
 https://radio.streemlion.com:1875/stream
@@ -583,6 +700,9 @@ http://ads-direct.sharp-stream.com/1458.mp3
 # 72FM: https://72fm.com/station/6eef88eb-396c-4393-86aa-1ba04ff91918
 #EXTINF:-1 group-title="United Kingdom" radio="true",Hard Techno Radio
 http://eilo.org:8000/hard
+# 72FM: https://72fm.com/station/bc67e55c-26b9-4426-8412-8c16032694be
+#EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="United Kingdom" radio="true",Naim Radio [320k aac]
+https://mscp3.live-streams.nl:8362/high.aac
 # 72FM: https://72fm.com/station/8b2c4231-98cf-11e9-a605-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Matryoshka.FM (Матрёшка)
 http://213.159.214.57:8000/matryoshka
@@ -595,6 +715,9 @@ http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs8.aac
 # 72FM: https://72fm.com/station/4b8f078e-ea1e-11e9-a96c-52543be04c81
 #EXTINF:-1 tvg-logo="https://laut.fm/assets/touch-icons/apple-touch-icon.png?9e172e15" group-title="United Kingdom" radio="true",Funk2Disco
 http://funk2disco.stream.laut.fm/funk2disco?t302=2019-10-08_17-09-47&uuid=242e4734-ae25-4995-bf64-11ae6ab5a169
+# 72FM: https://72fm.com/station/e231378a-e6d1-11e9-a96c-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="United Kingdom" radio="true",4 To The Floor | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape5
 # 72FM: https://72fm.com/station/4b6aebf2-0ced-4058-8e71-52c701359b93
 #EXTINF:-1 tvg-logo="https://rokitradio.com/images/channels/comedy_gold.jpg" group-title="United Kingdom" radio="true",ROKit Radio : Comedy Gold
 https://streaming06.liveboxstream.uk/proxy/rokstar8/stream
@@ -604,6 +727,9 @@ http://138.201.52.248:8459/stream
 # 72FM: https://72fm.com/station/39c07f86-2d14-469a-994b-968de965e75a
 #EXTINF:-1 group-title="United Kingdom" radio="true",Pink Floyd
 https://stream.pcradio.ru/Pink_Floyd-hi
+# 72FM: https://72fm.com/station/f9a4e918-7df8-42ba-862f-21828d7c9b09
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s293430/images/logod.png?t=638095610890000000" group-title="United Kingdom" radio="true",Just House Music
+https://justhousemusic.radioca.st/stream
 # 72FM: https://72fm.com/station/4ad5bdc7-01e5-47c9-a1f9-751671b4707e
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logod.jpg" group-title="United Kingdom" radio="true",CAPITAL - The UK's No.1 Hit Music Station
 https://media-ssl.musicradio.com/CapitalUK
@@ -655,21 +781,27 @@ https://streaming06.liveboxstream.uk/proxy/rokstar7/stream
 # 72FM: https://72fm.com/station/9645fc2b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Solid Gold Gem AM
 http://4483.cloudrad.io:8130/;
+# 72FM: https://72fm.com/station/4f9dd235-e6d1-11e9-a96c-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="United Kingdom" radio="true",Poolside | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape4
 # 72FM: https://72fm.com/station/2a363fb7-37f5-4b44-b920-55ec0d01b745
 #EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_four_extra/colour_default.svg" group-title="United Kingdom" radio="true",BBC Radio 4 Extra
 http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
-# 72FM: https://72fm.com/station/f2010630-1fc4-45db-b85e-257b425051a0
-#EXTINF:-1 group-title="United Kingdom" radio="true",1940s Radio - Home Service - UK 1940s 1950s (Pumpkin FM OTRN)
-https://cast2.asurahosting.com/proxy/1940sradio/stream
 # 72FM: https://72fm.com/station/f422b275-d5e2-4702-8f75-43deed1c267b
 #EXTINF:-1 tvg-logo="https://pumpkinfm.com/wp-content/uploads/2021/01/AmericanGold300x300.jpg" group-title="United Kingdom" radio="true",American Gold - Pumpkin FM
 https://cast2.asurahosting.com/proxy/americangold/stream
+# 72FM: https://72fm.com/station/f0f9c15e-7b8a-49b5-8d3d-96563d8972e3
+#EXTINF:-1 group-title="United Kingdom" radio="true",FSN World News
+https://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3
 # 72FM: https://72fm.com/station/96231b55-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="United Kingdom" radio="true",Heart Torbay 96.4
 http://media-sov.musicradio.com/HeartTorbay
 # 72FM: https://72fm.com/station/846085bc-a3bb-4a18-a2b5-f3c62bceffd4
 #EXTINF:-1 group-title="United Kingdom" radio="true",BedlamDnB
 http://c11.radioboss.fm:8318/stream
+# 72FM: https://72fm.com/station/15dfa7b3-70f5-4dda-9eb3-daf62daae922
+#EXTINF:-1 group-title="United Kingdom" radio="true",Aah Classical Radio - Bach
+https://radio.hearme.fm:9040/stream
 # 72FM: https://72fm.com/station/87bf3c96-9fac-49fa-9e24-994665ac1d8b
 #EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_ulster/colour_default.svg" group-title="United Kingdom" radio="true",BBC Radio Ulster
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8
@@ -697,12 +829,18 @@ https://s3.myradiostream.com/:59506/stream/1/
 # 72FM: https://72fm.com/station/a272b55d-7a7a-4e1c-92d5-293769adb80c
 #EXTINF:-1 tvg-logo="https://joyhits.online/wp-content/uploads/2023/12/JoyMusic7.png" group-title="United Kingdom" radio="true",Joy Hits Radio
 https://joyhits.online/joyhits.aac
+# 72FM: https://72fm.com/station/cda70b2c-e8f0-4d05-9b74-dc26b0a187b1
+#EXTINF:-1 tvg-logo="https://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="United Kingdom" radio="true",The Tube | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape26
 # 72FM: https://72fm.com/station/dca27db4-05db-4fc6-91fe-5d55992c2339
 #EXTINF:-1 tvg-logo="https://irp.cdn-website.com/d8990fde/site_favicon_16_1654769166393.ico" group-title="United Kingdom" radio="true",Flashback Radio
 https://live.flashbackcentral.co.uk/radio/8000/apple
 # 72FM: https://72fm.com/station/a0dc8001-a079-404c-ade3-87b5dc0ecc09
 #EXTINF:-1 group-title="United Kingdom" radio="true",Nation Radio Scotland
 http://tx.sharp-stream.com/icecast.php?i=nationscotlandi.aac&&___cb=354499296267956
+# 72FM: https://72fm.com/station/bbdc66c4-293f-4c6a-82ca-94f9b0d37414
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="United Kingdom" radio="true",BBC Radio 1
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8
 # 72FM: https://72fm.com/station/14fec6dc-74ea-4874-9b05-99e512d92e1d
 #EXTINF:-1 group-title="United Kingdom" radio="true",Smooth Chill (UK)
 http://icecast.thisisdax.com/SmoothChillMP3
@@ -712,6 +850,9 @@ http://media-ice.musicradio.com/HeartSussexMP3?.mp3
 # 72FM: https://72fm.com/station/4f622aa4-8276-4188-b49d-8b5134f72605
 #EXTINF:-1 group-title="United Kingdom" radio="true",24-7 Rock ‘n’ Roll
 http://antares.dribbcast.com:4266/stream
+# 72FM: https://72fm.com/station/3c66c82a-e6d0-11e9-a96c-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.nts.live/favicon.ico" group-title="United Kingdom" radio="true",Memory Lane | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape6
 # 72FM: https://72fm.com/station/d9bd6f49-db43-41cd-9e21-ffc9db8ecd38
 #EXTINF:-1 group-title="United Kingdom" radio="true",America's Greatest 70s Hits
 http://hydra.cdnstream.com/1823_128
@@ -724,183 +865,42 @@ http://stream.gaydio.co.uk/gaydiosc.mp3
 # 72FM: https://72fm.com/station/6dc71790-65af-4557-a940-d8864eb439e6
 #EXTINF:-1 group-title="United Kingdom" radio="true",PsyStream
 http://radio.psymusic.co.uk:8040/radio1_192k.mp3
+# 72FM: https://72fm.com/station/79a3cd9e-6205-40c4-aefe-8369bdd4649a
+#EXTINF:-1 group-title="United Kingdom" radio="true",Soul Central Radio
+http://65.21.202.84:8519/stream/
+# 72FM: https://72fm.com/station/963d0626-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="United Kingdom" radio="true",Capital FM AAC
+http://ice-the.musicradio.com/Capital
 # 72FM: https://72fm.com/station/9d029cf2-bff5-4382-ad56-cabb568b84b4
 #EXTINF:-1 group-title="United Kingdom" radio="true",BBC Radio 5 Live (UK-HLS-Akamai)
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8
+# 72FM: https://72fm.com/station/2b4f2953-55ab-48fc-bdaa-cd3525a63f23
+#EXTINF:-1 tvg-logo="https://www.liveradio.uk/files/images/405648/resized/180x172c/islands_fm.jpg" group-title="United Kingdom" radio="true",Islands FM
+http://radio.canstream.co.uk:8040/live.mp3
 # 72FM: https://72fm.com/station/94e61c2c-a6fb-4ff0-8b3d-1041a3e8e42e
 #EXTINF:-1 group-title="United Kingdom" radio="true",The Voice Of Doom
 https://streaming.galaxywebsolutions.com:9046/stream
 # 72FM: https://72fm.com/station/ae0d2a18-d4fe-4123-a33b-07ba5a4540f9
 #EXTINF:-1 group-title="United Kingdom" radio="true",Greatest Hits Radio (Devon)
 http://edge-bauermz-03-gos2.sharp-stream.com/net2devon.mp3?aw_0_1st.skey=1602676850
-# 72FM: https://72fm.com/station/f2e9cd87-8f8c-4ebf-8479-eae9b2998168
-#EXTINF:-1 tvg-logo="https://britasia.tv/wp-content/uploads/2021/01/britasia-radio-logo.jpg" group-title="United Kingdom" radio="true",BritAsia Radio
-https://s4.radio.co/sfefce156f/listen
+# 72FM: https://72fm.com/station/9391f9be-cbc1-4c84-8da5-cf7eebefaab2
+#EXTINF:-1 tvg-logo="https://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="United Kingdom" radio="true",Labyrinth | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape31
 # 72FM: https://72fm.com/station/634d8abf-8a2f-4e4e-ac85-58a4c4b831ca
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/45f6ba11-a495-4500-abae-41c0b999df6c.png" group-title="United Kingdom" radio="true",Easy 50s
 https://streaming.exclusive.radio/uber/easy50/icecast.audio
-# 72FM: https://72fm.com/station/69dd0abe-c515-4418-be34-617e7321c7ef
-#EXTINF:-1 group-title="United Kingdom" radio="true",Virgin Radio Anthems
-https://radio.virginradio.co.uk/stream-anthems
+# 72FM: https://72fm.com/station/20bcbbc0-75b1-43ab-9919-6230ce0d8bba
+#EXTINF:-1 tvg-logo="https://sohoradiolondon.com/wp-content/themes/sohoradio-jan-2023/build/images/favicons/sohoradio-192x192.jpg" group-title="United Kingdom" radio="true",Soho Radio London
+https://sohoradiomusic.doughunt.co.uk:8010/128mp3
 # 72FM: https://72fm.com/station/a1e4582c-af68-41f8-9785-77bd09f0a6b9
 #EXTINF:-1 group-title="United Kingdom" radio="true",Judas Priest
 https://stream.pcradio.ru/judas_priest-hi
+# 72FM: https://72fm.com/station/3fb45633-813e-4c6b-b262-e90c3846d10d
+#EXTINF:-1 tvg-logo="https://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="United Kingdom" radio="true",Field Recordings | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape23
 # 72FM: https://72fm.com/station/d8d21c43-efbb-4d27-9abc-c0671e769d71
 #EXTINF:-1 group-title="United Kingdom" radio="true",Actual Radio
 https://securestreams.autopo.st:1174/;
 # 72FM: https://72fm.com/station/08b5f7e8-8968-429f-8326-04cc3122735b
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logog.png?t=3379" group-title="United Kingdom" radio="true",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
-# 72FM: https://72fm.com/station/a1b40e7a-94fe-4199-bd8f-31a7ed074a53
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="United Kingdom" radio="true",BBC Radio One
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_one.m3u8
-# 72FM: https://72fm.com/station/078ef4cc-44c2-4956-8821-d6d0ce8e36a9
-#EXTINF:-1 group-title="United Kingdom" radio="true",24-7 Motown
-http://antares.dribbcast.com:4237/stream
-# 72FM: https://72fm.com/station/5df5fc8a-3259-4d29-988d-814ab6332ece
-#EXTINF:-1 tvg-logo="https://genxradio.co.uk/wp-content/uploads/2021/11/cropped-GenXAsset-9-192x192.png" group-title="United Kingdom" radio="true",Gen X Radio
-https://s2.radio.co/sf25229e16/listen
-# 72FM: https://72fm.com/station/1cf73729-6f43-4625-b5b2-e37033a2751b
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/2f/8b/35046/c300.png" group-title="United Kingdom" radio="true",World Radio Network Russian (WRN)
-http://shoutcast.wrn.org:8025/WRN-R
-# 72FM: https://72fm.com/station/e063d808-025f-43b4-8ad5-7784a1b781aa
-#EXTINF:-1 tvg-logo="https://assets.smoothradio.com/2020/16/smooth-chill-1587657338-editorial-mid-form-0.jpg" group-title="United Kingdom" radio="true",Smooth Chill (UK) 48k AAC+
-http://icecast.thisisdax.com/SmoothChill
-# 72FM: https://72fm.com/station/35773c40-a6d0-4316-bc39-18477a8c63d0
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="United Kingdom" radio="true",BBC Radio 3 Unwind (128k)
-http://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d128000.norewind.m3u8
-# 72FM: https://72fm.com/station/5a71d128-cb37-4d62-8b8b-a705e95ad2d8
-#EXTINF:-1 group-title="United Kingdom" radio="true",Dubplate.fm Dub &Bass
-https://sc2.dubplate.fm/radio/8000/dubandbass/uhifi
-# 72FM: https://72fm.com/station/b6d47672-aa01-4363-bd26-32f0e8d9570e
-#EXTINF:-1 tvg-logo="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=a9529f376f" group-title="United Kingdom" radio="true",House Fusion Radio (UK)
-https://housefusionradiouk.out.airtime.pro/housefusionradiouk_a
-# 72FM: https://72fm.com/station/961c007d-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="United Kingdom" radio="true",Heart Norfolk 102.4
-http://ice-sov.musicradio.com/HeartNorfolkMP3
-# 72FM: https://72fm.com/station/d288325b-a5ed-42c4-820b-f7b99ab39bd1
-#EXTINF:-1 tvg-logo="https://www.psychedelicsecretsradio.com/favicon.ico" group-title="United Kingdom" radio="true",Psychedelic Secret radio
-https://solid48.streamupsolutions.com/proxy/bglsokon?mp=/=stream
-# 72FM: https://72fm.com/station/43e0dd7d-4d78-4355-9261-6b1f8042796a
-#EXTINF:-1 group-title="United Kingdom" radio="true",Easy Radio
-https://listen-nation.sharp-stream.com/breezyradiouk.mp3
-# 72FM: https://72fm.com/station/4161dc02-8f78-11e8-a3de-52543be04c81
-#EXTINF:-1 group-title="United Kingdom" radio="true",RadioArt: Just Blues
-http://live.radioart.com/fJust_blues.mp3
-# 72FM: https://72fm.com/station/219ecaef-145b-4742-b790-be5bfe346f7a
-#EXTINF:-1 group-title="United Kingdom" radio="true",Past Perfect Radio
-http://s2.xrad.io:8046/;
-# 72FM: https://72fm.com/station/96113e43-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="United Kingdom" radio="true",Banita Maxx Radio
-http://91.232.4.33:9454/stream
-# 72FM: https://72fm.com/station/3503ebb1-de0e-11e8-a9cc-52543be04c81
-#EXTINF:-1 group-title="United Kingdom" radio="true",Gaydio
-http://stream.gaydio.co.uk/gaydionwhq.mp3
-# 72FM: https://72fm.com/station/2e79d453-28ec-45d2-b511-e9d5f8055f28
-#EXTINF:-1 group-title="United Kingdom" radio="true",Ozzy Osbourne
-https://stream.pcradio.ru/ozzy_osbourne-hi
-# 72FM: https://72fm.com/station/c78f16b7-2e96-4560-912c-0fd2313e3d2f
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="United Kingdom" radio="true",BBC Radio 1 Anthems (128k)
-http://as-hls-ww-live.akamaized.net/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d128000.norewind.m3u8
-# 72FM: https://72fm.com/station/0ea2b325-307b-45d4-80ce-f948302b1366
-#EXTINF:-1 group-title="United Kingdom" radio="true",Heart Musicals
-https://media-ice.musicradio.com/HeartMusicalsMP3
-# 72FM: https://72fm.com/station/8b5d407b-dc32-11e9-a8ba-52543be04c81
-#EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Heart South Wales
-https://media-ssl.musicradio.com/HeartSouthWalesMP3
-# 72FM: https://72fm.com/station/96447669-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://www.internet-radio.com/favicon.ico" group-title="United Kingdom" radio="true",Pink Noise Radio
-http://uk1.internet-radio.com:8004/
-# 72FM: https://72fm.com/station/67b7f9d7-2ead-4525-95de-b105b63d2451
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Mi-Soul_logo.png/220px-Mi-Soul_logo.png" group-title="United Kingdom" radio="true",Mi-Soul
-https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3
-# 72FM: https://72fm.com/station/9ddf7d9b-0c0b-470e-b3fe-481691046717
-#EXTINF:-1 group-title="United Kingdom" radio="true",Radio Central 24
-http://philae.shoutca.st:8459/
-# 72FM: https://72fm.com/station/04bd267f-046a-4275-b7c5-c29f9e25efc9
-#EXTINF:-1 group-title="United Kingdom" radio="true",Neon Radio - 80s & 90s Pop & Dance
-https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3
-# 72FM: https://72fm.com/station/afb31087-30b4-44c7-8469-b3526d8f3bb5
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/440/66d2d8d6d54ea.png" group-title="United Kingdom" radio="true",Total Soul (UK) 192kb mp3
-https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/
-# 72FM: https://72fm.com/station/97826f0f-c91b-4e58-8c77-dc1a9ca1f519
-#EXTINF:-1 group-title="United Kingdom" radio="true",Boom Light
-https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3
-# 72FM: https://72fm.com/station/3e841d56-72bc-4728-a8df-fa8389f0f974
-#EXTINF:-1 group-title="United Kingdom" radio="true",FunkURadio
-https://furfmcou.radioca.st/stream
-# 72FM: https://72fm.com/station/d70f6ba4-b6a4-4309-81e6-1edc2f987bdc
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="United Kingdom" radio="true",BBC Radio Ulster (128k)
-http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8
-# 72FM: https://72fm.com/station/96061de8-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="United Kingdom" radio="true",Pride Radio 90s
-http://philae.shoutca.st:8807/stream
-# 72FM: https://72fm.com/station/ef93618c-686d-45fb-908e-8da696365f8b
-#EXTINF:-1 group-title="United Kingdom" radio="true",Diva Radio Disco
-https://stream.deevaradio.net:10443/divaradiodisco
-# 72FM: https://72fm.com/station/30153bd1-4c23-4439-a24c-da2820bce863
-#EXTINF:-1 group-title="United Kingdom" radio="true",Radio Caroline Flashback
-http://sc2.radiocaroline.net:10558/;stream.mp3
-# 72FM: https://72fm.com/station/1d62a120-704a-4285-a574-c17f48b155f8
-#EXTINF:-1 group-title="United Kingdom" radio="true",Led Zeppelin
-https://stream.pcradio.ru/Led_Zeppelin-hi
-# 72FM: https://72fm.com/station/0277452d-494c-4ef4-ae37-b527bb60b20e
-#EXTINF:-1 group-title="United Kingdom" radio="true",Break Pirates
-http://bpstream.hostco.de:3000/
-# 72FM: https://72fm.com/station/0b86c019-ea36-41f8-9ab1-e2edca9c5b90
-#EXTINF:-1 tvg-logo="https://24-7nicheradio.com/favicon.ico" group-title="United Kingdom" radio="true",24-7 Party
-http://antares.dribbcast.com:4412/stream
-# 72FM: https://72fm.com/station/9621dafd-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="United Kingdom" radio="true",Capital FM South Coast 103.2
-http://media-ice.musicradio.com/CapitalSouthCoastMP3
-# 72FM: https://72fm.com/station/cc4928e9-f513-4c59-b42c-56097b881431
-#EXTINF:-1 tvg-logo="https://ilikeitoldskool.co.uk/favicon.ico" group-title="United Kingdom" radio="true",I Like It Oldskool
-https://ilikeitoldskool.radioca.st/stream
-# 72FM: https://72fm.com/station/34975b12-c845-4a2f-b39d-5acb25b10855
-#EXTINF:-1 tvg-logo="https://ueni-favicons.s3.eu-central-1.amazonaws.com/production/232a0fb69aa04d5b992efefc9d199abd_IMG_20200628_095825_063.jpg" group-title="United Kingdom" radio="true",Big Beat Radio
-http://s4.citrus3.com:8366/stream
-# 72FM: https://72fm.com/station/99d8fad1-51f0-44f3-943c-ee6b4a2864f4
-#EXTINF:-1 group-title="United Kingdom" radio="true",Trancetechnic Radio
-https://s11.ssl-stream.com/ssl/trancete?mp=/stream
-# 72FM: https://72fm.com/station/629f2dfd-acc1-44eb-b782-aa4bb26778c5
-#EXTINF:-1 tvg-logo="https://24-7nicheradio.com/wp-content/uploads/2017/04/legends.png" group-title="United Kingdom" radio="true",24-7 Legends
-http://antares.dribbcast.com:4295/stream
-# 72FM: https://72fm.com/station/96231826-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="United Kingdom" radio="true",Heart Oxfordshire 102.6 & 97.4
-http://media-sov.musicradio.com/HeartOxfordshireMP3
-# 72FM: https://72fm.com/station/f9445080-a401-11e8-abb8-52543be04c81
-#EXTINF:-1 tvg-logo="https://nationradio.london/wp-content/uploads/2024/08/cropped-icon188bet-180x180.png" group-title="United Kingdom" radio="true",Nation Radio London
-http://tx.sharp-stream.com/http_live.php?i=thamesradio.mp3
-# 72FM: https://72fm.com/station/24bd569e-8299-42b4-82b0-2490125a74d2
-#EXTINF:-1 group-title="United Kingdom" radio="true",Discover Trance Radio
-https://uk01.discovertrance.com/;.mp3
-# 72FM: https://72fm.com/station/8953d72b-a0a9-4762-8020-88710deebd3e
-#EXTINF:-1 group-title="United Kingdom" radio="true",Nation 90s
-http://listen-nation.sharp-stream.com/nationradio90s.aac
-# 72FM: https://72fm.com/station/16584bf8-e3e5-447e-8fe1-dee16cc17268
-#EXTINF:-1 group-title="United Kingdom" radio="true",The Prodigy
-https://stream.pcradio.ru/The_Prodigy-hi
-# 72FM: https://72fm.com/station/f7fd408e-02a5-49a1-8c03-078727e97e8f
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logod.png" group-title="United Kingdom" radio="true",BBC RADIO 1 - The biggest new pop and all-day vibes
-http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8
-# 72FM: https://72fm.com/station/8ac60632-a1a8-4f8b-8bf2-a0e77bd74e3c
-#EXTINF:-1 tvg-logo="https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif" group-title="United Kingdom" radio="true",1Mix Radio - EDM (UK) 320kb mp3
-http://fr2.1mix.co.uk:9000/320h
-# 72FM: https://72fm.com/station/216bfb85-1988-4b24-8159-d792659ae31b
-#EXTINF:-1 tvg-logo="https://24-7nicheradio.com/wp-content/uploads/2022/06/24-7Soul.png" group-title="United Kingdom" radio="true",24-7 Soul
-http://antares.dribbcast.com:4456/stream
-# 72FM: https://72fm.com/station/ce9dced9-1160-450d-a81e-d2df3981e14e
-#EXTINF:-1 tvg-logo="https://selectradioapp.com/wp-content/uploads/2023/11/cropped-selecticon-180x180.png" group-title="United Kingdom" radio="true",Select Radio
-https://streaming05.liveboxstream.uk/proxy/selectr1/stream
-# 72FM: https://72fm.com/station/a648882e-b8d3-422a-9a79-307ccab8c406
-#EXTINF:-1 tvg-logo="https://www.247onlineradio.com/wp-content/uploads/2023/04/247-Blues-Radio.jpg" group-title="United Kingdom" radio="true",24/7 Blues Radio
-https://ec3.yesstreaming.net:3685/stream
-# 72FM: https://72fm.com/station/9bc64606-6eb1-40bd-901e-aed7c510baa0
-#EXTINF:-1 tvg-logo="https://bootboyradio.net/wp-content/uploads/2021/02/cropped-900logosquare-192x192.jpg" group-title="United Kingdom" radio="true",Boot Boy Radio
-https://streaming04.liveboxstream.uk/proxy/dwain?mp=/stream
-# 72FM: https://72fm.com/station/d3fced30-5c36-4889-a30c-763e65c68c6e
-#EXTINF:-1 group-title="United Kingdom" radio="true",Gem Radio Gold
-http://gemradio.radioca.st/stream
-# 72FM: https://72fm.com/station/bf8c3fd8-80bb-46f3-929b-effac0a1c31f
-#EXTINF:-1 group-title="United Kingdom" radio="true",Radio X 90s
-https://media-ice.musicradio.com/RadioX90sMP3

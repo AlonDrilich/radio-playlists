@@ -4,18 +4,30 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/b9e1f76e-41fd-11e9-aa55-52543be04c81
+#EXTINF:-1 tvg-logo="https://i0.wp.com/bluesradio.gr/wp-content/uploads/2021/06/cropped-24-7bug.png?fit=180%2c180&#038;ssl=1" group-title="Greece" radio="true",Blues Radio
+http://cast3.radiohost.ovh:8352/
 # 72FM: https://72fm.com/station/bf841429-a5f3-11e8-abb8-52543be04c81
 #EXTINF:-1 group-title="Greece" radio="true",KISS FM 100.6
 http://live.radiokiss.gr/kissfm1006hq.mp3
+# 72FM: https://72fm.com/station/961f9a79-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.real.gr/wp-content/uploads/2025/02/realgr-icon-150x150.png" group-title="Greece" radio="true",Real FM 97.8
+http://netradio.live24.gr/realfm
 # 72FM: https://72fm.com/station/b5455fcb-e07e-11e9-a8ba-52543be04c81
 #EXTINF:-1 group-title="Greece" radio="true",Trance Athena
 http://cast.streams.ovh:8008/stream
 # 72FM: https://72fm.com/station/961ddf4b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.kiss929.gr/sites/default/files/kiss.ico" group-title="Greece" radio="true",Kiss 92.9
 http://netradio.live24.gr/kissfmathens
+# 72FM: https://72fm.com/station/96185f35-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Greece" radio="true",Sport FM 94.6
+http://netradio.live24.gr/sportfm7712
 # 72FM: https://72fm.com/station/2d35016c-59d8-11e9-a622-52543be04c81
 #EXTINF:-1 group-title="Greece" radio="true",Skai 100.3
 http://netradio.live24.gr/skai1003
+# 72FM: https://72fm.com/station/605b2521-e764-42ba-8be0-473fc096a3b3
+#EXTINF:-1 tvg-logo="https://www.ertecho.gr/wp-content/uploads/2022/06/cropped-ertecho-favicon-180x180.png" group-title="Greece" radio="true",Zeppelin 106.7
+https://radiostreaming.ert.gr/ert-zeppelin
 # 72FM: https://72fm.com/station/9611d448-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Greece" radio="true",Sfera 102.2
 http://sfera.live24.gr/sfera4132
@@ -25,6 +37,9 @@ http://netradio.live24.gr/athinaradio
 # 72FM: https://72fm.com/station/96463caa-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Greece" radio="true",Ellinikos 93.2
 http://netradio.live24.gr/orange9320
+# 72FM: https://72fm.com/station/dcbbb866-0116-11ea-bbf2-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.psyndora.com/images/favicon-144x144.png" group-title="Greece" radio="true",Psyndora Psytrance
+http://cast.magicstreams.gr:9111/stream
 # 72FM: https://72fm.com/station/1e59df64-fe9a-4f40-924b-0659391dbec6
 #EXTINF:-1 tvg-logo="https://www.vanillaradio.com/wp-content/uploads/2016/06/apple-icon-120x120.png" group-title="Greece" radio="true",Vanilla Radio Smooth Flavors
 https://smooth.vanillaradio.com:8032/live
@@ -61,6 +76,9 @@ http://best.live24.gr/best1222
 # 72FM: https://72fm.com/station/961bcdba-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png" group-title="Greece" radio="true",ERA Proto Programma
 http://radiostreaming.ert.gr/ert-proto
+# 72FM: https://72fm.com/station/96183962-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Greece" radio="true",ERA Kosmos
+http://radiostreaming.ert.gr/ert-kosmos
 # 72FM: https://72fm.com/station/701d3a6d-06e0-4d1f-9521-7742e725ba94
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/25_Chillout.jpg" group-title="Greece" radio="true",Radio Art - Chillout
 http://air.radioart.com/fChillout.mp3
@@ -76,9 +94,15 @@ http://cast.magicstreams.gr:9125/stream
 # 72FM: https://72fm.com/station/370b93b5-f279-4b19-9b57-29049adffe00
 #EXTINF:-1 group-title="Greece" radio="true",Easy FM 972
 https://stream.radiojar.com/cthtwxk5yvduv.mp3
+# 72FM: https://72fm.com/station/c8f270d9-4836-448b-83e0-773aab6f5440
+#EXTINF:-1 group-title="Greece" radio="true",Metropolis 95.5
+http://metropolis.live24.gr/metropolis955thess
 # 72FM: https://72fm.com/station/96c2b150-1cad-11e8-a334-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Solo Piano
 http://live.radioart.com/fSolo_piano.mp3
+# 72FM: https://72fm.com/station/b40e9589-aa4b-11e9-88f4-52543be04c81
+#EXTINF:-1 group-title="Greece" radio="true",Sport FM 94.6
+http://sportfm.live24.gr/sportfm7712?344b685e2518b0370f0d731432f51438
 # 72FM: https://72fm.com/station/96b37cae-4795-4e9a-92be-178f16216ecf
 #EXTINF:-1 group-title="Greece" radio="true",Rythmos 94.9
 http://stream.radiojar.com/aw1w2xfx1vduv
@@ -148,6 +172,9 @@ https://fresh.vanillaradio.com:8028/live
 # 72FM: https://72fm.com/station/9da93993-ec49-4ca6-9279-c47b7e80cf28
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Flamenco
 http://air.radioart.com/fFlamenco.mp3
+# 72FM: https://72fm.com/station/446a3e3d-a2fb-453d-abbd-3369bde1c214
+#EXTINF:-1 tvg-logo="https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png" group-title="Greece" radio="true",ΕΡΑσπορ
+https://radiostreaming.ert.gr/ert-erasport
 # 72FM: https://72fm.com/station/b0907d78-8536-4327-9a26-d1a2c70d464f
 #EXTINF:-1 group-title="Greece" radio="true",Pepper 96.6
 http://pepper966.live24.gr/pepper9660
@@ -175,6 +202,9 @@ http://stream.radiojar.com/cthtwxk5yvduv
 # 72FM: https://72fm.com/station/6055627a-d8b5-11e8-a9cc-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Yoga
 http://air-tunein.radioart.com/fYoga.mp3
+# 72FM: https://72fm.com/station/b4489557-58f3-4971-bc3a-c57c9a6b497d
+#EXTINF:-1 tvg-logo="https://www.ertecho.gr/wp-content/uploads/2022/06/cropped-ertecho-favicon-180x180.png" group-title="Greece" radio="true",ΕΡΤ Kosmos
+https://radiostreaming.ert.gr/ert-kosmos
 # 72FM: https://72fm.com/station/4ed5e97c-7540-40d9-8ce1-7cea18080f08
 #EXTINF:-1 tvg-logo="https://7000fm.gr/images/favicon.ico" group-title="Greece" radio="true",7000FM
 https://stream.7000fm.gr/radio/8000/radio.mp3
@@ -184,9 +214,18 @@ http://eco.onestreaming.com:8536/stream?type=http&nocache=48875
 # 72FM: https://72fm.com/station/a645428e-9fd0-4afa-bba4-6ff8b591648e
 #EXTINF:-1 group-title="Greece" radio="true",Αρχάγγελος 94.1
 http://eco.onestreaming.com:8536/;
+# 72FM: https://72fm.com/station/58d67b9f-5ddf-4931-b878-2118d20200bc
+#EXTINF:-1 tvg-logo="https://www.metrosport.gr/metrosport/img/favicon/apple-touch-icon.png" group-title="Greece" radio="true",Metropolis
+https://metromedia.live24.gr/metropolis955thess
 # 72FM: https://72fm.com/station/33ef2a84-8ea6-4864-998e-09f3a823b753
 #EXTINF:-1 group-title="Greece" radio="true",Chillout Tree Pines
 http://n0f.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABeKi_TokAUTY4EzBEHHiJzQ
+# 72FM: https://72fm.com/station/77d13110-deb0-41d3-964d-b1458f9eb3d1
+#EXTINF:-1 group-title="Greece" radio="true",Déftero Laïká
+http://radiostreaming.ert.gr/ert-talaika
+# 72FM: https://72fm.com/station/30c8fd30-39f6-461c-9056-fd79a6e2eb58
+#EXTINF:-1 tvg-logo="https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png" group-title="Greece" radio="true",ΕΡΤ Δεύτερο Πρόγραμμα
+https://radiostreaming.ert.gr/ert-deftero
 # 72FM: https://72fm.com/station/564e60e1-ae3a-11e8-aa67-52543be04c81
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s78276q.png" group-title="Greece" radio="true",Radio Art - Classical for sleep
 http://live.radioart.com/fClassical_for_sleep.mp3
@@ -208,6 +247,12 @@ https://az10.yesstreaming.net/radio/8060/radio.mp3
 # 72FM: https://72fm.com/station/2bbee379-1767-46d0-8441-f43d7189082a
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Meditation(2)
 http://air.radioart.com/fMeditation.mp3
+# 72FM: https://72fm.com/station/08231184-20f1-4bc2-9ca5-d8fd34202f9d
+#EXTINF:-1 tvg-logo="https://www.imagine897.gr/images/IMAGINE897.jpg" group-title="Greece" radio="true",Imagine 897 Thessaloniki,gr
+https://imagine897.radioca.st/stream
+# 72FM: https://72fm.com/station/9c5b9610-805c-478f-ac5d-b6b561b78cab
+#EXTINF:-1 group-title="Greece" radio="true",Kosmos Jazz GR
+https://radiostreaming.ert.gr/ert-webjazz
 # 72FM: https://72fm.com/station/c04ed475-b85a-4b99-ba69-c7edbedebdaf
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Ambient Piano
 http://air.radioart.com/fAmbient_piano.mp3
@@ -226,24 +271,30 @@ https://rdst.win:59450/stream
 # 72FM: https://72fm.com/station/c90a120f-1c4d-474c-9a8d-3750505c5670
 #EXTINF:-1 tvg-logo="https://focusfm.gr/images/apple-touch-icon.png" group-title="Greece" radio="true",Focus 103.6
 https://ice.greekstream.net/focusfm
+# 72FM: https://72fm.com/station/f2cadd18-ad6d-4a27-9130-524fd02db594
+#EXTINF:-1 group-title="Greece" radio="true",Γλέντι 101.1
+http://onairmediagroup.live24.gr/glenti1011xanthi
 # 72FM: https://72fm.com/station/2f80f012-f8da-4b80-856c-0bd2e6af78e9
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/107_vocal_chillout_RadioArt.com.webp" group-title="Greece" radio="true",Radio Art - Vocal Chillout
 http://air.radioart.com/fVocal_chillout.mp3
 # 72FM: https://72fm.com/station/dc5e17c8-fd20-4886-ade1-1a77ed84944e
 #EXTINF:-1 tvg-logo="https://www.vanillaradio.com/wp-content/uploads/2016/04/vanilla-logo-300x100.png" group-title="Greece" radio="true",Vanilla Radio Deep Flavors
 https://stream.vanillaradio.com:8003/live
+# 72FM: https://72fm.com/station/5ff773ab-807e-4981-9425-a36c982ff134
+#EXTINF:-1 group-title="Greece" radio="true",Αίολος 92.8
+http://eco.onestreaming.com:8552/;
 # 72FM: https://72fm.com/station/516b56c9-96ec-4a56-b6c0-37e85b0a7d2f
 #EXTINF:-1 group-title="Greece" radio="true",Δίστομο 106.1
 http://radio.icehosting.com:8091/live.mp3
+# 72FM: https://72fm.com/station/e87fda89-97d8-4660-b049-0c0b8b84e6f3
+#EXTINF:-1 group-title="Greece" radio="true",Rebetiko Sealabs
+https://rebetiko.sealabs.net/radio
 # 72FM: https://72fm.com/station/96245f5e-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Greece" radio="true",Kriti FM 87.5
 http://s3.onweb.gr:8878/stream
 # 72FM: https://72fm.com/station/fbc3e197-536e-4ceb-8518-3dbce47821b1
 #EXTINF:-1 group-title="Greece" radio="true",Corfu Dee Jay 97.5
 https://sh.onweb.gr:7083/stream?type=http&nocache=35812
-# 72FM: https://72fm.com/station/cc9d64d9-d2b1-4061-8df1-1aab429b9b1d
-#EXTINF:-1 group-title="Greece" radio="true",Metropolis 95.5
-http://metropolis.live24.gr/metropolis955thess
 # 72FM: https://72fm.com/station/68843797-7947-4b62-a8cb-568bef2646cf
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/067_mantras-600x400.jpg" group-title="Greece" radio="true",Radio Art - Mantras
 http://air.radioart.com/fMantras.mp3
@@ -265,6 +316,12 @@ http://air.radioart.com/fVivaldi.mp3
 # 72FM: https://72fm.com/station/39151735-6b92-4786-affa-cc92693d83a8
 #EXTINF:-1 tvg-logo="https://www.radioart.com/images/2021channels/100_nature_RadioArt.com.webp" group-title="Greece" radio="true",Radio Art - Nature
 http://air.radioart.com/fNature.mp3
+# 72FM: https://72fm.com/station/e6d38cbb-868b-4345-8e5e-5cd76a770843
+#EXTINF:-1 group-title="Greece" radio="true",Alpha 98.9
+http://stream.radiojar.com/xcdg6yggzfeuv
+# 72FM: https://72fm.com/station/06101631-24f0-4305-b325-40d6279d17a0
+#EXTINF:-1 group-title="Greece" radio="true",ΕΡΤ Τρίτο Πρόγραμμα
+https://radiostreaming.ert.gr/ert-trito
 # 72FM: https://72fm.com/station/961d4058-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Greece" radio="true",RSO 91.7 Thessaloniki
 http://tachyon.shoutca.st:8594/stream
@@ -289,6 +346,9 @@ https://az10.yesstreaming.net:8060/radio.mp3
 # 72FM: https://72fm.com/station/836bc3f0-b116-47be-8db8-d7b251f7ab1a
 #EXTINF:-1 group-title="Greece" radio="true",Live 89.6
 http://netradio.live24.gr/livefm896
+# 72FM: https://72fm.com/station/51fe4c41-f03f-4ae2-a426-d52b48bd7135
+#EXTINF:-1 group-title="Greece" radio="true",ΕΡΤ Πρώτο Πρόγραμμα
+https://radiostreaming.ert.gr/ert-proto
 # 72FM: https://72fm.com/station/2082b774-1082-419d-ad13-a0ce9c10a759
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/15525.v6.png" group-title="Greece" radio="true",Red 96.3
 https://netradio.live24.gr/red9630
@@ -322,6 +382,9 @@ http://air-tunein.radioart.com/fBig_bands.mp3
 # 72FM: https://72fm.com/station/b15fcb97-ae3c-11e8-aa67-52543be04c81
 #EXTINF:-1 group-title="Greece" radio="true",Radio Art - Guitar
 http://air-tunein.radioart.com/fGuitar.mp3
+# 72FM: https://72fm.com/station/dec88d4d-39bc-4e53-8aca-3cb763536bab
+#EXTINF:-1 group-title="Greece" radio="true",Sfera 102.2
+https://sfera.live24.gr/sfera4132
 # 72FM: https://72fm.com/station/5ae31a1a-7913-4b8f-9ce5-646d4385b43c
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Chopin
 http://air.radioart.com/fChopin.mp3
@@ -352,15 +415,24 @@ http://air.radioart.com/fGeorge_handel.mp3
 # 72FM: https://72fm.com/station/ff04c47a-6e55-4bed-be01-89dbdff8f384
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Salsa
 http://air.radioart.com/fSalsa.mp3
+# 72FM: https://72fm.com/station/a70b4c5d-9cfb-438b-8834-26bf92449fdd
+#EXTINF:-1 tvg-logo="https://www.rebelfm.gr/wp-content/themes/whsk_rebelfm/common/imgs/rebel-logo-big.png" group-title="Greece" radio="true",REBEL FM 105.2
+https://netradio.live24.gr/rebel1052
 # 72FM: https://72fm.com/station/957cccf6-981f-4116-9b3b-47540a286547
 #EXTINF:-1 group-title="Greece" radio="true",Mancode
 http://comet.shoutca.st:8366/;
 # 72FM: https://72fm.com/station/ddfae569-3152-450f-a1cf-d6760cda4436
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Classical Relaxation
 http://air.radioart.com/fClassical_relaxation.mp3
+# 72FM: https://72fm.com/station/d13972f9-95c6-4320-a132-ada4898220f1
+#EXTINF:-1 tvg-logo="https://www.music892.gr/assets/icons/MUSIC_LOGO.png" group-title="Greece" radio="true",Music 89.2
+https://netradio.live24.gr/music892
 # 72FM: https://72fm.com/station/b0e16a33-aad3-4d31-bb7b-090d2fcb7f14
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Acoustic Blues
 http://air.radioart.com/fAcoustic_blues.mp3
+# 72FM: https://72fm.com/station/cd902523-6c34-4c17-8854-d991bd207662
+#EXTINF:-1 tvg-logo="https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png" group-title="Greece" radio="true",2o ΠΑΡΑΔΟΣΙΑΚΑ
+https://radiostreaming.ert.gr/ert-defteroparadosiaka
 # 72FM: https://72fm.com/station/b18b5378-673c-426c-b01b-93a7689ed62f
 #EXTINF:-1 group-title="Greece" radio="true",Star 88.8
 http://onairmediagroup.live24.gr/star888xanthi
@@ -397,6 +469,15 @@ http://air.radioart.com/fTango.mp3
 # 72FM: https://72fm.com/station/b76ce0ab-5527-4b35-90d1-28d6692bba25
 #EXTINF:-1 group-title="Greece" radio="true",Sfera 96.6
 http://n01.radiojar.com/mg2vq26eewzuv?rj-ttl=5&rj-tok=AAABePDKYnkA9kVa1QYWTKFxIQ
+# 72FM: https://72fm.com/station/c778502c-1206-4f2b-82d3-ac91903000fc
+#EXTINF:-1 group-title="Greece" radio="true",Μοναχική Διακονία 87.5
+http://eco.onestreaming.com:8019/;stream.mp3
+# 72FM: https://72fm.com/station/56662166-bec6-4cea-90f0-fd16bb8089c6
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bluesradio.gr/wp-content/uploads/2021/06/cropped-24-7bug.png?fit=180%2c180&#038;ssl=1" group-title="Greece" radio="true",Blues Radio alternative
+https://i4.streams.ovh/sc/bluesrad/stream
+# 72FM: https://72fm.com/station/4e79c0af-4dea-4b83-a850-f11329460dc7
+#EXTINF:-1 tvg-logo="https://cdn.e-radio.gr/logos/gr/500/diesi.png" group-title="Greece" radio="true",Δίεση 101.3
+http://orange.live24.gr/orange9320
 # 72FM: https://72fm.com/station/9635d707-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radioart.com///templates/poseidon/favicon.ico" group-title="Greece" radio="true",Radio Art - J.S.Bach
 http://live.radioart.com/fBach.mp3
@@ -518,8 +599,11 @@ https://maxhfm.streams.gr/ic/maxhfm/stream
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Greece" radio="true",Velvet 98.4
 http://onairmediagroup.live24.gr/velvet984xanthi
 # 72FM: https://72fm.com/station/019b7466-3ec5-11e9-aa55-52543be04c81
-#EXTINF:-1 tvg-logo="https://imargolidos.gr/wp-content/uploads/2019/01/Παναγία.jpg" group-title="Greece" radio="true",ΡΣ. Ι.Μ. Αργολίδος 105.2
+#EXTINF:-1 tvg-logo="https://imargolidos.gr/wp-content/uploads/2019/01/%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%B1.jpg" group-title="Greece" radio="true",ΡΣ. Ι.Μ. Αργολίδος 105.2
 http://eco.onestreaming.com:8556/
+# 72FM: https://72fm.com/station/229e9129-9b07-4c14-a753-f2e3abe1af62
+#EXTINF:-1 tvg-logo="https://www.e-tetradio.gr/img/path/b106202a-fed8-40a0-8e8c-bbc057305f20_image.jpg" group-title="Greece" radio="true",ELLADA SPORTS
+https://tls-chrome.live24.gr/3297?http://stream.ellada943.gr:10198/radio.mp3
 # 72FM: https://72fm.com/station/4206f0a5-ee44-47fc-9693-725f34a1ac3b
 #EXTINF:-1 tvg-logo="https://www.ertecho.com/wp-content/uploads/2023/08/cropped-ertecho-favicon-180x180.png" group-title="Greece" radio="true",2o laika
 https://radiostreaming.ert.gr/ert-talaika
@@ -529,6 +613,9 @@ https://stream-52.zeno.fm/fe300c1tpuhvv?zs=ecFJNTpkQXKgNdGJebEOUQ
 # 72FM: https://72fm.com/station/88001762-565f-4943-bc2b-4ad25c847510
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Latin Jazz
 http://air.radioart.com/fLatin_jazz.mp3
+# 72FM: https://72fm.com/station/4451b8c9-c73c-482a-8d9f-df43ba1254fc
+#EXTINF:-1 group-title="Greece" radio="true",Mousikos 98,6
+https://netradio.live24.gr/mousikos986
 # 72FM: https://72fm.com/station/371d5d59-7fec-49fc-a565-d5d420b569e8
 #EXTINF:-1 group-title="Greece" radio="true",Prime 100.3
 http://s20.myradiostream.com:6738/;listen.pls
@@ -556,6 +643,9 @@ http://live.radioart.com/fFusion.mp3
 # 72FM: https://72fm.com/station/eeb813de-8d2e-48d2-b665-dcbd38772d33
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/145_peaceful_c-600x400.jpg" group-title="Greece" radio="true",Radio Art - Peaceful Classical
 http://air.radioart.com/fPeaceful_classical.mp3
+# 72FM: https://72fm.com/station/8f8bfe13-9411-46b4-9780-5d5f399f6e7e
+#EXTINF:-1 tvg-logo="https://typologies.gr/wp-content/uploads/2019/10/kokkino.jpg" group-title="Greece" radio="true",Στο κόκκινο 105.5
+https://n0a.radiojar.com/kokkino-ath.mp3?rj-ttl=5&rj-tok=AAABh-0eIcYAVz1x8OviF1g8jw
 # 72FM: https://72fm.com/station/e0f14488-e38f-4298-95a2-ceb083feb578
 #EXTINF:-1 group-title="Greece" radio="true",Ελληνικός 107.2
 http://everest.streams.ovh:2390/;
@@ -598,9 +688,6 @@ https://sp3.streams.ovh/8070/stream
 # 72FM: https://72fm.com/station/07034f53-f75e-4beb-b72f-1d8571c44bc0
 #EXTINF:-1 group-title="Greece" radio="true",Club FM GR
 https://stream-32.zeno.fm/z8cp1nqwhnruv?zs=sUtan8GnTDGarEqChfudfg&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
-# 72FM: https://72fm.com/station/8aab6e13-f494-4f60-995c-8516a982479d
-#EXTINF:-1 tvg-logo="https://cdn.e-radio.gr/logos/gr/big/989alpha.png" group-title="Greece" radio="true",Alpha 98.9
-http://stream.radiojar.com/xcdg6yggzfeuv
 # 72FM: https://72fm.com/station/d168c5ba-9bf4-47c7-9609-b5134c90b62d
 #EXTINF:-1 group-title="Greece" radio="true",Bar Legend Radio
 https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream
@@ -646,18 +733,24 @@ https://live.radioart.com/fLove_smooth_jazz.mp3
 # 72FM: https://72fm.com/station/5e0e6435-0103-4667-9ee5-342e98c4a7f0
 #EXTINF:-1 tvg-logo="https://www.vivafm.com/fav.png" group-title="Greece" radio="true",Viva FM 95.3
 http://s17.myradiostream.com:8742/;listen.pls
+# 72FM: https://72fm.com/station/5f695ae5-da9f-4366-a715-f4fa76b61bae
+#EXTINF:-1 tvg-logo="https://hroma.gr/wp-content/uploads/2021/12/hroma-1058-thessaloniki-removebg-preview.png" group-title="Greece" radio="true",Χρώμα 105,8 Θεσσαλονίκη
+https://hroma1058thess.live24.gr/hroma1058thess
 # 72FM: https://72fm.com/station/143aeb73-7398-4033-aea4-78f43b16ce2f
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Ancient
 http://air.radioart.com/fAncient.mp3
-# 72FM: https://72fm.com/station/da2e57f2-fa35-41b5-87c9-10572177e394
-#EXTINF:-1 group-title="Greece" radio="true",ERA KOSMOS
-http://radiostreaming.ert.gr/ert-kosmos
+# 72FM: https://72fm.com/station/44eadfaf-d590-4017-a8e6-a1ee52924b24
+#EXTINF:-1 tvg-logo="https://piratefm.net/electronica-vibes-pirate-radio-gr/wp-content/uploads/2024/10/cropped-electronica.jpg" group-title="Greece" radio="true",Electronica Vibes - Pirate Radio GR
+https://live.piratefm.net/electronica_vibes
 # 72FM: https://72fm.com/station/93de008b-c5ee-4c6a-9ae9-d71480e29a1b
 #EXTINF:-1 tvg-logo="https://cdn.e-radio.gr/logos/gr/big/lampsifm.png" group-title="Greece" radio="true",Lampsi 92.3
 https://az11.yesstreaming.net:8140/radio.mp3
 # 72FM: https://72fm.com/station/408fe120-61e0-45ab-9b2c-f7d2b70c1d71
 #EXTINF:-1 tvg-logo="https://live24.gr/resrc/styles/custom-popups/melodia98/melodia98-Thess-logo.png" group-title="Greece" radio="true",Μελωδία Θεσσαλονίκης 98
 https://netradio.live24.gr/north98thess
+# 72FM: https://72fm.com/station/be8a0a52-eefa-4799-addc-5b9fb18f9d0c
+#EXTINF:-1 group-title="Greece" radio="true",Omega Radio Greek Music
+https://rdst.win:59962/stream
 # 72FM: https://72fm.com/station/3373b5cd-cc57-4407-8890-8a0cc4204fa4
 #EXTINF:-1 group-title="Greece" radio="true",Λαϊκός 100.6
 http://sp2.streams.ovh:8100/stream?type=http&nocache=185
@@ -700,6 +793,9 @@ http://air.radioart.com/fShamanic.mp3
 # 72FM: https://72fm.com/station/a63089fd-d462-4e38-a1ff-ca96a1275b7f
 #EXTINF:-1 group-title="Greece" radio="true",Easy 105.3
 http://s4.onweb.gr:8076/stream?type=http&nocache=104869
+# 72FM: https://72fm.com/station/ea388340-3ebe-11e9-aa55-52543be04c81
+#EXTINF:-1 group-title="Greece" radio="true",Ορθοδοξία και Παράδοση 103
+http://radio.lts-group.eu:52390/ANS
 # 72FM: https://72fm.com/station/061beae9-b7b6-4071-aff9-20c46612772d
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Chillout & Tropical
 http://air.radioart.com/fChillout_and_tropical.mp3
@@ -709,9 +805,6 @@ http://158.69.114.190:8024/stream
 # 72FM: https://72fm.com/station/a3b2eb03-a427-41fe-8667-bc3cfbe0469f
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/115_vocal_lounge_RadioArt.com.webp" group-title="Greece" radio="true",Radio Art - Vocal Lounge
 http://air.radioart.com/fVocal_lounge.mp3
-# 72FM: https://72fm.com/station/cff58fbb-7669-4caa-9aed-7a361c591216
-#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Vocal Jazz
-https://live.radioart.com/fVocal_jazz.mp3
 # 72FM: https://72fm.com/station/c4b806d1-da00-46d8-8b5f-25d0320ece71
 #EXTINF:-1 tvg-logo="https://www.radioart.com/templates/yootheme/cache/logo-2d9baf0b.png" group-title="Greece" radio="true",Radio Art - Cello works
 http://air.radioart.com/fCello_works.mp3
@@ -730,6 +823,9 @@ https://s7.yesstreaming.net/stream/8000
 # 72FM: https://72fm.com/station/807f192b-7302-41f7-be2e-d162b54092ab
 #EXTINF:-1 group-title="Greece" radio="true",Radio Nostalgia
 http://radionostalgiagr.dyndns.org:2314/
+# 72FM: https://72fm.com/station/f1a5857f-9825-4eba-b48e-e345e82e9f5f
+#EXTINF:-1 group-title="Greece" radio="true",Εκκλησία της Ελλάδας 89.5
+https://loki.mental-media.gr:8038/index.html
 # 72FM: https://72fm.com/station/ccdc8e96-f3bc-4703-86ba-5b6aa0c92304
 #EXTINF:-1 group-title="Greece" radio="true",SKAI 100.3 FM
 https://netradio.live24.gr/skai1003
@@ -742,6 +838,9 @@ http://185.14.203.115:8004/stream?type=http&nocache=109
 # 72FM: https://72fm.com/station/21838fd1-b14f-4ee5-b751-b28cf61600b2
 #EXTINF:-1 group-title="Greece" radio="true",Happy 104
 http://ath10400fm-radioplayer.live24.gr/ath10400fm
+# 72FM: https://72fm.com/station/b3b5204f-bf7c-11e9-8502-52543be04c81
+#EXTINF:-1 group-title="Greece" radio="true",BeRock Radio
+http://solid55.streamupsolutions.com:30013/stream
 # 72FM: https://72fm.com/station/df7afb28-78c0-4d02-84f6-38557934d773
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Joseph Haydn
 http://air.radioart.com/fJoseph_haydn.mp3
@@ -766,6 +865,9 @@ https://stream-44.zeno.fm/qq2btg0vp68uv?zs=04c42hA2SRyAHj7VojzerQ&acu-uid=727435
 # 72FM: https://72fm.com/station/51bd83f5-e2b3-4ea5-a0ad-a072455a3c35
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s187594/images/logoq.jpg" group-title="Greece" radio="true",Radio Art - Sleep(2)
 http://air.radioart.com/fSleep.mp3
+# 72FM: https://72fm.com/station/ce944cfa-9ba9-4e9b-98fe-e1045a4f9df6
+#EXTINF:-1 group-title="Greece" radio="true",SokFM 104.8
+https://stream.radiojar.com/zeqcyyvu48hvv
 # 72FM: https://72fm.com/station/1de391b2-f053-4d76-a9b8-79f638119695
 #EXTINF:-1 group-title="Greece" radio="true",Alpha News 106.2
 https://antares.dribbcast.com/proxy/alpha1062?mp=/stream
@@ -778,9 +880,6 @@ http://solid33.streamupsolutions.com:30012/live
 # 72FM: https://72fm.com/station/1a4be5ac-3738-4171-9b9e-176bd4e06b79
 #EXTINF:-1 tvg-logo="https://www.derti1077.gr/wp-content/themes/dirty/images/logodirty.png" group-title="Greece" radio="true",Derti 107,7 Heraklion Crete
 https://i5.streams.ovh:2200/sc/web101/stream
-# 72FM: https://72fm.com/station/209df387-2e94-471f-bb79-f3421be6ffdf
-#EXTINF:-1 tvg-logo="https://www.real.gr/wp-content/uploads/2025/02/realgr-icon-150x150.png" group-title="Greece" radio="true",Real FM 97.8
-http://netradio.live24.gr/realfm
 # 72FM: https://72fm.com/station/961d3565-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Greece" radio="true",ERA I Foni tis Elladas
 http://radiostreaming.ert.gr/ert-voiceofgreece
@@ -796,111 +895,12 @@ https://s3.unlimitedradiohosting.com/stream/two-thousand-on-fm
 # 72FM: https://72fm.com/station/6aa97548-6b7e-4581-a8a8-f2da789f3832
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Piano & Guitar(2)
 http://air.radioart.com/fPiano_and_guitar.mp3
-# 72FM: https://72fm.com/station/ac1827e2-d38d-4f5e-abc3-2ca147cd27bf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWwdL32.jpg" group-title="Greece" radio="true",Blues Radio
-http://cast3.radiohost.ovh:8352/
+# 72FM: https://72fm.com/station/be455527-dc36-425c-a946-302bf082dda2
+#EXTINF:-1 tvg-logo="https://www.eroticos.gr/favicon.ico" group-title="Greece" radio="true",Ερωτικός FM 94.8
+https://eu1.fastcast4u.com/proxy/nmarog01
 # 72FM: https://72fm.com/station/6383047e-158e-4bef-83f4-2c983d28978e
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Solo Flute
 http://live.radioart.com/fSolo_flute.mp3
 # 72FM: https://72fm.com/station/2420a31e-c83e-49f4-b51f-308c4d21ac39
 #EXTINF:-1 tvg-logo="https://www.radioart.com/images/channels/151_sinatra_st-600x400.jpg" group-title="Greece" radio="true",Radio Art - Sinatra Style
 https://live.radioart.com/fSinatra_style.mp3
-# 72FM: https://72fm.com/station/cbe47fe5-6ede-4c42-81a8-016f8570972d
-#EXTINF:-1 group-title="Greece" radio="true",MANCODE RADIO
-https://stream.radiojar.com/2kqw1800x68uv?1690945099
-# 72FM: https://72fm.com/station/46e669a0-2565-11e8-91bf-52543be04c81
-#EXTINF:-1 group-title="Greece" radio="true",Mikis Radio
-http://radio.hostchefs.net:8046/stream?1520818130148
-# 72FM: https://72fm.com/station/c3d33977-ce93-4c7e-b0d3-6115fbd80244
-#EXTINF:-1 group-title="Greece" radio="true",Ellinikos 93.2 FM
-http://orange.live24.gr/orange9320
-# 72FM: https://72fm.com/station/961b8f2e-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Greece" radio="true",Sohos FM 88.7
-http://212.95.45.82:32032/stream
-# 72FM: https://72fm.com/station/9d25509b-c1e2-478a-8ded-1563e54d5c8c
-#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Greece" radio="true",Radio Art - Workout Rock & Indie
-http://air.radioart.com/fRock_and_indie.mp3
-# 72FM: https://72fm.com/station/b774c7f9-ca9e-4c59-b01c-2f182290c9db
-#EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/134_ancient_sol-600x400.jpg" group-title="Greece" radio="true",Radio Art - Ancient Solfeggio Frequencies
-http://air.radioart.com/fAncient_solfeggio_frequencies.mp3
-# 72FM: https://72fm.com/station/de4af2f0-6262-455c-9bd2-d44f1235bb6b
-#EXTINF:-1 tvg-logo="https://www.radioart.com/images/channels/Smooth_jazz.jpg" group-title="Greece" radio="true",Radio Art - Smooth Jazz
-https://live.radioart.com/fSmooth_jazz.mp3
-# 72FM: https://72fm.com/station/786e440b-8c41-4f20-9838-77eaf36514da
-#EXTINF:-1 group-title="Greece" radio="true",ERT Trito Maestro
-https://radiostreaming.ert.gr/ert-trito-maestro
-# 72FM: https://72fm.com/station/54c342cc-dfa8-46db-b817-5ab4071b9fad
-#EXTINF:-1 tvg-logo="https://www.nrg91.gr/wp-content/uploads/2017/07/cropped-icon-1-180x180.png" group-title="Greece" radio="true",NRG 91
-https://sh.onweb.gr/9100/stream/;
-# 72FM: https://72fm.com/station/f447e810-a691-4c16-aabb-b98bf2842952
-#EXTINF:-1 group-title="Greece" radio="true",Radio Art - Piano
-http://air.radioart.com/fPiano.mp3
-# 72FM: https://72fm.com/station/d6684ad3-f7ed-11e8-a471-52543be04c81
-#EXTINF:-1 group-title="Greece" radio="true",ERT Voreio Aigaio 104.4 103.0 99.4 105.9 100.1 95.2 96.5 89.7 91.7 89.1
-http://radiostreaming.ert.gr/ert-aigaiou
-# 72FM: https://72fm.com/station/d460db94-e29f-44fb-81fe-ef52c663c3d0
-#EXTINF:-1 group-title="Greece" radio="true",Karamela 92.4
-https://netradio.live24.gr/924fm-thess
-# 72FM: https://72fm.com/station/9096fbcd-8606-4dae-9300-a989ebae3898
-#EXTINF:-1 group-title="Greece" radio="true",Deep Web Radio
-https://i3.streams.ovh/ic/deepradio1/stream?
-# 72FM: https://72fm.com/station/cc35bc82-0829-4890-9e41-1791af0250c8
-#EXTINF:-1 group-title="Greece" radio="true",Yellow
-https://ice.greekstream.net/yellow
-# 72FM: https://72fm.com/station/69843a86-3ea0-11e9-aa55-52543be04c81
-#EXTINF:-1 group-title="Greece" radio="true",Αλήθεια FM 96.3
-http://sc2.streamwithq.com:8070/
-# 72FM: https://72fm.com/station/4b48fe00-2d75-4a9a-8b59-60cc5a8c53ca
-#EXTINF:-1 tvg-logo="https://liquidfm.gr/templates/liquidfm_160810_161/images/designer/acaf84c411463bed7140a541c31e7288_liquidlogo.png" group-title="Greece" radio="true",Liquid fm
-https://netradio.live24.gr/freeradio-1000
-# 72FM: https://72fm.com/station/1ac38ed3-3ec3-11e9-aa55-52543be04c81
-#EXTINF:-1 tvg-logo="https://imalex.gr/wp-content/plugins/under-construction-page/themes/images/favicon.png" group-title="Greece" radio="true",Ράδιο Ελπίδα 96.1
-http://eco.onestreaming.com:8564/
-# 72FM: https://72fm.com/station/3c8af901-fc35-416e-ab1d-1693cdd5d5de
-#EXTINF:-1 group-title="Greece" radio="true",Radio Drama 99.1
-http://pstnet6.shoutcastnet.com:60160/stream
-# 72FM: https://72fm.com/station/5920ced4-31f5-4df7-9392-75ab7b06a45c
-#EXTINF:-1 tvg-logo="https://www.radioart.com/images/channels/Jazz_trios.jpg" group-title="Greece" radio="true",Radio Art - Jazz Trios
-https://live.radioart.com/fJazz_trios.mp3
-# 72FM: https://72fm.com/station/ffa2ec2e-365f-497e-ae94-cd4a4ecc94d1
-#EXTINF:-1 group-title="Greece" radio="true",Techno Base 103.1
-https://stream-10.zeno.fm/izyb6gtfozpuv?zs=hRR4wSYGTi2FdjV89bXz5g&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
-# 72FM: https://72fm.com/station/9f4e21c3-3e9f-11e9-aa55-52543be04c81
-#EXTINF:-1 tvg-logo="https://imcorfu.gr/wp-content/uploads/2022/04/logo-im-corfu-white.png" group-title="Greece" radio="true",Άγιος Σπυρίδων 91.1
-http://s3.onweb.gr:8462/
-# 72FM: https://72fm.com/station/3d884cfd-56d8-4b05-a75c-749c9ea2507e
-#EXTINF:-1 tvg-logo="https://www.radioart.com/templates/yootheme/cache/logo-2d9baf0b.png" group-title="Greece" radio="true",Radio Art - Piano Trios
-http://air.radioart.com/fPiano_trios.mp3
-# 72FM: https://72fm.com/station/ebda7f0e-7b55-4ff8-8de7-76804f292f1b
-#EXTINF:-1 tvg-logo="https://stream30.radioart.com:2197/static/f142_pregnancy_r/covers/rsz_emb_piano_sensation_piano_solo_5c408f41.jpg" group-title="Greece" radio="true",Radio Art - Pregnancy Relaxation
-https://live.radioart.com/fPregnancy_relaxation.mp3
-# 72FM: https://72fm.com/station/5a5f0277-d346-486f-84df-38f2c0f7114d
-#EXTINF:-1 group-title="Greece" radio="true",Picasso
-http://n0b.radiojar.com/s87smqqfewzuv?rj-ttl=5&rj-tok=AAABePDGEF4AVlnUeTPoZNV1Dw
-# 72FM: https://72fm.com/station/7b80726d-67fa-4c13-a271-a7e47dc4a4cf
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s247256/images/logoq.jpg" group-title="Greece" radio="true",Radio Art - Folk and Soft Rock(2)
-http://air.radioart.com/fFolk_and_soft_rock.mp3
-# 72FM: https://72fm.com/station/bcc72d03-a45d-4e96-8fc3-6de611864ebc
-#EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/6a29d644-eaca-4282-89b1-468d4504cf65.png" group-title="Greece" radio="true",Rainbow 89 Pop
-https://n05.radiojar.com/ztqh29c8ktuvv?rj-ttl=5&rj-tok=AAABjW_eWdoAP4LPpPaNlupsMA
-# 72FM: https://72fm.com/station/162e7cea-53cc-4566-bb92-2de88dd98ac4
-#EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/11_Lullaby.jpg" group-title="Greece" radio="true",Radio Art - Lullaby
-http://air.radioart.com/fLullaby.mp3
-# 72FM: https://72fm.com/station/c940187f-3f68-45b8-8047-15a3beb1975d
-#EXTINF:-1 group-title="Greece" radio="true",2000 FM 99.8
-https://i8.streams.ovh/ic/2000fm/stream
-# 72FM: https://72fm.com/station/5f774691-05c7-48d6-89e0-26f39aacb3aa
-#EXTINF:-1 group-title="Greece" radio="true",Athens Free Radio
-http://n12.radiojar.com/e206r95qsp8uv?rj-ttl=5&rj-tok=AAABhMPbz3sAf9_4FoIJiUmkoA
-# 72FM: https://72fm.com/station/e8a6a931-cff2-4ad6-9fc3-d3a0cdb5e512
-#EXTINF:-1 group-title="Greece" radio="true",Λαϊκός 96.2
-http://sonic.streams.ovh:9870/;
-# 72FM: https://72fm.com/station/c320801b-7d2f-493b-af29-4f37b83bb112
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/632/5e185a3184ae6.png" group-title="Greece" radio="true",Μελωδία 99.2
-https://stream.rcs.revma.com/8tdwa6ez1duvv
-# 72FM: https://72fm.com/station/873bc6e5-2632-424c-a044-5b08b9655c19
-#EXTINF:-1 group-title="Greece" radio="true",Athens Noise Rocks
-https://radio.athensnoise.rocks/listen/athensnoise.rocks/radio.mp3
-# 72FM: https://72fm.com/station/f5a6fd33-479e-4953-94f4-712c5234695d
-#EXTINF:-1 group-title="Greece" radio="true",Ellada 94.3
-https://stream.ellada943.gr:10198/radio.mp3

@@ -4,6 +4,15 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/951b325b-5b78-45ef-bebf-88f9a0f6c250
+#EXTINF:-1 group-title="China" radio="true",华语金曲500首
+http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+# 72FM: https://72fm.com/station/2bf82625-6e78-445d-afff-e51e53c369a9
+#EXTINF:-1 group-title="China" radio="true",CCTV-13新闻伴音
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+# 72FM: https://72fm.com/station/dc722c5e-21a0-49be-8687-474638c95ca7
+#EXTINF:-1 group-title="China" radio="true",凤凰卫视资讯台
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 # 72FM: https://72fm.com/station/24711f7f-8ff5-4141-8e0f-ab17f3da1b89
 #EXTINF:-1 group-title="China" radio="true",怀集音乐之声
 https://lhttp.qingting.fm/live/4804/64k.mp3
@@ -13,6 +22,9 @@ https://lhttp.qtfm.cn/live/15318317/64k.mp3
 # 72FM: https://72fm.com/station/431eb0c9-c84c-11e8-a54a-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",CNR-2 经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+# 72FM: https://72fm.com/station/0c7e5ad0-b89b-466c-867e-a87866eb9a09
+#EXTINF:-1 group-title="China" radio="true",凤凰卫视中文台
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 # 72FM: https://72fm.com/station/ab0cc7f6-df03-4923-ac83-f4a7d8c55916
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/48/1678171152584_a6BwhQSVz.png" group-title="China" radio="true",国际新闻
 https://lhttp.qtfm.cn/live/20500172/64k.mp3
@@ -28,6 +40,12 @@ http://zbbf2.ahbztv.com/live/4f3.m3u8
 # 72FM: https://72fm.com/station/28c73396-f7ea-49cf-a201-146bf29b2348
 #EXTINF:-1 group-title="China" radio="true",CRI中文环球广播·CRI chinese service
 http://sk.cri.cn/hyhq.m3u8
+# 72FM: https://72fm.com/station/acf7c318-9031-4763-930a-00a4b5a032ec
+#EXTINF:-1 group-title="China" radio="true",CRI英语资讯广播 China Plus Radio
+http://sk.cri.cn/am846.m3u8
+# 72FM: https://72fm.com/station/e4599290-f353-478d-b920-7e057d049dd5
+#EXTINF:-1 group-title="China" radio="true",AsiaFM高清音乐台
+http://asiafm.hk:8000/asiahd
 # 72FM: https://72fm.com/station/7478cbd8-9217-4e39-8da7-a0d4385685ce
 #EXTINF:-1 group-title="China" radio="true",CCTV-4中文国际伴音
 https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
@@ -46,6 +64,12 @@ https://stream.zeno.fm/yqawwmweq8mtv
 # 72FM: https://72fm.com/station/aae8f50a-34a1-474c-9b5b-418a82c5cab4
 #EXTINF:-1 group-title="China" radio="true",天籁之音 - 经典正流行
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8
+# 72FM: https://72fm.com/station/94b627b7-7b61-4478-b797-bcb21973c4bf
+#EXTINF:-1 group-title="China" radio="true",AsiaFM亚洲经典台
+http://goldfm.cn:8000/goldfm
+# 72FM: https://72fm.com/station/d84ba969-f1a3-49ef-830a-bd38e57c8e83
+#EXTINF:-1 tvg-logo="https://imagev2.xmcdn.com/storages/20ef-audiofreehighqps/00/CA/GMCoOR8HJFh9AAMCbwGzjNlB.jpg!strip=1&quality=7&magick=jpg&op_type=5&upload_type=cover&name=web_large&device_type=ios" group-title="China" radio="true",AisaFM亚洲粤语台
+https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
 # 72FM: https://72fm.com/station/44cea5a0-7466-11e9-af37-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",第一财经
 http://lhttp.qingting.fm/live/276/64k.mp3
@@ -58,12 +82,18 @@ https://lhttp.qtfm.cn/live/15318569/64k.mp3
 # 72FM: https://72fm.com/station/3f6d52c1-9373-4fd2-8bef-5dd476e4e7d2
 #EXTINF:-1 tvg-logo="https://www.rfi.fr/apple-touch-icon.png" group-title="China" radio="true",新闻联播
 https://rfienchinois64k.ice.infomaniak.ch//rfienchinois-64.mp3
+# 72FM: https://72fm.com/station/90cefd55-a82f-4ef8-96da-cc1723f7f544
+#EXTINF:-1 tvg-logo="https://m.gdtv.cn/statics/images/logo.png" group-title="China" radio="true",广东珠江经济台
+https://lhttp.qtfm.cn/live/1259/64k.mp3
 # 72FM: https://72fm.com/station/948c6e7c-aee1-4d50-87bf-ce338e38e311
 #EXTINF:-1 group-title="China" radio="true",CCTV-2财经伴音
 https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 # 72FM: https://72fm.com/station/e2fe33ad-87a6-4bca-bb2a-f051212c82c2
 #EXTINF:-1 group-title="China" radio="true",Chinese Music World
 http://radio.chinesemusicworld.com/chinesemusic.ogg
+# 72FM: https://72fm.com/station/ef678e2d-beea-40a2-b152-f73d57de4f52
+#EXTINF:-1 tvg-logo="https://newsradio.cri.cn/favicon.ico" group-title="China" radio="true",CRI环球资迅广播
+https://sk.cri.cn/905.m3u8
 # 72FM: https://72fm.com/station/288d0219-4d05-4f5d-8b1d-671bb6c51733
 #EXTINF:-1 group-title="China" radio="true",安徽小说评书广播
 https://lhttp.qtfm.cn/live/1951/64k.mp3
@@ -79,12 +109,21 @@ https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
 # 72FM: https://72fm.com/station/9d7f295c-ba89-4903-af7e-0e52b4a2051c
 #EXTINF:-1 group-title="China" radio="true",BBN 中文
 https://streams.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f
+# 72FM: https://72fm.com/station/2a196f5e-1a14-4f97-b1e3-c4b67d092cfe
+#EXTINF:-1 group-title="China" radio="true",广东音乐之声
+https://lhttp.qtfm.cn/live/1260/64k.mp3
+# 72FM: https://72fm.com/station/6420a400-38fe-47e4-ab5c-28f0d00667bf
+#EXTINF:-1 group-title="China" radio="true",广东新闻广播
+https://lhttp.qtfm.cn/live/1254/64k.mp3
 # 72FM: https://72fm.com/station/e87de336-49bb-4f67-887c-ddfb25de6384
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2015/0514/2015051417385422.jpg" group-title="China" radio="true",北京新闻广播
 https://lhttp.qtfm.cn/live/339/64k.mp3
 # 72FM: https://72fm.com/station/143b4f95-c111-40d2-93f6-23ada6047a99
 #EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/18/1647597522993_467.png" group-title="China" radio="true",CCTV-8电视剧伴音
 https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+# 72FM: https://72fm.com/station/2de5c313-8500-11e9-aa30-52543be04c81
+#EXTINF:-1 group-title="China" radio="true",深圳新闻广播
+http://lhttp.qingting.fm/live/1270/64k.mp3
 # 72FM: https://72fm.com/station/ba6847f1-6ef1-4d44-9410-815be75e4333
 #EXTINF:-1 group-title="China" radio="true",CCTV-5体育伴音
 https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
@@ -94,6 +133,9 @@ http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8?
 # 72FM: https://72fm.com/station/5562c062-8a94-47dc-857f-73430c6d4020
 #EXTINF:-1 group-title="China" radio="true",广东交通之声
 https://lhttp.qtfm.cn/live/1262/64k.mp3
+# 72FM: https://72fm.com/station/3366bd2b-9e59-4bf0-ad99-96b5bfcd7111
+#EXTINF:-1 group-title="China" radio="true",广州金曲音乐广播
+http://lhttp.qingting.fm/live/20192/64k.mp3
 # 72FM: https://72fm.com/station/e67cf735-d4db-4497-babe-5f35763d41d3
 #EXTINF:-1 group-title="China" radio="true",CCTV-12社会与法伴音
 https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
@@ -103,9 +145,9 @@ https://lhttp.qtfm.cn/live/20500182/64k.mp3
 # 72FM: https://72fm.com/station/ec67c57d-5b1d-4470-a3c9-2c00bb46e60d
 #EXTINF:-1 group-title="China" radio="true",天籁之音 - Hi-Fi Radio
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/chunklist.m3u8
-# 72FM: https://72fm.com/station/701e4c8c-b2c2-42db-a535-65ac13de0e0f
-#EXTINF:-1 group-title="China" radio="true",CNR-1 中国之声
-https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8?
+# 72FM: https://72fm.com/station/e6f08fdb-dd41-4dac-a01d-47a3d5c5ac35
+#EXTINF:-1 group-title="China" radio="true",Chinese Music World
+https://radio.chinesemusicworld.com/chinesemusic.ogg
 # 72FM: https://72fm.com/station/1bd95c33-9c29-452a-a44c-9c5cb02441b6
 #EXTINF:-1 group-title="China" radio="true",CCTV-4中文国际美洲伴音
 https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
@@ -124,9 +166,6 @@ https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
 # 72FM: https://72fm.com/station/28c77f6f-3fb6-4bf0-b95f-41480fb7716a
 #EXTINF:-1 group-title="China" radio="true",CCTV-10科教伴音
 https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
-# 72FM: https://72fm.com/station/ea5e18e6-8897-417f-bf9c-d696c9d8f887
-#EXTINF:-1 group-title="China" radio="true",AsiaFM HD音樂臺
-http://asiafm.hk:8000/asiahd
 # 72FM: https://72fm.com/station/b15b81c9-9961-45a4-bb3f-b087a5881bf7
 #EXTINF:-1 tvg-logo="https://radio-res.cgtn.com/image/2112/1639986367791.jpg" group-title="China" radio="true",CGTN Radio
 https://sk.cri.cn/am846.m3u8
@@ -154,9 +193,18 @@ http://stm.rthk.hk/radio2
 # 72FM: https://72fm.com/station/a5bffcf2-3924-40a7-998a-221011fb0a20
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="China" radio="true",雨声
 https://stream.zeno.fm/ckptaagp6x8uv
+# 72FM: https://72fm.com/station/a0f3ac2c-df6d-456d-a7c6-03fa5588668b
+#EXTINF:-1 tvg-logo="https://www.hebtv.com/public/img/icon_ie.jpg" group-title="China" radio="true",河北新闻广播
+https://radio.pull.hebtv.com/live/hebxw.m3u8
 # 72FM: https://72fm.com/station/53ec59f3-9b3f-41b3-b5d3-89fecf58ec78
 #EXTINF:-1 group-title="China" radio="true",济南故事广播
 https://lhttp.qtfm.cn/live/1672/64k.mp3
+# 72FM: https://72fm.com/station/446382be-19c3-44b3-bfa1-7dbbeb92af63
+#EXTINF:-1 group-title="China" radio="true",AsiaFM亚洲天空台
+https://lhttp.qingting.fm/live/20071/64k.mp3
+# 72FM: https://72fm.com/station/d646912c-2a33-4bc4-a867-5aa11f822d75
+#EXTINF:-1 group-title="China" radio="true",CRI劲曲调频 HIT FM（成都）
+http://lhttp.qingting.fm/live/15318703/64k.mp3
 # 72FM: https://72fm.com/station/6ee61dc9-f7ed-41a1-b483-b664c610c01c
 #EXTINF:-1 group-title="China" radio="true",江苏经典流行音乐广播
 http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?
@@ -166,9 +214,6 @@ https://ngcdn001.cnr.cn/live/yyzs/index.m3u8
 # 72FM: https://72fm.com/station/8d5e80ef-7689-4710-80bb-bb90f92628d7
 #EXTINF:-1 group-title="China" radio="true",Anison动漫音乐台
 http://pool.anison.fm:9000/AniSonFM(320)?
-# 72FM: https://72fm.com/station/eacbdd98-2e57-4016-ae2e-7371fc72b7f7
-#EXTINF:-1 group-title="China" radio="true",AsiaFM 亚洲经典台【2023.10.17】
-http://goldfm.cn:8000/goldfm
 # 72FM: https://72fm.com/station/6d83cb72-52aa-4b26-83ee-010d44e8ad2d
 #EXTINF:-1 group-title="China" radio="true",北京交通广播
 https://lhttp.qingting.fm/live/336/64k.mp3
@@ -196,6 +241,9 @@ https://piccpndali.v.myalicdn.com/audio/dongfang_2.m3u8
 # 72FM: https://72fm.com/station/58acd0cd-7fe0-4f7e-a551-bfb6eac5d72f
 #EXTINF:-1 group-title="China" radio="true",北京BTV新闻伴音
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
+# 72FM: https://72fm.com/station/1bc7f31f-da6b-424e-82a4-4d14c1d48699
+#EXTINF:-1 group-title="China" radio="true",CityFM城市音乐台
+https://lhttp.qtfm.cn/live/20500153/64k.mp3
 # 72FM: https://72fm.com/station/c8f49f16-f969-4f73-b1db-fa2ef40e78b6
 #EXTINF:-1 group-title="China" radio="true",广州新闻资讯广播
 http://lhttp.qingting.fm/live/4848/64k.mp3
@@ -217,9 +265,12 @@ https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 # 72FM: https://72fm.com/station/fdc4660c-c569-4247-852c-05a00f331a18
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2020/0402/20200402042931.png" group-title="China" radio="true",广东城市之声
 https://lhttp.qtfm.cn/live/469/64k.mp3
-# 72FM: https://72fm.com/station/050db29a-6c07-4db8-a407-5dec7b1f0009
-#EXTINF:-1 tvg-logo="https://newsradio.cri.cn/favicon.ico" group-title="China" radio="true",CMG环球资讯广播
-https://sk.cri.cn/905.m3u8
+# 72FM: https://72fm.com/station/01c9306d-750d-11e9-af37-52543be04c81
+#EXTINF:-1 group-title="China" radio="true",上海音乐广播
+http://lhttp.qingting.fm/live/273/64k.mp3
+# 72FM: https://72fm.com/station/6c5edef4-6a79-4ec7-84f7-b8430bcd0e4f
+#EXTINF:-1 group-title="China" radio="true",经典105·山东经典音乐广播
+http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8
 # 72FM: https://72fm.com/station/a9354e1c-92fc-4a7a-9650-fa2d5c208196
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2021/0411/20210411040015.jpeg" group-title="China" radio="true",动听音乐台
 https://lhttp-hw.qtfm.cn/live/5022107/64k.mp3
@@ -244,9 +295,6 @@ http://lhttp.qingting.fm/live/5022521/64k.mp3
 # 72FM: https://72fm.com/station/915c7e16-1d1c-41e0-831d-d36d87975b73
 #EXTINF:-1 group-title="China" radio="true",CCTV农业节目伴音
 https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
-# 72FM: https://72fm.com/station/140613fb-2752-4e78-b2f2-2bbbf8230b11
-#EXTINF:-1 tvg-logo="https://y1.ifengimg.com/index/72x72_2520ifeng.png" group-title="China" radio="true",Fenghuang
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 # 72FM: https://72fm.com/station/5e982fb7-97d0-11e9-a605-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",郑州人民广播电台 新闻广播
 http://lhttp.qingting.fm/live/1220/64k.mp3
@@ -268,12 +316,18 @@ https://stream.zeno.fm/seq238fmesytv
 # 72FM: https://72fm.com/station/e2da8288-7465-11e9-af37-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.smg.cn/favicon.ico" group-title="China" radio="true",上海东广新闻资讯广播
 http://lhttp.qingting.fm/live/275/64k.mp3
+# 72FM: https://72fm.com/station/7dc043e0-1815-4e43-9208-cb25d5466151
+#EXTINF:-1 group-title="China" radio="true",AsiaFM亚洲天空台
+http://funradio.cn:8000/funradio
 # 72FM: https://72fm.com/station/55b58c7a-a175-4518-9936-3279059f8f0e
 #EXTINF:-1 group-title="China" radio="true",第一财经电视伴音
 http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 # 72FM: https://72fm.com/station/04dde234-7c54-11ea-8a3b-52543be04c81
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2020/0404/20200404112833.jpeg!200" group-title="China" radio="true",MY FM全国音乐频道——FM106.3 长春少儿与老年生活广播
 http://lhttp.qingting.fm/live/4984/64k.mp3
+# 72FM: https://72fm.com/station/8cfcc64e-38ac-11ea-8dd7-52543be04c81
+#EXTINF:-1 group-title="China" radio="true",长沙BIG RADIO流行音乐广播
+http://lhttp.qingting.fm/live/20847/64k.mp3
 # 72FM: https://72fm.com/station/63b86021-7d2a-42cd-aff8-96860a0bc8d5
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2023/0717/20230717031145.png" group-title="China" radio="true",云梦音乐台
 https://lhttp.qtfm.cn/live/20500187/64k.mp3
@@ -301,18 +355,21 @@ https://stream.zeno.fm/qa9punk6ynhvv
 # 72FM: https://72fm.com/station/963f49cb-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",RTHK Radio-3
 http://stm.rthk.hk/radio3
+# 72FM: https://72fm.com/station/db7142a2-b1bd-4c74-bcd4-646f73a70123
+#EXTINF:-1 group-title="China" radio="true",金典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 # 72FM: https://72fm.com/station/b20a2c5a-e99a-4004-b007-603a90ce9ad1
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2020/0405/20200405045001.jpeg!200" group-title="China" radio="true",泉州刺桐之声
 https://lhttp.qingting.fm/live/5022360/64k.mp3
+# 72FM: https://72fm.com/station/e296ab5a-1648-4345-ae6e-7ef63238c227
+#EXTINF:-1 group-title="China" radio="true",LA SALSERA Solo salsa....
+https://stream.zeno.fm/vqnryd9b2wzuv
 # 72FM: https://72fm.com/station/274fd83d-69ca-4826-bd2a-2f98d63470c5
 #EXTINF:-1 tvg-logo="https://ytmedia.radio.cn/CCYT/202302/09/17/HRdlznt8YcKTRJdZsE8SXJRsFzZaVJlJJ2023020917172.png" group-title="China" radio="true",CNR-4 经典音乐广播
 http://satellitepull.cnr.cn/live/wxdszs/playlist.m3u8?wsSession=d8a4b41c6557ba30cfeebcdb-174709298057895&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
 # 72FM: https://72fm.com/station/a9922aba-8435-4ba3-a207-8704817f6dbc
 #EXTINF:-1 tvg-logo="https://www.feiyang971.com/favicon.ico" group-title="China" radio="true",深圳音乐广播
 https://lhttp.qtfm.cn/live/1271/64k.mp3
-# 72FM: https://72fm.com/station/fe79a11f-8f0e-4586-a90b-503a447d6e68
-#EXTINF:-1 group-title="China" radio="true",上海音乐广播
-http://lhttp.qingting.fm/live/273/64k.mp3
 # 72FM: https://72fm.com/station/4443ae26-5dba-4080-aa72-d801aeaf7c27
 #EXTINF:-1 group-title="China" radio="true",广东南粤之声
 https://lhttp.qtfm.cn/live/470/64k.mp3
@@ -380,7 +437,7 @@ https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="China" radio="true",和谐铁路之声
 https://stream.zeno.fm/gzsk9r47sc9uv
 # 72FM: https://72fm.com/station/82a2903d-b2d7-49c6-93f1-c1d734a9d21a
-#EXTINF:-1 group-title="China" radio="true",REPLAY NEWS - 中文 每5分钟播报一次新闻的电台
+#EXTINF:-1 tvg-logo="https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-ZH.png" group-title="China" radio="true",REPLAY NEWS - 中文 每5分钟播报一次新闻的电台
 https://replaynewszh.ice.infomaniak.ch/replaynewszh-128.mp3
 # 72FM: https://72fm.com/station/2f380320-0fdf-4225-8498-810c65879867
 #EXTINF:-1 group-title="China" radio="true",江苏音乐广播
@@ -418,6 +475,9 @@ https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 # 72FM: https://72fm.com/station/34d03c7b-8352-40e0-831c-0477a0d507f4
 #EXTINF:-1 tvg-logo="https://scgcscreen.sctv-tf.com/favicon.ico" group-title="China" radio="true",四川交通广播
 https://lhttp.qtfm.cn/live/4886/64k.mp3
+# 72FM: https://72fm.com/station/bfe2cdb4-712c-4f75-9adc-e5c533861f97
+#EXTINF:-1 group-title="China" radio="true",浙江交通之声
+http://ali-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
 # 72FM: https://72fm.com/station/4610edcd-9987-4b55-b0f5-87bea6f94377
 #EXTINF:-1 group-title="China" radio="true",民谣·蓝调
 http://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8
@@ -430,24 +490,30 @@ https://antares.dribbcast.com/proxy/cpop?mp=/s
 # 72FM: https://72fm.com/station/2dd8574f-d5bf-4015-94a6-5ac32c61bff3
 #EXTINF:-1 group-title="China" radio="true",四川音乐广播
 https://lhttp.qtfm.cn/live/1110/64k.mp3
+# 72FM: https://72fm.com/station/57b34085-ed43-45f9-883c-3c18554ddeef
+#EXTINF:-1 group-title="China" radio="true",浙江音乐调频
+http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
 # 72FM: https://72fm.com/station/a2a654a0-ebac-4f4d-bfc6-54225029438c
 #EXTINF:-1 group-title="China" radio="true",广州经济交通广播
 http://lhttp.qingting.fm/live/4955/64k.mp3
 # 72FM: https://72fm.com/station/b9122011-21f1-4a11-937c-642dbab29635
 #EXTINF:-1 group-title="China" radio="true",山东音乐广播
 http://audiolive302.iqilu.com/sdradioYinyue/sdradio07/playlist.m3u8
-# 72FM: https://72fm.com/station/2cff8955-796f-45d2-861c-1dddb892c74a
-#EXTINF:-1 group-title="China" radio="true",AsiaFM 亚洲天空台【2023.10.18】
-http://funradio.cn:8000/funradio
 # 72FM: https://72fm.com/station/8c04d491-82a5-462b-9856-12182c5c99e6
 #EXTINF:-1 group-title="China" radio="true",BTV文艺伴音
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio
 # 72FM: https://72fm.com/station/f71a0ebf-441e-4c7e-9374-219fe943e26a
 #EXTINF:-1 tvg-logo="https://www.brtv.org.cn/favicon.ico" group-title="China" radio="true",BTV生活伴音
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+# 72FM: https://72fm.com/station/6e63baaf-cdfc-4c6e-abba-23a5bff66cf9
+#EXTINF:-1 tvg-logo="https://m.gdtv.cn/statics/images/logo.png" group-title="China" radio="true",广东文体广播
+https://lhttp.qtfm.cn/live/471/64k.mp3
 # 72FM: https://72fm.com/station/c4363a5e-2771-4e72-9019-83cae0f2d185
 #EXTINF:-1 group-title="China" radio="true",安徽卫视伴音
 https://piccpndali.v.myalicdn.com/audio/anhui_2.m3u8
+# 72FM: https://72fm.com/station/5fbfc72e-840f-4596-832b-536d61c34e88
+#EXTINF:-1 tvg-logo="https://vocaloidradio.com/favicon.ico" group-title="China" radio="true",V家电台·Vocaloid Radio
+http://curiosity.shoutca.st:8019/stream
 # 72FM: https://72fm.com/station/ed9b91ca-2919-11ea-aa0c-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",武汉新闻广播
 http://lhttp.qingting.fm/live/20198/64k.mp3
@@ -493,9 +559,6 @@ https://lhttp.qtfm.cn/live/1291/64k.mp3
 # 72FM: https://72fm.com/station/2c5b06bb-d857-4ece-b250-caedc7454355
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/48/1680485022212_lNhTeE2C0.jpeg" group-title="China" radio="true",听·越剧
 https://lhttp.qtfm.cn/live/20500178/64k.mp3
-# 72FM: https://72fm.com/station/de5a20d9-1fad-478a-8016-7301cb0216fa
-#EXTINF:-1 group-title="China" radio="true",山东经典音乐广播
-http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8
 # 72FM: https://72fm.com/station/9618f4fb-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",RTHK Putonghua Channel
 http://stm.rthk.hk/radiopth
@@ -529,6 +592,9 @@ http://s2.radio.co/sec5fa6199/listen
 # 72FM: https://72fm.com/station/739a3d6b-5c50-472f-8f0a-6f2d6158a19b
 #EXTINF:-1 tvg-logo="https://www.smg.cn/favicon.ico" group-title="China" radio="true",上海戏剧曲艺广播
 https://lhttp.qingting.fm/live/269/64k.mp3
+# 72FM: https://72fm.com/station/b271a417-afce-4370-b7cb-82e9b23e6bb8
+#EXTINF:-1 group-title="China" radio="true",杭州交通经济广播
+http://live.xmcdn.com/live/632/64.m3u8
 # 72FM: https://72fm.com/station/ab18612b-4100-40ed-bb66-9923b8efa931
 #EXTINF:-1 tvg-logo="https://www.brtv.org.cn/favicon.ico" group-title="China" radio="true",BTV科教伴音
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
@@ -541,9 +607,6 @@ http://satellitepull.cnr.cn/live/wxwyzs/playlist.m3u8?wsSession=d8b4488aebb72eb3
 # 72FM: https://72fm.com/station/19c96827-666a-11e8-b15b-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",Hong Kong Fantastic TV
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-# 72FM: https://72fm.com/station/9047f146-c0a0-477b-8ec1-a13db4780af4
-#EXTINF:-1 group-title="China" radio="true",河南网络经典FM
-http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 # 72FM: https://72fm.com/station/085cddfc-c9ad-4cdf-a391-caf42948dca3
 #EXTINF:-1 group-title="China" radio="true",厦门综合广播
 http://lhttp.qingting.fm/live/1737/64k.mp3
@@ -556,6 +619,9 @@ http://lhttp.qingting.fm/live/5022341/64k.mp3
 # 72FM: https://72fm.com/station/091e3c58-122c-11e9-a80b-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",辽宁经典流行音乐广播
 http://lhttp.qingting.fm/live/20021/64k.mp3
+# 72FM: https://72fm.com/station/68213abf-bbd4-4f9e-a663-657e1a36bb1a
+#EXTINF:-1 group-title="China" radio="true",南京交通广播
+http://live.xmcdn.com/live/70/64.m3u8
 # 72FM: https://72fm.com/station/24648e9f-6cde-4f91-9a9b-e605d275d975
 #EXTINF:-1 group-title="China" radio="true",湖北之声（调频版）（2）
 https://lhttp.qingting.fm/live/1303/64k.mp3
@@ -589,9 +655,18 @@ https://satellitepull.cnr.cn/live/wxjjzs/playlist.m3u8?wsSession=5849bb6c90cf7fc
 # 72FM: https://72fm.com/station/e778bbe0-149e-11e9-a80b-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",福州新闻广播
 http://lhttp.qingting.fm/live/5025/64k.mp3
+# 72FM: https://72fm.com/station/31277967-37a7-4466-ba08-230bd8dc906b
+#EXTINF:-1 group-title="China" radio="true",中山综合广播·新锐967
+https://lhttp.qingting.fm/live/1277/64k.mp3
 # 72FM: https://72fm.com/station/139250d7-171c-11ea-a620-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",苏州戏曲广播
 http://lhttp.qingting.fm/live/20211622/64k.mp3
+# 72FM: https://72fm.com/station/3e0b1ee2-17f3-46e5-b4e1-ea3bea8de349
+#EXTINF:-1 group-title="China" radio="true",江苏新闻综合广播
+http://lzlive.vojs.cn/rTyLc36/92/live.m3u8
+# 72FM: https://72fm.com/station/07830260-38ac-11ea-8dd7-52543be04c81
+#EXTINF:-1 group-title="China" radio="true",长沙城市之音
+http://lhttp.qingting.fm/live/4237/64k.mp3
 # 72FM: https://72fm.com/station/1bb4cb7b-7cbd-4d0d-98de-efb8dd42f857
 #EXTINF:-1 group-title="China" radio="true",海上财经
 https://lhttp.qtfm.cn/live/20500170/64k.mp3
@@ -628,12 +703,18 @@ http://lhttp.qingting.fm/live/20212216/64k.mp3
 # 72FM: https://72fm.com/station/08fe49be-7512-11e9-af37-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",沈阳经典音乐广播
 http://lhttp.qingting.fm/live/5022520/64k.mp3
+# 72FM: https://72fm.com/station/e9a41c0f-2be3-4c63-9ea6-327d782dddd3
+#EXTINF:-1 group-title="China" radio="true",杭州音乐时尚广播
+https://live.xmcdn.com/live/1845/64.m3u8
+# 72FM: https://72fm.com/station/d8789b63-0f93-486a-8d4e-7d7e0a571099
+#EXTINF:-1 group-title="China" radio="true",哈尔滨古典音乐广播
+https://stream.hrbtv.net/gdpl/playlist.m3u8
+# 72FM: https://72fm.com/station/872f73b9-4ffb-4e0f-9ee7-bb7aea2b3f6c
+#EXTINF:-1 group-title="China" radio="true",浙江城市之声
+http://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
 # 72FM: https://72fm.com/station/598d4b07-238a-437a-9d4e-bb26215f4385
 #EXTINF:-1 tvg-logo="https://static.tudoradio.com/ins/w:120/plain/https://tudoradio.com/img/uploads/radios/radio_fm90salto.png" group-title="China" radio="true",厦门音乐广播
 https://lhttp.qtfm.cn/live/1739/64k.mp3
-# 72FM: https://72fm.com/station/34785bfd-f3ac-42f4-9228-aa43805ae7d3
-#EXTINF:-1 tvg-logo="https://m.qingting.fm/favicon.ico" group-title="China" radio="true",500 Çin Altın Şarkısı
-http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 # 72FM: https://72fm.com/station/2d6cedb1-97df-4e2e-a507-e1760b00524f
 #EXTINF:-1 group-title="China" radio="true",沧州长书文艺广播
 https://lhttp.qingting.fm/live/5021902/64k.mp3
@@ -664,12 +745,12 @@ https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
 # 72FM: https://72fm.com/station/a3d3ffe7-bd9e-11e8-aaf2-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",Alxa Mongolian Radio
 http://lhttp.qingting.fm/live/5022555/64k.mp3
+# 72FM: https://72fm.com/station/7cbdb65f-be6a-43fa-88b9-1048aaa4796d
+#EXTINF:-1 group-title="China" radio="true",无印良品BGM精选
+https://stream.zeno.fm/brv193g9468uv
 # 72FM: https://72fm.com/station/acbeaef9-17d7-498f-ace0-dfbb78caa430
 #EXTINF:-1 tvg-logo="https://ytmedia.radio.cn/CCYT/202302/09/17/j5t4Bt3drpLhkZnDREc2023020917793.png" group-title="China" radio="true",CNR-3 音乐之声
 https://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908117055114&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
-# 72FM: https://72fm.com/station/7f1ccba3-9fa0-4636-afc1-91ac4d8f8cf5
-#EXTINF:-1 tvg-logo="https://mytunein.com/images/logos/chineseclassicalmusiconlineradio.jpg" group-title="China" radio="true",Chinese Classical Music (Ogg stream)
-https://radio.chinesemusicworld.com/chinesemusic.ogg
 # 72FM: https://72fm.com/station/998ad534-15b1-4f5a-99e6-f1932664924d
 #EXTINF:-1 group-title="China" radio="true",辽宁交通广播
 https://lhttp.qtfm.cn/live/20025/64k.mp3
@@ -682,6 +763,9 @@ http://lhttp.qingting.fm/live/5022038/64k.mp3?
 # 72FM: https://72fm.com/station/2fb2daa2-7271-4b9d-a3f2-31a3598829df
 #EXTINF:-1 group-title="China" radio="true",아리랑모바일방송
 https://lhttp.qingting.fm/live/5022144/64k.mp3
+# 72FM: https://72fm.com/station/2b15c723-9cbc-421b-a703-81c8e8b974f4
+#EXTINF:-1 group-title="China" radio="true",他她说：EP.3 读本书吧《百岁人生》
+https://media.xyzcdn.net/nnkLT7Qx1QNOjB362KOst5vwjYzl.mp3
 # 72FM: https://72fm.com/station/15b3f8fb-dd33-4c0e-a0c2-ee98399c7faa
 #EXTINF:-1 tvg-logo="https://so1.360tres.com/t01ad075de98c89d27d.jpg" group-title="China" radio="true",CCTV-6电影频道伴音
 https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
@@ -697,6 +781,9 @@ http://lhttp.qingting.fm/live/20160/64k.mp3
 # 72FM: https://72fm.com/station/7be5ab8a-720f-4561-a3ae-0717a5190a47
 #EXTINF:-1 group-title="China" radio="true",上海新闻广播 FM93.4 AM990
 https://lhttp-hw.qtfm.cn/live/270/64k.mp3
+# 72FM: https://72fm.com/station/6bbdc0b4-c170-4f13-87e6-2ac944b25842
+#EXTINF:-1 group-title="China" radio="true",_Wawa Radio 101.2 FM
+https://xn--tmz.xn--6frz82g/streams
 # 72FM: https://72fm.com/station/df5fe256-5b8f-44fa-8094-3ce8c9bce076
 #EXTINF:-1 group-title="China" radio="true",湖南音乐之声
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
@@ -718,6 +805,9 @@ http://live.xmcdn.com/live/71/64.m3u8
 # 72FM: https://72fm.com/station/5f135b1f-d27d-11e9-a861-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",天津静海区广播电台
 http://lhttp.qingting.fm/live/20212227/64k.mp3
+# 72FM: https://72fm.com/station/b2ba5a08-e2e4-4578-832c-bc5c1980cdd6
+#EXTINF:-1 group-title="China" radio="true",浙江新闻频道
+http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 # 72FM: https://72fm.com/station/92cc7cf0-a692-4b43-bbae-933429de078b
 #EXTINF:-1 group-title="China" radio="true",辽宁广播电视台都市广播
 http://lhttp.qingting.fm/live/1099/64k.mp3
@@ -730,6 +820,9 @@ http://lhttp.qingting.fm/live/5022382/64k.mp3
 # 72FM: https://72fm.com/station/51554084-57ff-4177-a811-5a1a7c1fb49c
 #EXTINF:-1 tvg-logo="https://www.pudongtv.cn/favicon.ico" group-title="China" radio="true",上海浦东FM106.5东上海之声
 http://lhttp.qingting.fm/live/21355/64k.mp3
+# 72FM: https://72fm.com/station/cfa42f8d-4457-474b-872d-40772992c27b
+#EXTINF:-1 group-title="China" radio="true",主内真生命
+https://stream.tligradio.org/listen/chinese/radio.mp3
 # 72FM: https://72fm.com/station/9d06d030-d629-4219-931e-cd03fa7240fc
 #EXTINF:-1 group-title="China" radio="true",山西交通广播
 http://radiolive.sxrtv.com/live/jiaotong.m3u8
@@ -751,9 +844,6 @@ https://live.ximalaya.com/radio-first-page-app/live/2781/64.m3u8
 # 72FM: https://72fm.com/station/687338c5-1d9f-4965-a4a0-8ced888bf532
 #EXTINF:-1 group-title="China" radio="true",三亚天涯之声
 http://lhttp.qingting.fm/live/20450/64k.mp3
-# 72FM: https://72fm.com/station/95a79112-a32a-4fd8-b7f5-dc0b4a6921c0
-#EXTINF:-1 group-title="China" radio="true",AsiaFM郫都区综合广播
-https://lhttp.qingting.fm/live/4581/64k.mp3?
 # 72FM: https://72fm.com/station/0ef0a7c4-efcb-11e8-a471-52543be04c81
 #EXTINF:-1 group-title="China" radio="true",河北旅游广播Hopei Travel Radio
 http://ls.qingting.fm/live/1651.m3u8
@@ -766,9 +856,6 @@ https://stream.zeno.fm/ftap1exq6k8uv
 # 72FM: https://72fm.com/station/bde119da-1282-4e50-bb92-3907e3092a95
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2018/0201/20180201120816.png" group-title="China" radio="true",陕西交通广播
 https://lhttp.qtfm.cn/live/1601/64k.mp3
-# 72FM: https://72fm.com/station/f067ee72-b81e-11e8-aaf2-52543be04c81
-#EXTINF:-1 group-title="China" radio="true",Canton News Radio
-http://ls.qingting.fm/live/4848.m3u8
 # 72FM: https://72fm.com/station/abed049c-9c63-4b11-bdf1-07495564f2a6
 #EXTINF:-1 group-title="China" radio="true",大连音乐广播
 http://lhttp.qingting.fm/live/1084/64k.mp3
@@ -817,90 +904,3 @@ https://stream.zeno.fm/qu29gyku968uv
 # 72FM: https://72fm.com/station/470a069f-a284-4f62-8d66-5ce2b8f0a3a7
 #EXTINF:-1 tvg-logo="https://www.hwadzan.tv/wp-content/uploads/2021/04/favicon.ico" group-title="China" radio="true",华藏净宗弘化网网络念佛堂
 https://vod.amtb.de/liveedge/_definst_/smil:amtb.smil/chunklist_b828000.m3u8
-# 72FM: https://72fm.com/station/8443d8df-434f-4469-8e55-e2ae19b2d646
-#EXTINF:-1 group-title="China" radio="true",CETV-2伴音
-https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
-# 72FM: https://72fm.com/station/af63fa32-f76a-4ca8-b0f2-bb4f8d1f4687
-#EXTINF:-1 group-title="China" radio="true",哈尔滨电视台 新闻综合频道
-http://stream.hrbtv.net/xwzh/playlist.m3u8
-# 72FM: https://72fm.com/station/456b636c-793b-4c20-9c02-6b2d6396d0b9
-#EXTINF:-1 group-title="China" radio="true",山东体育休闲广播（2）
-http://audiolive302.iqilu.com/sdradioTiyu/sdradio08/playlist.m3u8
-# 72FM: https://72fm.com/station/92691215-b7eb-42f8-812a-3484562071f4
-#EXTINF:-1 group-title="China" radio="true",有线直播新闻台
-http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
-# 72FM: https://72fm.com/station/f7fab6a3-9af0-4070-ab00-40049db517d7
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https://images.zeno.fm/OUYIdK-I9SRrKdCnUXGGqr_zmu-mhTh1Nigcjs-8vbk/rs:fit:268:268/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2ZjMDM4NDAwLTc1YjYtNDE3Ni1hMTZhLTYwNDQzMzcwYTEwYS9pbWFnZS8_dXBkYXRlZD0xNjkzMDg5MjAzMDAwP3U9NTc2Mjk1OA.webp&w=640&q=75" group-title="China" radio="true",韩国音乐台
-https://stream.zeno.fm/r0tbse9jnbptv
-# 72FM: https://72fm.com/station/99a740fa-ae76-4c55-9359-dac5db58f1a5
-#EXTINF:-1 group-title="China" radio="true",花都人民广播电台
-https://lhttp.qingting.fm/live/1263/64k.mp3
-# 72FM: https://72fm.com/station/a9e478a3-b033-4f29-87a1-986be284a46f
-#EXTINF:-1 group-title="China" radio="true",河北文艺广播
-https://radio.pull.hebtv.com/live/hebwy.m3u8
-# 72FM: https://72fm.com/station/a98b7b71-738f-4ca9-bb88-2b16d07aff43
-#EXTINF:-1 group-title="China" radio="true",重庆都市广播
-https://lhttp.qtfm.cn/live/1502/64k.mp3
-# 72FM: https://72fm.com/station/2cb331c4-ce9e-4a97-8e4e-a6f0bee4f722
-#EXTINF:-1 tvg-logo="https://www.gzstv.com/favicon.ico" group-title="China" radio="true",贵州卫视伴音
-https://piccpndali.v.myalicdn.com/audio/guizhou_2.m3u8
-# 72FM: https://72fm.com/station/1b4acdcb-c3fb-4b10-8da2-4cf1b3eaa184
-#EXTINF:-1 tvg-logo="https://so1.360tres.com/t01702f7574ea1f8160.png" group-title="China" radio="true",青海卫视伴音
-https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8
-# 72FM: https://72fm.com/station/8c3ce068-b407-4d1e-bd2f-4c6d5c971c0c
-#EXTINF:-1 group-title="China" radio="true",石家庄交通广播
-http://lhttp.qingting.fm/live/1655/64k.mp3
-# 72FM: https://72fm.com/station/8bb437c1-7ee5-4811-9afc-2a1c6b214a36
-#EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2019/0227/20190227023249.png" group-title="China" radio="true",BRTV北京交通广播
-https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
-# 72FM: https://72fm.com/station/60c8cc81-b926-4c06-8f29-56a86aa0ff91
-#EXTINF:-1 tvg-logo="https://so1.360tres.com/t01728d85a96ec4775b.jpg" group-title="China" radio="true",陕西新闻广播
-https://lhttp.qtfm.cn/live/1600/64k.mp3
-# 72FM: https://72fm.com/station/95ad11ab-923d-48ea-bc07-f26f15632d11
-#EXTINF:-1 group-title="China" radio="true",石家庄音乐广播
-http://lhttp.qingting.fm/live/1654/64k.mp3
-# 72FM: https://72fm.com/station/c1f03973-7e62-463e-8110-169c64837017
-#EXTINF:-1 group-title="China" radio="true",郑州新闻综合广播
-https://lhttp.qtfm.cn/live/1220/64k.mp3
-# 72FM: https://72fm.com/station/40531f0d-14a5-11e9-a80b-52543be04c81
-#EXTINF:-1 group-title="China" radio="true",长沙交通广播
-http://lhttp.qingting.fm/live/3967/64k.mp3
-# 72FM: https://72fm.com/station/a11a6322-f533-4a9e-9d0b-6f14906b433c
-#EXTINF:-1 group-title="China" radio="true",廊坊综合广播
-https://lhttp.qingting.fm/live/3948/64k.mp3
-# 72FM: https://72fm.com/station/da2ae6be-f867-4a2e-9755-695fad80c38e
-#EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2016/0521/20160521095045577.png" group-title="China" radio="true",福建新闻综合广播
-https://lhttp.qtfm.cn/live/1731/64k.mp3
-# 72FM: https://72fm.com/station/6678ee03-a9fb-48c2-9ca7-e13c7e0ae2d5
-#EXTINF:-1 group-title="China" radio="true",全国党员干部现代远程教育
-https://12371wbndks.v.kcdnvip.com/12371wbnd/dangyuanwang_2/index.m3u8
-# 72FM: https://72fm.com/station/d872fc0c-f978-4295-924c-ccdb565d8b95
-#EXTINF:-1 group-title="China" radio="true",廊坊交通长书广播
-http://lhttp.qingting.fm/live/3948/64k.mp3
-# 72FM: https://72fm.com/station/5034b349-1878-46e2-ad65-208809d70975
-#EXTINF:-1 group-title="China" radio="true",广西交通广播
-https://stream.bbrtv.com:10443/hls/scGbVLJGR/scGbVLJGR_live.m3u8
-# 72FM: https://72fm.com/station/ff4cde12-7513-11e9-af37-52543be04c81
-#EXTINF:-1 group-title="China" radio="true",无锡音乐广播
-http://lhttp.qingting.fm/live/2779/64k.mp3
-# 72FM: https://72fm.com/station/d9cadca2-1ca3-4205-b983-f75d41436277
-#EXTINF:-1 tvg-logo="https://new.brg-radio.com/wp-content/uploads/2022/10/cropped-65-1.png" group-title="China" radio="true",Bridge Radio - 华语 HITS
-https://das-edge11-live365-dal03.cdnstream.com/a57743_2
-# 72FM: https://72fm.com/station/bd463c3d-4c75-483a-9ffc-03b486397c22
-#EXTINF:-1 group-title="China" radio="true",江西广播电视台新闻广播
-http://lhttp.qingting.fm/live/1809/64k.mp3
-# 72FM: https://72fm.com/station/c0c84956-2af4-430e-a969-c75302a6dae4
-#EXTINF:-1 group-title="China" radio="true",河南网络星河音乐台
-http://stream.hndt.com/live/1061/playlist.m3u8
-# 72FM: https://72fm.com/station/522d7aff-9661-11e8-a767-52543be04c81
-#EXTINF:-1 tvg-logo="https://scgcscreen.sctv-tf.com/favicon.ico" group-title="China" radio="true",Sichuan News 四川综合广播FM98.1
-https://lhttp.qingting.fm/live/4906/64k.mp3
-# 72FM: https://72fm.com/station/d3a63a00-1f19-45d2-918b-cc7288f235ef
-#EXTINF:-1 group-title="China" radio="true",珠海交通875·环保经济广播
-http://lhttp.qingting.fm/live/1275/64k.mp3
-# 72FM: https://72fm.com/station/44273505-c52e-48aa-8069-2cfbf070d470
-#EXTINF:-1 group-title="China" radio="true",安徽综合广播
-https://lhttp.qtfm.cn/live/4919/64k.mp3
-# 72FM: https://72fm.com/station/11db0398-6c49-41f3-97c9-411cbc794dfa
-#EXTINF:-1 tvg-logo="https://ytmedia.radio.cn/CCYT/202505/19/18/8jLzVYGQuoQrHLIljfYQxUeOssaU12f5xAiFGZr2025051918831.jpg" group-title="China" radio="true",CNR-15 中国交通广播
-https://satellitepull.cnr.cn/live/wxzgjtgb/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908170190549&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3

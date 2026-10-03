@@ -4,14 +4,20 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/abf4447e-6da7-47d3-9b67-e051e3c76652
-#EXTINF:-1 group-title="Jordan" radio="true",noursat jordan
+# 72FM: https://72fm.com/station/217e4e14-8637-4581-88fa-bd144af3b691
+#EXTINF:-1 tvg-logo="https://www.jrtv.gov.jo/favicon.ico" group-title="Jordan" radio="true",Radio Jordan 96.3
+https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8
+# 72FM: https://72fm.com/station/672074e5-1f1e-11e9-a80b-52543be04c81
+#EXTINF:-1 group-title="Jordan" radio="true",Noursat Jordan TV
 http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+# 72FM: https://72fm.com/station/5b61ccc0-f369-4368-ba65-3b10b7f6bae9
+#EXTINF:-1 group-title="Jordan" radio="true",Mood Fm 92 Amman
+https://securestreams2.autopo.st:1241/live
 # 72FM: https://72fm.com/station/41c8a217-ef9d-4f8f-83ab-8b8d730a1209
 #EXTINF:-1 group-title="Jordan" radio="true",Jordan Radio (Main)
 https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8
-# 72FM: https://72fm.com/station/d04217b3-11be-4f7e-b6d7-8e238ca27efa
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/43386.v10.png" group-title="Jordan" radio="true",Mazaj FM
+# 72FM: https://72fm.com/station/79feed6a-4975-4bf1-995c-822e0f41426b
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Zt3E6eRGGn.png" group-title="Jordan" radio="true",Mazaj FM
 https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3
 # 72FM: https://72fm.com/station/f11a1158-1ee0-4772-bcb0-110522be1e18
 #EXTINF:-1 group-title="Jordan" radio="true",Hayat FM
@@ -25,12 +31,6 @@ https://securestreams2.autopo.st:1242/live
 # 72FM: https://72fm.com/station/42f0f2b1-a1fc-4252-9e94-5a5e6c467c2d
 #EXTINF:-1 group-title="Jordan" radio="true",Radio Dahab
 https://dahab.ice.infomaniak.ch/dahab-192.mp3
-# 72FM: https://72fm.com/station/b5f9df76-4119-4ca2-b778-0ac128c9442c
-#EXTINF:-1 group-title="Jordan" radio="true",JRRadio
-https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8
-# 72FM: https://72fm.com/station/416484fb-1a73-4bf6-afdf-512859341ffa
-#EXTINF:-1 group-title="Jordan" radio="true",Mood FM
-https://securestreams2.autopo.st:1241/live
 # 72FM: https://72fm.com/station/06e1ce15-a839-4bd6-9d77-6c4c32eb75cc
 #EXTINF:-1 tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/7/Mv/3/Thumbnail.png" group-title="Jordan" radio="true",Quran Radio (JO)
 https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8

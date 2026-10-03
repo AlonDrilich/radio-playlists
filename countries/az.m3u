@@ -16,6 +16,9 @@ http://radio.autoliferadio.com:8090/radio
 # 72FM: https://72fm.com/station/aeb8bc72-b103-46c5-b9dd-4ebbb96af3fb
 #EXTINF:-1 group-title="Azerbaijan" radio="true",Yurd FM
 https://icecast.livetv.az/yurdfm
+# 72FM: https://72fm.com/station/e215f48c-3ff7-4430-91e0-2dfd499fd41c
+#EXTINF:-1 tvg-logo="https://antiradio.net/wp-content/uploads/2024/04/cropped-favicon-180x180.png" group-title="Azerbaijan" radio="true",Anti Radio
+https://stream.antiradio.net/radio/8000/mp3
 # 72FM: https://72fm.com/station/33e4041e-714d-402a-b7ee-cbdbadee670f
 #EXTINF:-1 group-title="Azerbaijan" radio="true",Xezer FM
 https://s40.myradiostream.com/:22546/listen.mp3?
@@ -31,9 +34,6 @@ https://play.asanradio.az/
 # 72FM: https://72fm.com/station/34800c3f-87a1-4e77-932c-21bfc89a325d
 #EXTINF:-1 group-title="Azerbaijan" radio="true",Media Fm 105.5
 https://icecast.livetv.az/mediafm
-# 72FM: https://72fm.com/station/638ff6b5-a176-451f-ae89-34fa04d028cb
-#EXTINF:-1 tvg-logo="https://antiradio.net/favicon.ico" group-title="Azerbaijan" radio="true",Anti Radio
-https://stream.antiradio.net/radio/8000/mp3
 # 72FM: https://72fm.com/station/834ac917-6231-4807-a309-9e2f4de66d30
 #EXTINF:-1 tvg-logo="https://boss.com.az/wp-content/uploads/2018/04/BOSS-MAGAZINE-LOGO.png" group-title="Azerbaijan" radio="true",Caspian Business Radio BOSS
 https://myradio24.org/bosscomaz
@@ -88,21 +88,21 @@ http://5.191.241.101:8000/bravo
 # 72FM: https://72fm.com/station/f8148ba1-c5b5-4c3e-8726-efeae27880d6
 #EXTINF:-1 group-title="Azerbaijan" radio="true",Rahat Supermarket Radio
 http://5.191.241.101:8000/rahatmarket
+# 72FM: https://72fm.com/station/5a24bae2-2f31-439e-ac30-86d16a403200
+#EXTINF:-1 group-title="Azerbaijan" radio="true",Media fm mugam
+http://icecast.livetv.az/mediamugam
+# 72FM: https://72fm.com/station/8348b60b-a3a6-43e8-a83b-4e612db52fc6
+#EXTINF:-1 group-title="Azerbaijan" radio="true",Media fm jazz
+http://icecast.livetv.az/mediajazz
 # 72FM: https://72fm.com/station/590a06ad-56cb-4fde-b533-3b3f0c97f781
 #EXTINF:-1 tvg-logo="https://streamurl.link/logos/uFZrTYg4pHL.webp?t=8gWg0kVY3FJrekgVUv5NUw&e=1790020800" group-title="Azerbaijan" radio="true",Vintage Radio Azerbaijan
 https://trucker.autoliferadio.com:1045/stream
 # 72FM: https://72fm.com/station/857b97de-f97e-4c08-9d19-54b108e021be
 #EXTINF:-1 tvg-logo="https://yurdfm.az/logo.png" group-title="Azerbaijan" radio="true",Yurd fm
 http://icecast.livetv.az/yurdfm
-# 72FM: https://72fm.com/station/803cea38-b64b-4a95-95fd-808c73e567be
+# 72FM: https://72fm.com/station/d14fcc68-df6b-41a5-a3be-83731395a5bb
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s354857/images/logod.jpg?t=639109095420000000" group-title="Azerbaijan" radio="true",Baku Jazz Radio
 https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3
-# 72FM: https://72fm.com/station/32b58b3d-4227-4afc-ac53-7e19a6c2ed9d
-#EXTINF:-1 tvg-logo="https://mediafm.az/wp-content/uploads/2026/02/Media_JazzLogo309x309.png" group-title="Azerbaijan" radio="true",Media FM Jazz
-http://icecast.livetv.az/mediajazz
 # 72FM: https://72fm.com/station/80e956ef-7f53-4f7d-a61f-cd5496a4327e
 #EXTINF:-1 tvg-logo="https://mediafm.az/wp-content/uploads/2026/03/Media_Reax_309x309.png" group-title="Azerbaijan" radio="true",Media FM Relax
 http://icecast.livetv.az/mediarelax
-# 72FM: https://72fm.com/station/95efc006-fa7a-4934-95e8-05b1cfa61d25
-#EXTINF:-1 tvg-logo="https://mediafm.az/wp-content/uploads/2026/02/Media_MugamLogo309x309.png" group-title="Azerbaijan" radio="true",Media FM Mugam
-http://icecast.livetv.az/mediamugam

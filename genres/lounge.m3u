@@ -4,9 +4,6 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/6ce8da92-859f-4f96-a5e4-503c1ddfbfbf
-#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="Lounge" radio="true",Classic Vinyl HD Opus
-https://icecast.walmradio.com:8443/classic_opus
 # 72FM: https://72fm.com/station/960cf833-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="Lounge" radio="true",SomaFM Groove Salad (128k MP3)
 https://ice6.somafm.com/groovesalad-128-mp3
@@ -19,6 +16,9 @@ https://listen9.myradio24.com/6262
 # 72FM: https://72fm.com/station/961173b5-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="Lounge" radio="true",SomaFM Lush (128k MP3)
 https://ice6.somafm.com/lush-128-mp3
+# 72FM: https://72fm.com/station/3fd18c3f-8157-11e9-aa30-52543be04c81
+#EXTINF:-1 tvg-logo="https://cafedelmar.com/apple-touch-icon.png" group-title="Lounge" radio="true",Café del Mar
+https://streams.radio.co/se1a320b47/listen
 # 72FM: https://72fm.com/station/96159295-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Hi On Line Lounge Radio
 http://mediaserv33.live-streams.nl:8036/live
@@ -31,15 +31,15 @@ http://streaming.karolina.rs:8000/karolina
 # 72FM: https://72fm.com/station/11b52be4-df72-11e9-a8ba-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Enigmatic 3 - Magnetic Chillout
 http://radio.enigmatic.su:8050/radio
-# 72FM: https://72fm.com/station/5bc44bcd-7481-40e1-b503-bb92b936f4cf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png" group-title="Lounge" radio="true",# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
-https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts
 # 72FM: https://72fm.com/station/38129622-6899-11ea-9d09-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Easy FM
 https://netradio.ziniur.lt/easyfm.mp3
 # 72FM: https://72fm.com/station/0cb0a0e3-7fb0-11e8-a43d-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",RMC VIP Lounge
 http://edge.radiomontecarlo.net/rmcweb020
+# 72FM: https://72fm.com/station/96074f59-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Lounge" radio="true",Jazz Radio Lounge
+http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
 # 72FM: https://72fm.com/station/960d68cf-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="Lounge" radio="true",SomaFM Secret Agent (32k AAC)
 https://ice2.somafm.com/secretagent-32-aac
@@ -52,9 +52,6 @@ http://188.40.109.122:8000/ices3
 # 72FM: https://72fm.com/station/d407234d-18b3-4419-ba07-e19b2c8cb885
 #EXTINF:-1 group-title="Lounge" radio="true",VIP-Radios - Time To Relax
 http://178.32.111.41:8048/stream-128kmp3-TimeToRelax
-# 72FM: https://72fm.com/station/be26f3f5-1ee1-4661-a3de-4544fc29e833
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sP4q4Wh/breakz-fm-logo-fav.png" group-title="Lounge" radio="true",_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!
-https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
 # 72FM: https://72fm.com/station/960dc8d6-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Klassik Radio - Lounge
 http://stream.klassikradio.de/lounge/mp3-128/www.klassikradio.de/
@@ -91,21 +88,12 @@ https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
 # 72FM: https://72fm.com/station/96451b5b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",FluxFM - FluxLounge
 http://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851?sABC=6nor1997%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790843287
-# 72FM: https://72fm.com/station/4cc3e959-b572-4285-99e2-069151d03b5e
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_2722a2a63db342f0901576a0168f2571~mv2.jpg" group-title="Lounge" radio="true",# 100 GREATEST JAZZ LOUNGE BAR
-https://cast1.torontocast.com:4640/stream
 # 72FM: https://72fm.com/station/25ff1b4c-ffcb-4572-a561-9347e0e58c75
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Lounge" radio="true",__LOUNGE__ by rautemusik (rm.fm)
 https://lounge-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/961595e3-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Euro Smooth Jazz
 http://stream.laut.fm/eurosmoothjazz
-# 72FM: https://72fm.com/station/3d9dcff7-8fd2-4eda-9d77-cfe259c62a70
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P7QHpGB/DJ-CLUB-CHARTS-LOGO.png" group-title="Lounge" radio="true",- DJ & CLUB CHARTS ---> Club Classics, Festival-Hits, Remixes, Single Charts, Mashups, DJ Sets, Club Edits, Dancefloor, Underground, Nightlife, Party Anthems, Ibiza, Miami, Clubbing, Festival, Remix, Mashup, DJ, EDM, RAVE, Dance, Urban, Latin, Beachclub, Lounge
-https://breakz-2012-high.rautemusik.fm/?ref=rb-djclubcharts
-# 72FM: https://72fm.com/station/1aa5a707-c24c-4c5d-abcc-6f9b7a8f2f2e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mFjn8LB/TL-Melodic-House-Techno-png.jpg" group-title="Lounge" radio="true",Melodic House & Techno @ Technolovers.FM (Chillout, Beach, Festival, Sundowner, Relax, Ibiza, Sea, Ocean Music, Beachclub, Cocktailbar, 2024, 2025, 2026 Future Rave 126, 128, 124 Beats per Minute , BPM)
-https://stream.technolovers.fm/melodic-house-techno?ref=radiobrowser-2
 # 72FM: https://72fm.com/station/22b2fdfc-e8dd-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Radio Caprice - New Age
 http://79.120.77.11:8002/newage
@@ -130,9 +118,6 @@ http://c4.auracast.net:8020/stream
 # 72FM: https://72fm.com/station/29995961-137e-4adb-bad1-71eaa989a598
 #EXTINF:-1 group-title="Lounge" radio="true",Disco Cafe
 https://azuracast.streams.ovh:8260/radio.mp3
-# 72FM: https://72fm.com/station/02734cfa-5c5b-46f2-85c6-a5a654be7a24
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gc5TMjP/Top-200-Dj-Charts-breakz-logo.jpg" group-title="Lounge" radio="true",#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic House, Melodic Techno. Best 100 Lounge, Mixed Radio Station @ PartyHits / Schlager Remix Top 50
-https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 # 72FM: https://72fm.com/station/962cec6b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Talsi Lounge
 http://radio.kuums.lv:5555/;
@@ -151,9 +136,6 @@ https://ice5.somafm.com/lush-128-aac
 # 72FM: https://72fm.com/station/24075e72-a24c-4baf-a9e2-eaf6c788a4e1
 #EXTINF:-1 tvg-logo="https://justmusicradio.mk/wp-content/uploads/2020/05/95997763_1489679141241833_2955882538482008064_n-1.png" group-title="Lounge" radio="true",Just Music Radio
 https://radiostream.neotel.mk/justmusicradio
-# 72FM: https://72fm.com/station/af915008-e9f1-4750-bf58-3f774ea5fc4a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbRPNdd/charts-mainstage.jpg" group-title="Lounge" radio="true",# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE - LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE - DANCE - LOUNGE - CHILLOUT - SUMMER - IBIZA HOUSE - WEDDING - BACH - SOULFUL - BEACH - CLUB - GERMANY DJ RADIO - PARTY - BREAKZ - POOL - POP - URBAN - HOT NEW MUSIC
-https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage
 # 72FM: https://72fm.com/station/bafa3b8e-1393-11ea-a87e-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",BALATONICA RADIO
 http://balatonica.hu:8000/stream_high
@@ -185,7 +167,7 @@ https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="Lounge" radio="true",SomaFM Secret Agent (64k AAC)
 https://ice6.somafm.com/secretagent-64-aac
 # 72FM: https://72fm.com/station/d271b4e8-a298-4862-9f4b-025c110cedd9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPkfdprq/rb-Ibiza.png" group-title="Lounge" radio="true",IBIZA CHILLOUT LOUNGE - Ambient, Deep House, Balearic, Smooth Jazz, Acoustic, Chill House, Lo-Fi, Chillwave, Dream Pop, Electro, Tropical House, Sunset Chill, Café del Mar, Soft Electronica, Slow House, Ambient, Relax, Easy Listening, Beach Vibes, Summer
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPkfdprq/rb-Ibiza.png" group-title="Lounge" radio="true",IBIZA CHILLOUT LOUNGE - Ambient, Deep House, Balearic, Smooth Jazz, Acoustic, Chill House, Lo-Fi, Chillwave, Dream Pop,
 https://0nlineradio.radioho.st/lounge-ibiza-chillout-lounge?ref=rb26
 # 72FM: https://72fm.com/station/963cff36-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Klassik Radio - Games
@@ -208,9 +190,6 @@ https://stream.bigfm.de/lofifocus/mp3-128/radiobrowser
 # 72FM: https://72fm.com/station/cb136507-425b-4934-8991-d7fc8873c849
 #EXTINF:-1 tvg-logo="https://sunsetchilloutlounge.com/wp-content/uploads/2023/04/sunrise_sunset_captions_puns_quotes_instagram-7-300x225.jpg" group-title="Lounge" radio="true",Sunset Chillout Lounge
 https://listen.radioking.com/radio/571682/stream/631712
-# 72FM: https://72fm.com/station/75db29d2-9abd-4b2b-b16c-a8decd86a587
-#EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-02-16/253ad4a8eaed27bf80efa9d428914089.ico.png" group-title="Lounge" radio="true",SENSUAL LOUNGE RADIO
-https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069
 # 72FM: https://72fm.com/station/a1736a09-6b1e-4f1c-89bc-644033121167
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-lounge_600x600.jpg" group-title="Lounge" radio="true",- 0 N - Lounge on Radio
 https://0n-lounge.radionetz.de/0n-lounge.mp3
@@ -226,14 +205,11 @@ https://stream.epic-lounge.com/french-cafe-lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/6d4127ba-cd83-45c2-90ad-57dfd90b1457
 #EXTINF:-1 tvg-logo="https://swissgroove.ch/favicon.ico" group-title="Lounge" radio="true",SWISS GROOVE
 https://relay2.swissgroove.ch/;
-# 72FM: https://72fm.com/station/fd63371f-2620-49ee-88ef-6e2ddfe5b86f
-#EXTINF:-1 tvg-logo="https://blogunik.buzz/img/icon-unik02.png" group-title="Lounge" radio="true",Radio Energy Cugir
-https://sonicssl.namehost.ro/8790/stream/;
 # 72FM: https://72fm.com/station/70094073-a1a6-4c73-b871-6b25dddee813
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LDb4Ctnb/COFFEE-LOUNGE.png" group-title="Lounge" radio="true",0R - COFFEE LOUNGE || Background Music, Jazz, Lounge, Chill, Smooth, Acoustic, Soft Pop, Easy Listening, Relax, Cafe, Background, Mellow, Evening, Instrumental, Romantic, Soft Jazz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDb4Ctnb/COFFEE-LOUNGE.png" group-title="Lounge" radio="true",0R - COFFEE LOUNGE || Background Music, Jazz, Lounge, Chill, Smooth, Acoustic, Soft Pop, Easy Listening, Relax, Cafe, Ba
 https://0nlineradio.radioho.st/lounge-coffee-bar-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/4f30d107-82f3-4e4e-99e4-44e05adcb2e9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MkhwYrRM/Piano-Jazz-Lounge.png" group-title="Lounge" radio="true",0R - PIANO JAZZ LOUNGE || Jazz, Piano, Lounge, Smooth, Chill, Relax, Soft, Acoustic, Instrumental, Evening, Romantic, Background, Coffee, Mellow, Elegant
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkhwYrRM/Piano-Jazz-Lounge.png" group-title="Lounge" radio="true",0R - PIANO JAZZ LOUNGE || Jazz, Piano, Lounge, Smooth, Chill, Relax, Soft, Acoustic, Instrumental, Evening, Romantic, Ba
 https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26
 # 72FM: https://72fm.com/station/793bb20d-e596-45c4-831b-9b552bc2f846
 #EXTINF:-1 group-title="Lounge" radio="true",Epic Lounge - NEW YORK LOUNGE
@@ -241,9 +217,6 @@ https://stream.epic-lounge.com/new-york-lounge
 # 72FM: https://72fm.com/station/157b699e-8895-4154-a764-59877eef735d
 #EXTINF:-1 group-title="Lounge" radio="true",Epic Lounge - SPA LOUNGE
 https://stream.epic-lounge.com/spa-lounge?ref=radiobrowser
-# 72FM: https://72fm.com/station/8f14d1fa-31f6-4fd7-9dcb-8ed0e3bf3d18
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GLkKPMc/Hotel-Lounge.png" group-title="Lounge" radio="true",0R - HOTEL LOUNGE || Chill, Jazz, Smooth, Relax, Soft Music, Acoustic, Background, Dinner, Romantic, Evening, Calm, Cafe, Instrumental, Soft Pop
-https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/96160416-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Smart Radio
 http://stream.glueckserver.de:8000/smartradio.mp3
@@ -266,7 +239,7 @@ https://audiostreams.deluxemusic.tv/lounge/aac-64/website?=&&___cb=2906628425060
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJByzTs/sax-house-lounge.jpg" group-title="Lounge" radio="true",Epic Lounge - SAX HOUSE LOUNGE
 https://stream.epic-lounge.com/sax-house-lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/b828a184-3488-48f2-ab60-38a5e435a9fe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgtLbFs6/Nature-Relax-Sound.png" group-title="Lounge" radio="true",0R - NATURE RELAX || Nature Sounds, Sleep, Relax, Calm, Forest, Ocean, Rain, Ambient, Meditation, Peaceful, Spa, Yoga, Gentle, Soothing, Background, Sleep
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgtLbFs6/Nature-Relax-Sound.png" group-title="Lounge" radio="true",0R - NATURE RELAX || Nature Sounds, Sleep, Relax, Calm, Forest, Ocean, Rain, Ambient, Meditation, Peaceful, Spa, Yoga, G
 https://0nlineradio.radioho.st/lounge-nature-sounds?ref=radio-browser26
 # 72FM: https://72fm.com/station/7d62f547-a6ec-4381-b4fa-b6dd53a49d96
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-lounge_600x600.jpg" group-title="Lounge" radio="true",- 0 N - Lounge on Radio
@@ -280,9 +253,6 @@ http://allzic21.ice.infomaniak.ch/allzic21.mp3
 # 72FM: https://72fm.com/station/184e39db-422d-4f57-aff9-548af086f160
 #EXTINF:-1 group-title="Lounge" radio="true",Chillout TreePines
 https://n07.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABhNTTrbwAVrK_m_qtIxI5pQ
-# 72FM: https://72fm.com/station/77871905-48cd-465c-8d25-dd14ae536656
-#EXTINF:-1 group-title="Lounge" radio="true",100 % COVERS LOUNGE
-https://az1.mediacp.eu/listen/100coverslounge/radio.mp3
 # 72FM: https://72fm.com/station/c72d442a-d73b-40f1-b741-e143b620eecf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Hc5TxR/Jazz-Hop-Lounge.jpg" group-title="Lounge" radio="true",Epic Lounge - JAZZHOP
 https://stream.epic-lounge.com/jazzhop-lounge?ref=radiobrowser
@@ -295,9 +265,6 @@ https://stream.epic-lounge.com/dinner-lounge
 # 72FM: https://72fm.com/station/963c1ef8-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Klassik Radio - Friends@Home
 http://stream.klassikradio.de/friendshome/mp3-128/
-# 72FM: https://72fm.com/station/d06dd5cb-97f4-48f6-8146-ec89e7b94cc0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5695X1x/T100-BRR-CH.png" group-title="Lounge" radio="true",-- # TOP 100 CHARTS --- DJ MIXES -- Pop, Rock, Dance, House, Techno, Trance, Electro, Hip-Hop, Rap, RnB, Reggaeton, Latin, Jazz, Blues, Soul, Funk, Metal, Indie, Alternative, Chillout, Lounge, Ambient, Classical, Acoustic, Party, Hits, Charts, Oldies, 80s, 90s, EDM, Club, Deep House, Tropical, Mood, Love Songs, Workout, Relax
-https://breakz-high.rautemusik.fm/?ref=rb-djclubcharts0326
 # 72FM: https://72fm.com/station/05c3cfd3-2ad7-402d-9dfb-ff6209d9e1db
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="Lounge" radio="true",SomaFM Groove Salad (16k AAC)
 https://ice2.somafm.com/groovesalad-16-aac
@@ -328,9 +295,6 @@ http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
 # 72FM: https://72fm.com/station/a39688fa-2959-4b0c-8bf7-8cf0bc9dd108
 #EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/icon-144x144.png" group-title="Lounge" radio="true",Lounge FM
 https://cast.mediaonline.net.ua/loungefm320
-# 72FM: https://72fm.com/station/215ea027-4fe8-4a4c-9f29-71ab4a659630
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5jrHLWC/DJ-CLUB-CHARTS.png" group-title="Lounge" radio="true",#CLUB CHARTS -> TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB - CHILLOUT - LOUNGE - RAVE - PARTY MUSIC - NIGHTLIFE - URBAN - HIP HOP - RNB - AFRO HOUSE - LATIN HOUSE - TRANCE - HARDSTYLE - HARDCORE
-https://radio.breakz.fm/?ref=club2-71
 # 72FM: https://72fm.com/station/db665e3e-3db8-11e8-b74d-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Royal Lounge
 http://193.33.170.218:8000/RoyalLounge
@@ -355,11 +319,8 @@ http://stream01.my105.ch/my105deluxe.mp3
 # 72FM: https://72fm.com/station/8754a436-59e9-4393-a51f-7ee0ffb1db42
 #EXTINF:-1 tvg-logo="https://radiogoose.ru/res/logo/deep.png" group-title="Lounge" radio="true",ГУСЬ.Дипхаус
 https://stream2.radiogoose.ru/listen/deep/play
-# 72FM: https://72fm.com/station/359d6083-ad87-45b6-bfd8-d9bbf1dae021
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7ZpK6VV/Soft-House.png" group-title="Lounge" radio="true",0R - SOFT HOUSE || Chill, Lounge, Dance, Deep House, Smooth, Vocal, Party, Electronic, Club, Night, Beat, Melodic, Summer, Relax
-https://0nlineradio.radioho.st/lounge-soft-house-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/ef0f4fda-76d2-4fc1-88f0-8e150b0509bd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j9rLGNvn/Beach-club-lounge.png" group-title="Lounge" radio="true",0R - BEACH CLUB LOUNGE || Lounge, Chill, Deep House, Balearic, Summer, Relax, Tropical, Beach, Cafe, Cocktails, Smooth, Sunset, Downtempo, Background, Vibes
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9rLGNvn/Beach-club-lounge.png" group-title="Lounge" radio="true",0R - BEACH CLUB LOUNGE || Lounge, Chill, Deep House, Balearic, Summer, Relax, Tropical, Beach, Cafe, Cocktails, Smooth,
 https://0nlineradio.radioho.st/lounge-beach-club-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/d565778b-f29a-42c7-8a2d-5b45019cb3e2
 #EXTINF:-1 group-title="Lounge" radio="true",POP LOUNGE CAFE
@@ -370,24 +331,21 @@ https://stream.epic-lounge.com/cocktail-lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/84884322-c3b3-4fda-97e5-040fd84c1a38
 #EXTINF:-1 group-title="Lounge" radio="true",Radio Caprice - Lounge [2]
 http://79.111.14.76:8000/lounge
-# 72FM: https://72fm.com/station/18b295c0-0fb1-4cd6-a5a9-d9222a4e9a34
-#EXTINF:-1 group-title="Lounge" radio="true",Chillout Ibiza FM
-https://edge3.peta.live365.net/b05055_128mp3
 # 72FM: https://72fm.com/station/2658d72b-9134-4a96-87b1-7488432c99d0
 #EXTINF:-1 group-title="Lounge" radio="true",#1 Splash Lounge
 https://ais-sa2.cdnstream1.com/2209_128.mp3
 # 72FM: https://72fm.com/station/9c82f49e-0c88-4a36-a938-3c092f27531f
 #EXTINF:-1 tvg-logo="https://www.algorythmeradio.com/assets/images/icon-algo.ico" group-title="Lounge" radio="true",Algorythme Lounge & Bossa
 https://radio8.pro-fhi.net/flux-sinllzly/stream
+# 72FM: https://72fm.com/station/4a2aca23-f665-4d84-b1e4-d1d92c359050
+#EXTINF:-1 group-title="Lounge" radio="true",Ambiento
+https://ambiento-adradio.radioca.st/128
 # 72FM: https://72fm.com/station/971e9589-29d4-4db3-872b-542e3562b3c3
 #EXTINF:-1 tvg-logo="https://radiomaxxfm.com/wp-content/uploads/2021/09/deluxe.png" group-title="Lounge" radio="true",Deluxe Radio Bulgaria | HQ
 https://play.radiomaxxfm.com/deluxe-high
 # 72FM: https://72fm.com/station/43ed2356-eba8-4943-b777-ed60691331c0
 #EXTINF:-1 group-title="Lounge" radio="true",Technolovers - LOUNGE
 https://stream.technolovers.fm/lounge?ref=radiobrowser
-# 72FM: https://72fm.com/station/80afd95c-3266-4907-9178-ebdd788d946c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TM3dkqqQ/top-100-CLUB-CHARTS-26.png" group-title="Lounge" radio="true",* TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE - DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IBIZA HOUSE - HARDSTYLE & HARDCORE - REMIX & MIXTAPE | FESTIVAL RADIO
-https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts
 # 72FM: https://72fm.com/station/91cebe7e-aaa0-4f91-99da-902bead6bffe
 #EXTINF:-1 tvg-logo="https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg" group-title="Lounge" radio="true",Lounge.FM Kanal 2 - Wien
 https://s35.derstream.net/ukwwien.mp3
@@ -410,7 +368,7 @@ http://79.111.14.76:8004/lounge
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/witfm/images/favicon.vnd.microsoft.icon" group-title="Lounge" radio="true",Wit FM Lounge
 http://witlounge.ice.infomaniak.ch/witlounge.mp3
 # 72FM: https://72fm.com/station/1c807b13-e1e3-4425-96bf-00472bf23223
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xKZ5J8jt/Restaurant-Lounge.png" group-title="Lounge" radio="true",0R - RESTAURANT LOUNGE || Lounge, Jazz, Chill, Soft Music, Background, Acoustic, Easy Listening, Dinner, Relax, Romantic, Smooth, Cafe, Evening, Instrumental, Calm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKZ5J8jt/Restaurant-Lounge.png" group-title="Lounge" radio="true",0R - RESTAURANT LOUNGE || Lounge, Jazz, Chill, Soft Music, Background, Acoustic, Easy Listening, Dinner, Relax, Romantic
 https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/28c692bf-3113-401d-896e-e25480d0f93d
 #EXTINF:-1 group-title="Lounge" radio="true",Epic Lounge - POOLSIDE LOUNGE
@@ -418,9 +376,6 @@ https://stream.epic-lounge.com/poolside-lounge?ref=streema
 # 72FM: https://72fm.com/station/c6832a91-9bec-4c7c-a9d3-6567a3ec1acc
 #EXTINF:-1 group-title="Lounge" radio="true",Lounge Motion FM
 https://vm.motionfm.com/motionthree_aacp
-# 72FM: https://72fm.com/station/29608d24-dda0-446d-a691-dc05ac8d6ec1
-#EXTINF:-1 group-title="Lounge" radio="true",Ambiento
-https://ambiento-adradio.radioca.st/128
 # 72FM: https://72fm.com/station/15d9bfdc-05dc-44c5-bc52-74d3e7e1c8f6
 #EXTINF:-1 group-title="Lounge" radio="true",goLOUNGE
 http://fr1.streamhosting.ch/lounge128.mp3
@@ -455,7 +410,7 @@ http://listen.radiogora.ru:8000/groovecafe320
 #EXTINF:-1 tvg-logo="https://lounge.luxury/img/apple-touch-icon.png" group-title="Lounge" radio="true",Luxury Lounge - level 2
 http://188.40.109.122:8000/ices
 # 72FM: https://72fm.com/station/9fd6e036-c08b-49d3-a8b7-c8b282892ffe
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JjYRX77z/Dinner-Lounge.png" group-title="Lounge" radio="true",0R - DINNER LOUNGE || Lounge, Chill, Jazz, Soft Music, Acoustic, Easy Listening, Background, Romantic, Dinner, Smooth, Instrumental, Evening, Relax, Calm, Cafe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjYRX77z/Dinner-Lounge.png" group-title="Lounge" radio="true",0R - DINNER LOUNGE || Lounge, Chill, Jazz, Soft Music, Acoustic, Easy Listening, Background, Romantic, Dinner, Smooth, I
 https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/9f09975a-3a9f-43ca-afd6-e7360285b19f
 #EXTINF:-1 tvg-logo="https://laut.fm/assets/touch-icons/apple-touch-icon.png?9e172e15" group-title="Lounge" radio="true",Chillout Archiv
@@ -466,9 +421,6 @@ http://air.radioart.com/fUp_tempo_grooves.mp3
 # 72FM: https://72fm.com/station/748404ab-9ee6-4063-91d2-7a03091d3fde
 #EXTINF:-1 tvg-logo="https://www.rmc2.net/wp-content/uploads/2020/08/01_MC2_1200px.jpg" group-title="Lounge" radio="true",MC2
 https://stream.rcs.revma.com/fxp289cp81uvv.xspf
-# 72FM: https://72fm.com/station/88538943-08ca-42a9-8363-50321821da20
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRZdcBkj/Classical-Hotel-Lounge.png" group-title="Lounge" radio="true",0R - CLASSICAL HOTEL LOUNGE - CLASSICAL || Classical, Lounge, Piano, Strings, Elegant, Relax, Instrumental, Calm, Soft, Background, Timeless, Melodic, Sophisticated, Evening, Smooth
-https://0nlineradio.radioho.st/classical-classical-hotel-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/6de14f9d-d100-4c3e-ba72-f699a12ebb9a
 #EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/120326/resized/180x172c/cayman_chill_lounge.jpg" group-title="Lounge" radio="true",Chill Mode Radio (USA) 128k mp3
 https://usa14.fastcast4u.com/proxy/chillmode?mp=/1
@@ -484,15 +436,9 @@ https://live.zhanafm.kz:8443/zhanalounge
 # 72FM: https://72fm.com/station/e0361fcc-d3fe-4ce8-9c8c-f8805265cf78
 #EXTINF:-1 group-title="Lounge" radio="true",Radio RAM (AAC)
 http://stream2.nadaje.com:9228/ram.aac
-# 72FM: https://72fm.com/station/019b7a8c-8c96-4b9c-a2bd-eef78904c03c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tRmQWPq/T40-DJ-CHarts.png" group-title="Lounge" radio="true",# TOP 40 DEEJAY CHARTS – CLUB CHARTS NONSTOP - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno, Techhouse & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
-https://breakz-high.rautemusik.fm/?ref=26T40
 # 72FM: https://72fm.com/station/b6b0fabd-6fc2-4eae-8156-abcb32e951cc
 #EXTINF:-1 tvg-logo="https://www.facebook.com/photo/?fbid=329078695877906&set=a.329078679211241" group-title="Lounge" radio="true",delicious.beach - formentera lounge radio
 https://server31435.streamplus.de/;stream.mp3
-# 72FM: https://72fm.com/station/17ae209c-55b7-455f-9d58-117170cedad5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbvzvf8w/nichts-breakz.jpg" group-title="Lounge" radio="true",-- NICHT EINSCHALTEN -- !!! Nichts außer House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - Afro - Sunset - Beach und Aktuelle Hits - DJ Mixtape RADIO
-https://breakz-2012-high.rautemusik.fm/?ref=rbnichteinschalten
 # 72FM: https://72fm.com/station/96683d44-c7f1-47d3-a9c5-f7d0c65d8b66
 #EXTINF:-1 tvg-logo="https://pcradio.ru/images/stations/61b09c6e8cebd.jpg" group-title="Lounge" radio="true",Zaycev.FM Relax
 https://abs.zaycev.fm/relax128k
@@ -502,33 +448,27 @@ https://stream.epic-lounge.com/gaming-lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/ede84df6-808d-4735-bbb6-3d225c330952
 #EXTINF:-1 group-title="Lounge" radio="true",I Love Radio - Chillout Beats
 https://ilm.stream12.radiohost.de/ilm-ichillout_beats_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkwODA3MTQ3JmQ9YWZhZDAxMmJiMDZjZGJmNjI3MDM
+# 72FM: https://72fm.com/station/4c9accd8-74c0-48b7-b42d-86ba204c0e24
+#EXTINF:-1 tvg-logo="https://www.247onlineradio.com/wp-content/uploads/2023/04/247-Lounge-Radio.jpg" group-title="Lounge" radio="true",24/7 Lounge Radio
+https://ec3.yesstreaming.net:3665/stream
 # 72FM: https://72fm.com/station/4120add1-a8d9-414d-ab0c-2a4d2163c571
 #EXTINF:-1 tvg-logo="https://lounge.luxury/img/apple-touch-icon.png" group-title="Lounge" radio="true",Luxury Lounge Radio - Late Night, Deep Sleep and Meditation
 http://188.40.109.114:8000/ices3
-# 72FM: https://72fm.com/station/a819ef6c-8a1a-4a74-8463-f6e035734807
-#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="Lounge" radio="true",Classic Vinyl HD
-https://icecast.walmradio.com:8443/classic
+# 72FM: https://72fm.com/station/f2be95c6-1e79-4aae-8f6b-6f3d7fc8dc9e
+#EXTINF:-1 tvg-logo="https://newageradio.gr/Greek_New_Age_1200x1200.png" group-title="Lounge" radio="true",1st Greek New Age FLAC Radio AAC+ 320kbps
+https://stream.newageradio.gr/listen/hq/radio.aac
 # 72FM: https://72fm.com/station/a8c2ebbd-3d70-462d-9c1f-e6cb0d1bb85e
 #EXTINF:-1 group-title="Lounge" radio="true",SKGLOBE.NET | SENSES
 https://smartstream.link/senses
 # 72FM: https://72fm.com/station/559bd9b7-0b52-42de-b86d-a5c7dec26e8a
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="Lounge" radio="true",EcoBeat GR
 https://stream.zeno.fm/quy1b86vgkhvv?acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb
-# 72FM: https://72fm.com/station/f3187b78-1dfb-42c7-ba27-bdba34cbdf94
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1FNrZ5v/CLUB-CHARTS-2026.jpg" group-title="Lounge" radio="true",## CLUB CHARTS - TOP 100 CLUB CHARTS - DJ CHARTS - CLUBBING HITS - DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - URBAN - HIP HOP - RNB - LATIN RADIO
-https://breakz-2012-high.rautemusik.fm/?ref=rb-clubcharts26
-# 72FM: https://72fm.com/station/287b36be-6b02-4922-8892-72684e3e85e7
-#EXTINF:-1 tvg-logo="https://station.ru/resize_130x130/uploads/10/2a/7264f6f1da34f2365c2395dc42ab.png" group-title="Lounge" radio="true",MonteCarlo Chill-Lounge
-https://mc-chilllonge.hostingradio.ru/chilllonge96.aacp
 # 72FM: https://72fm.com/station/01ddf936-2eba-4ecb-ae73-abbbf59bc6d3
 #EXTINF:-1 group-title="Lounge" radio="true",济宁交通文艺广播
 https://lhttp.qtfm.cn/live/20087/64k.mp3
 # 72FM: https://72fm.com/station/3e6690ea-f507-11e9-bbf2-52543be04c81
 #EXTINF:-1 group-title="Lounge" radio="true",Sine Music
 http://stream.laut.fm/sine-music
-# 72FM: https://72fm.com/station/e74e267c-9d9d-4083-82ab-99f7066c95cb
-#EXTINF:-1 tvg-logo="https://www.rm.fm/breakz/playlist" group-title="Lounge" radio="true",*CLUB CHARTS TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB - CHILLOUT - LOUNGE - RAVE - PARTY MUSIC - NIGHTLIFE - URBAN - HIP HOP - RNB - AFRO HOUSE - LATIN HOUSE - TRANCE - HARDSTYLE - HARDCORE
-https://breakz-2012-high.rautemusik.fm/?ref=N1CLUBBING26
 # 72FM: https://72fm.com/station/4fa95437-eea7-437a-bc31-2dd60a24014a
 #EXTINF:-1 group-title="Lounge" radio="true",Radio Elim Air
 http://91.213.11.102:8011/stream_high
@@ -550,9 +490,6 @@ https://breakz-high.rautemusik.fm/?ref=radiobrowser26
 # 72FM: https://72fm.com/station/f758776d-230e-4237-a426-93005a478ca0
 #EXTINF:-1 tvg-logo="https://radioredphuket.com/wp-content/uploads/2025/01/logo-red.png.png" group-title="Lounge" radio="true",Radio Red Phuket
 https://stream.chiliradio.app/radiored
-# 72FM: https://72fm.com/station/18c4cb7c-9604-4b33-b1fe-50e6387c598d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbvzvf8w/nichts-breakz.jpg" group-title="Lounge" radio="true",#1 - NICHT EINSCHALTEN -- !!! Nichts außer House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - Afro - Sunset - Beach - DJ Mixtape RADIO
-https://breakz-2012-high.rautemusik.fm/?ref=rb-nichteinschalten
 # 72FM: https://72fm.com/station/0ce16ad0-f478-408e-b4ef-1fd6af54f9a4
 #EXTINF:-1 group-title="Lounge" radio="true",Epic. Lounge - POOLSIDE LOUNGE
 https://stream.epic-lounge.com/poolside-lounge?ref=radiobrowser
@@ -625,9 +562,6 @@ https://lhttp.qingting.fm/live/5022548/64k.mp3
 # 72FM: https://72fm.com/station/68616d0a-38f3-4b74-a4ea-de96f90fb1e7
 #EXTINF:-1 tvg-logo="https://www.radiokoeln.de/assets/images/favicons/radiokoeln/favicon_x96.png" group-title="Lounge" radio="true",Dein Lounge Radio
 http://rnrw.cast.addradio.de/rnrw-0185/deinurban/high/stream.mp3
-# 72FM: https://72fm.com/station/a4493475-cd2d-4053-8645-56bc9ea07312
-#EXTINF:-1 tvg-logo="https://chillhouse-live.com/chillhouse-radio-logo.png" group-title="Lounge" radio="true",Chillhouse Live
-https://stream.chillhouse-live.com/live
 # 72FM: https://72fm.com/station/9631b634-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radioemscherlippe.de/assets/images/favicons/radioemscherlippe/favicon.ico" group-title="Lounge" radio="true",Radio Emscher Lippe - Dein Lounge Radio
 http://rnrw.cast.addradio.de/rnrw-0166/deinlounge/high/stream.mp3
@@ -646,9 +580,9 @@ https://stream.regenbogen.de/softlazy/mp3-128/radiobrowser
 # 72FM: https://72fm.com/station/b78ba476-aaef-11e9-88f4-52543be04c81
 #EXTINF:-1 tvg-logo="https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico" group-title="Lounge" radio="true",RPR1. Lounge (Traumfabrik)
 http://streams.rpr1.de/rpr-lounge-128-mp3?usid=0-0-H-A-D-30
-# 72FM: https://72fm.com/station/0701f59f-69da-43c1-9ef2-3152eee11619
-#EXTINF:-1 tvg-logo="https://fmconecta.com.br/icon.png" group-title="Lounge" radio="true",Conecta FM - Marília
-https://paineldj.com.br:20184/stream
+# 72FM: https://72fm.com/station/7a1a8546-9445-4a25-a731-a0f649223d85
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6b/11/6b11b6cd278f6b6b3a6f3a487cf5ab16.png" group-title="Lounge" radio="true",El Café del Mundo
+https://cloudstream2030.conectarhosting.com/8184/stream
 # 72FM: https://72fm.com/station/8361f5bd-051b-4b65-9ddf-55c892598431
 #EXTINF:-1 tvg-logo="https://imgur.com/a/vYuQHMF" group-title="Lounge" radio="true",here4ears
 http://82.64.164.43:8000/stream
@@ -682,21 +616,12 @@ https://ice5.somafm.com/illstreet-128-aac
 # 72FM: https://72fm.com/station/f3c8f36c-5543-4cf3-906f-0fa307420f18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jbJkcvt/BREAKZ-FM-LOGO.png" group-title="Lounge" radio="true",0nline DEEJAY RADIO
 https://radio2.breakz.fm/?ref=radiobrowser26
-# 72FM: https://72fm.com/station/4a00367a-12cb-4b8f-9a5b-5f43dd71bb2b
-#EXTINF:-1 tvg-logo="https://www.calimbre.com/wp-content/uploads/cropped-Picsart_24-02-27_21-59-33-938-scaled-1.jpg" group-title="Lounge" radio="true",Calimbre Radio
-https://control.streaming-pro.com:6048/stream
 # 72FM: https://72fm.com/station/7a5733c8-b9a5-4746-8182-01b2ba99edae
 #EXTINF:-1 tvg-logo="https://laut.fm/assets/touch-icons/favicon-16x16.png?21f4f2f5" group-title="Lounge" radio="true",Food and Lounge
 https://stream.laut.fm/food-and-lounge
 # 72FM: https://72fm.com/station/5d2f37b8-b30a-43fc-9cb7-1cc17156fc4d
 #EXTINF:-1 tvg-logo="https://www.pulsradio.com/img/logo-lounge.png" group-title="Lounge" radio="true",PulsRadio Lounge
 https://icecast.pulsradio.com/relaxHD.mp3
-# 72FM: https://72fm.com/station/f2dd391b-b5d5-447e-bd46-b1439a017e1d
-#EXTINF:-1 tvg-logo="https://mrg.fm/img/mondelloradio125.jpg" group-title="Lounge" radio="true",Mondello Radio (MRG.fm)
-http://listen.mrg.fm:8000/stream
-# 72FM: https://72fm.com/station/3d623009-9766-467c-acab-f94bea0dd4aa
-#EXTINF:-1 group-title="Lounge" radio="true",Radio Gora Etcetera
-http://listen.radiogora.ru:8000/etc128
 # 72FM: https://72fm.com/station/85329749-f9f0-437f-a4d4-8d1e772f8485
 #EXTINF:-1 tvg-logo="https://newageradio.gr/Greek_New_Age_1200x1200.png" group-title="Lounge" radio="true",1st Greek New Age FLAC Radio (FLAC stream)
 https://stream.newageradio.gr/listen/hq/radio.flac
@@ -712,9 +637,12 @@ https://stream.sunshine-live.de/calmflow/mp3-192
 # 72FM: https://72fm.com/station/aa616fa9-2367-4377-b7b6-89f0d89c97b3
 #EXTINF:-1 tvg-logo="https://laut.fm/assets/touch-icons/favicon-16x16.png?21f4f2f5" group-title="Lounge" radio="true",LOUNGETUNES
 https://stream.laut.fm/loungetunes
-# 72FM: https://72fm.com/station/33f332e9-d4d8-449e-aee3-015c16a2f598
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s323115/images/logod.jpg" group-title="Lounge" radio="true",CAPITAL CHILL UK: Non-stop chilled beats - Londres, Inglaterra
-https://media-ssl.musicradio.com/CapitalChill
+# 72FM: https://72fm.com/station/ca0d4e4d-658b-43cc-abce-710075ae358d
+#EXTINF:-1 group-title="Lounge" radio="true",SomaFM Groove Salad (256k MP3)
+https://ice2.somafm.com/groovesalad-256-mp3
+# 72FM: https://72fm.com/station/7c03afd8-e20f-45b6-bc28-8c369d90dd4c
+#EXTINF:-1 tvg-logo="https://fm.co.ua/wp-content/uploads/2025/10/STYLEFM-KV.jpg" group-title="Lounge" radio="true",STYLE FM
+https://myradio24.org/station
 # 72FM: https://72fm.com/station/25b78904-5bff-4fe1-985b-0440774c7ba2
 #EXTINF:-1 tvg-logo="https://funkyasstunes.com/public_3a05_aceb1777f3554a7da05b8a52cb676132.png" group-title="Lounge" radio="true",Funky Ass Tunes
 https://ams1.reliastream.com/proxy/john12/stream
@@ -748,9 +676,6 @@ https://auralis-radio.com/radio.mp3
 # 72FM: https://72fm.com/station/1f4b07ed-87fc-4fcd-bcbf-1d3055e3a5b3
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-dinner_lounge-en-mp3.jpg" group-title="Lounge" radio="true",Hotmix Dinner Lounge
 https://streaming.hotmixradio.com/hotmix-dinner-lounge-en-mp3?provider=radiobrowser
-# 72FM: https://72fm.com/station/f4722411-69a1-413d-9922-5017d5aef925
-#EXTINF:-1 tvg-logo="https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120" group-title="Lounge" radio="true",Special-Radio
-https://special-radio.stream.laut.fm/special-radio?t302=2026-10-01_19-29-56&uuid=f62fd503-30ef-5f27-4937-2a98b953cc42
 # 72FM: https://72fm.com/station/365f7776-c111-4363-a761-24bdf28f7581
 #EXTINF:-1 group-title="Lounge" radio="true",Aloha Joe's Tiki Radio
 http://s2.voscast.com:9120/stream
@@ -793,6 +718,9 @@ https://radio.dobreff.com/lounge.mp3
 # 72FM: https://72fm.com/station/95b4836c-2bb5-4dab-babf-9d123ee9c9c0
 #EXTINF:-1 tvg-logo="https://live.aymeva.com/api/station/aymeva/art/3c4cde50216c5ff3ea1c6d00" group-title="Lounge" radio="true",AYMEVA Chill
 https://live.aymeva.com/listen/aymeva/chill.aac
+# 72FM: https://72fm.com/station/fe4cad2a-e7ea-4769-948f-6e88588b808a
+#EXTINF:-1 tvg-logo="https://bestefm.com/assets/favicon.ico%22%20type=%22image/x-icon" group-title="Lounge" radio="true",BesteFM Lounge
+http://stream.epic-lounge.com/shisha-lounge?ref=streema
 # 72FM: https://72fm.com/station/6ac52167-be9f-4f94-99bd-2095a2e5457e
 #EXTINF:-1 group-title="Lounge" radio="true",Monte Carlo
 https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8
@@ -805,9 +733,6 @@ https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=10
 # 72FM: https://72fm.com/station/8a4afabd-a6f3-4bae-8c1a-1ffb781b9835
 #EXTINF:-1 tvg-logo="https://playfmdublin.com/wp-content/uploads/2023/08/Fav.jpg" group-title="Lounge" radio="true",PlayFm Dublin
 https://stream.playfmdublin.com/radio192.mp3
-# 72FM: https://72fm.com/station/9dcebda9-1000-4fa2-9d13-45a8cdbebfa6
-#EXTINF:-1 group-title="Lounge" radio="true",Radio Del Mar - Italia
-https://stream3.xdevel.com/audio0s975522-197/stream/icecast.audio
 # 72FM: https://72fm.com/station/bc3f0d40-67c0-481b-88be-64a9ffdcce49
 #EXTINF:-1 group-title="Lounge" radio="true",Sun - Cafe
 http://radio2.vip-radios.fm:8068/private-192kmp3-CafeSoulside_autodj
@@ -817,30 +742,27 @@ https://live.aymeva.com/listen/aymeva/deep.aac
 # 72FM: https://72fm.com/station/9795c59e-5e49-41d1-87c6-f8f50bba90ca
 #EXTINF:-1 group-title="Lounge" radio="true",DREAMER
 https://cast1.asurahosting.com/proxy/ermis/stream
-# 72FM: https://72fm.com/station/fc33f2de-34af-4985-8780-a5536b228c00
-#EXTINF:-1 tvg-logo="https://transdutor.com/radio_transdutor.png" group-title="Lounge" radio="true",Radio Transdutor - Underground Electronic Music
-https://server28.srvsh.com.br:9138/
 # 72FM: https://72fm.com/station/bbe3fd37-8cff-44e4-8818-4f6c28df93d7
 #EXTINF:-1 tvg-logo="https://fluxmusic.cdn.radiosphere.io/images/32db08fb-7747-449b-b980-20dbf74bd56c?type=medium" group-title="Lounge" radio="true",FluxFM Anima Radio | 320k AAC
 https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=10
+# 72FM: https://72fm.com/station/aaa226ac-af4e-465b-9fe1-bb6ad37eebca
+#EXTINF:-1 tvg-logo="https://omaneo.de/assets/omaneo-radio-logo-600.png" group-title="Lounge" radio="true",omaneo Instrumental
+https://radio.omaneo.de/listen/instrumental/radio.mp3
 # 72FM: https://72fm.com/station/3ff418bb-b2c4-4a22-b2f4-04a50ed0a97a
 #EXTINF:-1 tvg-logo="https://signalcity.tv/web/sc_logo_1200.png" group-title="Lounge" radio="true",Seyra Lounge — Signal City
 https://signalcity.tv/radio/seyra.mp3
+# 72FM: https://72fm.com/station/b23ba7d7-32b2-418d-9e9b-5b47d7c58130
+#EXTINF:-1 tvg-logo="https://www.exotica.radio/assets/cover-fallback.png" group-title="Lounge" radio="true",Exotica Radio
+https://www.exotica.radio/stream/radio-browser
 # 72FM: https://72fm.com/station/3e29e08f-bd9c-4cf0-b723-e0318312a347
 #EXTINF:-1 group-title="Lounge" radio="true",IAradio Lounge
 https://iaradiolounge.ice.infomaniak.ch/iaradiolounge-128.mp3
-# 72FM: https://72fm.com/station/15d69605-fd3f-4476-a918-3092f833bff8
-#EXTINF:-1 tvg-logo="https://omaneo.de/assets/omaneo-radio-logo-600.png" group-title="Lounge" radio="true",omaneo Instrumental
-https://radio.omaneo.de/listen/instrumental/radio.mp3
 # 72FM: https://72fm.com/station/ebd24ba3-1f7b-4e81-8608-36ceb8275927
 #EXTINF:-1 tvg-logo="https://media.smartradio.ro/2019/10/lounge.png" group-title="Lounge" radio="true",Smart Radio -Smart in Lounge
 https://web.smartradio.ro:8443/smartlounge
 # 72FM: https://72fm.com/station/305dc367-14a9-4de6-99ba-0fd1233378c3
 #EXTINF:-1 tvg-logo="https://radio.ministry.fr/static/uploads/vienna/album_art.1788600534.png" group-title="Lounge" radio="true",Vienna FM
 https://radio.ministry.fr/listen/vienna/radio.mp3
-# 72FM: https://72fm.com/station/a18c1d9c-df4e-467a-b06a-e4beb410148e
-#EXTINF:-1 tvg-logo="https://www.exotica.radio/assets/cover-fallback.png" group-title="Lounge" radio="true",Exotica Radio
-https://www.exotica.radio/stream/radio-browser
 # 72FM: https://72fm.com/station/57f6f16e-8e3c-4674-8960-52617776085d
 #EXTINF:-1 tvg-logo="https://studio10.vestaradio.com/uploads/user-music/2847/covers/cover_2847_1789732969_43e151.png" group-title="Lounge" radio="true",Cacao Radio
 https://stream10.vestaradio.com/Cacao-Radio
@@ -853,6 +775,9 @@ https://radio.omaneo.de/listen/genussreise/radio.mp3
 # 72FM: https://72fm.com/station/1fab996a-a0e6-4aff-9255-ce7684dc38ff
 #EXTINF:-1 tvg-logo="https://studio10.vestaradio.com/uploads/user-music/2847/covers/cover_2847_1789732969_43e151.png" group-title="Lounge" radio="true",Cacao-Radio
 https://stream10.vestaradio.com/Cacao-Radio?.mp3
+# 72FM: https://72fm.com/station/8a2c13d0-e93f-4e15-a339-6be22b8437b1
+#EXTINF:-1 group-title="Lounge" radio="true",Exclusive Radio
+https://servidor25-3.brlogic.com:7110/live
 # 72FM: https://72fm.com/station/ba090233-53ec-4367-ac51-a0a8b8a870ac
 #EXTINF:-1 tvg-logo="https://fluxmusic.cdn.radiosphere.io/images/32db08fb-7747-449b-b980-20dbf74bd56c?type=medium" group-title="Lounge" radio="true",FluxFM Anima Radio | 64k MP3
 https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=1
@@ -868,9 +793,6 @@ https://icecast.haskovo.net:9443/
 # 72FM: https://72fm.com/station/219badae-a3bb-4c45-9c16-11aa189f14b5
 #EXTINF:-1 group-title="Lounge" radio="true",Cannes Radio Lounge
 http://stream.rcs.revma.com/z5ku96tvszzuv
-# 72FM: https://72fm.com/station/5a5f2e50-1bf6-4588-a248-bae7f9beaf94
-#EXTINF:-1 tvg-logo="https://assets.clrd.net/uploads/logos/autodj/01a03d87-8851-78a6-9944-0da08c3be37b/5466cb00-13bf-472b-a48a-e99c6bae3b03.webp" group-title="Lounge" radio="true",Chordix Radio
-https://icy.cloudrad.io/8c3be37b
 # 72FM: https://72fm.com/station/acb77ef0-7f24-4d96-86ac-bc1681c55ccc
 #EXTINF:-1 group-title="Lounge" radio="true",EBS Radio Lounge -Cluj Napoca
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3?refresh=1779028484659

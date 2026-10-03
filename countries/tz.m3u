@@ -4,6 +4,9 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/4c1ec953-fcf5-4bf1-b03b-4be73ad4cb3f
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6417q.png" group-title="Tanzania" radio="true",Clouds FM
+http://eu6.fastcast4u.com:5306/;
 # 72FM: https://72fm.com/station/88083d75-5aa8-11e9-a622-52543be04c81
 #EXTINF:-1 group-title="Tanzania" radio="true",RADIO MARIA TANZANIA
 http://dreamsiteradiocp2.com:8034/stream
@@ -13,9 +16,6 @@ https://eatv.radioca.st/stream
 # 72FM: https://72fm.com/station/a8051d12-4186-4b72-8345-5a8091499a5b
 #EXTINF:-1 group-title="Tanzania" radio="true",Radio One Stereo
 https://radioonetanzania.radioca.st/stream
-# 72FM: https://72fm.com/station/d8acb5ef-b7d5-4fe4-8da1-709d08b52835
-#EXTINF:-1 tvg-logo="https://cloudsmedia.co.tz/build/assets/clouds_icon-4199f5a8.png" group-title="Tanzania" radio="true",Clouds FM
-http://eu6.fastcast4u.com:5306/;
 # 72FM: https://72fm.com/station/7ed9b9a3-8420-4999-a62a-54d9cf41d4fe
 #EXTINF:-1 group-title="Tanzania" radio="true",Capital Radio
 https://capitalradio.radioca.st/stream
@@ -31,15 +31,12 @@ http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 # 72FM: https://72fm.com/station/e05c3c87-946e-4dde-b4b8-e0244917c068
 #EXTINF:-1 group-title="Tanzania" radio="true",Nuru FM
 https://radiotadio.co.tz/nuru-fm-stream
-# 72FM: https://72fm.com/station/de087f78-b409-42a7-949b-d48216dce0dd
-#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="Tanzania" radio="true",Christian FM Radio
-http://stream.zeno.fm/eequgfw72hhvv
+# 72FM: https://72fm.com/station/c2109fcd-6a26-48d1-9e78-5234906dd784
+#EXTINF:-1 tvg-logo="https://mungukwanza.com/wp-content/uploads/2023/12/cropped-Mungu-Kwanza-Logo.png" group-title="Tanzania" radio="true",Mungu Kwanza Radio
+https://mungukwanza.radioca.st/;
 # 72FM: https://72fm.com/station/bbfa219b-8f10-45dd-b4d6-80f4069c4028
 #EXTINF:-1 group-title="Tanzania" radio="true",ImbaNasi
 https://stream.zeno.fm/dsfhivkawjiuv
-# 72FM: https://72fm.com/station/f297314f-85bf-43d4-b71e-af88a253d7a8
-#EXTINF:-1 group-title="Tanzania" radio="true",Mungu Kwanza
-https://mungukwanza.radioca.st/;
 # 72FM: https://72fm.com/station/e09572b1-50a0-4979-ba95-5aff5c73e8bd
 #EXTINF:-1 tvg-logo="https://stream.zeno.fm/zhhawbqoikatv.m3u" group-title="Tanzania" radio="true",Ishizwe FM
 https://stream.zeno.fm/zhhawbqoikatv

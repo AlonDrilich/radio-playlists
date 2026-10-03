@@ -19,6 +19,9 @@ http://stream.europeanhitradio.com:8000/Stream_21.aac
 # 72FM: https://72fm.com/station/962cd16b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",Latvijas Radio 1
 http://lr1mp1.latvijasradio.lv:8012/;
+# 72FM: https://72fm.com/station/962ce682-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Latvia" radio="true",Radio ENERGY.LV - Russian
+http://radio1.radioenergy.lv:8000/
 # 72FM: https://72fm.com/station/962cdd18-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - Russkie Hiti
 http://stream.europeanhitradio.com:8000/khr.aac
@@ -31,6 +34,9 @@ http://stream.europeanhitradio.com:8000/Stream_12.aac
 # 72FM: https://72fm.com/station/188ed2d5-48ea-4c6f-a435-aebdd36c8c0e
 #EXTINF:-1 group-title="Latvia" radio="true",Alise Plus
 http://fm2inet.aliseplus.lv:8080/
+# 72FM: https://72fm.com/station/962cd710-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - Top 40
+http://stream.europeanhitradio.com:8000/Stream_27.aac
 # 72FM: https://72fm.com/station/962cdb92-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - Latviešu Hiti
 http://stream.europeanhitradio.com:8000/Stream_22.aac
@@ -55,15 +61,15 @@ http://80.232.162.149:8000/rock96mp3
 # 72FM: https://72fm.com/station/96182ce2-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",Star Fm
 http://starfm.live.advailo.com/audio/mp3/icecast.audio
-# 72FM: https://72fm.com/station/962ce469-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Latvia" radio="true",Radio ENERGY.LV
-http://radio1.radioenergy.lv:8000/
 # 72FM: https://72fm.com/station/ed04903b-7042-4456-a70f-5cc60311138b
 #EXTINF:-1 group-title="Latvia" radio="true",LRMAROCKRADIO
 https://c22.radioboss.fm:18318/stream
 # 72FM: https://72fm.com/station/962cec6b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",Talsi Lounge
 http://radio.kuums.lv:5555/;
+# 72FM: https://72fm.com/station/3bf92492-e4e9-4eca-9355-2fa997c6c908
+#EXTINF:-1 group-title="Latvia" radio="true",Skonto
+https://stream.radioskonto.lv:8443/stereo
 # 72FM: https://72fm.com/station/dc64dd4a-3725-11e8-bb9b-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - Darbam
 http://stream.europeanhitradio.com:8000/Stream_23.aac
@@ -82,12 +88,18 @@ http://80.232.162.149:8000/gold96mp3
 # 72FM: https://72fm.com/station/962cf13d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",Latgales Radio
 http://www.radiolg.lv:8000/128_aac
+# 72FM: https://72fm.com/station/439af308-cfeb-44da-97f9-95fdefd6ecf1
+#EXTINF:-1 group-title="Latvia" radio="true",Skonto Plus
+https://stream.radioskontoplus.lv:8443/st128
 # 72FM: https://72fm.com/station/962ccd96-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",Radio SWH - Spin FM
 http://80.232.162.149:8000/spin96mp3
 # 72FM: https://72fm.com/station/fd57ae03-5547-4d41-9540-33059a7a42c5
 #EXTINF:-1 tvg-logo="https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png" group-title="Latvia" radio="true",Nordic Chillout Radio
 https://play.radioking.io/nordic-chillout-radio/736489
+# 72FM: https://72fm.com/station/252ffb78-3725-11e8-bb9b-52543be04c81
+#EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - Fresh
+http://stream.europeanhitradio.com:8000/Stream_25.aac
 # 72FM: https://72fm.com/station/9609d503-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Latvia" radio="true",Radio NABA
 http://nabamp0.latvijasradio.lv:8016/;
@@ -127,33 +139,24 @@ https://stream.ehrhiti.lv:8000/ehr.aac
 # 72FM: https://72fm.com/station/5f563e34-3e8e-4395-8359-712b476f076d
 #EXTINF:-1 group-title="Latvia" radio="true",Kurzemes Radio
 http://31.170.16.6:8000/
-# 72FM: https://72fm.com/station/bc410d06-5b4d-4f6a-b29e-d8e7ea4bd873
-#EXTINF:-1 group-title="Latvia" radio="true",Radio Skonto Plus
-https://stream.radioskontoplus.lv:8443/st128
 # 72FM: https://72fm.com/station/8cb977c6-433f-482d-a8e1-32ae2f830d46
 #EXTINF:-1 tvg-logo="https://www.ehr.fm/content/channels/614c776f-f4e9-4370-a221-999d4c675c97.png?w=205&h=205&fm=webp&s=63442b5cdd1bc22bc65780825c083d18" group-title="Latvia" radio="true",Retro FM Latvija
 https://stream.ehrhiti.lv:8000/Stream_RE.aac
+# 72FM: https://72fm.com/station/70ddadaf-6c68-4faf-8f2f-32c0e711647c
+#EXTINF:-1 tvg-logo="https://lkr.lv/icon-128x128.png" group-title="Latvia" radio="true",Latvijas Kristīgais Radio
+https://radio.lkr.lv/;?type=http&nocache=40
 # 72FM: https://72fm.com/station/fdf47098-b193-4866-806c-f9cc59351360
 #EXTINF:-1 tvg-logo="https://www.ehr.fm/content/channels/1097ed8f-d318-4a08-89bd-a1fa548674f5.png?w=205&h=205&fm=webp&s=ab323f7af1c6835a75ef5b27185f360d" group-title="Latvia" radio="true",SuperHits
 https://stream.ehrhiti.lv:8000/Stream_21.aac
 # 72FM: https://72fm.com/station/f49b84d0-e073-4001-a81e-9b2bb9b466b2
 #EXTINF:-1 group-title="Latvia" radio="true",EHR Remixes
 http://stream.ehrhiti.lv:8000/Stream_32.mp3
-# 72FM: https://72fm.com/station/013f4bdf-a7dc-4bc9-bdb8-d220d99d654c
-#EXTINF:-1 tvg-logo="https://lkr.lv/icon-128x128.png" group-title="Latvia" radio="true",Latvijas Kristīgais Radio
-https://radio.lkr.lv/;?type=http&nocache=40
 # 72FM: https://72fm.com/station/2c5424a0-f301-472b-b51f-3c14bc3a4146
 #EXTINF:-1 tvg-logo="https://www.ehr.fm/content/channels/e253bd86-c97a-4117-a7d8-4dd65fe00a2c.png?w=205&h=205&fm=webp&s=ce07c22c9642da2d67534f85b1c14180" group-title="Latvia" radio="true",Latviešu hiti
 https://stream.ehrhiti.lv:8000/Stream_22.aac
 # 72FM: https://72fm.com/station/a7f8f2b4-956b-43b5-acad-5f8cb97a2beb
 #EXTINF:-1 group-title="Latvia" radio="true",LV Radio 1
 http://lr1mp1.latvijasradio.lv:8012/
-# 72FM: https://72fm.com/station/2cf8533f-0233-42df-bb21-d8369d32883a
-#EXTINF:-1 group-title="Latvia" radio="true",Skonto
-https://stream.radioskonto.lv:8443/stereo
-# 72FM: https://72fm.com/station/79c12d19-7d35-40a8-b4b9-75dcb562ed49
-#EXTINF:-1 group-title="Latvia" radio="true",EHR TOP-40
-http://stream.europeanhitradio.com:8000/Stream_27.aac
 # 72FM: https://72fm.com/station/5e61272f-af4d-4e16-8c64-842ca8cb89bd
 #EXTINF:-1 tvg-logo="https://www.ehr.fm/content/channels/fc039806-e0c3-49bc-82d8-4f421f45be63.png?w=205&h=205&fm=webp&s=3b8d5106ea026855e5700c9c260f45b4" group-title="Latvia" radio="true",EHR+
 https://stream.ehrhiti.lv:8000/khr.aac
@@ -169,9 +172,6 @@ https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8
 # 72FM: https://72fm.com/station/1d229119-d55e-444c-894e-b78a8e082508
 #EXTINF:-1 tvg-logo="https://radiomelodija.lv/upload/photos/69048604d622c8.08038779_final.png" group-title="Latvia" radio="true",Radio Melodija
 https://live.relaxfm.lv/08
-# 72FM: https://72fm.com/station/c4365d35-0598-4d4a-af75-6a9cd55ffa46
-#EXTINF:-1 group-title="Latvia" radio="true",EHR Fresh
-http://stream.europeanhitradio.com:8000/Stream_25.aac
 # 72FM: https://72fm.com/station/da477156-e592-4a90-8c3e-381981cbf29c
 #EXTINF:-1 group-title="Latvia" radio="true",EHR Party Service
 http://stream.ehrhiti.lv:8000/Stream_12.mp3
@@ -184,6 +184,9 @@ https://live.advailo.com/topradio/live/playlist.m3u8
 # 72FM: https://72fm.com/station/3c201538-e4e1-4576-9c08-468583f79d98
 #EXTINF:-1 group-title="Latvia" radio="true",EHR Dance
 http://stream.europeanhitradio.com:8000/Stream_24.mp3
+# 72FM: https://72fm.com/station/ebe13afc-9ede-4596-a313-e8db4b2b0f16
+#EXTINF:-1 group-title="Latvia" radio="true",Njoyradio
+https://live.njoyradio.lv/02
 # 72FM: https://72fm.com/station/08c28678-83d8-4363-8c09-ca8ce8cfbbcf
 #EXTINF:-1 tvg-logo="https://tv3cdn.lv/tv3/images/logos/tv3-starfm.svg?ver=3" group-title="Latvia" radio="true",StarFM
 https://live.advailo.com/audio/mp3/icecast.audio
@@ -223,9 +226,6 @@ http://stream.ehrhiti.lv:8000/Stream_73.mp3
 # 72FM: https://72fm.com/station/a2035787-2838-46c5-81ef-1e5098e3735c
 #EXTINF:-1 group-title="Latvia" radio="true",EHR TOP 40
 http://stream.europeanhitradio.com:8000/Stream_27.mp3
-# 72FM: https://72fm.com/station/31d2f37d-facc-4a52-ac63-ceb1b0866abe
-#EXTINF:-1 group-title="Latvia" radio="true",Njoyradio
-https://live.njoyradio.lv/02
 # 72FM: https://72fm.com/station/aa64093e-7155-4a60-9b32-66c490a3a877
 #EXTINF:-1 group-title="Latvia" radio="true",EHR Ice Ice Party
 http://stream.ehrhiti.lv:8000/Stream_67.mp3

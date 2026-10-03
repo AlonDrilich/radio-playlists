@@ -4,6 +4,12 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/0f902505-76c7-489b-8ddc-03b05b5867ae
+#EXTINF:-1 tvg-logo="https://generation.dance/logo_500x500.png" group-title="Luxembourg" radio="true",Generation Dance Radio
+http://generationdance.lu/radio/8030/hd
+# 72FM: https://72fm.com/station/9300b8d7-0953-48d8-82a2-fa69c3b3030b
+#EXTINF:-1 tvg-logo="https://generation.dance/logo_500x500.png" group-title="Luxembourg" radio="true",Generation Dance Radio
+http://generationdance.lu/radio/8030/mobile
 # 72FM: https://72fm.com/station/960ef824-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Luxembourg" radio="true",RTL Radio Letzebuerg
 http://sc-rtllive.newmedia.lu/
@@ -13,21 +19,18 @@ http://81.92.238.33/
 # 72FM: https://72fm.com/station/a98264e7-e099-4369-b23b-62c7b016cca1
 #EXTINF:-1 tvg-logo="https://www.rtlradio.de/assets/fallback/fallback_1x1.jpg" group-title="Luxembourg" radio="true",RTL Radio - Deutschlands Hit-Radio
 http://stream.rtlradio.de/rtl-de-national/mp3-192/
-# 72FM: https://72fm.com/station/e6839413-9a70-45b1-927e-6f8f54887b44
-#EXTINF:-1 tvg-logo="https://generation.dance/logo_500x500.png" group-title="Luxembourg" radio="true",Generation Dance Radio
-http://generationdance.lu/radio/8030/hd
 # 72FM: https://72fm.com/station/5a59510c-29a7-44c4-902a-9805817f9a92
 #EXTINF:-1 group-title="Luxembourg" radio="true",RTL Schlagerliebe
 http://stream.rtlradio.de/schlagerliebe/mp3-192/
 # 72FM: https://72fm.com/station/8e9c7156-0d0e-4af1-8d73-0c804c728d15
 #EXTINF:-1 group-title="Luxembourg" radio="true",RTL Radio - Die besten Hits aller Zeiten
 http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
+# 72FM: https://72fm.com/station/971f6221-4fee-11e9-a4d7-52543be04c81
+#EXTINF:-1 group-title="Luxembourg" radio="true",Free Radio Luxembourg FRL
+https://www.radioking.com/play/rfm-luxembourg/137599
 # 72FM: https://72fm.com/station/a718c8b6-6f90-4a6d-bba4-dc89cb4aebb7
 #EXTINF:-1 group-title="Luxembourg" radio="true",Radio 100,7
 http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
-# 72FM: https://72fm.com/station/8ab1a2c2-8322-4453-bbec-d38eda48fc64
-#EXTINF:-1 tvg-logo="https://generation.dance/logo_500x500.png" group-title="Luxembourg" radio="true",Generation Dance Radio
-http://generationdance.lu/radio/8030/mobile
 # 72FM: https://72fm.com/station/5fdc15c7-8c66-11e8-aa66-52543be04c81
 #EXTINF:-1 group-title="Luxembourg" radio="true",RTL Die besten Hits aller Zeiten
 http://stream.rtlradio.de/rtl-de-beste-hits/aac-64
@@ -58,9 +61,6 @@ http://kotdt.com:8000/groovetime
 # 72FM: https://72fm.com/station/82504e4e-d90f-4502-805b-defcb28ced02
 #EXTINF:-1 group-title="Luxembourg" radio="true",RTL Gold
 https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8
-# 72FM: https://72fm.com/station/ca05721e-5bdd-47cf-8d9f-2db8da94d708
-#EXTINF:-1 group-title="Luxembourg" radio="true",Free Radio Luxembourg
-https://www.radioking.com/play/rfm-luxembourg/137599
 # 72FM: https://72fm.com/station/14ef7efc-5537-439e-8155-c11cc2ef8154
 #EXTINF:-1 group-title="Luxembourg" radio="true",Radio Gutt Laun
 https://streams.radio.co/sa631ff66a/listen

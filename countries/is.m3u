@@ -4,6 +4,12 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/961d3ec2-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Iceland" radio="true",Bylgjan 98.9 Reykjavik
+http://icecast.365net.is:8000/orbbylgjan.aac
+# 72FM: https://72fm.com/station/d98c5e50-9d73-42b5-b52d-16669e9dbe1a
+#EXTINF:-1 tvg-logo="https://www.ruv.is/apple-touch-icon.png" group-title="Iceland" radio="true",Rúv rás1
+http://netradio.ruv.is/ras1.aac
 # 72FM: https://72fm.com/station/961e9f13-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Iceland" radio="true",80's Bylgjan
 http://icecast.365net.is:8000/orb80s.aac
@@ -34,6 +40,9 @@ https://ice-11.spilarinn.is/60flashback
 # 72FM: https://72fm.com/station/4123d652-36c9-41fd-b780-238cd3717f43
 #EXTINF:-1 tvg-logo="https://utvarpsaga.is/wp-content/uploads/2016/05/merki-toppur.png" group-title="Iceland" radio="true",Útvarp Saga
 https://stream.utvarpsaga.is/Hljodver
+# 72FM: https://72fm.com/station/96238c62-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Iceland" radio="true",Visir "FM 957 Extra" Reykjavik
+http://icecast.365net.is:8000/orbFmExtra.aac
 # 72FM: https://72fm.com/station/9623e951-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Iceland" radio="true",Radio Bodun 105.5 Reykjavik
 http://radio.bodun.is:8000/stream
@@ -43,15 +52,9 @@ http://icecast.365net.is:8000/orbApparatid.aac
 # 72FM: https://72fm.com/station/7f060aaa-11e9-4759-b85d-4b532d56235b
 #EXTINF:-1 tvg-logo="https://www.ruv.is/apple-touch-icon.png" group-title="Iceland" radio="true",Rondó
 https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8
-# 72FM: https://72fm.com/station/4cbc4571-b652-448b-b70d-35be49841d3e
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/3ce71e1f401554d4d004a91888272f7c.jpg" group-title="Iceland" radio="true",Bylgjan
-http://icecast.365net.is:8000/orbbylgjan.aac
 # 72FM: https://72fm.com/station/c7162b90-39e6-45c8-ac30-4901a48f5dc2
 #EXTINF:-1 group-title="Iceland" radio="true",Restro 89,5
 http://ice-11.spilarinn.is/retromobile
-# 72FM: https://72fm.com/station/ea3a1278-0b08-4254-a98b-cfee9a576b18
-#EXTINF:-1 group-title="Iceland" radio="true",Rás 1
-http://netradio.ruv.is/ras1.aac
 # 72FM: https://72fm.com/station/8d472d16-8ce9-49ed-9b60-df7cd7041566
 #EXTINF:-1 group-title="Iceland" radio="true",K 100
 https://ice-11.spilarinn.is/kaninnmobile
@@ -61,9 +64,6 @@ https://s10.webradio-hosting.com/proxy/fredradiois/stream
 # 72FM: https://72fm.com/station/625512ba-218e-49b5-a676-efc76c5871c7
 #EXTINF:-1 tvg-logo="https://www.sudurlandfm.is/wp-content/uploads/2016/05/logo_blue-3.png" group-title="Iceland" radio="true",Suðurland FM
 https://ice-11.spilarinn.is/xsudurlandfm
-# 72FM: https://72fm.com/station/68252d54-fe00-4f37-bac7-7015f95c6a37
-#EXTINF:-1 tvg-logo="https://www.visir.is/mi/cio/ad84742b-46c3-44e2-8ba5-9b1755e65677.png" group-title="Iceland" radio="true",Country Bylgjan
-http://icecast.365net.is:8000/orbFmExtra.aac
 # 72FM: https://72fm.com/station/6c775ddd-84cb-40ae-bee2-18547849f200
 #EXTINF:-1 tvg-logo="https://ruv.is/favicon-32x32.png" group-title="Iceland" radio="true",RÚV Rás 2
 http://netradio.ruv.is/ras2.mp3

@@ -4,12 +4,12 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/6ce8da92-859f-4f96-a5e4-503c1ddfbfbf
-#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="Oldies" radio="true",Classic Vinyl HD Opus
-https://icecast.walmradio.com:8443/classic_opus
 # 72FM: https://72fm.com/station/1fdc8bd2-a8a9-11e8-a907-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",1000 HITS 80s
 http://c2.auracast.net:8048/stream
+# 72FM: https://72fm.com/station/83dcfac4-b3c3-4731-afc1-a80dd271dffa
+#EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="Oldies" radio="true",Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
 # 72FM: https://72fm.com/station/0a1e0bb0-dc37-11e9-a8ba-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="Oldies" radio="true",Gold
 https://media-ssl.musicradio.com/GoldMP3
@@ -25,6 +25,9 @@ https://0n-70s.radionetz.de/0n-70s.mp3
 # 72FM: https://72fm.com/station/24b4b919-ea81-4e48-8682-ba0fdf9e3a46
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="Oldies" radio="true",Goldy Mukesh
 https://stream.zeno.fm/t39watus1p8uv
+# 72FM: https://72fm.com/station/8a41b60c-f115-11e8-a471-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg" group-title="Oldies" radio="true",- 0 N - 80s on Radio
+https://0n-80s.radionetz.de/0n-80s.mp3
 # 72FM: https://72fm.com/station/960e6dcb-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",GoldFM
 http://80.86.106.110:8002/
@@ -40,9 +43,6 @@ http://zuicast.digitalag.ro:9420/romanticfm
 # 72FM: https://72fm.com/station/e9ad7a00-0a37-4b3f-a05f-d2d8fa205a11
 #EXTINF:-1 group-title="Oldies" radio="true",Мелодія FM Romantic
 http://online.melodiafm.ua/MelodiaFM_Romantic_Live
-# 72FM: https://72fm.com/station/7afae7e3-8d06-42f5-b59e-a52d6e09e60e
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg" group-title="Oldies" radio="true",# RdMix Classic Rock 70s 80s 90s
-https://cast1.torontocast.com:4610/stream
 # 72FM: https://72fm.com/station/961590f9-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Antenne Bayern - Oldies but Goldies
 http://mp3channels.webradio.antenne.de/oldies-but-goldies
@@ -61,6 +61,12 @@ http://stream.laut.fm/1000discohits
 # 72FM: https://72fm.com/station/962822c6-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Poptarisznya Oldies
 http://adas.poptarisznya.hu:8200/oldies.mp3
+# 72FM: https://72fm.com/station/9e1c5a91-80d7-11e9-aa30-52543be04c81
+#EXTINF:-1 group-title="Oldies" radio="true",Roca Fm Clasicos Mexico
+https://xxdelgado.radioca.st/
+# 72FM: https://72fm.com/station/91f5bcf5-896b-46ca-afae-7c767b7ce0e2
+#EXTINF:-1 tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/apple-icon-120x120.png" group-title="Oldies" radio="true",Smart FM
+http://live.smartradio.ro:9128/live
 # 72FM: https://72fm.com/station/960be1b7-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",181.FM - Beatles
 https://listen.181fm.com/181-beatles_128k.mp3
@@ -73,27 +79,21 @@ https://0n-60s.radionetz.de/0n-60s.mp3
 # 72FM: https://72fm.com/station/d8c85fb3-d142-11e9-a861-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",RocaFM Clasicos Caracas
 http://protostar.shoutca.st:8370/
-# 72FM: https://72fm.com/station/d0df2a51-9cd3-4f3e-977d-aab92ddef7a3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_a5ce07773ea14d209785044fbeb26dca~mv2.jpg" group-title="Oldies" radio="true",# 100 GREATEST HEAVY METAL
-https://cast1.torontocast.com:4660/stream
-# 72FM: https://72fm.com/station/439fafd7-b35b-4a6c-b22f-d9e4fbd9dfd4
-#EXTINF:-1 group-title="Oldies" radio="true",FUNKY RADIO - Only Funk Music (60's & 70's)
-https://funkyradio.streamingmedia.it/audio.aac
+# 72FM: https://72fm.com/station/59425e67-86b7-11e9-aa30-52543be04c81
+#EXTINF:-1 group-title="Oldies" radio="true",Oldies Rádio
+http://ice.abradio.cz/oldiesradio128.mp3
+# 72FM: https://72fm.com/station/44ee797f-b7c4-4f94-8853-ce9a9c8731ed
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/wdr4/wdrvier_logo104~_v-ARDAustauschformat.jpg" group-title="Oldies" radio="true",WDR4
+https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/4545787c-07b8-497f-9c42-43a2964d0551
 #EXTINF:-1 tvg-logo="https://oxygenmusic.hu/logo192.png" group-title="Oldies" radio="true",Oxygen Oldies
 https://oxygenmusic.hu:8443/oxygenoldies
 # 72FM: https://72fm.com/station/87906f1e-5f82-4b86-9865-69e8eab8a69a
 #EXTINF:-1 tvg-logo="https://www.oldie-antenne.de/logos/oldie-antenne/apple-touch-icon.png" group-title="Oldies" radio="true",OLDIE ANTENNE
 https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer
-# 72FM: https://72fm.com/station/8d0a43a8-e8cc-48d0-b1a7-4810993a92bf
-#EXTINF:-1 tvg-logo="https://www.mvsnoticias.com/u/plantillas/p/mvs-noticias/imgs/favicons//apple-touch-icon.png" group-title="Oldies" radio="true",MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
 # 72FM: https://72fm.com/station/ba8cf3a2-70c7-4567-9d9f-e6d028aecb2a
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2022/0619/20220619063631.jpeg" group-title="Oldies" radio="true",两广之声音乐台
 https://lhttp.qtfm.cn/live/20500149/64k.mp3
-# 72FM: https://72fm.com/station/43718921-41a0-48f5-9645-c467d19a5095
-#EXTINF:-1 group-title="Oldies" radio="true",_Funky Corner Radio (USA)
-https://ais-sa2.cdnstream1.com/2447_192.mp3
 # 72FM: https://72fm.com/station/96222e78-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Gold AM 1548 London
 http://media-ice.musicradio.com/GoldMP3
@@ -103,9 +103,15 @@ https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
 # 72FM: https://72fm.com/station/aae8f50a-34a1-474c-9b5b-418a82c5cab4
 #EXTINF:-1 group-title="Oldies" radio="true",天籁之音 - 经典正流行
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8
+# 72FM: https://72fm.com/station/94b627b7-7b61-4478-b797-bcb21973c4bf
+#EXTINF:-1 group-title="Oldies" radio="true",AsiaFM亚洲经典台
+http://goldfm.cn:8000/goldfm
 # 72FM: https://72fm.com/station/080499ac-362b-4331-ab81-e518c37d6792
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s48938/images/logod.png?t=637036447340000000" group-title="Oldies" radio="true",Radiostorm - Rock 104 - Classic Rock
 http://streaming.live365.com/b47785_128mp3
+# 72FM: https://72fm.com/station/9612390e-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Oldies" radio="true",NDR 1 Welle Nord
+http://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/df1045ec-c8ef-410f-b800-9a81cdf0d252
 #EXTINF:-1 tvg-logo="https://absolutradio.de/apple-touch-icon.png" group-title="Oldies" radio="true",Absolut bella
 https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
@@ -121,21 +127,18 @@ http://media-the.musicradio.com/HeartNorthLancsCumbria
 # 72FM: https://72fm.com/station/93cdf24e-7ffe-44e7-95f1-16d88a6ceadf
 #EXTINF:-1 tvg-logo="https://networkjamz.com/wp-content/uploads/2020/11/cropped-networkjamz-site-7-180x180.png" group-title="Oldies" radio="true",Motown Radio
 http://94.23.159.187:9990/;
-# 72FM: https://72fm.com/station/963b0409-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Oldies" radio="true",laut.fm Sound
-http://stream.laut.fm/sound
 # 72FM: https://72fm.com/station/be948551-d271-4928-bf2b-551bd119ce00
 #EXTINF:-1 tvg-logo="https://gfx.radiopogoda.pl/extension/radiopogoda/design/standard/images/favicon/apple-touch-icon.png" group-title="Oldies" radio="true",Radio Pogoda Poznań
 http://stream30.radiostream.pl/tuba138-1.mp3
 # 72FM: https://72fm.com/station/96289ad5-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Big R Radio - Golden Oldies
 http://bigrradio.cdnstream1.com/5198_128
+# 72FM: https://72fm.com/station/caa4d543-693a-11e9-af37-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75" group-title="Oldies" radio="true",Radio Nova Vintage
+http://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
 # 72FM: https://72fm.com/station/961837b1-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",181.FM - Good Time Oldies Radio
 http://listen.181fm.com/181-goodtime_128k.mp3
-# 72FM: https://72fm.com/station/cf14b5ee-f03e-4468-8ce1-379f171fd8c4
-#EXTINF:-1 group-title="Oldies" radio="true",# 70s 80s 90s RdMix Network
-https://cast1.torontocast.com:1830/stream
 # 72FM: https://72fm.com/station/451491bd-624e-41e8-ab4c-71816f10611e
 #EXTINF:-1 tvg-logo="https://nl.nostalgie.be/icons/icon-144x144.png?v=f2b073e495322d52deec159c8bdcaf20" group-title="Oldies" radio="true",Nostalgie Vlaanderen
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser
@@ -157,9 +160,6 @@ http://traxx023.ice.infomaniak.ch/traxx023-1.mp3
 # 72FM: https://72fm.com/station/917a377d-7866-11e9-aa30-52543be04c81
 #EXTINF:-1 tvg-logo="https://alloldieschannel.com/wp-content/uploads/2020/01/cropped-backgroundalloldieschannel-180x180.png" group-title="Oldies" radio="true",All Oldies Channel
 http://radio.alloldieschannel.com:8000/stream
-# 72FM: https://72fm.com/station/6cb69b95-72d9-4ea6-859f-52546a85c1fe
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png" group-title="Oldies" radio="true",# RdMix DJSET 70s 80s 90s
-https://cast1.torontocast.com:4560/stream
 # 72FM: https://72fm.com/station/7015a1a3-82d8-11e9-aa30-52543be04c81
 #EXTINF:-1 tvg-logo="https://trueoldieschannel.com/wp-content/uploads/2019/02/apple-icon-120x120.png" group-title="Oldies" radio="true",Scott Shannon's True Oldies Channel
 http://streaming.live365.com/b92108_128mp3
@@ -175,9 +175,6 @@ http://stream-164.zeno.fm/a1r491n45qzuv?zs=-u5Rn38LQn6YWSNdfvxVYg
 # 72FM: https://72fm.com/station/e3cea313-4aa9-4ac5-a053-50d7e82326f4
 #EXTINF:-1 group-title="Oldies" radio="true",MBC Radio Maurice
 https://radio.mbconline.xyz/hls/radiomaurice.m3u8
-# 72FM: https://72fm.com/station/e9577c10-e299-4bb8-9313-c6cc2070c1f3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg" group-title="Oldies" radio="true",# RdMix Italo Disco 80s
-https://cast1.torontocast.com:2130/stream
 # 72FM: https://72fm.com/station/b1a47819-f2c1-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-70s_600x600.jpg" group-title="Oldies" radio="true",- 0 N - 70s on Radio
 https://0n-70s.radionetz.de/0n-70s.aac
@@ -190,21 +187,18 @@ https://live.magicfm.ro/magic.party.mix
 # 72FM: https://72fm.com/station/bc95343c-2d65-11ea-aa0c-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Signál Rádio
 http://icecast1.play.cz/signal128.mp3
-# 72FM: https://72fm.com/station/7739e3b5-fd1d-4f82-b3df-e8638ff0b46a
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s3099/images/logod.jpg" group-title="Oldies" radio="true",La Octava (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
-http://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
 # 72FM: https://72fm.com/station/213abeab-b8d2-4057-b570-5a6143607b2c
 #EXTINF:-1 group-title="Oldies" radio="true",Radio Seefunk
 https://webradio.radio-seefunk.de/
+# 72FM: https://72fm.com/station/6d8788ec-3006-40de-b674-35b367940e0d
+#EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=9" group-title="Oldies" radio="true",Rádio Vlna Golden hits
+https://stream.radiovlna.sk/gold-hi.mp3
 # 72FM: https://72fm.com/station/962ee337-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Retro Radio
 http://stream128.retro-radio.dk/retro
 # 72FM: https://72fm.com/station/9f61ef81-bf7d-4bc4-8135-3fc8be52dafb
 #EXTINF:-1 group-title="Oldies" radio="true",SOUL RADIO Only Classic Soul
 https://listen.soulradio.uk/uk
-# 72FM: https://72fm.com/station/4cc3e959-b572-4285-99e2-069151d03b5e
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_2722a2a63db342f0901576a0168f2571~mv2.jpg" group-title="Oldies" radio="true",# 100 GREATEST JAZZ LOUNGE BAR
-https://cast1.torontocast.com:4640/stream
 # 72FM: https://72fm.com/station/bd0b7f45-2ff6-4318-84b6-77a3490723f7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNxSg2H/schlageroldies.jpg" group-title="Oldies" radio="true",__SCHLAGER OLDIES__ by rautemusik (rm.fm)
 https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser
@@ -223,9 +217,6 @@ https://1slowradio.stream.laut.fm/1_slowradio
 # 72FM: https://72fm.com/station/96149808-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",104.6 RTL 60er & 70er
 http://stream.104.6rtl.com/rtl-60er70er/mp3-128/radio-browser.info/
-# 72FM: https://72fm.com/station/7567754c-e4e1-45c6-bd92-c41dc58ef78c
-#EXTINF:-1 group-title="Oldies" radio="true",Clásica 102.5 Guatemala
-https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac
 # 72FM: https://72fm.com/station/05a9eb02-33b0-11e9-8f31-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-oldies_600x600.jpg" group-title="Oldies" radio="true",- 1 A - Oldies von 1A Radio
 https://1a-oldies.radionetz.de/1a-oldies.mp3
@@ -241,6 +232,9 @@ https://80.streeemer.com/listen/80s/radio.aac
 # 72FM: https://72fm.com/station/96127036-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",NPO Radio 5
 http://icecast.omroep.nl/radio5-bb-mp3
+# 72FM: https://72fm.com/station/5cf3d24c-1b1f-11e8-a334-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.noviradio.hr/wp-content/uploads/2020/03/portal-mala.png" group-title="Oldies" radio="true",Novi Radio Zadar
+http://s8.iqstreaming.com:8022/stream
 # 72FM: https://72fm.com/station/f3842846-f2c0-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg" group-title="Oldies" radio="true",- 0 N - 80s on Radio
 https://0n-80s.radionetz.de/0n-80s.aac
@@ -259,9 +253,9 @@ https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128
 # 72FM: https://72fm.com/station/aa1c5537-b9ee-11e9-acb2-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",NORA Oldie Stream
 http://streams.norawebstreams.de/nora-oldies/mp3-192/streams.norawebstreams.de/
-# 72FM: https://72fm.com/station/e73254fa-6601-4cef-8b62-4aec024634bb
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Oldies" radio="true",__GOLDIES__ by rautemusik (rm.fm)
-https://goldies-high.rautemusik.fm/?ref=radiobrowser
+# 72FM: https://72fm.com/station/11c890bc-8832-4c5b-9fe8-da6d7a258205
+#EXTINF:-1 group-title="Oldies" radio="true",SFLINY 70S Hits
+http://ec4.yesstreaming.net:2270/
 # 72FM: https://72fm.com/station/65f5549e-a554-4386-9249-7f9651fd40f6
 #EXTINF:-1 tvg-logo="https://schwarzwaldradio.com/apple-touch-icon.png" group-title="Oldies" radio="true",Schwarzwaldradio
 https://edge13.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3
@@ -277,12 +271,12 @@ http://edge126.rdsnet.ro:84/profm/music-fm.mp3
 # 72FM: https://72fm.com/station/974d15ea-33a8-4190-8436-1b9a184f82e3
 #EXTINF:-1 tvg-logo="https://www.ethioldies.com/static/uploads/browser_icon/192.1732350958.png" group-title="Oldies" radio="true",Ethio Oldies
 https://www.ethioldies.com/listen/ethioldies/radio.mp3
-# 72FM: https://72fm.com/station/4fb3480a-2ef1-11e9-8f31-52543be04c81
-#EXTINF:-1 group-title="Oldies" radio="true",Absolut Oldie Classics
-https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics?aggregator=Surfmusik
 # 72FM: https://72fm.com/station/81cb1090-6eca-11ea-b1cf-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.goldiesradio.be///templates/urbanlife/favicon.ico" group-title="Oldies" radio="true",Goldies Radio
 http://eu1.reliastream.com:7064/stream
+# 72FM: https://72fm.com/station/4fb3480a-2ef1-11e9-8f31-52543be04c81
+#EXTINF:-1 group-title="Oldies" radio="true",Absolut Oldie Classics
+https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics?aggregator=Surfmusik
 # 72FM: https://72fm.com/station/961d9ecf-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif" group-title="Oldies" radio="true",Guldkanalen Helsingborg
 http://stream.dbmedia.se/gkhbg96
@@ -304,9 +298,6 @@ http://185.109.169.80:8009/stream
 # 72FM: https://72fm.com/station/abcd1a7b-8b0a-4bc4-a8c4-4a02352760a6
 #EXTINF:-1 tvg-logo="https://mbcradio.tv/streaming/img/cover_taalfm.png" group-title="Oldies" radio="true",MBC Taal FM
 https://radio.mbconline.xyz/hls/tallfm.m3u8
-# 72FM: https://72fm.com/station/5532c4d9-616e-4d62-a49f-984a13e3189c
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_ea9b293c1b80488d97f24981e7c6c1d3~mv2.jpg" group-title="Oldies" radio="true",50s 60s RETRO HITS
-https://stream.zeno.fm/pxzwykxbluitv
 # 72FM: https://72fm.com/station/96442024-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",RTL Radio
 http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192/vtuner
@@ -346,24 +337,24 @@ https://stream.zeno.fm/wdg5vb9hwy8uv
 # 72FM: https://72fm.com/station/1f6cc2e1-fe65-4356-a5e2-cdd6cc083ee7
 #EXTINF:-1 group-title="Oldies" radio="true",Tukker FM
 https://stream.tukkerfm.nl/tukkerfm
-# 72FM: https://72fm.com/station/964bb882-d35b-4d33-ac2e-fb2c5d7c9aea
-#EXTINF:-1 group-title="Oldies" radio="true",LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM_SC
+# 72FM: https://72fm.com/station/171a0ff8-f186-11e8-a471-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg" group-title="Oldies" radio="true",- 0 N - Christmas on Radio
+https://0n-christmas.radionetz.de/0n-christmas.mp3
 # 72FM: https://72fm.com/station/f61e44ed-ea5a-4f2a-878c-ce2f9495b2fe
 #EXTINF:-1 group-title="Oldies" radio="true",顺德音乐之声
 https://lhttp.qtfm.cn/live/20500150/64k.mp3
 # 72FM: https://72fm.com/station/96294281-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Radio Gold @net
 http://radiogold.live24.gr/radiogold
+# 72FM: https://72fm.com/station/e4d9cbf4-29c8-49f1-a642-e2be978a7e83
+#EXTINF:-1 tvg-logo="https://www.radio-addictive-50s.eu/images/logo175.jpg" group-title="Oldies" radio="true",Addictive-50s - Golden oldies
+http://quincy.torontocast.com:2920/stream
 # 72FM: https://72fm.com/station/03fd2da8-fd23-4361-a2f4-b23957fcb2c8
 #EXTINF:-1 group-title="Oldies" radio="true",Zaman al wasl
 http://zamanalwaslradio.out.airtime.pro:8000/zamanalwaslradio_b
 # 72FM: https://72fm.com/station/529b71b3-ac05-426c-bd8c-6ae981713900
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1" group-title="Oldies" radio="true",JOE
 https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3
-# 72FM: https://72fm.com/station/373e8330-81d4-4498-adca-1e2a73ae0908
-#EXTINF:-1 group-title="Oldies" radio="true",_Funky Corner Radio (Spain)
-https://ais-sa2.cdnstream1.com/2447_96.aac
 # 72FM: https://72fm.com/station/a9254884-ff90-11e8-a1be-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Gold FM
 http://live.goldfm.hr:8068/
@@ -385,18 +376,12 @@ http://s45.myradiostream.com:13784/;
 # 72FM: https://72fm.com/station/a4e9259f-816f-4ef0-a161-c8737652ba0b
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="Oldies" radio="true",Early 60's - Calm Radio
 http://streams.calmradio.com:16128/stream/1/
-# 72FM: https://72fm.com/station/c064c241-a2c2-4dd9-b889-b292535397fe
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GE7jNgZWQAEcxNb?format=png&name=240x240" group-title="Oldies" radio="true",Rádio Studio Flashback
-https://stream-163.zeno.fm/6gv76f1xruquv?zs=SvdWy-tsTtCXPZ9IZC0ASA
 # 72FM: https://72fm.com/station/b7835e9e-f36c-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-schlager-gold_600x600.jpg" group-title="Oldies" radio="true",- 1 A - Schlager Gold von 1A Radio
 https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3
 # 72FM: https://72fm.com/station/9620ba74-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://101fm.de/wp-content/uploads/2020/02/cropped-512er-180x180.png" group-title="Oldies" radio="true",101FM - Oldies
 http://0-24oldiespoprock.stream.laut.fm/0-24_oldies_pop_rock?t302=2018-02-08_09-30-33&uuid=3ac88db9-1764-4e5a-a776-f42c2a4ffe7a
-# 72FM: https://72fm.com/station/02bc9a87-6db4-42c0-ace1-388c269e49d5
-#EXTINF:-1 group-title="Oldies" radio="true",__1 oldies
-https://80sexitos.stream.laut.fm/80sexitos
 # 72FM: https://72fm.com/station/962c1e66-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://feelgoodradio.nl/favicon.ico" group-title="Oldies" radio="true",Feel Good Radio 107.6 FM
 http://live.feelgoodradio.eu:8344/stream
@@ -406,15 +391,15 @@ http://allzic29.ice.infomaniak.ch/allzic29.mp3
 # 72FM: https://72fm.com/station/b6240170-f81f-4fc7-9183-5f9ebbe8b8d8
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/NDR1_Niedersachsen2184x184.png" group-title="Oldies" radio="true",NDR 1 Niedersachsen
 https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3?1728424471708&aggregator=web
-# 72FM: https://72fm.com/station/d10681ce-a784-4068-bf6e-82b1f887727d
-#EXTINF:-1 group-title="Oldies" radio="true",UNIVERSAL y LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
-http://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM.mp3
 # 72FM: https://72fm.com/station/ec952681-b808-4b77-aa5d-892b7d14331c
 #EXTINF:-1 group-title="Oldies" radio="true",Crooner Radio Legends
 http://croonerradio_legends.ice.infomaniak.ch/croonerradio-legends-midfi.mp3
 # 72FM: https://72fm.com/station/9a096699-ecf8-4165-bd76-f6dc485ead36
 #EXTINF:-1 group-title="Oldies" radio="true",AURAL OLDIES
 http://stream.zeno.fm/anrf216cu68uv
+# 72FM: https://72fm.com/station/70f45026-a937-4084-95fb-95ddb581ca7c
+#EXTINF:-1 group-title="Oldies" radio="true",Radio Shopping
+https://stream4.suenas.net/shoppingclassics
 # 72FM: https://72fm.com/station/d42866cc-a1c0-45ad-96c6-9639b366b51d
 #EXTINF:-1 group-title="Oldies" radio="true",Oldies 93.5
 https://stream.revma.ihrhls.com/zc5110
@@ -430,6 +415,9 @@ https://hls-rmcgold.nextradiotv.com/ssai/192k/media.m3u8
 # 72FM: https://72fm.com/station/66a9a603-a66f-49bd-9e1b-56ce376c35a1
 #EXTINF:-1 tvg-logo="https://i0.wp.com/iskcrocks.com/wp-content/uploads/2019/01/OMR-Ticket.jpg?fit=720%2C400&ssl=1" group-title="Oldies" radio="true",ISKC Old Men's Rock
 https://443-1.autopo.st/79/OldMenRock
+# 72FM: https://72fm.com/station/45a1da91-33af-11e9-8f31-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="Oldies" radio="true",- 1 A - 60er von 1A Radio
+https://1a-60er.radionetz.de/1a-60er.mp3
 # 72FM: https://72fm.com/station/69363afd-b084-41e6-a0d4-79bebb629204
 #EXTINF:-1 tvg-logo="https://kvkvi.com/wp-content/uploads/2024/02/luxa.org-bordered-Groovy-White-600x600-jpg.jpg" group-title="Oldies" radio="true",Groovy Radio - 60's and 70's Oldies
 https://r1.comcities.com/proxy/emogddug/stream
@@ -469,9 +457,6 @@ http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242
 # 72FM: https://72fm.com/station/e90e36e3-ef1c-45b5-8895-73090b34dec9
 #EXTINF:-1 group-title="Oldies" radio="true",Radio DHT (kanał główny)
 https://radiodht.com/stream_main/
-# 72FM: https://72fm.com/station/d02c926b-6e4a-4d74-bf48-57eea61eb8ef
-#EXTINF:-1 group-title="Oldies" radio="true",Classic Hits Radio CLASSIC HITS anni 70 80 90
-https://classichitsradio.streamingmedia.it/play
 # 72FM: https://72fm.com/station/9642aad0-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif" group-title="Oldies" radio="true",Guldkanalen Malmö/Lund
 http://stream.dbmedia.se/gk96
@@ -508,15 +493,12 @@ https://sonando-us.digitalproserver.com/radiointeramericana.aac
 # 72FM: https://72fm.com/station/961c41bd-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",R.SA Oldie-Club
 http://streams.rsa-sachsen.de/rsa-oldies/mp3-192/mediaplayerrsa
-# 72FM: https://72fm.com/station/1ba69797-0932-435e-8af5-8e4318269f5d
-#EXTINF:-1 group-title="Oldies" radio="true",ABC Noticias (Monterrey) - 570 AM - XEBJB-AM - Grupo Radio Alegría - Monterrey, NL
-https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AM.mp3
 # 72FM: https://72fm.com/station/96104c66-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Antenne Niedersachsen Oldies
 http://stream.antenne.com/oldies/mp3-192/linux/
-# 72FM: https://72fm.com/station/7cb8a87f-454d-4b6d-8e09-bd16348e2182
-#EXTINF:-1 group-title="Oldies" radio="true",#1 RdMix Love Songs
-https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+# 72FM: https://72fm.com/station/96243040-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Oldies" radio="true",Radio Jackie (HiEnd)
+http://media.radiojackie.com:5873/
 # 72FM: https://72fm.com/station/2741cad7-33b0-11e9-8f31-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-oldies_600x600.jpg" group-title="Oldies" radio="true",- 1 A - Oldies von 1A Radio
 https://1a-oldies.radionetz.de/1a-oldies.aac
@@ -547,9 +529,6 @@ https://stream.0nlineradio.com/80s?ref=radiobrowser
 # 72FM: https://72fm.com/station/ddcddcef-8564-4462-8919-4c3938a10182
 #EXTINF:-1 group-title="Oldies" radio="true",0nlineradio 90s
 https://stream.0nlineradio.com/90s?ref=radiobrowser
-# 72FM: https://72fm.com/station/7481adce-989e-4692-bfcf-07774ed1ced9
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_3b8537296cb04e049fdfe55af2a45900~mv2.jpg" group-title="Oldies" radio="true",70's 80's 90's Riw Vintage Channel
-https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
 # 72FM: https://72fm.com/station/728f5651-40ed-11e9-aa55-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-relax_600x600.jpg" group-title="Oldies" radio="true",- 0 N - Relax on Radio
 https://0n-relax.radionetz.de/0n-relax.aac
@@ -562,6 +541,9 @@ https://0n-christmas.radionetz.de/0n-christmas.aac
 # 72FM: https://72fm.com/station/e0b797d0-9c35-4937-b7f9-055f4d002eea
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s298784/images/logod.jpg?t=636473766297430000" group-title="Oldies" radio="true",Discos Guardados
 http://stream-151.zeno.fm/1nx2aume9zquv?zs=_wOIfEHbRUueCOW9I8aUNg
+# 72FM: https://72fm.com/station/96196a3b-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Oldies" radio="true",KCEA - 89.1FM Atherton, CA
+http://streaming.rubinbroadcasting.com/kcea
 # 72FM: https://72fm.com/station/8dd8f884-2db0-4008-9564-8a6b93f0379a
 #EXTINF:-1 tvg-logo="https://media.live365.com/download/402cfd47-e16c-4042-b3f7-e026ef5e1356.jpg" group-title="Oldies" radio="true",Retro Album Rock
 http://ais-edge104-live365-dal02.cdnstream.com/a89824
@@ -571,27 +553,21 @@ http://stream.laut.fm/christianoldies
 # 72FM: https://72fm.com/station/b92fd29a-c9cd-46b9-8ef5-4e499d707abf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QhPqw8N.jpg" group-title="Oldies" radio="true",Viva El Mariachi
 https://stream-144.zeno.fm/gs4xg5s0csmtv?zs=DiHqEIidR0ejJ3Bwp-pUKA
-# 72FM: https://72fm.com/station/cb9eb6f5-2f54-477f-b43a-ea0606072294
-#EXTINF:-1 tvg-logo="https://hpanel.hostinger.com/favicons/hostinger.png" group-title="Oldies" radio="true",Radio Pak Filmi
-http://s17.ssl-stream.com:8214/stream
+# 72FM: https://72fm.com/station/e19d134f-e50b-4daf-8d96-79d44e4ad484
+#EXTINF:-1 tvg-logo="https://www.radiobrocken.de/assets/icons/icon-152x152.png" group-title="Oldies" radio="true",Radio Brocken Halle-Leipzig
+https://stream.radiobrocken.de/live-hal-lei/mp3-256/
 # 72FM: https://72fm.com/station/3ad4ddf1-f373-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-80er_600x600.jpg" group-title="Oldies" radio="true",- 1 A - 80er von 1A Radio
 https://1a-80er.radionetz.de/1a-80er.mp3
 # 72FM: https://72fm.com/station/274fd83d-69ca-4826-bd2a-2f98d63470c5
 #EXTINF:-1 tvg-logo="https://ytmedia.radio.cn/CCYT/202302/09/17/HRdlznt8YcKTRJdZsE8SXJRsFzZaVJlJJ2023020917172.png" group-title="Oldies" radio="true",CNR-4 经典音乐广播
 http://satellitepull.cnr.cn/live/wxdszs/playlist.m3u8?wsSession=d8a4b41c6557ba30cfeebcdb-174709298057895&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
-# 72FM: https://72fm.com/station/d929ed43-bbdf-4714-a446-098cc0276e7e
-#EXTINF:-1 group-title="Oldies" radio="true",70s All Hits
-http://ec4.yesstreaming.net:2270/
 # 72FM: https://72fm.com/station/8905def9-a0e0-4a62-a53c-96db4cb6d9f1
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Oldies" radio="true",Viva El Mariachi
 http://stream-48.zeno.fm/gs4xg5s0csmtv?zs=fpe9FmGvSNuTKvhiQP2myQ
 # 72FM: https://72fm.com/station/5e489ee4-30fe-4933-a0b8-3d739a866d30
 #EXTINF:-1 tvg-logo="https://www.albalradio.com/favicon.ico" group-title="Oldies" radio="true",راديو عالبال
 https://albal-lbnet2.radioca.st/stream.mp3
-# 72FM: https://72fm.com/station/fd63371f-2620-49ee-88ef-6e2ddfe5b86f
-#EXTINF:-1 tvg-logo="https://blogunik.buzz/img/icon-unik02.png" group-title="Oldies" radio="true",Radio Energy Cugir
-https://sonicssl.namehost.ro/8790/stream/;
 # 72FM: https://72fm.com/station/9623357e-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",R.SA Ostrock
 http://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/
@@ -613,9 +589,6 @@ http://185.23.192.118:8002/;stream.mp3
 # 72FM: https://72fm.com/station/f3e1b20f-c985-4671-9987-7d16eeb45d23
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s178298g.png" group-title="Oldies" radio="true",192 Radio Veronica
 http://server-14.stream-server.nl:8030/
-# 72FM: https://72fm.com/station/37208137-157d-4fd3-93ca-d7de39539012
-#EXTINF:-1 group-title="Oldies" radio="true",Free FM Classics
-https://xxdelgado.radioca.st/
 # 72FM: https://72fm.com/station/f36b67a6-b7aa-4511-a2fa-53feed51abe2
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-gold_600x600.jpg" group-title="Oldies" radio="true",- 0 N - Gold on Radio
 https://0n-gold.radionetz.de/0n-gold.mp3
@@ -628,9 +601,6 @@ https://80s-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/85a5e90d-f7d7-11e8-a471-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",WKHR
 http://ice64.securenetsystems.net/WKHR
-# 72FM: https://72fm.com/station/b5902e48-1de8-4aaa-b1e7-ba5bc12c4c94
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg" group-title="Oldies" radio="true",- 0 N - Christmas on Radio
-https://0n-christmas.radionetz.de/0n-christmas.mp3
 # 72FM: https://72fm.com/station/9605a4dd-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Bide et Musique
 https://relay2.bide-et-musique.com:9143/
@@ -658,18 +628,15 @@ http://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio
 # 72FM: https://72fm.com/station/72e3e855-4a87-43f5-a431-5b5aba8ee5da
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tJKGkdJ/s54174d.webp" group-title="Oldies" radio="true",Beatles Radio (MP3)
 http://www.beatlesradio.com:8000/;
-# 72FM: https://72fm.com/station/f963b8cb-6921-4b1a-817e-21dee718cffb
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg" group-title="Oldies" radio="true",- 0 N - 80s on Radio
-https://0n-80s.radionetz.de/0n-80s.mp3
-# 72FM: https://72fm.com/station/72eec378-2827-4f5c-a55f-5c5ebe73a494
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg" group-title="Oldies" radio="true",Free FM
-https://rocafmadrid.radioca.st/
 # 72FM: https://72fm.com/station/5b71769e-5f69-4dfd-bc30-481d567278ce
 #EXTINF:-1 group-title="Oldies" radio="true",华夏之声China FM·意大利罗马FM89.5
 https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream
 # 72FM: https://72fm.com/station/964976ac-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82b05f_8193c647efa94b70a93346c2a9e39f19%7emv2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/82b05f_8193c647efa94b70a93346c2a9e39f19%7emv2.jpg" group-title="Oldies" radio="true",RetroSouvenirs
 https://listen.radioking.com/radio/108/stream/61183
+# 72FM: https://72fm.com/station/14fdafb5-3b8b-499b-aaa4-4aec802fab8f
+#EXTINF:-1 group-title="Oldies" radio="true",Radio Caprice - Oldies
+http://79.120.77.11:8004/oldies
 # 72FM: https://72fm.com/station/a05ca72f-28a2-4f5d-b271-9c83a58c4383
 #EXTINF:-1 group-title="Oldies" radio="true",Radio Tequila Oldies
 https://stream.zeno.fm/5a1utt11fkhvv
@@ -697,6 +664,9 @@ http://89.43.138.116:8000/radiosky.mp3
 # 72FM: https://72fm.com/station/bb377e31-b9f0-11e9-acb2-52543be04c81
 #EXTINF:-1 tvg-logo="https://upload.norawebstreams.de/production/static/1688454086166/icons/icon_64.a8000000000.png" group-title="Oldies" radio="true",NORA Webstream
 http://streams.norawebstreams.de/nora-live/mp3-192/streams.norawebstreams.de/
+# 72FM: https://72fm.com/station/2aa8ebfb-680d-43ce-bddb-249733909995
+#EXTINF:-1 tvg-logo="https://mrg.fm/img/60sradio125.jpg" group-title="Oldies" radio="true",60sRadio (MRG.fm)
+http://listen.mrg.fm:8020/stream
 # 72FM: https://72fm.com/station/e59826bc-00f5-41fd-95e5-532f0b3a7be2
 #EXTINF:-1 group-title="Oldies" radio="true",80s Super Dancefloor
 https://s41.myradiostream.com:33604/;
@@ -706,21 +676,21 @@ https://uk1.streamingpulse.com/ssl/inolvidablefm
 # 72FM: https://72fm.com/station/9ef65b19-b71f-4ffd-867a-b233085615a6
 #EXTINF:-1 group-title="Oldies" radio="true",Classics Pop & Rock
 http://c9.radioboss.fm:8035/stream
-# 72FM: https://72fm.com/station/d8752a6a-dd00-48ef-b2ac-9eed96171696
-#EXTINF:-1 group-title="Oldies" radio="true",Retró Rádió Csíkszereda
-http://online.radioretro.ro:8002/RetroRadio.mp3
+# 72FM: https://72fm.com/station/3d7eb0bd-1cfb-44c0-8424-2d6e3ad86a56
+#EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512" group-title="Oldies" radio="true",Bayern 1 Niederbayern / Oberpfalz
+https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid
 # 72FM: https://72fm.com/station/d07a5851-4c08-11ea-b877-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.oldiewelle.com/storage/thumbs/192x192/r:1615799476/91.png" group-title="Oldies" radio="true",Oldie Welle Niederbayern
 http://rs4.stream24.net/oldie-welle.mp3
+# 72FM: https://72fm.com/station/d8752a6a-dd00-48ef-b2ac-9eed96171696
+#EXTINF:-1 group-title="Oldies" radio="true",Retró Rádió Csíkszereda
+http://online.radioretro.ro:8002/RetroRadio.mp3
 # 72FM: https://72fm.com/station/dac522ea-640f-4e23-a90c-770e8cf7140f
 #EXTINF:-1 tvg-logo="https://cinemusicradio.com/upload/design/63b2a6080fdb31.87854813.png" group-title="Oldies" radio="true",CINEMUSIC Radio
 https://listen.radioking.com/radio/422/stream/62785
 # 72FM: https://72fm.com/station/7f87b5df-5a65-11ea-be63-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",Rewound Radio
 http://71.125.37.66:8000/stream
-# 72FM: https://72fm.com/station/de5a20d9-1fad-478a-8016-7301cb0216fa
-#EXTINF:-1 group-title="Oldies" radio="true",山东经典音乐广播
-http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8
 # 72FM: https://72fm.com/station/ac80151d-c9f5-4fc2-9d68-1a0c69041d62
 #EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1442/2020/06/05150844/cropped-radioplus-logo-180x180.png" group-title="Oldies" radio="true",Oldies 103.3 FM/1170 AM
 https://ice24.securenetsystems.net/WFDLAM?&playSessionID=797937C8-FCF5-342C-87990F68DDABEC5D
@@ -730,15 +700,15 @@ https://frontend.streamonkey.net/fho-schwarzwaldradiolive/stream/aacp?minvbr=6&m
 # 72FM: https://72fm.com/station/00558d86-07a0-4785-8379-ae01c4d48a71
 #EXTINF:-1 group-title="Oldies" radio="true",Outpost Radio - Christmas Oldies (VIP)
 http://christmasoldies.com/pvt102
-# 72FM: https://72fm.com/station/7e6c07b7-c7d7-4d16-9ee9-a0964b159901
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s220691d.png" group-title="Oldies" radio="true",STEREOREY: La Máxima Dimensión del Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac
 # 72FM: https://72fm.com/station/9615a41f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",RauteMusik Goldies
 http://goldies-high.rautemusik.fm/
 # 72FM: https://72fm.com/station/20869b7c-521b-452e-a4fe-5b50618f79ab
 #EXTINF:-1 tvg-logo="https://www.kvkvi.com/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="Oldies" radio="true",KVKVI - Classic Hits
 https://dc1.serverse.com/proxy/gjlrjfhp/stream
+# 72FM: https://72fm.com/station/1e2095c0-4845-45c3-bc61-d2c7fc1ee52a
+#EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512" group-title="Oldies" radio="true",Bayern 1 Schwaben
+https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid
 # 72FM: https://72fm.com/station/9146aa9a-1021-499d-ae12-010e17eb6873
 #EXTINF:-1 group-title="Oldies" radio="true",0nlineradio SCHLAGER EVERGREENS
 https://stream.0nlineradio.com/schlager-evergreens?ref=radiobrowser
@@ -757,15 +727,9 @@ https://streaming.radio.co/s0c06b7076/listen
 # 72FM: https://72fm.com/station/07832b85-0a4d-11ea-a87e-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-jukebox_600x600.jpg" group-title="Oldies" radio="true",- 0 N - Jukebox on Radio
 https://0n-jukebox.radionetz.de/0n-jukebox.mp3
-# 72FM: https://72fm.com/station/9047f146-c0a0-477b-8ec1-a13db4780af4
-#EXTINF:-1 group-title="Oldies" radio="true",河南网络经典FM
-http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 # 72FM: https://72fm.com/station/f31943f3-1473-4c6c-a251-efcc0a46b7b6
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Oldies" radio="true",Viva El Mariachi
 https://stream-48.zeno.fm/gs4xg5s0csmtv?zs=fpe9FmGvSNuTKvhiQP2myQ
-# 72FM: https://72fm.com/station/5df5fc8a-3259-4d29-988d-814ab6332ece
-#EXTINF:-1 tvg-logo="https://genxradio.co.uk/wp-content/uploads/2021/11/cropped-GenXAsset-9-192x192.png" group-title="Oldies" radio="true",Gen X Radio
-https://s2.radio.co/sf25229e16/listen
 # 72FM: https://72fm.com/station/d8c1cd9f-bf15-45c2-b313-fe560918c36a
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/6hRGTNI71WD1Kg-RhvPEetC1oLoN9cVEDRmQLekLJe4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjU4OTVhY2YtZmNlOC00MjYzLTk1OTktZjhmOGZhNzE4MTU4L2ltYWdlLz91PTE3MjYwMTI0NTcwMDA.webp" group-title="Oldies" radio="true",Viejitas Pero Bonitas Radio
 https://stream.zeno.fm/t4pj1qaktrwtv
@@ -779,17 +743,23 @@ http://live.gofm.ro:9128/
 #EXTINF:-1 group-title="Oldies" radio="true",0nlineradio SCHLAGER OLDIES
 https://stream.0nlineradio.com/schlager-oldies?ref=radiobrowser
 # 72FM: https://72fm.com/station/652a2fa1-d3fe-4724-a3eb-3d6b7fb1e687
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFC0q0h8/80s-Rock.png" group-title="Oldies" radio="true",0R - 80s ROCK || Classic Rock, Hard Rock, Pop Rock, Rock Hits, Guitar, Ballads, Hair Metal, Rock Anthems, Retro, Vintage, Arena Rock, Party Rock, Rock Classics, Melodic Rock
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFC0q0h8/80s-Rock.png" group-title="Oldies" radio="true",0R - 80s ROCK || Classic Rock, Hard Rock, Pop Rock, Rock Hits, Guitar, Ballads, Hair Metal, Rock Anthems, Retro, Vintage
 https://0nlineradio.radioho.st/0r-80s-rock?ref=radio-browser26
 # 72FM: https://72fm.com/station/b074bbcf-a3a6-45d9-b4df-06c70bba8d95
 #EXTINF:-1 tvg-logo="https://www.ostseewelle.de/assets/icons/apple-touch-icon.png" group-title="Oldies" radio="true",Ostseewelle HIT-RADIO - Oldie Hits
 http://streamosw.ir-media-tec.com/oldies/mp3-128
+# 72FM: https://72fm.com/station/82329bca-e104-11e9-a8ba-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png" group-title="Oldies" radio="true",RTBF Viva+
+https://radios.rtbf.be/vivaplus-128.mp3
 # 72FM: https://72fm.com/station/6502d4ae-0e78-11e9-a80b-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.80er-revival.de/favicon.ico" group-title="Oldies" radio="true",80er-Revival
 https://stream.laut.fm/80er-revival
 # 72FM: https://72fm.com/station/1460042c-4f10-49f5-96a1-add6b66aa97c
 #EXTINF:-1 tvg-logo="https://fmhit.uy/wp-content/uploads/2023/09/Logo_HIT_BLANCO-sin-claim.png" group-title="Oldies" radio="true",FM HIT 90.3 Uruguay
 https://hit-1.nty.uy/stream
+# 72FM: https://72fm.com/station/873021f1-d8ea-4e29-a720-4d8482db6e49
+#EXTINF:-1 group-title="Oldies" radio="true",Rockabilly - Caprice Radio
+http://79.111.14.76:8000/rockabilly
 # 72FM: https://72fm.com/station/195f2990-e0d3-4b34-8aab-5b173ddb6c6e
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/94775.v6.png" group-title="Oldies" radio="true",BR - The Classic Rock
 https://stream.zeno.fm/nbq1aq62gd0uv
@@ -808,18 +778,12 @@ http://s2.myradiostream.com:4520/listen.m4a
 # 72FM: https://72fm.com/station/e1ed8978-1bb0-4070-8db0-9bac6136cb6c
 #EXTINF:-1 group-title="Oldies" radio="true",21 RADIO DIJON
 http://82.64.123.204:8001/21radio
-# 72FM: https://72fm.com/station/2fd8e6ae-09e2-4bb3-aab7-56ae342f1adf
-#EXTINF:-1 group-title="Oldies" radio="true",Señal 90 - 90.7 FM - XHOY-FM - Grupo Unidifusión - Guadalajara, Jalisco
-https://s2.yesstreaming.net:17042/stream
 # 72FM: https://72fm.com/station/2f6269a1-dee4-4c13-994a-2b10803d5eec
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xxj9zX6w/80s.png" group-title="Oldies" radio="true",0R - 80s || 80s Pop, 80s Hits, Synthpop, New Wave, Dance, Disco, Pop Classics, Retro, Teen Pop, Funk, Pop Rock, Chart Hits, 80s Dance, Nostalgic, Hit Songs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xxj9zX6w/80s.png" group-title="Oldies" radio="true",0R - 80s || 80s Pop, 80s Hits, Synthpop, New Wave, Dance, Disco, Pop Classics, Retro, Teen Pop, Funk, Pop Rock, Chart Hi
 https://0nlineradio.radioho.st/0r-80s?ref=radio-browser26
 # 72FM: https://72fm.com/station/c80acc57-1183-4b95-a782-252831626922
 #EXTINF:-1 group-title="Oldies" radio="true",80smania
 http://158.69.114.190:8024/stream
-# 72FM: https://72fm.com/station/6eef21a3-51bd-4047-b8d4-e3f80daae4c7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg" group-title="Oldies" radio="true",Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco
-https://ss1.audiorama.com.mx:6574/vibefm
 # 72FM: https://72fm.com/station/b77045b4-f44d-4a49-aed7-3aeb0cc02cbc
 #EXTINF:-1 group-title="Oldies" radio="true",湖北经典音乐广播
 https://lhttp.qtfm.cn/live/1296/64k.mp3
@@ -865,9 +829,6 @@ https://0n-jukebox.radionetz.de/0n-jukebox.aac
 # 72FM: https://72fm.com/station/e97341be-0a0b-4d24-8cb0-df11f2717a8a
 #EXTINF:-1 tvg-logo="https://www.swr.de/assets/swr/swr4/favicon.ico" group-title="Oldies" radio="true",SWR4 Freiburg
 https://liveradio.swr.de/sw282p3/swr4fr/
-# 72FM: https://72fm.com/station/d29b6733-5d61-4e26-9e4e-254dc08df80d
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmusicstax.com%2Fplaylist%2Fwnua-955-smooth-jazz-chicago-forever%2F4lUIlplZdn7d3Rx03TvdUb&psig=AOvVaw3xBJLnMGvFDcfBepy9HTUn&ust=1684965947112000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDT0_m9jP8CFQAAAAAdAAAAABAJ" group-title="Oldies" radio="true",Smooth Jazz WNUA 95.5 Chicago, IL
-https://vip2.fastcast4u.com/proxy/wnua?mp=/1
 # 72FM: https://72fm.com/station/1ed978aa-912a-44b7-be5b-5d2ae47e9690
 #EXTINF:-1 group-title="Oldies" radio="true",Graceland
 http://s1.nexuscast.com:8133/;
@@ -889,11 +850,8 @@ http://patmos.cdnstream.com:9644/stream
 # 72FM: https://72fm.com/station/dcb8a7da-dd8b-493b-a30a-b98278040570
 #EXTINF:-1 group-title="Oldies" radio="true",河北汽车音乐台
 https://radio.pull.hebtv.com/live/hebqcyy.m3u8
-# 72FM: https://72fm.com/station/04d0c498-c6c9-4365-8212-9ad29e6e09c1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4K5Xkqz/mix.jpg" group-title="Oldies" radio="true",MIX: 80's, 90's y Más
-https://19253.live.streamtheworld.com:443/XHDFMFMAAC.aac
 # 72FM: https://72fm.com/station/7213ce93-3ded-4b0e-ab89-ef789d066e23
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2YbXkQG/70s.png" group-title="Oldies" radio="true",* 70s || Oldies, 70er, Disco, Funk, Soul, Classic Pop, Retro, Kultsongs, Evergreens, Vinyl Vibes, Groovy, Feel Good, Nostalgie, Zeitlos, Charts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2YbXkQG/70s.png" group-title="Oldies" radio="true",* 70s || Oldies, 70er, Disco, Funk, Soul, Classic Pop, Retro, Kultsongs, Evergreens, Vinyl Vibes, Groovy, Feel Good, Nos
 https://0nlineradio.radioho.st/0r-70s?ref=rb26
 # 72FM: https://72fm.com/station/9626cef8-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Oldies" radio="true",DIE NIEUE 107.7 Oldies
@@ -904,3 +862,45 @@ http://lhttp.qingting.fm/live/5022038/64k.mp3?
 # 72FM: https://72fm.com/station/ea949437-acea-40e1-ab43-045fb7aed40b
 #EXTINF:-1 group-title="Oldies" radio="true",Always ELVIS Radio
 https://radioserver.dk/alwayselvisradio
+# 72FM: https://72fm.com/station/962283f2-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Oldies" radio="true",CFXL 103.1 "XL103" Calgary, AB
+http://newcap.leanstream.co/CFXLFM-MP3
+# 72FM: https://72fm.com/station/ccc6b59f-e9bb-4373-9f29-eeecf4c98342
+#EXTINF:-1 group-title="Oldies" radio="true",Rádio MB
+http://icecast3.play.cz/radiomb.mp3
+# 72FM: https://72fm.com/station/692ae6f6-a6bd-4b69-991c-818a674b0e20
+#EXTINF:-1 group-title="Oldies" radio="true",Radio 100% 90s
+https://gb25.streamgates.net/radios-audio/10090s/icecast.audio
+# 72FM: https://72fm.com/station/849dea02-183e-4a88-b6b7-f517af0b24f4
+#EXTINF:-1 group-title="Oldies" radio="true",Radio FFN - 80er
+https://stream.ffn.de/ffn-80er/?ref=radio-browser
+# 72FM: https://72fm.com/station/9644403a-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Oldies" radio="true",ARBÖ Verkehrsradio
+http://live.datamatix.at:8022/
+# 72FM: https://72fm.com/station/a23ab0c7-b9ef-11e9-acb2-52543be04c81
+#EXTINF:-1 tvg-logo="https://upload.norawebstreams.de/production/static/1688454086166/icons/icon_64.a8000000000.png" group-title="Oldies" radio="true",NORA 80er Stream
+http://streams.norawebstreams.de/nora-80er/mp3-192/streams.norawebstreams.de/
+# 72FM: https://72fm.com/station/83a33803-487d-426e-89f1-27a749c3902c
+#EXTINF:-1 tvg-logo="https://www.radiocaroline.co.uk/favicon.ico" group-title="Oldies" radio="true",Radio Caroline [48k aac+]
+http://78.129.202.10:8010/;
+# 72FM: https://72fm.com/station/e9b228d0-bdc3-4bd7-b998-76bae15cbec3
+#EXTINF:-1 group-title="Oldies" radio="true",Radio Monique 963 Gold
+https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3
+# 72FM: https://72fm.com/station/41842595-f15b-4e04-a102-8bb35917e9db
+#EXTINF:-1 tvg-logo="https://www.oldie-antenne.de/media/cache/3/version/37897/oldie_80er_hits_2000x2000-v1.png/7e89fb3888c0cba3f06e0881fc336952.webp" group-title="Oldies" radio="true",Oldie Antenne - 80er Hits
+https://s7-webradio.oldie-antenne.de/oldie-antenne-80er-hits/stream/mp3?aw_0_1st.playerid=OldieAntenneWebPlayer&aw_0_1st.skey=1706378427399&aw_0_req.userConsentV2=CP5CssAP5CssAAFADBDEAlEgAAAAAAAAAAYgAAAAAAEhIAMAAQL2DQAYAAgXsIgAwABAvYVABgACBewyADAAEC9h0AGAAIF7EIAMAAQL2JQAYAAgXsUgAwABAvYA.YAAAAAAAAAAA&companionAds=false&companion_zone_alias=41%2C42%2C40%2C731%2C752%2C756%2C768
+# 72FM: https://72fm.com/station/a99825c0-67ae-41c8-bd89-da28b5b9b4a7
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/052/estereo-clase.a99aaac8.png" group-title="Oldies" radio="true",Estereo Clase 92.9 FM
+https://stream.zeno.fm/k6grbcx0zceuv
+# 72FM: https://72fm.com/station/43f5dd99-a727-42d3-8164-19618a5957de
+#EXTINF:-1 group-title="Oldies" radio="true",EPIC CLASSICAL - Classical Oldies
+https://stream.epic-classical.com/classical-oldies
+# 72FM: https://72fm.com/station/3107a066-eebd-4dcf-834c-eaa3ab106354
+#EXTINF:-1 group-title="Oldies" radio="true",Rádio Blaník Oldies
+https://ice.radia.cz/oldiesradio128.mp3
+# 72FM: https://72fm.com/station/e0289f0b-333a-4289-b92d-8ab4c2bc8510
+#EXTINF:-1 group-title="Oldies" radio="true",崇州年代音乐1022
+http://lhttp.qingting.fm/live/20500066/64k.mp3?
+# 72FM: https://72fm.com/station/69b26bba-7b57-46c8-91f2-032febb52473
+#EXTINF:-1 tvg-logo="https://www.magic.co.nz/experience-fragments/mws-sites-nextgen/magic/en/site/header/master/_jcr_content/root/container/container_545837448/image.coreimg.svg/1662540657531/logo-01.svg" group-title="Oldies" radio="true",Magic
+https://digitalstreams.mediaworks.nz/mmusic_net/playlist.m3u8

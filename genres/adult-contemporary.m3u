@@ -4,12 +4,18 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/9608ade8-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2846/images/logoq.jpg" group-title="Adult Contemporary" radio="true",Heart London 106.2 [MP3]
+http://ice-sov.musicradio.com/HeartLondonMP3
 # 72FM: https://72fm.com/station/963fa65f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Antena 1 São Paulo, SP (ZYD823 94,7 MHz FM) [aac]
 http://antena1.newradio.it/stream?ext=.mp3
 # 72FM: https://72fm.com/station/531fced7-b22b-11e8-afe1-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/apple-touch-icon.png" group-title="Adult Contemporary" radio="true",Antena 1 FM 94.7 São Paulo
 http://antena1.newradio.it/stream
+# 72FM: https://72fm.com/station/961a5a75-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",RMC Radio Monte Carlo
+http://icecast.unitedradio.it/RMC.mp3
 # 72FM: https://72fm.com/station/4534dd5f-b22a-11e8-afe1-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Antena 1 FM 103.7 Rio de Janeiro
 http://a1rj.streams.com.br:7801/stream
@@ -49,6 +55,9 @@ http://edge.radiomontecarlo.net/rmcweb006
 # 72FM: https://72fm.com/station/961756e4-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png" group-title="Adult Contemporary" radio="true",Radio Kiss Kiss
 http://wma07.fluidstream.net:4610/
+# 72FM: https://72fm.com/station/06da0d92-28c2-11e9-a80b-52543be04c81
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
 # 72FM: https://72fm.com/station/96483438-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Закарпаття FM
 http://195.234.148.51:8000/;
@@ -70,6 +79,9 @@ http://centova.radio.com.pt:8495/;
 # 72FM: https://72fm.com/station/86132968-f954-11e9-bbf2-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Subasio Per un'ora d'amore
 http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
+# 72FM: https://72fm.com/station/f468711f-a403-11e8-abb8-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="Adult Contemporary" radio="true",Smooth Radio London 102.2
+http://media-the.musicradio.com/SmoothLondonMP3
 # 72FM: https://72fm.com/station/96354704-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",92.5 Club
 http://158.69.200.1:8030/stream
@@ -79,12 +91,6 @@ http://onair-ha1.krone.at/kronehit64.aac
 # 72FM: https://72fm.com/station/96300843-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Y103.3 - Haggatt Hall
 http://usa4.fastcast4u.com:5336/;
-# 72FM: https://72fm.com/station/e94afa1a-0f96-4a57-8b97-112bb5cd348d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="Adult Contemporary" radio="true",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
-https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
-# 72FM: https://72fm.com/station/7145c05c-8b59-4553-85a0-6e9688d12925
-#EXTINF:-1 tvg-logo="https://radiostorm.com/wp-content/uploads/2018/01/cropped-imgpsh_fullsize2-180x180.png" group-title="Adult Contemporary" radio="true",Radiostorm - At Work 104
-http://streaming.live365.com/b30572_128mp3
 # 72FM: https://72fm.com/station/961b5644-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Si
 http://mp3.rtvslo.si/rsi
@@ -121,9 +127,6 @@ https://streaming.exclusive.radio/er/georgemichael/icecast.audio
 # 72FM: https://72fm.com/station/961b57c9-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Capodistria
 http://mp3.rtvslo.si/capo
-# 72FM: https://72fm.com/station/7739e3b5-fd1d-4f82-b3df-e8638ff0b46a
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s3099/images/logod.jpg" group-title="Adult Contemporary" radio="true",La Octava (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
-http://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
 # 72FM: https://72fm.com/station/ad1ccf58-9748-4f2f-946e-11026b171ab7
 #EXTINF:-1 tvg-logo="https://bestfmbudapest.hu/wp-content/themes/bestfm/assets/dist/img/favicon/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Best FM - Budapest
 https://icast.connectmedia.hu/5101/live.mp3/;
@@ -148,9 +151,6 @@ https://streaming.exclusive.radio/er/beegees/icecast.audio
 # 72FM: https://72fm.com/station/35d36481-14cc-4c6d-a7b1-bf0e607be1f1
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Z100 WHTZ FM 100.3 New York
 http://stream.revma.ihrhls.com/zc1469
-# 72FM: https://72fm.com/station/02734cfa-5c5b-46f2-85c6-a5a654be7a24
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gc5TMjP/Top-200-Dj-Charts-breakz-logo.jpg" group-title="Adult Contemporary" radio="true",#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic House, Melodic Techno. Best 100 Lounge, Mixed Radio Station @ PartyHits / Schlager Remix Top 50
-https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 # 72FM: https://72fm.com/station/9629c2dd-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Nostalgia Liguria
 http://wma08.fluidstream.net:8000/listen.pls
@@ -169,6 +169,9 @@ http://icy.unitedradio.it/SubasioCollection.mp3
 # 72FM: https://72fm.com/station/a88e23e7-34c7-4ef6-9c83-2b932e16cc7f
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",COOLFM YouTube HOT HITS!
 https://mediagw.e-tiger.net/stream/zc22
+# 72FM: https://72fm.com/station/1719542e-3c7e-46f0-b20f-5189aec7edee
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Eric Clapton
+https://streaming.exclusive.radio/er/ericclapton/icecast.audio
 # 72FM: https://72fm.com/station/3904e33b-d230-43da-8114-e1ea97485ace
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/114200.v4.png" group-title="Adult Contemporary" radio="true",95.7 That Station
 https://ais-sa8.cdnstream1.com/2749_64.aac
@@ -184,9 +187,6 @@ http://stream.lokalradio.nrw/444z7j4
 # 72FM: https://72fm.com/station/961865e8-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",La Rocka 91.7
 http://5.135.183.124:8243/
-# 72FM: https://72fm.com/station/964bb882-d35b-4d33-ac2e-fb2c5d7c9aea
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM_SC
 # 72FM: https://72fm.com/station/e657d33c-f344-11e9-a96c-52543be04c81
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png" group-title="Adult Contemporary" radio="true",Los 40 Catalunya
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC
@@ -199,18 +199,12 @@ http://14133.live.streamtheworld.com:3690/XHENOFMAAC_SC
 # 72FM: https://72fm.com/station/b61115e1-d005-4bcf-b64d-540b40f504a8
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="Adult Contemporary" radio="true",WDR 2 Ruhrgebiet
 https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
-# 72FM: https://72fm.com/station/c064c241-a2c2-4dd9-b889-b292535397fe
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GE7jNgZWQAEcxNb?format=png&name=240x240" group-title="Adult Contemporary" radio="true",Rádio Studio Flashback
-https://stream-163.zeno.fm/6gv76f1xruquv?zs=SvdWy-tsTtCXPZ9IZC0ASA
 # 72FM: https://72fm.com/station/2eee3e72-5fe3-444c-9be2-72f7a6c7477d
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio112934_1562066435.png" group-title="Adult Contemporary" radio="true",Rádio Joli MPB
 https://stream-163.zeno.fm/mrutsyhkc3quv
 # 72FM: https://72fm.com/station/df56ca27-8782-439f-bc91-806800aae834
 #EXTINF:-1 tvg-logo="https://chiliradio.asia/wp-content/uploads/2021/01/apple-icon-120x120-1.png" group-title="Adult Contemporary" radio="true",Chili Radio Thailand
 https://stream.chiliradio.app/chiliclassics
-# 72FM: https://72fm.com/station/d10681ce-a784-4068-bf6e-82b1f887727d
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",UNIVERSAL y LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
-http://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM.mp3
 # 72FM: https://72fm.com/station/e6592998-c7b2-4b5e-9bc0-d88039f6e096
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",KOZT The Coast
 http://3.92.193.219/caradio-koztfmaac-ibc3?session-id=173dfe9cadb0b9298dfb47f744a91aed
@@ -223,6 +217,9 @@ https://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio
 # 72FM: https://72fm.com/station/cd2a7a3e-635b-479b-b75a-156034f734d8
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Desert Underground Radio
 http://s18.myradiostream.com:6878/;
+# 72FM: https://72fm.com/station/194fd928-8664-4543-b0c1-5eda742161e9
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Rock and Pop Classics
+https://stream.zeno.fm/kusrlthtbhltv
 # 72FM: https://72fm.com/station/38eaa0d8-02c9-49a7-9ce4-d953a47fcb0f
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Spot Radio
 https://c9.radioboss.fm/stream/141
@@ -256,9 +253,9 @@ https://edge.mixlr.com/channel/gtqpn?listening-from-radio-garden=1654604184
 # 72FM: https://72fm.com/station/962a7b3e-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://radio-rb.de/wp-content/uploads/2021/03/cropped-favicon-180x180.png" group-title="Adult Contemporary" radio="true",Radio Russkij Berlin
 http://rb-stream.de:8000/rrb_128.mp3
-# 72FM: https://72fm.com/station/7cb8a87f-454d-4b6d-8e09-bd16348e2182
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",#1 RdMix Love Songs
-https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+# 72FM: https://72fm.com/station/7c396e00-acce-4b86-bd88-a2e38689ce7b
+#EXTINF:-1 tvg-logo="https://radio.lublin.pl/wp-content/uploads/2019/05/cropped-logo512t-180x180.png" group-title="Adult Contemporary" radio="true",Radio Lublin
+https://streaming.radio.lublin.pl:8843/128k
 # 72FM: https://72fm.com/station/53903241-34a0-46a2-a877-edb06080f384
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Paprika Rádió
 http://stream1.paprikaradio.ro:8000/;stream
@@ -271,18 +268,24 @@ http://onair22.streaming.xdevel.com:10084/;stream.mp3
 # 72FM: https://72fm.com/station/9609a3bb-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Manbassa
 http://91.121.90.186:8000/radiomanbassa
-# 72FM: https://72fm.com/station/29717342-f376-48a3-93a6-3dae781e6c92
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b7gfKT6/TOP-100-DJ-CHARTS-GPT.jpg" group-title="Adult Contemporary" radio="true",- TOP 100 - DJ Charts - / - REMIX DEEJAY RADIO - CLUB RADIO - HOUSE - EDM - TECHHOUSE - TECHNO - DANCE - TOP100 - TOP40 - RNB - BLACKMUSIC - HIPHOP - URBAN - REGGEATON - MIXTAPE RADIO - RAVE MUSIC - LIVE DEEJAY RADIO - LIVE EVENTS
-https://radio2.breakz.fm/?ref=rb-gpt-t100
+# 72FM: https://72fm.com/station/51306363-5c47-47b2-adb6-4e25bda8b787
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",KOST 103.5
+https://stream.revma.ihrhls.com/zc193
 # 72FM: https://72fm.com/station/4669679b-2422-4129-a963-f6e6fd31b03d
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",SUNNY 99.1
 https://stream.revma.ihrhls.com/zc2273
 # 72FM: https://72fm.com/station/d366167f-96ef-4c99-9214-b9a3ab4276f5
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Chill Radio
 https://eu8.fastcast4u.com/proxy/chillradio?mp=/1
+# 72FM: https://72fm.com/station/4ad6f53f-bad7-4fb4-8e85-ba4a01ed9e16
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Whitney Houston
+https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio
 # 72FM: https://72fm.com/station/853ea2b7-52a2-413b-9bda-9e258dacba24
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Exclusively REM
 https://streaming.exclusive.radio/er/rem/icecast.audio
+# 72FM: https://72fm.com/station/c08d22c3-497c-4ced-8de9-fafb7297977f
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Y100 WHYI FM 100.7 Miami
+http://stream.revma.ihrhls.com/zc561
 # 72FM: https://72fm.com/station/2c8e7be6-bdb7-4590-a444-a37c627f3f63
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Annie Lennox
 https://streaming.exclusive.radio/er/annielennox/icecast.audio
@@ -322,6 +325,9 @@ https://streaming.exclusive.radio/er/lionelrichie/icecast.audio
 # 72FM: https://72fm.com/station/5a597723-62af-477b-9cd1-8a666ee72b5c
 #EXTINF:-1 tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-transilvania/play_250_250.jpg" group-title="Adult Contemporary" radio="true",Radio Transilvania - Cluj
 https://stream2.radiotransilvania.ro/Cluj
+# 72FM: https://72fm.com/station/963f9e3d-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",R.SH Live
+http://streams.rsh.de/rsh-live/mp3-192/mediaplayer
 # 72FM: https://72fm.com/station/96212a14-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",CFVR "Mix 103.7" Fort McMurray, AB
 http://cfvr.streamon.fm/stream/CFVR-64k.aac
@@ -355,6 +361,9 @@ http://media-ice.musicradio.com/HeartSussexMP3?.mp3
 # 72FM: https://72fm.com/station/05eda073-6722-49a1-bd0c-7e8eec9efc61
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively America
 https://streaming.exclusive.radio/er/america/icecast.audio
+# 72FM: https://72fm.com/station/8e9677d0-a3ea-482a-a662-00515519b5e3
+#EXTINF:-1 tvg-logo="https://i0.wp.com/spiritfm1039lucena.com/wp-content/uploads/2021/07/logo.png?resize=768%2C768&ssl=1" group-title="Adult Contemporary" radio="true",Spirit FM Lucena 103.9
+http://stream.zeno.fm/fp689r8sty8uv
 # 72FM: https://72fm.com/station/e3f8d228-1bb6-42b9-8771-18daad167de6
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Magic 107.7
 https://stream.revma.ihrhls.com/zc597
@@ -370,15 +379,6 @@ http://live.trolli.is:8200/;
 # 72FM: https://72fm.com/station/41f2ace7-7432-45c1-b1c0-1f32eabe0c07
 #EXTINF:-1 tvg-logo="https://www.kvegas.com/favicons/apple-touch-icon.png" group-title="Adult Contemporary" radio="true",Hot 97.5 KVEG
 https://playerservices.streamtheworld.com/api/livestream-redirect/KVEGFM
-# 72FM: https://72fm.com/station/697aad80-c4d2-4180-8ede-28aa1b9086bb
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Prince
-https://streaming.exclusive.radio/er/prince/icecast.audio
-# 72FM: https://72fm.com/station/5df5fc8a-3259-4d29-988d-814ab6332ece
-#EXTINF:-1 tvg-logo="https://genxradio.co.uk/wp-content/uploads/2021/11/cropped-GenXAsset-9-192x192.png" group-title="Adult Contemporary" radio="true",Gen X Radio
-https://s2.radio.co/sf25229e16/listen
-# 72FM: https://72fm.com/station/2e134abb-adc9-4488-bfbd-9dc8ce49d632
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Allman Brothers
-https://streaming.exclusive.radio/er/allmanbrothers/icecast.audio
 # 72FM: https://72fm.com/station/a0e36892-807b-43a0-b8ae-2c8947adc609
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQyyuhJ7WoyN_ccyGvIjCT2qUBtBNGzVlkA&usqp=CAU" group-title="Adult Contemporary" radio="true",Bahana FM Ngawi
 http://bahanafm.onlivestreaming.net:10450/live
@@ -418,6 +418,9 @@ http://bigrradio.cdnstream1.com/5207_128
 # 72FM: https://72fm.com/station/9647da10-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",KroneHit Radio
 http://onair-ha1.krone.at/kronehit.aac
+# 72FM: https://72fm.com/station/a2936e90-af4f-4bfb-9e41-666e76324054
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Amy Winehouse
+https://streaming.exclusive.radio/er/amywinehouse/icecast.audio
 # 72FM: https://72fm.com/station/962b1a03-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radiocompanyeasy.com/wp-content/uploads/2016/02/20160217-icona-radio-company-easy.png" group-title="Adult Contemporary" radio="true",Radio Company Easy
 http://ice02.fluidstream.net/ceasy.aac
@@ -427,6 +430,9 @@ http://sphera.fluidstream.eu/easy.mp3?FLID=6
 # 72FM: https://72fm.com/station/c182ef57-161c-4f80-8fc9-2b2b290a8b01
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",102.9 NOW
 https://stream.revma.ihrhls.com/zc2237
+# 72FM: https://72fm.com/station/8bfdc158-7c6e-4778-9449-3973f384da35
+#EXTINF:-1 tvg-logo="https://m.facebook.com/favicon.ico" group-title="Adult Contemporary" radio="true",Big Sound FM Baguio
+http://162.220.162.10:8184/stream
 # 72FM: https://72fm.com/station/96194363-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Rádio Felgueiras
 http://centova.radio.com.pt:8459/;
@@ -454,15 +460,15 @@ https://stream.lokalradio.nrw/4459h6k
 # 72FM: https://72fm.com/station/962cc608-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/befkzjuwpcsw.png" group-title="Adult Contemporary" radio="true",Rádió Antritt
 http://stream.radioantritt.hu:8000/Antritt
+# 72FM: https://72fm.com/station/2c3bf58f-fd12-4e93-bcde-4d7f1899faf1
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s5998/images/logod.png" group-title="Adult Contemporary" radio="true",GFM Salvador Bahia FM 90.1
+https://ice.fabricahost.com.br/radiogfm
 # 72FM: https://72fm.com/station/b216570b-66fb-415a-93c0-2ba2b2f0b4c8
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Janet Jackson
 https://streaming.exclusive.radio/er/janetjackson/icecast.audio
 # 72FM: https://72fm.com/station/961f05a8-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Bellla & Monella
 http://ice02.fluidstream.net/bella.mp3
-# 72FM: https://72fm.com/station/9077d9d6-6908-4f82-a9fe-ed83cc3f240c
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",Éxtasis Digital (León) - 95.9 FM / 590 AM - XHGTO-FM / XEGTO-AM - Radiorama - León, Guanajuato
-https://stream-283.surfernetwork.com/gcdxabxx5rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY2R4YWJ4eDVyaHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjRUeWYyejNfVFNtektNS2ZrbXpCWFEiLCJpYXQiOjE3OTA4MzY3NDksImV4cCI6MTc5MDgzNjgwOX0.DTXBHut4ZZx0jrbihrzYMWBPN5-3VTqX-5E7i5ng-mU
 # 72FM: https://72fm.com/station/9627ed19-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",FSNews Radio
 http://fsnews128.newradio.it/stream
@@ -475,9 +481,6 @@ http://onair15.xdevel.com:8842/;stream.mp3
 # 72FM: https://72fm.com/station/29d089db-7676-4f24-b16b-f5cdc5b9c07e
 #EXTINF:-1 tvg-logo="https://mellow947.com/wp-content/uploads/2025/03/mellow_2026_ico.png" group-title="Adult Contemporary" radio="true",Mellow 94.7 BFM
 https://streamer.radio.co/sec36cd5f1/listen
-# 72FM: https://72fm.com/station/49ad5236-61ab-4c07-b4b6-a8da11bffe83
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/s39agjsfxs3v.png" group-title="Adult Contemporary" radio="true",80s Drive
-https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80sradio128mp3stereo44
 # 72FM: https://72fm.com/station/f4928612-ed25-4c21-a852-0600deb0ff1e
 #EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="Adult Contemporary" radio="true",Smooth Radio (Suffolk)
 https://media-ssl.musicradio.com/SmoothSuffolk
@@ -499,9 +502,6 @@ http://ice02.fluidstream.net/gelosa
 # 72FM: https://72fm.com/station/962cf6fb-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radiopiper.it/wp-content/uploads/2023/01/cropped-logo-radio-piper-definitivo-png-1-180x180.png" group-title="Adult Contemporary" radio="true",Radio Piper
 http://s7.myradiostream.com:5466/stream
-# 72FM: https://72fm.com/station/00705334-8462-4b81-8372-07af848cd32b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LDxCj60L/logo-up-2200.jpg" group-title="Adult Contemporary" radio="true",antenne WIESBADEN
-https://stream.antenne-wiesbaden.de/antennewiesbaden-live/mp3-192?ref=radio-browser
 # 72FM: https://72fm.com/station/ced4eb46-0a32-4ea7-bf28-e26c94d989f8
 #EXTINF:-1 tvg-logo="https://masmusica.lanacion.com.ar/assets/img/favicon.png" group-title="Adult Contemporary" radio="true",LA NACION 104.9
 https://stream.radio.co/s2ed3bec0a/listen
@@ -520,6 +520,9 @@ http://stream.revma.ihrhls.com/zc1173
 # 72FM: https://72fm.com/station/d613e5d5-2533-4079-bfe5-4ba2ff4a03da
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",1043 MYfm
 https://stream.revma.ihrhls.com/zc173
+# 72FM: https://72fm.com/station/d35af201-6dab-45a8-8661-d3bdce1c21ce
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Nup Radio 91.4
+https://stream.zeno.fm/gxjhbloltwluv
 # 72FM: https://72fm.com/station/963a5fac-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",WJXA "Mix 92.9" Nashville, TN
 http://29320.live.streamtheworld.com:3690/WJXAFMAAC_SC
@@ -535,6 +538,9 @@ http://newcap.leanstream.co/CKZZFM
 # 72FM: https://72fm.com/station/9620f897-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",CHHI "95.9 Sun FM" Miramichi, NB
 http://newcap.leanstream.co/CHHIFM
+# 72FM: https://72fm.com/station/f7cdb266-4a85-47d3-95ed-b8ec387b1305
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Star 102.1
+https://stream.revma.ihrhls.com/zc2815
 # 72FM: https://72fm.com/station/cff0d32f-9773-4239-8f0c-0e4d44ccb356
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/CFIX_Rouge96%2C9fm_logo.png/250px-CFIX_Rouge96%2C9fm_logo.png" group-title="Adult Contemporary" radio="true",CFIX-FM "Rouge FM 96.9" Saguenay, QC
 https://22983.live.streamtheworld.com/CFIXFMAAC_SC
@@ -551,7 +557,7 @@ https://zas1.ndx.co.za:8018/stream
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Cape Talk 567
 https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC?dist=CapeTalkWeb&pname=TDSdk
 # 72FM: https://72fm.com/station/f9c08c41-c711-410c-9152-82d5cddc17ed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpnRsBPM/Soft-Rock.png" group-title="Adult Contemporary" radio="true",0R - SOFT ROCK || Rock, Pop Rock, Ballads, Classic Rock, Soft, Guitar, Melodic, 70s, 80s, 90s, Easy Listening, Romantic, Hits, Mellow, Nostalgic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpnRsBPM/Soft-Rock.png" group-title="Adult Contemporary" radio="true",0R - SOFT ROCK || Rock, Pop Rock, Ballads, Classic Rock, Soft, Guitar, Melodic, 70s, 80s, 90s, Easy Listening, Romantic,
 https://0nlineradio.radioho.st/0r-soft-rock?ref=radio-browser26
 # 72FM: https://72fm.com/station/449a57d2-4508-11ea-a860-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",1000 Radiohits
@@ -562,9 +568,9 @@ http://media-sov.musicradio.com/HeartHampshire
 # 72FM: https://72fm.com/station/9648e95d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Heart North West 105.4
 http://media-the.musicradio.com/HeartNorthWest
-# 72FM: https://72fm.com/station/29c8e691-1f46-4699-b730-799ee2300c20
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",UNIVERSAL y LA OCTAVA (Guadalajara) - 700 AM - XEDKR-AM - Grupo Radio Centro - Guadalajara, JC
-http://playerservices.streamtheworld.com/api/livestream-redirect/XEDKR_AMAAC.aac
+# 72FM: https://72fm.com/station/dcd50deb-e41c-481b-9656-8ea90a11ccfb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Radio_Erft_Logo.svg/800px-Radio_Erft_Logo.svg.png" group-title="Adult Contemporary" radio="true",Radio Erft
+https://radioerft--di--nacs-ais-lgc--04--cdn.cast.addradio.de/radioerft/live/mp3/high
 # 72FM: https://72fm.com/station/49f62c80-0b72-435f-babb-93e1f9524f33
 #EXTINF:-1 tvg-logo="https://ciudadradiofm.com/imagenes/radio-ciudad-montero.jpg" group-title="Adult Contemporary" radio="true",Ciudad Radio 101.5 FM
 https://emiteradio.com/proxy/monteroradio?mp=/stream
@@ -649,15 +655,9 @@ http://sr1.inmystream.info:8090/;stream.mp3
 # 72FM: https://72fm.com/station/0d17a57f-3940-41d5-95e6-fefc800aa5bb
 #EXTINF:-1 tvg-logo="https://rakradio.ae/wp-content/uploads/2025/05/fac-LOGO-RAK.jpg" group-title="Adult Contemporary" radio="true",Rak Radio UAE
 https://stream.chiliradio.app/gulfradio
-# 72FM: https://72fm.com/station/c43baffa-82c4-442c-bc49-cb9a6519db92
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Amy Wibehouse
-https://streaming.exclusive.radio/er/amywinehouse/icecast.audio
 # 72FM: https://72fm.com/station/c87df85c-7a00-49a9-84f1-ed93a6a34bbb
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",RADIO UNIQUE FM /HI-RES
 https://hilversumdrie.beheerstream.nl/8038/stream
-# 72FM: https://72fm.com/station/7197750c-aba9-4815-8edd-a9afc4a72d3f
-#EXTINF:-1 tvg-logo="https://sipseplay.com/favicon.ico" group-title="Adult Contemporary" radio="true",Kiss FM (Chetumal) - 95.3 FM - XHROO-FM - Grupo SIPSE Radio - Chetumal, Quintana Roo
-https://cast4.asurahosting.com/proxy/radiocan/stream
 # 72FM: https://72fm.com/station/962a02ac-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Vallebelbo
 http://nr9.newradio.it:9581/stream
@@ -670,18 +670,15 @@ http://ice64.securenetsystems.net/WWNW
 # 72FM: https://72fm.com/station/963f870c-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",CKWM "Magic 94.9" Kentville, NS
 http://mbsradio.leanstream.co/CKWMFM-MP3
-# 72FM: https://72fm.com/station/a4e126db-7b99-4b9e-aba0-1819d02464f8
-#EXTINF:-1 tvg-logo="https://www.audiorama.mx/contenidos/logos/48-logo-retro-fm-cordoba-20230523181030.png" group-title="Adult Contemporary" radio="true",Retro FM (Córdoba) - 88.1 FM - XHDZ - Grupo Audiorama Comunicaciones - Córdoba, Veracruz
-https://ss1.audiorama.com.mx:6658/;
 # 72FM: https://72fm.com/station/f0e3ae87-cdcd-4abe-bb25-7f1bc14e1ec2
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Capital Anthems
 https://media-ice.musicradio.com/CapitalAnthemsMP3
-# 72FM: https://72fm.com/station/2a445907-c15c-4dee-a7c5-4ebd3707d7ba
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",Éxtasis Digital (León) - 95.9 FM / 590 AM - XHGTO-FM / XEGTO-AM - Radiorama Bajío - León, Guanajuato
-https://stream-283.surfernetwork.com/gcdxabxx5rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY2R4YWJ4eDVyaHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkxKeXp1UGpnVG9paEZzcXk3bElPN3ciLCJpYXQiOjE3OTA4NzU1NTUsImV4cCI6MTc5MDg3NTYxNX0.13ZqT_vQxqA7xrflLgQR6BJZ6xUNVXVX0rmo_pbfnd8
 # 72FM: https://72fm.com/station/962314c7-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Heart Bristol 96.3
 http://ice-sov.musicradio.com/HeartBristolMP3
+# 72FM: https://72fm.com/station/0614f3bc-1742-48ad-8a2a-2d374a4f7795
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Phoenix Radio 1208
+http://listen.phoenixradio1208.com:8027/live
 # 72FM: https://72fm.com/station/af48aa00-ec97-4c3f-b721-6abffd44e174
 #EXTINF:-1 tvg-logo="https://www.fame95fm.com/wp-content/uploads/Fame-Logo-1.png" group-title="Adult Contemporary" radio="true",Fame 95 FM
 https://stream.zeno.fm/wbsd59gcgy5tv
@@ -697,9 +694,6 @@ https://stream.revma.ihrhls.com/zc1341
 # 72FM: https://72fm.com/station/76ad00ee-219f-4a47-9403-9d62ba311b6f
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",KISS 108 WXKS FM 107.9 Boston
 http://stream.revma.ihrhls.com/zc1097
-# 72FM: https://72fm.com/station/b132e5d4-7568-4750-be28-1822ad7b711c
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",UNIVERSAL Guadalajara - 700 AM - XEDKR-AM - Grupo Radio Centro - Guadalajara, JC
-https://playerservices.streamtheworld.com/api/livestream-redirect/XEDKR_AMAAC.aac
 # 72FM: https://72fm.com/station/954e0410-d58b-4f52-b2f6-5d32bc938472
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",scannerFM
 https://eu10.fastcast4u.com/scannerfm
@@ -766,24 +760,18 @@ http://newcap.leanstream.co/CKULFM
 # 72FM: https://72fm.com/station/24ecf801-3b54-4512-8a7d-9c11fcb505fe
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Q102 WIOQ FM 102.1 Philladelphia
 http://stream.revma.ihrhls.com/zc1997
-# 72FM: https://72fm.com/station/ebdaeaf7-bbcf-4136-bb44-0c644d0c7d69
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",>> *TOP 100 CHARTS* << || Pop, Rock, Dance, House, Techno, Trance, Electro, Hip-Hop, Rap, RnB, Reggaeton, Latin, Jazz, Blues, Soul, Funk, Metal, Punk, Indie, Alternative, Chillout, Lounge, Ambient, Classical, Acoustic, Singer-Songwriter, Party, Top 40, Hits, Charts, Oldies, 80s, 90s, 2000s, 2010s, EDM, Club, Deep House, Tropical, Mood, Love Songs, Workout, Relax, Study, Driving, Festival, Summer
-https://breakz-2012-high.rautemusik.fm/?ref=rb010326
-# 72FM: https://72fm.com/station/3bd00739-5b60-4cc4-a78b-8082d0566490
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s12591/images/logod.png" group-title="Adult Contemporary" radio="true",Globo 101.9 (Mexicali) - 101.9 FM - XHPF-FM - MVS Radio - Mexicali, Baja California
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC.aac
 # 72FM: https://72fm.com/station/7ded1b30-6581-11e9-a622-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="Adult Contemporary" radio="true",Heart Plymouth 97.0 & 96.6
 http://media-sov.musicradio.com/HeartPlymouth
 # 72FM: https://72fm.com/station/6dc08a7c-a2a1-11e8-abb8-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",InTheMixRadio
 http://stream.laut.fm/inthemixradio
-# 72FM: https://72fm.com/station/6c045d8f-28d7-4dd0-b081-83f7834c3d03
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",LA OCTAVA (Guadalajara) - 700 AM - XEDKR-AM - Grupo Radio Centro - Guadalajara, JC
-https://playerservices.streamtheworld.com/api/livestream-redirect/XEDKR_AM_SC
 # 72FM: https://72fm.com/station/afecee5c-8ecd-4350-9218-7c6fd080a39c
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",delilah stories and songs matched perfectly
 https://stream.revma.ihrhls.com/zc4846
+# 72FM: https://72fm.com/station/c814bc71-e223-42ba-a3e7-b0aece90d6c2
+#EXTINF:-1 tvg-logo="https://edelweiss.fm/wp-content/uploads/2022/07/logo-edelweiss-100x100.png" group-title="Adult Contemporary" radio="true",Radio Edelweiss
+https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
 # 72FM: https://72fm.com/station/ba50a94d-f0cf-11e8-a471-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",KZHP-LP K-ZAP
 http://ice9.securenetsystems.net/KZHP
@@ -811,9 +799,6 @@ http://media-ice.musicradio.com/HeartBerkshireMP3?.mp3
 # 72FM: https://72fm.com/station/9621347f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",CHYR "MIX 96.7" Leamington, ON
 http://live.leanstream.co/CHYRFM
-# 72FM: https://72fm.com/station/f3187b78-1dfb-42c7-ba27-bdba34cbdf94
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1FNrZ5v/CLUB-CHARTS-2026.jpg" group-title="Adult Contemporary" radio="true",## CLUB CHARTS - TOP 100 CLUB CHARTS - DJ CHARTS - CLUBBING HITS - DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - URBAN - HIP HOP - RNB - LATIN RADIO
-https://breakz-2012-high.rautemusik.fm/?ref=rb-clubcharts26
 # 72FM: https://72fm.com/station/127e77a8-c2bf-4513-b564-77e31fbb3dfc
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Exclusively Celine Dion Hits
 https://streaming.exclusive.radio/er/celinedionhits/icecast.audio
@@ -844,24 +829,21 @@ http://onair15.xdevel.com:9230/listen.pls
 # 72FM: https://72fm.com/station/2ee024c7-2561-4b38-894d-1be1a7b5f2e8
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Freee 89.9
 https://streaming.radio.lublin.pl:8843/radiofreeeacp
-# 72FM: https://72fm.com/station/5d1e38ab-b0f0-4292-b486-8fe76cbc39b2
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s241397/images/logog.jpg" group-title="Adult Contemporary" radio="true",HEART UK: Turn up the feel good! - Londres, Inglaterra
-https://media-ssl.musicradio.com/HeartUK
 # 72FM: https://72fm.com/station/62083e65-51f6-4428-acf7-37b3bfcf2bcb
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",96.1 The River
 https://stream.revma.ihrhls.com/zc1001
 # 72FM: https://72fm.com/station/9630db32-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Basilicata Radio 2
 http://sr1.inmystream.info:8333/;stream.mp3
-# 72FM: https://72fm.com/station/88db198a-9509-4527-8245-dadd4cbeb2f1
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306609/images/logod.png" group-title="Adult Contemporary" radio="true",Globo 98.7 (Guadalajara) - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, Jalisco
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFMAAC.aac
 # 72FM: https://72fm.com/station/3730ef31-af44-4b3f-8326-c2eb0cd13f8e
 #EXTINF:-1 tvg-logo="https://www.magic979boise.com/favicon.ico" group-title="Adult Contemporary" radio="true",Magic 97.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQFCFMAAC.aac
 # 72FM: https://72fm.com/station/964270aa-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radiosystem.net/wp-content/uploads/2017/01/sy-ico-100x100.png" group-title="Adult Contemporary" radio="true",Radio System Network
 http://178.32.139.184:8110/stream
+# 72FM: https://72fm.com/station/de01b857-ebe0-44fc-87c2-23db583ccd3b
+#EXTINF:-1 tvg-logo="https://socialradio.com.br/radio/tribunafm/apple-touch-icon.png" group-title="Adult Contemporary" radio="true",Tribuna soft FM 90,1
+https://ice.fabricahost.com.br/tribunafm
 # 72FM: https://72fm.com/station/7addaa41-027a-433c-833e-dcdf1dbec372
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Jam'n 94.5
 https://stream.revma.ihrhls.com/zc1089
@@ -889,18 +871,36 @@ http://17653.live.streamtheworld.com:3690/KELOFMAAC_SC
 # 72FM: https://72fm.com/station/f78b5faa-d2a0-4c91-b891-e8889664d460
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Argovia-logo.svg/800px-Argovia-logo.svg.png" group-title="Adult Contemporary" radio="true",Radio Argovia
 https://stream.streambase.ch/argovia/mp3-192/radiobrowser/
-# 72FM: https://72fm.com/station/58c1c7c3-75dd-46c2-af61-db1b49bf5f56
-#EXTINF:-1 tvg-logo="https://grupoabcmedia.com/wp-content/uploads/2025/01/noticias.png" group-title="Adult Contemporary" radio="true",ABC NOTICIAS 1310 (MTY) - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
-https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac
 # 72FM: https://72fm.com/station/2b9745a6-9155-44f6-adfe-e62ff9361d7e
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/11/62090e452aff2.png" group-title="Adult Contemporary" radio="true",Original 106
 https://listen-original.sharp-stream.com/original106.mp3
-# 72FM: https://72fm.com/station/17a37e51-76d5-41f2-9053-a0ee09911987
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NG9cNmDK/EXTASIS-DIGITAL-CHIHUAHUA.jpg" group-title="Adult Contemporary" radio="true",ÉXTASIS DIGITAL 580 (Chihuahua) - 580 AM - XEFI-AM - Radiorama Chihuahua - Chihuahua, Chihuahua
-https://stream-284.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjFySHB3bzEtVDdLN1ZXQjZiT1h5U0EiLCJpYXQiOjE3OTA4NDk5MzYsImV4cCI6MTc5MDg0OTk5Nn0.CEkE9B_H5jLAFGNyLQkaTOD5u_dKd21fYQtUs7jZQ5E
-# 72FM: https://72fm.com/station/8c0a5e3f-1c20-41be-9f81-efc3270b7b2c
-#EXTINF:-1 tvg-logo="https://rt1485.com/wp-content/uploads/2020/06/RTH-Logo01-W.png" group-title="Adult Contemporary" radio="true",Radio Today
-https://rt1485.out.airtime.pro/rt1485_b
 # 72FM: https://72fm.com/station/963444e6-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",RCS Radio Camaldoli Stereo
 http://ice04.fluidstream.net/fluid0401.mp3
+# 72FM: https://72fm.com/station/cf06f7eb-500f-44b8-a8a0-1461d490421e
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",011.FM - Cruise Control - Road Trip Radio
+https://listen.011fm.com/stream30
+# 72FM: https://72fm.com/station/8fd90d91-97a6-48dd-8da8-c58dac1951dd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/DM_95.5.JPG/revision/latest?cb=20160814112718" group-title="Adult Contemporary" radio="true",DWDM fm 95.5
+http://n09.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlNUkOegAd71tiQORW5Lo8A
+# 72FM: https://72fm.com/station/96229cb0-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",CJSB 104.5 "CJ104" Swan River, MB
+http://dns4.83north.ca:8000/cjsb.mp3
+# 72FM: https://72fm.com/station/5745cb33-e36c-4447-aebd-35b59dad9e1b
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Josh Groban
+https://streaming.exclusive.radio/er/joshgroban/icecast.audio
+# 72FM: https://72fm.com/station/9624fa89-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Veronica My Radio
+http://sphera.fluidstream.eu/rpd_country.mp3?FLID=7
+# 72FM: https://72fm.com/station/9646297a-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",WVFM 106.5 Kalamazoo, MI
+http://18863.live.streamtheworld.com/WVFMFMAAC_SC
+# 72FM: https://72fm.com/station/25fcc251-484e-47cb-97d8-9effbd3957ff
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0q5D4h6/61ea5407dcdc455f530c0423.webp" group-title="Adult Contemporary" radio="true",4CA - Cairns - 846 AM (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CA.mp3
+# 72FM: https://72fm.com/station/c3703366-2c77-4bae-9be1-17708a538158
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",antenne 1 Soft & Lazy
+http://stream.antenne1.de/soft/livestream2.mp3?usid=H-M-09-0-0
+# 72FM: https://72fm.com/station/ba05027c-89ad-11e8-aa66-52543be04c81
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Show Italia 103e5
+http://onair15.xdevel.com:8496/;stream.mp3

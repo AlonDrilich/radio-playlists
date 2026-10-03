@@ -7,6 +7,9 @@
 # 72FM: https://72fm.com/station/31710261-0b76-11e9-a80b-52543be04c81
 #EXTINF:-1 group-title="Singapore" radio="true",YES 933 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
+# 72FM: https://72fm.com/station/a949b7f0-0b79-11e9-a80b-52543be04c81
+#EXTINF:-1 group-title="Singapore" radio="true",Warna 942 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
 # 72FM: https://72fm.com/station/fff132f1-0b79-11e9-a80b-52543be04c81
 #EXTINF:-1 group-title="Singapore" radio="true",Love 972 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac
@@ -115,12 +118,12 @@ http://22243.live.streamtheworld.com:3690/AXR_SINGAPORE_SC
 # 72FM: https://72fm.com/station/f699e43f-b717-41d1-8d05-b5e07506a2d0
 #EXTINF:-1 tvg-logo="https://www16.mediacorp.sg/melisten/radiostation-logos/warna-942.png" group-title="Singapore" radio="true",WARNA 942
 https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac
-# 72FM: https://72fm.com/station/d6d9f4a7-1422-4183-9fea-2b4d2ee99a5b
-#EXTINF:-1 group-title="Singapore" radio="true",Warna
-http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
 # 72FM: https://72fm.com/station/67c8fa3a-f3a1-4906-981a-c975bad0b08f
 #EXTINF:-1 group-title="Singapore" radio="true",Ufm 1003
 http://28093.live.streamtheworld.com/UFM_1003AAC.aac
+# 72FM: https://72fm.com/station/eff51d17-59b3-4e93-89df-df1b24416d0c
+#EXTINF:-1 tvg-logo="https://www16.mediacorp.sg/melisten/radiostation-logos/987.png" group-title="Singapore" radio="true",987
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac
 # 72FM: https://72fm.com/station/4b621a64-46d8-4115-a18a-740d0f161bad
 #EXTINF:-1 tvg-logo="https://www.rmelody.net/img/static_logo.jpg" group-title="Singapore" radio="true",Radio Melody with Brother Bjorn
 https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563
@@ -139,9 +142,6 @@ http://22903.live.streamtheworld.com/LOVE972FMAAC.aac
 # 72FM: https://72fm.com/station/8b90726c-f093-4a3d-83cf-3ca85722de48
 #EXTINF:-1 tvg-logo="https://radio-sg.com/wp-content/uploads/2024/01/Love-97.2-FM-330x330.webp" group-title="Singapore" radio="true",LOVE 972
 https://28333.live.streamtheworld.com/LOVE972FM_PREM.aac
-# 72FM: https://72fm.com/station/d77838fc-f8dc-4b29-addc-dbe0de47b56c
-#EXTINF:-1 tvg-logo="https://www16.mediacorp.sg/melisten/radiostation-logos/987.png" group-title="Singapore" radio="true",987
-https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac
 # 72FM: https://72fm.com/station/95a5eca2-0341-443d-8343-7a1f6f58ea02
 #EXTINF:-1 tvg-logo="https://973fm.weebly.com/uploads/6/2/8/3/62839335/published/973logo-1_1.png?1531151203" group-title="Singapore" radio="true",973FM Blasts That Last
 http://c16.radioboss.fm:8115/autodj

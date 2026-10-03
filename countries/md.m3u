@@ -52,6 +52,9 @@ http://37.233.41.76:8000/lovefm
 # 72FM: https://72fm.com/station/206380e4-f015-4665-bddd-133d1327d672
 #EXTINF:-1 group-title="Moldova" radio="true",Hit FM Hot Hits
 https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac
+# 72FM: https://72fm.com/station/78160e93-0a17-49ff-9903-7f97c0e501c5
+#EXTINF:-1 group-title="Moldova" radio="true",Drive FM
+http://109.185.236.241:8000/DriveFM
 # 72FM: https://72fm.com/station/c07ab03b-0903-4a1d-ad14-c1ef20087e05
 #EXTINF:-1 group-title="Moldova" radio="true",Hit FM Best Hits
 https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac
@@ -61,9 +64,6 @@ https://streams.radiozum.md/listen/zum2/ZUM2
 # 72FM: https://72fm.com/station/d0d6ddda-0681-472f-97f8-1f60d8276c7a
 #EXTINF:-1 group-title="Moldova" radio="true",HIT FM Русский Хит
 https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac
-# 72FM: https://72fm.com/station/2fb2f96f-3acb-4c08-9ece-4666b08d8ec7
-#EXTINF:-1 tvg-logo="https://live.mystreamplayer.com/configs/images/crucialvelocityradio_icon.png" group-title="Moldova" radio="true",Crucial Velocity Radio
-http://ais-sa2.cdnstream1.com/1369_128
 # 72FM: https://72fm.com/station/2e932e59-c33f-4064-9e8d-924537b383ae
 #EXTINF:-1 group-title="Moldova" radio="true",Hit FM Dance
 https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac
@@ -100,12 +100,12 @@ https://sexsoundradio.com:8000/radio.mp3
 # 72FM: https://72fm.com/station/0280d853-bec5-40f2-895f-77746e2b0b38
 #EXTINF:-1 tvg-logo="https://api.rockfm.ro/resized/streams/2024/09/23/kissfm-chisinau-4696b7_37baa944d8b6449a3bd03549a72356cb.jpg?w=120&h=120&c=1" group-title="Moldova" radio="true",Kiss FM Chișinău
 https://dc.digi.live.kissfm.ro/kissfm.chisinau
+# 72FM: https://72fm.com/station/e0e7f619-6324-4a23-adae-dcc548a18072
+#EXTINF:-1 group-title="Moldova" radio="true",Haliz Gagauz Radiosu - GRT
+http://s02.radio-tochka.com:8020/radio?type=.mp3
 # 72FM: https://72fm.com/station/7ff4a334-50ab-439a-ba82-47a3c2dd0082
 #EXTINF:-1 tvg-logo="https://www.radioplai.md/logo-radio-plai.png" group-title="Moldova" radio="true",Radio Plai
 https://stream.radioplai.md/live
-# 72FM: https://72fm.com/station/e70f3c0d-7e3a-4973-a5e4-19471790a25f
-#EXTINF:-1 group-title="Moldova" radio="true",Haliz Gagauz Radiosu - GRT
-http://s02.radio-tochka.com:8020/radio?type=.mp3
 # 72FM: https://72fm.com/station/814b4e82-2580-4320-9ccb-0fbbb4144d20
 #EXTINF:-1 tvg-logo="https://www.ainostri.com/favicon.ico" group-title="Moldova" radio="true",Radio Ai Noștri
 https://s5.radio.co/sfd9f42d1d/listen

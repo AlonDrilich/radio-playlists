@@ -1,0 +1,21 @@
+#EXTM3U
+# Radio stations in Greenland
+# Source: Radio Browser (https://www.radio-browser.info), public domain data.
+# Streams belong to their stations; 72FM does not own, operate or curate them.
+# Listen in the browser: https://72fm.com
+
+# 72FM: https://72fm.com/station/efd96088-62e3-4df5-a962-b9595ee7b6c9
+#EXTINF:-1 tvg-logo="https://nanoqmedia.gl/apple-touch-icon.png" group-title="Greenland" radio="true",Nanoq FM
+http://getnanoq.retro-radio.dk/Nanoq-TX-1
+# 72FM: https://72fm.com/station/cf7861e6-bd17-11e8-aaf2-52543be04c81
+#EXTINF:-1 group-title="Greenland" radio="true",Dfm rtv int160k
+https://stereo.dfm.nu/
+# 72FM: https://72fm.com/station/430e068a-9655-48e3-a7bb-10afb5dbaa3f
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/146808.v6.png" group-title="Greenland" radio="true",ΡΑΔΙΟ ΔΙΠΛΟΠΕΝΙΕΣ
+https://play.streams.gr/sc/radiodiplopenies/stream
+# 72FM: https://72fm.com/station/500614c3-98ff-46e5-8a96-8b2398a9ee8a
+#EXTINF:-1 tvg-logo="https://knr.gl/themes/custom/pco_theme/favicon.ico?v=1" group-title="Greenland" radio="true",KNR Live Radio
+https://i1.cdn.jetstre.am:8000/sz=knr=audio192?token=ea282bc02bb373156231dd1522a33943&time=6a184ec2
+# 72FM: https://72fm.com/station/c5d12af3-9ac1-4baa-b4ac-d38745e14a4d
+#EXTINF:-1 group-title="Greenland" radio="true",Original Laikos
+https://play.streams.gr:22035/stream

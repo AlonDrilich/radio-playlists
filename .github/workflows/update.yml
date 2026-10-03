@@ -21,7 +21,10 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
+
+      - name: Test helpers
+        run: node --test scripts/build.test.mjs
 
       - name: Build playlists
         run: node scripts/build.mjs
@@ -40,4 +43,5 @@ jobs:
 
       - name: Announce to IndexNow
         if: success()
-        run: node scripts/indexnow.mjs || true
+        continue-on-error: true
+        run: node scripts/indexnow.mjs

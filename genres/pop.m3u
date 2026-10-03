@@ -4,12 +4,21 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/961949f3-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="Pop" radio="true",Hit FM (UKraine) - 128kb/s
+http://195.95.206.17/HitFM
+# 72FM: https://72fm.com/station/9622cd46-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",Europa Plus
+http://ep256.hostingradio.ru:8052/europaplus256.mp3
 # 72FM: https://72fm.com/station/63688c44-e90b-11e8-a471-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",РАДИО ВАНЯ
 https://icecast-radiovanya.cdnvideo.ru/radiovanya
 # 72FM: https://72fm.com/station/960d9241-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",RMF FM
 http://195.150.20.9/RMFFM48
+# 72FM: https://72fm.com/station/964fade0-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",Ретро FM
+http://retroserver.streamr.ru:8043/retro256.mp3
 # 72FM: https://72fm.com/station/aa408a3b-3d07-415d-8af1-a60b64e07043
 #EXTINF:-1 tvg-logo="https://www.navahang.com/apple-touch-icon.png" group-title="Pop" radio="true",Radio Navahang
 https://navairan.com/;stream.nsv
@@ -25,12 +34,18 @@ http://media-ice.musicradio.com/CapitalMP3
 # 72FM: https://72fm.com/station/9643f966-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Радио Шансон - Radio Shanson
 http://chanson.hostingradio.ru:8041/chanson256.mp3
+# 72FM: https://72fm.com/station/8e315430-4a60-4274-a9cd-2fe4462957b2
+#EXTINF:-1 group-title="Pop" radio="true",Хіт FM Сучасні хіти
+http://online.hitfm.ua/HitFM_Top
 # 72FM: https://72fm.com/station/f2d01650-b84f-4d85-aa3f-4c085bf211ff
 #EXTINF:-1 group-title="Pop" radio="true",Hits 1 Algérie
 https://radio12.pro-fhi.net/listen/whmnrlow/stream
 # 72FM: https://72fm.com/station/c4077677-dc2f-11e9-a8ba-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="Pop" radio="true",Heart 80s
 https://media-ssl.musicradio.com/Heart80sMP3
+# 72FM: https://72fm.com/station/b81c57c3-eb05-47ac-a0ea-eb01a6960cc4
+#EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png" group-title="Pop" radio="true",LOS 40 Principales España
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
 # 72FM: https://72fm.com/station/9619ea14-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png" group-title="Pop" radio="true",Radio 105 Network
 http://icecast.unitedradio.it/Radio105.mp3
@@ -40,12 +55,27 @@ http://antena1.newradio.it/stream?ext=.mp3
 # 72FM: https://72fm.com/station/caaa4c5a-16c8-11e9-a80b-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.chocolatefm.com/__ovh/common/img/favicon.ico" group-title="Pop" radio="true",Chocolate FM
 http://streaming5.elitecomunicacion.es:8082/live.mp3
+# 72FM: https://72fm.com/station/963fb390-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75" group-title="Pop" radio="true",Radio Nova
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
 # 72FM: https://72fm.com/station/9637a1b2-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",90s90s Hits
 http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
 # 72FM: https://72fm.com/station/960e71a1-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Radio Romania Actualități
 http://89.238.227.6:8006/;
+# 72FM: https://72fm.com/station/83dcfac4-b3c3-4731-afc1-a80dd271dffa
+#EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="Pop" radio="true",Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
+# 72FM: https://72fm.com/station/240d28b9-7858-48d2-a816-9cf8e1875fe8
+#EXTINF:-1 tvg-logo="https://swr3.de/assets/swr3/icons/apple-touch-icon.png" group-title="Pop" radio="true",SWR3
+https://liveradio.swr.de/sw282p3/swr3/play.mp3
+# 72FM: https://72fm.com/station/961a5a75-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",RMC Radio Monte Carlo
+http://icecast.unitedradio.it/RMC.mp3
+# 72FM: https://72fm.com/station/e7205cd4-dc30-11e9-a8ba-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",Heart 70s
+https://media-ssl.musicradio.com/Heart70sMP3
 # 72FM: https://72fm.com/station/b6f672e3-eedf-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",РЕТРО ХИТ - RETRO HIT
 http://retro.volna.top/Retro
@@ -55,9 +85,21 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp
 # 72FM: https://72fm.com/station/1c3b70d9-39d5-49d5-a81a-77833667a88b
 #EXTINF:-1 group-title="Pop" radio="true",I-Radio Jakarta
 http://stream.radiojar.com/4ywdgup3bnzuv
+# 72FM: https://72fm.com/station/7aecf6b1-4724-4fd5-b66e-88d2e34e9b8a
+#EXTINF:-1 group-title="Pop" radio="true",Хіт ФМ Найбільші хіти
+http://online.hitfm.ua/HitFM_Best
+# 72FM: https://72fm.com/station/6b36ba4f-6d29-4272-b3c0-9aeeb64e61ec
+#EXTINF:-1 group-title="Pop" radio="true",Mirchi Top 20
+https://drive.uber.radio/uber/bollywoodnow/icecast.audio
+# 72FM: https://72fm.com/station/4c1ec953-fcf5-4bf1-b03b-4be73ad4cb3f
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6417q.png" group-title="Pop" radio="true",Clouds FM
+http://eu6.fastcast4u.com:5306/;
 # 72FM: https://72fm.com/station/fa76f16f-dc31-11e9-a8ba-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="Pop" radio="true",Heart Dance
 https://media-ssl.musicradio.com/HeartDanceMP3
+# 72FM: https://72fm.com/station/960efe59-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
 # 72FM: https://72fm.com/station/d00d02b5-16cc-11e9-a80b-52543be04c81
 #EXTINF:-1 tvg-logo="https://chocolatefm.com/radio-browser.png" group-title="Pop" radio="true",Chocolate FM [calidad móvil-low bandwidth]
 http://streaming5.elitecomunicacion.es:8082/live32.aac
@@ -91,6 +133,9 @@ https://0n-70s.radionetz.de/0n-70s.mp3
 # 72FM: https://72fm.com/station/960ee76f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Pro FM
 http://edge126.rdsnet.ro:84/profm/profm.mp3
+# 72FM: https://72fm.com/station/0e5dfcc8-99e2-4fed-a232-7f4bf23ba3c3
+#EXTINF:-1 group-title="Pop" radio="true",Mirchi Love
+https://drive.uber.radio/uber/bollywoodlove/icecast.audio
 # 72FM: https://72fm.com/station/98b22cd2-0ec8-4bb1-a5f6-f168de7548b5
 #EXTINF:-1 tvg-logo="https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png" group-title="Pop" radio="true",Retro Rádió
 https://icast.connectmedia.hu/5001/live.mp3
@@ -115,6 +160,9 @@ https://free.rcast.net/230792
 # 72FM: https://72fm.com/station/960d4bdc-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",181.FM - Kickin' Country
 http://listen.181fm.com/181-kickincountry_128k.mp3
+# 72FM: https://72fm.com/station/0be05318-b6ad-11e8-aaf2-52543be04c81
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5uLKDLksVe.png" group-title="Pop" radio="true",Radio Dalmacija
+http://shoutcast.pondi.hr:8000/;
 # 72FM: https://72fm.com/station/96154673-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",1.FM - Cafe Radio
 http://strm112.1.fm/caferadio_mobile_mp3
@@ -124,6 +172,9 @@ http://c32.radioboss.fm:8139/stream
 # 72FM: https://72fm.com/station/960f000f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Fun Radio Dance
 http://stream.funradio.sk:8000/dance128.mp3
+# 72FM: https://72fm.com/station/8a41b60c-f115-11e8-a471-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg" group-title="Pop" radio="true",- 0 N - 80s on Radio
+https://0n-80s.radionetz.de/0n-80s.mp3
 # 72FM: https://72fm.com/station/962878f4-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Radio Kiss Kiss Napoli
 http://wma08.fluidstream.net:3612/;listen.pls
@@ -148,9 +199,6 @@ http://live.deejay.hr:7002/;
 # 72FM: https://72fm.com/station/ac0d65b9-a656-4d0e-a6a5-f4b78770a05f
 #EXTINF:-1 group-title="Pop" radio="true",Diab FM
 http://stream-36.zeno.fm/rf64mx02qa0uv?zs=omRb6KEjQ3u0-JsaJKdhQg
-# 72FM: https://72fm.com/station/d95ad5e2-417c-4969-a533-c2d9c696d58c
-#EXTINF:-1 group-title="Pop" radio="true",El Fonógrafo, Música las 24 horas (elfonografo.mx) - Online - Grupo Radio Centro - Ciudad de México
-https://26283.live.streamtheworld.com:443/XEJP_AM_SC
 # 72FM: https://72fm.com/station/e7599368-1801-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Antena 1 Rio de Janeiro, RJ (ZYD 463, 103,7 MHz FM)
 http://a1rj.streams.com.br:7801/sm
@@ -220,6 +268,9 @@ https://hitfm.hostingradio.ru/hitfm96.aacp
 # 72FM: https://72fm.com/station/08bcc582-f87b-43fc-96cd-5be0233566d5
 #EXTINF:-1 tvg-logo="https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png" group-title="Pop" radio="true",Bésame (Medellín) 94.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
+# 72FM: https://72fm.com/station/960f4b0b-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://radiogdansk.pl/wp-content/uploads/2020/12/cropped-favicon-180x180.png" group-title="Pop" radio="true",Radio Gdansk
+http://stream.task.gda.pl:8000/rg1
 # 72FM: https://72fm.com/station/960b364a-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://upload.kissfm.de/production/static/1699276434696/icons/icon_64.be8y2280000.png" group-title="Pop" radio="true",98.8 Kiss FM
 http://stream.kissfm.de/kissfm/mp3-128/internetradio/
@@ -253,18 +304,27 @@ https://eatv.radioca.st/stream
 # 72FM: https://72fm.com/station/9e3b0f8e-95d3-11e9-a605-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.ndr.de//apple-touch-icon-57x57.png" group-title="Pop" radio="true",NDR 2
 https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/51501335-c294-4084-97d6-6ee4e8441c0d
+#EXTINF:-1 group-title="Pop" radio="true",Otvoreni Radio
+https://stream.otvoreni.hr/otvoreni
 # 72FM: https://72fm.com/station/960c0cbf-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Best FM
 http://stream.webthings.hu:8000/fm95-x-128.mp3
 # 72FM: https://72fm.com/station/e9ad7a00-0a37-4b3f-a05f-d2d8fa205a11
 #EXTINF:-1 group-title="Pop" radio="true",Мелодія FM Romantic
 http://online.melodiafm.ua/MelodiaFM_Romantic_Live
+# 72FM: https://72fm.com/station/706def0c-7017-4601-8305-db1cdb2e9420
+#EXTINF:-1 tvg-logo="https://superfm.com.tr/favicon.ico" group-title="Pop" radio="true",Super Fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
 # 72FM: https://72fm.com/station/962cd570-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Latvijas Radio 2
 http://lr2mp1.latvijasradio.lv:8002/;
 # 72FM: https://72fm.com/station/743889d5-5472-4e9f-ac61-5f0f04e7efa8
 #EXTINF:-1 group-title="Pop" radio="true",KISS FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
+# 72FM: https://72fm.com/station/963f9bfc-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",PulseEDM Dance Music Radio
+http://pulseedm.cdnstream1.com:8124/1373_128
 # 72FM: https://72fm.com/station/e18ee1f1-7050-45e2-97bd-a5bd85ebb6f8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/87390.v8.png" group-title="Pop" radio="true",Radio Tequila Dance Romania
 http://dance.radiotequila.ro:7000/;stream.nsv
@@ -283,9 +343,6 @@ http://strm112.1.fm/top40_mobile_mp3
 # 72FM: https://72fm.com/station/6d1e1d4c-a321-11e9-a787-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",RFI Romania
 http://asculta.rfi.ro:9128/live.aac
-# 72FM: https://72fm.com/station/dd98c499-a0c4-4019-a35e-99caa6940407
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T1gH75m/rb-top100clubcharts.png" group-title="Pop" radio="true",# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
-https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
 # 72FM: https://72fm.com/station/9618739f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Rádio Nova Era
 http://centova.radio.com.pt:9478/
@@ -298,6 +355,9 @@ http://27943.live.streamtheworld.com/FM947AAC_SC
 # 72FM: https://72fm.com/station/96200832-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",эльдорадио (Eldo Radio) 101.4 St. Petersburg
 http://emgspb.hostingradio.ru/eldoradio128.mp3
+# 72FM: https://72fm.com/station/960ef35c-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg" group-title="Pop" radio="true",VRT Radio 1
+http://icecast.vrtcdn.be/radio1-high.mp3
 # 72FM: https://72fm.com/station/960ebea6-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://upload.berliner-rundfunk.de/production/static/1693298496587/icons/icon_64.a80y02808w0.png" group-title="Pop" radio="true",Berliner Rundfunk 91.4
 http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/
@@ -313,15 +373,27 @@ http://play.global.audio/avtoradio.opus
 # 72FM: https://72fm.com/station/673104f3-2e52-40f1-91df-d17306d63023
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/26.v35.png" group-title="Pop" radio="true",Мелодія FM
 https://online.melodiafm.ua/MelodiaFM
+# 72FM: https://72fm.com/station/72fd7498-b41e-448d-9f1a-b8a00e3b8ca8
+#EXTINF:-1 group-title="Pop" radio="true",Radio Kiss
+http://icecast4.play.cz/kiss128.mp3
+# 72FM: https://72fm.com/station/48c265ba-4102-4b16-95c1-a4f494bb48cd
+#EXTINF:-1 tvg-logo="https://cdn.fortuna.ge/app/uploads/2024/02/fortuna-logo-2024-02-08_07-57-34_538522.png" group-title="Pop" radio="true",არდაიდარდო
+https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8
+# 72FM: https://72fm.com/station/cb61763d-d635-4983-82c1-4a6a1e8ad17b
+#EXTINF:-1 tvg-logo="https://www.europa2.sk/wp-content/uploads/2023/05/cropped-favicon-128x128.png?w=128&h=128" group-title="Pop" radio="true",Europa 2
+https://stream.bauermedia.sk/europa2.mp3
+# 72FM: https://72fm.com/station/daea35b7-ba89-11e8-aaf2-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",Rai Radio 1 Sport
+http://icestreaming.rai.it/13.mp3
+# 72FM: https://72fm.com/station/96190b45-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",Rádio Planície 92.8 Moura
+http://109.71.41.6:8026/stream
 # 72FM: https://72fm.com/station/c8cfc213-6a39-4b45-b925-3c6acb3f8b68
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg" group-title="Pop" radio="true",Rádio Band FM 96.1 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC
 # 72FM: https://72fm.com/station/c6fa893b-8530-4d7c-803e-724e1575239f
 #EXTINF:-1 group-title="Pop" radio="true",Radio Huancayo
 https://cloud9.ldwebstudios.net:7000/;
-# 72FM: https://72fm.com/station/1b8296e1-6561-4094-82de-df4034de2bc0
-#EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Pop" radio="true",Exa FM 101.7 Guatemala
-https://stream.zeno.fm/czdkk32qduhvv
 # 72FM: https://72fm.com/station/960be1b7-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",181.FM - Beatles
 https://listen.181fm.com/181-beatles_128k.mp3
@@ -334,12 +406,18 @@ http://icecast8.play.cz/freeradio128.mp3
 # 72FM: https://72fm.com/station/38b81da5-2a3b-43c0-b444-ee0f7ad1c18d
 #EXTINF:-1 group-title="Pop" radio="true",Radio Kaj
 https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream
-# 72FM: https://72fm.com/station/5bc44bcd-7481-40e1-b503-bb92b936f4cf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png" group-title="Pop" radio="true",# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
-https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts
+# 72FM: https://72fm.com/station/9605ced9-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",WDR COSMO
+http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/7ec365b0-7b3c-11ea-8a3b-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.chocolatefm.com/apple-touch-icon.png" group-title="Pop" radio="true",Chocolate FM HD
 http://streaming5.elitecomunicacion.es:8030/live.mp3
+# 72FM: https://72fm.com/station/61156199-ece3-413e-ac39-7b2483513ab2
+#EXTINF:-1 group-title="Pop" radio="true",Radio Mix FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+# 72FM: https://72fm.com/station/960ce338-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",Antenne Bayern - 80er Kulthits
+http://stream.antenne.de/80er-kulthits
 # 72FM: https://72fm.com/station/31d064a7-5452-4f7d-8d78-1f5784778f20
 #EXTINF:-1 group-title="Pop" radio="true",Clube FM 99.1
 https://radio.saopaulo01.com.br:10913/stream
@@ -358,21 +436,18 @@ http://onair.superfm.rs/superfm.mp3
 # 72FM: https://72fm.com/station/8eb1682c-6530-4639-af53-7b327fcd6d26
 #EXTINF:-1 group-title="Pop" radio="true",Мелодія Int
 http://online.melodiafm.ua/MelodiaFM_Int_Live
+# 72FM: https://72fm.com/station/962ad25a-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",XY 90.5 FM Tegucigalpa
+http://ice42.securenetsystems.net/XY905
 # 72FM: https://72fm.com/station/d104634a-7073-4e67-9d64-2e50398eb857
 #EXTINF:-1 group-title="Pop" radio="true",RADIO LA MEGA 96.7 FM (PERU)
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?
 # 72FM: https://72fm.com/station/b3196f29-8c85-4dd8-8a83-6ddc4d1b5620
 #EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F996bWxQ_VQRrXNPXFc0G4r6Y12RBOiwMSdcID72FM0g%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzBkNmYyNjMxLTZmMGItNDc2Ni1iMThmLThkMGMwNmQxMWQ4MC9pbWFnZS8_dXBkYXRlZD0xNjk4MzkyOTk3MDAw.webp&w=750&q=100" group-title="Pop" radio="true",M-Stream Indo
 https://stream.zeno.fm/iln4upodbvuuv
-# 72FM: https://72fm.com/station/1c6dcd6f-88c6-4fd4-8191-078435168e85
-#EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="Pop" radio="true",BBC Radio 6 Music
-http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 # 72FM: https://72fm.com/station/80b6b9c0-9692-4829-bc11-cdb0956d627d
 #EXTINF:-1 group-title="Pop" radio="true",Radio Vivid Voice
 https://stream.zeno.fm/xuin6ocdc2juv
-# 72FM: https://72fm.com/station/bb03737b-2116-42c3-ae23-81de72bbf729
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/p1306541/images/logod.png" group-title="Pop" radio="true",LOS40 Colombia
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC.aac
 # 72FM: https://72fm.com/station/96069a5d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://energy.ch/ech-new/images/ech/apple-touch-icon.png" group-title="Pop" radio="true",Energy Zürich (NRJ)
 http://broadcast.infomaniak.ch/energyzuerich-high.mp3
@@ -388,21 +463,33 @@ http://stream.danubiusradio.hu/danubius_128k
 # 72FM: https://72fm.com/station/9610ad64-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Ballermann Radio
 http://stream.bmr-radio.de/
-# 72FM: https://72fm.com/station/a8a86e85-c6df-4b69-bd50-6889b2016675
-#EXTINF:-1 group-title="Pop" radio="true",El Fonógrafo - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
-https://15313.live.streamtheworld.com:443/XEN_AM_SC
 # 72FM: https://72fm.com/station/ae7694a3-d499-11e9-a861-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Radio Con Vos 89.9
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
+# 72FM: https://72fm.com/station/962ce682-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",Radio ENERGY.LV - Russian
+http://radio1.radioenergy.lv:8000/
 # 72FM: https://72fm.com/station/af23facc-2a9e-487e-9ff6-42ba600ce38d
 #EXTINF:-1 group-title="Pop" radio="true",Русское Радио
 https://rusradio.hostingradio.ru/rusradio128.mp3
+# 72FM: https://72fm.com/station/96121f0f-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",SRo4 Rádio FM
+http://live.slovakradio.sk:8000/FM_256.mp3
 # 72FM: https://72fm.com/station/960c11f3-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Rock and Pop
 http://24453.live.streamtheworld.com:3690/ROCK_AND_POPAAC_SC
+# 72FM: https://72fm.com/station/ba3ad919-0516-485c-bce6-b27c4492ab14
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/ip3/z100.iheart.com.ico" group-title="Pop" radio="true",Z100 - New York's #1 Hit Music Station WHTZ
+https://stream.revma.ihrhls.com/zc1469
+# 72FM: https://72fm.com/station/af9d2835-a790-4741-9044-278467fbc297
+#EXTINF:-1 group-title="Pop" radio="true",gen 987 FM
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
 # 72FM: https://72fm.com/station/d0ee079a-b106-4e37-98db-b9fb03f141f9
 #EXTINF:-1 tvg-logo="https://radio-stubica.hr/favicon.ico" group-title="Pop" radio="true",Radio stubica
 http://radiostubica.hc.hr:7006/stream
+# 72FM: https://72fm.com/station/cf430e7d-6fce-4931-8a53-5115acde3eb5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Radio_Swiss_Pop_Logo_2018.svg/2048px-Radio_Swiss_Pop_Logo_2018.svg.png" group-title="Pop" radio="true",Radio Swiss Pop
+http://stream.srg-ssr.ch/srgssr/rsp/aac/96
 # 72FM: https://72fm.com/station/f2f65d44-2101-4742-9c93-314f124dedbf
 #EXTINF:-1 group-title="Pop" radio="true",Magic FM
 http://listen.rba.co.rw:8080/
@@ -433,27 +520,27 @@ https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenn
 # 72FM: https://72fm.com/station/962a81c3-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",1.FM - Absolute Pop Latino Radio
 http://strm112.1.fm/latino_mobile_mp3
-# 72FM: https://72fm.com/station/a8c1c86e-e1c0-4e86-ba15-74c258ac0af9
-#EXTINF:-1 group-title="Pop" radio="true",0nlineradio REMIX
-https://stream.0nlineradio.com/remix?ref=radiobrowser
 # 72FM: https://72fm.com/station/0d742e8f-5ff8-11e9-a622-52543be04c81
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/43916.png" group-title="Pop" radio="true",Hereti FM
 http://iis.ge:8000/hereti.mp3
 # 72FM: https://72fm.com/station/7a72aa80-3902-4d73-a548-db81ac780240
 #EXTINF:-1 group-title="Pop" radio="true",Big B Radio - Kpop
 https://antares.dribbcast.com/proxy/kpop?mp=/s
+# 72FM: https://72fm.com/station/600c73d1-2ea5-45ee-b3c1-c108674343e6
+#EXTINF:-1 tvg-logo="https://www.hr1.de/favicon.png?v=3.84.2" group-title="Pop" radio="true",HR1
+http://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/963729c7-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Rádió 1 Debrecen
 http://91.82.85.44:8080/debrecenradiofm95
 # 72FM: https://72fm.com/station/66617a79-5235-44d1-b59d-f996eae58a65
 #EXTINF:-1 group-title="Pop" radio="true",Nostalgie 80's
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3
-# 72FM: https://72fm.com/station/8d0a43a8-e8cc-48d0-b1a7-4810993a92bf
-#EXTINF:-1 tvg-logo="https://www.mvsnoticias.com/u/plantillas/p/mvs-noticias/imgs/favicons//apple-touch-icon.png" group-title="Pop" radio="true",MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
 # 72FM: https://72fm.com/station/125ec344-a2a1-4e36-8f66-77401f457d20
 #EXTINF:-1 tvg-logo="https://radioaswat.ma/favicon.ico" group-title="Pop" radio="true",Aswat FM
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
+# 72FM: https://72fm.com/station/7b727f07-45d4-4702-b72b-426005f3235c
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155706748.jpg?alt=media&token=0ca151c7-3147-4c7d-90ee-f8a797f27c5a" group-title="Pop" radio="true",Народное радио Минск 87.9 FM
+https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
 # 72FM: https://72fm.com/station/247aa6ff-f402-4b81-8ebb-21fa00791ef5
 #EXTINF:-1 tvg-logo="https://www.loveradio.com.ph/apple-touch-icon.png" group-title="Pop" radio="true",98.3 Love Radio Dagupan
 https://loveradiodagupan.radioca.st/
@@ -466,6 +553,9 @@ https://orf-live.ors-shoutcast.at/fm4-q1a
 # 72FM: https://72fm.com/station/370b93b5-f279-4b19-9b57-29049adffe00
 #EXTINF:-1 group-title="Pop" radio="true",Easy FM 972
 https://stream.radiojar.com/cthtwxk5yvduv.mp3
+# 72FM: https://72fm.com/station/8e17bd51-765e-4103-916a-69a4ed56ac9a
+#EXTINF:-1 tvg-logo="https://nrg.radio/favicon.ico" group-title="Pop" radio="true",NRG Radio
+https://streamingv2.shoutcast.com/nrg-radio-ke
 # 72FM: https://72fm.com/station/6d65c14d-65a8-4084-a7d4-ed92dbb4b2bc
 #EXTINF:-1 group-title="Pop" radio="true",Radio Ciudad
 http://streamingenbolivia.com/8002/stream
@@ -484,6 +574,9 @@ http://r1.phileradio.com:8193/89FM
 # 72FM: https://72fm.com/station/960ef824-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",RTL Radio Letzebuerg
 http://sc-rtllive.newmedia.lu/
+# 72FM: https://72fm.com/station/2dcb60cb-87a8-4640-819a-5a0c1c6e5022
+#EXTINF:-1 tvg-logo="https://www.radiodalmacija.hr/favicon.ico" group-title="Pop" radio="true",Radio Dalmacija - Oliver
+http://c5.hostingcentar.com:8275/stream
 # 72FM: https://72fm.com/station/960fff6f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Radio Park FM
 http://sluchaj.radiopark.com.pl:8048/
@@ -496,21 +589,27 @@ http://bigrradio.cdnstream1.com/5183_128
 # 72FM: https://72fm.com/station/119f07c3-81f0-4309-91e8-f46525f0d35d
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s6401/images/logog.png" group-title="Pop" radio="true",KAYA FM 95.9
 http://edge.iono.fm/xhls/82_high.m3u8
+# 72FM: https://72fm.com/station/3c1ee308-0937-4a27-84fc-bc53cc36297e
+#EXTINF:-1 tvg-logo="https://mbcradio.tv/sites/default/files/favicon.ico" group-title="Pop" radio="true",MBC Best FM
+https://radio.mbconline.xyz/hls/bestfm.m3u8
 # 72FM: https://72fm.com/station/f8c31d00-0afd-11ea-a87e-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.slam.nl/favicon.ico" group-title="Pop" radio="true",SLAM! Non Stop
 http://stream.radiocorp.nl/web10_mp3
 # 72FM: https://72fm.com/station/adb22f44-ff89-43ae-8406-6632c85298d0
 #EXTINF:-1 group-title="Pop" radio="true",MBC Kool FM
 https://radio.mbconline.xyz/hls/koolfm.m3u8
-# 72FM: https://72fm.com/station/41306884-9f08-4bd4-8ec2-27cb77239b28
-#EXTINF:-1 group-title="Pop" radio="true",Hit FM (Modern hits)
-http://online.hitfm.ua/HitFM_Top
+# 72FM: https://72fm.com/station/9612390e-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",NDR 1 Welle Nord
+http://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/cfdebe47-26c0-442f-88d5-e6f63148c635
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logostudio92.png/225px-Logostudio92.png" group-title="Pop" radio="true",Studio 92 (92.5 FM Lima)
 https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
 # 72FM: https://72fm.com/station/1e95d61c-88ad-4d59-82b4-f512c2a45aa6
 #EXTINF:-1 tvg-logo="https://dyjvnjd6yl5jx.cloudfront.net/wp-content/uploads/2020/11/d0bbd0bed0b3d0be-d0bdd0bed0b2d18bd0b9-d0bcd0b0d0bbd18bd0b9.png" group-title="Pop" radio="true",Первое радио 89.1FM
 https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio
+# 72FM: https://72fm.com/station/999ff951-68eb-4f4a-bec9-ed972b99d258
+#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="Pop" radio="true",Radio Deejay
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
 # 72FM: https://72fm.com/station/b445d099-6958-11ea-b1cf-52543be04c81
 #EXTINF:-1 tvg-logo="https://truckers.fm/favicon.ico" group-title="Pop" radio="true",TruckersFM
 http://radio.truckers.fm/
@@ -523,18 +622,24 @@ http://31.192.216.7:8000/radio_gra
 # 72FM: https://72fm.com/station/1d6d9870-b554-4919-a0a9-93457d3de6da
 #EXTINF:-1 group-title="Pop" radio="true",Virgin Radio Romania
 https://astreaming.edi.ro:8443/VirginRadio_aac
+# 72FM: https://72fm.com/station/c740d6d9-6482-4931-81a8-03ec1a631ede
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Pop" radio="true",Exclusively Michael Jackson
+https://streaming.exclusive.radio/er/michaeljackson/icecast.audio
 # 72FM: https://72fm.com/station/dbdae111-2ceb-48e8-aa6b-cc544c57d043
 #EXTINF:-1 group-title="Pop" radio="true",RFM POP-ROCK
 https://stream.rfm.fr/rfm-wr10.aac
+# 72FM: https://72fm.com/station/7d196930-5f3d-45e2-b11a-d261c4515161
+#EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2022/virgin-radio-uk.jpg" group-title="Pop" radio="true",Virgin Radio UK
+https://radio.virginradio.co.uk/stream
 # 72FM: https://72fm.com/station/4746a29f-2beb-499a-af1d-ec5391d31632
 #EXTINF:-1 tvg-logo="https://avtoradio.lv/upload/design/64df68073caa85.35482071.png" group-title="Pop" radio="true",Авторадио Латвия
 https://live.relaxfm.lv/03
+# 72FM: https://72fm.com/station/0925f9a5-2cee-4900-b8f0-d6b0b64a90af
+#EXTINF:-1 group-title="Pop" radio="true",Virgin Radio Oman
+http://uk5.internet-radio.com:8115/stream
 # 72FM: https://72fm.com/station/963501d6-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Exa FM 91.3 El Salvador
 http://158.69.219.162:8028/stream
-# 72FM: https://72fm.com/station/e94afa1a-0f96-4a57-8b97-112bb5cd348d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="Pop" radio="true",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
-https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
 # 72FM: https://72fm.com/station/772b95cf-31e8-41f9-bad3-a2da08495e39
 #EXTINF:-1 group-title="Pop" radio="true",Oldpop Cafe
 http://cast.oldpopcafe.net:7080/
@@ -562,6 +667,9 @@ https://online.pilotfm.ru/pilot
 # 72FM: https://72fm.com/station/963c8518-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Heart
 http://media-the.musicradio.com/HeartNorthLancsCumbria
+# 72FM: https://72fm.com/station/961f92d9-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",Top20Radio
+http://server8.blitz-stream.de:9100/
 # 72FM: https://72fm.com/station/d0a1da9f-46b3-11e9-aa55-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.todayfm.com/favicon.ico" group-title="Pop" radio="true",Today FM
 https://stream.audioxi.com/TD
@@ -571,12 +679,12 @@ http://icecast.vrtcdn.be/mnm-high.mp3
 # 72FM: https://72fm.com/station/b488abb8-5597-4831-9681-2614e1f2904c
 #EXTINF:-1 group-title="Pop" radio="true",RX Radio
 https://c14.radioboss.fm:18223/stream?1615807421100=
-# 72FM: https://72fm.com/station/96055189-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",Radio Swiss Pop
-http://stream.srg-ssr.ch/srgssr/rsp/aac/96
 # 72FM: https://72fm.com/station/ae81beef-726e-4fbd-9c80-20d3237e2967
 #EXTINF:-1 tvg-logo="https://www.europafm.ro/icons/favicon-16x16.png" group-title="Pop" radio="true",EuropaFM
 http://astreaming.edi.ro:8000/EuropaFM_aac
+# 72FM: https://72fm.com/station/c5537928-638d-4eef-b603-11a089027f8c
+#EXTINF:-1 group-title="Pop" radio="true",RadioFEST
+https://play.radiofest.pl:8443/fest
 # 72FM: https://72fm.com/station/de2f96d4-e36d-4892-b9ec-8a9cc4868eee
 #EXTINF:-1 group-title="Pop" radio="true",Hitz Latino FM
 http://stream.zeno.fm/aq899a53rs8uv
@@ -589,12 +697,18 @@ https://radio3-64ssl.streaming.rs:9212/;*.mp3
 # 72FM: https://72fm.com/station/9605a234-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Radio Caroline
 http://sc6.radiocaroline.net:8040/;stream.mp3
+# 72FM: https://72fm.com/station/f8a206ac-7546-460e-8751-d66a2a3ff6b6
+#EXTINF:-1 group-title="Pop" radio="true",VOX FM
+https://ice42.securenetsystems.net/VOXFM
 # 72FM: https://72fm.com/station/9618e6cb-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Hiper FM
 http://195.23.85.126:9500/;
 # 72FM: https://72fm.com/station/96125f02-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.sorrriso.it/wp-content/uploads/2020/02/apple-icon-120x120-2.png?x69212" group-title="Pop" radio="true",Radio Sorrriso
 http://wma01.fluidstream.net/sorriso
+# 72FM: https://72fm.com/station/e723f7f8-0db1-4bc5-a64c-64d8377f9f9a
+#EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png" group-title="Pop" radio="true",ORF Hitradio Ö3 | HQ
+https://orf-live.ors-shoutcast.at/oe3-q2a
 # 72FM: https://72fm.com/station/de04e00e-51c3-4f65-96ce-7d6aab2c55fd
 #EXTINF:-1 group-title="Pop" radio="true",Sonar 105.3 FM
 https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox
@@ -652,21 +766,12 @@ https://dorognoe.hostingradio.ru/dorognoe_acc
 # 72FM: https://72fm.com/station/9b246252-1fa0-4fc9-b5f2-fb120587ad51
 #EXTINF:-1 group-title="Pop" radio="true",FM Dos
 http://26573.live.streamtheworld.com:3690/FMDOSAAC_SC
-# 72FM: https://72fm.com/station/cf14b5ee-f03e-4468-8ce1-379f171fd8c4
-#EXTINF:-1 group-title="Pop" radio="true",# 70s 80s 90s RdMix Network
-https://cast1.torontocast.com:1830/stream
 # 72FM: https://72fm.com/station/9628cc2d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Pop" radio="true",Radio Piterpan
 http://wma01.fluidstream.net/piterpan
 # 72FM: https://72fm.com/station/2793611b-6fbd-4c1b-aaec-fed7b85b6b6c
 #EXTINF:-1 tvg-logo="https://los40co00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png" group-title="Pop" radio="true",40 Principales Colombia
 https://playerservices.streamtheworld.com/api/livestream-redirect/%20LOS40_COLOMBIA.mp3
-# 72FM: https://72fm.com/station/90c85898-cabf-4039-a0f3-cae3d1ec919d
-#EXTINF:-1 group-title="Pop" radio="true",Exa FM El Salvador
-http://158.69.219.162:8028/
-# 72FM: https://72fm.com/station/b591d01a-e72b-4030-a640-a8da10ed73f6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1bdF482/REMIX-PARTYNBREAKS-LOGO-1.png" group-title="Pop" radio="true",# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
-https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
 # 72FM: https://72fm.com/station/9f41f5e7-1d3f-4fab-b933-f3247bbf98aa
 #EXTINF:-1 group-title="Pop" radio="true",Teletica Radio
 https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
@@ -721,6 +826,9 @@ http://listen.181fm.com/181-power_128k.mp3
 # 72FM: https://72fm.com/station/960e4255-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png" group-title="Pop" radio="true",NDR Blue
 http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/8e8f1791-1408-49f7-a4fb-b7c7e2fb3636
+#EXTINF:-1 group-title="Pop" radio="true",加拿大中文电台FM.96.1
+https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/9620b9a8-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://101fm.de/wp-content/uploads/2020/02/cropped-512er-180x180.png" group-title="Pop" radio="true",101FM - 80s
 http://stream.laut.fm/0-24_80er_pop_rock
@@ -751,9 +859,6 @@ http://radio.alloldieschannel.com:8000/stream
 # 72FM: https://72fm.com/station/961bf014-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.rtbf.be/favicon.ico" group-title="Pop" radio="true",RTBF Classic 21
 https://radios.rtbf.be/classic21-64.aac
-# 72FM: https://72fm.com/station/6cb69b95-72d9-4ea6-859f-52546a85c1fe
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png" group-title="Pop" radio="true",# RdMix DJSET 70s 80s 90s
-https://cast1.torontocast.com:4560/stream
 # 72FM: https://72fm.com/station/1be3981d-f3da-4371-891f-07300815f19c
 #EXTINF:-1 group-title="Pop" radio="true",Ρυθμός 89.2
 http://s4.onweb.gr:8892/stream?type=http&nocache=136101
@@ -766,6 +871,9 @@ https://waw.ic.smcdn.pl/6130-1.mp3
 # 72FM: https://72fm.com/station/996a804e-c197-4b80-b19f-9019f72d32a8
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Pop" radio="true",Exclusively Bob Marley
 http://streaming.exclusive.radio/er/bobmarley/icecast.audio
+# 72FM: https://72fm.com/station/96149c7f-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Pop" radio="true",RMC Kay Kay
+http://edge.radiomontecarlo.net/rmcweb004
 # 72FM: https://72fm.com/station/7851fcf3-b13d-4404-aafa-13ff1462a6cd
 #EXTINF:-1 group-title="Pop" radio="true",Capital FM - 91.3 FM (MP3)
 http://capitalfm.cloudrad.io/stream
@@ -775,6 +883,9 @@ http://stream.revma.ihrhls.com/zc185
 # 72FM: https://72fm.com/station/76033286-f219-4693-bd11-a8ada3408a91
 #EXTINF:-1 group-title="Pop" radio="true",DJ Radio Romania
 https://stream.djradio.ro/radio/8000/stream.mp3
+# 72FM: https://72fm.com/station/76b129aa-45cc-46cf-b6b2-1fde08a2c8f9
+#EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="Pop" radio="true",FIP Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
 # 72FM: https://72fm.com/station/b8cc0b5b-8425-4735-bdcc-c72c7935c84d
 #EXTINF:-1 group-title="Pop" radio="true",Dance Fm Moldova
 http://37.233.41.76:8000/dancefm
@@ -793,114 +904,3 @@ https://online.hitfm.ua/HitFM_HD
 # 72FM: https://72fm.com/station/18a21e61-6c4f-4b28-b271-7202169238b0
 #EXTINF:-1 group-title="Pop" radio="true",ESKA IMPRESKA
 http://ic1.smcdn.pl/6030-1.mp3
-# 72FM: https://72fm.com/station/96295b39-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",Radio Marte
-http://onair18.xdevel.com:8142/
-# 72FM: https://72fm.com/station/e6545e9c-c670-4f92-8115-c7f2c117ceb6
-#EXTINF:-1 group-title="Pop" radio="true",Rainbow 89
-http://n0e.radiojar.com/083wqknmsuhvv?rj-ttl=5&rj-tok=AAABhHgFMdoAMjpYSw5BtqF9Zg
-# 72FM: https://72fm.com/station/2bdf5d11-cf73-4595-a891-f6093f52ffd8
-#EXTINF:-1 group-title="Pop" radio="true",Chérie FM
-http://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac
-# 72FM: https://72fm.com/station/78ffd9e4-5ff7-11e8-b15b-52543be04c81
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/1200px-Couleur_3_logo.svg.png" group-title="Pop" radio="true",Couleur3
-http://stream.srg-ssr.ch/m/couleur3/aacp_96
-# 72FM: https://72fm.com/station/96063808-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",Antenne Brandenburg
-http://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
-# 72FM: https://72fm.com/station/0f0c7bbc-c43d-4be3-88ee-03bec56016f7
-#EXTINF:-1 group-title="Pop" radio="true",ESKA - Summer City
-https://waw.ic.smcdn.pl/6120-1.mp3
-# 72FM: https://72fm.com/station/9627628e-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d5db8a_7767e951c2304645bf95a86b554915c2%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/d5db8a_7767e951c2304645bf95a86b554915c2%7emv2.png" group-title="Pop" radio="true",Gabz FM 96.2 Gaberone
-http://fmt01.egihosting.com:17721/;
-# 72FM: https://72fm.com/station/6a2591f4-7286-4c65-a7bd-6c491b6e672b
-#EXTINF:-1 group-title="Pop" radio="true",Radio Złote Przeboje Wrocław
-https://radiostream.pl/tuba9-1.mp3
-# 72FM: https://72fm.com/station/dfe3ebed-08cd-447a-9a58-efb8eebab9f8
-#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/icons/touch-icon-iphone-retina.png" group-title="Pop" radio="true",RFM
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC
-# 72FM: https://72fm.com/station/140203eb-525f-11ea-be63-52543be04c81
-#EXTINF:-1 tvg-logo="https://mm.aiircdn.com/157/58de62950e8e5.jpg" group-title="Pop" radio="true",Red FM Cork
-https://edge.audioxi.com/RED
-# 72FM: https://72fm.com/station/4be3d384-ec90-4c2f-ab84-35365dce5f77
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Pop" radio="true",Exclusively George Michael
-https://streaming.exclusive.radio/er/georgemichael/icecast.audio
-# 72FM: https://72fm.com/station/e3cea313-4aa9-4ac5-a053-50d7e82326f4
-#EXTINF:-1 group-title="Pop" radio="true",MBC Radio Maurice
-https://radio.mbconline.xyz/hls/radiomaurice.m3u8
-# 72FM: https://72fm.com/station/e49c075e-2458-11e8-91bf-52543be04c81
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="Pop" radio="true",Allzic Radio Dance Floor
-http://allzic07.ice.infomaniak.ch/allzic07.mp3
-# 72FM: https://72fm.com/station/e9577c10-e299-4bb8-9313-c6cc2070c1f3
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg" group-title="Pop" radio="true",# RdMix Italo Disco 80s
-https://cast1.torontocast.com:2130/stream
-# 72FM: https://72fm.com/station/c889187f-310f-4e2b-898b-6cb79122e200
-#EXTINF:-1 group-title="Pop" radio="true",Otvoreni LIVE
-https://stream.otvoreni.hr/stream48
-# 72FM: https://72fm.com/station/b1a47819-f2c1-11e8-a471-52543be04c81
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-70s_600x600.jpg" group-title="Pop" radio="true",- 0 N - 70s on Radio
-https://0n-70s.radionetz.de/0n-70s.aac
-# 72FM: https://72fm.com/station/c87339e0-c556-4ed5-9ef2-4dd176cabbb0
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Pop" radio="true",__90S__ by rautemusik (rm.fm)
-https://90s-high.rautemusik.fm/?ref=radiobrowser
-# 72FM: https://72fm.com/station/fbe82907-cfb0-4fd8-b54d-0074ccda7ea1
-#EXTINF:-1 group-title="Pop" radio="true",ROCK N' POP
-https://ice42.securenetsystems.net/ROCKNPOP
-# 72FM: https://72fm.com/station/5dd6437a-3a93-11e9-9b4e-52543be04c81
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-country_600x600.jpg" group-title="Pop" radio="true",- 0 N - Country on Radio
-https://0n-country.radionetz.de/0n-country.mp3
-# 72FM: https://72fm.com/station/9615dee7-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",Antenne Bayern - 90er
-http://mp3channels.webradio.antenne.de/90er-hits
-# 72FM: https://72fm.com/station/899754f4-2014-11e9-a80b-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",Radio Salomon
-http://84.52.138.44/Salomon
-# 72FM: https://72fm.com/station/7c910f29-0f14-11e9-a80b-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",Radio Shadow Rock Mix
-http://162.244.80.131:8052/
-# 72FM: https://72fm.com/station/e29ee7e2-8bd6-454d-aae6-f54db3157fbd
-#EXTINF:-1 tvg-logo="https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png" group-title="Pop" radio="true",Cadena 100
-https://cadena100-cope.flumotion.com/chunks.m3u8
-# 72FM: https://72fm.com/station/bc95343c-2d65-11ea-aa0c-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",Signál Rádio
-http://icecast1.play.cz/signal128.mp3
-# 72FM: https://72fm.com/station/960563e3-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://upload.dieneue1077.de/production/static/1693298631006/icons/icon_64.ax1w460g800.png" group-title="Pop" radio="true",DIE NEUE 107.7 Rock & Pop
-http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
-# 72FM: https://72fm.com/station/960f5bcd-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",DR P3
-http://live-icy.dr.dk/A/A05H.mp3
-# 72FM: https://72fm.com/station/7e785439-4534-4d27-b8d9-5dbffc94281e
-#EXTINF:-1 group-title="Pop" radio="true",Tiare FM
-https://live.tiarefm.pf:8443/tiarefm
-# 72FM: https://72fm.com/station/8fe01b99-827d-4162-81da-ae5823e39b7e
-#EXTINF:-1 group-title="Pop" radio="true",100.7 Love Radio Lucena
-https://loveradiolucena.radioca.st/
-# 72FM: https://72fm.com/station/213abeab-b8d2-4057-b570-5a6143607b2c
-#EXTINF:-1 group-title="Pop" radio="true",Radio Seefunk
-https://webradio.radio-seefunk.de/
-# 72FM: https://72fm.com/station/962cdb92-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",European Hit Radio - Latviešu Hiti
-http://stream.europeanhitradio.com:8000/Stream_22.aac
-# 72FM: https://72fm.com/station/a43fe2f5-0c29-436d-bb19-1512f86fcd2b
-#EXTINF:-1 group-title="Pop" radio="true",Meloradio FM
-https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
-# 72FM: https://72fm.com/station/4abe67bd-cd14-418e-88c3-284f1ef8c487
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2017/02/Forest-Green-Radio-100x47.jpg" group-title="Pop" radio="true",Forest Green Radio
-http://s1.streamaudio.de:8000/forest-green
-# 72FM: https://72fm.com/station/96217456-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",Star FM 98.3 & 104.7 Kingstown
-http://starradio.serverroom.net:6688/
-# 72FM: https://72fm.com/station/ee24e264-06fd-46cb-8f92-798aadde0aef
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8f2aad_93ae56d1764947358ca5524a248f789e~mv2.png" group-title="Pop" radio="true",Le Bon Mix HiFi Flac 1411 Kbps
-https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
-# 72FM: https://72fm.com/station/962cd63f-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",European Hit Radio
-http://stream.europeanhitradio.com:8000/ehr.aac
-# 72FM: https://72fm.com/station/f38b4a57-5667-11ea-be63-52543be04c81
-#EXTINF:-1 group-title="Pop" radio="true",Енерджи (opus)
-http://stream.radioreklama.bg/nrj.opus
-# 72FM: https://72fm.com/station/4e285d46-4491-4df0-a6d8-974b8b9a49f8
-#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="Pop" radio="true",Radio Record - Russian Gold
-https://radiorecord.hostingradio.ru/russiangold96.aacp

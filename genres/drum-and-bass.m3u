@@ -10,9 +10,6 @@ http://stream.bassdrive.uk:8200/
 # 72FM: https://72fm.com/station/b6fa9d93-97bf-48b0-8624-e8f84b817823
 #EXTINF:-1 tvg-logo="https://icecast.anon.fm/favicon.png" group-title="Drum and Bass" radio="true",Anon.FM
 https://icecast.anon.fm/radio
-# 72FM: https://72fm.com/station/77330159-8780-443b-b4dd-bcb519b49011
-#EXTINF:-1 tvg-logo="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png" group-title="Drum and Bass" radio="true",ElectroDanceWorld Radio
-http://stream.zeno.fm/s70bvdgqks8uv
 # 72FM: https://72fm.com/station/96309e77-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Drum and Bass" radio="true",Brokenbeats
 https://stream.brokenbeats.net/tune
@@ -37,6 +34,9 @@ http://79.111.14.76:8000/drumbass
 # 72FM: https://72fm.com/station/cbcff885-49bb-4db1-8b78-7060e70ff06d
 #EXTINF:-1 group-title="Drum and Bass" radio="true",Technolovers DRUM N BASS
 https://stream.technolovers.fm/drummnbass?ref=radiobrowser
+# 72FM: https://72fm.com/station/b78025cf-e68d-43f9-8e59-2a68ae84e7d7
+#EXTINF:-1 tvg-logo="https://noisefm.ru/thumbnail.jpg" group-title="Drum and Bass" radio="true",Noise FM - EDM Radio
+http://play.sas-media.ru/play_256
 # 72FM: https://72fm.com/station/5378792b-2ad9-4fae-b00f-e431766771c0
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Drum and Bass" radio="true",__TRAP__ by rautemusik (rm.fm)
 https://trap-high.rautemusik.fm/?ref=radiobrowser
@@ -64,9 +64,9 @@ http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ9
 # 72FM: https://72fm.com/station/6632bb70-8919-415d-9d09-6e304564543b
 #EXTINF:-1 group-title="Drum and Bass" radio="true",DNB FM
 https://air.dnbfm.ru/listen/player/qplay
-# 72FM: https://72fm.com/station/29dc48c6-adf5-49bf-a9d7-dfde3e9cfc6d
-#EXTINF:-1 tvg-logo="https://www.ukbassradio.com/wp-content/uploads/2021/03/cropped-thumbnail_ukbass-radio5.png" group-title="Drum and Bass" radio="true",UK Bass Radio
-https://www.ukbassradio.com/stream
+# 72FM: https://72fm.com/station/c02a069b-7945-45e1-878c-148344960c1a
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/local/templates/record/assets/build/favicon-set/apple-touch-icon.png" group-title="Drum and Bass" radio="true",Radio Record Liquid Funk
+https://radiorecord.hostingradio.ru/liquidfunk96.aacp
 # 72FM: https://72fm.com/station/973c30a5-a178-4daf-89c7-272ec6c47456
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1638236080674578434/Hbww_nFm_400x400.jpg" group-title="Drum and Bass" radio="true",Kool FM
 https://admin.stream.rinse.fm/proxy/kool/stream
@@ -82,6 +82,12 @@ http://stream.laut.fm/bpmcast
 # 72FM: https://72fm.com/station/9623284b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Drum and Bass" radio="true",674FM
 http://audio.674.fm/stream
+# 72FM: https://72fm.com/station/948dd047-1a0b-42c9-b769-19233dfadc7f
+#EXTINF:-1 group-title="Drum and Bass" radio="true",Dutch Delite Drum and Bass
+http://radio.dutchdelite.nl:8000/dnb
+# 72FM: https://72fm.com/station/45bb5fc8-84df-4561-b282-935bb5dd7c86
+#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg" group-title="Drum and Bass" radio="true",dinamo.fm fluent
+http://channels.dinamo.fm/fluent-mp3
 # 72FM: https://72fm.com/station/960b6d95-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Drum and Bass" radio="true",Radio X Basel (MP3 Stream)
 http://mp3.radiox.ch:8000/standard.mp3
@@ -100,15 +106,18 @@ https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/9e286b3c-5185-11e9-a4d7-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.sub.fm/wp-content/uploads/2016/03/Sub-FM-FB-Logo.jpg" group-title="Drum and Bass" radio="true",Sub FM
 https://subfm.radioca.st/
+# 72FM: https://72fm.com/station/41ca6b24-f61f-11e8-a471-52543be04c81
+#EXTINF:-1 group-title="Drum and Bass" radio="true",Bassdrive
+http://ice.bassdrive.net/stream32
+# 72FM: https://72fm.com/station/1ef3bbdc-09b8-4c39-bc95-43bb35447c27
+#EXTINF:-1 group-title="Drum and Bass" radio="true",Break Pirates
+http://bpstream.hostco.de:3000/
 # 72FM: https://72fm.com/station/04eee180-425c-445d-8c62-0755623d863a
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/icons/apple-touch-icon.png" group-title="Drum and Bass" radio="true",Record Neurofunk
 https://radiorecord.hostingradio.ru/neurofunk96.aacp
 # 72FM: https://72fm.com/station/ce38da1c-df6f-4330-bb1e-1c8836a30de0
 #EXTINF:-1 group-title="Drum and Bass" radio="true",drumbases.pace
 https://radio.drumbase.space/listen/drumbase.space/radio.mp3
-# 72FM: https://72fm.com/station/d91bde3e-91b4-4712-a61a-f60dc7bb6150
-#EXTINF:-1 tvg-logo="https://noisefm.ru/thumbnail.jpg" group-title="Drum and Bass" radio="true",Noise FM - EDM Radio
-http://play.sas-media.ru/play_256
 # 72FM: https://72fm.com/station/3dd63f93-4d16-11e9-a4d7-52543be04c81
 #EXTINF:-1 group-title="Drum and Bass" radio="true",Radio Caprice - Liquid Funk
 http://79.111.119.111:8002/liquidfunk
@@ -142,6 +151,9 @@ https://phoebe.streamerr.co:3650/;?type=http&nocache=1739137731
 # 72FM: https://72fm.com/station/6837d816-ac8a-44b4-835f-8d63a4111bfd
 #EXTINF:-1 tvg-logo="https://netlabel.org/favicon.ico" group-title="Drum and Bass" radio="true",Netlabel.org (Germany)
 https://netlabelorg.stream.laut.fm/netlabel_org
+# 72FM: https://72fm.com/station/65dc00f6-2a86-4195-a64f-91aed29bd153
+#EXTINF:-1 tvg-logo="https://powerfm.org/favicon.ico" group-title="Drum and Bass" radio="true",PowerFM Dublin 320Kbps MP3
+https://www.powerfm.org:8443/powerfm.mp3
 # 72FM: https://72fm.com/station/b200fa87-76ec-4afc-9eef-6a609ef9d4b8
 #EXTINF:-1 group-title="Drum and Bass" radio="true",Energy 1058
 http://tachyon.shoutca.st:8590/stream
@@ -166,9 +178,6 @@ https://admin.stream.rinse.fm/proxy/swu/stream
 # 72FM: https://72fm.com/station/e1a177e9-5947-46a4-8757-0415c9b106bc
 #EXTINF:-1 tvg-logo="https://oldskoolravetapes.co.uk/assets/img/osrt-logo.jpg" group-title="Drum and Bass" radio="true",Old Skool Rave Tapes
 https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/listen
-# 72FM: https://72fm.com/station/ac26c83c-f375-4cf9-9206-5254e55f0876
-#EXTINF:-1 tvg-logo="https://radiogoose.ru/res/logo/radiogoose.png" group-title="Drum and Bass" radio="true",РАДИО ГУСЬ
-https://stream4.radiogoose.ru/listen/radiogoose/play
 # 72FM: https://72fm.com/station/655fd88f-95f7-4ced-b79f-b4422357db8e
 #EXTINF:-1 group-title="Drum and Bass" radio="true",Mazoozie
 http://stream-mazoozie.creativedork.com/
@@ -214,33 +223,30 @@ https://carol.epichosts.co.uk:8232/live.mp3
 # 72FM: https://72fm.com/station/8be21138-e88f-43c4-8deb-00a9020ae38b
 #EXTINF:-1 tvg-logo="https://24dubstep.pl/wp-content/uploads/2020/10/xcropped-logo_po_kompresji.png.pagespeed.ic.YxsjiF_JYL.webp" group-title="Drum and Bass" radio="true",24Dubstep.pl || DropZone Radio
 https://stream.24dubstep.pl/radio/8000/mp3_normal
-# 72FM: https://72fm.com/station/70051d2a-30a3-40b1-8b3a-c2fd74dc8455
-#EXTINF:-1 group-title="Drum and Bass" radio="true",DrGnu - 20th Century Rock
-http://streams.radiobob.de/2000er/mp3-192/mediaplayer/
-# 72FM: https://72fm.com/station/124c45d7-57a9-46ed-8b93-83b306992126
-#EXTINF:-1 group-title="Drum and Bass" radio="true",XL:UK Radio
-https://s3.radio.co/s113a5dc46/listen
-# 72FM: https://72fm.com/station/3f3b3c42-3b2b-4384-a12a-bd14acd51461
-#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg" group-title="Drum and Bass" radio="true",dinamo.fm fluent
-http://channels.dinamo.fm/fluent-mp3
 # 72FM: https://72fm.com/station/f242a8ca-ea48-4cae-b4a1-dfe752b6cbcc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCHF7jZ/Drum-and-Bass-square.jpg" group-title="Drum and Bass" radio="true",LiSTNR - Drum & Bass
 http://worldradio.online/proxy/?q=https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/f3187b78-1dfb-42c7-ba27-bdba34cbdf94
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1FNrZ5v/CLUB-CHARTS-2026.jpg" group-title="Drum and Bass" radio="true",## CLUB CHARTS - TOP 100 CLUB CHARTS - DJ CHARTS - CLUBBING HITS - DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - URBAN - HIP HOP - RNB - LATIN RADIO
-https://breakz-2012-high.rautemusik.fm/?ref=rb-clubcharts26
+# 72FM: https://72fm.com/station/38ac4075-2723-11e8-91bf-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.nightline-radio.de/static/images/appIcon.png" group-title="Drum and Bass" radio="true",Nightline Radio
+https://stream.nightline-radio.de/stream/1/
 # 72FM: https://72fm.com/station/b4fc1d10-6a5f-4b9b-9610-ea4f0e8befd0
 #EXTINF:-1 tvg-logo="https://radiogoose.ru/res/logo/drum.png" group-title="Drum and Bass" radio="true",ГУСЬ.Драм
 https://stream3.radiogoose.ru/listen/dnb/play
 # 72FM: https://72fm.com/station/ac5c474f-0961-49c0-9c26-d1ebb813bc19
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A0cKFoO.jpg" group-title="Drum and Bass" radio="true",Future Pressure Radio
 http://uk3.internet-radio.com:8108/
+# 72FM: https://72fm.com/station/e70083a3-133b-4b8f-9509-ae2d37fdbe7b
+#EXTINF:-1 tvg-logo="https://uturnradio.com/favicon.ico" group-title="Drum and Bass" radio="true",Uturn Radio - Drum And Bass
+http://listen.uturnradio.com/drum_and_bass
 # 72FM: https://72fm.com/station/82919afc-b49f-45b2-9eb8-74a00dc5c90e
 #EXTINF:-1 tvg-logo="https://walconfm.ru/favicon.ico" group-title="Drum and Bass" radio="true",Alex
 https://myradio24.org/walcon
 # 72FM: https://72fm.com/station/a2cfdf16-fdc3-4512-9506-7617c078eed8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png" group-title="Drum and Bass" radio="true",ISEKOI Radio
 https://public.isekoi-radio.com/listen/isekoi/radio.mp3
+# 72FM: https://72fm.com/station/9647851a-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Drum and Bass" radio="true",RadioGora - Et Cetera
+http://listen.radiogora.ru:8000/etc128
 # 72FM: https://72fm.com/station/c7a2d78d-357d-4d5e-8324-e0732c75d048
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQZXKJnh/LOGO-3-2-bg1.png" group-title="Drum and Bass" radio="true",ISEKOI Radio
 https://public.isekoi-radio.com/listen/isekoi/radio.flac
@@ -259,18 +265,12 @@ https://fullspectrumradio.com/listen
 # 72FM: https://72fm.com/station/8c80c431-8ef6-48ce-94fd-798e46bae1aa
 #EXTINF:-1 tvg-logo="https://lumirad.io/static/favicon-32x32.png" group-title="Drum and Bass" radio="true",lumiRadio - 24/7 Unofficial Homestuck Radio
 https://audio-edge-hy4wy.blr.d.radiomast.io/abe5f558-c883-47de-91ea-e04a06ed1fd4
-# 72FM: https://72fm.com/station/2c68a091-c21b-49df-89db-4b4410a42430
-#EXTINF:-1 tvg-logo="https://www.uturnradio.com/media/drum_and_bass.m3u" group-title="Drum and Bass" radio="true",Uturn Radio - Drum And Bass
-http://listen.uturnradio.com/drum_and_bass
 # 72FM: https://72fm.com/station/934abfbf-3482-4460-aa6d-af95247bdb5a
 #EXTINF:-1 tvg-logo="https://listen-nr1dnb.com/icons/icon-512.png" group-title="Drum and Bass" radio="true",NR1 DNB Radio
 https://radio.listen-nr1dnb.com/listen/nr1_dnb_radio/radio.mp3
 # 72FM: https://72fm.com/station/4d8c78c0-a08d-481b-979a-ec1295af876e
 #EXTINF:-1 group-title="Drum and Bass" radio="true",SD Radio
 https://mystation.micast.media/radio/8020/radio.mp3
-# 72FM: https://72fm.com/station/29c2975b-3ca9-4f4e-b5fb-1bfdc2e0eba2
-#EXTINF:-1 tvg-logo="https://back2noize.com/wp-content/uploads/2019/08/back2noize-logo-round-300x300.jpg" group-title="Drum and Bass" radio="true",Back2Noize Radio
-https://securestreams4.autopo.st:1558/Back2Noize
 # 72FM: https://72fm.com/station/02ec5302-9dc4-42f7-9801-2278c06c1073
 #EXTINF:-1 tvg-logo="https://chunt.org/images/logo_fishe_calm_256.png" group-title="Drum and Bass" radio="true",Chunt FM
 https://fm.chunt.org/stream
@@ -328,15 +328,15 @@ https://radio.cliamp.stream/ncs-dnb/stream
 # 72FM: https://72fm.com/station/a6240fc3-cdfb-4eca-8781-9380666f816c
 #EXTINF:-1 tvg-logo="https://res.lirz.ru/static/uploads/album_art.1774984293.png" group-title="Drum and Bass" radio="true",(( RES ))
 https://res.lirz.ru/listen/res/radio.mp3
-# 72FM: https://72fm.com/station/977df6fa-e1aa-4e29-93c9-39244a7b4eda
-#EXTINF:-1 tvg-logo="https://www.ekodesgarrigues.com/local/cache-vignettes/L69xH60/siteon0-e6dcd.jpg" group-title="Drum and Bass" radio="true",Eko Des Garrigues
-https://radio.ekodesgarrigues.com/eko-des-garrigues-256k.ogg
 # 72FM: https://72fm.com/station/a19530b7-3549-4a93-bc7b-022a1e1cb2ff
 #EXTINF:-1 tvg-logo="https://www.savustamo.fi/wp-content/uploads/2025/12/cropped-0_c1bc9_14464e10_L-1590724515-300x300.jpg" group-title="Drum and Bass" radio="true",NinjaBox 24/7
 https://djuplink.com/ninjabox.mp3
 # 72FM: https://72fm.com/station/07fc81e9-58e4-4097-90e4-e4022712d984
 #EXTINF:-1 tvg-logo="https://konflict-radio.com/images/krlogo.png" group-title="Drum and Bass" radio="true",Konflict Radio
 https://uk3.internet-radio.com/proxy/konflictradio?mp=/stream
+# 72FM: https://72fm.com/station/79c3d204-316b-44dd-b4d7-024b9a62ece5
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/155012.v1.png" group-title="Drum and Bass" radio="true",FuseCity
+http://broadcast.shoutstream.co.uk:8074/stream
 # 72FM: https://72fm.com/station/650f3d9d-4f0a-4a5f-88ed-32e3f6e47edc
 #EXTINF:-1 group-title="Drum and Bass" radio="true",FAF Records 979
 https://stream.laut.fm/faf-records-979
@@ -349,9 +349,6 @@ https://radio.bringthenoi.se/listen/dj_nocide/default
 # 72FM: https://72fm.com/station/8b57d918-578d-482e-88ae-3fc40ebd4487
 #EXTINF:-1 tvg-logo="https://edmcolorado.com/uploads/monthly_2025_08/apple-touch-icon-180x180.png?v=1754952080" group-title="Drum and Bass" radio="true",EdmColorado.com Radio
 https://azura.entelcore.com/listen/edmco1/edmco1.mp3
-# 72FM: https://72fm.com/station/4c138660-7602-4d57-b12b-3b1c17050455
-#EXTINF:-1 tvg-logo="https://res.lirz.ru/static/uploads/rewind/album_art.1781974361.png" group-title="Drum and Bass" radio="true",RES: Rewind
-https://cst.res.ad/rw320
 # 72FM: https://72fm.com/station/66db83c2-cedf-4b44-bc1a-f848ba9b90fe
 #EXTINF:-1 tvg-logo="https://jungledopelabs.com/logo.jpg?v=3" group-title="Drum and Bass" radio="true",Jungle Dope Labs
 https://listen.nobexradio.com/station_jdlradio
@@ -364,9 +361,6 @@ https://listen.mosthighradio.co.uk/listen/mosthighradiouk/hd.mp3
 # 72FM: https://72fm.com/station/f40c5137-2113-4782-a285-a0427c6a99bc
 #EXTINF:-1 tvg-logo="https://radio.nt00.xyz/favicon-32x32.png" group-title="Drum and Bass" radio="true",Nt00 Radio
 https://nt00.xyz/listen/escape_the_algorithm/radio.mp3
-# 72FM: https://72fm.com/station/6b3465d4-0e45-46d2-bdce-ef14ff570b23
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logod.png" group-title="Drum and Bass" radio="true",BBC RADIO 1XTRA UK: Amplifying black music & culture. Londres, Inglaterra
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
 # 72FM: https://72fm.com/station/76dac195-6266-46aa-8c92-1ea8c42ada7a
 #EXTINF:-1 group-title="Drum and Bass" radio="true",SYNK Radio
 https://api.synkradio.co.uk/listen.mp3
@@ -376,9 +370,6 @@ http://solid33.streamupsolutions.com:8144/stream
 # 72FM: https://72fm.com/station/1fca6a62-12d1-4b9d-8485-8a8c06b1a790
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/41a980_8954a5eb81184b379ea4ea1e8916eba1%7Emv2.jpeg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/41a980_8954a5eb81184b379ea4ea1e8916eba1%7Emv2.jpeg" group-title="Drum and Bass" radio="true",Original Kool Archives
 https://radio.originalkoolarchives.com/listen/original_kool_archives/radio.mp3
-# 72FM: https://72fm.com/station/88c7b82a-392c-4ea8-b0f9-89496ec9df55
-#EXTINF:-1 group-title="Drum and Bass" radio="true",Chaos FM
-https://chaosfm.com:8443/stream
 # 72FM: https://72fm.com/station/4881d7d6-b288-4585-a383-f926f3d017cf
 #EXTINF:-1 group-title="Drum and Bass" radio="true",DNB.BAND
 http://45.13.239.248/listen/dnb/radio.mp3
@@ -394,9 +385,6 @@ https://sonic-flow-radio-1156528a.radiocult.fm/stream
 # 72FM: https://72fm.com/station/d6a0e53b-5ba2-4bd8-b908-50442aad9696
 #EXTINF:-1 group-title="Drum and Bass" radio="true",SYSTEM CORRUPT / SYCO23
 http://stream.syco23.org:8000/radio.mp3
-# 72FM: https://72fm.com/station/63b45400-70ff-4967-90f9-7581d1b7aef9
-#EXTINF:-1 tvg-logo="https://www.nightline-radio.de/static/images/appIcon.png" group-title="Drum and Bass" radio="true",Nightline Radio
-https://stream.nightline-radio.de/stream/1/
 # 72FM: https://72fm.com/station/cb50d511-cda4-42e1-b024-44c188f1e65f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/raulmagerusan/radiosoundtm.github.io/refs/heads/main/logo-small.png" group-title="Drum and Bass" radio="true",Radio Sound TM
 https://radio.radiosoundtm.online/listen/radio_sound_tm/radio.mp3

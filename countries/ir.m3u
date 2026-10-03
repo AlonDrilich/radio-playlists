@@ -4,6 +4,9 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/b6eedfc6-4a4b-4899-852f-03dd833f1f1b
+#EXTINF:-1 tvg-logo="https://www.radiofarda.com/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="Iran" radio="true",ایران‎ Radio Liberty (Iran) (official stream)
+https://stream.radiojar.com/cp13r2cpn3quv
 # 72FM: https://72fm.com/station/dcb4d366-5b06-4f4d-a5cb-0b81d1c09521
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/25PMsUBa3Z6So8cdvAyZT7_93NyV26cJNuTTDY4xk6aJU1lcKPByf2C7o2HbrGrv-QxPvbI3dio2D39zYlgi1v6nLg" group-title="Iran" radio="true",parsa
 http://parsa.icdndhcp.com:18000/stream
@@ -31,6 +34,9 @@ http://ic2326.c1261.fast-serv.com/rm128
 # 72FM: https://72fm.com/station/7460fe1a-700e-4925-9990-72df7e00e1a3
 #EXTINF:-1 tvg-logo="https://radiomojdeh.com/favicon.ico" group-title="Iran" radio="true",Radio Mojdeh - Iranian Farsi/Persian Christian music and talk
 https://ic2326.c1261.fastserv.com/rm128
+# 72FM: https://72fm.com/station/ec389853-09d2-499a-8be2-f58dfe8f118c
+#EXTINF:-1 group-title="Iran" radio="true",RadioSimorgh
+https://stream.zeno.fm/jl8n7thgcdftv
 # 72FM: https://72fm.com/station/a1fbace9-f758-443d-8bca-2dd43c64898a
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/14pqOm4XzVJvRZa9oV3Iq9GeTPlIVhxdV/view?usp=drivesdk" group-title="Iran" radio="true",RadioSimorgh Authentic Iranian music
 https://stream.zeno.fm/9svfnobkrxrvv
@@ -43,15 +49,18 @@ http://n0b.radiojar.com/pyea7q9h5ehvv
 # 72FM: https://72fm.com/station/3c807031-f9f0-4d60-b696-1482249cb74c
 #EXTINF:-1 group-title="Iran" radio="true",Radio Faaz
 https://free.rcast.net/230792
+# 72FM: https://72fm.com/station/1e006e64-024e-4c04-96e5-c80559a92e96
+#EXTINF:-1 group-title="Iran" radio="true",..mohammed_ayyub
+https://qurango.net/radio/mohammed_ayyub
 # 72FM: https://72fm.com/station/c4f39ae5-e9f5-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://assets.mojahedin.org/assets/images/fav.png" group-title="Iran" radio="true",Radio Mojahed - رادیو مجاهد
 https://s2.radio.co/s830691c74/listen
-# 72FM: https://72fm.com/station/f4ac88e5-962b-4bd8-b71c-429cab02bb59
-#EXTINF:-1 group-title="Iran" radio="true",Radio Simorgh
-https://stream.zeno.fm/jl8n7thgcdftv
 # 72FM: https://72fm.com/station/ec4aa3a1-fbbe-4aa1-b1a9-cfc721bbdbda
 #EXTINF:-1 group-title="Iran" radio="true",امبدد
 http://auds1.intacs.com/adorationgospelfm
+# 72FM: https://72fm.com/station/7714000a-8b12-47b0-932c-c946527aec12
+#EXTINF:-1 group-title="Iran" radio="true",RadioYar
+https://shoutcast.glwiz.com/RadioYAR.mp3
 # 72FM: https://72fm.com/station/5627bd9e-4188-426d-b046-237fcb9f2f86
 #EXTINF:-1 group-title="Iran" radio="true",enationFM
 http://dal4.ir.enationfm.stream:8308/;
@@ -61,6 +70,9 @@ https://radio.gachsaran.org/gach
 # 72FM: https://72fm.com/station/1b1e2389-c406-4a61-bcb0-09ae798259ad
 #EXTINF:-1 tvg-logo="https://image.radioking.io/radios/526993/logo/0586ce95-5dac-4996-ba76-2a051f3dffe4.jpeg" group-title="Iran" radio="true",Radio ZZA (Zan Zendegi Azadi)
 https://listen.radioking.com/radio/526993/stream/585379
+# 72FM: https://72fm.com/station/65e1462d-1463-4d6a-8fa6-b06b3566ca34
+#EXTINF:-1 group-title="Iran" radio="true",Muhammad Siddiq al-Minshawi
+https://qurango.net/radio/mohammed_siddiq_alminshawi
 # 72FM: https://72fm.com/station/216ac46a-1e79-4683-8d5d-832e65876b4a
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/uqBFFhHClAuDfVunuQIJoSXPy3OlnXHUGEyXhzY-vqU/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWNjYzgzNTQtOWFkYi00ZjJjLTg4NmUtZmU4YzA5MDhiMWM5L2ltYWdlLz91PTE3NTc2MTE4MzkwMDA.webp" group-title="Iran" radio="true",Radio Yar Plus2
 https://stream-163.zeno.fm/yxemzpoaocavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eGVtenBvYW9jYXZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InhKNHZlRTRtVFFPQTZ6RWJwMy1MOXciLCJpYXQiOjE3NTc2MzE3MDEsImV4cCI6MTc1NzYzMTc2MX0.KyIREwfc-nOvruWM_wiFaNS-xCgh1CfF2i8PE-xSm9E

@@ -10,6 +10,9 @@ http://176.9.30.66/cool64
 # 72FM: https://72fm.com/station/c97e2821-9f9e-4ee3-b043-25823e459832
 #EXTINF:-1 tvg-logo="https://www.okradio.net/wp-content/uploads/2021/11/ok-logo-m.png" group-title="Serbia" radio="true",OK radio
 https://sslstream.okradio.net/;?type=http&nocache=8804
+# 72FM: https://72fm.com/station/964755d5-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Serbia" radio="true",Hit FM Radio Beograd
+http://streaming.hitfm.rs:8000/hit
 # 72FM: https://72fm.com/station/695183bd-3a60-11e8-b74d-52543be04c81
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi Radio
 http://naxi48.streaming.rs:9180/
@@ -31,9 +34,15 @@ http://streaming.karolina.rs:8000/karolina
 # 72FM: https://72fm.com/station/9619de3d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Nostalgija
 http://nostalgie128.streaming.rs:9250/
+# 72FM: https://72fm.com/station/0e0d15ed-2e2f-4b81-ac37-d20172966959
+#EXTINF:-1 group-title="Serbia" radio="true",Radio Lola - Domaca
+https://streaming.tdiradio.com/radiolola.mp3
 # 72FM: https://72fm.com/station/7ba61471-aa4e-4d50-a01b-f36e232fb2fc
 #EXTINF:-1 tvg-logo="https://superfm.rs/wp-content/uploads/2021/03/super-loading-100x100.png" group-title="Serbia" radio="true",Super FM
 http://onair.superfm.rs/superfm.mp3
+# 72FM: https://72fm.com/station/dd6ef396-b24c-46b6-af9a-05f4ef18ffe7
+#EXTINF:-1 group-title="Serbia" radio="true",Radio Beograd 1
+https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8
 # 72FM: https://72fm.com/station/a8dabf9f-2b7f-4bad-bc80-f54cbe8d52ca
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi ExYu Radio
 https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv
@@ -61,6 +70,9 @@ https://radio3-64ssl.streaming.rs:9212/;*.mp3
 # 72FM: https://72fm.com/station/8914355a-6111-4fd4-a2a9-1e44f2e59e44
 #EXTINF:-1 group-title="Serbia" radio="true",Pink Radio
 http://edge1.pink.rs:1935/radiopinkfta/pink61.smil/playlist.m3u8
+# 72FM: https://72fm.com/station/83aee402-c381-458e-b471-16a806e8dd69
+#EXTINF:-1 group-title="Serbia" radio="true",Play Radio Serbia
+https://stream.playradio.rs:8443/play.mp3
 # 72FM: https://72fm.com/station/f25df3be-0f73-42a4-8e49-a6af07e8f433
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi 80-e Radio
 https://naxidigital-80s128ssl.streaming.rs:8042/;
@@ -115,6 +127,9 @@ http://naxidigital-kids128.streaming.rs:8050/
 # 72FM: https://72fm.com/station/6fe2696f-5df9-4b5e-bf12-1ad3ad0d0141
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Morava
 https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
+# 72FM: https://72fm.com/station/b873245f-c6fe-40c0-a9f3-4bbe5402c281
+#EXTINF:-1 group-title="Serbia" radio="true",Naxi Rock radio
+https://naxidigital-rock128ssl.streaming.rs:8182/;
 # 72FM: https://72fm.com/station/b087798d-8bce-4651-90a4-3d6ced1db095
 #EXTINF:-1 tvg-logo="https://www.antenaradio.rs/favicon.ico" group-title="Serbia" radio="true",Antena Krusevac
 http://antenaradio.org:4560/;stream.nsv
@@ -169,15 +184,18 @@ http://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/chunklist_w317033927.m
 # 72FM: https://72fm.com/station/3a8e8dd4-dcce-4e9c-b2ad-7696c2bd6313
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi 90s
 https://naxidigital-90s128ssl.streaming.rs:8282/;stream.nsv
-# 72FM: https://72fm.com/station/04315ab7-d06c-4ba0-b65b-c3a355027f27
-#EXTINF:-1 group-title="Serbia" radio="true",Radio Lola
-https://streaming.tdiradio.com/radiolola.mp3
 # 72FM: https://72fm.com/station/4f2c60ee-227d-4f8a-8327-b53190e51a77
 #EXTINF:-1 group-title="Serbia" radio="true",Play Radio Party
 https://stream.playradio.rs:8443/party.mp3
 # 72FM: https://72fm.com/station/08e7f1e2-0e02-4e63-8c48-4c7ce8d2e3b9
 #EXTINF:-1 group-title="Serbia" radio="true",Laguna
 https://live.radiolaguna.rs/laguna
+# 72FM: https://72fm.com/station/5353f771-42ce-445a-aeca-9b0e57b202e3
+#EXTINF:-1 group-title="Serbia" radio="true",RSG Radio Stari Grad
+https://stream.rsg.rs/live/
+# 72FM: https://72fm.com/station/b6c3612a-d0c3-4e0a-8e8b-9f50e74aa3f7
+#EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Serbia" radio="true",UnderGRAND Radio
+http://stream.zeno.fm/rp1swb5pgzzuv
 # 72FM: https://72fm.com/station/02c3c046-8809-4ca9-9110-dfec2c45b51a
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi Evergreen Radio
 https://naxidigital-evergreen128ssl.streaming.rs:8012/;
@@ -187,6 +205,9 @@ http://naxidigital-exyurock128.streaming.rs:8400/
 # 72FM: https://72fm.com/station/490e3e91-6bf4-4315-bcc5-42abfc5b7569
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi Classic Radio
 https://naxidigital-classic128ssl.streaming.rs:8032/;
+# 72FM: https://72fm.com/station/4e87eae5-7781-4d51-bd8b-e259e0695ba9
+#EXTINF:-1 group-title="Serbia" radio="true",Naxi Mix Radio
+https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv
 # 72FM: https://72fm.com/station/0e053aac-8590-44cb-aa3c-a11e68a64ff8
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi House Radio
 https://naxidigital-house128ssl.streaming.rs:8002/;
@@ -244,6 +265,9 @@ http://live.okplus.rs:8000/;stream.nsv
 # 72FM: https://72fm.com/station/5ce5459d-c5bc-11e9-8502-52543be04c81
 #EXTINF:-1 tvg-logo="https://radiobanker.rs/wp-content/uploads/2018/11/cropped-BANKER-radio-LOGO-512px-270x270.png" group-title="Serbia" radio="true",BANKER
 http://banker96-naxinacional.streaming.rs:8540/
+# 72FM: https://72fm.com/station/a52b9a10-200b-4a83-90d6-0d61a3f9d241
+#EXTINF:-1 tvg-logo="https://lotel.rs/favicon.ico" group-title="Serbia" radio="true",Lotel2
+https://s1.skeletor.rs/lotel
 # 72FM: https://72fm.com/station/484e20b7-b2f9-443d-b9a9-6a554efccff8
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Beograd 2 link 2
 https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
@@ -274,6 +298,9 @@ http://naxidigital-exyu48.streaming.rs:8245/
 # 72FM: https://72fm.com/station/0827bb1f-a4f6-417c-b68e-5f5ecbc87a39
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Šumadinac Narodna
 https://media.srb-streaming.com/stream/radio-sumadinac-narodna
+# 72FM: https://72fm.com/station/d7f89e58-ccce-4a46-8e12-82bb4ee769ba
+#EXTINF:-1 group-title="Serbia" radio="true",Naxi Latino Radio
+https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv
 # 72FM: https://72fm.com/station/00f796ae-9ccb-4235-8c99-9c80b556ff16
 #EXTINF:-1 group-title="Serbia" radio="true",Radio 021
 https://radio.dukahosting.com/8006/stream
@@ -397,9 +424,6 @@ https://naxidigital-fresh128ssl.streaming.rs:8212/;stream.nsv
 # 72FM: https://72fm.com/station/12ef899a-aa39-455c-98c0-0c46eb2c874f
 #EXTINF:-1 tvg-logo="https://rtsplaneta.rs/favicon.ico" group-title="Serbia" radio="true",РТС - Радио Београд - Џубокс
 https://rtsradio-live.morescreens.com/RTS_2_007/audio/chunklist.m3u8
-# 72FM: https://72fm.com/station/e6c98f7a-865a-4e38-bc77-872262bb4d2a
-#EXTINF:-1 group-title="Serbia" radio="true",Radio Srce Krajine
-https://srv.mediastriming.com/8330/stream
 # 72FM: https://72fm.com/station/d89cbacd-b432-4906-98e5-fdce948f6dc2
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Beseda
 http://radio.eparhijabacka.info:8000/RadioBeseda
@@ -424,6 +448,9 @@ https://cast2.my-control-panel.com/proxy/kissdoog/stream
 # 72FM: https://72fm.com/station/8919e72b-2fba-4130-a2ff-aa141742fdb0
 #EXTINF:-1 tvg-logo="https://nostalgija.rs/wp-content/uploads/2019/08/logo.png" group-title="Serbia" radio="true",Nostalgie Radio Belgrade - 105,2 Mhz
 https://nostalgie128ssl.streaming.rs:9252/;stream.mp3
+# 72FM: https://72fm.com/station/59bf9653-7115-4011-ac6d-24bf54383c93
+#EXTINF:-1 group-title="Serbia" radio="true",Radio B92
+http://stream.b92.net:7999/radio-b92.mp3
 # 72FM: https://72fm.com/station/2da7d113-21ee-47c5-ace1-0dde304fb136
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Stari Grad
 http://stream.rsg.rs:8043/;stream.nsv
@@ -439,9 +466,6 @@ http://213.239.205.210:6010/
 # 72FM: https://72fm.com/station/9502566c-6dc3-41e6-8efd-fb19c6757e0d
 #EXTINF:-1 group-title="Serbia" radio="true",RTV - Radio Novi Sad 3
 http://212.200.230.50:1935/rns3/treciprogram/livestream/stream.m3u8
-# 72FM: https://72fm.com/station/56bc663d-b70d-424e-a155-f3dd348175ba
-#EXTINF:-1 group-title="Serbia" radio="true",Radio Beograd
-https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8
 # 72FM: https://72fm.com/station/dbb5fe68-3a2c-40f1-a328-fcfd7c84a737
 #EXTINF:-1 tvg-logo="https://rtsplaneta.rs/favicon.ico" group-title="Serbia" radio="true",РТС - Радио Београд - 3
 https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8
@@ -472,12 +496,12 @@ http://dreamsiteradiocp.com:8014/;
 # 72FM: https://72fm.com/station/44f1b286-8b30-4d93-ae86-ebb71f833d33
 #EXTINF:-1 group-title="Serbia" radio="true",Kiss FM Narodni
 https://stream.zeno.fm/q8252338t68uv
-# 72FM: https://72fm.com/station/365b3039-a72c-4770-99c5-1d0185553ba3
-#EXTINF:-1 group-title="Serbia" radio="true",Naxi Radio Rock
-https://naxidigital-rock128ssl.streaming.rs:8182/;
 # 72FM: https://72fm.com/station/51bb8b14-b8d6-4789-bb66-ef3032f6093e
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Blue Sky
 http://82.114.72.2:8098/;stream.nsv
+# 72FM: https://72fm.com/station/1b1f0fc3-8b03-461e-bd68-cb07987d58a1
+#EXTINF:-1 group-title="Serbia" radio="true",Naxi Kids Radio
+https://naxidigital-kids128ssl.streaming.rs:8052/;
 # 72FM: https://72fm.com/station/bbbcf668-7274-4a61-87da-c3cfff29c8ae
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Magnum
 http://magnum.web-srbija.net:8121/;stream.nsv
@@ -496,6 +520,9 @@ https://53a7ed211fc32.streamlock.net/asmedia/radio_s_energy/playlist.m3u8
 # 72FM: https://72fm.com/station/96feee92-485f-4f55-ac86-4f398f148fdc
 #EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Ex-Yu-Rock-350x350px.png" group-title="Serbia" radio="true",Radio S EX YU
 https://stream.radios.rs:9042/stream
+# 72FM: https://72fm.com/station/b8eed0cc-84c9-4365-a13d-5cfd2b57d088
+#EXTINF:-1 tvg-logo="https://www.radios.rs/images/radios/favicon/apple-icon-120x120.png" group-title="Serbia" radio="true",Radio S2 - Index radio
+https://stream.radios.rs:9002/;
 # 72FM: https://72fm.com/station/512caa5f-e994-4db8-b17d-9a865aa583e1
 #EXTINF:-1 group-title="Serbia" radio="true",Čivijaš Radio
 http://media.srb-streaming.com:9078/stream
@@ -529,6 +556,9 @@ https://onair.superfm.rs/superfm.mp3
 # 72FM: https://72fm.com/station/8160a810-5f63-41a2-8ee2-de815a56491f
 #EXTINF:-1 group-title="Serbia" radio="true",Radio San Loznica
 https://s1.skeletor.rs/san
+# 72FM: https://72fm.com/station/8ccccd58-1053-4e05-aa7a-daaa41336b87
+#EXTINF:-1 group-title="Serbia" radio="true",Mugadavanje
+https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje
 # 72FM: https://72fm.com/station/b70051c1-ed3b-4cdb-820a-226cb9ea965f
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Kulska Komuna
 http://as.q-media.rs:8000/mp3
@@ -547,9 +577,6 @@ https://centova.dukahosting.com/proxy/021domaca/stream
 # 72FM: https://72fm.com/station/9b016d3e-73f7-4dcc-882d-6717d9b2112f
 #EXTINF:-1 tvg-logo="https://radiofutog.rs/wp-content/uploads/2022/10/cropped-radio-futog-logo-180x180.png" group-title="Serbia" radio="true",Radio Futog
 https://radio.dukahosting.com:7001/
-# 72FM: https://72fm.com/station/b01b08ab-2866-4ddf-a406-2c773ec1bfc7
-#EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Serbia" radio="true",UnderGRAND RADIO
-http://stream.zeno.fm/rp1swb5pgzzuv
 # 72FM: https://72fm.com/station/9d43742e-800e-4e72-ad44-0a889f7c9edd
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi Radio 016
 https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3?_=1
@@ -568,15 +595,18 @@ http://stream.radiojar.com/4qawu2xta2zuv.mp3
 # 72FM: https://72fm.com/station/02287fc6-245a-4260-9593-005a31352b81
 #EXTINF:-1 tvg-logo="https://player.radiojat.rs/img/CD/cd-jat.png" group-title="Serbia" radio="true",Radio JAT
 https://streaming.tdiradio.com/radiojat.mp3
-# 72FM: https://72fm.com/station/c4f51cd6-8802-4a08-9f37-9753994ed001
-#EXTINF:-1 group-title="Serbia" radio="true",Lotel Radio
-https://s1.skeletor.rs/lotel
 # 72FM: https://72fm.com/station/f584deac-5bfa-4941-a41f-4939a4b5f0ac
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi Chillwave
 https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv
+# 72FM: https://72fm.com/station/2f92571d-1f22-473c-af9a-58bf71d22637
+#EXTINF:-1 group-title="Serbia" radio="true",Kiss FM Balkan
+https://stream.zeno.fm/kwku1q84p48uv
 # 72FM: https://72fm.com/station/5026d307-7f20-488f-9869-941f356ccf78
 #EXTINF:-1 tvg-logo="https://eparhijabacka.info/favicon.ico" group-title="Serbia" radio="true",Radio Slavoslovlje
 http://radio.eparhijabacka.info:8000/RadioSlavoslovlje
+# 72FM: https://72fm.com/station/7837ee62-dd8d-43e4-8fbb-35ecd7f141cf
+#EXTINF:-1 group-title="Serbia" radio="true",Radio S Easy
+https://stream.radios.rs:9044/stream
 # 72FM: https://72fm.com/station/5170ce0e-c35d-48ad-9c09-43a66612c501
 #EXTINF:-1 group-title="Serbia" radio="true",Gudalo i Struna
 https://stream.zeno.fm/kpcnnvbdfjtvv
@@ -589,6 +619,9 @@ http://vladix.dukahosting.com:8000/;stream.nsv
 # 72FM: https://72fm.com/station/7814e0ca-ea58-419a-bcce-881c5db77036
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Sloboda Kraljevo
 https://audio.slobodafm.com:8000/radio.mp3
+# 72FM: https://72fm.com/station/f9daee92-36ef-48bb-a18e-c34a03ae46cb
+#EXTINF:-1 group-title="Serbia" radio="true",Radio Naxi
+https://naxi128ssl.streaming.rs:9152/
 # 72FM: https://72fm.com/station/7ec44552-ada2-4e3f-86a2-e835a9cb55fe
 #EXTINF:-1 group-title="Serbia" radio="true",Muzicki Radio 101
 https://as1.radioserveri.com:8090/radio.mp3
@@ -631,6 +664,9 @@ http://213.239.205.210:8001/stream
 # 72FM: https://72fm.com/station/5ac13e6f-3d5b-4312-ab5e-3ec6c1149824
 #EXTINF:-1 tvg-logo="https://radio021.rs/wp-content/uploads/2021/07/logo.png" group-title="Serbia" radio="true",021 caffe
 https://centova.dukahosting.com/proxy/021kafe/stream
+# 72FM: https://72fm.com/station/2afd4523-5ea7-484e-8951-d51c6095fa18
+#EXTINF:-1 group-title="Serbia" radio="true",Radio Delta 31
+https://cast4.asurahosting.com/proxy/dejan/stream
 # 72FM: https://72fm.com/station/ad1d7368-ad74-4ee5-bb93-030ce81409d5
 #EXTINF:-1 group-title="Serbia" radio="true",OK Prelo Radio
 https://stream.okplus.rs/listen/prelo/radio.mp3
@@ -646,6 +682,9 @@ https://naxidigital-70s128ssl.streaming.rs:8042/;
 # 72FM: https://72fm.com/station/0195ba1e-bcba-441b-b092-1304a1369018
 #EXTINF:-1 group-title="Serbia" radio="true",Usce Shopping Radio
 http://naxidigital-usce128.streaming.rs:8000/;stream.nsv
+# 72FM: https://72fm.com/station/7cee2585-5e29-40bf-b14a-bb9fc5b64338
+#EXTINF:-1 tvg-logo="https://eparhijabacka.info/favicon.ico" group-title="Serbia" radio="true",Radio Blagovesnik
+http://radio.eparhijabacka.info:8000/RadioBlagovesnik
 # 72FM: https://72fm.com/station/712477ab-15eb-43e0-a707-5e9e3279cb5f
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Fantasy Vrbas
 http://109.206.96.34:8575/;stream.nsv
@@ -658,18 +697,12 @@ https://e20.yesstreaming.net:6217/stream
 # 72FM: https://72fm.com/station/1c01b68c-91a0-44fe-a79d-0c48d301d1d5
 #EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/RockBalads1000px%20(1).png" group-title="Serbia" radio="true",Radio S Rock Ballads
 https://stream.radios.rs:9058/stream
-# 72FM: https://72fm.com/station/b6c5a106-4ea9-4751-a406-42b477033ec8
-#EXTINF:-1 tvg-logo="https://www.naxi.rs/files/img/logos/logo.png" group-title="Serbia" radio="true",Naxi
-https://naxi128ssl.streaming.rs:9152/
 # 72FM: https://72fm.com/station/d474ec07-fa0b-4f7e-a48e-da2a4ad68b93
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi 70-e 3
 https://naxidigital-70s128ssl.streaming.rs:8382/;
 # 72FM: https://72fm.com/station/7ed9175c-b32d-4674-a57f-7adece4f285f
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2023/05/futog-krajina.jpg" group-title="Serbia" radio="true",Radio Futog Krajina
 https://centova.dukahosting.com/proxy/futog/stream
-# 72FM: https://72fm.com/station/d93e5d84-f73a-4e3b-a07f-aaeff3080663
-#EXTINF:-1 group-title="Serbia" radio="true",B92
-http://stream.b92.net:7999/radio-b92.mp3
 # 72FM: https://72fm.com/station/8eef1cf0-e916-4429-b7cb-a465af4a2d9b
 #EXTINF:-1 tvg-logo="https://nasradio.rs/wp-content/uploads/2020/06/cropped-Logotipovi-za-radio1078-2.png" group-title="Serbia" radio="true",Nas Radio 107,80 Zabalj
 https://radio.dukahosting.com:7043/;
@@ -679,6 +712,9 @@ https://stream.okplus.rs/listen/plus/radio.mp3
 # 72FM: https://72fm.com/station/8e486586-7c30-4071-a000-112bec4e3387
 #EXTINF:-1 tvg-logo="https://radio021.rs/wp-content/uploads/2021/07/logo.png" group-title="Serbia" radio="true",Radio 021 Rock
 https://centova.dukahosting.com/proxy/rock/stream
+# 72FM: https://72fm.com/station/bbe6a65d-2301-4bb2-89f5-9391cb941133
+#EXTINF:-1 tvg-logo="https://eparhijabacka.info/favicon.ico" group-title="Serbia" radio="true",Radio Tavor
+http://radio.eparhijabacka.info:8000/RadioTavor
 # 72FM: https://72fm.com/station/cdcba305-125a-41cd-9235-445cfa9a25b6
 #EXTINF:-1 tvg-logo="https://www.radiofm.rs/images/radio/kissfm-big.png" group-title="Serbia" radio="true",Radio KISS Lazarevac 106.1
 https://cast2.asurahosting.com/proxy/kissdoog/stream
@@ -691,12 +727,12 @@ https://live.radioskay.com/;*.mp3
 # 72FM: https://72fm.com/station/00ed507b-9dc1-4ad9-b855-f04f95a7f0bc
 #EXTINF:-1 group-title="Serbia" radio="true",Retro Plus FM
 https://stream.zeno.fm/sq0b3qx5ztzuv
+# 72FM: https://72fm.com/station/f446f8a3-592f-4ca3-8875-8a3fbbeb1b2e
+#EXTINF:-1 group-title="Serbia" radio="true",Kiss Club FM
+https://stream.zeno.fm/572ugg75ztzuv
 # 72FM: https://72fm.com/station/ef10a866-78d9-4b7b-9e37-faec81cd4026
 #EXTINF:-1 tvg-logo="https://www.densomaniak.com/wp-content/uploads/2020/02/logo.png" group-title="Serbia" radio="true",DENSOMANIAK Radio
 https://stream.iradio.pro/proxy/densomaniak?mp=/stream
-# 72FM: https://72fm.com/station/1a828276-98db-4dbf-985c-e5554b394754
-#EXTINF:-1 group-title="Serbia" radio="true",Kiss FM Balkan
-https://stream.zeno.fm/kwku1q84p48uv
 # 72FM: https://72fm.com/station/3b62528e-545f-4a89-921a-67763554e78c
 #EXTINF:-1 group-title="Serbia" radio="true",Oradio RTV Novi Sad
 http://212.200.230.50:1935/oradio/oradio/oradio/playlist.m3u8
@@ -706,21 +742,15 @@ http://144.76.219.22:8762/;
 # 72FM: https://72fm.com/station/af0d2a6c-e278-4633-b5e6-da883b7f2978
 #EXTINF:-1 tvg-logo="https://www.uzivoradio.net/wp-content/uploads/2013/07/bubonja-ljig-1.jpg" group-title="Serbia" radio="true",Radio Bubonja
 http://213.239.205.210:8094/stream
-# 72FM: https://72fm.com/station/f9a75cc9-aa3f-47f6-aa25-b6e0d9533c6f
-#EXTINF:-1 group-title="Serbia" radio="true",Radio Stari Grad
-https://stream.rsg.rs/live/
+# 72FM: https://72fm.com/station/becac46e-edad-44a8-9bf2-bac91a2259f9
+#EXTINF:-1 group-title="Serbia" radio="true",Nisville Radio
+https://radio.nisville.com/listen/live/live
 # 72FM: https://72fm.com/station/5ae3e252-0e37-46b0-9b0a-dac917f74cee
 #EXTINF:-1 tvg-logo="https://www.luxradio.net/templates/lux/images/logo.png" group-title="Serbia" radio="true",Lux Naxi Radio
 http://lux-naxinacional.streaming.rs:8605/
-# 72FM: https://72fm.com/station/09602a06-6435-414b-8b0e-82ae7ec57026
-#EXTINF:-1 group-title="Serbia" radio="true",Radio 31 Plus
-https://cast4.asurahosting.com/proxy/dejan/stream
 # 72FM: https://72fm.com/station/6d565050-966b-45b2-9ae9-c12941a0a7fc
 #EXTINF:-1 tvg-logo="https://www.radiofm.rs/images/radio/sxtra-big.png" group-title="Serbia" radio="true",Radio S XTRA
 https://stream.radios.rs:9026/;*.mp3
-# 72FM: https://72fm.com/station/89f177f1-dee6-4d96-9d8f-f50caa4f7935
-#EXTINF:-1 group-title="Serbia" radio="true",Radio Blagovesnik
-http://radio.eparhijabacka.info:8000/RadioBlagovesnik
 # 72FM: https://72fm.com/station/31805bba-ea45-4636-85e3-0767fd6cc501
 #EXTINF:-1 tvg-logo="https://rtvstarcevo.in.rs/wp-content/uploads/2021/11/cropped-cropped-LogoMakr_6BC2kZ-copy.png" group-title="Serbia" radio="true",Radio Starcevo
 http://mpc2.mediacp.eu:8350/stream
@@ -742,9 +772,6 @@ https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv
 # 72FM: https://72fm.com/station/49568b87-4597-42de-9ce6-f2ba9e1697d6
 #EXTINF:-1 group-title="Serbia" radio="true",Radio Gaga Vlasotince
 http://stream1.srvnetplus.com:8074/stream
-# 72FM: https://72fm.com/station/32b770c2-bc31-4b01-bc86-84351cb99e10
-#EXTINF:-1 tvg-logo="https://eparhijabacka.info/favicon.ico" group-title="Serbia" radio="true",Radio Tavor
-http://radio.eparhijabacka.info:8000/RadioTavor
 # 72FM: https://72fm.com/station/d24a5ee7-4e67-4670-bc7b-957ebb39705b
 #EXTINF:-1 group-title="Serbia" radio="true",Naxi ex YU
 https://naxidigital-exyu128ssl.streaming.rs:8242/
@@ -757,9 +784,6 @@ https://radio.dukahosting.com:7045/;
 # 72FM: https://72fm.com/station/f36735b3-4a2c-499c-9f92-6f0887eb3be0
 #EXTINF:-1 group-title="Serbia" radio="true",Op Top Radio
 http://213.239.205.210:8112/;
-# 72FM: https://72fm.com/station/0a4bc20b-4395-425d-9002-3da401924ef4
-#EXTINF:-1 tvg-logo="https://www.naxi.rs/media/a088b1-mix.png" group-title="Serbia" radio="true",Naxi MIX
-https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv
 # 72FM: https://72fm.com/station/c70d7f36-9776-40f3-ba11-be63d3fb9b8b
 #EXTINF:-1 group-title="Serbia" radio="true",KISS FM EX YU
 https://stream.zeno.fm/abn3hm6w768uv
@@ -775,18 +799,12 @@ https://stream.radios.rs:9056/stream
 # 72FM: https://72fm.com/station/7145963f-fbc4-4e3c-b271-7afdc7cc8139
 #EXTINF:-1 group-title="Serbia" radio="true",KLAS Radio
 http://media.srb-streaming.com:9014/stream
-# 72FM: https://72fm.com/station/f2bbf247-35d2-4ae1-86ad-62093720af45
-#EXTINF:-1 tvg-logo="https://hitfm.rs/wp-content/uploads/2026/01/Hit-FM-logo250px.png" group-title="Serbia" radio="true",Hit FM Radio
-http://streaming.hitfm.rs:8000/hit
 # 72FM: https://72fm.com/station/2330f476-d406-4b7e-b584-695f13054831
 #EXTINF:-1 tvg-logo="https://radio021.rs/wp-content/uploads/2021/07/logo.png" group-title="Serbia" radio="true",Radio 021 Disco & Funk
 https://centova.dukahosting.com/proxy/021disco/stream
 # 72FM: https://72fm.com/station/f5069fee-bb26-49e6-b7f6-b32c4529475b
 #EXTINF:-1 tvg-logo="https://radioin.co.rs/wp-content/uploads/2019/02/logo.png" group-title="Serbia" radio="true",Radio In
 https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv
-# 72FM: https://72fm.com/station/c6bc5a58-1cad-40ab-a8ce-b274dad9f043
-#EXTINF:-1 tvg-logo="https://www.naxi.rs/filemanager/digital/Digatal%20male%20slike/latino-mala.png" group-title="Serbia" radio="true",Naxi Latino
-https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv
 # 72FM: https://72fm.com/station/620141bb-e39d-4466-b1b2-466f2098cb17
 #EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Narodni-500px.png" group-title="Serbia" radio="true",Radio S Narodni
 https://stream.radios.rs:9016/stream
@@ -811,6 +829,9 @@ http://109.72.57.12:8000/;stream.nsv
 # 72FM: https://72fm.com/station/468ab3c4-e0c6-4f3f-9d29-4412abceedac
 #EXTINF:-1 tvg-logo="https://radio-maestro.com/images/logos/maestroplavi.png" group-title="Serbia" radio="true",Radio Maestro
 https://radio-maestro.com:8443/stream.mp3
+# 72FM: https://72fm.com/station/b312d079-04f4-41b6-b94f-18510f4190dc
+#EXTINF:-1 tvg-logo="https://scontent.cdninstagram.com/v/t51.82787-19/572357021_17896779789343948_1552834154076738982_n.jpg" group-title="Serbia" radio="true",Пумпај Радио (Pumpaj Radio)
+https://stream.pumpaj.info/listen/pumpaj_radio/radio.mp3
 # 72FM: https://72fm.com/station/1f73e178-1f64-4226-9abf-6b7177dd9d29
 #EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Folk-Stars-500px.png" group-title="Serbia" radio="true",Radio S Folk Stars
 https://stream.radios.rs:9024/stream
@@ -832,9 +853,6 @@ http://mradio96-naxinacional.streaming.rs:8550/
 # 72FM: https://72fm.com/station/73c5a413-64b2-4432-bef1-86fa766babfb
 #EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Gold-350x350px.png" group-title="Serbia" radio="true",Radio S Gold
 https://stream.radios.rs:9020/stream
-# 72FM: https://72fm.com/station/29748ff1-77b8-4de2-bf6a-d27c5fad4600
-#EXTINF:-1 tvg-logo="https://playradio.rs/assets/images/play-navigation.png" group-title="Serbia" radio="true",PLAY radio
-https://stream.playradio.rs:8443/play.mp3
 # 72FM: https://72fm.com/station/c0d363e9-32df-49cf-abbd-025fc35a2de1
 #EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Starogradski500px.png" group-title="Serbia" radio="true",Radio S Starogradski
 https://stream.radios.rs:9064/stream
@@ -865,12 +883,9 @@ https://6069699a9e3f3.streamlock.net/asmedia/s_classic/playlist.m3u8
 # 72FM: https://72fm.com/station/ce295dce-334b-40c4-a88a-c8fdd59800ee
 #EXTINF:-1 group-title="Serbia" radio="true",Radio S Jazz
 https://53be5ef2d13aa.streamlock.net/asmedia/s_jazz/playlist.m3u8
-# 72FM: https://72fm.com/station/f946a9d9-31de-4b07-be97-0ae734f8bc78
-#EXTINF:-1 tvg-logo="https://www.radios.rs/media/footerlogo/s2.png" group-title="Serbia" radio="true",Radio S2
-https://stream.radios.rs:9002/;
-# 72FM: https://72fm.com/station/7bfed392-e763-4f16-9aa5-0016dbec901c
-#EXTINF:-1 group-title="Serbia" radio="true",Pumpaj Radio
-https://stream.pumpaj.info/listen/pumpaj_radio/radio.mp3
+# 72FM: https://72fm.com/station/c7259252-7b42-44fe-a567-b703334755c9
+#EXTINF:-1 group-title="Serbia" radio="true",skc
+https://skc.fm/hls/skc_radio/live.m3u8
 # 72FM: https://72fm.com/station/b37a25ba-7d03-404b-8f7b-8fcc9ae93734
 #EXTINF:-1 tvg-logo="https://www.rem.rs/uploads/attachment/pruzalac/739/thumb_arilje_radio.png" group-title="Serbia" radio="true",Radio Arilje
 https://radio.dukahosting.com:7022/stream
@@ -880,27 +895,12 @@ https://stream.radios.rs:9054/stream
 # 72FM: https://72fm.com/station/c3118240-d521-4f78-a75d-c0a9a0eb8d77
 #EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/ModernClassic1000px.png" group-title="Serbia" radio="true",Radio S Modern Classic
 https://stream.radios.rs:9072/stream
-# 72FM: https://72fm.com/station/0dffe4b6-e72f-4ce7-b8b1-d08d743fda9f
-#EXTINF:-1 tvg-logo="https://www.radios.rs/media/radio/Easy.png" group-title="Serbia" radio="true",Radio S Easy
-https://stream.radios.rs:9044/stream
 # 72FM: https://72fm.com/station/fc07fdd6-f9a2-473b-bc9f-357fd0c18053
 #EXTINF:-1 tvg-logo="https://mugadavanje.rs/wp-content/uploads/2024/01/cropped-SLOVA-SAMO1111-768x197.png" group-title="Serbia" radio="true",Dharmar Goa
 https://radio.mugadavanje.rs/listen/dharmar_goa/dharmar
-# 72FM: https://72fm.com/station/02d57c4d-b7c9-4b3d-a3e8-2cdcc3b66b51
-#EXTINF:-1 tvg-logo="https://www.naxi.rs/filemanager/digital/Digatal%20male%20slike/kids-mala.png" group-title="Serbia" radio="true",Naxi Kids
-https://naxidigital-kids128ssl.streaming.rs:8052/;
+# 72FM: https://72fm.com/station/dc7814bf-5e2a-46aa-a3ad-4b259cb560b9
+#EXTINF:-1 tvg-logo="https://freeimage.host/i/1000012958.qKi06DN" group-title="Serbia" radio="true",Jack folk radio
+https://media.radioexs.com/stream/jackfolkradio
 # 72FM: https://72fm.com/station/af0f6503-1ed7-41ae-b008-75db8e144e70
 #EXTINF:-1 tvg-logo="https://radioas.fm/favicon.ico" group-title="Serbia" radio="true",RADIO AS FM
 https://asfmonair-masterasfm.radioca.st/stream
-# 72FM: https://72fm.com/station/a5f1df7f-51d3-4281-9ee3-7a7fe62393c5
-#EXTINF:-1 tvg-logo="https://www.radiomorava.rs/wp/wp-content/uploads/2026/07/radio-morava-30-godina.jpg" group-title="Serbia" radio="true",Radio Morava Jagodina
-http://e3.radiomorava.rs/radio/8000/radiomorava128.mp3
-# 72FM: https://72fm.com/station/d8cf4712-0fef-4617-8e9e-aafb4f9b1631
-#EXTINF:-1 group-title="Serbia" radio="true",rock beograd
-https://edge9.pink.rs/rockstream
-# 72FM: https://72fm.com/station/6d29a5a5-4018-4437-874f-8874a84f7276
-#EXTINF:-1 group-title="Serbia" radio="true",SKC
-https://skc.fm/hls/skc_radio/live.m3u8
-# 72FM: https://72fm.com/station/b7f23bfb-9a8e-41b4-8934-025dd895b1f6
-#EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Crna-pozadina-Kids-350x350px.png" group-title="Serbia" radio="true",Radio S Kids
-https://stream.radios.rs:9022/stream

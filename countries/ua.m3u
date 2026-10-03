@@ -4,9 +4,21 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/961949f3-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="Ukraine" radio="true",Hit FM (UKraine) - 128kb/s
+http://195.95.206.17/HitFM
+# 72FM: https://72fm.com/station/1f900b9a-ea3b-4eac-9505-1df5bef175be
+#EXTINF:-1 tvg-logo="https://lux.fm/favicons/apple-touch-icon.png" group-title="Ukraine" radio="true",Люкс FМ 103.1
+http://lux.radio.tvstitch.com/kyiv/lux_adv_sd
 # 72FM: https://72fm.com/station/bd9c1301-562d-451f-94bf-6a76e3bb898e
 #EXTINF:-1 group-title="Ukraine" radio="true",Kiss FM 106.5
 http://online.kissfm.ua/KissFM
+# 72FM: https://72fm.com/station/8e315430-4a60-4274-a9cd-2fe4462957b2
+#EXTINF:-1 group-title="Ukraine" radio="true",Хіт FM Сучасні хіти
+http://online.hitfm.ua/HitFM_Top
+# 72FM: https://72fm.com/station/94256dfa-f568-4954-87c7-7f446cf35c0e
+#EXTINF:-1 group-title="Ukraine" radio="true",Radio ROKS Ballads
+http://online.radioroks.ua/RadioROKS_Ballads_HD
 # 72FM: https://72fm.com/station/c44104ea-4963-49f1-ad49-f74bc8080763
 #EXTINF:-1 group-title="Ukraine" radio="true",Мелодія FM 95.2
 http://online.melodiafm.ua/MelodiaFM
@@ -19,12 +31,21 @@ http://online.radioroks.ua/RadioROKS_Ballads
 # 72FM: https://72fm.com/station/c08d86af-30aa-4de7-985d-b4963498da6c
 #EXTINF:-1 group-title="Ukraine" radio="true",KissFm Deep
 http://online.kissfm.ua/KissFM_Deep_Live
+# 72FM: https://72fm.com/station/7aecf6b1-4724-4fd5-b66e-88d2e34e9b8a
+#EXTINF:-1 group-title="Ukraine" radio="true",Хіт ФМ Найбільші хіти
+http://online.hitfm.ua/HitFM_Best
 # 72FM: https://72fm.com/station/5ce6f88b-6308-420d-aa40-343dbdab6c61
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio ROKS Hard'n'Heavy
 http://online.radioroks.ua/RadioROKS_HardnHeavy_HD
 # 72FM: https://72fm.com/station/1ed98005-80a7-4b91-922b-dcd99f894377
 #EXTINF:-1 group-title="Ukraine" radio="true",HIT FM
 http://online.hitfm.ua/HitFM
+# 72FM: https://72fm.com/station/55275efc-1ee2-4a52-9aef-7fb632c7f3e8
+#EXTINF:-1 tvg-logo="https://maximum.fm/assets/images/favicons/favicon-96x96.png?v=53" group-title="Ukraine" radio="true",Радіо Максимум 94.2
+http://lux.radio.tvstitch.com/kyiv/max_adv_sd
+# 72FM: https://72fm.com/station/961f3711-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Ukraine" radio="true",Громадське радіо / Hromadske radio
+http://91.218.212.67:8000/stream
 # 72FM: https://72fm.com/station/8fae0da6-d485-4e98-8860-d71720a49dcc
 #EXTINF:-1 group-title="Ukraine" radio="true",Kiss FM Ukrainian
 https://online.kissfm.ua/KissFM_Ukr
@@ -37,6 +58,9 @@ http://onair.lviv.fm:8000/lviv32.fm
 # 72FM: https://72fm.com/station/47651599-e323-4375-a9bf-aaae945e243e
 #EXTINF:-1 tvg-logo="https://abs.twimg.com/favicons/twitter.2.ico" group-title="Ukraine" radio="true",TRANCE IS STAR RADIO
 https://myradio24.org/tisradio
+# 72FM: https://72fm.com/station/8c0a93e5-7e5a-499d-85eb-347e40445ad1
+#EXTINF:-1 group-title="Ukraine" radio="true",Радіо НВ 96.0
+https://online-radio.nv.ua/radionv.mp3
 # 72FM: https://72fm.com/station/32636cb5-883b-443b-9ea5-05ded332eb4e
 #EXTINF:-1 group-title="Ukraine" radio="true",Радіо Relax 101.5
 http://online.radiorelax.ua/RadioRelax
@@ -76,39 +100,45 @@ https://online.kissfm.ua/KissFM_Ukr_HD
 # 72FM: https://72fm.com/station/8eb1682c-6530-4639-af53-7b327fcd6d26
 #EXTINF:-1 group-title="Ukraine" radio="true",Мелодія Int
 http://online.melodiafm.ua/MelodiaFM_Int_Live
-# 72FM: https://72fm.com/station/96193bb3-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://radio24.ua/assets/images/favicons2/apple-touch-icon.png?v=2482" group-title="Ukraine" radio="true",Radio 24
-http://lux.radio.tvstitch.com/kyiv/max_adv_sd
 # 72FM: https://72fm.com/station/6f27e559-a3b4-4c94-8ec0-1f9496f75c87
 #EXTINF:-1 group-title="Ukraine" radio="true",Jazz FM 104.6
 http://online.radiojazz.ua/RadioJazz
+# 72FM: https://72fm.com/station/75049d79-955c-4014-a7b5-700422eaa447
+#EXTINF:-1 group-title="Ukraine" radio="true",РАДІО КИЇВ – 98 FM
+https://cdn.vsnw.net:8943/kyiv_fm_128k
 # 72FM: https://72fm.com/station/66f01c3f-3f7f-4826-acc4-7c8e6ff5c1f0
 #EXTINF:-1 group-title="Ukraine" radio="true",Радіо Nostalgie 99.0
 http://lux.radio.tvstitch.com/kyiv/nst_adv_sd
 # 72FM: https://72fm.com/station/2925144c-f91a-47ee-b2e8-3a11c486d47b
 #EXTINF:-1 group-title="Ukraine" radio="true",Громадське радіо
 http://5.9.8.20:8000/stream
+# 72FM: https://72fm.com/station/1e8e48ce-5bd1-460c-8a23-64c61e03a9d6
+#EXTINF:-1 group-title="Ukraine" radio="true",Радіо Байрактар
+https://online.radiobayraktar.ua/RadioBayraktar
 # 72FM: https://72fm.com/station/ec8a60a7-7257-401b-88c5-84af0cd57e04
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio ROKS New Rock
 http://online.radioroks.ua/RadioROKS_NewRock_HD
-# 72FM: https://72fm.com/station/41306884-9f08-4bd4-8ec2-27cb77239b28
-#EXTINF:-1 group-title="Ukraine" radio="true",Hit FM (Modern hits)
-http://online.hitfm.ua/HitFM_Top
 # 72FM: https://72fm.com/station/5fd5b0bf-dd9f-48ef-9948-641ab45d9446
 #EXTINF:-1 group-title="Ukraine" radio="true",RadioRelax_Instrumental_HD
 https://online.radiorelax.ua/RadioRelax_Instrumental_HD
+# 72FM: https://72fm.com/station/ede55a22-f16e-4eb4-be1a-731816df3743
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tfpSUUVjoePVQ9FAD1rnu6xgnapf1RUjg-iPMx8dwKOWQL1aJ69aNto4je6PHednhA=w240-h480-rw" group-title="Ukraine" radio="true",Kiss FM
+https://online.kissfm.ua/KissFM_HD
+# 72FM: https://72fm.com/station/2b739ef4-593e-4190-be36-5c93f0d6ad7b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7pjwNCm/Blues-Rock.jpg" group-title="Ukraine" radio="true",Blues & Rock Radio
+http://stream.laut.fm/bluesrock
 # 72FM: https://72fm.com/station/3dc18949-aea1-4d21-8bcc-516fae273c8e
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio ROKS Ukrainian
 http://online.radioroks.ua/RadioROKS_Ukr_HD
-# 72FM: https://72fm.com/station/b3b6862d-0b2b-4e52-b839-4871a8635f52
-#EXTINF:-1 group-title="Ukraine" radio="true",Hit FM (Best)
-http://online.hitfm.ua/HitFM_Best
 # 72FM: https://72fm.com/station/871d49cd-8d7e-4956-85a5-20e0540512b1
 #EXTINF:-1 group-title="Ukraine" radio="true",Країна FM 100.0
 http://live.radioec.com.ua:8000/kiev
 # 72FM: https://72fm.com/station/e75c8795-d8e6-456e-a0b2-6f5992966969
 #EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="Ukraine" radio="true",Хіт FM
 https://online.hitfm.ua/HitFM_HD
+# 72FM: https://72fm.com/station/36530ca7-134c-4fda-a320-caa2d61e10bd
+#EXTINF:-1 tvg-logo="https://www.armyfm.com.ua/favicon.ico" group-title="Ukraine" radio="true",Армія FM 94.6
+http://212.26.132.129:8000/ArmyFM
 # 72FM: https://72fm.com/station/47278da2-b2c1-4f1b-90ac-e8ffb4918cfb
 #EXTINF:-1 group-title="Ukraine" radio="true",True Black Metal Radio
 http://trueblackmetalradio.com:666/radio
@@ -124,6 +154,9 @@ https://online.radiorelax.ua/RadioRelax
 # 72FM: https://72fm.com/station/4748a2a9-2f27-4e4d-a15f-a91448a75830
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/uk/b/be/Logo_radio_roks.png" group-title="Ukraine" radio="true",Radio ROCKS Kyiv 103.6FM HD
 https://online.radioroks.ua/RadioROKS_HD
+# 72FM: https://72fm.com/station/17c57a5f-8d12-4b38-a70c-03b58bcac784
+#EXTINF:-1 tvg-logo="https://perec.fm/wp-content/themes/perecfm/img/logo.png" group-title="Ukraine" radio="true",Перець FM
+https://radio.perec.fm/radio-stilnoe
 # 72FM: https://72fm.com/station/7081ac4d-11dd-4deb-9e49-c791d0aed427
 #EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="Ukraine" radio="true",Хіт ФМ Найбільші хіти
 http://online.hitfm.ua/HitFM_Best_Live
@@ -148,36 +181,30 @@ https://online.radiojazz.ua/RadioJazz_Cover_HD
 # 72FM: https://72fm.com/station/237394a3-359c-4dc4-b19f-82e9cb590108
 #EXTINF:-1 group-title="Ukraine" radio="true",Informator FM
 https://main.inf.fm:8101/;?type=http&nocache=221893
-# 72FM: https://72fm.com/station/0a010e69-30ae-4b26-a3a8-b57b105d16ca
-#EXTINF:-1 group-title="Ukraine" radio="true",106.5 Kiss FM
-https://online.kissfm.ua/KissFM_HD
 # 72FM: https://72fm.com/station/1f8772ff-bb21-4e7e-a0c6-1c9606e7e8f4
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/os5abDD5JYqyk9n46" group-title="Ukraine" radio="true",Radio Svoboda (Радіо Свобода)
 https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABijO2KqMAvyNNc6ijVnKFQA
 # 72FM: https://72fm.com/station/8c7605b2-a3ca-11e9-a787-52543be04c81
 #EXTINF:-1 group-title="Ukraine" radio="true",Seven Rays - 7rays
 http://7rays.stream.laut.fm/7rays
-# 72FM: https://72fm.com/station/0e2b72a2-8983-434c-acfe-d6bca88fc438
-#EXTINF:-1 group-title="Ukraine" radio="true",Blues & Rock Radio
-http://stream.laut.fm/bluesrock
-# 72FM: https://72fm.com/station/a05a6ebb-b01e-48ae-bab3-2cdbf53635f7
-#EXTINF:-1 group-title="Ukraine" radio="true",Radio NV
-https://online-radio.nv.ua/radionv.mp3
 # 72FM: https://72fm.com/station/c3ffda6f-01b8-4d32-9a02-9fc92345255e
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio Rocks
 http://195.95.206.13:8000/RadioROKS
 # 72FM: https://72fm.com/station/424dfe4d-cc58-11e8-a54a-52543be04c81
 #EXTINF:-1 tvg-logo="https://mjoy.ua/radio/rzk/favicons/apple-touch-icon-120x120.png" group-title="Ukraine" radio="true",RZK
 http://stream.mjoy.ua:8000/rzk-aac
+# 72FM: https://72fm.com/station/fb65132c-1194-4ef4-91b7-09d9f55a8cc5
+#EXTINF:-1 group-title="Ukraine" radio="true",УХ-Радіо
+http://193.169.80.7:8001/efir
 # 72FM: https://72fm.com/station/ed3880a4-7ac6-4872-8931-9f6cb433f260
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio Gold Ukraine
 https://online.radioplayer.ua/RadioGold
 # 72FM: https://72fm.com/station/a1f8845a-f2b9-46d1-b93d-4bd92e5e9204
 #EXTINF:-1 group-title="Ukraine" radio="true",Galychyna
 https://stream320.galychyna.fm/WebSite
-# 72FM: https://72fm.com/station/4d053715-e515-4116-b14e-410c27dee72a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/c/cd/Hromadsjke_radio_logo.png/798px-Hromadsjke_radio_logo.png" group-title="Ukraine" radio="true",Hromadske Radio
-http://91.218.212.67:8000/stream
+# 72FM: https://72fm.com/station/1c818d0a-31a3-432f-900c-1ed958838d21
+#EXTINF:-1 group-title="Ukraine" radio="true",Наше Радіо HD
+https://online.nasheradio.ua/NasheRadio_HD
 # 72FM: https://72fm.com/station/0fc4a565-7909-11ea-8a3b-52543be04c81
 #EXTINF:-1 group-title="Ukraine" radio="true",Zakarpattya FM 101.9
 http://195.234.148.51:8000/stream
@@ -187,6 +214,9 @@ http://air.volna.top/SFM
 # 72FM: https://72fm.com/station/3ac2b9cc-46f2-42c3-b63f-975da3b70000
 #EXTINF:-1 tvg-logo="https://rockradioua.online/wp-content/themes/rock-radio/favicon/apple-touch-icon.png" group-title="Ukraine" radio="true",RockRadio UA (РокРадіо UA)
 https://rockradioua.online:8433/rock_256
+# 72FM: https://72fm.com/station/82860630-87f2-4e10-8621-afac65754aa1
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nghwdngbqgeg.png" group-title="Ukraine" radio="true",Люкс FM Львів
+https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/70f82553-eb32-463e-9bd9-a17331a89177
 #EXTINF:-1 group-title="Ukraine" radio="true",FM Disco Melody
 https://online.melodiafm.ua/MelodiaFM_Disco
@@ -217,6 +247,9 @@ http://noasrv.caster.fm:10001/live
 # 72FM: https://72fm.com/station/4833b353-709b-48fd-9d0a-a4a93e766602
 #EXTINF:-1 group-title="Ukraine" radio="true",relax int
 https://online.radiorelax.ua/RadioRelax_Int
+# 72FM: https://72fm.com/station/0cc0f9d4-dc1b-496a-99f7-d66f9322afc9
+#EXTINF:-1 tvg-logo="https://www.armyfm.com.ua/favicon.ico" group-title="Ukraine" radio="true",Армия FM
+https://icecast.armyfm.com.ua:8443/ArmyFM
 # 72FM: https://72fm.com/station/db8a3218-6d66-42c2-a97b-ab0550a318ee
 #EXTINF:-1 tvg-logo="https://mfm.ua/apple-touch-icon.png" group-title="Ukraine" radio="true",MFM STATION
 https://globalic.stream:1305/stream
@@ -247,12 +280,6 @@ https://service.ptrk.tv:8443/PTRK
 # 72FM: https://72fm.com/station/ab0fc687-7a04-4fa8-8af9-9b71607dd7ae
 #EXTINF:-1 group-title="Ukraine" radio="true",103.7 Da Beat
 http://s1.voscast.com:8580/;
-# 72FM: https://72fm.com/station/e089e38a-1f24-4379-9e6b-58784032ebdf
-#EXTINF:-1 tvg-logo="https://radio.kyiv.media/favicon/apple-touch-icon.png" group-title="Ukraine" radio="true",Kyiv 98 FM
-https://cdn.vsnw.net:8943/kyiv_fm_128k
-# 72FM: https://72fm.com/station/b2273016-3fe2-40cc-80ff-80f5f4f97f64
-#EXTINF:-1 tvg-logo="https://www.armyfm.com.ua/favicon.ico" group-title="Ukraine" radio="true",Armija FM
-http://212.26.132.129:8000/ArmyFM
 # 72FM: https://72fm.com/station/6930d86f-e6a0-45e5-8581-88bf044c2f3a
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio Relax Christmas
 https://online.radiorelax.ua/RadioRelax_Christmas_HD
@@ -262,6 +289,9 @@ https://cast.mediaonline.net.ua/loungefm320
 # 72FM: https://72fm.com/station/6d2b9310-67e5-4246-97e3-49a460168b7c
 #EXTINF:-1 group-title="Ukraine" radio="true",Segenswelle Ukrainisch
 http://www.segenswelle.de:8000/ukrainisch
+# 72FM: https://72fm.com/station/f9672f01-73dc-456d-b768-cb25f408f299
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20230402_021920573.jpg?alt=media&token=13c4ee8f-cde1-4552-8c09-91939db353c4" group-title="Ukraine" radio="true",Хомякс ФМ Луганск 102.3
+https://radio.play-fm.ru:8001/homyak
 # 72FM: https://72fm.com/station/a6e7696f-e9bb-4b0e-9bba-728a6e92a150
 #EXTINF:-1 group-title="Ukraine" radio="true",True Black Metal Radio
 https://trueblackmetalradio.com:8000/radio
@@ -280,18 +310,12 @@ http://vtsu.org.ua:8000/vtsu-pop
 # 72FM: https://72fm.com/station/3e297a50-6912-11ea-b1cf-52543be04c81
 #EXTINF:-1 group-title="Ukraine" radio="true",Pulzus Rádió
 http://radio2.tirek.hu:8000/sionelo
-# 72FM: https://72fm.com/station/d0da17ac-8dac-42c3-a0fa-017bbd91311b
-#EXTINF:-1 tvg-logo="https://play.tavr.media/static/image/nashe/Nashe_player_logo.png?v=4" group-title="Ukraine" radio="true",Наше Радіо 107,9
-https://online.nasheradio.ua/NasheRadio_HD
 # 72FM: https://72fm.com/station/6d811320-a8f9-452d-9844-9305f93b7db9
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio Jazz Christmas
 https://online.radiojazz.ua/RadioJazz_Christmas_HD
 # 72FM: https://72fm.com/station/55040b59-13c3-439a-80e3-2984e8156679
 #EXTINF:-1 tvg-logo="https://z-polus.info/wp-content/uploads/2020/06/zah_polus_newlogo_white-1.png" group-title="Ukraine" radio="true",Західний полюс West Pole 64k AAC+
 https://online.z-polus.info/mobilehq
-# 72FM: https://72fm.com/station/9d2b71ab-0135-45a7-8008-d7be59e40976
-#EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="Ukraine" radio="true",Hit FM
-http://195.95.206.17/HitFM
 # 72FM: https://72fm.com/station/8593f489-f319-41af-86e7-f2f7adc121de
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio Jazz Gold FM
 https://online.radiojazz.ua/RadioJazz_Gold
@@ -304,12 +328,12 @@ https://globalic.stream:1810/stream
 # 72FM: https://72fm.com/station/5b2885bc-d75f-4b14-8ffe-099246c0ce3d
 #EXTINF:-1 group-title="Ukraine" radio="true",Радіо Мегаполіс (Кам'янське)
 https://cast.megapolis.fm/listen/kamyanske/radio.mp3
-# 72FM: https://72fm.com/station/727cebaf-48c5-4c35-8988-d7fedce8055c
-#EXTINF:-1 tvg-logo="https://lux.fm/assets/img/browser-icons/apple-touch-icon-120x120.png" group-title="Ukraine" radio="true",Lux FM
-http://lux.radio.tvstitch.com/kyiv/lux_adv_sd
 # 72FM: https://72fm.com/station/b6ddc823-f87a-4e74-9077-80185593e912
 #EXTINF:-1 group-title="Ukraine" radio="true",Top Radio FROM UKRAINE TO SPAIN
 https://laut.fm/topradio
+# 72FM: https://72fm.com/station/95a8fd5a-11a7-4237-90d2-4c10d0c5c175
+#EXTINF:-1 group-title="Ukraine" radio="true",109FM
+https://solid48.streamupsolutions.com/proxy/cfujtbgw/109fm
 # 72FM: https://72fm.com/station/2229d2b2-1306-4eba-8c6c-5413a722c8d0
 #EXTINF:-1 group-title="Ukraine" radio="true",Play FM Луганск 105.5ФМ
 https://radio.play-fm.ru:8001/playfm
@@ -328,6 +352,9 @@ https://complex.in.ua/b320
 # 72FM: https://72fm.com/station/c102d55f-6a3a-4243-8d85-c9bf3c2ba111
 #EXTINF:-1 group-title="Ukraine" radio="true",Єден радіо
 http://31.128.79.192:8000/live
+# 72FM: https://72fm.com/station/0b9bef1b-fe74-4023-9a00-b0fddbce72ab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OjNP7Wz.jpg" group-title="Ukraine" radio="true",Kharkif Surf Rock
+http://stream-172.zeno.fm/td4yedynbwzuv
 # 72FM: https://72fm.com/station/007a6934-18bc-4b23-8b21-54db0e9cc98a
 #EXTINF:-1 tvg-logo="https://yantarne.fm/img/main/favicon.webp" group-title="Ukraine" radio="true",Yantarne FM
 https://complex.in.ua/yantarne
@@ -349,6 +376,9 @@ http://donetsk.kometa.fm:8000/live
 # 72FM: https://72fm.com/station/3ffeef23-b22b-4c33-b5d8-1ed8fac6a408
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio Jazz FM
 http://online.radiojazz.ua/RadioJazz_Christmas_Live
+# 72FM: https://72fm.com/station/192405d7-e683-418d-8bcc-07c4cc8e9aa1
+#EXTINF:-1 tvg-logo="https://timfm.online/favicon.ico" group-title="Ukraine" radio="true",Tim FM Chernihiv
+https://tim-fm.tim.ua/mp3
 # 72FM: https://72fm.com/station/76ed8895-5d5a-4ae0-889d-f53aa411b764
 #EXTINF:-1 group-title="Ukraine" radio="true",MFM Ukraine
 https://radio.mfm.ua/online128
@@ -367,18 +397,12 @@ https://lux.radio.tvstitch.com/kyiv/max_adv_sd
 # 72FM: https://72fm.com/station/a5945094-2f5b-4c62-a1cc-0d654fbab68c
 #EXTINF:-1 group-title="Ukraine" radio="true",S1lhoutte Phonk FM
 http://stream.zeno.fm/71ntub27u18uv
-# 72FM: https://72fm.com/station/d9dc9bd1-9625-4578-a504-ea6bf484c048
-#EXTINF:-1 tvg-logo="https://uhradio.ua/wp-content/themes/uh-radio/assets/img/logo/logo.png" group-title="Ukraine" radio="true",Ух радіо
-http://193.169.80.7:8001/efir
 # 72FM: https://72fm.com/station/156661f7-db32-4f54-9075-a731703fbc25
 #EXTINF:-1 tvg-logo="https://play.axradio.net/img/favicon.png" group-title="Ukraine" radio="true",Ax Radio!
 https://m.axradio.net/stream.mp3
 # 72FM: https://72fm.com/station/00bbb722-3a63-45c0-bbdb-088d1ef117bc
 #EXTINF:-1 tvg-logo="https://slukhay.com/uploads/2026/2/3/a1200b2f-4914-4430-81cf-d6d4b6bf6f73.png" group-title="Ukraine" radio="true",Люкс ФМ – Сучасні хіти
 https://lux.radio.tvstitch.com/suchasni-hiti-sd
-# 72FM: https://72fm.com/station/1bd919f5-4014-41c8-b5bb-7e892c3af375
-#EXTINF:-1 group-title="Ukraine" radio="true",109FM
-https://solid48.streamupsolutions.com/proxy/cfujtbgw/109fm
 # 72FM: https://72fm.com/station/cd01d112-88b9-43e3-87de-0f16bc592a6e
 #EXTINF:-1 group-title="Ukraine" radio="true",навала
 http://listen1.myradio24.com/9857
@@ -400,9 +424,6 @@ https://complex.in.ua/Yavir320
 # 72FM: https://72fm.com/station/df7c3a48-4e9a-4ed1-91d7-48ecbdf4322c
 #EXTINF:-1 group-title="Ukraine" radio="true",Svitle
 https://online.svitle.org/hls/svitle/default.m3u8
-# 72FM: https://72fm.com/station/7d9d54f5-9d1b-43c1-b616-54ccd071aeeb
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/dbqDWaW2b7jXz3eR7" group-title="Ukraine" radio="true",Люкс FM Львів
-https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/8492e24d-7908-4cc4-9ee7-c3d5475c42d7
 #EXTINF:-1 tvg-logo="https://7promeniv.com.ua/images/Seven_Rays_Mix/7RaysRadioLogoNew.jpg" group-title="Ukraine" radio="true",7 Rays Radio
 https://7rays.stream.laut.fm/7rays
@@ -415,33 +436,36 @@ https://radiostream.nakypilo.ua/full
 # 72FM: https://72fm.com/station/f0efb237-fd0a-460e-9297-2ad88a7539d4
 #EXTINF:-1 group-title="Ukraine" radio="true",TVA FM (Чернівці)
 http://51.83.132.157/128
+# 72FM: https://72fm.com/station/3cb76d00-e401-434e-a6a0-e809b119ab5f
+#EXTINF:-1 group-title="Ukraine" radio="true",radio Italiana(UA)
+https://online.radioplayer.ua/RadioItaliana
 # 72FM: https://72fm.com/station/702fec9f-c451-48d0-95bc-e555c9b1ace2
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250308_113743726.jpg?alt=media&token=5671e6da-4cef-42fe-a037-9a986fec70ad" group-title="Ukraine" radio="true",Перше міське радіо (Одеса)
 https://live.1tv.od.ua/radio/stream/icecast.audio
 # 72FM: https://72fm.com/station/d4d42ef7-28b7-4b15-b357-df994d8adec3
 #EXTINF:-1 tvg-logo="https://slukhay.com/uploads/2026/2/3/0e404084-9364-4afb-a3ee-709d3ea0fcae.png" group-title="Ukraine" radio="true",Люкс ФМ – Українські хіти
 https://lux.radio.tvstitch.com/ukrayinski-hiti-sd
+# 72FM: https://72fm.com/station/4e172256-486d-4e56-b431-d7a6ecd3506e
+#EXTINF:-1 group-title="Ukraine" radio="true",xradioua
+https://giss.tv:666/xradio_channel.ogg
 # 72FM: https://72fm.com/station/efad14d3-369e-496c-953d-e2f7cb1202d2
 #EXTINF:-1 tvg-logo="https://radio.andrew-lviv.net/favicon.ico" group-title="Ukraine" radio="true",ABN Radio
 https://radio.andrew-lviv.net/abn128
 # 72FM: https://72fm.com/station/62ab8fff-2ba2-45a8-9bb7-b45b9493eda4
 #EXTINF:-1 tvg-logo="https://novaline.fm/wp-content/uploads/2022/11/cropped-1-180x180.png" group-title="Ukraine" radio="true",Радіо NovaLine
 https://stream.novaline.net.ua/Novaline_320
-# 72FM: https://72fm.com/station/e20c1c8b-7e5a-4112-a9ca-502bae53792a
-#EXTINF:-1 tvg-logo="https://timfm.online/favicon.ico" group-title="Ukraine" radio="true",Tim FM Chernihiv
-https://tim-fm.tim.ua/mp3
 # 72FM: https://72fm.com/station/27519a87-74fd-4325-8c1a-43d3218dee08
 #EXTINF:-1 tvg-logo="https://zfm.com.ua/images/default_album.jpg" group-title="Ukraine" radio="true",ZFM+ (Захид ФМ +)
 https://radio.zfm.com.ua:8443/zfm
 # 72FM: https://72fm.com/station/200b6db5-c533-4bcd-9674-40205fce5bd6
 #EXTINF:-1 tvg-logo="https://x-on.com.ua/wp-content/uploads/2021/01/xon_favicon_512x512-150x150.png" group-title="Ukraine" radio="true",Радіо X.ON
 https://audio.x-on.com.ua:8443/x-on-aacp-64.aac
+# 72FM: https://72fm.com/station/57d876d3-1ccd-4236-a54e-ad3b2869aabd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TEZtEBT.png" group-title="Ukraine" radio="true",coma.fm
+https://stream.radio.co/s4360dbc20/listen
 # 72FM: https://72fm.com/station/72bce21a-454c-4821-b80c-876e60d36d5f
 #EXTINF:-1 tvg-logo="https://radio.kyivstar.ua/favicon.ico" group-title="Ukraine" radio="true",Радіо Київстар Golden Hits
 https://radio.kyivstar.ua/stream/gold/master.m3u8
-# 72FM: https://72fm.com/station/04ab24cb-b826-4573-9ced-f9433d62540f
-#EXTINF:-1 tvg-logo="https://play.tavr.media/static/image/header_menu/RadioBayraktar_220x220.jpg?v=1" group-title="Ukraine" radio="true",Radio Bayraktar
-https://online.radiobayraktar.ua/RadioBayraktar
 # 72FM: https://72fm.com/station/8373f4cb-8354-4853-944d-c8f820024bde
 #EXTINF:-1 group-title="Ukraine" radio="true",Звичайне україномовне радіо
 https://whsh4u-panel.com/proxy/yvlxzzdx?mp=/stream
@@ -454,18 +478,12 @@ https://live.radio1.com.ua/liveradio64
 # 72FM: https://72fm.com/station/efb88d9d-b816-478b-a67a-0592739500ec
 #EXTINF:-1 tvg-logo="https://radio.kyivstar.ua/favicon.ico" group-title="Ukraine" radio="true",Радіо Київстар Chill & Lounge
 https://radio.kyivstar.ua/stream/chill/master.m3u8
-# 72FM: https://72fm.com/station/fd9ec304-d1e1-4457-b522-bdedbfa14cc4
-#EXTINF:-1 tvg-logo="https://www.instagram.com/favicon.ico" group-title="Ukraine" radio="true",Kharkif Surf Rock
-http://stream-172.zeno.fm/td4yedynbwzuv
 # 72FM: https://72fm.com/station/efe499e7-ba61-4629-8436-20ede0d29f34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/%D0%A0%D0%B0%D0%B4%D1%96%D0%BE_%D0%86%D0%BD%D0%B4%D1%96.UA.png" group-title="Ukraine" radio="true",Радіо Інді.UA
 https://online.radioplayer.ua/RadioIndieUA
 # 72FM: https://72fm.com/station/058ab793-086e-4ef1-9950-ec5d4b050376
 #EXTINF:-1 group-title="Ukraine" radio="true",NewDay FM (Коростень)
 http://178.93.125.230:8000/newday.mp3
-# 72FM: https://72fm.com/station/f5f7cad7-e13f-4428-b3ff-51196e4816c8
-#EXTINF:-1 group-title="Ukraine" radio="true",X Radio
-https://giss.tv:666/xradio_channel.ogg
 # 72FM: https://72fm.com/station/7d3a75c7-5796-454f-90d1-d6b890df64f4
 #EXTINF:-1 group-title="Ukraine" radio="true",Одесса радио
 https://listen6.myradio24.com/odesradio
@@ -493,6 +511,9 @@ https://radio.kyivstar.ua/stream/tophits/master.m3u8
 # 72FM: https://72fm.com/station/e7d77827-84cb-4090-8afb-840d6eb85ec7
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio Jazz Ukraine HD
 http://jazz.ipfm.net/RadioJazz_HD
+# 72FM: https://72fm.com/station/927ad9f0-47db-41ad-982f-26a778bee9d7
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250104_130149460.jpg?alt=media&token=32e0c1f7-c755-4f7d-91f6-c1e9567bab34" group-title="Ukraine" radio="true",Радіо Ми-Україна
+https://cast.mediaonline.net.ua/wau320
 # 72FM: https://72fm.com/station/2b3fc7cf-18a4-482a-bc14-4e7bb4c22544
 #EXTINF:-1 group-title="Ukraine" radio="true",Радіо Голос Надії
 https://s4.radio.co/s052c88338/low
@@ -574,9 +595,6 @@ https://cdn-br2.live-tv.cloud/sferarvFM/64k/icecast.audio
 # 72FM: https://72fm.com/station/1294f802-34a4-4de5-a1e1-a5dcf0e0a041
 #EXTINF:-1 tvg-logo="https://sokalfm.com/wp-content/uploads/2022/06/cropped-logo.png" group-title="Ukraine" radio="true",Радіо Сокаль
 http://online.sokal.lviv.ua:8000/sokalfm96.mp3
-# 72FM: https://72fm.com/station/16aa4d9b-c4f0-4e4e-881b-208d39e560e9
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250108_083857159.jpg?alt=media&token=9f59b20f-45de-4bc4-8fb4-ed5025e79cba" group-title="Ukraine" radio="true",Радіо Ми Україна
-https://cast.mediaonline.net.ua/wau320
 # 72FM: https://72fm.com/station/0d82a261-11ae-4af7-a34c-6952f3a886a3
 #EXTINF:-1 tvg-logo="https://radivo.thx8te.kh.ua/static/uploads/radivo/album_art.1770827559.png" group-title="Ukraine" radio="true",RadiVo
 https://radivo.thx8te.kh.ua/listen/radivo/radio.mp3
@@ -616,15 +634,15 @@ http://92.5.38.24:8000/radio.mp3
 # 72FM: https://72fm.com/station/b36f37aa-f573-445b-8686-b1a9ecbcb032
 #EXTINF:-1 group-title="Ukraine" radio="true",Live.dy Chat Sound
 https://www.myinstants.com/media/sounds/live-dy-chat-sound.mp3
-# 72FM: https://72fm.com/station/c9b8ccba-55e6-4675-a77b-dd2d7aaacdd8
-#EXTINF:-1 tvg-logo="https://perec.fm/favicon.ico" group-title="Ukraine" radio="true",Radio Perec FM
-https://radio.perec.fm/radio-stilnoe
 # 72FM: https://72fm.com/station/5ba60a62-6886-4243-9e8e-71ace6b60df9
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240923_181121171.jpg?alt=media&token=2323172f-9633-412e-b3f7-57231503ed2c" group-title="Ukraine" radio="true",Сфера-ФМ
 https://cdn-br2.live-tv.cloud/sferarvFM/320k/icecast.audio
 # 72FM: https://72fm.com/station/6e44c1b1-10d0-4681-8f51-d96ab452d3f4
 #EXTINF:-1 group-title="Ukraine" radio="true",Ulyublene radio Horodyshche 98 FM
 https://listen7.myradio24.com/ulyublene
+# 72FM: https://72fm.com/station/7c03afd8-e20f-45b6-bc28-8c369d90dd4c
+#EXTINF:-1 tvg-logo="https://fm.co.ua/wp-content/uploads/2025/10/STYLEFM-KV.jpg" group-title="Ukraine" radio="true",STYLE FM
+https://myradio24.org/station
 # 72FM: https://72fm.com/station/1748f193-6d40-4a9e-acbc-e284984c00d0
 #EXTINF:-1 tvg-logo="https://slukhay.com/uploads/2026/2/12/bfd86efc-78e8-4124-8815-c8849ca2a1b7.png" group-title="Ukraine" radio="true",K-Pop 24
 https://lux.radio.tvstitch.com/k-pop-sd
@@ -664,9 +682,6 @@ https://listen.radioking.com/radio/562580/stream/622265
 # 72FM: https://72fm.com/station/44a5c575-7863-4b4d-912f-795ef0440488
 #EXTINF:-1 tvg-logo="https://pihota.fm/imgs/default-cover.png" group-title="Ukraine" radio="true",Pihota.FM
 https://online.pihota.fm/listen/radio/128
-# 72FM: https://72fm.com/station/0f230b00-ebd9-495d-830e-1a5626f3d6a9
-#EXTINF:-1 tvg-logo="https://www.armyfm.com.ua/templates/army/images/army_fm_new_logo.webp" group-title="Ukraine" radio="true",Army FM
-https://icecast.armyfm.com.ua:8443/ArmyFM
 # 72FM: https://72fm.com/station/97115fc5-552f-42e2-9298-362dbff78596
 #EXTINF:-1 tvg-logo="https://cdn.onlineradio.box.com/img/1/9/79689.v32.png" group-title="Ukraine" radio="true",Sun FM
 https://stream.sunfmua.com/live
@@ -700,24 +715,18 @@ https://radio.dobreff.com/lounge.mp3
 # 72FM: https://72fm.com/station/75a708f0-409b-47a6-8808-722434b21b57
 #EXTINF:-1 group-title="Ukraine" radio="true",Золочів фм
 https://ipradio.net:8443/zolochivHD
-# 72FM: https://72fm.com/station/1ea69d4e-3c4a-40f6-bcf0-6118562ffe34
-#EXTINF:-1 tvg-logo="https://www.classicradio.ua/static/img/Classic_sitelogo_300x210.png" group-title="Ukraine" radio="true",Classic Radio
-https://online.classicradio.ua/ClassicRadio
+# 72FM: https://72fm.com/station/0f81f654-ce29-4f96-97c3-5e41d5ee2188
+#EXTINF:-1 tvg-logo="https://lviv-radio.lux.fm/images/tild3738-3330-4633-b037-343436303661__logo-lux.svg" group-title="Ukraine" radio="true",Lux FM Lviv
+https://lux.radio.tvstitch.com/lux_lviv_adv_sd
 # 72FM: https://72fm.com/station/84841363-aa42-4748-ba4f-c4b9eff1ab00
 #EXTINF:-1 tvg-logo="https://radio.nikopolnews.net/img/640logonikopol.png" group-title="Ukraine" radio="true",Радіо Нікополя
 https://stream.nikopolnews.net/listen/radio_nikopol/nikopolnews.mp3
 # 72FM: https://72fm.com/station/0d788e6e-f898-4615-a852-3fa1c7b85f03
 #EXTINF:-1 group-title="Ukraine" radio="true",EQVE Radio - Экве Радио
 http://listen1.myradio24.com/nazarik
-# 72FM: https://72fm.com/station/4dc45295-e3d9-40c6-9f61-5205243492de
-#EXTINF:-1 tvg-logo="https://fm.co.ua/wp-content/uploads/2026/03/STYLE-FM-LOGO.png" group-title="Ukraine" radio="true",STYLE FM
-https://myradio24.org/station
 # 72FM: https://72fm.com/station/44d8387f-5f32-4ed8-a190-e805e7f4b183
 #EXTINF:-1 group-title="Ukraine" radio="true",Радіо такт Вінниця 103,7
 http://193.107.104.79:8007/taktonair.mp3
-# 72FM: https://72fm.com/station/0d11c2ee-6008-4d1b-b73e-7d0da550659e
-#EXTINF:-1 group-title="Ukraine" radio="true",Lux FM Lviv
-https://lux.radio.tvstitch.com/lux_lviv_adv_sd
 # 72FM: https://72fm.com/station/d2df0d36-eee6-4cd5-b3c3-8f72b7df50dc
 #EXTINF:-1 tvg-logo="https://wolfmusicradio.com/wp-content/uploads/2024/08/cropped-wolf-logo-black-192x192.png" group-title="Ukraine" radio="true",Wolf Music Radio
 https://a3.asurahosting.com/listen/wolf_music_radio/radio.mp3

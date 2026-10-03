@@ -4,6 +4,9 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/9622cd46-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="House" radio="true",Europa Plus
+http://ep256.hostingradio.ru:8052/europaplus256.mp3
 # 72FM: https://72fm.com/station/af6f51b1-0ca9-11ea-a87e-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="House" radio="true",Intense Radio - We love Dance 256K
 https://secure.live-streams.nl/main
@@ -19,6 +22,9 @@ https://stream.mixadance.fm/mixadance
 # 72FM: https://72fm.com/station/777d14b2-f344-11e9-a96c-52543be04c81
 #EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002753887.png" group-title="House" radio="true",Los 40 Dance
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC
+# 72FM: https://72fm.com/station/0f902505-76c7-489b-8ddc-03b05b5867ae
+#EXTINF:-1 tvg-logo="https://generation.dance/logo_500x500.png" group-title="House" radio="true",Generation Dance Radio
+http://generationdance.lu/radio/8030/hd
 # 72FM: https://72fm.com/station/bc8d535a-2514-11e8-91bf-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Costa del Mar - Deep House
 http://stream.cdm-chillout.com:8012/stream-mp3-Deep
@@ -37,12 +43,12 @@ http://naxidigital-house128.streaming.rs:8000/;stream.nsv
 # 72FM: https://72fm.com/station/9619be25-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Deep in Radio
 http://s3.viastreaming.net:8525/
+# 72FM: https://72fm.com/station/5ea0c406-cc3e-4a36-9a32-37ed4d5a180e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TmRLJsp/EDM-TL.jpg" group-title="House" radio="true",Technolovers EDM
+https://stream.technolovers.fm/edm?ref=radiobrowser
 # 72FM: https://72fm.com/station/962e7e22-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.slam.nl/favicon.ico" group-title="House" radio="true",SLAM!
 http://stream.slam.nl/slam
-# 72FM: https://72fm.com/station/dd98c499-a0c4-4019-a35e-99caa6940407
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T1gH75m/rb-top100clubcharts.png" group-title="House" radio="true",# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
-https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
 # 72FM: https://72fm.com/station/96092e7f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Nova
 http://stream.metacast.eu/nova.ogg
@@ -52,18 +58,21 @@ http://icecast8.play.cz/freeradio128.mp3
 # 72FM: https://72fm.com/station/961211ab-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Sunshine Live - Festival
 http://stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/
-# 72FM: https://72fm.com/station/5bc44bcd-7481-40e1-b503-bb92b936f4cf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png" group-title="House" radio="true",# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
-https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts
 # 72FM: https://72fm.com/station/63dd5d75-855f-4e7e-9570-b8d3b338c016
 #EXTINF:-1 tvg-logo="https://perfect-radio.com/____impro/1/onewebmedia/Logo%20Perfect%20Deephouse.jpg?etag=W%2F%22847e5-619665ca%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=355%2B372&extract=0%2B0%2B354%2B372&quality=85" group-title="House" radio="true",Perfect Deep House
 https://stream.radiojar.com/asngk2sg798uv?1659885393
-# 72FM: https://72fm.com/station/1c6dcd6f-88c6-4fd4-8191-078435168e85
-#EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="House" radio="true",BBC Radio 6 Music
-http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+# 72FM: https://72fm.com/station/962a93da-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="House" radio="true",DanceRadioUK - Dance UK
+http://uk2.internet-radio.com:8024/stream
+# 72FM: https://72fm.com/station/bf1731ba-a1eb-11e8-abb8-52543be04c81
+#EXTINF:-1 group-title="House" radio="true",C-Dance RETRO
+http://s45.myradiostream.com:18304/
 # 72FM: https://72fm.com/station/96109308-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Sunshine Live - House
 http://stream.sunshine-live.de/house/mp3-192/stream.sunshine-live.de/
+# 72FM: https://72fm.com/station/9300b8d7-0953-48d8-82a2-fa69c3b3030b
+#EXTINF:-1 tvg-logo="https://generation.dance/logo_500x500.png" group-title="House" radio="true",Generation Dance Radio
+http://generationdance.lu/radio/8030/mobile
 # 72FM: https://72fm.com/station/830a7eff-916d-456c-842a-d7786e475658
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4R6kNj/Electrohouse-tl.jpg" group-title="House" radio="true",Technolovers ELECTRO HOUSE
 https://stream.technolovers.fm/electro-house?ref=radiobrowser
@@ -73,9 +82,6 @@ http://channels.dinamo.fm/deep-mp3
 # 72FM: https://72fm.com/station/f5f3381b-e4b3-11e9-a8ba-52543be04c81
 #EXTINF:-1 tvg-logo="https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="House" radio="true",Dance UK
 http://51.89.148.171:8022/stream/
-# 72FM: https://72fm.com/station/be26f3f5-1ee1-4661-a3de-4544fc29e833
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sP4q4Wh/breakz-fm-logo-fav.png" group-title="House" radio="true",_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!
-https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
 # 72FM: https://72fm.com/station/96283c12-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Radio 105 - Miami
 http://icy.unitedradio.it/105Miami.mp3
@@ -88,21 +94,18 @@ https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3
 # 72FM: https://72fm.com/station/f8c31d00-0afd-11ea-a87e-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.slam.nl/favicon.ico" group-title="House" radio="true",SLAM! Non Stop
 http://stream.radiocorp.nl/web10_mp3
+# 72FM: https://72fm.com/station/f8a910c3-fd87-4376-af20-1af5bfec6ab4
+#EXTINF:-1 group-title="House" radio="true",Radio M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
 # 72FM: https://72fm.com/station/904df09f-2412-11e8-91bf-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Thegooshradio Deep House
 http://eu2.fastcast4u.com:3732/stream/1/
-# 72FM: https://72fm.com/station/e94afa1a-0f96-4a57-8b97-112bb5cd348d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="House" radio="true",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
-https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
 # 72FM: https://72fm.com/station/b88f2280-c257-4815-ba50-89558acea9c4
 #EXTINF:-1 group-title="House" radio="true",Deep Radio
 http://stream.deep.radio/hd
 # 72FM: https://72fm.com/station/9609b65b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Laut.fm Housebomb
 http://housebomb-fn.stream.laut.fm/housebomb-fn?t302=2018-02-10_16-10-52&uuid=bff87322-9a02-49f3-9ac6-a2c1457286dc
-# 72FM: https://72fm.com/station/0dc3dc2d-04a1-4d53-9995-e1104fc637f6
-#EXTINF:-1 tvg-logo="https://www.danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="House" radio="true",Dance UK Radio danceradiouk
-http://51.89.148.171:8022/stream
 # 72FM: https://72fm.com/station/9640449d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Radio Caprice - Progressive House
 http://79.111.119.111:9021/
@@ -118,18 +121,12 @@ https://radioplaneta.emitironline.com/radio
 # 72FM: https://72fm.com/station/e2f8a671-835a-4223-ad0f-33ac7aa9ed05
 #EXTINF:-1 group-title="House" radio="true",DnB&EDM
 https://edmdnb.com:448/radio/8000/radio.mp3
-# 72FM: https://72fm.com/station/b591d01a-e72b-4030-a640-a8da10ed73f6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1bdF482/REMIX-PARTYNBREAKS-LOGO-1.png" group-title="House" radio="true",# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
-https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
 # 72FM: https://72fm.com/station/ba71845c-3ceb-4278-9bb7-7b2e3cc6bc41
 #EXTINF:-1 tvg-logo="https://flaixfm.cat/favicon.ico" group-title="House" radio="true",Flaix FM
 https://stream.flaixfm.cat/icecast
 # 72FM: https://72fm.com/station/a7683a1d-462c-4fa8-8ea1-e61c597371ed
 #EXTINF:-1 group-title="House" radio="true",Phever Dublin
 http://uk1.internet-radio.com:8200/live
-# 72FM: https://72fm.com/station/64d74c72-025e-4cea-8a32-906812691731
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg" group-title="House" radio="true",#100 BEST IBIZA DEEP HOUSE
-https://stream.zeno.fm/lwv6zqgtv1dtv
 # 72FM: https://72fm.com/station/96393d3c-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Europa Plus (128 kbps)
 http://ep128.streamr.ru/
@@ -139,9 +136,6 @@ http://radiorecord.hostingradio.ru/deep96.aacp
 # 72FM: https://72fm.com/station/a4192629-2918-4416-b614-9e4d49a1f9be
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="House" radio="true",Frisky
 https://stream.frisky.friskyradio.com/frisky_mp3_high
-# 72FM: https://72fm.com/station/6cb69b95-72d9-4ea6-859f-52546a85c1fe
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png" group-title="House" radio="true",# RdMix DJSET 70s 80s 90s
-https://cast1.torontocast.com:4560/stream
 # 72FM: https://72fm.com/station/76033286-f219-4693-bd11-a8ada3408a91
 #EXTINF:-1 group-title="House" radio="true",DJ Radio Romania
 https://stream.djradio.ro/radio/8000/stream.mp3
@@ -160,6 +154,9 @@ https://stream.technolovers.fm/funky-house?ref=radiobrowser
 # 72FM: https://72fm.com/station/43f3f332-d3eb-4dae-b89b-a13148e9a513
 #EXTINF:-1 group-title="House" radio="true",PartyFM
 http://stream.partyfm.dk/Party320/
+# 72FM: https://72fm.com/station/a7b6e9b7-6d9d-476b-b07c-be676d6f6d87
+#EXTINF:-1 tvg-logo="https://enter.radio/images/icons/icon_192x192.png" group-title="House" radio="true",Radio ENTER
+https://stream.nextmedia.si/proxy/enter_1?mp=/enter
 # 72FM: https://72fm.com/station/1f73fdc3-e4df-48db-bcec-83a9460f1c93
 #EXTINF:-1 tvg-logo="https://werave.com.br/wp-content/uploads/cropped-weravemusic-180x180.png" group-title="House" radio="true",WeRave Music Radio 01 - Dark and Underground
 https://stream.zeno.fm/pjktyby8dn5tv
@@ -181,9 +178,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
 # 72FM: https://72fm.com/station/8c78482a-17db-4057-a7c7-8fa14b3c3ce9
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/aWa7xGKfBh.jpg" group-title="House" radio="true",House Nation UK
 https://streaming.radio.co/s06bd9d805/listen
-# 72FM: https://72fm.com/station/e6839413-9a70-45b1-927e-6f8f54887b44
-#EXTINF:-1 tvg-logo="https://generation.dance/logo_500x500.png" group-title="House" radio="true",Generation Dance Radio
-http://generationdance.lu/radio/8030/hd
 # 72FM: https://72fm.com/station/960bb325-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",I Love 2 Dance
 http://ilm.stream12.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkwNzg1NjMzJmQ9NGRlZDQ4NTJmMTExMzNkMmQzZjc
@@ -196,18 +190,9 @@ https://house-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/41d830a3-c80c-4745-954d-f6b2fc3f6622
 #EXTINF:-1 group-title="House" radio="true",Technolovers - IBIZA HOUSE
 https://stream.technolovers.fm/ibiza-house?ref=radiobrowser
-# 72FM: https://72fm.com/station/4d712fdb-596c-495a-80eb-6c0cf2c3e649
-#EXTINF:-1 group-title="House" radio="true",NEU RADIO
-https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
-# 72FM: https://72fm.com/station/ff1b5040-7fac-4716-8fba-0149183ab8e7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DgTG33b/TOP100-b.png" group-title="House" radio="true",#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025
-https://stream.breakz.fm/?ref=top100radio-browser
 # 72FM: https://72fm.com/station/57ccc89c-5665-411b-941b-46f41ca2bb93
 #EXTINF:-1 group-title="House" radio="true",sunshine live - Classic & Vocal House
 https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/
-# 72FM: https://72fm.com/station/02734cfa-5c5b-46f2-85c6-a5a654be7a24
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gc5TMjP/Top-200-Dj-Charts-breakz-logo.jpg" group-title="House" radio="true",#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic House, Melodic Techno. Best 100 Lounge, Mixed Radio Station @ PartyHits / Schlager Remix Top 50
-https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 # 72FM: https://72fm.com/station/4529d75f-2a51-11e8-91bf-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Radio MRS - Deep House Zone
 http://play.radiomrs.com:7494/stream.mp3
@@ -223,12 +208,9 @@ https://0n-top40.radionetz.de/0n-top40.mp3
 # 72FM: https://72fm.com/station/48d09371-ce3e-4278-a637-179bdba36cb7
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="House" radio="true",radioeins-rbb-56 kbit/s
 http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3K4ezWNz61EKiw0pjjN5BYQItsy&token=hx_dYQ4o1wBeilu7gtF5xapGitFArMbwu57YlaxREIw&tvf=Bs7Em1Za2hhmMTExLnJuZGZuay5jb20
-# 72FM: https://72fm.com/station/97991c3a-688a-48c8-afb5-56761ecd5ad5
-#EXTINF:-1 tvg-logo="https://www.dancefm.ro/static/theme-repo/bin/images/logo-dance-fm.png" group-title="House" radio="true",Dance FM
-http://edge126.rdsnet.ro:84/profm/dancefm.mp3
-# 72FM: https://72fm.com/station/29dc48c6-adf5-49bf-a9d7-dfde3e9cfc6d
-#EXTINF:-1 tvg-logo="https://www.ukbassradio.com/wp-content/uploads/2021/03/cropped-thumbnail_ukbass-radio5.png" group-title="House" radio="true",UK Bass Radio
-https://www.ukbassradio.com/stream
+# 72FM: https://72fm.com/station/4d98ac08-5f85-45ae-85b3-1ece9bad3fec
+#EXTINF:-1 group-title="House" radio="true",Ibiza Stardust Radio
+https://www.radioking.com/play/ibiza-stardust-radio-1
 # 72FM: https://72fm.com/station/dab217e9-2fb1-4dee-ae95-00fece1688ad
 #EXTINF:-1 tvg-logo="https://www.1mix.co.uk/favicon.ico" group-title="House" radio="true",1Mix Radio - House (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320hb
@@ -253,9 +235,6 @@ http://sunsl.streamabc.net/sunsl-playlist2-mp3-192-4542868?sABC=5nq8747p%230%23r
 # 72FM: https://72fm.com/station/c58c0009-ad0d-4ed5-a208-a8e797885a75
 #EXTINF:-1 group-title="House" radio="true",House Music Radio
 https://uk4-vn.mixstream.net/8128/listen.mp3
-# 72FM: https://72fm.com/station/5a6ecb07-e6ba-418f-9f4e-43dd40fe3a95
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DgmQsmPW/festival-vibes.png" group-title="House" radio="true",House vs. Hip-Hop, Rap, Deutschrap, R&B, Trap, Techno, House, EDM, Deep House, Hardstyle, Trance, Drum & Bass, Lo-Fi, Chillout, Festival, Club, Party, Afterhour, Beats, Underground, Hype, Techno, TechHouse - Top 40 Charts - DJ Mixtape RADIO
-https://breakz-office.rautemusik.fm/?ref=rb-festival
 # 72FM: https://72fm.com/station/0e527d75-30db-4d43-850c-4db38984c18e
 #EXTINF:-1 group-title="House" radio="true",Megapolis Fm
 https://megapolisfm.md:8443/886
@@ -265,15 +244,15 @@ http://stream.danceradio.nl:9920/
 # 72FM: https://72fm.com/station/971cedc6-f328-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Traxx FM - Deep
 http://traxx013.ice.infomaniak.ch/traxx013-low.mp3
-# 72FM: https://72fm.com/station/af915008-e9f1-4750-bf58-3f774ea5fc4a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bbRPNdd/charts-mainstage.jpg" group-title="House" radio="true",# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE - LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE - DANCE - LOUNGE - CHILLOUT - SUMMER - IBIZA HOUSE - WEDDING - BACH - SOULFUL - BEACH - CLUB - GERMANY DJ RADIO - PARTY - BREAKZ - POOL - POP - URBAN - HOT NEW MUSIC
-https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage
 # 72FM: https://72fm.com/station/631049dc-60cf-4e27-95c8-8593e03aee20
 #EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="House" radio="true",Radio Record Bass House
 https://radiorecord.hostingradio.ru/jackin96.aacp
 # 72FM: https://72fm.com/station/8972e2b7-5987-4937-9a5e-e56e8f3f0831
 #EXTINF:-1 group-title="House" radio="true",Remix FM
 http://air4.amgradio.ru/RemixFM
+# 72FM: https://72fm.com/station/e7286b98-bf0d-430a-b957-08a70c408cd3
+#EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="House" radio="true",Radio Record - Disco Funk
+https://radiorecord.hostingradio.ru/discofunk96.aacp
 # 72FM: https://72fm.com/station/92b99738-5c8f-4450-9f19-c8f0ca235559
 #EXTINF:-1 group-title="House" radio="true",Radio Record Moldova
 http://212.56.220.74:8000/RecordMD
@@ -286,9 +265,6 @@ https://stream.technolovers.fm/afro-house?ref=radiobrowser
 # 72FM: https://72fm.com/station/3e72dce2-0a50-11ea-a87e-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-top-40_600x600.jpg" group-title="House" radio="true",- 0 N - Top 40 on Radio
 https://0n-top40.radionetz.de/0n-top40.aac
-# 72FM: https://72fm.com/station/9e636b65-64ce-478c-b935-523def2c393d
-#EXTINF:-1 group-title="House" radio="true",__BREAKZ.FM__ by rm.fm (rautemusik)
-https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo
 # 72FM: https://72fm.com/station/cfa786ac-cd53-4576-9283-574440ffab71
 #EXTINF:-1 tvg-logo="https://laxmedellin.com/static/images/LogoXMedellinFinal.144d8af15298.png" group-title="House" radio="true",La X Medellín 103.9 FM
 https://tupanel.info:8000/stream
@@ -304,9 +280,6 @@ http://audio.674.fm/stream
 # 72FM: https://72fm.com/station/52adc4eb-92c9-4214-ba8c-dff98d386b83
 #EXTINF:-1 group-title="House" radio="true",Epic Lounge - SOFT HOUSE LOUNGE
 https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser
-# 72FM: https://72fm.com/station/07f2791f-98e9-4811-a47f-e0fe7833751b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SB5kwmJ/Club-Charts-Logo.jpg" group-title="House" radio="true",Club Charts - DEEJAY & REMIX Radio @ NON-STOP MUSIC, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Charts, RnB, 90s, 90er, Eurodance, Urban, DJ Mixtapes
-https://breakz-office.rautemusik.fm/?ref=radiobrowser-club-charts
 # 72FM: https://72fm.com/station/55569140-5d24-44dd-be29-004e8fa0388e
 #EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="House" radio="true",Radio Record Organic
 http://radiorecord.hostingradio.ru/organic96.aacp
@@ -319,15 +292,15 @@ http://mp3.radiox.ch:8000/standard.mp3
 # 72FM: https://72fm.com/station/eb4bf121-27c1-11e9-a80b-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",laut.fm - clubhits
 http://stream.laut.fm/clubhits
-# 72FM: https://72fm.com/station/f1174669-b7ad-4668-8369-db995e6ecc8d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7J492pjD/neuersachein.jpg" group-title="House" radio="true",- NEUERSCHEINUNGEN - Radio Charts - DJ Charts - Club Charts - Top 100 - Top 40 Club - Pop, Hip-Hop, Dance, EDM, House, Techno, R&B, Trap, Reggaeton, Afrobeat, Indie-Pop, Tropical House, Future Bass, Electro Swing, Synthwave, Deep House, Progressive House, Vocal House, DJ Sets, Remix, Mashup, Dancefloor, Festival-Hits, Club-Hits, Nightlife, Underground.
-https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen
 # 72FM: https://72fm.com/station/d271b4e8-a298-4862-9f4b-025c110cedd9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPkfdprq/rb-Ibiza.png" group-title="House" radio="true",IBIZA CHILLOUT LOUNGE - Ambient, Deep House, Balearic, Smooth Jazz, Acoustic, Chill House, Lo-Fi, Chillwave, Dream Pop, Electro, Tropical House, Sunset Chill, Café del Mar, Soft Electronica, Slow House, Ambient, Relax, Easy Listening, Beach Vibes, Summer
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPkfdprq/rb-Ibiza.png" group-title="House" radio="true",IBIZA CHILLOUT LOUNGE - Ambient, Deep House, Balearic, Smooth Jazz, Acoustic, Chill House, Lo-Fi, Chillwave, Dream Pop,
 https://0nlineradio.radioho.st/lounge-ibiza-chillout-lounge?ref=rb26
 # 72FM: https://72fm.com/station/9623a3f5-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Radio Party Groove
 http://stream15.top-ix.org/partygroove
+# 72FM: https://72fm.com/station/9c100db7-ba97-4e6f-821f-dba1ed08ad52
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-HFUM5iVBOYInWEED-oro7Vg-t200x200.jpg" group-title="House" radio="true",Rinse UK
+https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 # 72FM: https://72fm.com/station/9644e275-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",FluxFM - Sound Of Berlin
 http://fluxfm.streamabc.net/flx-soundofberlin-mp3-320-9689589?sABC=6noqs8qn%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790834906
@@ -349,6 +322,9 @@ https://0n-house.radionetz.de/0n-house.mp3
 # 72FM: https://72fm.com/station/847ab878-67d8-49c1-9587-4098f3da3515
 #EXTINF:-1 group-title="House" radio="true",__BIGCITYBEATS.FM__ by rautemusik (rm.fm)
 https://stream.bigcitybeats.de/bcb-radio/mp3-192/radiobrowser
+# 72FM: https://72fm.com/station/752939c0-c0e4-483c-a4bb-eb62a4870935
+#EXTINF:-1 group-title="House" radio="true",Technolovers TROPICAL HOUSE
+https://stream.technolovers.fm/tropical-house?ref=radiobrowser
 # 72FM: https://72fm.com/station/962b4e52-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Lazer Hot Hits
 http://streams.servicehosting.be:3730/;
@@ -361,9 +337,6 @@ https://dfm.hostingradio.ru/dfm128.mp3
 # 72FM: https://72fm.com/station/94ab0296-5b88-49e6-b33a-a1823a3f6b2d
 #EXTINF:-1 group-title="House" radio="true",Athens Deejay 95.2
 http://netradio.live24.gr/athensdeejay
-# 72FM: https://72fm.com/station/74bc9bbe-b571-42ce-9acf-73f77249af97
-#EXTINF:-1 tvg-logo="https://labr.online/labr.png" group-title="House" radio="true",LABR Love a Brother Radio
-http://23.81.33.82:24914/stream
 # 72FM: https://72fm.com/station/c79c1017-de96-4a8d-ad63-443e2eb1656c
 #EXTINF:-1 group-title="House" radio="true",Technolovers HOUSE
 https://stream.technolovers.fm/house?ref=radiobrowser
@@ -373,6 +346,9 @@ https://subfm.radioca.st/
 # 72FM: https://72fm.com/station/14ed260e-abd1-401c-8cf0-7e4625f58dae
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/35209.v3.png" group-title="House" radio="true",Energy FM - Dance Music Radio
 https://radio.streemlion.com:1875/stream
+# 72FM: https://72fm.com/station/53859235-938e-44e0-929a-ff59ae09b29e
+#EXTINF:-1 group-title="House" radio="true",M.Deep Radio
+https://deephousex.ru/live
 # 72FM: https://72fm.com/station/7a69f5c7-fa49-4735-be48-fc5bd1dd19d8
 #EXTINF:-1 group-title="House" radio="true",RADIO INSIDE
 https://radioinside.eu/live.mp3
@@ -385,9 +361,6 @@ http://traxx002.ice.infomaniak.ch/traxx002-low.mp3
 # 72FM: https://72fm.com/station/9e773dab-4d14-4408-aefb-4b2ba2e03926
 #EXTINF:-1 tvg-logo="https://megaradiomix.de/favicon.ico" group-title="House" radio="true",MEGARADIOmix
 http://stream.megaradiomix.de:5050/
-# 72FM: https://72fm.com/station/29717342-f376-48a3-93a6-3dae781e6c92
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b7gfKT6/TOP-100-DJ-CHARTS-GPT.jpg" group-title="House" radio="true",- TOP 100 - DJ Charts - / - REMIX DEEJAY RADIO - CLUB RADIO - HOUSE - EDM - TECHHOUSE - TECHNO - DANCE - TOP100 - TOP40 - RNB - BLACKMUSIC - HIPHOP - URBAN - REGGEATON - MIXTAPE RADIO - RAVE MUSIC - LIVE DEEJAY RADIO - LIVE EVENTS
-https://radio2.breakz.fm/?ref=rb-gpt-t100
 # 72FM: https://72fm.com/station/a20e7f55-661e-4f4c-b87f-a087c64633f8
 #EXTINF:-1 group-title="House" radio="true",54house.fm Clubstream
 http://62.138.2.128:8003/stream
@@ -415,6 +388,9 @@ https://stream.zunradio.cz/zun3.mp3
 # 72FM: https://72fm.com/station/764caa2f-ccf8-459f-99d7-1e15009b1474
 #EXTINF:-1 group-title="House" radio="true",FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club
 https://onair.net-radio.fr/frequence3dance.flac
+# 72FM: https://72fm.com/station/e231378a-e6d1-11e9-a96c-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="House" radio="true",4 To The Floor | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape5
 # 72FM: https://72fm.com/station/3e7745c9-ab52-4737-bce3-4f44198174bf
 #EXTINF:-1 tvg-logo="https://spacefm.ro/wp-content/uploads/2022/04/Logo-alb.png" group-title="House" radio="true",Space Fm Dance
 https://spacefm.live/radio/8000/spacefm128
@@ -424,9 +400,6 @@ https://stream.bigfm.de/deeptechhouse/mp3-128/radio-browser
 # 72FM: https://72fm.com/station/bf106bfa-4b34-4b50-9955-f7a36d76c0da
 #EXTINF:-1 group-title="House" radio="true",Power Dance
 https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio
-# 72FM: https://72fm.com/station/8ab1a2c2-8322-4453-bbec-d38eda48fc64
-#EXTINF:-1 tvg-logo="https://generation.dance/logo_500x500.png" group-title="House" radio="true",Generation Dance Radio
-http://generationdance.lu/radio/8030/mobile
 # 72FM: https://72fm.com/station/7cc630a3-660b-4b79-8380-c2f4d7b6de15
 #EXTINF:-1 tvg-logo="https://www.lamegamalaga.es/favicon.ico" group-title="House" radio="true",La Mega Radio
 http://streaming2.elitecomunicacion.es:8220//stream?type=.mp3
@@ -434,7 +407,7 @@ http://streaming2.elitecomunicacion.es:8220//stream?type=.mp3
 #EXTINF:-1 group-title="House" radio="true",Technolovers DIRTY HOUSE
 https://stream.technolovers.fm/dirty-house?ref=radiobrowser
 # 72FM: https://72fm.com/station/1dc211c4-1ad5-42ac-b1e6-62464537ce81
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HXhMnpX/CLUBDJ-RADIO.jpg" group-title="House" radio="true",#CLUB RADIO - DEIN DJ @ HOME - - DJ Remix & Charts, , Electronic Music, EDM, House, Deep House, Techno, Melodic House & Techno, Top40, Latin, Reggaeton, Urban, HipHop, Club & Party Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXhMnpX/CLUBDJ-RADIO.jpg" group-title="House" radio="true",#CLUB RADIO - DEIN DJ @ HOME - - DJ Remix & Charts, , Electronic Music, EDM, House, Deep House, Techno, Melodic House &
 https://breakz-2012-high.rautemusik.fm/?ref=rb-deindj
 # 72FM: https://72fm.com/station/aa0c4df3-e693-4120-ae62-3ac84aaa8543
 #EXTINF:-1 tvg-logo="https://www.deegay.fm/favicon.ico" group-title="House" radio="true",DeeGay Club
@@ -460,18 +433,18 @@ https://stream.zunradio.cz/zun1.aac
 # 72FM: https://72fm.com/station/d007b312-2fc3-4230-8936-ad4107675301
 #EXTINF:-1 group-title="House" radio="true",DFM - Organic House
 https://dfm-organichouse.hostingradio.ru/organichouse96.aacp
-# 72FM: https://72fm.com/station/ea6fc316-e4aa-43b6-997b-b2a26dfc4c05
-#EXTINF:-1 tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="House" radio="true",DFM - Insomnia
-https://dfm-insomnia.hostingradio.ru/insomnia96.aacp
 # 72FM: https://72fm.com/station/7c41800e-9c63-4996-b406-c1758f01e9d1
 #EXTINF:-1 tvg-logo="https://colombiacrossover.com/wp-content/uploads/Logo-Colombia-Lounge-nueva-modified.png" group-title="House" radio="true",Colombia Lounge
 https://play10.tikast.com/proxy/collounge?mp=/stream
-# 72FM: https://72fm.com/station/5c0000c3-d375-4b64-9d7f-8f1ebe974c14
-#EXTINF:-1 tvg-logo="https://ibb.co/jZsV775" group-title="House" radio="true",#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025
-https://stream.breakz.fm/?ref=top100radiobrowser
+# 72FM: https://72fm.com/station/ea6fc316-e4aa-43b6-997b-b2a26dfc4c05
+#EXTINF:-1 tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="House" radio="true",DFM - Insomnia
+https://dfm-insomnia.hostingradio.ru/insomnia96.aacp
 # 72FM: https://72fm.com/station/09c04067-681d-471f-92dc-f7b172664e02
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJByzTs/sax-house-lounge.jpg" group-title="House" radio="true",Epic Lounge - SAX HOUSE LOUNGE
 https://stream.epic-lounge.com/sax-house-lounge?ref=radiobrowser
+# 72FM: https://72fm.com/station/5531b766-6519-4d63-80ba-a3ce795ca88e
+#EXTINF:-1 group-title="House" radio="true",Радио Гусь
+https://stream4.radiogoose.ru/listen/radiogoose/play
 # 72FM: https://72fm.com/station/8a39e300-23b3-40f1-95fd-41cd8a9df47b
 #EXTINF:-1 tvg-logo="https://i0.wp.com/thebeatbali.com/wp-content/uploads/2020/05/favicon.png?fit=180%2c180&#038;ssl=1" group-title="House" radio="true",Beat Radio Bali
 https://c1.siar.us/radio/8030/stream
@@ -502,9 +475,6 @@ http://s2.euer.tv/audio320
 # 72FM: https://72fm.com/station/6fb63a1e-732c-4612-9f4e-280e639edbc5
 #EXTINF:-1 group-title="House" radio="true",Cavo Paradiso
 http://s5.onweb.gr:8488/
-# 72FM: https://72fm.com/station/77871905-48cd-465c-8d25-dd14ae536656
-#EXTINF:-1 group-title="House" radio="true",100 % COVERS LOUNGE
-https://az1.mediacp.eu/listen/100coverslounge/radio.mp3
 # 72FM: https://72fm.com/station/cd08ddef-18ae-421c-85a3-971ee8caa5d5
 #EXTINF:-1 tvg-logo="https://resfmradio.com/wp-content/uploads/2021/09/Logo_RES-FM_Verde_2.png" group-title="House" radio="true",RES FM
 http://stream2.soundflux.eu:8440/stream
@@ -523,21 +493,21 @@ https://sunsl.streamabc.net/sunsl-classichouse-mp3-192-9589235?sABC=6nor1877%230
 # 72FM: https://72fm.com/station/038c8fb4-6939-11e9-af37-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",..87,5!. Nantes
 https://listen.radioking.com/radio/15130/stream/28217
+# 72FM: https://72fm.com/station/8e3cd071-7175-412d-8e6d-900492ee595e
+#EXTINF:-1 tvg-logo="https://cyberstacja.pl/images/historia/logo_sluchawki.png" group-title="House" radio="true",CYBERStacja
+https://sc.cyberstacja.pl:8000/radio.mp3
 # 72FM: https://72fm.com/station/d218c77d-cffc-11e9-a861-52543be04c81
 #EXTINF:-1 tvg-logo="https://openlab.fm/apple-touch-icon.png" group-title="House" radio="true",OpenLab Radio
 https://ice04.fluidstream.net/openlab.mp3
 # 72FM: https://72fm.com/station/b519c8ff-1862-40e2-9102-7e9a8297801c
 #EXTINF:-1 group-title="House" radio="true",90s Heaven
 https://sp3.streams.ovh/8070/stream
-# 72FM: https://72fm.com/station/d06dd5cb-97f4-48f6-8146-ec89e7b94cc0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5695X1x/T100-BRR-CH.png" group-title="House" radio="true",-- # TOP 100 CHARTS --- DJ MIXES -- Pop, Rock, Dance, House, Techno, Trance, Electro, Hip-Hop, Rap, RnB, Reggaeton, Latin, Jazz, Blues, Soul, Funk, Metal, Indie, Alternative, Chillout, Lounge, Ambient, Classical, Acoustic, Party, Hits, Charts, Oldies, 80s, 90s, EDM, Club, Deep House, Tropical, Mood, Love Songs, Workout, Relax
-https://breakz-high.rautemusik.fm/?ref=rb-djclubcharts0326
+# 72FM: https://72fm.com/station/f9f1e392-ef72-458d-9c7f-799505228cd1
+#EXTINF:-1 group-title="House" radio="true",Exclusively Moby
+https://streaming.exclusive.radio/er/moby/icecast.audio
 # 72FM: https://72fm.com/station/9627bbaa-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Radio 105 - InDaKlubb
 http://icy.unitedradio.it/105InDaKlubb.mp3
-# 72FM: https://72fm.com/station/b12c6c40-6c03-426b-b7f3-d1dedc6a14e0
-#EXTINF:-1 group-title="House" radio="true",Laut.fm/radioparty
-http://radioparty.stream.laut.fm/radioparty
 # 72FM: https://72fm.com/station/c5b94fa4-8b6d-4aa6-b0cc-5689098a8845
 #EXTINF:-1 tvg-logo="https://nia.nc/static/icons/apple-touch-icon.png" group-title="House" radio="true",NIA Radio - Pacifique
 https://radio.nia.nc/radio/8000/pacific-hq-stream.aac
@@ -551,7 +521,7 @@ http://www.radioking.com/play/supag
 #EXTINF:-1 group-title="House" radio="true",Deep Link Radio - Old Soulful House Music
 https://deeperlink.com:8052/soulful
 # 72FM: https://72fm.com/station/8cda8d0d-6166-4881-b9e3-db0994ce23be
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7PzyGxb/Deep-House-TL.png" group-title="House" radio="true",0R - DEEP HOUSE || Chillout, Ambient House, Chill, Lounge, Electronic, Dance, Smooth, Vocal, Club, Night, Party, Groove, Melodic, Summer, Beat
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7PzyGxb/Deep-House-TL.png" group-title="House" radio="true",0R - DEEP HOUSE || Chillout, Ambient House, Chill, Lounge, Electronic, Dance, Smooth, Vocal, Club, Night, Party, Groove,
 https://0nlineradio.radioho.st/technolovers-deep-house?ref=radio-browser26
 # 72FM: https://72fm.com/station/960dd29f-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",ChartHits.FM
@@ -571,9 +541,6 @@ http://channels.dinamo.fm/legacy-mp3
 # 72FM: https://72fm.com/station/f0df6e39-68b5-4026-9d83-51af63ddfdc6
 #EXTINF:-1 tvg-logo="https://uzic.ch/wp-content/uploads/2025/06/logo_uzic-150x150.png" group-title="House" radio="true",UZIC.CH :: TECHNO - MINIMAL :: best of electronic with techno minimal electro house and progressive
 https://uzic.ice.infomaniak.ch/uzic-128.aac
-# 72FM: https://72fm.com/station/bfd55baa-e4dc-4726-ba51-956756821b20
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xtxNVZnG/Logo-WORLD-CLUB-DOME-Radio-2500x2500.jpg" group-title="House" radio="true",WORLD CLUB DOME Radio - Das offizielle Radio des WORLD CLUB DOME Festivals mit den besten DJ-Sets und dem Livestream vom größten Club der Welt - Dance, Electro, EDM, Techno, DJ Live Sets
-https://radio.worldclubdome.com/wcd-radio/mp3-192?ref=radiobrowser
 # 72FM: https://72fm.com/station/c211df69-480e-4d6b-b29d-b3dbec1f6594
 #EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2020/06/IBIZA-World-Club-1-100x100.png" group-title="House" radio="true",Ibiza World Club Tour Channel
 https://ibiza-audiomediaradio.radioca.st/ibiza
@@ -589,30 +556,18 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.
 # 72FM: https://72fm.com/station/d3fe1382-aed1-4737-8663-dc8a2732b099
 #EXTINF:-1 group-title="House" radio="true",DFM - Club
 https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp
+# 72FM: https://72fm.com/station/a6e8bb41-9417-46b8-8627-46d5e26b86c5
+#EXTINF:-1 tvg-logo="https://star919fm.co.za/storage/2022/08/cropped-StarFm_Logo-2048x1453-1-192x192.png" group-title="House" radio="true",StarFM
+https://edge.iono.fm/xice/112_medium.aac
 # 72FM: https://72fm.com/station/560e0caf-8e29-42ac-91c9-a37f71625ffc
 #EXTINF:-1 tvg-logo="https://www.topradio.be/favicons/favicon-196x196.png" group-title="House" radio="true",Topradio TopRetroArena
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac
-# 72FM: https://72fm.com/station/c31c81e6-90c6-4457-a115-1851dacb7e2f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vzVWgBK/einfach-nur-charts-Kopie.jpg" group-title="House" radio="true",- CHARTS <3 EINFACH....DEIN LIEBLINGSRADIO <3, BEST OF REMIXES, CLUB, DANCE, HANDSUP, MASHUP, REMIX, DJ / DEEJAY, LIVE, TANZMUSIK, GROOVE, EDM, HARD, RAVE, DEEP HOUSE, CHILLOUT, TOP 100, TOP 40, REMIX RADIO, MIX, LOUNGE, SUNSET, AFRO HOUSE, HARDSTYLE, EDM, BLACK, RNB, HIP HOP, MIX, DEEP, SLOW, SLEEP, GERMAN DEEJAY RADIO, MIXED DJ SET, FESTIVAL, MAINSTREAM, DE, US, EN RADIO
-https://breakz-high.rautemusik.fm/?ref=radiobrowser-LOVE
-# 72FM: https://72fm.com/station/f42f16f0-d256-42f3-8cce-390ddbe45270
-#EXTINF:-1 group-title="House" radio="true",M.Deep Radio
-https://deephousex.ru/live
-# 72FM: https://72fm.com/station/cc4928e9-f513-4c59-b42c-56097b881431
-#EXTINF:-1 tvg-logo="https://ilikeitoldskool.co.uk/favicon.ico" group-title="House" radio="true",I Like It Oldskool
-https://ilikeitoldskool.radioca.st/stream
 # 72FM: https://72fm.com/station/1902f0b2-f1dd-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",Dancezone
 http://dancezone.stream.laut.fm/dancezone
-# 72FM: https://72fm.com/station/6848c374-9dd5-4baa-abcb-05225d640f11
-#EXTINF:-1 group-title="House" radio="true",Technolovers BIG ROOM
-https://stream.technolovers.fm/tropical-house?ref=radiobrowser
 # 72FM: https://72fm.com/station/3f49bd02-5f8b-468b-88b0-c7bcdfd8291a
 #EXTINF:-1 tvg-logo="https://cloud.rtl.it/assets/www.rtl.it/3.0.64/img/logo/favicon-96x96.png" group-title="House" radio="true",RTL 102.5 Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/Sz3kCA55PrRh/playlist_audio.m3u8
-# 72FM: https://72fm.com/station/215ea027-4fe8-4a4c-9f29-71ab4a659630
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5jrHLWC/DJ-CLUB-CHARTS.png" group-title="House" radio="true",#CLUB CHARTS -> TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB - CHILLOUT - LOUNGE - RAVE - PARTY MUSIC - NIGHTLIFE - URBAN - HIP HOP - RNB - AFRO HOUSE - LATIN HOUSE - TRANCE - HARDSTYLE - HARDCORE
-https://radio.breakz.fm/?ref=club2-71
 # 72FM: https://72fm.com/station/df1335f0-a069-43a3-9a48-9386452d8f08
 #EXTINF:-1 group-title="House" radio="true",DFM - Dancehall
 https://dfm-dancehall.hostingradio.ru/dancehall96.aacp
@@ -640,6 +595,9 @@ https://netlabelorg.stream.laut.fm/netlabel_org
 # 72FM: https://72fm.com/station/96275a97-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",RadioGora - Electro
 http://listen.radiogora.ru:8000/electro128
+# 72FM: https://72fm.com/station/65dc00f6-2a86-4195-a64f-91aed29bd153
+#EXTINF:-1 tvg-logo="https://powerfm.org/favicon.ico" group-title="House" radio="true",PowerFM Dublin 320Kbps MP3
+https://www.powerfm.org:8443/powerfm.mp3
 # 72FM: https://72fm.com/station/3667d110-ba77-4430-83f7-28d014e2a6cb
 #EXTINF:-1 group-title="House" radio="true",BeachGrooves Radio
 https://stream.beachgrooves.com:9000/stream.mp3
@@ -649,12 +607,6 @@ http://traxx001.ice.infomaniak.ch/traxx001-low.mp3
 # 72FM: https://72fm.com/station/12ee4a5a-f2c4-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-charts_600x600.jpg" group-title="House" radio="true",- 0 N - Charts on Radio
 https://0n-charts.radionetz.de/0n-charts.aac
-# 72FM: https://72fm.com/station/df2ef0fb-5019-4eb0-bfea-fa21e6a7e609
-#EXTINF:-1 tvg-logo="https://musicradio.ai/wp-content/uploads/2025/03/logo_musicradio.jpg" group-title="House" radio="true",Music Radio
-https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
-# 72FM: https://72fm.com/station/359d6083-ad87-45b6-bfd8-d9bbf1dae021
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7ZpK6VV/Soft-House.png" group-title="House" radio="true",0R - SOFT HOUSE || Chill, Lounge, Dance, Deep House, Smooth, Vocal, Party, Electronic, Club, Night, Beat, Melodic, Summer, Relax
-https://0nlineradio.radioho.st/lounge-soft-house-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/895d1ea6-4abf-44cd-94bd-64f3f7c69a40
 #EXTINF:-1 group-title="House" radio="true",0nlineradio 2010er
 https://stream.0nlineradio.com/2010er?ref=radiobrowser
@@ -662,7 +614,7 @@ https://stream.0nlineradio.com/2010er?ref=radiobrowser
 #EXTINF:-1 group-title="House" radio="true",Radio E
 http://radioe.net:8080/efm_high
 # 72FM: https://72fm.com/station/ef0f4fda-76d2-4fc1-88f0-8e150b0509bd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j9rLGNvn/Beach-club-lounge.png" group-title="House" radio="true",0R - BEACH CLUB LOUNGE || Lounge, Chill, Deep House, Balearic, Summer, Relax, Tropical, Beach, Cafe, Cocktails, Smooth, Sunset, Downtempo, Background, Vibes
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9rLGNvn/Beach-club-lounge.png" group-title="House" radio="true",0R - BEACH CLUB LOUNGE || Lounge, Chill, Deep House, Balearic, Summer, Relax, Tropical, Beach, Cafe, Cocktails, Smooth,
 https://0nlineradio.radioho.st/lounge-beach-club-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/b200fa87-76ec-4afc-9eef-6a609ef9d4b8
 #EXTINF:-1 group-title="House" radio="true",Energy 1058
@@ -670,9 +622,6 @@ http://tachyon.shoutca.st:8590/stream
 # 72FM: https://72fm.com/station/849c65bc-f3dd-4aeb-abaa-3d4316387b67
 #EXTINF:-1 group-title="House" radio="true",105 Miami
 https://icy.unitedradio.it/105Miami.mp3
-# 72FM: https://72fm.com/station/4e1be495-4fec-4c8d-9ab3-b8a2f2e755af
-#EXTINF:-1 group-title="House" radio="true",BreakZ.FM - Charts & Remixe
-https://stream.breakz.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/0d189e3e-ad03-47ee-ab30-4976effb8ec4
 #EXTINF:-1 group-title="House" radio="true",Radio Monaco Mix DJ
 http://streaming503.radionomy.com/radio-monaco-mixdj
@@ -682,12 +631,9 @@ https://stream.technolovers.fm/lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/1b51bf1f-a6bf-4dd6-890f-5514bc370f17
 #EXTINF:-1 tvg-logo="https://megaradiomix.de/wp-content/uploads/2022/03/Radiologo600_600.png" group-title="House" radio="true",MEGARADIOmix
 https://play.megaradiomix.de/megaradiomix-berlin/mp3-192/
-# 72FM: https://72fm.com/station/f3d4ad2c-7252-4447-9cf4-fc4543ec54c6
-#EXTINF:-1 group-title="House" radio="true",Yammat FM
-https://stream.yammat.fm/radio/8000/yammat.mp3
-# 72FM: https://72fm.com/station/b5b62117-297c-48f6-8eb0-de2e510f8374
-#EXTINF:-1 group-title="House" radio="true",Street Sounds Radio
-https://streaming.broadcastradio.com:10525/streetsd
+# 72FM: https://72fm.com/station/51875a1a-f360-11e8-a471-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg" group-title="House" radio="true",- 0 N - Dance on Radio
+https://0n-dance.radionetz.de/0n-dance.aac
 # 72FM: https://72fm.com/station/96167076-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="House" radio="true",FluxFM - Sound Of Berlin
 http://streams.fluxfm.de/soundofberlin/aac-64
@@ -700,9 +646,6 @@ https://malta1491.startdedicated.de:8443/main
 # 72FM: https://72fm.com/station/bad181d3-0631-4f87-b5c3-0001be35f22e
 #EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="House" radio="true",BraveFM #mashup
 http://stream.laut.fm/bravefmmashup
-# 72FM: https://72fm.com/station/39d7fb7f-fc35-4ac5-b33a-15854ca6656c
-#EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg" group-title="House" radio="true",Hits 1 Ibiza
-https://hits1spain-audiomediaradio.radioca.st/hits1mallorca
 # 72FM: https://72fm.com/station/5f774691-05c7-48d6-89e0-26f39aacb3aa
 #EXTINF:-1 group-title="House" radio="true",Athens Free Radio
 http://n12.radiojar.com/e206r95qsp8uv?rj-ttl=5&rj-tok=AAABhMPbz3sAf9_4FoIJiUmkoA
@@ -712,12 +655,12 @@ https://techno-paradize.stream.laut.fm/techno-paradize?t302=2021-12-12_09-00-32&
 # 72FM: https://72fm.com/station/0bb76397-9a22-4b32-9acb-daa9187a21e4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvH6ntxk/technolovershouse.jpg" group-title="House" radio="true",Technolovers.fm - House
 https://stream.technolovers.fm/house
+# 72FM: https://72fm.com/station/9822a0c8-4ffa-45e8-bd6a-41f9f0253638
+#EXTINF:-1 group-title="House" radio="true",Radio 7 Poland
+https://stream.radio7.pl/;
 # 72FM: https://72fm.com/station/bb9cb63d-f23a-4514-b9a0-9027f1c7d028
 #EXTINF:-1 tvg-logo="https://www.ibizaglobalradio.com/dist/img/logo-igr-20.svg" group-title="House" radio="true",Ibiza Global Classics
 https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3
-# 72FM: https://72fm.com/station/0acb538a-ab84-4a23-85bf-8bf16eac5be7
-#EXTINF:-1 tvg-logo="https://www.pulseedm.com/images/pulsetop.jpg" group-title="House" radio="true",PulseEDM
-http://pulseedm.cdnstream1.com:8124/1373_128
 # 72FM: https://72fm.com/station/2e10cfad-23c8-4ecb-b89c-ed41ea5e56aa
 #EXTINF:-1 group-title="House" radio="true",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
@@ -745,9 +688,6 @@ https://stream.technolovers.fm/minimal
 # 72FM: https://72fm.com/station/c47820b3-e0ec-49f6-b51b-d88b604e1d2b
 #EXTINF:-1 group-title="House" radio="true",WeHouseRadio
 https://stream.zunradio.cz/zun2.aac
-# 72FM: https://72fm.com/station/d2338167-e4e0-4ff2-883a-cadb6462be16
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0J7g21/main-mornin-party-night.jpg" group-title="House" radio="true",# Mainstream Mornings & Party Nights - (Morning/Day: Mainstream, Top 40, Charts - Evening/Night: Party, House, Techno, DJ Mixes, Live DJs)
-https://breakz-high.rautemusik.fm/?ref=maindjatnightrb
 # 72FM: https://72fm.com/station/16e673e4-ffa0-11e8-a1be-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radiorbs.com/app/themes/rbs/build/images/favicon/apple-touch-icon.png" group-title="House" radio="true",Radio RBS
 https://www.radioking.com/play/radio-rbs-1
@@ -760,9 +700,6 @@ https://takeadj-radio.stream.laut.fm/takeadj-radio
 # 72FM: https://72fm.com/station/5e063320-07d6-4d99-a434-f34e7e2a7431
 #EXTINF:-1 tvg-logo="https://image.radioking.io/radios/701141/logo/6451afd2-e9e2-4738-a826-eea1b1ba0585.jpeg" group-title="House" radio="true",Pescobar Radio
 https://listen.radioking.com/radio/701141/stream/766385
-# 72FM: https://72fm.com/station/ac26c83c-f375-4cf9-9206-5254e55f0876
-#EXTINF:-1 tvg-logo="https://radiogoose.ru/res/logo/radiogoose.png" group-title="House" radio="true",РАДИО ГУСЬ
-https://stream4.radiogoose.ru/listen/radiogoose/play
 # 72FM: https://72fm.com/station/ea55402f-d084-4b3e-b2f2-32925de9b16a
 #EXTINF:-1 tvg-logo="https://www.hardhouseuk.net/assets/images/hhuk_Logo_Light_gray.png" group-title="House" radio="true",Hard House UK Radio
 http://hhuk.netmindz.net:8000/;
@@ -791,17 +728,17 @@ https://supraviberadio-radiohosting.radioca.st/stream
 #EXTINF:-1 group-title="House" radio="true",Dosis Electrónica Radio
 https://stream.zeno.fm/1zc80p7dyzzuv
 # 72FM: https://72fm.com/station/991dd9d5-2a83-47ff-a8bb-99e1e948ffe6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbM5ns1q/Afro-House.png" group-title="House" radio="true",* AFRO HOUSE || Afro Tech, Deep House, Organic House, Tribal House, Melodic House, Tropical House, Ethnic House, Latin House, Percussion House, Beach Vibes, Summer Vibes, Sunset Grooves, Ibiza Vibes, Warm Up Grooves
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbM5ns1q/Afro-House.png" group-title="House" radio="true",* AFRO HOUSE || Afro Tech, Deep House, Organic House, Tribal House, Melodic House, Tropical House, Ethnic House, Latin H
 https://0nlineradio.radioho.st/technolovers-afro-house?ref=radio-browser26
 # 72FM: https://72fm.com/station/4d4a1c8a-8aae-4431-af41-4b9821399003
 #EXTINF:-1 group-title="House" radio="true",La Patate Douce
 http://listen.radioking.com/radio/285742/stream/331753
+# 72FM: https://72fm.com/station/95a8fd5a-11a7-4237-90d2-4c10d0c5c175
+#EXTINF:-1 group-title="House" radio="true",109FM
+https://solid48.streamupsolutions.com/proxy/cfujtbgw/109fm
 # 72FM: https://72fm.com/station/2c3eac2c-4588-42d3-9c2e-0c6e99afaf6e
 #EXTINF:-1 tvg-logo="https://www.eruptionradio.uk/site/wp-content/uploads/2019/12/cropped-fav1-192x192.jpg" group-title="House" radio="true",Eruption Radio
 http://streaming04.liveboxstream.uk:8116/stream
-# 72FM: https://72fm.com/station/ad6392da-3a96-11e9-9b4e-52543be04c81
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg" group-title="House" radio="true",- 0 N - Dance on Radio
-https://0n-dance.radionetz.de/0n-dance.aac
 # 72FM: https://72fm.com/station/f6bc1537-107b-46a1-9c81-f25839474911
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GVxMgd/sunshineradio.png" group-title="House" radio="true",Sunrise Radio (Czechia)
 https://stream.laut.fm/radio-dance-eu
@@ -826,6 +763,9 @@ http://radio.garden/api/ara/content/listen/Zrs6jv66/channel.mp3
 # 72FM: https://72fm.com/station/e3ae1493-433e-4793-834e-a32aae9ed36e
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1vp8G-7y84Wj6J4T_G5Kvh52sDZJspA8G/view?usp=sharing" group-title="House" radio="true",Smart Zeros
 https://s61.radiolize.com//radio//8000//radio.mp3
+# 72FM: https://72fm.com/station/e3a1443a-d314-4578-be34-2f76d80c9848
+#EXTINF:-1 group-title="House" radio="true",Radio Caprice - Garage / New York House [2]
+http://79.120.12.130:8000/garagehouse
 # 72FM: https://72fm.com/station/9467b580-dd8b-44d6-b99a-6ac688a50786
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png" group-title="House" radio="true",ISEKOI Radio | Chill Zone
 https://public.isekoi-radio.com/listen/chill/radio.mp3
@@ -853,6 +793,9 @@ http://stream.laut.fm/djbronko
 # 72FM: https://72fm.com/station/fd391e3c-3832-4a21-88a8-7a1e45983ba4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sunshine_live_Logo_2022.svg/220px-Sunshine_live_Logo_2022.svg.png" group-title="House" radio="true",Sunshine Live House (aac 64 kbps)
 https://stream.sunshine-live.de/house/aac-64/stream.sunshine-live.de
+# 72FM: https://72fm.com/station/e8d1b46c-0980-497b-9fd9-f7ed4c92ff74
+#EXTINF:-1 group-title="House" radio="true",Кинозал.ТВ
+https://listen7.myradio24.com/kinozaltv
 # 72FM: https://72fm.com/station/772aa985-0c95-4962-9870-cdf84ea14368
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s78631d.png" group-title="House" radio="true",Deep Motion FM
 https://vm.motionfm.com/motionone_free
@@ -868,9 +811,6 @@ http://useless.streams.enation.fm:8000/
 # 72FM: https://72fm.com/station/d8a6e804-eee4-429b-a639-bafcd93372b8
 #EXTINF:-1 group-title="House" radio="true",Radio Sputnik
 http://radiosputnik.nl:8002/flac
-# 72FM: https://72fm.com/station/91e3ff7d-3735-4fbf-abce-8c3743327178
-#EXTINF:-1 group-title="House" radio="true",Exclusively Mobi
-https://streaming.exclusive.radio/er/moby/icecast.audio
 # 72FM: https://72fm.com/station/e674f88d-c73f-45b8-a7d5-e08a821e1cf8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.pnghttps://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="House" radio="true",Frisky Classics
 https://stream.classics.friskyradio.com/classics_mp3_high
@@ -892,15 +832,75 @@ https://streaming.radio.co/s0d090ee43/listen
 # 72FM: https://72fm.com/station/156661f7-db32-4f54-9075-a731703fbc25
 #EXTINF:-1 tvg-logo="https://play.axradio.net/img/favicon.png" group-title="House" radio="true",Ax Radio!
 https://m.axradio.net/stream.mp3
-# 72FM: https://72fm.com/station/019b7a8c-8c96-4b9c-a2bd-eef78904c03c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tRmQWPq/T40-DJ-CHarts.png" group-title="House" radio="true",# TOP 40 DEEJAY CHARTS – CLUB CHARTS NONSTOP - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno, Techhouse & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
-https://breakz-high.rautemusik.fm/?ref=26T40
 # 72FM: https://72fm.com/station/24bac9b6-f374-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-charts_600x600.jpg" group-title="House" radio="true",- 1 A - Charts von 1A Radio
 https://1a-charts.radionetz.de/1a-charts.aac
-# 72FM: https://72fm.com/station/124c45d7-57a9-46ed-8b93-83b306992126
-#EXTINF:-1 group-title="House" radio="true",XL:UK Radio
-https://s3.radio.co/s113a5dc46/listen
 # 72FM: https://72fm.com/station/850be23c-3c26-4dbf-955a-02b139d39a5f
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/53d6c3efe4b07a1cdbbae414/1520288879144-STBAF8R3I9C523AUA4LS/favicon.ico?format=100w" group-title="House" radio="true",Rocket Radio 1
 https://stream.radiojar.com/nvvyes7gud5tv
+# 72FM: https://72fm.com/station/8ec0bf55-49b9-44ce-8b56-406d625bb7f1
+#EXTINF:-1 group-title="House" radio="true",Radio Galaxy 99
+https://solid1.streamupsolutions.com/proxy/tfcgioyq?mp=/stream
+# 72FM: https://72fm.com/station/bd7b88e2-1d2c-46b7-a87e-0d4ec56368b2
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-hot_600x600.jpg" group-title="House" radio="true",- 0 N - Hot on Radio
+https://0n-hot.radionetz.de/0n-hot.mp3
+# 72FM: https://72fm.com/station/c7980a38-4cf7-4390-9124-2f1d6eafc583
+#EXTINF:-1 tvg-logo="https://www.antennanetwork.net/e73cce9f688f2b6a3aa5f708750d9a27.png" group-title="House" radio="true",Antenna Network
+http://stream.laut.fm/antenna-network
+# 72FM: https://72fm.com/station/755b960d-8ba8-4e43-986b-89abac57c3dc
+#EXTINF:-1 group-title="House" radio="true",BeachGrooves Radio
+https://stream.beachgrooves.com:9000/stream
+# 72FM: https://72fm.com/station/6efb6188-fcee-4a56-86ce-26e3e6fcd2fa
+#EXTINF:-1 group-title="House" radio="true",Radio Aviva
+https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3
+# 72FM: https://72fm.com/station/bb278b88-3836-479d-9ad7-7a3d5c07b001
+#EXTINF:-1 tvg-logo="https://deepspaceradio.com/" group-title="House" radio="true",Deep Space Radio
+https://ais-edge102-live365-dal02.cdnstream.com/a71161
+# 72FM: https://72fm.com/station/9644e358-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="House" radio="true",FluxFM - Sound Of Berlin
+http://fluxfm.streamabc.net/flx-soundofberlin-mp3-128-4733149?sABC=6noq8p4n%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790807114
+# 72FM: https://72fm.com/station/e1fe4418-5a75-488b-ad97-9e344ea078e7
+#EXTINF:-1 group-title="House" radio="true",Game FM
+http://game-fm.stream.laut.fm/game-fm
+# 72FM: https://72fm.com/station/b7c68b4f-2842-431f-8b78-4e41a6f15bd4
+#EXTINF:-1 group-title="House" radio="true",MusikNation
+http://musiknation.stream.laut.fm/musiknation
+# 72FM: https://72fm.com/station/05787610-4bdf-493f-a69b-10219f49f04a
+#EXTINF:-1 group-title="House" radio="true",Renegade Radio
+http://149.255.60.195:8085/stream
+# 72FM: https://72fm.com/station/0f894e67-7d53-4d60-9aa8-f3b6e208bf1b
+#EXTINF:-1 group-title="House" radio="true",1st-House
+https://stream.laut.fm/1st-house
+# 72FM: https://72fm.com/station/1f947e3f-9718-4006-b9cf-21ab08ee0996
+#EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="House" radio="true",RMC - RADIO MUZYKA CZLOWIEK
+http://s1.slotex.pl:7030/stream/
+# 72FM: https://72fm.com/station/19b293b5-df15-4efe-8384-c77c0f13492b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhdBgvJ/image.jpg" group-title="House" radio="true",Radio Freedom (MP3)
+http://stream.zeno.fm/sbm7c72dbkhvv
+# 72FM: https://72fm.com/station/2d73678a-1e0f-4fbb-86e0-fc981b58081f
+#EXTINF:-1 group-title="House" radio="true",deep pressure music
+http://stream.laut.fm/deep-pressure-music
+# 72FM: https://72fm.com/station/fb325f39-3ec5-449f-87ed-c139bdaf1408
+#EXTINF:-1 tvg-logo="https://cdn.shopk.it/assets/logo/shopkit-abbr-black-64x64.png" group-title="House" radio="true",FOQO
+http://185.32.188.17:8003/stream
+# 72FM: https://72fm.com/station/1799ea92-425e-4f83-a8bc-154232d75d07
+#EXTINF:-1 group-title="House" radio="true",Radio FFN - 80er
+https://stream.ffn.de/peppermintfm/mp3-192/?ref=radio-browser
+# 72FM: https://72fm.com/station/2d28b62d-8471-4481-8b4f-f7352a86bf06
+#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="House" radio="true",Pyro-Tec Retro
+http://stream.zeno.fm/nqtl8hjdqzxvv
+# 72FM: https://72fm.com/station/1ecb70fa-43b0-4eca-9462-31e94f7ace1d
+#EXTINF:-1 tvg-logo="https://www.radio.net/300/lautfm-deep-house-sounds.jpeg" group-title="House" radio="true",Deep House Sounds
+https://deep-house-sounds.stream.laut.fm/deep-house-sounds
+# 72FM: https://72fm.com/station/b74bb2f0-0c5f-49dc-b9e4-7843c40f6e8b
+#EXTINF:-1 group-title="House" radio="true",Radio Marketescu House&Minimal
+https://s31.radiolize.com/radio/8020/radio.mp3
+# 72FM: https://72fm.com/station/d7d9b1c2-6a40-409c-917b-6cd2c8081103
+#EXTINF:-1 group-title="House" radio="true",SKGLOBE.NET | MIXED EMOTIONS
+https://smartstream.link/mixedemotions
+# 72FM: https://72fm.com/station/6dae7585-bf43-4c4f-a3dd-6a6b44354c64
+#EXTINF:-1 tvg-logo="https://deephouseradio.co/img/deephouseradio.png" group-title="House" radio="true",Deep House Radio
+https://home.radionrg.com/hls/deephouse/live.m3u8
+# 72FM: https://72fm.com/station/166d5f18-31cc-463d-940f-fa36f916586d
+#EXTINF:-1 group-title="House" radio="true",Mix Radio
+http://45.67.156.157:18006/live
