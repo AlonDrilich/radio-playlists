@@ -652,6 +652,9 @@ http://proxima.shoutca.st:8219/stream
 # 72FM: https://72fm.com/station/5cff4bd3-6fc4-4c2b-8f40-670b11aef8db
 #EXTINF:-1 tvg-logo="https://anchorfm.sgp1.cdn.digitaloceanspaces.com/dfd86453-6f27-41cf-b542-82108f39233a/files/stationLogo.png" group-title="Philippines" radio="true",Anchor 101.1FM Davao
 https://icecast.theanchor.app/bbbc
+# 72FM: https://72fm.com/station/ec323e9e-6096-4823-99af-dd208721d768
+#EXTINF:-1 group-title="Philippines" radio="true",Islamic Radio Filipino
+http://104.7.66.64:8009/;?icy=http
 # 72FM: https://72fm.com/station/4d60dcf0-5ad1-486f-b442-4c6e9bf7420a
 #EXTINF:-1 tvg-logo="https://www.brigadanews.ph/wp-content/uploads/2025/02/images.png" group-title="Philippines" radio="true",Brigada News FM Pagadian
 http://18.141.67.248:8022/stream/1/
@@ -667,9 +670,6 @@ https://stream.zeno.fm/a3ggpf8rt6duv
 # 72FM: https://72fm.com/station/71470a65-8611-4997-b3c5-a80e451b56c7
 #EXTINF:-1 tvg-logo="https://brigadanews.ph/fmstreamv2/assets/stationLogo/null.jpg" group-title="Philippines" radio="true",Brigada News FM Roxas
 http://18.141.67.248:8076/stream/1/
-# 72FM: https://72fm.com/station/ec323e9e-6096-4823-99af-dd208721d768
-#EXTINF:-1 group-title="Philippines" radio="true",Islamic Radio Filipino
-http://104.7.66.64:8009/;?icy=http
 # 72FM: https://72fm.com/station/e0fd4149-1ac9-4d81-a26a-f3b1a44e0d95
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240421_064020824.jpg?alt=media&token=1bc711a7-80f7-4873-85ba-e4f3d5653c57" group-title="Philippines" radio="true",Filipino Music Central
 https://stream.zeno.fm/yqkru9yv3yzuv

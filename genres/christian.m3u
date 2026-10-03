@@ -613,12 +613,12 @@ http://rs16.stream24.org:8000/horeb.mp3
 # 72FM: https://72fm.com/station/96261217-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Christian" radio="true",SW-Radio Deutsch (32kbps)
 http://www.segenswelle.de:8000/deutsch-aac
-# 72FM: https://72fm.com/station/28b6841b-21a9-43f3-bfd2-9d95a113374c
-#EXTINF:-1 tvg-logo="https://nlradio.net/wp-content/uploads/2022/07/cropped-cfqn-180x180.png" group-title="Christian" radio="true",Радио Новая Жизнь
-https://nlradio.stream/hifi
 # 72FM: https://72fm.com/station/ad312071-8c69-11e9-ad01-52543be04c81
 #EXTINF:-1 group-title="Christian" radio="true",Aniol Beskidów
 http://media.aniolbeskidow.pl:22000/aniolbeskidow
+# 72FM: https://72fm.com/station/28b6841b-21a9-43f3-bfd2-9d95a113374c
+#EXTINF:-1 tvg-logo="https://nlradio.net/wp-content/uploads/2022/07/cropped-cfqn-180x180.png" group-title="Christian" radio="true",Радио Новая Жизнь
+https://nlradio.stream/hifi
 # 72FM: https://72fm.com/station/c05f4f24-e7c4-4406-8124-7ce5d5db1338
 #EXTINF:-1 group-title="Christian" radio="true",BBN Portuguese
 https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
@@ -844,6 +844,9 @@ https://ch-be06-ice.dmd2streaming.com/radiogloria_lo
 # 72FM: https://72fm.com/station/6a1341b8-1737-11e9-a80b-52543be04c81
 #EXTINF:-1 group-title="Christian" radio="true",Радио Томский Благовест
 http://176.65.38.3:8000/blagovest
+# 72FM: https://72fm.com/station/474b0d73-8791-4171-a8e7-3ea6bee5fd51
+#EXTINF:-1 tvg-logo="https://radio.parousiaempire.org/static/uploads/parousia_radio/album_art.1744238663.jpg" group-title="Christian" radio="true",Parousia Radio
+https://radio.parousiaempire.org:8000/radio.mp3
 # 72FM: https://72fm.com/station/1b5ab69d-b35b-4481-bba7-d25d21845276
 #EXTINF:-1 group-title="Christian" radio="true",Radio for Jesus
 http://s2.stationplaylist.com:7132/listen.aac
@@ -856,9 +859,6 @@ http://us3.streamingpulse.com:7224/stream
 # 72FM: https://72fm.com/station/e50bf0ca-4aeb-4f5f-b0ad-6a57955afb7e
 #EXTINF:-1 tvg-logo="https://radio.lifechannel.ch/favicon.ico" group-title="Christian" radio="true",Life Channel
 https://stream1.lifechannel.ch/LIFECHANNEL
-# 72FM: https://72fm.com/station/474b0d73-8791-4171-a8e7-3ea6bee5fd51
-#EXTINF:-1 tvg-logo="https://radio.parousiaempire.org/static/uploads/parousia_radio/album_art.1744238663.jpg" group-title="Christian" radio="true",Parousia Radio
-https://radio.parousiaempire.org:8000/radio.mp3
 # 72FM: https://72fm.com/station/d49c2e1b-3bb7-494f-bfaa-0f677d1bda61
 #EXTINF:-1 tvg-logo="https://www.pemptousia.gr/wp-content/themes/pemptousia_gr/favicon/apple-icon-120x120.png" group-title="Christian" radio="true",Pemptousia
 http://n11.radiojar.com/48cz219puzzuv?rj-ttl=5&rj-tok=AAABeRN9wesAFTQFvTg0K7vGZg

@@ -427,12 +427,12 @@ http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/5a6946a2-f02f-4fd1-a16b-558c90150041
 #EXTINF:-1 tvg-logo="https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png" group-title="Germany" radio="true",Deutschlandfunk | DLF | OPUS 24k
 https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus?aggregator=web
-# 72FM: https://72fm.com/station/960ed525-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://housetime.fm/media/icons/ht/apple-touch-icon.png" group-title="Germany" radio="true",HouseTime.FM
-https://listen.housetime.fm/tunein-aac-hd-pls
 # 72FM: https://72fm.com/station/c0646941-d526-44c2-ad99-dbb793678055
 #EXTINF:-1 tvg-logo="https://www.hr3.de/favicon.png?v=3.85.2" group-title="Germany" radio="true",HR3
 http://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/960ed525-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://housetime.fm/media/icons/ht/apple-touch-icon.png" group-title="Germany" radio="true",HouseTime.FM
+https://listen.housetime.fm/tunein-aac-hd-pls
 # 72FM: https://72fm.com/station/9615dcbc-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany" radio="true",Antenne Bayern - Hitmix
 http://mp3channels.webradio.antenne.de/hitmix
@@ -679,12 +679,12 @@ https://mp3channels.webradio.de/coffee
 # 72FM: https://72fm.com/station/cbcff885-49bb-4db1-8b78-7060e70ff06d
 #EXTINF:-1 group-title="Germany" radio="true",Technolovers DRUM N BASS
 https://stream.technolovers.fm/drummnbass?ref=radiobrowser
-# 72FM: https://72fm.com/station/9618d1fc-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Germany" radio="true",RADIO BOB! BOBs 80er Rock
-http://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/
 # 72FM: https://72fm.com/station/1a8e42b8-9039-48c6-b137-6650dd983392
 #EXTINF:-1 group-title="Germany" radio="true",WDR2 - Ruhrgebiet
 http://wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/9618d1fc-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Germany" radio="true",RADIO BOB! BOBs 80er Rock
+http://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/
 # 72FM: https://72fm.com/station/01683d91-4e1e-4152-b1bc-30f2f1360b98
 #EXTINF:-1 tvg-logo="https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png" group-title="Germany" radio="true",Deutschlandfunk | DLF | AAC 96k
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web
@@ -703,12 +703,12 @@ https://sex-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/962a1121-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany" radio="true",Jam FM
 http://stream.jam.fm/jamfm-live/mp3-128/radio-browser.info/
-# 72FM: https://72fm.com/station/5143bb9a-3c5e-4c53-a6ec-0108435caf5a
-#EXTINF:-1 group-title="Germany" radio="true",CHILLOUT PIANO by Epic Piano
-https://stream.epic-piano.com/chillout-piano?ref=radiobrowser
 # 72FM: https://72fm.com/station/960df2cd-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Germany" radio="true",Antenne Bayern - Lovesongs
 http://stream.antenne.de/lovesongs
+# 72FM: https://72fm.com/station/5143bb9a-3c5e-4c53-a6ec-0108435caf5a
+#EXTINF:-1 group-title="Germany" radio="true",CHILLOUT PIANO by Epic Piano
+https://stream.epic-piano.com/chillout-piano?ref=radiobrowser
 # 72FM: https://72fm.com/station/036b5a3c-5418-4c26-ba35-25995cb872a8
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="Germany" radio="true",RBB Radio Eins
 http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3K6nZzYWFlWZHUmDAFjXiaah5Ce&token=P4mwK0w2Zvs6Ko-cuZRJBLxThvVNwBN5vg1q8Kh3AXA&tvf=pHVzGNWV2hhmMTExLnJuZGZuay5jb20
