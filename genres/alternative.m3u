@@ -112,12 +112,12 @@ http://stream.laut.fm/ultradarkradio
 # 72FM: https://72fm.com/station/02f3876d-ee77-449b-bae4-6cbb335d414b
 #EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="Alternative" radio="true",Radio Paradise Mellow Mix FLAC
 https://stream.radioparadise.com/mellow-flac
-# 72FM: https://72fm.com/station/119f07c3-81f0-4309-91e8-f46525f0d35d
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s6401/images/logog.png" group-title="Alternative" radio="true",KAYA FM 95.9
-http://edge.iono.fm/xhls/82_high.m3u8
 # 72FM: https://72fm.com/station/ec8a60a7-7257-401b-88c5-84af0cd57e04
 #EXTINF:-1 group-title="Alternative" radio="true",Radio ROKS New Rock
 http://online.radioroks.ua/RadioROKS_NewRock_HD
+# 72FM: https://72fm.com/station/119f07c3-81f0-4309-91e8-f46525f0d35d
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s6401/images/logog.png" group-title="Alternative" radio="true",KAYA FM 95.9
+http://edge.iono.fm/xhls/82_high.m3u8
 # 72FM: https://72fm.com/station/6a7508a9-27ab-11e8-91bf-52543be04c81
 #EXTINF:-1 group-title="Alternative" radio="true",KEXP 90.3 Seattle, WA
 http://live-mp3-128.kexp.org/kexp128.mp3
@@ -200,7 +200,7 @@ http://s2.stationplaylist.com:9460/guerrilla
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000103658408-5g7ohr-t500x500.jpg" group-title="Alternative" radio="true",Petőfi Rádió
 https://icast.connectmedia.hu/4738/mr2.mp3
 # 72FM: https://72fm.com/station/961f5d58-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/The_River_92.5_FM_logo.png" group-title="Alternative" radio="true",WXRV "92.5 The River" Andover, MA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/The_River_92.5_FM_logo.png" group-title="Alternative" radio="true",WXRV '92.5 The River' Andover, MA
 http://72.13.83.130:8010/;.mp3
 # 72FM: https://72fm.com/station/7fdd0fb3-9697-47a1-b36b-c3b84444ceec
 #EXTINF:-1 group-title="Alternative" radio="true",Radio Rosak
@@ -622,12 +622,12 @@ http://stream.laut.fm/shamanic_tunes
 # 72FM: https://72fm.com/station/bf8c3fd8-80bb-46f3-929b-effac0a1c31f
 #EXTINF:-1 group-title="Alternative" radio="true",Radio X 90s
 https://media-ice.musicradio.com/RadioX90sMP3
-# 72FM: https://72fm.com/station/d6dd9870-b68e-11e9-acb2-52543be04c81
-#EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="Alternative" radio="true",ROCKANTENNE Alternative (64 kbps AAC)
-http://mp3channels.webradio.rockantenne.de/alternative.aac
 # 72FM: https://72fm.com/station/7386f717-eca6-4767-ab26-e65438ca6cdd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg" group-title="Alternative" radio="true",Totally Radio - Rock (AAC)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01AAC.aac
+# 72FM: https://72fm.com/station/d6dd9870-b68e-11e9-acb2-52543be04c81
+#EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="Alternative" radio="true",ROCKANTENNE Alternative (64 kbps AAC)
+http://mp3channels.webradio.rockantenne.de/alternative.aac
 # 72FM: https://72fm.com/station/b3efdf8f-dba0-11e9-a8ba-52543be04c81
 #EXTINF:-1 tvg-logo="https://radioterminal.si/favicon.ico" group-title="Alternative" radio="true",Radio Terminal
 https://air.radioterminal.si/live
@@ -746,7 +746,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01.
 #EXTINF:-1 group-title="Alternative" radio="true",Tiquicia Rock
 https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873
 # 72FM: https://72fm.com/station/9622c018-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://kxt.org/wp-content/themes/kxt-joints/assets/images/apple-icon-touch.png" group-title="Alternative" radio="true",KKXT "KXT 91.7" Dallas, TX
+#EXTINF:-1 tvg-logo="https://kxt.org/wp-content/themes/kxt-joints/assets/images/apple-icon-touch.png" group-title="Alternative" radio="true",KKXT 'KXT 91.7' Dallas, TX
 http://kera-ice.streamguys.us/kxtlive64aacplus
 # 72FM: https://72fm.com/station/ce1e9521-8ad2-4e1a-a092-b3e08e6268c5
 #EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="Alternative" radio="true",KINK
@@ -754,6 +754,9 @@ https://25233.live.streamtheworld.com/KINKAAC2_SC
 # 72FM: https://72fm.com/station/0cf0aa9e-3def-49bd-838a-de40f2e647c4
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-deutsch-rock_600x600.jpg" group-title="Alternative" radio="true",- 0 N - Deutsch Rock on Radio
 https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3
+# 72FM: https://72fm.com/station/f9c08c41-c711-410c-9152-82d5cddc17ed
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpnRsBPM/Soft-Rock.png" group-title="Alternative" radio="true",0R - SOFT ROCK || Rock, Pop Rock, Ballads, Classic Rock, Soft, Guitar, Melodic, 70s, 80s, 90s, Easy Listening, Romantic,
+https://0nlineradio.radioho.st/0r-soft-rock?ref=radio-browser26
 # 72FM: https://72fm.com/station/e906f40e-080f-448a-9353-d6e6c08f8fb1
 #EXTINF:-1 group-title="Alternative" radio="true",Distortion Radio • Absolute Alternative
 http://s1.distortionradio.com/absolute-alternative-64
@@ -763,9 +766,6 @@ https://ice2.somafm.com/digitalis-256-mp3
 # 72FM: https://72fm.com/station/bf0efe51-43bf-4f56-8f1a-c2a00fdb09da
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/digitalis-400.jpg" group-title="Alternative" radio="true",SomaFM Digitalis (128k AAC)
 https://ice2.somafm.com/digitalis-128-aac
-# 72FM: https://72fm.com/station/f9c08c41-c711-410c-9152-82d5cddc17ed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpnRsBPM/Soft-Rock.png" group-title="Alternative" radio="true",0R - SOFT ROCK || Rock, Pop Rock, Ballads, Classic Rock, Soft, Guitar, Melodic, 70s, 80s, 90s, Easy Listening, Romantic,
-https://0nlineradio.radioho.st/0r-soft-rock?ref=radio-browser26
 # 72FM: https://72fm.com/station/0a40a0bf-761d-40cf-873e-71398ca05f55
 #EXTINF:-1 group-title="Alternative" radio="true",106.5 The END
 https://stream.revma.ihrhls.com/zc1597
@@ -860,7 +860,7 @@ http://stream.freefm.de:7000/Studio
 #EXTINF:-1 group-title="Alternative" radio="true",202.fm 020 Alternative
 http://listen.livestreamingservice.com/181-buzz_128k.mp3
 # 72FM: https://72fm.com/station/9621252b-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Alternative" radio="true",CFEX "X 92.9" Calgary, AB
+#EXTINF:-1 group-title="Alternative" radio="true",CFEX 'X 92.9' Calgary, AB
 http://cfex.streamon.fm/stream/CFEX-64k.aac
 # 72FM: https://72fm.com/station/c1e80f3d-25ca-11e8-91bf-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.89.0rtl.de/assets/icons/icon-152x152.png" group-title="Alternative" radio="true",89.0 RTL - Most Wanted

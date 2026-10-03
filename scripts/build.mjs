@@ -237,10 +237,18 @@ function flag(code) {
 const LINE_BREAKING = /[\u0000-\u001f\u007f-\u009f\u2028\u2029]/g;
 const INVISIBLE = /[\u200b\u2060-\u2064\u202a-\u202e\u2066-\u2069\ufeff\ufff9-\ufffb\ue000-\uf8ff]|[\u{e0000}-\u{e007f}\u{f0000}-\u{10ffff}]/gu;
 
+// Every other Default_Ignorable code point (variation selectors U+E0100.., combining grapheme joiner, fillers,
+// Mongolian selectors...) can hide text like the tag block does. ZWNJ, ZWJ and VS16 stay (emoji, Persian and
+// Indic text need them), but only in runs of at most two, because a long run can itself encode bits.
+const HIDDEN_CHANNELS = /(?![\u200C\u200D\uFE0F])\p{Default_Ignorable_Code_Point}/gu;
+const ZW_RUN = /([\u200C\u200D\uFE0F])([\u200C\u200D\uFE0F])[\u200C\u200D\uFE0F]+/gu;
+
 function cleanText(s, max = 200) {
   const t = String(s ?? '')
     .replace(LINE_BREAKING, ' ')
     .replace(INVISIBLE, '')
+    .replace(HIDDEN_CHANNELS, '')
+    .replace(ZW_RUN, '$1$2')
     .replace(/\s+/g, ' ')
     .trim();
   return Array.from(t).slice(0, max).join('').trim();
@@ -270,6 +278,9 @@ function isLocalHost(host) {
 function safeUrl(value, { httpsOnly = false } = {}) {
   const v = String(value ?? '').trim();
   if (!v || v.length > MAX_URL_LEN) return null;
+  // new URL() reads a backslash as a slash, curl and Python read "a.example\@127.0.0.1" as user info on a
+  // different host; and it accepts "https:host" without slashes. Refuse both rather than guess.
+  if (v.includes('\\') || !/^https?:\/\//i.test(v)) return null;
   let u;
   try {
     u = new URL(v);
@@ -278,7 +289,8 @@ function safeUrl(value, { httpsOnly = false } = {}) {
   }
   if (u.protocol !== 'https:' && (httpsOnly || u.protocol !== 'http:')) return null;
   if (u.username || u.password || !u.hostname || isLocalHost(u.hostname)) return null;
-  const out = /^[\x21-\x7e]+$/.test(v) ? v : u.href;
+  // Emit the parsed, canonical form: the string that was host-checked is the string that is written.
+  const out = u.href;
   return /^[\x21-\x7e]+$/.test(out) && out.length <= MAX_URL_LEN ? out : null;
 }
 
@@ -308,7 +320,8 @@ function normalise(raw) {
     const uuid = String(st.stationuuid ?? '').trim().toLowerCase();
     if (!RB_UUID.test(uuid)) continue;
     const url = streamUrl(st);
-    const name = cleanText(st.name, MAX_NAME_LEN);
+    // No double quotes in a title: a name like `X tvg-logo="http://..."` would put attributes after the comma.
+    const name = cleanText(st.name, MAX_NAME_LEN).replace(/"/g, "'");
     if (!url || !name) continue;
     const cc = String(st.countrycode ?? '').toUpperCase();
     candidates.push({
@@ -400,7 +413,7 @@ function assertM3u(title, body, expectedEntries) {
     if (line === '' || /^# [^\n]*$/.test(line)) continue;
     if (line.startsWith('#EXTINF:')) {
       if (waiting) fail('#EXTINF without a URL');
-      if (!/^#EXTINF:-1(?: tvg-logo="https:\/\/[^\s",]+")?(?: group-title="[^",]*")? radio="true",[^\n]+$/.test(line)) fail(`malformed #EXTINF: ${line.slice(0, 80)}`);
+      if (!/^#EXTINF:-1(?: tvg-logo="https:\/\/[^\s",]+")?(?: group-title="[^",]*")? radio="true",[^"\n]+$/.test(line)) fail(`malformed #EXTINF: ${line.slice(0, 80)}`);
       waiting = true;
     } else if (/^https?:\/\/[\x21-\x7e]+$/.test(line)) {
       if (!waiting) fail(`URL without #EXTINF: ${line.slice(0, 80)}`);
@@ -432,9 +445,11 @@ async function guardAgainstShrink(now, indexPath = join(ROOT, 'index.json')) {
   let prev;
   try {
     prev = JSON.parse(await readFile(indexPath, 'utf8'));
-  } catch {
-    return; // first build
+  } catch (err) {
+    if (err && err.code === 'ENOENT') return; // first build
+    throw new Error(`Cannot read the previous index.json (${err.message}); fix it or delete it, then rebuild.`);
   }
+  if (!prev || typeof prev !== 'object' || !prev.totals) throw new Error('The previous index.json has no totals; fix it or delete it, then rebuild.');
   const problems = [];
   for (const [key, label] of [['working_unique_stations', 'stations'], ['countries', 'country playlists'], ['genres', 'genre playlists']]) {
     const before = Number(prev?.totals?.[key]);
@@ -452,8 +467,8 @@ async function main() {
   const raw = await fetchAllWorkingStations();
   const stations = normalise(raw);
   process.stderr.write(`  ${raw.length} returned, ${stations.length} working and unique by stream URL\n`);
-  if (stations.length < MIN_TOTAL_STATIONS) {
-    throw new Error(`Only ${stations.length} usable stations (expected >= ${MIN_TOTAL_STATIONS}); aborting without writing.`);
+  if (stations.length < MIN_TOTAL_STATIONS && process.env.ALLOW_SHRINK !== '1') {
+    throw new Error(`Only ${stations.length} usable stations (expected >= ${MIN_TOTAL_STATIONS}); aborting without writing (set ALLOW_SHRINK=1 to accept).`);
   }
   const stuffed = stations.filter((s) => s.tags.length > MAX_TAGS_FOR_GENRES).length;
   process.stderr.write(`  ${stuffed} stations with more than ${MAX_TAGS_FOR_GENRES} tags are kept out of genre playlists\n`);
@@ -479,8 +494,10 @@ async function main() {
   const countryFiles = [];
   for (const [cc, list] of [...byCountry].sort((a, b) => countryName(a[0]).localeCompare(countryName(b[0])))) {
     if (list.length < MIN_COUNTRY_STATIONS) continue;
+    // Only real ISO regions: the name must come from Intl, never from directory free text.
+    if (countryName(cc) === cc) continue;
     const id = cc.toLowerCase();
-    const name = countryName(cc, list[0].countryRaw);
+    const name = countryName(cc);
     const entries = list.slice(0, PER_FILE_CAP);
     countryFiles.push([`${id}.m3u`, m3u(`Radio stations in ${name}`, entries, () => name)]);
     entriesOf.set(`country:${id}`, entries);
@@ -1006,8 +1023,9 @@ with the user agent \`${USER_AGENT}\`. It also writes the static browsing site i
 \`docs/\` (served by GitHub Pages). A GitHub Actions workflow runs it every Monday
 and commits the result. It refuses to write anything if the directory returns
 unusually few stations (under 40,000, or more than 15% fewer than the last build),
-so a bad API day cannot empty the playlists. Station data from the directory is
-treated as untrusted input; see the list above.
+so a bad API day cannot empty the playlists. If the directory really did shrink,
+run the workflow by hand with its \`allow_shrink\` option (locally: \`ALLOW_SHRINK=1\`). Station
+data from the directory is treated as untrusted input; see the list above.
 
 ## License
 

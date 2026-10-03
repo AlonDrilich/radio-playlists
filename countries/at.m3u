@@ -364,12 +364,12 @@ http://radio886.at/streams/88.6_Rot_Weiss_Rock/mp3
 # 72FM: https://72fm.com/station/5e5cebe4-3558-4f05-b460-00866ae7bcf7
 #EXTINF:-1 tvg-logo="https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png" group-title="Austria" radio="true",Welle 1 - Salzburg - HQ
 https://live.welle1.at:18256/stream
-# 72FM: https://72fm.com/station/27d8066d-3745-4fea-8d9b-90bbe50a3be8
-#EXTINF:-1 tvg-logo="https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_METAL.png" group-title="Austria" radio="true",88.6 Metal
-http://radio886.at/streams/88.6_Metal/mp3
 # 72FM: https://72fm.com/station/a062f274-1424-4359-a206-7fdfc61e32fb
 #EXTINF:-1 group-title="Austria" radio="true",Antenne Vorarlberg Chillout
 https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3
+# 72FM: https://72fm.com/station/27d8066d-3745-4fea-8d9b-90bbe50a3be8
+#EXTINF:-1 tvg-logo="https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_METAL.png" group-title="Austria" radio="true",88.6 Metal
+http://radio886.at/streams/88.6_Metal/mp3
 # 72FM: https://72fm.com/station/964de70e-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.antenne.at/favicon.ico" group-title="Austria" radio="true",Antenne Kärnten Sunrise
 http://live.antenne.at/sun
@@ -448,6 +448,9 @@ https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/
 # 72FM: https://72fm.com/station/9e23a9de-6173-4392-9d0b-8db1ed01f8e1
 #EXTINF:-1 group-title="Austria" radio="true",Radio Balkan EU
 http://cast2.name.ba:8185/
+# 72FM: https://72fm.com/station/58a6d4ab-3a77-4969-b361-0bb2f537fba5
+#EXTINF:-1 group-title="Austria" radio="true",Antenne Vorarlberg Lovesongs
+https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3
 # 72FM: https://72fm.com/station/1f62c7ee-e712-48c3-b493-f69a951ac84f
 #EXTINF:-1 group-title="Austria" radio="true",Bluffphonica
 http://bluffphonica.stream.laut.fm/bluffphonica
@@ -460,9 +463,6 @@ https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arab
 # 72FM: https://72fm.com/station/3b5a0bb4-dd07-4b56-a176-0d9bae9f3dfa
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="Austria" radio="true",Antenne Vorarlberg Christkindl Radio
 https://web.radio.antennevorarlberg.at/av-christkindl
-# 72FM: https://72fm.com/station/58a6d4ab-3a77-4969-b361-0bb2f537fba5
-#EXTINF:-1 group-title="Austria" radio="true",Antenne Vorarlberg Lovesongs
-https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3
 # 72FM: https://72fm.com/station/9cb7f80f-aa74-4907-9351-8e65ce3b4c27
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="Austria" radio="true",Antenne vorarlberg Non Stop
 https://web.radio.antennevorarlberg.at/av-nonstop

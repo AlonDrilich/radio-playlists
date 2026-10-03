@@ -86,7 +86,7 @@ http://abc.streamguys1.com/live/localgoldcoast/icecast.audio
 #EXTINF:-1 group-title="Australia" radio="true",Island FM Whitsundays 88.0MHz Airlie Beach Central Queensland
 https://onlineradiobox.com/json/au/islandwhitsundays/play?platform=web
 # 72FM: https://72fm.com/station/3d913c40-3ef9-4a82-9f88-687e59193e35
-#EXTINF:-1 group-title="Australia" radio="true",2FBI "FBi Radio" 94.5 FM Sydney, NSW
+#EXTINF:-1 group-title="Australia" radio="true",2FBI 'FBi Radio' 94.5 FM Sydney, NSW
 https://streamer.fbiradio.com/stream
 # 72FM: https://72fm.com/station/7078d270-62b8-49c3-a729-ad325d60d29c
 #EXTINF:-1 tvg-logo="https://www.sbs.com.au/_next/static/img/language/app-icon_128x128-18ef105.png" group-title="Australia" radio="true",SBS PopAsia
@@ -98,7 +98,7 @@ http://abm21.com.au:8000/CONTAINER5
 #EXTINF:-1 group-title="Australia" radio="true",Nova 91.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac
 # 72FM: https://72fm.com/station/9649707f-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Australia" radio="true",3RRR "Triple R" 102.7 FM Melbourne, VIC (low bitrate live stream)
+#EXTINF:-1 group-title="Australia" radio="true",3RRR 'Triple R' 102.7 FM Melbourne, VIC (low bitrate live stream)
 http://realtime.rrr.org.au/p1l
 # 72FM: https://72fm.com/station/8ade45f1-f163-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="Australia" radio="true",Pure Hits Australian Made
@@ -247,12 +247,12 @@ http://abm21.com.au:8000/CONTAINER82
 # 72FM: https://72fm.com/station/8d7e4527-3f3b-4f94-974d-10c5cef66ad9
 #EXTINF:-1 group-title="Australia" radio="true",Totally Radio - 00s (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3
-# 72FM: https://72fm.com/station/35f863a6-4cf4-400b-8944-0f33d32ff974
-#EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2023/01/4BC.png" group-title="Australia" radio="true",4BC - Brisbane - 882 AM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3
 # 72FM: https://72fm.com/station/7386f717-eca6-4767-ab26-e65438ca6cdd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg" group-title="Australia" radio="true",Totally Radio - Rock (AAC)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01AAC.aac
+# 72FM: https://72fm.com/station/35f863a6-4cf4-400b-8944-0f33d32ff974
+#EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2023/01/4BC.png" group-title="Australia" radio="true",4BC - Brisbane - 882 AM (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3
 # 72FM: https://72fm.com/station/c318d02e-53f1-43a3-84ed-fa6bf0e8c637
 #EXTINF:-1 group-title="Australia" radio="true",Nova 96.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac
@@ -352,15 +352,15 @@ https://s8.yesstreaming.net:17065/BrzCNQ
 # 72FM: https://72fm.com/station/49cedc35-151f-4ec7-86f8-5486224497c7
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/favicon.ico" group-title="Australia" radio="true",ABC Radio National Live 20220701
 https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8
+# 72FM: https://72fm.com/station/39bbb2c1-45b3-4152-a59c-d8969c2937c4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg" group-title="Australia" radio="true",Totally Radio - Rock (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01.mp3
 # 72FM: https://72fm.com/station/96d4c538-6707-410c-bdd0-a4f5bf5307a9
 #EXTINF:-1 group-title="Australia" radio="true",Australian Digital Radio Network - Phil Collins & Genesis (MP3)
 http://abm21.com.au:8000/CONTAINER163
 # 72FM: https://72fm.com/station/92894d23-de0f-4e72-90c8-503c0f644fed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KFk4xZS/80s-2020-om8ty79gyegrgv8rb6tjzm4sl2xy4stdwmhvqpj2ow.png" group-title="Australia" radio="true",Totally Radio - 80s (AAC+)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_80S_S01AAC.aac
-# 72FM: https://72fm.com/station/39bbb2c1-45b3-4152-a59c-d8969c2937c4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg" group-title="Australia" radio="true",Totally Radio - Rock (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01.mp3
 # 72FM: https://72fm.com/station/349c1e42-c072-4311-8111-e8242af6af38
 #EXTINF:-1 tvg-logo="https://5mbs.com/wp-content/uploads/cropped-5mbs-siteicon-180x180.png" group-title="Australia" radio="true",5MBS 99.9FM
 https://stream.sigile.net/5mbs-128-mp3
@@ -473,7 +473,7 @@ http://abm21.com.au:8000/CONTAINER117
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6NPhshr/Greatest-Hits-nyk46f2soysmrldxnkzzl8qh2zory0vr1jt3u3nbkw.png" group-title="Australia" radio="true",Totally Radio - Greatest Hits (AAC+)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_GRTST_HITS_S01AAC.aac
 # 72FM: https://72fm.com/station/9625b9f8-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Australia" radio="true",7RPH "Print Radio Tasmania"
+#EXTINF:-1 group-title="Australia" radio="true",7RPH 'Print Radio Tasmania'
 http://165.228.181.146:88/broadwave.mp3?src=1&rate=1
 # 72FM: https://72fm.com/station/9292db9b-7644-4beb-a225-6314d6c92c94
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/509/5b8f325e0ee15.png" group-title="Australia" radio="true",Wave FM 91.7
@@ -721,6 +721,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/2OOOAAC.aac
 # 72FM: https://72fm.com/station/fbe6a784-97f5-4a6d-8c02-3eeaccd9f1d3
 #EXTINF:-1 group-title="Australia" radio="true",Australian Digital Radio Network - Rihanna (MP3)
 http://abm22.com.au:8000/CONTAINER81
+# 72FM: https://72fm.com/station/d8e13311-12d1-48ae-a53b-e242eb63cfd0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P9yMvcX/Totally-Radio-Country-qjacmi6h94nashli42opsd2x6oxm98rtw88syia8v4.jpg" group-title="Australia" radio="true",Totally Radio - Country (AAC)
+http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_COUNTRY_S01AAC.aac
 # 72FM: https://72fm.com/station/fbca431c-aaf1-406c-8d35-fab8f5cdd0a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jSVc4z/e1724129-4e37-4eac-9d23-be1b2832a818.webp" group-title="Australia" radio="true",The 80s iHeartRadio Australia (AAC+)
 http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8AAC.aac
@@ -733,9 +736,6 @@ http://streaming.lava.net.au/au_qld_4our_caboolture1015
 # 72FM: https://72fm.com/station/4e6e0caa-3001-41d1-8acc-99e37f30b4e3
 #EXTINF:-1 group-title="Australia" radio="true",Australian Digital Radio Network - 1980s Film Music (MP3)
 http://abm21.com.au:8000/CONTAINER12
-# 72FM: https://72fm.com/station/d8e13311-12d1-48ae-a53b-e242eb63cfd0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P9yMvcX/Totally-Radio-Country-qjacmi6h94nashli42opsd2x6oxm98rtw88syia8v4.jpg" group-title="Australia" radio="true",Totally Radio - Country (AAC)
-http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_COUNTRY_S01AAC.aac
 # 72FM: https://72fm.com/station/7abb6f45-9fca-4aa6-87fc-54b0ed53856f
 #EXTINF:-1 group-title="Australia" radio="true",Australian Digital Radio Network - Northern Soul (MP3)
 http://abm21.com.au:8000/CONTAINER68

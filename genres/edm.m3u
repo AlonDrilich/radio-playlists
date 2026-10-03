@@ -227,7 +227,7 @@ https://web.radio.antennevorarlberg.at/av-chillout
 #EXTINF:-1 tvg-logo="https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif" group-title="EDM" radio="true",1Mix Radio - EDM (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320h
 # 72FM: https://72fm.com/station/961ceca6-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="EDM" radio="true",KNHC "C89.5" Seattle, WA
+#EXTINF:-1 group-title="EDM" radio="true",KNHC 'C89.5' Seattle, WA
 http://knhc-ice.streamguys1.com:8080/live
 # 72FM: https://72fm.com/station/a3d45eec-8fb2-4e8a-8925-057d04576925
 #EXTINF:-1 group-title="EDM" radio="true",Ibiza X Radio
@@ -265,12 +265,12 @@ http://stream.radiobest.eu:8000/128
 # 72FM: https://72fm.com/station/845e81fa-2a61-48af-8091-22bcf6db8ea6
 #EXTINF:-1 group-title="EDM" radio="true",Radio Danz (USA) 128k AAC+
 http://server1.radiodanz.com:8030/;
-# 72FM: https://72fm.com/station/ef4efea1-50ca-45c8-b028-69e01bbbac4e
-#EXTINF:-1 group-title="EDM" radio="true",Original EDM FESTIVAL
-https://stream.0nlineradio.com/edm-festival?ref=radiobrowser
 # 72FM: https://72fm.com/station/5a7ddeac-be16-4090-a77b-b9ead4ed74db
 #EXTINF:-1 tvg-logo="https://hothitsuk.com/wp-content/uploads/2020/09/HHUK-3D-transparent-300-x-200.png" group-title="EDM" radio="true",Hot Hits UK.com
 https://443-1.autopo.st/54/stream.mp3
+# 72FM: https://72fm.com/station/ef4efea1-50ca-45c8-b028-69e01bbbac4e
+#EXTINF:-1 group-title="EDM" radio="true",Original EDM FESTIVAL
+https://stream.0nlineradio.com/edm-festival?ref=radiobrowser
 # 72FM: https://72fm.com/station/7f94ea52-31f0-11e9-8f31-52543be04c81
 #EXTINF:-1 group-title="EDM" radio="true",GamersOne
 http://stream.laut.fm/gamersone
@@ -500,7 +500,7 @@ http://stream1.itclive.de/
 #EXTINF:-1 tvg-logo="https://kephost.net/p/MjM0MjAxNw.jpg" group-title="EDM" radio="true",StreamX Radio
 https://radio.streamxradio.live/listen/streamx_radio/radio.mp3
 # 72FM: https://72fm.com/station/88082d71-4a37-4cf9-aed6-21496a05a34d
-#EXTINF:-1 tvg-logo="https://www.atlpaperchasers.com" group-title="EDM" radio="true",Atl Paper Chasers Radio
+#EXTINF:-1 tvg-logo="https://www.atlpaperchasers.com/" group-title="EDM" radio="true",Atl Paper Chasers Radio
 https://servidor27.brlogic.com:7004/live
 # 72FM: https://72fm.com/station/0fe9b45e-5514-4bf7-af93-066d16ecca07
 #EXTINF:-1 tvg-logo="https://en.wikifur.com/w/images/a/a3/LeopardRadioLogo.jpeg" group-title="EDM" radio="true",Leopard Radio - A Spotty Sound

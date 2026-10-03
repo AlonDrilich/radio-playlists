@@ -605,7 +605,7 @@ http://icecast.vrtcdn.be/stubru_bruut-high.mp3
 #EXTINF:-1 group-title="Belgium" radio="true",Gaveromroep
 http://s43.myradiostream.com:18192/
 # 72FM: https://72fm.com/station/9fbd1cde-1be5-4a67-8697-3c60f997e0c0
-#EXTINF:-1 group-title="Belgium" radio="true","name": "'undefined' -> 'AFN 360 Benelux'",
+#EXTINF:-1 group-title="Belgium" radio="true",'name': ''undefined' -> 'AFN 360 Benelux'',
 http://22183.live.streamtheworld.com/AFNE_BLX_SC
 # 72FM: https://72fm.com/station/0752b600-8f5e-4391-bba7-82f3226d0c64
 #EXTINF:-1 group-title="Belgium" radio="true",AFN 360 Benelux
@@ -802,6 +802,9 @@ https://radio7.pro-fhi.net:19073/stream.mp3
 # 72FM: https://72fm.com/station/66d6eb0d-b8d0-4cb3-a62a-fdb77ce6ed2c
 #EXTINF:-1 group-title="Belgium" radio="true",VRT Verkeer
 https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3
+# 72FM: https://72fm.com/station/5588d97b-c204-4637-bf23-76cf863c4349
+#EXTINF:-1 tvg-logo="https://cdn-radio.dpgmedia.net/7/32/78/a4/113/JOE_GOLD-7-WEBSITE-220x220.png" group-title="Belgium" radio="true",JOE Gold
+https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3
 # 72FM: https://72fm.com/station/ff30515d-e04e-4043-b0e2-f2a969e66e6f
 #EXTINF:-1 tvg-logo="https://lorali.be/favicon.ico" group-title="Belgium" radio="true",Radio Lorali
 https://lorali.beheerstream.nl/cp/links.php?p=8014&m=pls
@@ -832,9 +835,6 @@ https://play.ajoinmusic.be/ajoinmusic.mp3
 # 72FM: https://72fm.com/station/5a20ca50-1fc0-4512-8b7b-0c7262085f87
 #EXTINF:-1 tvg-logo="https://cdn-radio.dpgmedia.net/d/67/d8/ab/39/JOE_EASY-4-WEBSITE-220x220.png" group-title="Belgium" radio="true",Joe Lage Landen
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&aw_0_1st.playerid=site-player
-# 72FM: https://72fm.com/station/5588d97b-c204-4637-bf23-76cf863c4349
-#EXTINF:-1 tvg-logo="https://cdn-radio.dpgmedia.net/7/32/78/a4/113/JOE_GOLD-7-WEBSITE-220x220.png" group-title="Belgium" radio="true",JOE Gold
-https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3
 # 72FM: https://72fm.com/station/ff7d9489-d462-4e88-94b7-e28d6b66545a
 #EXTINF:-1 tvg-logo="https://mooyzo.be/wp-content/uploads/2018/06/mooyzo-favicon.png" group-title="Belgium" radio="true",MooyZo
 http://play.mooyzo.be/mooyzo.mp3

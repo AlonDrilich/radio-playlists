@@ -4,7 +4,7 @@ Free, weekly-updated **M3U playlists of internet radio stations**: one per count
 one per genre and a top-500 list. They open in VLC, mpv, pyradio and most
 other players that read M3U, and are easy to parse on an ESP32 or Raspberry Pi radio.
 
-- **48,706** working, de-duplicated stations in the source directory at the last build
+- **48,708** working, de-duplicated stations in the source directory at the last build
 - **169** country playlists, **60** genre playlists, [top 500](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/top/top-500.m3u)
 - Last build: **2026-10-03** (rebuilt every Monday)
 - Machine-readable list of every playlist: [`index.json`](index.json)
@@ -246,7 +246,7 @@ Station counts are "in this file of all that matched" when a genre has more than
 | 🇪🇹 | Ethiopia | 23 | [et.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/et.m3u) | [72fm.com/radio/et](https://72fm.com/radio/et) |
 | 🇫🇴 | Faroe Islands | 13 | [fo.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/fo.m3u) | [72fm.com/radio/fo](https://72fm.com/radio/fo) |
 | 🇫🇮 | Finland | 126 | [fi.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/fi.m3u) | [72fm.com/radio/fi](https://72fm.com/radio/fi) |
-| 🇫🇷 | France | 300 of 2612 | [fr.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/fr.m3u) | [72fm.com/radio/fr](https://72fm.com/radio/fr) |
+| 🇫🇷 | France | 300 of 2614 | [fr.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/fr.m3u) | [72fm.com/radio/fr](https://72fm.com/radio/fr) |
 | 🇵🇫 | French Polynesia | 8 | [pf.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pf.m3u) | [72fm.com/radio/pf](https://72fm.com/radio/pf) |
 | 🇬🇪 | Georgia | 25 | [ge.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ge.m3u) | [72fm.com/radio/ge](https://72fm.com/radio/ge) |
 | 🇩🇪 | Germany | 300 of 5362 | [de.m3u](https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/de.m3u) | [72fm.com/radio/de](https://72fm.com/radio/de) |
@@ -376,8 +376,9 @@ with the user agent `72FM-playlists/1.0 (+https://72fm.com)`. It also writes the
 `docs/` (served by GitHub Pages). A GitHub Actions workflow runs it every Monday
 and commits the result. It refuses to write anything if the directory returns
 unusually few stations (under 40,000, or more than 15% fewer than the last build),
-so a bad API day cannot empty the playlists. Station data from the directory is
-treated as untrusted input; see the list above.
+so a bad API day cannot empty the playlists. If the directory really did shrink,
+run the workflow by hand with its `allow_shrink` option (locally: `ALLOW_SHRINK=1`). Station
+data from the directory is treated as untrusted input; see the list above.
 
 ## License
 
