@@ -304,12 +304,12 @@ https://ice15.fluidstream.net/onedancech.aac
 # 72FM: https://72fm.com/station/96091d4c-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png" group-title="Switzerland" radio="true",One FM
 http://onefm.ice.infomaniak.ch/onefm-high.mp3
-# 72FM: https://72fm.com/station/4ed0f636-3c0d-409b-ae2d-7f0289128414
-#EXTINF:-1 group-title="Switzerland" radio="true",Radio Television Suisse 1
-http://stream.srg-ssr.ch/srgssr/la-1ere/mp3/128
 # 72FM: https://72fm.com/station/9608c6fe-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",IP music slow (96 kbps AAC)
 http://live7.avf.ch:8000/ipmusicslowaacp96
+# 72FM: https://72fm.com/station/4ed0f636-3c0d-409b-ae2d-7f0289128414
+#EXTINF:-1 group-title="Switzerland" radio="true",Radio Television Suisse 1
+http://stream.srg-ssr.ch/srgssr/la-1ere/mp3/128
 # 72FM: https://72fm.com/station/962a1f95-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",1.FM - Total Hits En Español Radio
 http://strm112.1.fm/spanishtophits_mobile_mp3
@@ -346,24 +346,24 @@ http://traxx007.ice.infomaniak.ch/traxx007-low.mp3
 # 72FM: https://72fm.com/station/96127e90-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",RSI Rete Uno
 http://stream.srg-ssr.ch/m/reteuno/mp3_128
-# 72FM: https://72fm.com/station/05d34912-6456-4abf-a9ec-c3c10ad4c408
-#EXTINF:-1 group-title="Switzerland" radio="true",RTS Couleur 3
-http://stream.srg-ssr.ch/m/couleur3/mp3_128
 # 72FM: https://72fm.com/station/6cb03e29-0706-445d-9a28-282e3c21dcd6
 #EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/4.3.1/radiosunshine/device-icons/512x512.png" group-title="Switzerland" radio="true",Sunshine Radio (Switzerland)
 https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080
+# 72FM: https://72fm.com/station/05d34912-6456-4abf-a9ec-c3c10ad4c408
+#EXTINF:-1 group-title="Switzerland" radio="true",RTS Couleur 3
+http://stream.srg-ssr.ch/m/couleur3/mp3_128
 # 72FM: https://72fm.com/station/bb0ab7f4-e1f0-495e-bdba-e57b7a428988
 #EXTINF:-1 group-title="Switzerland" radio="true",1.fm Back To The 50's
 https://strm112.1.fm/60s_70s_mobile_mp3?
 # 72FM: https://72fm.com/station/963db08e-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",Radio SRF 1 Zentralschweiz
 http://stream.srg-ssr.ch/m/regi_zentr/mp3_128
-# 72FM: https://72fm.com/station/229170ac-5086-11e8-a4d1-52543be04c81
-#EXTINF:-1 group-title="Switzerland" radio="true",Radio SRF 2 Kultur
-http://stream.srg-ssr.ch/srgssr/srf2/aac/96
 # 72FM: https://72fm.com/station/8ac2325b-a582-4e6b-b3fc-6db68e9b960c
 #EXTINF:-1 tvg-logo="https://www.countryradio.ch/favicon.ico" group-title="Switzerland" radio="true",Country Radio Switzerland (CRS)
 http://stream.countryradio.ch/crs-128.mp3
+# 72FM: https://72fm.com/station/229170ac-5086-11e8-a4d1-52543be04c81
+#EXTINF:-1 group-title="Switzerland" radio="true",Radio SRF 2 Kultur
+http://stream.srg-ssr.ch/srgssr/srf2/aac/96
 # 72FM: https://72fm.com/station/306482ff-7e3b-4918-a683-088165abda7f
 #EXTINF:-1 tvg-logo="https://www.spoonradio.com/newimages/logo.png" group-title="Switzerland" radio="true",Spoon Radio
 http://spoonradio.ice.infomaniak.ch/spoonradio-hd.mp3
@@ -478,12 +478,12 @@ http://broadcast.infomaniak.ch/energybern-high.mp3
 # 72FM: https://72fm.com/station/39a0f5ff-7578-4814-9f41-fed5d815b804
 #EXTINF:-1 group-title="Switzerland" radio="true",1.fm Otto's Classical music (http/mp3)
 http://strm112.1.fm/classical_mobile_mp3
-# 72FM: https://72fm.com/station/3999c6df-6b30-44f2-bf11-39ed56f3f1c3
-#EXTINF:-1 group-title="Switzerland" radio="true",Spoon Radio
-http://spoonradio.ice.infomaniak.ch/spoonradio-hd
 # 72FM: https://72fm.com/station/96127dce-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",RSI Rete Tre
 http://stream.srg-ssr.ch/m/retetre/mp3_128
+# 72FM: https://72fm.com/station/3999c6df-6b30-44f2-bf11-39ed56f3f1c3
+#EXTINF:-1 group-title="Switzerland" radio="true",Spoon Radio
+http://spoonradio.ice.infomaniak.ch/spoonradio-hd
 # 72FM: https://72fm.com/station/45d2ba40-f32a-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",Traxx FM - Jazz
 http://traxx014.ice.infomaniak.ch/traxx014-low.mp3
@@ -511,12 +511,12 @@ http://stream01.my105.ch/my105mashup.mp3
 # 72FM: https://72fm.com/station/ee47b64d-ebaf-4d26-90e6-e9cd25f32958
 #EXTINF:-1 tvg-logo="https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png" group-title="Switzerland" radio="true",One FM 2000s
 https://webradio0009.ice.infomaniak.ch/webradio0009-128.mp3
-# 72FM: https://72fm.com/station/74b2242c-6e3c-42a0-b96a-b49537d4c826
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixecxmgSlaR39iiMKCS7NHaJciyShaEmG-GvIqMq4mO3wpUufxZ-MKmicAbx6YBBoeyBEnGAH-0WdNXJSQZIB7WaK3joXdN6QOcPZX0bhon-Hx7fBHIun28nq_3Ye1b4szyd6G1Rv0sAzW3zsYyxcXhbEbdHKA1Ou0pub9borJQym1vgmv_efSkWLtUq71/s300/Hard%20Rock.png" group-title="Switzerland" radio="true",Spoon Radio - Hard Rock
-https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
 # 72FM: https://72fm.com/station/f0df6e39-68b5-4026-9d83-51af63ddfdc6
 #EXTINF:-1 tvg-logo="https://uzic.ch/wp-content/uploads/2025/06/logo_uzic-150x150.png" group-title="Switzerland" radio="true",UZIC.CH :: TECHNO - MINIMAL :: best of electronic with techno minimal electro house and progressive
 https://uzic.ice.infomaniak.ch/uzic-128.aac
+# 72FM: https://72fm.com/station/74b2242c-6e3c-42a0-b96a-b49537d4c826
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixecxmgSlaR39iiMKCS7NHaJciyShaEmG-GvIqMq4mO3wpUufxZ-MKmicAbx6YBBoeyBEnGAH-0WdNXJSQZIB7WaK3joXdN6QOcPZX0bhon-Hx7fBHIun28nq_3Ye1b4szyd6G1Rv0sAzW3zsYyxcXhbEbdHKA1Ou0pub9borJQym1vgmv_efSkWLtUq71/s300/Hard%20Rock.png" group-title="Switzerland" radio="true",Spoon Radio - Hard Rock
+https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
 # 72FM: https://72fm.com/station/890b3eb9-4018-4c41-95ea-146cc5201745
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="Switzerland" radio="true",Radio SRF 3
 https://stream.srg-ssr.ch/m/drs3/aacp_96
@@ -526,12 +526,12 @@ http://stream.srg-ssr.ch/m/rsp/aacp_96
 # 72FM: https://72fm.com/station/3718f163-5868-11e9-a622-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.radiolac.ch/favicon.ico" group-title="Switzerland" radio="true",Radio Lac
 https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
-# 72FM: https://72fm.com/station/243cef8b-f02d-4490-bb02-e094c8aa0393
-#EXTINF:-1 tvg-logo="https://www.1.fm/images/favicon.ico" group-title="Switzerland" radio="true",1.FM Absolute 90's Radio
-https://strm112.1.fm/90s_mobile_mp3
 # 72FM: https://72fm.com/station/961f8454-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9a9c36_3d1dd8d8cf814ecca8cd2631a43bb249%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/9a9c36_3d1dd8d8cf814ecca8cd2631a43bb249%7emv2.png" group-title="Switzerland" radio="true",Rouge FM 90s
 http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3
+# 72FM: https://72fm.com/station/243cef8b-f02d-4490-bb02-e094c8aa0393
+#EXTINF:-1 tvg-logo="https://www.1.fm/images/favicon.ico" group-title="Switzerland" radio="true",1.FM Absolute 90's Radio
+https://strm112.1.fm/90s_mobile_mp3
 # 72FM: https://72fm.com/station/962769ff-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",Rouge FM Lounge
 http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
@@ -562,21 +562,21 @@ http://stream.srg-ssr.ch/srgssr/regi_ost/aac/96
 # 72FM: https://72fm.com/station/3138ec65-f32c-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",Traxx FM - Rap
 http://traxx015.ice.infomaniak.ch/traxx015-low.mp3
-# 72FM: https://72fm.com/station/ab08b88f-397e-4fd0-810e-9578418a1ace
-#EXTINF:-1 group-title="Switzerland" radio="true",Radio Swiss Classic
-http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96
 # 72FM: https://72fm.com/station/5a0f0c92-5091-11e8-a4d1-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png" group-title="Switzerland" radio="true",RSI Rete Tre
 http://stream.srg-ssr.ch/srgssr/retetre/aac/96
-# 72FM: https://72fm.com/station/9643b871-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Switzerland" radio="true",my105 - Original
-http://stream01.my105.ch/my105original.mp3
+# 72FM: https://72fm.com/station/ab08b88f-397e-4fd0-810e-9578418a1ace
+#EXTINF:-1 group-title="Switzerland" radio="true",Radio Swiss Classic
+http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96
 # 72FM: https://72fm.com/station/96410fb3-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",my105 - All The Hits
 http://stream01.my105.ch/my105allthehits.mp3
 # 72FM: https://72fm.com/station/964962f6-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="Switzerland" radio="true",Radio SRF 1 Regionaljournal Basel, Baselland
 http://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128
+# 72FM: https://72fm.com/station/9643b871-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Switzerland" radio="true",my105 - Original
+http://stream01.my105.ch/my105original.mp3
 # 72FM: https://72fm.com/station/23e99d6c-5084-11e8-a4d1-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",Radio SRF 1 Bern Freibourg Wallis
 http://stream.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/96
@@ -586,12 +586,12 @@ http://stream.srg-ssr.ch/m/regi_be_fr_vs/mp3_128
 # 72FM: https://72fm.com/station/96496162-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="Switzerland" radio="true",Radio SRF 1 Regionaljournal Aargau, Solothurn
 http://stream.srg-ssr.ch/m/regi_ag_so/mp3_128
-# 72FM: https://72fm.com/station/9643b306-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Switzerland" radio="true",my105 - Deluxe
-http://stream01.my105.ch/my105deluxe.mp3
 # 72FM: https://72fm.com/station/9643b672-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",my105 - The Battle
 http://stream01.my105.ch/my105thebattle.mp3
+# 72FM: https://72fm.com/station/9643b306-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Switzerland" radio="true",my105 - Deluxe
+http://stream01.my105.ch/my105deluxe.mp3
 # 72FM: https://72fm.com/station/c27d4c9a-5087-11e8-a4d1-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",Radio SRF Musikwelle
 http://stream.srg-ssr.ch/srgssr/srfmw/aac/96
@@ -604,12 +604,12 @@ http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
 # 72FM: https://72fm.com/station/ab2208bf-6f70-443e-ad11-73f594b2629f
 #EXTINF:-1 group-title="Switzerland" radio="true",Planet Ambi HD
 http://philae.shoutca.st:9019/stream
-# 72FM: https://72fm.com/station/61cbd7d9-96f5-4200-9d3e-d1890ef84ead
-#EXTINF:-1 group-title="Switzerland" radio="true",1.FM - Otto's Opera House
-http://strm112.1.fm/opera_mobile_mp3
 # 72FM: https://72fm.com/station/e9fd4c54-4e08-4311-8d7e-3a5f65a72465
 #EXTINF:-1 group-title="Switzerland" radio="true",GRRIF
 https://rjb.ice.infomaniak.ch/rjb-high.mp3
+# 72FM: https://72fm.com/station/61cbd7d9-96f5-4200-9d3e-d1890ef84ead
+#EXTINF:-1 group-title="Switzerland" radio="true",1.FM - Otto's Opera House
+http://strm112.1.fm/opera_mobile_mp3
 # 72FM: https://72fm.com/station/876d62ba-1be4-4406-86fd-e0454839e325
 #EXTINF:-1 tvg-logo="https://basspistol.com/siteicon.png" group-title="Switzerland" radio="true",Basspistol Radio
 https://radio.basspistol.com/radio.mp3
@@ -634,15 +634,15 @@ http://strm112.1.fm/acpl_mobile_mp3
 # 72FM: https://72fm.com/station/9643245c-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",my105 - Chill
 http://stream01.my105.ch/my105chill.mp3
+# 72FM: https://72fm.com/station/8c9041ef-372d-46d7-87ed-d9f1d1d92e38
+#EXTINF:-1 tvg-logo="https://www.radioswisspop.ch/favicon.ico" group-title="Switzerland" radio="true",Pop | Radio Swiss
+https://stream.srg-ssr.ch/m/rsp/mp3_128
 # 72FM: https://72fm.com/station/c98f1648-2d03-44a0-a264-a4c248f467df
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RnmBp61JLpuFbCdDWy9jig_j6SBxZ_2vETott9_kRev4voROUJsIYHQxggUQl2r0-lqwuaslRzLCgqU8RhRZCH7WkR3-sGdcMgJTZjmawjC3tfwyNDBt11qJD6-ojoXjRE27kf1-PwJr7gQUtG-oez2TpiEfxo38_uY4eAx5lDf9YpU0ynV9WOTmGYMY/s300/Alternative%20Rock.png" group-title="Switzerland" radio="true",Spoon Radio - Alternative Rock
 https://spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac
 # 72FM: https://72fm.com/station/962d5e4a-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",Audioasyl
 http://stream.audioasyl.net:8000/audioasyl
-# 72FM: https://72fm.com/station/8c9041ef-372d-46d7-87ed-d9f1d1d92e38
-#EXTINF:-1 tvg-logo="https://www.radioswisspop.ch/favicon.ico" group-title="Switzerland" radio="true",Pop | Radio Swiss
-https://stream.srg-ssr.ch/m/rsp/mp3_128
 # 72FM: https://72fm.com/station/af9c905f-cb40-40c6-93a9-dd343cf84578
 #EXTINF:-1 tvg-logo="https://www.radioswissjazz.ch/_nuxt/img/rsj-logo-claim-desktop.beb322c.png" group-title="Switzerland" radio="true",Radio Suisse Jazz
 https://stream.srg-ssr.ch/m/rsj/aacp_96
@@ -685,18 +685,18 @@ http://stream.srg-ssr.ch/srgssr/rsc_it/mp3/128
 # 72FM: https://72fm.com/station/21669095-e543-4fa4-91e3-0d999027d06a
 #EXTINF:-1 tvg-logo="https://www.radioswissclassic.ch/favicon.ico" group-title="Switzerland" radio="true",RADIO SWISS CLASSICA ITALIA
 https://stream.srg-ssr.ch/m/rsc_it/mp3_128
-# 72FM: https://72fm.com/station/9626c359-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Switzerland" radio="true",toxic.fm
-http://toxicfm.ice.infomaniak.ch/toxicfm-128
-# 72FM: https://72fm.com/station/3cd03534-0100-4055-ab57-4d39c2ae52d0
-#EXTINF:-1 tvg-logo="https://www.breakradio.ch/apple-touch-icon.png" group-title="Switzerland" radio="true",Break Radio
-https://breakradio.ice.infomaniak.ch/breakradio-192.mp3
 # 72FM: https://72fm.com/station/9643b752-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",my105 - Fresh
 http://stream01.my105.ch/my105fresh.mp3
 # 72FM: https://72fm.com/station/871eef57-289c-47f5-9cd4-17b9bd7846a5
 #EXTINF:-1 tvg-logo="https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png" group-title="Switzerland" radio="true",One FM 90s
 https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3
+# 72FM: https://72fm.com/station/9626c359-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Switzerland" radio="true",toxic.fm
+http://toxicfm.ice.infomaniak.ch/toxicfm-128
+# 72FM: https://72fm.com/station/3cd03534-0100-4055-ab57-4d39c2ae52d0
+#EXTINF:-1 tvg-logo="https://www.breakradio.ch/apple-touch-icon.png" group-title="Switzerland" radio="true",Break Radio
+https://breakradio.ice.infomaniak.ch/breakradio-192.mp3
 # 72FM: https://72fm.com/station/42542b18-0d4d-436f-b286-209787d2793f
 #EXTINF:-1 tvg-logo="https://radio-online.ch/uploads/img/1-fm-y2k.png" group-title="Switzerland" radio="true",1.FM Y2K Radio (2000s)
 http://strm112.1.fm/hits2000_mobile_mp3
@@ -763,33 +763,33 @@ http://stream01.my105.ch/my105rock.mp3
 # 72FM: https://72fm.com/station/9e628a56-59a3-45eb-8834-f4f72c2be4fe
 #EXTINF:-1 group-title="Switzerland" radio="true",Loungemain Radio Jazz-Chill-Funk
 http://185.238.128.191:8002/live
-# 72FM: https://72fm.com/station/c3086993-34c3-47cb-9323-540fb675fe46
-#EXTINF:-1 group-title="Switzerland" radio="true",1.fm classic rock
-https://strm112.1.fm/crock_mobile_mp3
 # 72FM: https://72fm.com/station/0d00baf1-676b-48d7-9eb3-62900c82191e
 #EXTINF:-1 tvg-logo="https://radiozuerisee.ch/assets/favicons/apple-icon-120x120.png" group-title="Switzerland" radio="true",Radio Zuerisee
 http://mp3.radio.ch/radiozuerisee128k
+# 72FM: https://72fm.com/station/c3086993-34c3-47cb-9323-540fb675fe46
+#EXTINF:-1 group-title="Switzerland" radio="true",1.fm classic rock
+https://strm112.1.fm/crock_mobile_mp3
 # 72FM: https://72fm.com/station/1901f7f2-727f-4fb1-b9d8-bf3f50e1419c
 #EXTINF:-1 tvg-logo="https://www.bearmetalradio.com/images/logo.png" group-title="Switzerland" radio="true",Bear Metal Radio
 https://cast5.asurahosting.com/proxy/bear?mp=/stream
-# 72FM: https://72fm.com/station/01f33d12-5085-11e8-a4d1-52543be04c81
-#EXTINF:-1 group-title="Switzerland" radio="true",Radio SRF 1 Zentralschweiz
-http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/96
 # 72FM: https://72fm.com/station/89033ac1-5717-4154-85d3-aff8de50bbc4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png" group-title="Switzerland" radio="true",Radio SRF 2 Kultur
 https://stream.srg-ssr.ch/m/drs2/aacp_96
+# 72FM: https://72fm.com/station/01f33d12-5085-11e8-a4d1-52543be04c81
+#EXTINF:-1 group-title="Switzerland" radio="true",Radio SRF 1 Zentralschweiz
+http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/96
 # 72FM: https://72fm.com/station/bd8c85d6-2b9c-4353-b6dc-92a182628cbb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_rougefm1.png" group-title="Switzerland" radio="true",Rouge
 http://rougefm.ice.infomaniak.ch/rougefm-high.aac
 # 72FM: https://72fm.com/station/0e6da6e8-425c-46d7-bc70-99b04e0f04d0
 #EXTINF:-1 group-title="Switzerland" radio="true",Radio Swiss Classic
 http://stream.srg-ssr.ch/m/rsc_de/aacp_96
-# 72FM: https://72fm.com/station/d97faf80-324a-4a00-8e39-da5b473ab987
-#EXTINF:-1 group-title="Switzerland" radio="true",Radio Swiss Jazz
-http://stream.srg-ssr.ch/m/rsj/mp3_128
 # 72FM: https://72fm.com/station/4d548e92-325f-4f5a-ab85-6dcf7b63ba79
 #EXTINF:-1 group-title="Switzerland" radio="true",Radio Eviva
 https://stream.streambase.ch/reviva/mp3-192/direct/
+# 72FM: https://72fm.com/station/d97faf80-324a-4a00-8e39-da5b473ab987
+#EXTINF:-1 group-title="Switzerland" radio="true",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/mp3_128
 # 72FM: https://72fm.com/station/067388ea-bff2-41b5-869a-766b2f7b4a47
 #EXTINF:-1 group-title="Switzerland" radio="true",Radio Swiss Pop
 http://stream.srg-ssr.ch/srgssr/rsp/mp3/128
@@ -850,27 +850,30 @@ http://globalfm.ice.infomaniak.ch/globalfm-high.mp3
 # 72FM: https://72fm.com/station/9629e3d4-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",R102
 http://94.23.66.155:9334/stream
-# 72FM: https://72fm.com/station/1eaa7a2e-8fbe-4936-b71c-18190cfb25e8
-#EXTINF:-1 group-title="Switzerland" radio="true",Bachata Nation Radio
-https://stream.zeno.fm/vwcq5n2rruhvv
 # 72FM: https://72fm.com/station/eb540959-9fa2-4f04-b822-b74cf761126b
 #EXTINF:-1 group-title="Switzerland" radio="true",20minuten.radio DAB+ (GOAT Radio)
 https://www.digris.ch/stream/897a2939-b6db-42c6-8760-28908bcf8b25
-# 72FM: https://72fm.com/station/fb137a06-88dc-43e8-b4fc-99b71e0398d2
-#EXTINF:-1 group-title="Switzerland" radio="true",Radio Svizzera Classica
-http://stream.srg-ssr.ch/srgssr/rsc_it/aac/96
+# 72FM: https://72fm.com/station/1eaa7a2e-8fbe-4936-b71c-18190cfb25e8
+#EXTINF:-1 group-title="Switzerland" radio="true",Bachata Nation Radio
+https://stream.zeno.fm/vwcq5n2rruhvv
 # 72FM: https://72fm.com/station/96074028-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",RadioFr. Freiburg
 http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3
+# 72FM: https://72fm.com/station/fb137a06-88dc-43e8-b4fc-99b71e0398d2
+#EXTINF:-1 group-title="Switzerland" radio="true",Radio Svizzera Classica
+http://stream.srg-ssr.ch/srgssr/rsc_it/aac/96
 # 72FM: https://72fm.com/station/fdb7d082-9ff1-4fe4-a0d0-8895c2cb874a
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="Switzerland" radio="true",Radio SRF 1 Basel Baselland
 http://stream.srg-ssr.ch/m/regi_bs_bl/aacp_96
-# 72FM: https://72fm.com/station/45e07a71-639c-4987-b4fa-3df5ea6630f2
-#EXTINF:-1 group-title="Switzerland" radio="true",Traxx FM - Classic
-http://traxx012.ice.infomaniak.ch/traxx012-low.mp3
 # 72FM: https://72fm.com/station/5bf17f1e-2aab-4f1b-bc85-2d9a01795f96
 #EXTINF:-1 group-title="Switzerland" radio="true",Traxx FM - France
 http://traxx025.ice.infomaniak.ch/traxx025-1.mp3
+# 72FM: https://72fm.com/station/45e07a71-639c-4987-b4fa-3df5ea6630f2
+#EXTINF:-1 group-title="Switzerland" radio="true",Traxx FM - Classic
+http://traxx012.ice.infomaniak.ch/traxx012-low.mp3
+# 72FM: https://72fm.com/station/db6893f4-cead-4749-83e6-a1b1dfb6f61b
+#EXTINF:-1 tvg-logo="https://www.radiogrischa.ch/themes/custom/grischa/images/logos/RG_Signet.png" group-title="Switzerland" radio="true",Radio Grischa
+https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128
 # 72FM: https://72fm.com/station/b8c50a5f-6f6c-4563-8683-f62f9ce7b75a
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="Switzerland" radio="true",Radio SRF Virus
 http://stream.srg-ssr.ch/srgssr/srfvirus/aac/96
@@ -880,21 +883,18 @@ http://radio2.stream24.net:8130/live.mp3
 # 72FM: https://72fm.com/station/f56b1299-7711-11e9-8b97-52543be04c81
 #EXTINF:-1 group-title="Switzerland" radio="true",RADIO MARIA SWITZERLAND
 http://dreamsiteradiocp2.com:8106/stream
-# 72FM: https://72fm.com/station/96662b01-e8af-48d3-af9a-117807219992
-#EXTINF:-1 group-title="Switzerland" radio="true",publicdomainproject classic
-http://relay.publicdomainproject.org/classical.mp3
-# 72FM: https://72fm.com/station/db6893f4-cead-4749-83e6-a1b1dfb6f61b
-#EXTINF:-1 tvg-logo="https://www.radiogrischa.ch/themes/custom/grischa/images/logos/RG_Signet.png" group-title="Switzerland" radio="true",Radio Grischa
-https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128
 # 72FM: https://72fm.com/station/96496498-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="Switzerland" radio="true",Radio SRF 1 Regionaljournal Graubünden
 http://stream.srg-ssr.ch/m/regi_gr/mp3_128
-# 72FM: https://72fm.com/station/cf128157-674e-46e1-a1b4-9251ee8d3ab7
-#EXTINF:-1 tvg-logo="https://login.chmedia-welcome.ch/resources/ge450/login/entertainment/img/faviconradiocentral.ico" group-title="Switzerland" radio="true",Radio Central
-https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762
+# 72FM: https://72fm.com/station/96662b01-e8af-48d3-af9a-117807219992
+#EXTINF:-1 group-title="Switzerland" radio="true",publicdomainproject classic
+http://relay.publicdomainproject.org/classical.mp3
 # 72FM: https://72fm.com/station/f78b5faa-d2a0-4c91-b891-e8889664d460
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Argovia-logo.svg/800px-Argovia-logo.svg.png" group-title="Switzerland" radio="true",Radio Argovia
 https://stream.streambase.ch/argovia/mp3-192/radiobrowser/
+# 72FM: https://72fm.com/station/cf128157-674e-46e1-a1b4-9251ee8d3ab7
+#EXTINF:-1 tvg-logo="https://login.chmedia-welcome.ch/resources/ge450/login/entertainment/img/faviconradiocentral.ico" group-title="Switzerland" radio="true",Radio Central
+https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762
 # 72FM: https://72fm.com/station/f46955a2-77e7-4a30-96af-abdd89c70a2e
 #EXTINF:-1 tvg-logo="https://www.ipmusicslow.ch/images/logo-ipmusicslow.png" group-title="Switzerland" radio="true",IP music SLOW - aacPlus@96 Kb/s
 https://live9.avf.ch/ipmusicslowaacp96

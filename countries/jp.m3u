@@ -211,12 +211,12 @@ http://streaming.edmradio.online:8025/nhk41left
 # 72FM: https://72fm.com/station/98d8f89b-4e05-481a-8665-6b3a411d6fa3
 #EXTINF:-1 tvg-logo="https://plaza.one/icons/apple-touch-icon.png" group-title="Japan" radio="true",Nightwave Plaza (HLS)
 http://radio.plaza.one/hls
-# 72FM: https://72fm.com/station/db95c0e2-057b-4062-bc91-37debd447eff
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO 6
-http://streaming.edmradio.online:8025/nhk41right
 # 72FM: https://72fm.com/station/49439c31-b641-4251-b3b0-ab979ab514d2
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO 7
 https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8
+# 72FM: https://72fm.com/station/db95c0e2-057b-4062-bc91-37debd447eff
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO 6
+http://streaming.edmradio.online:8025/nhk41right
 # 72FM: https://72fm.com/station/e93b7f21-b06d-4c2a-a3dc-cf87dbee0408
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png" group-title="Japan" radio="true",NHK WORLD RADIO 9
 https://master.nhkworld.jp/nhkworld-radio/playlist/rs4/live.m3u8
@@ -232,30 +232,30 @@ https://stream.zenolive.com/xwa8ckz7mzzuv.aac
 # 72FM: https://72fm.com/station/87dabf49-c5ad-4906-b0bb-9716b710385a
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/e2ba4c2950bdc47c7af05acebcdb9661" group-title="Japan" radio="true",Justplay
 https://justplay.stream.laut.fm/justplay
-# 72FM: https://72fm.com/station/fc7ccfdf-6e00-4d68-bb57-c8bf881510a0
-#EXTINF:-1 group-title="Japan" radio="true",SHMUPRADIO
-https://stream.shmupradio.com/320
+# 72FM: https://72fm.com/station/a6d3e86c-0d17-4dd5-a587-5b30f31fd837
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO
+https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media2/index.m3u8
 # 72FM: https://72fm.com/station/f224c900-8796-4063-8aca-0bb3afd8507f
 #EXTINF:-1 tvg-logo="https://hkradio.myaddr.io/api/station/new_radio/art/a6ea0df6141aff3b0519c707-1744450585.jpg" group-title="Japan" radio="true",A Radio for ACG & others
 https://hkradio.myaddr.io/listen/new_radio/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 # 72FM: https://72fm.com/station/ba5af88c-6fa9-4f56-990f-c0eaaf7c37ba
 #EXTINF:-1 tvg-logo="https://listen.moe/favicon.ico" group-title="Japan" radio="true",Listen.Moe JPop Vorbis
 https://listen.moe/stream
+# 72FM: https://72fm.com/station/fc7ccfdf-6e00-4d68-bb57-c8bf881510a0
+#EXTINF:-1 group-title="Japan" radio="true",SHMUPRADIO
+https://stream.shmupradio.com/320
 # 72FM: https://72fm.com/station/1e054608-8472-4535-a9b5-f36c6282b958
 #EXTINF:-1 tvg-logo="https://fmsetagaya.com/wp/wp-content/uploads/2020/02/1400-300x300.jpg" group-title="Japan" radio="true",83.4MHz FMSETAGAYA
 https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a
 # 72FM: https://72fm.com/station/64039cf5-d820-456c-9c12-7b5bdefc76ac
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR7cP5IK-Znc_XP1IzQQmLE0eQFSfpLKTanmC9NqZ-bRenKauIZvw6lQ&s=10" group-title="Japan" radio="true",XWave Radio
 http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3
-# 72FM: https://72fm.com/station/a6d3e86c-0d17-4dd5-a587-5b30f31fd837
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO
-https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media2/index.m3u8
-# 72FM: https://72fm.com/station/90c96d5f-8c72-49fb-8f47-3c07cb636264
-#EXTINF:-1 tvg-logo="https://booth.pximg.net/1b3b1730-3c83-47fb-bb90-5043af605d63/i/8135483/4636d6a4-f95b-45b3-abd8-cad490173211_base_resized.jpg" group-title="Japan" radio="true",MILCpod
-https://radio.milradio.info:9000/milcpod.m3u8
 # 72FM: https://72fm.com/station/a9034ee4-f44a-4d55-b2bc-18b854434fa7
 #EXTINF:-1 group-title="Japan" radio="true",RadiCro (レディクロ)
 https://radicrojapan.out.airtime.pro/radicrojapan_a
+# 72FM: https://72fm.com/station/90c96d5f-8c72-49fb-8f47-3c07cb636264
+#EXTINF:-1 tvg-logo="https://booth.pximg.net/1b3b1730-3c83-47fb-bb90-5043af605d63/i/8135483/4636d6a4-f95b-45b3-abd8-cad490173211_base_resized.jpg" group-title="Japan" radio="true",MILCpod
+https://radio.milradio.info:9000/milcpod.m3u8
 # 72FM: https://72fm.com/station/875ad2de-f6a2-44e8-95b2-0d197dc66123
 #EXTINF:-1 tvg-logo="https://www.radicro.com/images/company/main.jpg" group-title="Japan" radio="true",RadiCro
 https://radicrojapan.out.airtime.pro/radicrojapan_b
@@ -280,12 +280,12 @@ https://stream.zeno.fm/ricmeoweux2uv
 # 72FM: https://72fm.com/station/3b1b2706-069d-44a9-a1a7-34e8699ab5a8
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO-2
 https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media11/index.m3u8
-# 72FM: https://72fm.com/station/ff0d02bb-1922-407b-9ae7-3b2c86c86725
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO-5
-https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media3/index.m3u8
 # 72FM: https://72fm.com/station/054efc50-2a18-43ae-8226-5bed835d78d5
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&dl=0" group-title="Japan" radio="true",Oreo Chii
 https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&raw=1
+# 72FM: https://72fm.com/station/ff0d02bb-1922-407b-9ae7-3b2c86c86725
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO-5
+https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media3/index.m3u8
 # 72FM: https://72fm.com/station/8cbc1e1e-d478-43f3-a39a-f1eaa8b44664
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1613873763149283329/mfOYmC0L_400x400.jpg" group-title="Japan" radio="true",City Pop One
 http://65.21.61.215:8000/citypopone

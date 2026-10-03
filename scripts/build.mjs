@@ -532,7 +532,9 @@ function stationTable(entries) {
       (s, i) =>
         `<tr><td class="num">${i + 1}</td><td class="name">${esc(s.name)}</td><td class="nw">${esc(formatOf(s)) || '<span class="muted">–</span>'}</td>` +
         `<td class="nw"><a href="${esc(s.url)}" rel="nofollow noopener">Stream</a></td>` +
-        `<td class="nw"><a href="${SITE}/station/${esc(encodeURIComponent(s.uuid))}">Listen on 72FM</a></td></tr>`,
+        // nofollow: ~32,000 per-station links from generated pages would read as link manipulation, and most of
+        // those stations have no prerendered 72FM page. People can still click; search engines are not told to follow.
+        `<td class="nw"><a href="${SITE}/station/${esc(encodeURIComponent(s.uuid))}" rel="nofollow">Listen on 72FM</a></td></tr>`,
     )
     .join('\n');
   return `<div class="tw"><table>

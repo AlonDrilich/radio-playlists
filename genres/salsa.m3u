@@ -85,12 +85,12 @@ https://radio.perustream.com:7000/stream
 # 72FM: https://72fm.com/station/e206db3d-b032-4c47-b31b-ad74fd606a73
 #EXTINF:-1 tvg-logo="https://olimpicastereo.com.co/_next/image?url=https%3A%2F%2Fstrapi-aws-s3-images-olimpica-stereo-bucket.s3.us-east-1.amazonaws.com%2Flogo_olimpica_stereo_179b80381a.webp&w=384&q=75" group-title="Salsa" radio="true",Olímpica Stéreo 104.5 Cali
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALI.mp3
-# 72FM: https://72fm.com/station/ff04c47a-6e55-4bed-be01-89dbdff8f384
-#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Salsa" radio="true",Radio Art - Salsa
-http://air.radioart.com/fSalsa.mp3
 # 72FM: https://72fm.com/station/a33fe6ce-4f02-4b43-9c50-6db6a3ad693a
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Salsa" radio="true",__SALSA__ by rautemusik (rm.fm)
 https://salsa-high.rautemusik.fm/?ref=radiobrowser
+# 72FM: https://72fm.com/station/ff04c47a-6e55-4bed-be01-89dbdff8f384
+#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Salsa" radio="true",Radio Art - Salsa
+http://air.radioart.com/fSalsa.mp3
 # 72FM: https://72fm.com/station/23749ae2-31cb-4121-9145-96fe81e66f31
 #EXTINF:-1 group-title="Salsa" radio="true",Original Stereo 90.7 FM
 http://rosetta.shoutca.st:8931/;
@@ -181,15 +181,15 @@ https://stream.zeno.fm/8mklmefaucjuv
 # 72FM: https://72fm.com/station/6f740615-39ea-4ac8-957b-b69119bf734b
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6542c38fa019d6dc1648908c" group-title="Salsa" radio="true",MEGA 96.3 (Los Ángeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Ángeles, California, EUA
 https://liveaudio.lamusica.com/LA_KXOL_icy
+# 72FM: https://72fm.com/station/aefb9ed3-da01-4a43-94f7-4ba2ae1b5dcf
+#EXTINF:-1 tvg-logo="https://radioscuba.com/images/favicon-cu.png" group-title="Salsa" radio="true",Radio Campesina Cubana
+https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2026-09-30_21-01-46&uuid=3c3efc4c-3971-98bc-69d7-8348834f3839
 # 72FM: https://72fm.com/station/4ba2a99d-50bb-40fd-8068-f96b29ca3c16
 #EXTINF:-1 tvg-logo="https://fiesta106.com.ve/img/logo-radio.jpg?19116" group-title="Salsa" radio="true",Fiesta Latina 106.1 FM
 https://stream.zeno.fm/e2kzfpr34d0uv
 # 72FM: https://72fm.com/station/2f3c155d-701b-4648-a4ab-4cfe1c00f9e5
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/Z8aNaCWm5HctUuwgiu5QLkvjiS3SCoTrNMhYPPV55RY/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lsLUc4X3dzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0kxOXp4blFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTgzMjQzMjAwMA.webp" group-title="Salsa" radio="true",SALSA Y CHARANGA 24/7
 https://stream.zeno.fm/3wxfyaqc1rhvv
-# 72FM: https://72fm.com/station/aefb9ed3-da01-4a43-94f7-4ba2ae1b5dcf
-#EXTINF:-1 tvg-logo="https://radioscuba.com/images/favicon-cu.png" group-title="Salsa" radio="true",Radio Campesina Cubana
-https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2026-09-30_21-01-46&uuid=3c3efc4c-3971-98bc-69d7-8348834f3839
 # 72FM: https://72fm.com/station/921c0a5d-20c1-47f4-9482-d84d7783f3ac
 #EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radios-com-pe/comas.png" group-title="Salsa" radio="true",Radio Comas 101.7
 https://tupanel.info:7390/
@@ -211,9 +211,6 @@ https://cast6.asurahosting.com/proxy/salsafou/stream
 # 72FM: https://72fm.com/station/65dadf2c-37a5-4609-b4ee-03d45ef98e48
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s90pDjm/brazil.jpg" group-title="Salsa" radio="true",0nlineradio BRAZIL
 https://stream.0nlineradio.com/brazil?ref=radiobrowser
-# 72FM: https://72fm.com/station/d2830deb-5658-4405-a1e5-c35437d97527
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/235/la-mega-967-fm.a5807baf.png" group-title="Salsa" radio="true",Radio Megamix Lima
-https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
 # 72FM: https://72fm.com/station/41eace33-d750-446d-8fff-05e041146ae5
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjaxhBAuprxwqueMvQ9jmw8MD5rxew5OUYBENkO36-lOsH4bgVHalTTHO_O-mSgXnyTKK5-K97ZXQJ7LOn3FUjlOFsUv-cRszHhFPbyG_dbU4dUsRzOxjzTiiMefGk4cBMR48K1VrVqPa5GMKjA2N0qbBtWIsY_yI0CISj4u0z0UXLWujPAVDkBylI9Or4=s495" group-title="Salsa" radio="true",Radio Kuia Bue
 https://a11.asurahosting.com:7400/radio.aac
@@ -244,12 +241,12 @@ https://liveaudio.lamusica.com/MIA_WCMQ_icy
 # 72FM: https://72fm.com/station/8f9f2f6c-a415-4803-a0e6-5a91bf96cddd
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/2YbylHXFvwMpbtT4U8EFYJUmTxIoR04MXtyKzAde7lA/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFF1Yk96cXdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFEtWTZlblFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTYzNjMzNjAwMA.webp" group-title="Salsa" radio="true",RADIO POLICÍA NACIONAL" "106.0 FM (CARTAGENA)
 https://stream.zeno.fm/7uec7b5ukm0uv
-# 72FM: https://72fm.com/station/b0f534a6-132c-425d-8ccf-ce0e766e916a
-#EXTINF:-1 group-title="Salsa" radio="true",Sabor Boricua Radio
-http://usa19.fastcast4u.com:6170/live
 # 72FM: https://72fm.com/station/c8a78cc5-38a9-4351-a7d0-557fa6cb69ef
 #EXTINF:-1 tvg-logo="https://cumbre1470am.com/wp-content/uploads/2021/12/avatar.png" group-title="Salsa" radio="true",Cumbre 1470 AM - 106.3 FM
 https://sp.unoredcdn.net/8158/stream
+# 72FM: https://72fm.com/station/b0f534a6-132c-425d-8ccf-ce0e766e916a
+#EXTINF:-1 group-title="Salsa" radio="true",Sabor Boricua Radio
+http://usa19.fastcast4u.com:6170/live
 # 72FM: https://72fm.com/station/372de57e-319d-492a-972a-eccfe1001633
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/yHPN_XjhQzWsIw0PLq7KEK4Ve_H0d3QPUWWP1Rl4FhI/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0FnUDdLdmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3d5dHFBMVFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTk3NDcyNTAwMA.webp" group-title="Salsa" radio="true",La Pachanguera FM
 https://stream.zeno.fm/cc6vqgx4kv8uv
@@ -280,33 +277,33 @@ https://sv2.globalhostlive.com/proxy/canela/stream
 # 72FM: https://72fm.com/station/9fa5c85b-dfde-4d91-b7ef-d36e2f94c804
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/81111.v7.png" group-title="Salsa" radio="true",((La Reina Putumayo 106.3 Fm))
 https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream
-# 72FM: https://72fm.com/station/8b5b660b-b94a-48f5-9cea-6c4639b2456b
-#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/rlUOcsyjmpTtpaIrscJwnCFuFuMSK4qlJZLC0xjvF5Q/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2c2cFRhcHdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2d1cXVzcFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTEwMTY2NzAwMA.webp" group-title="Salsa" radio="true",FIESTA ESTEREO DIGITAL
-https://stream.zeno.fm/exccakv632quv
 # 72FM: https://72fm.com/station/2a2ce0a5-e750-4f4e-8f83-a1b442e6c90e
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/JI5l7D0zp-ngu-Rb4a0aC7nUrYzWNR4p6BWj8y6tWWo/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3czNF9Lb0FnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dfN19BMGdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4OTgyNTY5MjAwMA.webp" group-title="Salsa" radio="true",MARACAIBERA FM 98.3
 https://stream.zeno.fm/t8g2xp8gr68uv
+# 72FM: https://72fm.com/station/8b5b660b-b94a-48f5-9cea-6c4639b2456b
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/rlUOcsyjmpTtpaIrscJwnCFuFuMSK4qlJZLC0xjvF5Q/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2c2cFRhcHdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ2d1cXVzcFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTEwMTY2NzAwMA.webp" group-title="Salsa" radio="true",FIESTA ESTEREO DIGITAL
+https://stream.zeno.fm/exccakv632quv
 # 72FM: https://72fm.com/station/4ca5a484-12d9-4e9f-8f72-1d6c6af73a35
 #EXTINF:-1 tvg-logo="https://cdn.mytuner.mobi/static/ctr/images/country/co.png" group-title="Salsa" radio="true",Salsa Latina
 https://play10.tikast.com/proxy/zsalsalatina?mp=/stream
+# 72FM: https://72fm.com/station/b38669ed-973c-4b44-8303-10563754234c
+#EXTINF:-1 group-title="Salsa" radio="true",Fiesta 106.5 FM
+https://acp2.lorini.net:58200/stream
 # 72FM: https://72fm.com/station/728b1249-3258-45e2-9d1b-36a0219c3077
 #EXTINF:-1 tvg-logo="https://emisoratropicaldeoro.com/wp-content/uploads/2024/10/Logo-aplicado.webp" group-title="Salsa" radio="true",EMISORA TROPICAL DE ORO
 https://stream.zeno.fm/b7tg0hqhnkhvv
 # 72FM: https://72fm.com/station/7beae1fb-5d77-4409-bb31-8db997ef8593
 #EXTINF:-1 tvg-logo="https://www.tropicanafm.com/wp-content/themes/nwp/src/Player/assets/images/player-logo.jpg" group-title="Salsa" radio="true",Tropicana Popayán 106.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/TR_POPAYAN_SC
+# 72FM: https://72fm.com/station/57afd749-dd34-4594-8441-bb74f3830621
+#EXTINF:-1 tvg-logo="https://gruporadiosoriente.com/images/latina955.png" group-title="Salsa" radio="true",Latina 95.5 FM
+http://stream.zeno.fm/w6ajlkgtufstv
 # 72FM: https://72fm.com/station/e1e6a1fc-fb60-4439-a2ad-78891ecec130
 #EXTINF:-1 tvg-logo="https://www.euforiaperuana.com/img/logo.png" group-title="Salsa" radio="true",Radio Euforia Peruana
 https://sp.oyotunstream.com/9966/stream
 # 72FM: https://72fm.com/station/4d312d49-711c-450f-9736-550ab1e9e82e
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/cd/d0/cdd0a71a4224e4bbb98f84d6a4fd85bd.jpg" group-title="Salsa" radio="true",CANUTAL ESTEREO
 https://stream.zeno.fm/ajgwsujd9eatv
-# 72FM: https://72fm.com/station/57afd749-dd34-4594-8441-bb74f3830621
-#EXTINF:-1 tvg-logo="https://gruporadiosoriente.com/images/latina955.png" group-title="Salsa" radio="true",Latina 95.5 FM
-http://stream.zeno.fm/w6ajlkgtufstv
-# 72FM: https://72fm.com/station/b38669ed-973c-4b44-8303-10563754234c
-#EXTINF:-1 group-title="Salsa" radio="true",Fiesta 106.5 FM
-https://acp2.lorini.net:58200/stream
 # 72FM: https://72fm.com/station/d08e3abb-c80d-4825-a0e3-ecd82cde99e6
 #EXTINF:-1 tvg-logo="https://editor.zenomedia.com/resources/zs_station/585276/CardWebsite/18064877-2b06-427e-b0cb-3329e8e704ee.webp" group-title="Salsa" radio="true",La Salsera FM
 https://stream.zeno.fm/4qbzbrvdmy8uv
@@ -319,42 +316,42 @@ https://streamingned.com:7112/stream
 # 72FM: https://72fm.com/station/15ba1158-be7d-4132-bbb8-b815272e295b
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/E5TfS-DftYePR2cO6-1CScA-MN4_pjkph4KuX20a7g4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNzlhMGViN2YtYjlhMi00M2NkLWIxODMtZjMxZTE5MTU4ODdkL2ltYWdlLz91PTE3NDM3MzQwMDQwMDA.webp" group-title="Salsa" radio="true",Música Tropical... RDC Radio
 https://stream-288.surfernetwork.com/4fcavsowcdvvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZmNhdnNvd2NkdnZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkxWTU9RZFdtVDFPU2ZDRjJZQ2ZuMnciLCJpYXQiOjE3OTA4MTM5MTgsImV4cCI6MTc5MDgxMzk3OH0.q-vz7bHWKY70hKgK2CAfNIq-s-6xgnDgIoVXjlYiZFo
-# 72FM: https://72fm.com/station/f1f053fc-b355-48a8-9cbf-c436051400ef
-#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/iQL_pj_MzPKZ4WHqyGRpJTAHu_2qqrJSpXHuj4jN_tc/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3d4dHJ0N0FrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3cxdi1OcEFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU5NzY3NTAwMA.webp" group-title="Salsa" radio="true",CUYUNI FM 106.5
-https://stream.zeno.fm/xag8wa3c4v8uv
-# 72FM: https://72fm.com/station/c9e2d752-fa40-46ea-ae47-069bc97916ab
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWz4hieddwrA7_viSiLuR9R4tAFemmhDoIQAzZAYv3altP0wugLR7fH1mKazFCulIPs5EJXZhRag3x0k74Aec06S4YkKb_ra3UvrYuM1O5acWQoS7DYSm0yOIeGcygoVlrDvyOnIWFdg_XKGsOubEpyyhjm=s0" group-title="Salsa" radio="true",BELEN STEREO 95.3 FM
-https://server2.ejeserver.com:9976/stream
 # 72FM: https://72fm.com/station/71c0b898-1178-4757-a521-5b716437823b
 #EXTINF:-1 group-title="Salsa" radio="true",RSMUSIC
 http://rsmusic.stream.laut.fm/rsmusic?t302=2026-10-01_02-23-49&uuid=1056bbac-848c-0061-7fc9-a1c36decd93a
+# 72FM: https://72fm.com/station/c9e2d752-fa40-46ea-ae47-069bc97916ab
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWz4hieddwrA7_viSiLuR9R4tAFemmhDoIQAzZAYv3altP0wugLR7fH1mKazFCulIPs5EJXZhRag3x0k74Aec06S4YkKb_ra3UvrYuM1O5acWQoS7DYSm0yOIeGcygoVlrDvyOnIWFdg_XKGsOubEpyyhjm=s0" group-title="Salsa" radio="true",BELEN STEREO 95.3 FM
+https://server2.ejeserver.com:9976/stream
+# 72FM: https://72fm.com/station/f1f053fc-b355-48a8-9cbf-c436051400ef
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/iQL_pj_MzPKZ4WHqyGRpJTAHu_2qqrJSpXHuj4jN_tc/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3d4dHJ0N0FrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3cxdi1OcEFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU5NzY3NTAwMA.webp" group-title="Salsa" radio="true",CUYUNI FM 106.5
+https://stream.zeno.fm/xag8wa3c4v8uv
 # 72FM: https://72fm.com/station/f7a8b3e5-b49e-465d-aac1-77110a7f9ae4
 #EXTINF:-1 tvg-logo="https://www.lanueva106.com/wp-content/uploads/2022/01/8dcc9c61-1691-4bdf-9287-2b5b25c6032e.png" group-title="Salsa" radio="true",La Nueva 106.9 FM
 https://lanueva106.radioca.st/stream/1/
 # 72FM: https://72fm.com/station/adfd10cf-ec13-482e-98c7-ba32a8b33879
 #EXTINF:-1 group-title="Salsa" radio="true",Bar Latina Radio
 https://s2.citrus3.com:2000/stream/barlatinaradio
+# 72FM: https://72fm.com/station/37774085-9527-43d4-beeb-4e09f453ef8f
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s152831d.png" group-title="Salsa" radio="true",FIESTA FM LEVANTE - ALICANTE 88,4 / ELCHE 95.2
+http://cdn4.onstream.audio:9181/stream
 # 72FM: https://72fm.com/station/fe8099f9-0981-48cf-9bba-ae72feda7a29
 #EXTINF:-1 group-title="Salsa" radio="true",La Lupe 105.3 FM Monterrey
 https://mdstrm.com/audio/6737993c9422ca09f9b9ea70/icecast.audio
 # 72FM: https://72fm.com/station/fd0ba191-cfbe-42de-b1b3-4e283a77f5e9
 #EXTINF:-1 tvg-logo="https://circuitoelectrikfm.com.ve/images/logo-electrik-web.png?crc=3868536483" group-title="Salsa" radio="true",Electrik 97.7 FM
 https://streamingned.com:7044/stream
-# 72FM: https://72fm.com/station/37774085-9527-43d4-beeb-4e09f453ef8f
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s152831d.png" group-title="Salsa" radio="true",FIESTA FM LEVANTE - ALICANTE 88,4 / ELCHE 95.2
-http://cdn4.onstream.audio:9181/stream
-# 72FM: https://72fm.com/station/5022c429-723d-41b8-8fb9-040edd02fad9
-#EXTINF:-1 tvg-logo="https://www.fiestafm.com.co/images/logo-repro.png" group-title="Salsa" radio="true",Fiesta 102.7 FM
-https://server1.intermediacolombia.com:8008/stream
 # 72FM: https://72fm.com/station/98ab8e03-7be1-455a-93cf-456b57492316
 #EXTINF:-1 tvg-logo="https://olimpicastereo.com.co/_next/image?url=https%3A%2F%2Fstrapi-aws-s3-images-olimpica-stereo-bucket.s3.us-east-1.amazonaws.com%2Flogo_olimpica_stereo_179b80381a.webp&w=384&q=75" group-title="Salsa" radio="true",Olímpica Stéreo 92.1 Barranquilla
 https://master.letio.com/io/?gs=9102&type=live.mp3
-# 72FM: https://72fm.com/station/a0087b8e-5f54-4583-91d3-3411f9c60daa
-#EXTINF:-1 tvg-logo="https://grupobadui.com/wp-content/uploads/2020/10/Logo-Super-Estacion-cortado-600x400-1-300x200.png" group-title="Salsa" radio="true",FM 97.3 La Super Estación
-https://cast4.my-control-panel.com/proxy/atlantica97/;
+# 72FM: https://72fm.com/station/5022c429-723d-41b8-8fb9-040edd02fad9
+#EXTINF:-1 tvg-logo="https://www.fiestafm.com.co/images/logo-repro.png" group-title="Salsa" radio="true",Fiesta 102.7 FM
+https://server1.intermediacolombia.com:8008/stream
 # 72FM: https://72fm.com/station/530c661a-e3c3-48c5-af27-5aba0bb49d46
 #EXTINF:-1 tvg-logo="https://fiebrelatinaradio.com/wp-content/uploads/2024/07/cropped-Logo.png" group-title="Salsa" radio="true",Fiebre Latina Radio 96.6 FM
 https://eu1.lhdserver.es:9035/stream
+# 72FM: https://72fm.com/station/a0087b8e-5f54-4583-91d3-3411f9c60daa
+#EXTINF:-1 tvg-logo="https://grupobadui.com/wp-content/uploads/2020/10/Logo-Super-Estacion-cortado-600x400-1-300x200.png" group-title="Salsa" radio="true",FM 97.3 La Super Estación
+https://cast4.my-control-panel.com/proxy/atlantica97/;
 # 72FM: https://72fm.com/station/21741ce7-2f1c-451d-b6dd-8ebb0cc7a884
 #EXTINF:-1 tvg-logo="https://www.ccvdigital.com/assets/01_la_estrella.png" group-title="Salsa" radio="true",Estrella 92.3 FM
 https://c13.radioboss.fm:18187/stream
@@ -364,33 +361,33 @@ http://radiolatina.info:7084/;
 # 72FM: https://72fm.com/station/a1865a88-6963-4348-8bb9-f7b95aa32782
 #EXTINF:-1 group-title="Salsa" radio="true",La Ke Buena Ciudad de México 92.9 FM (Stream alternativo)
 https://streaming.servicioswebmx.com/8218/stream
+# 72FM: https://72fm.com/station/8d0397fb-40d2-4ee3-9bf5-2d51a82e82ff
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b509c5_9c41550fef434905b4853ca34e471b1b%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/b509c5_9c41550fef434905b4853ca34e471b1b%7Emv2.png" group-title="Salsa" radio="true",Fiesta FM 87.6
+https://radio.fiestamallorca.com/fiesta?1724972882139
+# 72FM: https://72fm.com/station/5a8ce776-13e3-4853-afa3-9ec944498393
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ4ZnwmQsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ0cSdigsMogEEemVubw/cards/ab86da83-19ff-4f0a-96c4-11514d323fcb" group-title="Salsa" radio="true",EL SHOW DE PIÑA MIX
+https://stream-289.surfernetwork.com/mvu8ut5f2k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdnU4dXQ1ZjJrMHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlFWUi1aZDUxUVktcnBUc3Q2T0h6M2ciLCJpYXQiOjE3OTA4NzI0MjIsImV4cCI6MTc5MDg3MjQ4Mn0.-QwFzk9IUB3hEK5YNTcDzc4J4aXduHTFBGBxUtdynjk
 # 72FM: https://72fm.com/station/d4e61a49-7936-4863-87bc-62e682caf58c
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhd29uClrp0DUBQ0hI6ftLzRmYEQjaTu_cxpUEJBtPREGLIzkNxQwSxkYJLa8zsdjCauHjTakBF0CIQFR7gtcda4xga73N_nJeWmKiAQy8OQObQsfYzhTTrWDx6pxq_887mucURzMjgMP3zJDfYqHCvLrhXHTfu40xlan_YgDpdJgv8HLLXrxsa_UCc4Q=s429" group-title="Salsa" radio="true",Estelar-106
 https://radio.dominiserver.com/proxy/estelar106?mp=/stream
 # 72FM: https://72fm.com/station/16865855-38e7-4ba8-a1db-8a5527774b82
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8LHZby/Logo-Redondo-radio-expreso-2025-fw.png" group-title="Salsa" radio="true",RADIO EXPRESO LATINO
 https://stream.zenolive.com/qren9t8qd6quv.aac
-# 72FM: https://72fm.com/station/5a8ce776-13e3-4853-afa3-9ec944498393
-#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ4ZnwmQsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ0cSdigsMogEEemVubw/cards/ab86da83-19ff-4f0a-96c4-11514d323fcb" group-title="Salsa" radio="true",EL SHOW DE PIÑA MIX
-https://stream-289.surfernetwork.com/mvu8ut5f2k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdnU4dXQ1ZjJrMHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlFWUi1aZDUxUVktcnBUc3Q2T0h6M2ciLCJpYXQiOjE3OTA4NzI0MjIsImV4cCI6MTc5MDg3MjQ4Mn0.-QwFzk9IUB3hEK5YNTcDzc4J4aXduHTFBGBxUtdynjk
-# 72FM: https://72fm.com/station/8d0397fb-40d2-4ee3-9bf5-2d51a82e82ff
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b509c5_9c41550fef434905b4853ca34e471b1b%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/b509c5_9c41550fef434905b4853ca34e471b1b%7Emv2.png" group-title="Salsa" radio="true",Fiesta FM 87.6
-https://radio.fiestamallorca.com/fiesta?1724972882139
 # 72FM: https://72fm.com/station/1bd34c7a-ebed-40a9-a139-9cae2d08cd2f
 #EXTINF:-1 tvg-logo="https://lapatronafm.es/wp-content/uploads/2023/02/cropped-LA-PATRONA-LOGO-APP.png" group-title="Salsa" radio="true",La Patrona 102.9 FM
 https://lapatrona-zikoxweb2.radioca.st/stream
 # 72FM: https://72fm.com/station/d2fb7640-61f7-4e68-b8e1-7bf31509fe31
 #EXTINF:-1 tvg-logo="https://vilmarfm.com/wp-content/uploads/2024/11/cropped-NUEVO-3.png" group-title="Salsa" radio="true",VILMAR STEREO 91.4 FM
 https://stream.zeno.fm/pfrwo2fzcbktv
-# 72FM: https://72fm.com/station/857759c8-34e8-4b78-aaf4-6208208b27e9
-#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/SOmgduVxy8XvmcZwBJi7gEkFghGnxRz1vamCPUUf4TM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFEzb3ZpM2dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFfcEhkaVFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY3NjA2MTY1NjAwMA.webp" group-title="Salsa" radio="true",Caribe Rumba
-https://stream.zeno.fm/gq47fz6ewg0uv
-# 72FM: https://72fm.com/station/0a5d0492-4d55-4ac8-86eb-8ece33f48538
-#EXTINF:-1 group-title="Salsa" radio="true",BUENISIIMA 1530 y 1590 (CDMX) - 1590 AM - XEVOZ-AM - Grupo Audiorama Comunicaciones - Ciudad de México
-http://s1.audiorama.mx:6648/stream
 # 72FM: https://72fm.com/station/862062db-4b53-4575-a9f6-096646b319d5
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/f_webp&q_100&fit_cover&s_160x160/https://images.zeno.fm/_b9qhiW2cyZWXGU0MhCGjCDZYqaDXq172iUQ8cPRWtg/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZjk5ZWU1YTEtYjVlNi00OWFjLWJlODEtYTUxMjkzMmE1MTJlL2ltYWdlLz91PTE2ODAzMzYyODUwMDA.webp" group-title="Salsa" radio="true",Cordillera 104.7 FM
 https://stream.zeno.fm/fjjqaatp19wtv
+# 72FM: https://72fm.com/station/0a5d0492-4d55-4ac8-86eb-8ece33f48538
+#EXTINF:-1 group-title="Salsa" radio="true",BUENISIIMA 1530 y 1590 (CDMX) - 1590 AM - XEVOZ-AM - Grupo Audiorama Comunicaciones - Ciudad de México
+http://s1.audiorama.mx:6648/stream
+# 72FM: https://72fm.com/station/857759c8-34e8-4b78-aaf4-6208208b27e9
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/SOmgduVxy8XvmcZwBJi7gEkFghGnxRz1vamCPUUf4TM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFEzb3ZpM2dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFfcEhkaVFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY3NjA2MTY1NjAwMA.webp" group-title="Salsa" radio="true",Caribe Rumba
+https://stream.zeno.fm/gq47fz6ewg0uv
 # 72FM: https://72fm.com/station/610609fe-f59c-4836-9b62-c75ffd2d7000
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-latin_600x600.jpg" group-title="Salsa" radio="true",- 0 N - Latin on Radio
 https://0n-latin.radionetz.de/0n-latin.mp3
@@ -403,27 +400,30 @@ https://stream.zeno.fm/m8s8m3oflj8uv
 # 72FM: https://72fm.com/station/76d41ce5-5b9a-408a-929f-334dfd44cebf
 #EXTINF:-1 tvg-logo="https://bakanosfm.com/wp-content/uploads/2021/12/BAKANOSFM-logo-finalpropuestas-collection-color-04.png.webp" group-title="Salsa" radio="true",Bakanos FM 97.0 - 97.1
 https://stream.zeno.fm/cxmx1evtzwzuv
-# 72FM: https://72fm.com/station/390a353d-68ec-4611-831c-7692b748d556
-#EXTINF:-1 tvg-logo="https://emisoranuevaepoca.com.co/wp-content/uploads/2024/12/cropped-1000074395-removebg-preview-1-180x180.png" group-title="Salsa" radio="true",Emisora nueva época
-https://stream-156.zeno.fm/c1knbfegny8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMWtuYmZlZ255OHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikx4b3RrbWszVGNLeVVsaWZVaFhUYWciLCJpYXQiOjE3MTg5NDY0NTcsImV4cCI6MTcxODk0NjUxN30.nYHJlP_XBqv_MAdINMhqgdWukUxGoKRsqlTTqCgAuUU
 # 72FM: https://72fm.com/station/55913a71-9144-4a06-94dc-e812ac19f0ed
 #EXTINF:-1 tvg-logo="https://img.webme.com/pic/a/anoriestereo/logo.jpg" group-title="Salsa" radio="true",Anorí Estéreo 105.4 FM
 https://stream-283.surfernetwork.com/x7bboxazwdytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4N2Jib3hhendkeXR2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlFNlh5ZkRzUks2RUxFdXF0X2wxdnciLCJpYXQiOjE3OTA4MTAzMjAsImV4cCI6MTc5MDgxMDM4MH0.FL3TxMtqZXSQBVcKRWG6Sf7fcDhkxoP66ZSpYuUpOaE
-# 72FM: https://72fm.com/station/d47247b2-6638-48dc-8b53-fc6621fce9d2
-#EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2023/11/logo-candela-header.webp" group-title="Salsa" radio="true",Candela Casanare 94.7 Fm
-https://cloudoledgo.com:8026/stream
+# 72FM: https://72fm.com/station/390a353d-68ec-4611-831c-7692b748d556
+#EXTINF:-1 tvg-logo="https://emisoranuevaepoca.com.co/wp-content/uploads/2024/12/cropped-1000074395-removebg-preview-1-180x180.png" group-title="Salsa" radio="true",Emisora nueva época
+https://stream-156.zeno.fm/c1knbfegny8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMWtuYmZlZ255OHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikx4b3RrbWszVGNLeVVsaWZVaFhUYWciLCJpYXQiOjE3MTg5NDY0NTcsImV4cCI6MTcxODk0NjUxN30.nYHJlP_XBqv_MAdINMhqgdWukUxGoKRsqlTTqCgAuUU
 # 72FM: https://72fm.com/station/acf37b79-f726-4d86-93c8-2144a5e0af62
 #EXTINF:-1 group-title="Salsa" radio="true",Comunion 97.5 Fm
 https://stream.zeno.fm/cy3ef0frwmzuv
+# 72FM: https://72fm.com/station/d47247b2-6638-48dc-8b53-fc6621fce9d2
+#EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2023/11/logo-candela-header.webp" group-title="Salsa" radio="true",Candela Casanare 94.7 Fm
+https://cloudoledgo.com:8026/stream
+# 72FM: https://72fm.com/station/61f80a1f-bccf-4bfd-9938-da11a22181cb
+#EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2024-06/rrsommerhits_600x600.jpg" group-title="Salsa" radio="true",Radio Regenbogen Sommerhits
+https://stream.regenbogen.de/sommerhits/aac-128/radiobrowser
 # 72FM: https://72fm.com/station/db09528b-7ed8-4214-a263-8a92e26c88b6
 #EXTINF:-1 group-title="Salsa" radio="true",SalsaViva
 https://streaming.live365.com/a37497?_=1778197802894
 # 72FM: https://72fm.com/station/a5f26a88-9d12-4983-a0a2-1b8e8915b662
 #EXTINF:-1 tvg-logo="https://www.brsradio.co/wp-content/uploads/2024/11/LA-SONORA-100.6A-560x560.jpg" group-title="Salsa" radio="true",La Sonora 100.6 Valle de Tenza
 https://sonic.paulatina.co/8088/stream
-# 72FM: https://72fm.com/station/61f80a1f-bccf-4bfd-9938-da11a22181cb
-#EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2024-06/rrsommerhits_600x600.jpg" group-title="Salsa" radio="true",Radio Regenbogen Sommerhits
-https://stream.regenbogen.de/sommerhits/aac-128/radiobrowser
+# 72FM: https://72fm.com/station/c5f361a3-c9b9-4298-9f3f-e9ffe1948118
+#EXTINF:-1 tvg-logo="https://lamaximaradio.com/wp-content/uploads/2018/12/cropped-logo_la_maxima_medio-4.png" group-title="Salsa" radio="true",La Máxima 89.1 FM
+https://streamming.dobitsoluciones.com:7032/live
 # 72FM: https://72fm.com/station/36e71800-2b6e-4d9d-91eb-5c2365224d9f
 #EXTINF:-1 tvg-logo="https://emisoranuevaepoca.com.co/wp-content/uploads/2022/01/25306.v1.png" group-title="Salsa" radio="true",Emisora Nueva Época 1200 AM
 https://stream.zeno.fm/c1knbfegny8uv
@@ -433,21 +433,18 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BARRANQUIL
 # 72FM: https://72fm.com/station/e780bbd4-225f-434e-a4b4-9ee2d13150da
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/mRqN849dzcLLL0ofnxTsp4iBSHt6L9TPFoG0cmwdZ38/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNDk1NDBhODctMzFkOS00MzY0LWI0MDctZjg5MDI2MTJlMmQzL2ltYWdlLz91PTE2OTYzODY1NzQwMDA.webp" group-title="Salsa" radio="true",CAPITAL 92.9 FM
 https://stream.zeno.fm/m7vfjoruxg2uv
-# 72FM: https://72fm.com/station/c5f361a3-c9b9-4298-9f3f-e9ffe1948118
-#EXTINF:-1 tvg-logo="https://lamaximaradio.com/wp-content/uploads/2018/12/cropped-logo_la_maxima_medio-4.png" group-title="Salsa" radio="true",La Máxima 89.1 FM
-https://streamming.dobitsoluciones.com:7032/live
 # 72FM: https://72fm.com/station/3d522215-ada8-4701-ab5c-4c4d33f41e17
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s282344/images/logod.jpg?t=637553924160000000" group-title="Salsa" radio="true",Buenisima Stereo - Barranquilla
 https://centova.hostingelectrica.net/proxy/buenisim?mp=/stream
+# 72FM: https://72fm.com/station/1dac9448-fb9c-4f34-a401-f947ba1f856b
+#EXTINF:-1 group-title="Salsa" radio="true",La Ke Buena 100.7 Ruiz
+https://icecasthd.net/proxy/grk/xhsk
 # 72FM: https://72fm.com/station/997664f1-2f43-4149-917a-de15f64279ee
 #EXTINF:-1 tvg-logo="https://streaminghd.co/user/algecirasst" group-title="Salsa" radio="true",Nueva Era Algeciras Sterio 107.8 FM
 https://radiohd.streaminghd.co:7154/stream
 # 72FM: https://72fm.com/station/fbdee7bf-c7f7-4596-b1bf-5cc6733c0e3e
 #EXTINF:-1 tvg-logo="https://sabor.fm/wp-content/uploads/2023/12/logo-sabor-1024x421.png" group-title="Salsa" radio="true",SABOR 106.7 FM
 https://radiostream.interven.ca/listen/saborfm/radio.mp3
-# 72FM: https://72fm.com/station/1dac9448-fb9c-4f34-a401-f947ba1f856b
-#EXTINF:-1 group-title="Salsa" radio="true",La Ke Buena 100.7 Ruiz
-https://icecasthd.net/proxy/grk/xhsk
 # 72FM: https://72fm.com/station/0d665551-1f0c-41a0-a42b-e5ce8beded02
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2024-07/bigfm_latinbeats_600x600_px.jpg" group-title="Salsa" radio="true",bigFM Latin Beats
 https://stream.bigfm.de/latin/mp3-128/radio-browser
@@ -457,12 +454,12 @@ http://cp2.lorini.net:28018/stream
 # 72FM: https://72fm.com/station/eaaa2597-050f-4990-ac07-ca1494ea7ff2
 #EXTINF:-1 tvg-logo="https://energia1025.com/wp-content/uploads/2019/11/cropped-logoe2.png" group-title="Salsa" radio="true",Energía 102.5 FM
 http://audio1.energia1025.com:8000/;
-# 72FM: https://72fm.com/station/addb0f43-481d-431b-bfda-ad23adf9e16e
-#EXTINF:-1 tvg-logo="https://planetaradio.com.ve/planeta.png" group-title="Salsa" radio="true",Planeta Radio 101.7 FM
-https://stream.zeno.fm/8y6m9g81c48uv
 # 72FM: https://72fm.com/station/50ac7519-fc4d-47b8-acfe-b82130dedce1
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s87588/images/logog.jpg" group-title="Salsa" radio="true",XEU 98.1 (Veracruz) - 98.1 FM - XHU-FM - Grupo Pazos Radio - Veracruz, Veracruz
 http://sgaudio.centrocibernetico.com/xeu
+# 72FM: https://72fm.com/station/addb0f43-481d-431b-bfda-ad23adf9e16e
+#EXTINF:-1 tvg-logo="https://planetaradio.com.ve/planeta.png" group-title="Salsa" radio="true",Planeta Radio 101.7 FM
+https://stream.zeno.fm/8y6m9g81c48uv
 # 72FM: https://72fm.com/station/6930adfa-e40a-47ea-9457-98c3e5388854
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s231247/images/logod.jpg?t=637200653880000000" group-title="Salsa" radio="true",La Troja Radio
 https://streaming01.shockmedia.com.ar:8034/stream
@@ -472,45 +469,45 @@ https://www.rads2.com/radio/8060/radio.mp3
 # 72FM: https://72fm.com/station/13399043-0b5a-460a-9405-d4ee93fc1a92
 #EXTINF:-1 group-title="Salsa" radio="true",DiscoRumba 95.4 FM
 https://virtual1.emisorasvirtuales.com:8050/live
+# 72FM: https://72fm.com/station/589f0b8c-8682-4515-bdeb-f2a75fd07608
+#EXTINF:-1 group-title="Salsa" radio="true",Salsa Magistral
+https://cloud8.vsgtech.co/8004/stream
+# 72FM: https://72fm.com/station/0557201d-8eed-4dfc-88b6-3e65a800dbd6
+#EXTINF:-1 tvg-logo="https://gruporadiosoriente.com/images/bigpartyradio.png" group-title="Salsa" radio="true",Big Party 88.9 FM
+http://stream.zeno.fm/w4ysmgm2ekhvv
 # 72FM: https://72fm.com/station/33eb7f6a-bb3a-4bb4-a5fb-56c9fb5143b0
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-salsa-en-mp3.jpg" group-title="Salsa" radio="true",Hotmix Salsa
 https://streaming.hotmixradio.com/hotmix-salsa-en-mp3?provider=radiobrowser
 # 72FM: https://72fm.com/station/ca452e07-0eaa-41c5-9b40-0beee0609945
 #EXTINF:-1 group-title="Salsa" radio="true",Latina Stereo
 https://stream.latinastereo.com/proxy/latina/stream
-# 72FM: https://72fm.com/station/0557201d-8eed-4dfc-88b6-3e65a800dbd6
-#EXTINF:-1 tvg-logo="https://gruporadiosoriente.com/images/bigpartyradio.png" group-title="Salsa" radio="true",Big Party 88.9 FM
-http://stream.zeno.fm/w4ysmgm2ekhvv
 # 72FM: https://72fm.com/station/e01ea387-ecde-4586-a6ac-e09f1ab02d99
 #EXTINF:-1 tvg-logo="https://emisorascolombianas.online/logos/elsol-bogota.png" group-title="Salsa" radio="true",El Sol
 https://mdstrm.com/audio/632c9b89aa9ace684913b815/live.m3u8
 # 72FM: https://72fm.com/station/38a98e95-5d5c-43c3-845b-c5aa8d9d6951
 #EXTINF:-1 group-title="Salsa" radio="true",Buturama Stereo 101.7 FM
 https://tupanel.info:2000/stream/ButuramaStereo
-# 72FM: https://72fm.com/station/589f0b8c-8682-4515-bdeb-f2a75fd07608
-#EXTINF:-1 group-title="Salsa" radio="true",Salsa Magistral
-https://cloud8.vsgtech.co/8004/stream
-# 72FM: https://72fm.com/station/d096e42f-19d0-42c1-9c54-8cbc029468db
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhwL9fJEEf-Esh_WYrlSVCmGbjN3zj8Um64pxg70_jXwfoiNEWITpORVxs1eB69bt-on3mp0KPiZ6I0YuwwIVj0B_YJRK5hTlJZmzMAtW6yDvyRHfbuouczVeC4_-WzmwcwAZwG_k98sru1sAiHRy0dXzcGfJE0gRCgpFK9NiBMEe_oa0v3Ryq6QKDz7jPS=w800" group-title="Salsa" radio="true",Kalamary - Radio Cultural Online
-https://stream.zeno.fm/clxflencimitv
 # 72FM: https://72fm.com/station/887ed8ec-aab7-4c7b-9f39-5a280b2899a9
 #EXTINF:-1 tvg-logo="https://kommodo.ai/i/t6psRH4bv6slJDVSIziq" group-title="Salsa" radio="true",Salsa One Radio
 https://server7.servistreaming.com/proxy/radiohoy?mp=/stream
+# 72FM: https://72fm.com/station/d096e42f-19d0-42c1-9c54-8cbc029468db
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhwL9fJEEf-Esh_WYrlSVCmGbjN3zj8Um64pxg70_jXwfoiNEWITpORVxs1eB69bt-on3mp0KPiZ6I0YuwwIVj0B_YJRK5hTlJZmzMAtW6yDvyRHfbuouczVeC4_-WzmwcwAZwG_k98sru1sAiHRy0dXzcGfJE0gRCgpFK9NiBMEe_oa0v3Ryq6QKDz7jPS=w800" group-title="Salsa" radio="true",Kalamary - Radio Cultural Online
+https://stream.zeno.fm/clxflencimitv
+# 72FM: https://72fm.com/station/5eb50ba4-7de8-4363-811b-1c5146a9e395
+#EXTINF:-1 tvg-logo="https://olimpicastereo.com.co/" group-title="Salsa" radio="true",Olimpica Stereo Cali
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aac?dist=oro_web
 # 72FM: https://72fm.com/station/bc57073c-6fd8-4b29-80a7-83b05a47f5cd
 #EXTINF:-1 tvg-logo="https://305miradio.com/wp-content/uploads/2023/03/82.png" group-title="Salsa" radio="true",305 MI RADIO
 https://cast3.my-control-panel.com/proxy/305miradio/stream
 # 72FM: https://72fm.com/station/36195e83-f3df-4c8a-90c0-fbaeef6438c5
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/s_160x160/https://images.zeno.fm/juGkESfdvDcFnCeFJljSnpYgwUqrG5eH-HfDEL15t9I/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMDNiMDNiM2MtZmJjNy00OWYwLTk0NzQtNDZlMDg5NDkxODNiL2ltYWdlLz91PTE2OTcxMjAwODUwMDA.webp" group-title="Salsa" radio="true",Charalá Estéreo 103.2fm
 https://stream-287.surfernetwork.com/4ili1p9hiyktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0aWxpMXA5aGl5a3R2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ikd4cF81aXg2UWlPMm5FRkhzX2hUU3ciLCJpYXQiOjE3OTA4NzU5MjQsImV4cCI6MTc5MDg3NTk4NH0.TmGdzwAK-0Sp_hrQdpX1FmOCjL8SjxFPeaGk4EAAI58
-# 72FM: https://72fm.com/station/5eb50ba4-7de8-4363-811b-1c5146a9e395
-#EXTINF:-1 tvg-logo="https://olimpicastereo.com.co/" group-title="Salsa" radio="true",Olimpica Stereo Cali
-https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALIAAC.aac?dist=oro_web
-# 72FM: https://72fm.com/station/969bcb21-831a-44de-b708-582ca6db846e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRB1WYbK/xevoz.png" group-title="Salsa" radio="true",BUENISIIMA 1530 y 1590 (CDMX) - 1590 AM - XEVOZ-AM - Grupo Audiorama Comunicaciones - Ciudad de MéxicO
-https://sg.centrocibernetico.com/audiorama-xevoz
 # 72FM: https://72fm.com/station/95db3596-6e2e-4e65-b780-045861c51980
 #EXTINF:-1 group-title="Salsa" radio="true",Contando Radio
 https://stream.integracionvirtual.com/proxy/contando?mp=/stream
+# 72FM: https://72fm.com/station/969bcb21-831a-44de-b708-582ca6db846e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRB1WYbK/xevoz.png" group-title="Salsa" radio="true",BUENISIIMA 1530 y 1590 (CDMX) - 1590 AM - XEVOZ-AM - Grupo Audiorama Comunicaciones - Ciudad de MéxicO
+https://sg.centrocibernetico.com/audiorama-xevoz
 # 72FM: https://72fm.com/station/b5237519-9eae-4671-8d16-b8470a576761
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s7116/images/logod.png?t=1754947948000" group-title="Salsa" radio="true",La FM- Barranquilla
 https://cl-a3-p-e-av11-audio.cdn.mdstrm.com/live-audio-aw/632cbdb5202d6801a31785b0
@@ -523,24 +520,21 @@ https://mdstrm.com/audio/6737954c58fddafa2d93f0fb/icecast.audio?property=mmradio
 # 72FM: https://72fm.com/station/a2586430-babf-4100-b01c-52e7d3f0e45b
 #EXTINF:-1 tvg-logo="https://sierra991fm.com/wp-content/uploads/2021/12/LOGO-SIERRA-WEB-2-1.png" group-title="Salsa" radio="true",SIERRA 99.1 FM
 https://stream.zeno.fm/9m95mfutymruv
-# 72FM: https://72fm.com/station/4ef0947a-e689-449b-85d4-c4813ccba425
-#EXTINF:-1 tvg-logo="https://983elzorro.linkedupradio.com/assets/images/theme/El_Zorro_Logo_2023.png" group-title="Salsa" radio="true",El Zorro 98.3 FM
-https://s2.radio.co/se796ec348/listen
 # 72FM: https://72fm.com/station/0ffc31c4-fe63-4f5d-a955-0c6c51afe8f4
 #EXTINF:-1 tvg-logo="https://www.rdmusica.com/wp-content/uploads/2023/05/fuego90-560x560.png" group-title="Salsa" radio="true",Fuego 90.1
 https://radiordomi.com/8390/stream
-# 72FM: https://72fm.com/station/450aef13-c997-47d7-a3e7-6be430404372
-#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/s_160x160/https://images.zeno.fm/-4MbIaP6mGWrs1xkzU4IXRK6ZrdxINOylFWaqCFa6nQ/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EtZDJDblFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1E1ZFRfclFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0ODM1MjAwMA.webp" group-title="Salsa" radio="true",elbaulsalsero
-https://stream.zeno.fm/tpsecnamx4zuv
 # 72FM: https://72fm.com/station/32230eb9-1737-4b10-892b-96cb95e27330
 #EXTINF:-1 group-title="Salsa" radio="true",Candela Pura 91.9 FM
 https://acp2.lorini.net:58400/stream
+# 72FM: https://72fm.com/station/4ef0947a-e689-449b-85d4-c4813ccba425
+#EXTINF:-1 tvg-logo="https://983elzorro.linkedupradio.com/assets/images/theme/El_Zorro_Logo_2023.png" group-title="Salsa" radio="true",El Zorro 98.3 FM
+https://s2.radio.co/se796ec348/listen
+# 72FM: https://72fm.com/station/450aef13-c997-47d7-a3e7-6be430404372
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/s_160x160/https://images.zeno.fm/-4MbIaP6mGWrs1xkzU4IXRK6ZrdxINOylFWaqCFa6nQ/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EtZDJDblFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1E1ZFRfclFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU0ODM1MjAwMA.webp" group-title="Salsa" radio="true",elbaulsalsero
+https://stream.zeno.fm/tpsecnamx4zuv
 # 72FM: https://72fm.com/station/0f6d1b44-e9be-4c0b-9c20-f01acc124193
 #EXTINF:-1 tvg-logo="https://www.emisoraoyentestereo.com.co/images/radio.jpeg" group-title="Salsa" radio="true",Oyente Stereo
 https://server2.ejeserver.com:8364/stream
-# 72FM: https://72fm.com/station/c0d64790-d4a5-4dd3-97fe-211d13538982
-#EXTINF:-1 group-title="Salsa" radio="true",la super estación latina 104.1 armenia
-https://server1.intermediacolombia.com:8010/stream
 # 72FM: https://72fm.com/station/76057b5e-c898-4a0f-a996-9d2ad4c53606
 #EXTINF:-1 group-title="Salsa" radio="true",Color Estéreo 103.7 FM
 https://azura5.emisiononline.es/listen/colorestereo/radio.mp3
@@ -553,9 +547,15 @@ https://stream.zeno.fm/u7sbv0hu1p8uv
 # 72FM: https://72fm.com/station/83465680-e7fc-421b-ae03-062e446ea89f
 #EXTINF:-1 group-title="Salsa" radio="true",La Q Guanajuato 1590 San Francisco Del Rincón/1290 Salvatierra
 https://streaming.servicioswebmx.com/8202/stream
+# 72FM: https://72fm.com/station/c0d64790-d4a5-4dd3-97fe-211d13538982
+#EXTINF:-1 group-title="Salsa" radio="true",la super estación latina 104.1 armenia
+https://server1.intermediacolombia.com:8010/stream
 # 72FM: https://72fm.com/station/b59a7f72-7a54-418a-bea2-d75e2453b331
 #EXTINF:-1 group-title="Salsa" radio="true",Toque Latino
 https://radiohd.streaminghd.co:7077/stream
+# 72FM: https://72fm.com/station/00c13fc6-45a9-4943-918c-62b4c1e19967
+#EXTINF:-1 tvg-logo="https://cdn.rpr1.de/sites/default/files/thumbnails/image/Sommerhits_agg_1600x1600.jpg" group-title="Salsa" radio="true",RPR1. Sommerhits
+https://stream.rpr1.de/sommerhits/mp3-128/radiobrowser
 # 72FM: https://72fm.com/station/7bc2a696-c271-4305-a029-15b4c582eac7
 #EXTINF:-1 group-title="Salsa" radio="true",La Ke Buena 90.1 FM Los mochis
 https://stream.zeno.fm/5t4ngp8hfphvv
@@ -565,51 +565,48 @@ https://mdstrm.com/audio/6737870cf12274fb020c287a/icecast.audio?property=mmradio
 # 72FM: https://72fm.com/station/8c79fb35-8059-4626-96f7-49fe990e693d
 #EXTINF:-1 group-title="Salsa" radio="true",Radio Salsa Chile
 https://stream.zeno.fm/70sehzr9ssluv
-# 72FM: https://72fm.com/station/00c13fc6-45a9-4943-918c-62b4c1e19967
-#EXTINF:-1 tvg-logo="https://cdn.rpr1.de/sites/default/files/thumbnails/image/Sommerhits_agg_1600x1600.jpg" group-title="Salsa" radio="true",RPR1. Sommerhits
-https://stream.rpr1.de/sommerhits/mp3-128/radiobrowser
-# 72FM: https://72fm.com/station/7235a403-90c0-4004-a3e6-d7faa441db05
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzjcKRJ8/tropicalisima.png" group-title="Salsa" radio="true",TROPICALÍSIMA: El sonido de la calle
-https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8030/stream
-# 72FM: https://72fm.com/station/dae3d0ac-a009-4014-b0ac-6e6b42eb5ecf
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s8105/images/logod.png" group-title="Salsa" radio="true",SOL FM 101.3 (Atlixco) - 101.3 FM - XHVP-FM - Cinco Radio - Atlixco, Puebla
-https://sg.centrocibernetico.com/solfm1013
-# 72FM: https://72fm.com/station/aab7b75b-c803-47ce-bacb-548ae885eaa5
-#EXTINF:-1 group-title="Salsa" radio="true",Barranquilla AM
-https://stream.zeno.fm/8u9dmttw0ceuv
 # 72FM: https://72fm.com/station/5a30c467-2cbb-4808-b136-9dfe8f86a978
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s24532/images/logod.jpg" group-title="Salsa" radio="true",LA Z: Salvajemente Grupera
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac
+# 72FM: https://72fm.com/station/dae3d0ac-a009-4014-b0ac-6e6b42eb5ecf
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s8105/images/logod.png" group-title="Salsa" radio="true",SOL FM 101.3 (Atlixco) - 101.3 FM - XHVP-FM - Cinco Radio - Atlixco, Puebla
+https://sg.centrocibernetico.com/solfm1013
+# 72FM: https://72fm.com/station/7235a403-90c0-4004-a3e6-d7faa441db05
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzjcKRJ8/tropicalisima.png" group-title="Salsa" radio="true",TROPICALÍSIMA: El sonido de la calle
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8030/stream
+# 72FM: https://72fm.com/station/aab7b75b-c803-47ce-bacb-548ae885eaa5
+#EXTINF:-1 group-title="Salsa" radio="true",Barranquilla AM
+https://stream.zeno.fm/8u9dmttw0ceuv
+# 72FM: https://72fm.com/station/ae6713ee-b564-4b91-9498-b71a68084b1a
+#EXTINF:-1 tvg-logo="https://escandalofm.com/img/logo-radio.png" group-title="Salsa" radio="true",Escandalo 102.5
+https://stream-291.zeno.fm/iwqlyzpyry1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd3FseXpweXJ5MXV2IiwiaG9zdCI6InN0cmVhbS0yOTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikl5N0ZoYlJSU0d1UFdLbFhtRjZEUHciLCJpYXQiOjE3Nzk0NjA3NDAsImV4cCI6MTc3OTQ2MDgwMH0.X9jLonVgmfxbXfLYWcMrM3Ybvfve6OE2cLmt-0wKQ4s
 # 72FM: https://72fm.com/station/92dce4c1-946c-4cc0-a7ae-fac1e4934d12
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lwQt8zE6mFXn3q-MrgZBvBoqLNG2WsprXsuexaGwXqlsnL=s160-c-k-c0x00ffffff-no-rj" group-title="Salsa" radio="true",Radio Urbana FM
 https://sonic-us.arkeo.cl/8574/stream
 # 72FM: https://72fm.com/station/84667c4c-5b93-4cb3-8dd9-a8c8bb6d7caa
 #EXTINF:-1 group-title="Salsa" radio="true",RENCORDRADIO
 https://sonicpanel.streaming10.net/8134/stream
-# 72FM: https://72fm.com/station/ae6713ee-b564-4b91-9498-b71a68084b1a
-#EXTINF:-1 tvg-logo="https://escandalofm.com/img/logo-radio.png" group-title="Salsa" radio="true",Escandalo 102.5
-https://stream-291.zeno.fm/iwqlyzpyry1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd3FseXpweXJ5MXV2IiwiaG9zdCI6InN0cmVhbS0yOTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikl5N0ZoYlJSU0d1UFdLbFhtRjZEUHciLCJpYXQiOjE3Nzk0NjA3NDAsImV4cCI6MTc3OTQ2MDgwMH0.X9jLonVgmfxbXfLYWcMrM3Ybvfve6OE2cLmt-0wKQ4s
 # 72FM: https://72fm.com/station/f0097f72-94f4-4279-b276-ebfff1068e38
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9095cqQw/Buenisiima-1530.png" group-title="Salsa" radio="true",BUENÍSIIMA: Está Buenísima
 http://s1.audiorama.mx:6678/stream
 # 72FM: https://72fm.com/station/f7ddb4dc-aa06-4648-bc7e-58e3f0bf6b12
 #EXTINF:-1 group-title="Salsa" radio="true",La Lupe Ciudad Victoria 95.3 FM
 https://mdstrm.com/audio/67379e3e9cbec50af5c979ac/icecast.audio
-# 72FM: https://72fm.com/station/7917f433-ae33-465f-b7fd-24ff3a2ead64
-#EXTINF:-1 tvg-logo="https://lavozdelnorte.com.co/wp-content/uploads/2020/06/logo-Metal-la-voz-claro.png" group-title="Salsa" radio="true",La voz del Norte 1040 AM
-https://play10.tikast.com:20021/stream
-# 72FM: https://72fm.com/station/96826b40-cc1e-4aa4-8d83-6794827c3d85
-#EXTINF:-1 group-title="Salsa" radio="true",Salsa Radio Amsterdam
-https://radio.yourlatinradio.com/listen/sra/radio.mp3
 # 72FM: https://72fm.com/station/20fb7c3e-e653-48b7-9809-32b9b8c87223
 #EXTINF:-1 tvg-logo="https://www.brsradio.co/wp-content/uploads/2024/11/LA-SONORA-100.6-560x560.jpg" group-title="Salsa" radio="true",La Sonora 100.6 Samacá
 https://sonic.paulatina.co/8122/stream
-# 72FM: https://72fm.com/station/b389b7ee-8052-457e-8f52-05354540322e
-#EXTINF:-1 tvg-logo="https://www.brsradio.co/wp-content/uploads/2024/11/LA-SONORA-89.6-560x560.jpg" group-title="Salsa" radio="true",La Sonora 89.6 Márquez
-https://sonic.paulatina.co/8128/stream
 # 72FM: https://72fm.com/station/0eff90d1-e0e1-49b9-8068-3bd88be4c0b0
 #EXTINF:-1 tvg-logo="https://emisorascolombianas.online/logos/sol-barranquilla.png" group-title="Salsa" radio="true",Radio El Sol (Barranquilla)
 https://mdstrm.com/audio/632cbdb5202d6801a31785b0/live.m3u8
+# 72FM: https://72fm.com/station/96826b40-cc1e-4aa4-8d83-6794827c3d85
+#EXTINF:-1 group-title="Salsa" radio="true",Salsa Radio Amsterdam
+https://radio.yourlatinradio.com/listen/sra/radio.mp3
+# 72FM: https://72fm.com/station/b389b7ee-8052-457e-8f52-05354540322e
+#EXTINF:-1 tvg-logo="https://www.brsradio.co/wp-content/uploads/2024/11/LA-SONORA-89.6-560x560.jpg" group-title="Salsa" radio="true",La Sonora 89.6 Márquez
+https://sonic.paulatina.co/8128/stream
+# 72FM: https://72fm.com/station/7917f433-ae33-465f-b7fd-24ff3a2ead64
+#EXTINF:-1 tvg-logo="https://lavozdelnorte.com.co/wp-content/uploads/2020/06/logo-Metal-la-voz-claro.png" group-title="Salsa" radio="true",La voz del Norte 1040 AM
+https://play10.tikast.com:20021/stream
 # 72FM: https://72fm.com/station/dd971796-bfa4-41aa-92e2-193112947116
 #EXTINF:-1 tvg-logo="https://emisorascolombianas.online/logos/tropicana-bogota.png" group-title="Salsa" radio="true",Tropicana Estéreo FM (Bogotá)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC
@@ -622,66 +619,63 @@ https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/live.m3u8
 # 72FM: https://72fm.com/station/486e0c4b-a4c9-4689-9cb6-ec744a46c769
 #EXTINF:-1 tvg-logo="https://emisorascolombianas.online/logos/olimpica.png" group-title="Salsa" radio="true",Radio Olímpica
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTA_SC
-# 72FM: https://72fm.com/station/d9313b88-1eca-49f6-9d53-d240fdb46528
-#EXTINF:-1 group-title="Salsa" radio="true",Estereo 88.7 FM
-https://stream.zeno.fm/3e2keb1e7tzuv
-# 72FM: https://72fm.com/station/498e7b29-e533-490f-83ef-1422929cce18
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGXvy2zm/candela963.png" group-title="Salsa" radio="true",CANDELA 96.3 (Tizimín) - 96.3 FM - XHUP-FM - Cadena RASA - Tizimín, Yucatán
-https://stream.zeno.fm/kg0w97kc4p8uv
-# 72FM: https://72fm.com/station/8931da48-9c91-46c1-8c80-380419d15342
-#EXTINF:-1 tvg-logo="https://www.radioplaneta.com.co/" group-title="Salsa" radio="true",Radio Planeta Cali
-https://sp4.colombiatelecom.com.co/8098/stream
 # 72FM: https://72fm.com/station/d5d108e8-7649-43de-8b32-76632a1f5d19
 #EXTINF:-1 group-title="Salsa" radio="true",boogaloostereo
 http://149.56.157.81:8399/
-# 72FM: https://72fm.com/station/39639b04-c0ce-4394-ad08-9d501574b3af
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqSqdFXv/1748919627801.png" group-title="Salsa" radio="true",Fuego y Sabor Radio Online
-https://stream.zeno.fm/zjufeg9fhgptv
 # 72FM: https://72fm.com/station/46af20e5-b259-41dc-bc84-e83092021ff7
 #EXTINF:-1 group-title="Salsa" radio="true",Fuerza Latina San Luis 102.5 FM
 https://radios.blumhost.es/8130/;
+# 72FM: https://72fm.com/station/ee573186-2329-4f27-9145-48d6afc251f6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7Nh28P1/sabrosita.png" group-title="Salsa" radio="true",SABROSITA: La Más Caliente
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
+# 72FM: https://72fm.com/station/d9313b88-1eca-49f6-9d53-d240fdb46528
+#EXTINF:-1 group-title="Salsa" radio="true",Estereo 88.7 FM
+https://stream.zeno.fm/3e2keb1e7tzuv
 # 72FM: https://72fm.com/station/c2c315d5-20cd-49a7-b2ce-fc47553e6e32
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wytNRtEEdmhWrORDB90J5MiKgFvuBPmpAA7KgRdonQ&s" group-title="Salsa" radio="true",La Bomba Radio Asturias
 https://stm2.emiteonline.com:9014/labomba
+# 72FM: https://72fm.com/station/af2649c4-3066-4446-a5a0-812c75dc75fa
+#EXTINF:-1 tvg-logo="https://radioalegriafm.com/logo-android-alegria.png" group-title="Salsa" radio="true",Radio Alegria
+https://rr5100.globalhost1.com:8156/stream
+# 72FM: https://72fm.com/station/06d05854-f77e-4fc1-b2e8-c25bd87fb0c0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKGB1bbR/soyfm.png" group-title="Salsa" radio="true",SOY FM 101.7 (Veracruz) - 101.7 FM - XHPR-FM - Valanci Media Group - Boca del Río, Veracruz
+https://stream.zeno.fm/uemgdeyam5zuv
+# 72FM: https://72fm.com/station/498e7b29-e533-490f-83ef-1422929cce18
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGXvy2zm/candela963.png" group-title="Salsa" radio="true",CANDELA 96.3 (Tizimín) - 96.3 FM - XHUP-FM - Cadena RASA - Tizimín, Yucatán
+https://stream.zeno.fm/kg0w97kc4p8uv
+# 72FM: https://72fm.com/station/39639b04-c0ce-4394-ad08-9d501574b3af
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqSqdFXv/1748919627801.png" group-title="Salsa" radio="true",Fuego y Sabor Radio Online
+https://stream.zeno.fm/zjufeg9fhgptv
 # 72FM: https://72fm.com/station/8a168d53-052e-4153-8333-7d3556fd4974
 #EXTINF:-1 tvg-logo="https://www.lacomadre1017.com/wp-content/uploads/2025/11/logo_comadre-1.png" group-title="Salsa" radio="true",La Comadre 101.7 Cuautla Morelos
 https://stream20.usastreams.com:8070/stream
 # 72FM: https://72fm.com/station/0762a7d4-712e-4670-9c5e-19b494c7515f
 #EXTINF:-1 tvg-logo="https://www.brsradio.co/wp-content/uploads/2024/11/LA-SONORA-88.1A-560x560.jpg" group-title="Salsa" radio="true",La Sonora 88.1 Sogamoso
 https://sonic.paulatina.co/8126/stream
-# 72FM: https://72fm.com/station/af2649c4-3066-4446-a5a0-812c75dc75fa
-#EXTINF:-1 tvg-logo="https://radioalegriafm.com/logo-android-alegria.png" group-title="Salsa" radio="true",Radio Alegria
-https://rr5100.globalhost1.com:8156/stream
 # 72FM: https://72fm.com/station/0ac7b00f-8f9c-470f-a051-1e2ac4dc4ff6
 #EXTINF:-1 tvg-logo="https://emisorascolombianas.online/logos/olimpica-barranquilla.png" group-title="Salsa" radio="true",Radio Olímpica (Barranquilla)
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLA_SC
-# 72FM: https://72fm.com/station/ee573186-2329-4f27-9145-48d6afc251f6
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7Nh28P1/sabrosita.png" group-title="Salsa" radio="true",SABROSITA: La Más Caliente
-https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
-# 72FM: https://72fm.com/station/06d05854-f77e-4fc1-b2e8-c25bd87fb0c0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKGB1bbR/soyfm.png" group-title="Salsa" radio="true",SOY FM 101.7 (Veracruz) - 101.7 FM - XHPR-FM - Valanci Media Group - Boca del Río, Veracruz
-https://stream.zeno.fm/uemgdeyam5zuv
-# 72FM: https://72fm.com/station/9ba295c0-15e0-4d2e-82b3-8d464e523e63
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s251775/images/logod.jpg" group-title="Salsa" radio="true",+Radio Bemba (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz
-https://radio.e-ver.com.mx:8001/live
+# 72FM: https://72fm.com/station/8931da48-9c91-46c1-8c80-380419d15342
+#EXTINF:-1 tvg-logo="https://www.radioplaneta.com.co/" group-title="Salsa" radio="true",Radio Planeta Cali
+https://sp4.colombiatelecom.com.co/8098/stream
+# 72FM: https://72fm.com/station/cd917b43-a65d-4f09-a08f-699284125550
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/96/c3/96c30e7a59031307d30f29c426f20a37.png" group-title="Salsa" radio="true",Radio Moda 97.3 FM
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e1c82cc4c480fcd318dd
 # 72FM: https://72fm.com/station/8ec1d9e7-f73c-4dd5-b91f-b0547917c643
 #EXTINF:-1 group-title="Salsa" radio="true",El Sol Cali
 https://mdstrm.com/audio/632cb6ecaa9ace684913bf19/live.m3u8
-# 72FM: https://72fm.com/station/33409387-4ddf-4987-9b90-3163672b82bc
-#EXTINF:-1 group-title="Salsa" radio="true",Radio Sensacion Chosica
-https://conectperu.com:8218/stream
-# 72FM: https://72fm.com/station/b921e082-b3fb-445c-8432-672c9707707a
-#EXTINF:-1 group-title="Salsa" radio="true",Vacalloria Radio
-https://sonicpanel.streaming10.net/8012/stream
-# 72FM: https://72fm.com/station/3d0f74c9-828c-4aed-8954-9311fa8946cf
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yz7DCX5/candela927.png" group-title="Salsa" radio="true",CANDELA 92.7 (Valladolid) - 92.7 FM - XHUM-FM - Cadena RASA - Valladolid, Yucatán
-https://stream.zeno.fm/nv2zf1kc4p8uv
-# 72FM: https://72fm.com/station/79943ded-1a7c-4bee-b2b1-a302c6111eb9
-#EXTINF:-1 group-title="Salsa" radio="true",La Q cadereita 93.5 FM
-https://playradio.mx/proxy/qcaderyta?mp=/stream
+# 72FM: https://72fm.com/station/48b996bb-aedd-4776-b088-49c67e581121
+#EXTINF:-1 group-title="Salsa" radio="true",Radio San Pancho
+https://listen.radioking.com/radio/680182/stream/744577
 # 72FM: https://72fm.com/station/158c0e05-9e38-4533-a634-7017ce3f1696
 #EXTINF:-1 tvg-logo="https://emisora.univalle.edu.co/wp-content/uploads/2020/01/Sin-t%C3%ADtulo-1-300x180.png" group-title="Salsa" radio="true",Univalle Estereo
 https://uv-stereo.univalle.edu.co:8000/envivo.mp3
+# 72FM: https://72fm.com/station/9ba295c0-15e0-4d2e-82b3-8d464e523e63
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s251775/images/logod.jpg" group-title="Salsa" radio="true",+Radio Bemba (Veracruz) - Online - www.radiobembaveracruz.com - Domingo Lucas Ramírez - Veracruz, Veracruz
+https://radio.e-ver.com.mx:8001/live
+# 72FM: https://72fm.com/station/3d0f74c9-828c-4aed-8954-9311fa8946cf
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yz7DCX5/candela927.png" group-title="Salsa" radio="true",CANDELA 92.7 (Valladolid) - 92.7 FM - XHUM-FM - Cadena RASA - Valladolid, Yucatán
+https://stream.zeno.fm/nv2zf1kc4p8uv
 # 72FM: https://72fm.com/station/f85116ba-1df6-44f4-89f5-f48f13cc8c4a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zjkvXW0/candela953.png" group-title="Salsa" radio="true",CANDELA 95.3 (Mérida) - 95.3 FM - XHMH-FM - Cadena RASA - Mérida, Yucatán
 https://stream.zeno.fm/tbnc01hc4p8uv
@@ -694,30 +688,39 @@ http://samuel.i-radio.co:8000/lacheverisima
 # 72FM: https://72fm.com/station/f0acc645-a6de-4efa-9e4c-4c787d834acc
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s325459/images/logod.png" group-title="Salsa" radio="true",LA MAS PELIGROSA 1370 (Huamantla) - 1370 AM - XECCBI-AM - La Más Peligrosa Radio - Huamantla, Tlaxcala
 https://stream.zeno.fm/ktezveaxxjzvv
+# 72FM: https://72fm.com/station/79943ded-1a7c-4bee-b2b1-a302c6111eb9
+#EXTINF:-1 group-title="Salsa" radio="true",La Q cadereita 93.5 FM
+https://playradio.mx/proxy/qcaderyta?mp=/stream
 # 72FM: https://72fm.com/station/1c504b42-e1a8-4c08-b4b3-9f3f28f982f6
 #EXTINF:-1 group-title="Salsa" radio="true",La Q Lomas De Calera 640 AM
 https://streaming.servicioswebmx.com/8196/stream
 # 72FM: https://72fm.com/station/4a64859e-7ee3-4781-b053-c56ddbb0c193
 #EXTINF:-1 tvg-logo="https://emisorascolombianas.online/logos/uno-barranquilla.png" group-title="Salsa" radio="true",Radio 1 FM (Barranquilla)
 https://mdstrm.com/audio/632cbb54ebfe48089b0c504d/live.m3u8
-# 72FM: https://72fm.com/station/48b996bb-aedd-4776-b088-49c67e581121
-#EXTINF:-1 group-title="Salsa" radio="true",Radio San Pancho
-https://listen.radioking.com/radio/680182/stream/744577
+# 72FM: https://72fm.com/station/33409387-4ddf-4987-9b90-3163672b82bc
+#EXTINF:-1 group-title="Salsa" radio="true",Radio Sensacion Chosica
+https://conectperu.com:8218/stream
 # 72FM: https://72fm.com/station/154eb6da-1e6c-4b13-98ec-be7d96315ce0
 #EXTINF:-1 group-title="Salsa" radio="true",Radiorama Stereo 103.3 FM
 https://acp2.lorini.net:44002/stream
-# 72FM: https://72fm.com/station/32db0968-2dc8-43da-8e37-3ff6f7999514
-#EXTINF:-1 group-title="Salsa" radio="true",Nova Wave Radio
-https://stream.zeno.fm/aqsp8qfxry8vv.aac
-# 72FM: https://72fm.com/station/cdd58c8d-c3b6-407a-beec-90d4f7759a3d
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/1HwPJCQkQ6u9EN4vg8-OXkoaJS5F7w1ot9FJqt6-xTg/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREE1cVhHclFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FnTUNJblFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY5MzU5NzI5MDAwMA" group-title="Salsa" radio="true",Salsa FM
-https://stream-288.surfernetwork.com/k9rar19rqrquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrOXJhcjE5cnFycXV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJWUDZVUU9POFFER2hfRU40YjNUdnFBIiwiaWF0IjoxNzkwNjE5OTkyLCJleHAiOjE3OTA2MjAwNTJ9.sj9SCGMHyfqQJIyR7eU4STancFQ893DX7k82gVP9PuA
-# 72FM: https://72fm.com/station/92b074e3-ac97-495a-bf9f-d16e1d845339
-#EXTINF:-1 group-title="Salsa" radio="true",Carlos Aczel Zapata Martínez
-https://radio.cimaspeed.com/8222/stream
+# 72FM: https://72fm.com/station/b921e082-b3fb-445c-8432-672c9707707a
+#EXTINF:-1 group-title="Salsa" radio="true",Vacalloria Radio
+https://sonicpanel.streaming10.net/8012/stream
+# 72FM: https://72fm.com/station/ea4df68f-5d85-4185-884c-9fbaf1e1fdc9
+#EXTINF:-1 tvg-logo="https://usercontent.one/wp/www.yourlatinradio.com/wp-content/uploads/2020/06/cropped-Mockup-AppIcon-512px-192x192.png" group-title="Salsa" radio="true",Your Latin Radio
+https://radio.yourlatinradio.com/listen/ylr/radio.mp3
 # 72FM: https://72fm.com/station/ff27e339-94c9-4eb1-bb58-964ece2ebd94
 #EXTINF:-1 group-title="Salsa" radio="true",Fiesta Mania Radio
 https://frontend.streamonkey.net/fhn-fiestamaniaradio/stream/mp3
+# 72FM: https://72fm.com/station/32db0968-2dc8-43da-8e37-3ff6f7999514
+#EXTINF:-1 group-title="Salsa" radio="true",Nova Wave Radio
+https://stream.zeno.fm/aqsp8qfxry8vv.aac
+# 72FM: https://72fm.com/station/8dc3453d-aec7-4e9c-98d8-825543130b41
+#EXTINF:-1 group-title="Salsa" radio="true",Radiomar
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d
+# 72FM: https://72fm.com/station/92b074e3-ac97-495a-bf9f-d16e1d845339
+#EXTINF:-1 group-title="Salsa" radio="true",Carlos Aczel Zapata Martínez
+https://radio.cimaspeed.com/8222/stream
 # 72FM: https://72fm.com/station/4f696f28-00d3-44a5-8797-1c6f68787c1d
 #EXTINF:-1 group-title="Salsa" radio="true",La Tropical Caliente 102.1
 https://sonic.sistemahost.es/8038/stream
@@ -736,9 +739,12 @@ http://audio2.energia1025.com:8000/stream/1/
 # 72FM: https://72fm.com/station/f1d06a12-9df7-4600-8421-93b0624a1948
 #EXTINF:-1 group-title="Salsa" radio="true",Radio Estereo Playa
 https://stream.zeno.fm/rrcwp4ehorpvv
-# 72FM: https://72fm.com/station/8dc3453d-aec7-4e9c-98d8-825543130b41
-#EXTINF:-1 group-title="Salsa" radio="true",Radiomar
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d
-# 72FM: https://72fm.com/station/ea4df68f-5d85-4185-884c-9fbaf1e1fdc9
-#EXTINF:-1 tvg-logo="https://usercontent.one/wp/www.yourlatinradio.com/wp-content/uploads/2020/06/cropped-Mockup-AppIcon-512px-192x192.png" group-title="Salsa" radio="true",Your Latin Radio
-https://radio.yourlatinradio.com/listen/ylr/radio.mp3
+# 72FM: https://72fm.com/station/e9d19041-a925-4973-8fb1-838ffe2fd358
+#EXTINF:-1 tvg-logo="https://radiomegamix.pe/favicon.ico" group-title="Salsa" radio="true",Radio MegaMix – Tocamos de Todo
+https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
+# 72FM: https://72fm.com/station/da0f12f6-eda8-4857-bf7d-128ca98304fe
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4isuOTYOfwEn7GAzR6Ipn3MeywDDHPjaT0uFHXjwJJYMb8nqqkRe5aCD1bFuN95NAQLb" group-title="Salsa" radio="true",Radio MegaMix 96.7 FM - Tocamos de Todo
+https://mdstrm.com/audio/5fab8eeb16646e0981b3efaf/01_live.m3u8
+# 72FM: https://72fm.com/station/cdd58c8d-c3b6-407a-beec-90d4f7759a3d
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/1HwPJCQkQ6u9EN4vg8-OXkoaJS5F7w1ot9FJqt6-xTg/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJREE1cVhHclFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FnTUNJblFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY5MzU5NzI5MDAwMA" group-title="Salsa" radio="true",Salsa FM
+https://stream-288.surfernetwork.com/k9rar19rqrquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrOXJhcjE5cnFycXV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJWUDZVUU9POFFER2hfRU40YjNUdnFBIiwiaWF0IjoxNzkwNjE5OTkyLCJleHAiOjE3OTA2MjAwNTJ9.sj9SCGMHyfqQJIyR7eU4STancFQ893DX7k82gVP9PuA
