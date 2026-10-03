@@ -255,7 +255,7 @@ function attr(s) {
 // Addresses that only mean something on the listener's own network. A public
 // playlist must not make a player or a home-automation box call into a LAN.
 function isLocalHost(host) {
-  const h = host.toLowerCase().replace(/^\[|\]$/g, '');
+  const h = host.toLowerCase().replace(/^\[|\]$/g, '').replace(/\.+$/, ''); // "localhost." is still localhost
   if (h === 'localhost' || h.endsWith('.localhost') || h.endsWith('.local') || h.endsWith('.internal') || h.endsWith('.lan')) return true;
   const v4 = h.match(/^(\d+)\.(\d+)\.(\d+)\.(\d+)$/);
   if (v4) {

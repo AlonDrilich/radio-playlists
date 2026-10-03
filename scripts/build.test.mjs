@@ -28,7 +28,7 @@ test('safeUrl accepts public http(s) and rejects everything else', () => {
     'javascript:alert(1)', 'file:///etc/passwd', 'ftp://a.example.com/x', 'data:text/plain,hi', 'rtsp://a.example.com/x',
     'http://user:pw@a.example.com/x', 'http://localhost/x', 'http://127.0.0.1:8000/', 'http://10.0.0.5/x',
     'http://192.168.1.2/x', 'http://172.20.0.1/x', 'http://169.254.169.254/latest', 'http://[::1]/x', 'http://radio/x',
-    'http://printer.local/x', 'http://a.example.com/' + 'x'.repeat(1000), 'http://a b.example.com/', '', 'not a url',
+    'http://printer.local/x', 'http://localhost./x', 'http://printer.local./x', 'http://127.1/x', 'http://2130706433/x', 'http://[::ffff:127.0.0.1]/x', 'http://0x7f.0.0.1/x', 'http://a.example.com/' + 'x'.repeat(1000), 'http://a b.example.com/', '', 'not a url',
   ]) assert.equal(safeUrl(bad), null, bad);
   assert.equal(safeUrl('http://a.example.com/x', { httpsOnly: true }), null);
   assert.equal(safeUrl('http://a.example.com/café'), 'http://a.example.com/caf%C3%A9', 'non-ASCII is percent-encoded');
