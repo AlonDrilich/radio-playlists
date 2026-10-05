@@ -412,6 +412,9 @@ http://stream.laut.fm/the-world-wont-listen
 # 72FM: https://72fm.com/station/366dd4d1-9e76-11e8-a767-52543be04c81
 #EXTINF:-1 tvg-logo="https://i2.wp.com/kiye.org/wp-content/uploads/2016/10/cropped-kiye-logo-small-1.png?fit=512%2C512&ssl=1" group-title="Classic Rock" radio="true",KIYE 88.7 FM Kamiah, ID
 https://ais-sa1.streamon.fm/7012_24k.aac
+# 72FM: https://72fm.com/station/ceca51c5-f7dc-488b-a90d-f2a4540bf64c
+#EXTINF:-1 group-title="Classic Rock" radio="true",Авторадио Минск
+https://live.humorfm.by:8443/avtoradio
 # 72FM: https://72fm.com/station/957eda2f-bb0b-4db4-b1fd-16d444dcf6fe
 #EXTINF:-1 group-title="Classic Rock" radio="true",irock24/7
 https://streamer.radio.co/s493283a7e/listen
@@ -421,9 +424,6 @@ https://archi-us.digitalproserver.com/ritoquefm_aac
 # 72FM: https://72fm.com/station/8b79bb3f-54f3-49a8-b428-87971f9592e2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwIFRZHu0NNH_WMStgQ4YqD6jSgnwQnMbP65ZbEMU8RSF6A1hsBTNbmc&s=10" group-title="Classic Rock" radio="true",FFM
 http://167.114.131.90:5968/ffm
-# 72FM: https://72fm.com/station/ceca51c5-f7dc-488b-a90d-f2a4540bf64c
-#EXTINF:-1 group-title="Classic Rock" radio="true",Авторадио Минск
-https://live.humorfm.by:8443/avtoradio
 # 72FM: https://72fm.com/station/bb38c058-7757-48e7-a73e-ccdc4fad7d2e
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fYQvCLhcxO1HUgQ1KCryYUKqMe8Q0O5c5NKAByP_vFj7wchAV-RJh8oWrIKL4581kCA" group-title="Classic Rock" radio="true",Radio Rock (NO)
 https://live-bauerno.sharp-stream.com/radiorock_no_mp3
@@ -433,12 +433,12 @@ https://streaming.exclusive.radio/er-app/whohits/icecast.audio
 # 72FM: https://72fm.com/station/40dfa430-7988-4b02-ae1b-ce5fe8b5aad3
 #EXTINF:-1 group-title="Classic Rock" radio="true",Bandit Classic Rock
 https://wr11-ice.stream.khz.se/wr11_mp3
-# 72FM: https://72fm.com/station/0b5c1211-b55d-4b3f-91ec-2abb365d8767
-#EXTINF:-1 group-title="Classic Rock" radio="true",Top Radio
-http://c5.hostingcentar.com:8000/streams/topradio/
 # 72FM: https://72fm.com/station/3ef378fb-01a6-48f2-80e1-f659e7ac3e4d
 #EXTINF:-1 tvg-logo="https://colombiacrossover.com/wp-content/uploads/Logo-colombia-poprock-nueva-1024x1024.png" group-title="Classic Rock" radio="true",Colombia Pop Rock
 https://play10.tikast.com/proxy/colpoprock?mp=/stream
+# 72FM: https://72fm.com/station/0b5c1211-b55d-4b3f-91ec-2abb365d8767
+#EXTINF:-1 group-title="Classic Rock" radio="true",Top Radio
+http://c5.hostingcentar.com:8000/streams/topradio/
 # 72FM: https://72fm.com/station/ca6505fe-5f76-4a45-99e7-72c73a177332
 #EXTINF:-1 tvg-logo="https://www.best-of-rock.fm/favicons/apple-touch-icon.png" group-title="Classic Rock" radio="true",Best Of Rock.FM Classic Rock
 https://bestofrockfm.stream.vip/classic/mp3-256/bestofrock.fm/
@@ -460,21 +460,21 @@ https://listen.christianrock.net/stream/14/
 # 72FM: https://72fm.com/station/689824b5-1dd7-464d-a913-8c363337a883
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/3qhtSltZ27/vignette.png" group-title="Classic Rock" radio="true",OUI FM CLASSIC ROCK
 https://ouifm3.ice.infomaniak.ch/ouifm3.mp3
-# 72FM: https://72fm.com/station/a522b074-87e0-4808-ab15-2e609000537a
-#EXTINF:-1 group-title="Classic Rock" radio="true",Radio Futuro
-https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3
 # 72FM: https://72fm.com/station/00afce9b-b2f7-11e8-afe1-52543be04c81
 #EXTINF:-1 group-title="Classic Rock" radio="true",Radio Caprice - Classic Rock / Rock
 http://79.120.77.11:8002/rock
+# 72FM: https://72fm.com/station/a522b074-87e0-4808-ab15-2e609000537a
+#EXTINF:-1 group-title="Classic Rock" radio="true",Radio Futuro
+https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3
+# 72FM: https://72fm.com/station/de10a769-c277-4fa1-9549-9f98be87265b
+#EXTINF:-1 group-title="Classic Rock" radio="true",Radio 1 Bulgaria
+https://play.global.audio:80/radio164
 # 72FM: https://72fm.com/station/7a5a0c15-1557-4cbe-942c-28760cb06ca6
 #EXTINF:-1 group-title="Classic Rock" radio="true",Rocknroll Philosophy
 http://stream.laut.fm/rocknroll-philosophy
 # 72FM: https://72fm.com/station/1a261f52-c6b8-4db9-a1af-bee3fc9a23eb
 #EXTINF:-1 group-title="Classic Rock" radio="true",Radio Gong 97.1
 https://frontend.streamonkey.net/fhn-gong971/stream/mp3
-# 72FM: https://72fm.com/station/de10a769-c277-4fa1-9549-9f98be87265b
-#EXTINF:-1 group-title="Classic Rock" radio="true",Radio 1 Bulgaria
-https://play.global.audio:80/radio164
 # 72FM: https://72fm.com/station/d5831ac6-f375-11e8-a471-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg" group-title="Classic Rock" radio="true",- 1 A - Rock von 1A Radio
 https://1a-rock.radionetz.de/1a-rock.mp3
@@ -556,21 +556,21 @@ http://c9.radioboss.fm:8035/stream
 # 72FM: https://72fm.com/station/9b7f745a-5025-430e-bc79-7226dcaeb35b
 #EXTINF:-1 tvg-logo="https://radiocaroline259.nl/favicon.ico" group-title="Classic Rock" radio="true",Radio Caroline 259 Gold
 https://happy.radiocaroline.nl/listen/classic_rock/radio128.mp3
-# 72FM: https://72fm.com/station/96492b58-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 group-title="Classic Rock" radio="true",Рок АРСЕНАЛ - Rock Arsenal
-http://online.rockarsenal.ru:8000/rockarsenal
 # 72FM: https://72fm.com/station/59d3445b-0daf-4236-9d56-ad22b848b0a1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8pbcoyYJNxHDp-knMnAy2Nolw0_8MjY5DRQ&usqp=CAU" group-title="Classic Rock" radio="true",WAI FM Bidayuh
 http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3
+# 72FM: https://72fm.com/station/45b9e542-fcef-4513-a767-2a25c2d77fb9
+#EXTINF:-1 tvg-logo="https://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/regenbogen-zwei-logo.png" group-title="Classic Rock" radio="true",Regenbogen 2 Rhein-Neckar aac-128
+https://stream.regenbogen2.de/rheinneckar/aac-128
+# 72FM: https://72fm.com/station/96492b58-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Classic Rock" radio="true",Рок АРСЕНАЛ - Rock Arsenal
+http://online.rockarsenal.ru:8000/rockarsenal
 # 72FM: https://72fm.com/station/038c8fb4-6939-11e9-af37-52543be04c81
 #EXTINF:-1 group-title="Classic Rock" radio="true",..87,5!. Nantes
 https://listen.radioking.com/radio/15130/stream/28217
 # 72FM: https://72fm.com/station/7f87b5df-5a65-11ea-be63-52543be04c81
 #EXTINF:-1 group-title="Classic Rock" radio="true",Rewound Radio
 http://71.125.37.66:8000/stream
-# 72FM: https://72fm.com/station/45b9e542-fcef-4513-a767-2a25c2d77fb9
-#EXTINF:-1 tvg-logo="https://cdn.regenbogen.de/sites/all/themes/regenbogen/assets/images/logos/regenbogen-zwei-logo.png" group-title="Classic Rock" radio="true",Regenbogen 2 Rhein-Neckar aac-128
-https://stream.regenbogen2.de/rheinneckar/aac-128
 # 72FM: https://72fm.com/station/96bf6a72-a682-449e-8522-4411b9764071
 #EXTINF:-1 group-title="Classic Rock" radio="true",Life Radio ClassicRock
 https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/
@@ -598,15 +598,15 @@ https://0nlineradio.radioho.st/0r-80s-rock?ref=radio-browser26
 # 72FM: https://72fm.com/station/bc9ac88d-9af6-4564-9cb4-57edf4d36865
 #EXTINF:-1 group-title="Classic Rock" radio="true",The Rock - NZ's #1 rock radio station
 https://digitalstreams.mediaworks.nz/rock_net_icy
-# 72FM: https://72fm.com/station/8bb0efcd-0f13-11e9-a80b-52543be04c81
-#EXTINF:-1 tvg-logo="https://tinyurl.com/favicon.ico" group-title="Classic Rock" radio="true",Radio Shadow Deep Tracks
-http://162.244.80.131:8020/
 # 72FM: https://72fm.com/station/13dea9bd-e0f0-4bd6-b5f1-f56ed8a91f45
 #EXTINF:-1 group-title="Classic Rock" radio="true",89 Goiânia
 https://ice.fabricahost.com.br/89aradiorockgo
 # 72FM: https://72fm.com/station/f0eefdda-4f0a-48a1-ac3b-059af9390257
 #EXTINF:-1 group-title="Classic Rock" radio="true",Power Pop Rock Radio
 https://cheetah.streemlion.com:3430/stream
+# 72FM: https://72fm.com/station/8bb0efcd-0f13-11e9-a80b-52543be04c81
+#EXTINF:-1 tvg-logo="https://tinyurl.com/favicon.ico" group-title="Classic Rock" radio="true",Radio Shadow Deep Tracks
+http://162.244.80.131:8020/
 # 72FM: https://72fm.com/station/195f2990-e0d3-4b34-8aab-5b173ddb6c6e
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/94775.v6.png" group-title="Classic Rock" radio="true",BR - The Classic Rock
 https://stream.zeno.fm/nbq1aq62gd0uv
@@ -616,12 +616,12 @@ https://stream.zeno.fm/3hgez706e3quv?zs
 # 72FM: https://72fm.com/station/a3d713bf-d742-4b24-8aae-4d865820dcd5
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="Classic Rock" radio="true",ROCK ANTENNE 80er Rock (MP3)
 https://stream.rockantenne.de/80er-rock/stream/mp3
-# 72FM: https://72fm.com/station/e3c5702d-2441-11e8-91bf-52543be04c81
-#EXTINF:-1 group-title="Classic Rock" radio="true",Rockkanalen
-http://stream.kanalplus.fm/kp96
 # 72FM: https://72fm.com/station/9d8a51e5-f6d0-48a7-b7a1-a8e6d2dea652
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png" group-title="Classic Rock" radio="true",ROCK ANTENNE Sound of Summer
 http://s4-webradio.rockantenne.de/sound-of-summer
+# 72FM: https://72fm.com/station/e3c5702d-2441-11e8-91bf-52543be04c81
+#EXTINF:-1 group-title="Classic Rock" radio="true",Rockkanalen
+http://stream.kanalplus.fm/kp96
 # 72FM: https://72fm.com/station/3b1d44e9-505d-492d-9aa1-fd67d315004c
 #EXTINF:-1 tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png" group-title="Classic Rock" radio="true",COOLFM (Classic) Rock
 https://mediagw.e-tiger.net/stream/zc10
@@ -652,18 +652,21 @@ https://jfm1.hostingradio.ru:14536/rock70.mp3
 # 72FM: https://72fm.com/station/e6003c36-6191-4341-b2ba-375c17d26152
 #EXTINF:-1 group-title="Classic Rock" radio="true",Classic Rock 109
 http://listen.classicrock109.com:10042/;
-# 72FM: https://72fm.com/station/7386f717-eca6-4767-ab26-e65438ca6cdd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg" group-title="Classic Rock" radio="true",Totally Radio - Rock (AAC)
-http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01AAC.aac
 # 72FM: https://72fm.com/station/495a3710-7aae-4122-83b5-a49757c0a812
 #EXTINF:-1 tvg-logo="https://www.radiozuerisee.ch/assets/favicons/apple-icon-120x120.png" group-title="Classic Rock" radio="true",Radio Zürisee
 https://mp3.radio.ch/radiozuerisee256k
+# 72FM: https://72fm.com/station/7386f717-eca6-4767-ab26-e65438ca6cdd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg" group-title="Classic Rock" radio="true",Totally Radio - Rock (AAC)
+http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01AAC.aac
 # 72FM: https://72fm.com/station/df6c713f-7558-4c87-bdee-f8255c95511e
 #EXTINF:-1 group-title="Classic Rock" radio="true",Radio TugaNet
 https://ssl.stmxp.net:8006/;
 # 72FM: https://72fm.com/station/1b4d51de-5e52-45aa-994c-040c5ddaa135
 #EXTINF:-1 group-title="Classic Rock" radio="true",Radio Caprice - Classic Rock
 http://79.120.77.11:8000/rock
+# 72FM: https://72fm.com/station/6623c04a-8c8d-4ef7-aa6a-d14361fbb0be
+#EXTINF:-1 tvg-logo="https://www.virginradio.it/wp-content/themes/virgin-radio-theme/public/images/VRG-symbol-footer.066739.png" group-title="Classic Rock" radio="true",Virgin Radio Italy
+https://icy.unitedradio.it/Virgin.mp3
 # 72FM: https://72fm.com/station/96207bd5-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="Classic Rock" radio="true",CIBU 'Classic Rock 94.5' Wingham, ON
 http://live.leanstream.co/CIBUFM
@@ -682,9 +685,6 @@ https://stream.ouveai.com.br/proxy/putzgrila?mp=/stream
 # 72FM: https://72fm.com/station/f372211b-7e3f-4bac-8b48-e3a3caa3c69a
 #EXTINF:-1 group-title="Classic Rock" radio="true",Retro Album Rock
 http://ais-edge07-live365-dal02.cdnstream.com/a89824
-# 72FM: https://72fm.com/station/6623c04a-8c8d-4ef7-aa6a-d14361fbb0be
-#EXTINF:-1 tvg-logo="https://www.virginradio.it/wp-content/themes/virgin-radio-theme/public/images/VRG-symbol-footer.066739.png" group-title="Classic Rock" radio="true",Virgin Radio Italy
-https://icy.unitedradio.it/Virgin.mp3
 # 72FM: https://72fm.com/station/c73f143e-3306-4eb7-8d9d-5d59aec4c82b
 #EXTINF:-1 group-title="Classic Rock" radio="true",GotRadio - The 60s
 https://pureplay.cdnstream1.com/6032_128.mp3
@@ -721,33 +721,33 @@ https://cob-ais.leanstream.co/CFJBFM-MP3?args=tunein_01
 # 72FM: https://72fm.com/station/4e9c5932-cf40-4dc8-af48-290f5b33c263
 #EXTINF:-1 tvg-logo="https://1000hit.ru/wp-content/uploads/elementor/thumbs/1000logo-qpueqzy2e63fp60e4sr3sfn0ao6habtfhem41brnr4.png" group-title="Classic Rock" radio="true",1000 HITS RADIO
 https://stream.1000hit.ru:8000/stream128
-# 72FM: https://72fm.com/station/0bc31dd6-5cdc-11ea-be63-52543be04c81
-#EXTINF:-1 group-title="Classic Rock" radio="true",Zonkers Radio
-http://128.199.35.208:8000/radio.mp3?
-# 72FM: https://72fm.com/station/2f16b82c-00d9-4d6f-8f86-8a98e44d90e2
-#EXTINF:-1 group-title="Classic Rock" radio="true",102.5 KZOK
-https://stream.revma.ihrhls.com/zc7787
-# 72FM: https://72fm.com/station/ff0d0aa7-6738-41e5-a968-ea5435c665b4
-#EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/907/files/2021/01/q-103-herologo-609x300-1.png" group-title="Classic Rock" radio="true",CJMO-FM 103.1 'Q103' - Moncton, NB
-http://newcap.leanstream.co/CJMOFM
-# 72FM: https://72fm.com/station/d07e0953-3d05-411e-acae-cf9a521b2ee0
-#EXTINF:-1 group-title="Classic Rock" radio="true",Z106.7
-https://stream.revma.ihrhls.com/zc1245
-# 72FM: https://72fm.com/station/f570d89b-d8d3-4016-a1d2-42248689be8d
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246331679/Twiter_400x400.jpg" group-title="Classic Rock" radio="true",Omega Stereo
-https://www.streaming507.net:8048/stream
-# 72FM: https://72fm.com/station/2b480134-b9a9-11e9-acb2-52543be04c81
-#EXTINF:-1 group-title="Classic Rock" radio="true",RadioBOB AC/DC Collection (64 kbps AAC)
-http://streams.radiobob.de/bob-acdc/aac-64/mediaplayer
 # 72FM: https://72fm.com/station/9621034d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/607/61d88c5633e8d.png" group-title="Classic Rock" radio="true",CJSD 94.3 'Rock 94' Thunder Bay, ON
 http://cjsd.streamon.fm/stream/CJSD-32k.aac
-# 72FM: https://72fm.com/station/c7bba75d-0284-4deb-84fa-ad60318076f9
-#EXTINF:-1 tvg-logo="https://www.christianclassicrock.net/apple-touch-icon.png" group-title="Classic Rock" radio="true",CRnet Classic Rock (128)
-https://shoutcast.christianrock.net/stream/9/
+# 72FM: https://72fm.com/station/2f16b82c-00d9-4d6f-8f86-8a98e44d90e2
+#EXTINF:-1 group-title="Classic Rock" radio="true",102.5 KZOK
+https://stream.revma.ihrhls.com/zc7787
+# 72FM: https://72fm.com/station/2b480134-b9a9-11e9-acb2-52543be04c81
+#EXTINF:-1 group-title="Classic Rock" radio="true",RadioBOB AC/DC Collection (64 kbps AAC)
+http://streams.radiobob.de/bob-acdc/aac-64/mediaplayer
+# 72FM: https://72fm.com/station/0bc31dd6-5cdc-11ea-be63-52543be04c81
+#EXTINF:-1 group-title="Classic Rock" radio="true",Zonkers Radio
+http://128.199.35.208:8000/radio.mp3?
+# 72FM: https://72fm.com/station/d07e0953-3d05-411e-acae-cf9a521b2ee0
+#EXTINF:-1 group-title="Classic Rock" radio="true",Z106.7
+https://stream.revma.ihrhls.com/zc1245
+# 72FM: https://72fm.com/station/ff0d0aa7-6738-41e5-a968-ea5435c665b4
+#EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/907/files/2021/01/q-103-herologo-609x300-1.png" group-title="Classic Rock" radio="true",CJMO-FM 103.1 'Q103' - Moncton, NB
+http://newcap.leanstream.co/CJMOFM
+# 72FM: https://72fm.com/station/f570d89b-d8d3-4016-a1d2-42248689be8d
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246331679/Twiter_400x400.jpg" group-title="Classic Rock" radio="true",Omega Stereo
+https://www.streaming507.net:8048/stream
 # 72FM: https://72fm.com/station/9cc01fff-5c3a-401e-8609-cbf795516514
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2mrvXX/radio-classique.png" group-title="Classic Rock" radio="true",Classique: Una radio de clásicos
 https://01.solumedia.com.ar:8562/stream
+# 72FM: https://72fm.com/station/c7bba75d-0284-4deb-84fa-ad60318076f9
+#EXTINF:-1 tvg-logo="https://www.christianclassicrock.net/apple-touch-icon.png" group-title="Classic Rock" radio="true",CRnet Classic Rock (128)
+https://shoutcast.christianrock.net/stream/9/
 # 72FM: https://72fm.com/station/6b2e0fad-6f57-4464-83ae-d68981e11504
 #EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/capital/sites/2/2016/11/webradio-classicrock-320x320.jpg" group-title="Classic Rock" radio="true",Radio Capital Classic Rock
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8
@@ -760,27 +760,27 @@ https://streams.radiobob.de/roadtrip/mp3-192/streams.radiobob.de/
 # 72FM: https://72fm.com/station/f7c3e272-6632-46e8-a3ae-9265f94af020
 #EXTINF:-1 group-title="Classic Rock" radio="true",Radio 3Net
 http://media.3netmedia.ro:8000/Live128
+# 72FM: https://72fm.com/station/6f4b6359-24af-411b-add3-402761ec7557
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GyTyFSC/Country.png" group-title="Classic Rock" radio="true",* COUNTRY || Country Pop, Country Rock, Nashville, Americana, Folk, Southern Rock, Roadtrip, Storytelling, Acoustic, Fee
+https://0nlineradio.radioho.st/0r-country?ref=rb26
 # 72FM: https://72fm.com/station/69e0e4bd-f32a-11e9-a96c-52543be04c81
 #EXTINF:-1 group-title="Classic Rock" radio="true",Traxx FM - Rock
 http://traxx019.ice.infomaniak.ch/traxx019-low.mp3
 # 72FM: https://72fm.com/station/96212e65-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://rock101.com/wp-content/uploads/sites/22/2018/01/cropped-fm-logos_512x512_rock101.png?w=180" group-title="Classic Rock" radio="true",CFMI 101.1 'Rock 101' New Westminster, BC
 http://live.leanstream.co/CFMIFM-MP3
-# 72FM: https://72fm.com/station/6f4b6359-24af-411b-add3-402761ec7557
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GyTyFSC/Country.png" group-title="Classic Rock" radio="true",* COUNTRY || Country Pop, Country Rock, Nashville, Americana, Folk, Southern Rock, Roadtrip, Storytelling, Acoustic, Fee
-https://0nlineradio.radioho.st/0r-country?ref=rb26
 # 72FM: https://72fm.com/station/47f4b8f2-a516-4763-b597-36622e573838
 #EXTINF:-1 group-title="Classic Rock" radio="true",RADIO BOB - 70er Rock [aac | 64 kbps]
 https://streams.radiobob.de/70errock/aac-64/streams.radiobob.de/
-# 72FM: https://72fm.com/station/a67edd92-177b-4ec1-9f74-58980fe89a80
-#EXTINF:-1 group-title="Classic Rock" radio="true",Life Radio Classic Rock
-https://stream11.liferadio.at/
 # 72FM: https://72fm.com/station/c5bc9dde-3059-11e9-8f31-52543be04c81
 #EXTINF:-1 group-title="Classic Rock" radio="true",100Rock
 http://100rock.stream.laut.fm/100rock?t302=2026-10-01_21-27-52&uuid=9449927d-575b-ffba-e1da-0a0eea85ec8b
 # 72FM: https://72fm.com/station/ad37b092-f582-4841-8022-bd70b7592067
 #EXTINF:-1 group-title="Classic Rock" radio="true",The Generator
 https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892
+# 72FM: https://72fm.com/station/a67edd92-177b-4ec1-9f74-58980fe89a80
+#EXTINF:-1 group-title="Classic Rock" radio="true",Life Radio Classic Rock
+https://stream11.liferadio.at/
 # 72FM: https://72fm.com/station/898410ff-8421-44fb-81f2-0090c287881d
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="Classic Rock" radio="true",MRR Manitu Rock Radio
 https://radio.streemlion.com:4515/stream
@@ -799,27 +799,27 @@ http://sc1.reignradio.net:8184/
 # 72FM: https://72fm.com/station/07948109-21d6-4646-ba28-c35467973895
 #EXTINF:-1 group-title="Classic Rock" radio="true",Rádio KIKS - Rock Music
 https://online.radiokiks.sk:8000/kiks_rock.mp3
-# 72FM: https://72fm.com/station/ff4e7a72-5a9a-414e-9bc0-7d3f0cfe4c6e
-#EXTINF:-1 tvg-logo="https://stream.rockantenne.de/favicon.ico" group-title="Classic Rock" radio="true",Rock Antenne Classic Perlen
-https://stream.rockantenne.de/classic-perlen/stream/aacp
-# 72FM: https://72fm.com/station/486335d7-da42-4a41-858d-afeffa759746
-#EXTINF:-1 tvg-logo="https://www.northernstar.cc/favicon.ico" group-title="Classic Rock" radio="true",Radio Northern Star
-http://5866.cloudrad.io:8018/northernstar.mp3
 # 72FM: https://72fm.com/station/39bbb2c1-45b3-4152-a59c-d8969c2937c4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg" group-title="Classic Rock" radio="true",Totally Radio - Rock (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01.mp3
+# 72FM: https://72fm.com/station/486335d7-da42-4a41-858d-afeffa759746
+#EXTINF:-1 tvg-logo="https://www.northernstar.cc/favicon.ico" group-title="Classic Rock" radio="true",Radio Northern Star
+http://5866.cloudrad.io:8018/northernstar.mp3
+# 72FM: https://72fm.com/station/ff4e7a72-5a9a-414e-9bc0-7d3f0cfe4c6e
+#EXTINF:-1 tvg-logo="https://stream.rockantenne.de/favicon.ico" group-title="Classic Rock" radio="true",Rock Antenne Classic Perlen
+https://stream.rockantenne.de/classic-perlen/stream/aacp
 # 72FM: https://72fm.com/station/067dd9ca-4343-11e9-aa55-52543be04c81
 #EXTINF:-1 group-title="Classic Rock" radio="true",Fisherton
 http://23.111.184.195:8140/radio.mp3
+# 72FM: https://72fm.com/station/f9c08c41-c711-410c-9152-82d5cddc17ed
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpnRsBPM/Soft-Rock.png" group-title="Classic Rock" radio="true",0R - SOFT ROCK || Rock, Pop Rock, Ballads, Classic Rock, Soft, Guitar, Melodic, 70s, 80s, 90s, Easy Listening, Romantic,
+https://0nlineradio.radioho.st/0r-soft-rock?ref=radio-browser26
 # 72FM: https://72fm.com/station/e6705c27-9992-4c66-9c21-0e67b4bdbe70
 #EXTINF:-1 group-title="Classic Rock" radio="true",Handcrafted Radio HD
 http://janus.cdnstream.com:5637/stream;
 # 72FM: https://72fm.com/station/4ab0fa4d-f598-48e4-9bfc-7ef4cb622277
 #EXTINF:-1 group-title="Classic Rock" radio="true",Exclusively Elton John
 https://2.mystreaming.net/er/eltonjohn/icecast.audio
-# 72FM: https://72fm.com/station/f9c08c41-c711-410c-9152-82d5cddc17ed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpnRsBPM/Soft-Rock.png" group-title="Classic Rock" radio="true",0R - SOFT ROCK || Rock, Pop Rock, Ballads, Classic Rock, Soft, Guitar, Melodic, 70s, 80s, 90s, Easy Listening, Romantic,
-https://0nlineradio.radioho.st/0r-soft-rock?ref=radio-browser26
 # 72FM: https://72fm.com/station/96416cf3-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/2111/home_screen_logo-5e343995f0850.png" group-title="Classic Rock" radio="true",WWVR '98.5 The River' Paris, IL
 http://27053.live.streamtheworld.com/WWVRFMAAC_SC
@@ -844,15 +844,15 @@ http://23.111.184.195:8050/fmmeridiano.mp3
 # 72FM: https://72fm.com/station/bbb85bf2-063e-4307-9228-a65ef69f5464
 #EXTINF:-1 tvg-logo="https://www.radiocaroline.nl/favicon.ico" group-title="Classic Rock" radio="true",Radio Caroline 259 AAC 96
 https://happy.radiocaroline.nl/listen/classic_rock/radio96.acc
+# 72FM: https://72fm.com/station/a4fd271b-d2db-49fe-b51b-4d8690af5f8b
+#EXTINF:-1 group-title="Classic Rock" radio="true",Sunny Radio
+https://stream.revma.ihrhls.com/zc5014
 # 72FM: https://72fm.com/station/80ba9ee8-3194-4107-b706-1943709b811f
 #EXTINF:-1 tvg-logo="https://www.radioacktiva.com/wp-content/uploads/2024/12/cropped-favicon-new1-180x180.png" group-title="Classic Rock" radio="true",Radioacktiva Medellin
 http://24373.live.streamtheworld.com/RADIOACKTIVA_MEDAAC_SC
 # 72FM: https://72fm.com/station/2b1aae2b-71b9-11ea-b1cf-52543be04c81
 #EXTINF:-1 tvg-logo="https://www.rockfm.ru/favicons/apple-touch-icon.png" group-title="Classic Rock" radio="true",rockfm.ru
 https://nashe1.hostingradio.ru:80/rock-128.mp3
-# 72FM: https://72fm.com/station/a4fd271b-d2db-49fe-b51b-4d8690af5f8b
-#EXTINF:-1 group-title="Classic Rock" radio="true",Sunny Radio
-https://stream.revma.ihrhls.com/zc5014
 # 72FM: https://72fm.com/station/0f9b53ac-460c-4ad1-8fdc-aee4f446fafd
 #EXTINF:-1 group-title="Classic Rock" radio="true",Itapema 102.3 FM
 https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/chunklist_0ac85862-caaa-446f-93bf-3e12816c36a0.m3u8
@@ -874,18 +874,21 @@ https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream
 # 72FM: https://72fm.com/station/1876862c-7faf-11e8-a43d-52543be04c81
 #EXTINF:-1 group-title="Classic Rock" radio="true",RMC Sensual Rock
 http://edge.radiomontecarlo.net/rmcweb016
-# 72FM: https://72fm.com/station/c4a4062f-ae8d-45db-9794-b0a7912b1fbf
-#EXTINF:-1 tvg-logo="https://wdnsfm.com/favicon.ico" group-title="Classic Rock" radio="true",WDNS Logo D93 Bowling Green's Classic Rock
-https://ice5.securenetsystems.net/WDNS?playSessionID=64A438C7-AB6E-37FC-7DF0A567D4283B8F
 # 72FM: https://72fm.com/station/9ca78771-03a6-4e94-8bb0-a997250e087b
 #EXTINF:-1 group-title="Classic Rock" radio="true",100.7 KKRQ The Fox
 https://stream.revma.ihrhls.com/zc2812
+# 72FM: https://72fm.com/station/c4a4062f-ae8d-45db-9794-b0a7912b1fbf
+#EXTINF:-1 tvg-logo="https://wdnsfm.com/favicon.ico" group-title="Classic Rock" radio="true",WDNS Logo D93 Bowling Green's Classic Rock
+https://ice5.securenetsystems.net/WDNS?playSessionID=64A438C7-AB6E-37FC-7DF0A567D4283B8F
 # 72FM: https://72fm.com/station/67ea1af2-07a6-4de8-985e-b47947139793
 #EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio-1-classics/v1/color.svg" group-title="Classic Rock" radio="true",VRT Radio 1 Classics
 http://icecast.vrtcdn.be/radio1_classics-high.mp3
 # 72FM: https://72fm.com/station/1cf68d54-ff37-44cb-b202-099df5108654
 #EXTINF:-1 group-title="Classic Rock" radio="true",Big Hits Radio QLD Townsville North Queensland 20220701
 https://onlineradiobox.com/json/au/bighits/play?platform=web
+# 72FM: https://72fm.com/station/d14b51b2-f045-4a10-a46b-86536e747963
+#EXTINF:-1 tvg-logo="https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png" group-title="Classic Rock" radio="true",Badrock Golden Era
+https://streams.badrockradio.net/golden-era
 # 72FM: https://72fm.com/station/9609965b-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://963bigfm.com/wp-content/uploads/sites/3/2018/02/cropped-big963_512x512.png?w=180" group-title="Classic Rock" radio="true",CFMK 'Big 96.3' Kingston, ON
 http://live.leanstream.co/CFMKFM-MP3
@@ -895,12 +898,9 @@ https://stream.revma.ihrhls.com/zc1785
 # 72FM: https://72fm.com/station/37efd306-ab35-4f49-87b8-926f5e1effe5
 #EXTINF:-1 tvg-logo="https://rt1.imsueden.de/storage/thumbs/192x192/r:1678126825/1618.png" group-title="Classic Rock" radio="true",RT1 Classic Rock
 https://frontend.streamonkey.net/rt1-ch01/stream/mp3?aggregator=rt1_web&aw_0_1st.playerid=rt1_web&aw_0_1st.source=imsuden_web
-# 72FM: https://72fm.com/station/d14b51b2-f045-4a10-a46b-86536e747963
-#EXTINF:-1 tvg-logo="https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png" group-title="Classic Rock" radio="true",Badrock Golden Era
-https://streams.badrockradio.net/golden-era
 # 72FM: https://72fm.com/station/89d7bca7-76a0-43ce-8546-7028022b21e9
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/favicon-194x194.png" group-title="Classic Rock" radio="true",Vinyl Radio NZ
 https://s40.myradiostream.com:17794/listen.aac?
-# 72FM: https://72fm.com/station/d965b7c1-3447-4c8b-a842-b5b3afc53717
-#EXTINF:-1 group-title="Classic Rock" radio="true",Outpost Radio - Feel Good Rock (VIP)
-http://feelgoodrock.com/pvt102
+# 72FM: https://72fm.com/station/e710bbe1-09c4-11e8-ae97-52543be04c81
+#EXTINF:-1 group-title="Classic Rock" radio="true",laut.fm Soundmania
+http://stream.laut.fm/soundmania

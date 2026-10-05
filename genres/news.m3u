@@ -202,12 +202,12 @@ http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 # 72FM: https://72fm.com/station/82785967-c645-4bc2-a02a-e5e00e03ce4a
 #EXTINF:-1 group-title="News" radio="true",Hot FM 105
 http://172.93.237.106:8000/listen.mp3
-# 72FM: https://72fm.com/station/6b77cd64-68ef-4984-91ec-9b7e77a26eda
-#EXTINF:-1 group-title="News" radio="true",Radio Liban Libre
-https://edge.mixlr.com/channel/qtqeb
 # 72FM: https://72fm.com/station/9e077bed-f46f-4506-8237-c26be0538fdc
 #EXTINF:-1 tvg-logo="https://www.klubradio.hu/static/frontend/imgs/KR-clean-logo.png" group-title="News" radio="true",Klubrádió 95,3
 https://a7.asurahosting.com:8160/radio.mp3
+# 72FM: https://72fm.com/station/6b77cd64-68ef-4984-91ec-9b7e77a26eda
+#EXTINF:-1 group-title="News" radio="true",Radio Liban Libre
+https://edge.mixlr.com/channel/qtqeb
 # 72FM: https://72fm.com/station/2678a502-9a27-4774-a549-e00091878051
 #EXTINF:-1 group-title="News" radio="true",Спутник
 https://icecast-rian.cdnvideo.ru/voicerus
@@ -289,18 +289,18 @@ http://stream1.radiord.ru:8000/live96.aac
 # 72FM: https://72fm.com/station/11db7327-9ceb-4ad6-a00f-7f68ac3d20ed
 #EXTINF:-1 group-title="News" radio="true",Ujyaalo 90 Network
 http://stream.zenolive.com/wtuvp08xq1duv
-# 72FM: https://72fm.com/station/84a51775-4137-48c8-b72b-85f4b5edc7e5
-#EXTINF:-1 group-title="News" radio="true",Super Radio Tupi 96.5
-https://8923.brasilstream.com.br/stream
 # 72FM: https://72fm.com/station/2fc307a0-1ac8-4f92-b988-7c9456fbb440
 #EXTINF:-1 tvg-logo="https://media.radio1.si/ico/32.png" group-title="News" radio="true",Radio 1
 http://live.radio.si/Radio1
-# 72FM: https://72fm.com/station/9620b36f-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png" group-title="News" radio="true",CFRB News/Talk 1010 (Toronto, ON)
-http://14223.live.streamtheworld.com:3690/CFRBAMAAC_SC
+# 72FM: https://72fm.com/station/84a51775-4137-48c8-b72b-85f4b5edc7e5
+#EXTINF:-1 group-title="News" radio="true",Super Radio Tupi 96.5
+https://8923.brasilstream.com.br/stream
 # 72FM: https://72fm.com/station/3aa9ffce-7476-4e61-93f2-9662ea5d4b93
 #EXTINF:-1 group-title="News" radio="true",RFI Tiếng Việt
 https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
+# 72FM: https://72fm.com/station/9620b36f-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png" group-title="News" radio="true",CFRB News/Talk 1010 (Toronto, ON)
+http://14223.live.streamtheworld.com:3690/CFRBAMAAC_SC
 # 72FM: https://72fm.com/station/961bdac0-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="News" radio="true",LBC London (London stream) MP3
 http://media-ice.musicradio.com/LBCLondonMP3Low
@@ -367,12 +367,12 @@ http://25643.live.streamtheworld.com/FM702_SC
 # 72FM: https://72fm.com/station/96b88cb2-76a4-43fb-9257-e791103f5fa8
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2021/09/radio-taipei-93.1-fm-220x108.jpg" group-title="News" radio="true",臺北電台
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
-# 72FM: https://72fm.com/station/964857c9-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://d9hhnadinot6y.cloudfront.net/imag/2023/08/cropped-cropped-favico-192x192-1-180x180.png" group-title="News" radio="true",Radio America 94.7 Tegucigalpa
-http://26653.live.streamtheworld.com:3690/AMERICA_SC
 # 72FM: https://72fm.com/station/960ef35c-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg" group-title="News" radio="true",VRT Radio 1
 http://icecast.vrtcdn.be/radio1-high.mp3
+# 72FM: https://72fm.com/station/964857c9-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://d9hhnadinot6y.cloudfront.net/imag/2023/08/cropped-cropped-favico-192x192-1-180x180.png" group-title="News" radio="true",Radio America 94.7 Tegucigalpa
+http://26653.live.streamtheworld.com:3690/AMERICA_SC
 # 72FM: https://72fm.com/station/4a953750-49f8-46bb-a488-0e428cd7c232
 #EXTINF:-1 group-title="News" radio="true",CNR-1 中国之声
 http://zbbf2.ahbztv.com/live/4f3.m3u8
@@ -589,54 +589,54 @@ https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
 # 72FM: https://72fm.com/station/abf148ba-cb50-4d30-a0da-ee68620019aa
 #EXTINF:-1 group-title="News" radio="true",Kurdistan 24
 https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
-# 72FM: https://72fm.com/station/ae81beef-726e-4fbd-9c80-20d3237e2967
-#EXTINF:-1 tvg-logo="https://www.europafm.ro/icons/favicon-16x16.png" group-title="News" radio="true",EuropaFM
-http://astreaming.edi.ro:8000/EuropaFM_aac
 # 72FM: https://72fm.com/station/98688060-6cbe-4f73-be94-da8d8efc2ead
 #EXTINF:-1 group-title="News" radio="true",Al araby
 https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio
+# 72FM: https://72fm.com/station/ae81beef-726e-4fbd-9c80-20d3237e2967
+#EXTINF:-1 tvg-logo="https://www.europafm.ro/icons/favicon-16x16.png" group-title="News" radio="true",EuropaFM
+http://astreaming.edi.ro:8000/EuropaFM_aac
 # 72FM: https://72fm.com/station/f66f08c3-1616-4dd6-a54f-75aa29aa8249
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14_1646746883.jpeg" group-title="News" radio="true",Rádio Itatiaia 95.7 FM
 https://8903.brasilstream.com.br/stream
 # 72FM: https://72fm.com/station/b8d8be2b-f217-4499-b2f6-533dfb5d49e1
 #EXTINF:-1 tvg-logo="https://www.rfi.fr/favicon-194x194.png" group-title="News" radio="true",RFI Kiswahili
 https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3
+# 72FM: https://72fm.com/station/a25ce744-fd5c-4fa5-af48-2b384cf1d3aa
+#EXTINF:-1 group-title="News" radio="true",Vietnamese National People
+http://c13.radioboss.fm:8127/stream
 # 72FM: https://72fm.com/station/68d94f0b-7f0f-4048-b397-d450466cf63a
 #EXTINF:-1 group-title="News" radio="true",Ahaber
 http://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8
 # 72FM: https://72fm.com/station/9c863a9c-e941-44a9-aec0-c54a2c430955
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s16653/images/logog.png?t=1" group-title="News" radio="true",VOB 92.9 FM
 https://ice66.securenetsystems.net:80/VOB929
-# 72FM: https://72fm.com/station/a25ce744-fd5c-4fa5-af48-2b384cf1d3aa
-#EXTINF:-1 group-title="News" radio="true",Vietnamese National People
-http://c13.radioboss.fm:8127/stream
 # 72FM: https://72fm.com/station/961b24b2-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="News" radio="true",Cape Talk
 http://28033.live.streamtheworld.com:3690/CAPE_TALK_SC
 # 72FM: https://72fm.com/station/16829065-cee9-49e2-b76e-a7242a12aaa9
 #EXTINF:-1 group-title="News" radio="true",Radio RMF24.PL
 https://rs201-krk.rmfstream.pl/RMF24
+# 72FM: https://72fm.com/station/5d6b5573-d661-477a-82fc-1d0d03799679
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/css//rtve.2021/i/rtve-logos/logos_cadenas/radio-5_color.svg" group-title="News" radio="true",Radio Nacional de España - Radio 5 Todo noticias
+https://d131.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein&cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=2OeE42hivuba6dTGvjnMGjKByQe&token=cdczXcnimVx4AY4iamqYbTMdu3cK7oBxmS2UQN9cWc0&tvf=pdPcDBxuVxdkMTMxLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/de04e00e-51c3-4f65-96ce-7d6aab2c55fd
 #EXTINF:-1 group-title="News" radio="true",Sonar 105.3 FM
 https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox
 # 72FM: https://72fm.com/station/a226ec5a-830a-11e9-aa30-52543be04c81
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Nacional_AM_870_2016.png" group-title="News" radio="true",Radio nacional AM 870
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
-# 72FM: https://72fm.com/station/5d6b5573-d661-477a-82fc-1d0d03799679
-#EXTINF:-1 tvg-logo="https://img2.rtve.es/css//rtve.2021/i/rtve-logos/logos_cadenas/radio-5_color.svg" group-title="News" radio="true",Radio Nacional de España - Radio 5 Todo noticias
-https://d131.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein&cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=2OeE42hivuba6dTGvjnMGjKByQe&token=cdczXcnimVx4AY4iamqYbTMdu3cK7oBxmS2UQN9cWc0&tvf=pdPcDBxuVxdkMTMxLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/7094b698-b1ac-4f08-a6cd-ac35f906765d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png" group-title="News" radio="true",CNN International Audio
 https://tunein.cdnstream1.com/3519_96.aac
 # 72FM: https://72fm.com/station/be948551-d271-4928-bf2b-551bd119ce00
 #EXTINF:-1 tvg-logo="https://gfx.radiopogoda.pl/extension/radiopogoda/design/standard/images/favicon/apple-touch-icon.png" group-title="News" radio="true",Radio Pogoda Poznań
 http://stream30.radiostream.pl/tuba138-1.mp3
-# 72FM: https://72fm.com/station/960cc3f3-0601-11e8-ae97-52543be04c81
-#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.158.1/img/favicon/apple-touch-icon.png" group-title="News" radio="true",WDR 2 Ostwestfalen-Lippe
-http://wdr-wdr2-ostwestfalenlippe.icecast.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/787eda99-1532-4ee0-b14e-fdb88ec71530
 #EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:c3ab9296f3b282bf?w=512" group-title="News" radio="true",BR24
 https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+# 72FM: https://72fm.com/station/960cc3f3-0601-11e8-ae97-52543be04c81
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.158.1/img/favicon/apple-touch-icon.png" group-title="News" radio="true",WDR 2 Ostwestfalen-Lippe
+http://wdr-wdr2-ostwestfalenlippe.icecast.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/8f174c53-5547-44d2-bb92-75a985cdb5ef
 #EXTINF:-1 tvg-logo="https://www.parapolitika.gr/favicon.ico" group-title="News" radio="true",Parapolitika 90.1
 https://netradio.live24.gr/athinaradio
@@ -661,27 +661,30 @@ https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d33
 # 72FM: https://72fm.com/station/96212079-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://bloximages.newyork1.vip.townnews.com/notiuno.com/content/tncms/custom/image/1910fac6-b6a6-11e8-bedc-73fa7469f5d8.png?resize=200%2c200" group-title="News" radio="true",WUNO 630 'Noti Uno' San Juan
 http://68.235.35.243:9027/;stream.mp3
-# 72FM: https://72fm.com/station/14543b1e-44bf-4151-ae89-ec23b6eb711f
-#EXTINF:-1 tvg-logo="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" group-title="News" radio="true",NPR 24 Hour Program Stream
-http://npr-ice.streamguys1.com/live.aac
 # 72FM: https://72fm.com/station/3a83ee6a-b61d-4649-9be0-b4357a00329f
 #EXTINF:-1 group-title="News" radio="true",VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+# 72FM: https://72fm.com/station/14543b1e-44bf-4151-ae89-ec23b6eb711f
+#EXTINF:-1 tvg-logo="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" group-title="News" radio="true",NPR 24 Hour Program Stream
+http://npr-ice.streamguys1.com/live.aac
 # 72FM: https://72fm.com/station/f2c7caa3-758b-4571-bdda-3f96bea62f13
 #EXTINF:-1 tvg-logo="https://infoplus60.blogspot.com/favicon.ico" group-title="News" radio="true",Aziz Mustaphi
 https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3
 # 72FM: https://72fm.com/station/717e3749-b9e8-4497-bd6a-61ccec935922
 #EXTINF:-1 tvg-logo="https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png" group-title="News" radio="true",Deutschlandfunk | DLF | AAC 192k
 https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
-# 72FM: https://72fm.com/station/21b074e0-dd20-41cc-9d3d-ad4b9b5b4afe
-#EXTINF:-1 group-title="News" radio="true",Power 98.7
-https://edge.iono.fm/xice/65_medium.aac
 # 72FM: https://72fm.com/station/8643cfcb-a7bb-4c46-8391-fffe266bce16
 #EXTINF:-1 group-title="News" radio="true",RTE1
 http://icecast.rte.ie/radio1
+# 72FM: https://72fm.com/station/21b074e0-dd20-41cc-9d3d-ad4b9b5b4afe
+#EXTINF:-1 group-title="News" radio="true",Power 98.7
+https://edge.iono.fm/xice/65_medium.aac
 # 72FM: https://72fm.com/station/5af9345a-1bfa-11e8-a334-52543be04c81
 #EXTINF:-1 group-title="News" radio="true",WXLW 950 'Freedom 95' Indianapolis, IN
 http://ice24.securenetsystems.net/WFDM
+# 72FM: https://72fm.com/station/a6bc8a3b-67bf-4042-9af8-f7bad29f0734
+#EXTINF:-1 tvg-logo="https://www.aljazeera.com/wp-content/uploads/2025/05/english-live-1747222410.png?resize=270%2C270&quality=80" group-title="News" radio="true",Al Jazeera - English
+https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8
 # 72FM: https://72fm.com/station/6509e1cc-5ca3-11e9-a622-52543be04c81
 #EXTINF:-1 group-title="News" radio="true",Radio Onda Positiva 94.1 FM
 https://streamingecuador.net:8011/radioondapositiva
@@ -691,21 +694,18 @@ http://athina984.live24.gr/athina984
 # 72FM: https://72fm.com/station/01683d91-4e1e-4152-b1bc-30f2f1360b98
 #EXTINF:-1 tvg-logo="https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png" group-title="News" radio="true",Deutschlandfunk | DLF | AAC 96k
 https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web
-# 72FM: https://72fm.com/station/a6bc8a3b-67bf-4042-9af8-f7bad29f0734
-#EXTINF:-1 tvg-logo="https://www.aljazeera.com/wp-content/uploads/2025/05/english-live-1747222410.png?resize=270%2C270&quality=80" group-title="News" radio="true",Al Jazeera - English
-https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8
 # 72FM: https://72fm.com/station/346d36f4-497a-11e8-b1b0-52543be04c81
 #EXTINF:-1 group-title="News" radio="true",Radio Monte Carlo
 http://edge.radiomontecarlo.net/RMC.mp3
+# 72FM: https://72fm.com/station/05d6f5d1-827c-4cc4-8845-175bc33af435
+#EXTINF:-1 group-title="News" radio="true",Times Radio
+https://timesradio.wireless.radio/stream
 # 72FM: https://72fm.com/station/3da2910e-3a5d-4d57-90bb-7fe6f00b29f8
 #EXTINF:-1 group-title="News" radio="true",Fox News
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 # 72FM: https://72fm.com/station/1647efb2-a9aa-42d4-975b-2124b5530a5c
 #EXTINF:-1 group-title="News" radio="true",107.3 BBC Radio Uganda
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
-# 72FM: https://72fm.com/station/05d6f5d1-827c-4cc4-8845-175bc33af435
-#EXTINF:-1 group-title="News" radio="true",Times Radio
-https://timesradio.wireless.radio/stream
 # 72FM: https://72fm.com/station/8e32c763-b926-4e57-9b8f-d60f1c5b48e3
 #EXTINF:-1 tvg-logo="https://herald.musicradio.com/media/02a3caa1-dacf-47b1-ad54-c10728b66cd9.png" group-title="News" radio="true",LBC News
 https://media-ssl.musicradio.com/LBCNewsUK
@@ -724,24 +724,24 @@ https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8
 # 72FM: https://72fm.com/station/8e8f1791-1408-49f7-a4fb-b7c7e2fb3636
 #EXTINF:-1 group-title="News" radio="true",加拿大中文电台FM.96.1
 https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/1eb520fb-5bef-44f2-ba53-66d3fc996fc8
-#EXTINF:-1 group-title="News" radio="true",Infowars AAC Stream
-http://streams.infowars.com/alexjonesshow-aac
 # 72FM: https://72fm.com/station/3e78590f-ab9c-4e13-a512-189a17a54965
 #EXTINF:-1 tvg-logo="https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png" group-title="News" radio="true",CIN Khabar
 https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60
+# 72FM: https://72fm.com/station/1eb520fb-5bef-44f2-ba53-66d3fc996fc8
+#EXTINF:-1 group-title="News" radio="true",Infowars AAC Stream
+http://streams.infowars.com/alexjonesshow-aac
 # 72FM: https://72fm.com/station/f837704e-40df-4302-b546-c8401348e51c
 #EXTINF:-1 tvg-logo="https://radiotvrepublika.pl/favicon-96x96.png" group-title="News" radio="true",Radio Republika
 https://ssl-1.radiotvrepublika.pl:12698/stream
 # 72FM: https://72fm.com/station/9619687d-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="News" radio="true",Diana FM
 http://centova.radio.com.pt:9460/;
-# 72FM: https://72fm.com/station/f2c327d2-619d-48cd-a5d3-2fa705625c6a
-#EXTINF:-1 group-title="News" radio="true",France Info
-http://direct.franceinfo.fr/live/franceinfo-midfi.aac
 # 72FM: https://72fm.com/station/9630a026-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 group-title="News" radio="true",Zефир FM
 http://178.124.152.212:8008/Zefir
+# 72FM: https://72fm.com/station/f2c327d2-619d-48cd-a5d3-2fa705625c6a
+#EXTINF:-1 group-title="News" radio="true",France Info
+http://direct.franceinfo.fr/live/franceinfo-midfi.aac
 # 72FM: https://72fm.com/station/55112aa4-5fca-4201-bc53-ae2b467ee087
 #EXTINF:-1 tvg-logo="https://s.libertaddigital.com/2024/08/20/1200/627/esradio/esradio-redes.jpg" group-title="News" radio="true",EsRadio Principal
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
@@ -793,39 +793,39 @@ http://s3.yesstreaming.net:7014/stream
 # 72FM: https://72fm.com/station/8ca28b1f-8f5d-4039-a322-52a13630159d
 #EXTINF:-1 group-title="News" radio="true",美国中文电台-旧金山
 http://radiokest.serverroom.us:6670/;?type=http&nocache=3295
+# 72FM: https://72fm.com/station/59813592-9a30-4e5c-bfc6-665724728582
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="News" radio="true",BBC Live News (128k)
+http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8
 # 72FM: https://72fm.com/station/274dff6e-7019-4dc4-8b19-ec93c6b8140d
 #EXTINF:-1 tvg-logo="https://kosmos.com.na/favicon.ico" group-title="News" radio="true",Kosmos 94.1
 https://edge.iono.fm/xice/88_high.mp3
 # 72FM: https://72fm.com/station/711f2e4e-90b0-4117-86dd-7905f0e1c27e
 #EXTINF:-1 group-title="News" radio="true",Вести FM (AAC)
 https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_64kbps
-# 72FM: https://72fm.com/station/59813592-9a30-4e5c-bfc6-665724728582
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="News" radio="true",BBC Live News (128k)
-http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8
 # 72FM: https://72fm.com/station/f5c095e7-6517-4175-9203-5b9e907fb821
 #EXTINF:-1 tvg-logo="https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png" group-title="News" radio="true",AIR News 24/7
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
-# 72FM: https://72fm.com/station/91200ce0-a62d-43ec-b948-bde6789433e6
-#EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2022/11/rdp-internacional.png" group-title="News" radio="true",RDP Internacional (Portugal)
-https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 # 72FM: https://72fm.com/station/f34ae431-42cd-4ef1-8a24-f4eca8a70cc1
 #EXTINF:-1 tvg-logo="https://media.wnyc.org/i/300/300/c/80/1/wnyc_square_logo.png" group-title="News" radio="true",WNYC 93.9 FM
 http://fm939.wnyc.org/wnycfm.aac
+# 72FM: https://72fm.com/station/91200ce0-a62d-43ec-b948-bde6789433e6
+#EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2022/11/rdp-internacional.png" group-title="News" radio="true",RDP Internacional (Portugal)
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 # 72FM: https://72fm.com/station/04e50d31-07d9-4e6a-927a-b22fb034eb3c
 #EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/favicon.png" group-title="News" radio="true",Cadena SER - Ràdio Barcelona
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
 # 72FM: https://72fm.com/station/b3a2b935-fa76-4086-9db3-22da3bb1ee9c
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YjB73sNAHd.png" group-title="News" radio="true",BandNews FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC_SC
+# 72FM: https://72fm.com/station/6787cf45-924e-4cac-84e1-7f6675712ae3
+#EXTINF:-1 tvg-logo="https://radioexpressfm.com/wp-content/uploads/2022/02/cropped-logo-2-192x192.png" group-title="News" radio="true",Radio Express FM
+https://expressfm.ice.infomaniak.ch/expressfm-64.mp3
 # 72FM: https://72fm.com/station/962df7f6-0601-11e8-ae97-52543be04c81
 #EXTINF:-1 tvg-logo="https://euroradio.fm/themes/custom/euroradio/favicon.ico" group-title="News" radio="true",Еўрарадыё BY
 http://stream1.euroradio.fm:8000/euroradio1
 # 72FM: https://72fm.com/station/6420a400-38fe-47e4-ab5c-28f0d00667bf
 #EXTINF:-1 group-title="News" radio="true",广东新闻广播
 https://lhttp.qtfm.cn/live/1254/64k.mp3
-# 72FM: https://72fm.com/station/6787cf45-924e-4cac-84e1-7f6675712ae3
-#EXTINF:-1 tvg-logo="https://radioexpressfm.com/wp-content/uploads/2022/02/cropped-logo-2-192x192.png" group-title="News" radio="true",Radio Express FM
-https://expressfm.ice.infomaniak.ch/expressfm-64.mp3
 # 72FM: https://72fm.com/station/7ed9b9a3-8420-4999-a62a-54d9cf41d4fe
 #EXTINF:-1 group-title="News" radio="true",Capital Radio
 https://capitalradio.radioca.st/stream
@@ -901,6 +901,6 @@ http://usa9-vn.mixstream.net:8084/;
 # 72FM: https://72fm.com/station/52fec34e-b4fa-4a5a-96cf-e17ffa9bd76d
 #EXTINF:-1 tvg-logo="https://www.playradio.ro/wp-content/uploads/2023/02/Logo-PNG.png" group-title="News" radio="true",Play Radio 91.6
 http://live.playradio.org:9090/FMHD
-# 72FM: https://72fm.com/station/351d3f42-337c-4f00-a088-7a49d939ef1b
-#EXTINF:-1 group-title="News" radio="true",Fm La Paz 96.7
-https://spanel.gcomstreaming.com/8018/stream
+# 72FM: https://72fm.com/station/7ce50274-160a-43b6-a023-782897576f9e
+#EXTINF:-1 tvg-logo="https://sf.ex-cdn.com/vovgiaothong.vn/v0.1.1/templates/themes/images/logo.svg" group-title="News" radio="true",VOV Giao thông Hà Nội
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
