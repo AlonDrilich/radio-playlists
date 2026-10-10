@@ -385,7 +385,9 @@ function m3u(title, entries, groupOf) {
     // Kodi's IPTV Simple Client files channels marked radio="true" under Radio, not TV;
     // players that do not know the attribute ignore it.
     attrs.push('radio="true"');
-    lines.push(`# 72FM: ${SITE}/station/${s.uuid}`);
+    // ?source=m3u: a link opened from a playlist file sends no referrer, so this is how 72FM can tell
+    // the playlists send anyone at all. It names the source and nothing else.
+    lines.push(`# 72FM: ${SITE}/station/${s.uuid}?source=m3u`);
     lines.push(`#EXTINF:-1${attrs.length ? ' ' + attrs.join(' ') : ''},${s.name}`);
     lines.push(s.url);
   }
@@ -932,13 +934,14 @@ Standard extended M3U, UTF-8:
 
 \`\`\`
 #EXTM3U
-# 72FM: https://72fm.com/station/<stationuuid>
+# 72FM: https://72fm.com/station/<stationuuid>?source=m3u
 #EXTINF:-1 tvg-logo="https://…/logo.png" group-title="Germany" radio="true",Station name
 https://stream.example.com/live.mp3
 \`\`\`
 
 The \`# 72FM:\` line is a plain M3U comment that links to the station's page on
-72fm.com. In the M3U format, lines that start with \`#\` and are not a directive the
+72fm.com (the \`?source=m3u\` only tells 72FM the visit came from a playlist file; it
+carries no id). In the M3U format, lines that start with \`#\` and are not a directive the
 player knows are skipped, and this one sits above the \`#EXTINF\` line so parsers
 that pair \`#EXTINF\` with the next line are unaffected. If a player you use trips
 over it, [open an issue](../../issues).
