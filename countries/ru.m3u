@@ -22,12 +22,12 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 # 72FM: https://72fm.com/station/964fade0-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Ретро FM
 http://retroserver.streamr.ru:8043/retro256.mp3
-# 72FM: https://72fm.com/station/964da270-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",Радио Русские Песни
-http://listen.rusongs.ru/ru-mp3-128
 # 72FM: https://72fm.com/station/0a364b59-56b6-11e9-aa33-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://dorognoe.ru/assets/default/i/fav_114x114.png" group-title="Russia" radio="true",Дорожное радио
 http://dorognoe.hostingradio.ru:8000/radio
+# 72FM: https://72fm.com/station/964da270-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",Радио Русские Песни
+http://listen.rusongs.ru/ru-mp3-128
 # 72FM: https://72fm.com/station/563f5559-105c-11e9-a80b-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="Russia" radio="true",DFM RUSSIAN DANCE
 https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
@@ -226,12 +226,12 @@ http://retro90.hostingradio.ru:8025/retro90-128.mp3
 # 72FM: https://72fm.com/station/a925ee80-9b35-424e-9989-345e8d0a2d63?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Радио Рекорд Нафталин FM
 http://radiorecord.hostingradio.ru/naft96.aacp
-# 72FM: https://72fm.com/station/edefa7e1-4ec7-444a-973f-4aab360d5bda?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",Радио 'Маяк'
-https://icecast-vgtrk.cdnvideo.ru/mayakfm
 # 72FM: https://72fm.com/station/af23facc-2a9e-487e-9ff6-42ba600ce38d?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Русское Радио
 https://rusradio.hostingradio.ru/rusradio128.mp3
+# 72FM: https://72fm.com/station/edefa7e1-4ec7-444a-973f-4aab360d5bda?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",Радио 'Маяк'
+https://icecast-vgtrk.cdnvideo.ru/mayakfm
 # 72FM: https://72fm.com/station/a1c3d110-9136-4564-bd41-5ec1b97c41ac?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Radio Record Megamix
 https://radiorecord.hostingradio.ru/mix96.aacp
@@ -421,12 +421,12 @@ http://fantasyradioru.no-ip.biz:8002/live
 # 72FM: https://72fm.com/station/83fd90c1-8810-4007-ab47-5a351ac41192?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png" group-title="Russia" radio="true",Radio Record Deep
 http://radiorecord.hostingradio.ru/deep96.aacp
-# 72FM: https://72fm.com/station/964d5296-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",Anima Amoris - Goa Psy Trance
-http://amoris.sknt.ru/goa.mp3
 # 72FM: https://72fm.com/station/af09ff77-4309-4808-8f78-171f939c2434?source=m3u
 #EXTINF:-1 tvg-logo="https://echofm.online/favicon.ico" group-title="Russia" radio="true",ЭХО
 https://i1.echofm.online:8443/stream
+# 72FM: https://72fm.com/station/964d5296-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",Anima Amoris - Goa Psy Trance
+http://amoris.sknt.ru/goa.mp3
 # 72FM: https://72fm.com/station/756183e3-cc68-4195-b2c7-531a6cbc2f5a?source=m3u
 #EXTINF:-1 tvg-logo="https://im.kommersant.ru/contentflex/images/favicons2020/apple-touch-icon-120.png" group-title="Russia" radio="true",Коммерсантъ FM 93.6
 https://kommersant77.hostingradio.ru:8085/kommersant128.mp3
@@ -475,18 +475,18 @@ https://myradio24.org/5129
 # 72FM: https://72fm.com/station/9614750c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Радио России (Radio Russia)
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-# 72FM: https://72fm.com/station/53c29beb-295c-11ea-aa0c-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",russkoe radio
-http://rusradio.hostingradio.ru/rusradio96.aacp
 # 72FM: https://72fm.com/station/51d264ea-8745-4a18-8207-358619a8a3b8?source=m3u
 #EXTINF:-1 tvg-logo="https://cdnn21.img.ria.ru/i/favicons/radiosputnik/apple-touch-icon.png" group-title="Russia" radio="true",Радио Sputnik (Россия) 256 кбит/с
 https://icecast-rian.cdnvideo.ru/voicerushi
-# 72FM: https://72fm.com/station/96394377-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",Synthradio
-http://77.51.212.205:8005/live192
+# 72FM: https://72fm.com/station/53c29beb-295c-11ea-aa0c-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",russkoe radio
+http://rusradio.hostingradio.ru/rusradio96.aacp
 # 72FM: https://72fm.com/station/711f2e4e-90b0-4117-86dd-7905f0e1c27e?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Вести FM (AAC)
 https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_64kbps
+# 72FM: https://72fm.com/station/96394377-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",Synthradio
+http://77.51.212.205:8005/live192
 # 72FM: https://72fm.com/station/849ab588-43f8-11e8-b74d-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Шансон Плюс
 http://radio.radioshansonplus.com:8000/radio
@@ -526,12 +526,12 @@ http://play.sas-media.ru/play_256
 # 72FM: https://72fm.com/station/42faff49-ef4a-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Radio Caprice - Progressive Rock
 http://79.111.119.111:9121/
-# 72FM: https://72fm.com/station/b3976db4-5daa-11ea-be63-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",Radio Caprice - Melodic Death Metal
-http://79.120.77.11:8002/melodicdeath
 # 72FM: https://72fm.com/station/960734bd-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Старое радио - Old Radio
 http://195.91.237.50:8000/ices128
+# 72FM: https://72fm.com/station/b3976db4-5daa-11ea-be63-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",Radio Caprice - Melodic Death Metal
+http://79.120.77.11:8002/melodicdeath
 # 72FM: https://72fm.com/station/37909169-8089-4cc9-9914-51e37e0ab068?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Серебряный дождь
 http://213.59.4.27:8000/silver128.mp3
@@ -625,12 +625,12 @@ http://79.111.119.111:8000/screamoemo
 # 72FM: https://72fm.com/station/22b2fdfc-e8dd-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Radio Caprice - New Age
 http://79.120.77.11:8002/newage
-# 72FM: https://72fm.com/station/af8b7f22-d44f-411b-8966-a1eed269a8bf?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73538.v14.png" group-title="Russia" radio="true",Русская Волна
-https://ru2.volna.top/RuWave48
 # 72FM: https://72fm.com/station/21443448-7b21-4831-8134-20c4ab700241?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",DFM - Tech House
 https://dfm-techhouse.hostingradio.ru/techhouse96.aacp
+# 72FM: https://72fm.com/station/af8b7f22-d44f-411b-8966-a1eed269a8bf?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/73538.v14.png" group-title="Russia" radio="true",Русская Волна
+https://ru2.volna.top/RuWave48
 # 72FM: https://72fm.com/station/c1d4ec99-96bc-482b-929e-652ddd03ef78?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Ретро FM — Вечеринка
 https://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8
@@ -676,12 +676,12 @@ http://emgspb.hostingradio.ru/retrofmspb128.mp3
 # 72FM: https://72fm.com/station/964e557e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Радио Сектор / Sector Progressive (flac)
 http://89.223.45.5:8000/progressive-flac
-# 72FM: https://72fm.com/station/962cabc8-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",Radio Caprice - Death Doom Metal
-http://79.120.39.202:9007/
 # 72FM: https://72fm.com/station/afa1652d-7afa-43b9-933c-e1d3820ab304?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",НОВОЕ РАДИО
 http://stream.newradio.ru/moscow.novoe.aacp
+# 72FM: https://72fm.com/station/962cabc8-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",Radio Caprice - Death Doom Metal
+http://79.120.39.202:9007/
 # 72FM: https://72fm.com/station/2110348b-a6b3-44cf-9597-0caa38fe70ec?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Record Trance Classics
 https://radiorecord.hostingradio.ru/trancehits96.aacp
@@ -757,15 +757,15 @@ http://79.120.77.11:8000/instrumentalhiphop
 # 72FM: https://72fm.com/station/e0fe8bd2-5fd5-41db-9c0b-77394349809c?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Радио Родных Дорог
 https://stream1.radiord.ru:8000/live128.mp3
+# 72FM: https://72fm.com/station/964e5727-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",Радио Сектор / Sector SPACE
+http://89.223.45.5:8000/space-160
 # 72FM: https://72fm.com/station/90c69e5f-b2f4-11e8-afe1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Radio Caprice - Neo-progressive Rock
 http://79.111.119.111:8002/neoprogrock
 # 72FM: https://72fm.com/station/97b61547-7b63-499c-929b-0baca54867bb?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Radio Caprice - Power Metal
 http://79.120.77.11:8000/powermetal
-# 72FM: https://72fm.com/station/964e5727-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",Радио Сектор / Sector SPACE
-http://89.223.45.5:8000/space-160
 # 72FM: https://72fm.com/station/b56df2c5-2e45-4939-bf4e-2a54c5743182?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Радио Радонеж
 http://icecast.radonezh.cdnvideo.ru:8000/rad128
@@ -820,12 +820,12 @@ http://79.111.14.76:8002/aor
 # 72FM: https://72fm.com/station/471b7d53-32ce-11e9-8f31-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.mosfm.com/img/favicon/apple-touch-icon.png" group-title="Russia" radio="true",Moskva FM
 http://icecast.vgtrk.cdnvideo.ru/moscowfm128?v=1550419566950
-# 72FM: https://72fm.com/station/b649aa78-0bd3-454b-bf1f-0a0466a03555?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",Monte Carlo Gold Collection
-https://montecarlo.hostingradio.ru/mcgold96.aacp
 # 72FM: https://72fm.com/station/b73821db-127a-11e9-a80b-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Пи FM
 http://cdn.pifm.ru/mp3
+# 72FM: https://72fm.com/station/b649aa78-0bd3-454b-bf1f-0a0466a03555?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",Monte Carlo Gold Collection
+https://montecarlo.hostingradio.ru/mcgold96.aacp
 # 72FM: https://72fm.com/station/05d4781a-0f67-11e9-a80b-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Калина Красная
 http://icecast-studio21.cdnvideo.ru/KalynaK_1a
@@ -871,18 +871,18 @@ http://79.120.39.202:8002/instrumentalrock
 # 72FM: https://72fm.com/station/68b283e7-29ea-478e-ac77-9f08f9682762?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Radio Caprice - Medieval Music
 http://213.141.131.10:8000/medieval
-# 72FM: https://72fm.com/station/519c63f4-b1dd-4c47-ac85-4202e1ee2eb8?source=m3u
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/100/radio7-na7holmah.png" group-title="Russia" radio="true",Радио 7 на семи холмах - Настроение счастья
-https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp
 # 72FM: https://72fm.com/station/470106de-7105-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA0wNG5B5G3eou2NCb0rRIOebNk9HNbJRuArw=s900-mo-c-c0xffffffff-rj-k-no" group-title="Russia" radio="true",MAXIMUM
 https://maximum.hostingradio.ru/maximum96.aacp
-# 72FM: https://72fm.com/station/417e89f0-9f5e-4d16-a68a-6e00fb0de6ce?source=m3u
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="Russia" radio="true",Radio Caprice - Symphonic Power Metal
-http://213.141.131.10:8000/symphopower
+# 72FM: https://72fm.com/station/519c63f4-b1dd-4c47-ac85-4202e1ee2eb8?source=m3u
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/100/radio7-na7holmah.png" group-title="Russia" radio="true",Радио 7 на семи холмах - Настроение счастья
+https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp
 # 72FM: https://72fm.com/station/1a2c1a8f-02e1-41a0-bcd8-93d2bedbd36c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" group-title="Russia" radio="true",DFM THE PRODIGY
 https://dfm-prodigy.hostingradio.ru/prodigy96.aacp
+# 72FM: https://72fm.com/station/417e89f0-9f5e-4d16-a68a-6e00fb0de6ce?source=m3u
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="Russia" radio="true",Radio Caprice - Symphonic Power Metal
+http://213.141.131.10:8000/symphopower
 # 72FM: https://72fm.com/station/7a889e77-b933-4597-9b21-defc5465ad46?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Радио Рекорд Dream Dance
 http://radiorecord.hostingradio.ru/dream96.aacp

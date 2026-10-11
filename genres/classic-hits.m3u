@@ -265,12 +265,12 @@ http://bigrradio-edge1.cdnstream.com/5184_128
 # 72FM: https://72fm.com/station/8b79bb3f-54f3-49a8-b428-87971f9592e2?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwIFRZHu0NNH_WMStgQ4YqD6jSgnwQnMbP65ZbEMU8RSF6A1hsBTNbmc&s=10" group-title="Classic Hits" radio="true",FFM
 http://167.114.131.90:5968/ffm
-# 72FM: https://72fm.com/station/faea95b2-cd79-4e9d-9048-016c05039226?source=m3u
-#EXTINF:-1 tvg-logo="https://kumu.com/wp-content/uploads/sites/14/KUMU-Web-Logo-180x115-1.png" group-title="Classic Hits" radio="true",94.7 KUMU (128kbps)
-https://pacificmedia.cdnstream1.com/2783_128.mp3
 # 72FM: https://72fm.com/station/24340331-c16f-4e8d-9bfc-bc7a1dc6a00d?source=m3u
 #EXTINF:-1 tvg-logo="https://www.croonerradio.fr/wp-content/uploads/2021/06/LOGO-CROONER-RADIO-WR-CLASSIC-GOLD.jpg" group-title="Classic Hits" radio="true",Crooner Radio Classic Gold
 http://croonerradio_classicgold.ice.infomaniak.ch/croonerradio-classicgold-midfi.mp3
+# 72FM: https://72fm.com/station/faea95b2-cd79-4e9d-9048-016c05039226?source=m3u
+#EXTINF:-1 tvg-logo="https://kumu.com/wp-content/uploads/sites/14/KUMU-Web-Logo-180x115-1.png" group-title="Classic Hits" radio="true",94.7 KUMU (128kbps)
+https://pacificmedia.cdnstream1.com/2783_128.mp3
 # 72FM: https://72fm.com/station/0b5c1211-b55d-4b3f-91ec-2abb365d8767?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Top Radio
 http://c5.hostingcentar.com:8000/streams/topradio/
@@ -334,12 +334,12 @@ http://live.i-turnradio.nl/live
 # 72FM: https://72fm.com/station/96215869-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://boom997.com/wp-content/uploads/sites/31/2017/10/cropped-fm-logos_512x512_boom997.png?w=180" group-title="Classic Hits" radio="true",CJOT 'Boom 99.7' Ottawa, ON
 http://live.leanstream.co/CJOTFM-MP3
-# 72FM: https://72fm.com/station/d4cf190e-271e-47e2-91f2-37b2ee84c981?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Classic 106.9 FM Monterrey
-https://mdstrm.com/audio/673788019b826f0dc1842750/icecast.audio
 # 72FM: https://72fm.com/station/9615be2b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/615/5d77b0909f0e5.png" group-title="Classic Hits" radio="true",U105
 http://gbradio.cdn.tibus.net/U105?ref=rf
+# 72FM: https://72fm.com/station/d4cf190e-271e-47e2-91f2-37b2ee84c981?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Classic 106.9 FM Monterrey
+https://mdstrm.com/audio/673788019b826f0dc1842750/icecast.audio
 # 72FM: https://72fm.com/station/ad2aa274-6db0-40be-92df-5285c4ab5002?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Best FM - Best Retro Music in English
 https://stream.zeno.fm/9ep9qg3za6quv
@@ -382,12 +382,12 @@ http://radioplaneta.emitironline.com/radio
 # 72FM: https://72fm.com/station/a5cc0522-9dcb-45c2-acd9-fce370d20698?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",0nlineradio SCHUBERT
 https://stream.0nlineradio.com/schubert?ref=radiobrowser
-# 72FM: https://72fm.com/station/4dd2e9f8-4463-4f38-940b-a6b8923f5978?source=m3u
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Classic Hits" radio="true",__KLASSIK__ by rautemusik (rm.fm)
-https://klassik-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/1a0b0f6c-23d2-42ab-9525-32f878a36b7f?source=m3u
 #EXTINF:-1 tvg-logo="https://radioplay.dk/tesla/static/favicons/radioplay-dk/favicon.ico" group-title="Classic Hits" radio="true",POP FM DK
 http://live-bauerdk.sharp-stream.com/popfm128.mp3
+# 72FM: https://72fm.com/station/4dd2e9f8-4463-4f38-940b-a6b8923f5978?source=m3u
+#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Classic Hits" radio="true",__KLASSIK__ by rautemusik (rm.fm)
+https://klassik-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/1712cdbf-e728-4f8b-a37e-753df1e16054?source=m3u
 #EXTINF:-1 tvg-logo="https://www.gruen-weiss.at/favicon.ico" group-title="Classic Hits" radio="true",Radio Grün Weiß - HQ
 http://live.gruen-weiss.at/rgw.aac
@@ -424,24 +424,24 @@ https://tupanel.info:8018/stream
 # 72FM: https://72fm.com/station/de53974f-4251-458b-953b-a232e25f2542?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Classic Hits" radio="true",__KRASSE WEIHNACHTEN__ by rautemusik (rm.fm)
 https://weihnachten-high.rautemusik.fm/?ref=radiobrowser
-# 72FM: https://72fm.com/station/abda39c5-e3c0-4143-87d2-3365e56d33a5?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Downtown Radio 97.7
-https://stream.revma.ihrhls.com/zc5235
-# 72FM: https://72fm.com/station/df6c713f-7558-4c87-bdee-f8255c95511e?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Radio TugaNet
-https://ssl.stmxp.net:8006/;
-# 72FM: https://72fm.com/station/9627d8ea-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Radio Antenna Uno
-http://stream5.top-ix.org:8000/antennauno
 # 72FM: https://72fm.com/station/364d5674-440e-4b2b-a2fb-a7688a8738a0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.nostalgie.be/build/images/favicon.png" group-title="Classic Hits" radio="true",Nostalgie Belgique
 https://stream.rcs.revma.com/5gd04cwptg0uv
-# 72FM: https://72fm.com/station/61d21e9e-5fd7-42fa-9cac-739ab515aa8c?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",GRIEG by Epic Piano
-https://stream.epic-piano.com/grieg?ref=radiobrowser
+# 72FM: https://72fm.com/station/df6c713f-7558-4c87-bdee-f8255c95511e?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Radio TugaNet
+https://ssl.stmxp.net:8006/;
+# 72FM: https://72fm.com/station/abda39c5-e3c0-4143-87d2-3365e56d33a5?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Downtown Radio 97.7
+https://stream.revma.ihrhls.com/zc5235
+# 72FM: https://72fm.com/station/9627d8ea-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Radio Antenna Uno
+http://stream5.top-ix.org:8000/antennauno
 # 72FM: https://72fm.com/station/da4e7fed-60d3-49ac-9096-ab493222a5c2?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Retro Radio 97.7 FM
 http://patmos.cdnstream.com:9644/stream
+# 72FM: https://72fm.com/station/61d21e9e-5fd7-42fa-9cac-739ab515aa8c?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",GRIEG by Epic Piano
+https://stream.epic-piano.com/grieg?ref=radiobrowser
 # 72FM: https://72fm.com/station/125e4799-75f2-4171-b938-1856ff63a105?source=m3u
 #EXTINF:-1 tvg-logo="https://nostalgia.it/favicon.ico" group-title="Classic Hits" radio="true",Radio Nostalgia Piemonte
 http://rn1.fluidstream.eu/nostalgia_pv.mp3
@@ -490,15 +490,15 @@ https://c2.prostream365.com:8000/live
 # 72FM: https://72fm.com/station/0aa6a62f-f0b7-4dd1-9d67-ccbefeabebfa?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Boss Boss Radio | The Greatest Boss Hits Of All Time!
 http://streaming.live365.com/b26873_128mp3
-# 72FM: https://72fm.com/station/9615ed0e-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Drive 105
-http://icecast.easystream.co.uk:8000/drive105
 # 72FM: https://72fm.com/station/96215313-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",CKEA '95.7 CRUZ FM' Edmonton, AB
 http://ckea.streamon.fm/stream/CKEA-64k.aac
 # 72FM: https://72fm.com/station/962adee9-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",StudioRadio - The Vintage Station
 http://91.121.38.216:8060/stream
+# 72FM: https://72fm.com/station/9615ed0e-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Drive 105
+http://icecast.easystream.co.uk:8000/drive105
 # 72FM: https://72fm.com/station/fb7bbb5a-462c-46ed-a656-ae399d8e728f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.wsfm.com.au/wp-content/themes/arn/assets/favicons/favicon_wsfm/apple-touch-icon.png" group-title="Classic Hits" radio="true",WSFM 101.7
 https://ais-arn.streamguys1.com/au_002_icy
@@ -514,15 +514,15 @@ https://stream.revma.ihrhls.com/zc3217
 # 72FM: https://72fm.com/station/0332d3fd-7ea1-460a-8eb1-ded9c1a4b008?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",EPIC CLASSICAL - Classical Pop
 https://stream.epic-classical.com/classical-pop
+# 72FM: https://72fm.com/station/46dc6e29-8390-44f3-9d83-ff59d4a41fd9?source=m3u
+#EXTINF:-1 tvg-logo="https://orbital.pt/icon.png" group-title="Classic Hits" radio="true",Orbital Rádio
+http://centova.radios.pt:8401/;
 # 72FM: https://72fm.com/station/4054f742-9af5-4ef0-bca7-70366ad2dbaf?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio Heart 80s
 https://ice-sov.musicradio.com/Heart80sMP3
 # 72FM: https://72fm.com/station/964844ac-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",WSPT 97.9 Stevens Point, WI
 http://ice7.securenetsystems.net/CWTO
-# 72FM: https://72fm.com/station/46dc6e29-8390-44f3-9d83-ff59d4a41fd9?source=m3u
-#EXTINF:-1 tvg-logo="https://orbital.pt/icon.png" group-title="Classic Hits" radio="true",Orbital Rádio
-http://centova.radios.pt:8401/;
 # 72FM: https://72fm.com/station/962a36dd-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio X
 http://eu1.fastcast4u.com:2014/stream
@@ -547,12 +547,12 @@ https://live.streamthe.world/80s90s-hits
 # 72FM: https://72fm.com/station/a4fd271b-d2db-49fe-b51b-4d8690af5f8b?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Sunny Radio
 https://stream.revma.ihrhls.com/zc5014
-# 72FM: https://72fm.com/station/964a787b-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",KIYX 106.1 'Super Hits' Sageville, IA
-http://14613.live.streamtheworld.com:3690/KIYXFMAAC_SC
 # 72FM: https://72fm.com/station/962cb05b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio JukeBox
 http://onair15.xdevel.com:9096/;stream.mp3
+# 72FM: https://72fm.com/station/964a787b-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",KIYX 106.1 'Super Hits' Sageville, IA
+http://14613.live.streamtheworld.com:3690/KIYXFMAAC_SC
 # 72FM: https://72fm.com/station/a99b24ae-ba07-4e69-b3af-988011cfa295?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",EPIC CLASSICAL - Classical Fairy Tales
 https://stream.epic-classical.com/classical-fairy-tales
@@ -592,15 +592,15 @@ https://stream.0nlineradio.com/schumann?ref=radiobrowser
 # 72FM: https://72fm.com/station/876485d3-5552-494b-b241-079fe09b592d?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/B53XD4NWpt.jpg" group-title="Classic Hits" radio="true",Decada FM 100.1
 http://streaming5.elitecomunicacion.es:8230/;
+# 72FM: https://72fm.com/station/b8ea5110-bc8c-4d6b-870a-9d9d56966b58?source=m3u
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428799/f8aac16829ee95b1e5949009a47f3461_165x165.webp" group-title="Classic Hits" radio="true",Estereo Sur 91.3 FM
+https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream
 # 72FM: https://72fm.com/station/8181132f-6e58-4e8d-ba62-ae6f63a81376?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiopadova.com/history/android-icon-192x192.png" group-title="Classic Hits" radio="true",Radio Padova History
 https://sphera.fluidstream.eu/rpd_history.mp3
 # 72FM: https://72fm.com/station/fba9c6de-ee84-4db7-ab12-c97ed5347789?source=m3u
 #EXTINF:-1 tvg-logo="https://atlantidafm.com.uy/assets/images/bg.jpg" group-title="Classic Hits" radio="true",Atlantida FM 89.9
 http://server-uk1.radioseninternet.net:8034/;
-# 72FM: https://72fm.com/station/b8ea5110-bc8c-4d6b-870a-9d9d56966b58?source=m3u
-#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428799/f8aac16829ee95b1e5949009a47f3461_165x165.webp" group-title="Classic Hits" radio="true",Estereo Sur 91.3 FM
-https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream
 # 72FM: https://72fm.com/station/9c69a400-cc27-4d7f-9c37-389e446b10f0?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Retro Hit Radio
 https://riphel02.radioca.st/;
@@ -610,39 +610,39 @@ http://17993.live.streamtheworld.com/KXKLFMAAC_SC
 # 72FM: https://72fm.com/station/962b0ed0-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Studio 54 Network
 http://onair22.streaming.xdevel.com:10050/
-# 72FM: https://72fm.com/station/6c1f80e9-aac5-4c59-b7e8-16743a02650d?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",河南教育广播
-https://stream.hndt.com/live/jiaoyu/playlist.m3u8
 # 72FM: https://72fm.com/station/2401ea7c-32f0-4a86-bc4f-eb4d7148e3db?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",99.9 KGOR
 https://stream.revma.ihrhls.com/zc3344
 # 72FM: https://72fm.com/station/6178568a-4b5c-4680-963f-870ca211e43a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Classic Hits" radio="true",Dave FM
 http://davefmradio.no-ip.org:8000/stream
+# 72FM: https://72fm.com/station/6c1f80e9-aac5-4c59-b7e8-16743a02650d?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",河南教育广播
+https://stream.hndt.com/live/jiaoyu/playlist.m3u8
 # 72FM: https://72fm.com/station/f31b8dba-6992-47ed-8b71-33d5a87157cb?source=m3u
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/1645/site_header_logo-61b73d6424a64.png" group-title="Classic Hits" radio="true",CJUK-FM '99.9 The Bay' Thunder Bay, ON
 https://ais-sa1.streamon.fm/7237_128k.aac/playlist.m3u8
 # 72FM: https://72fm.com/station/96284004-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio 105 - Story
 http://icy.unitedradio.it/105Story.mp3
-# 72FM: https://72fm.com/station/f2874519-d1a9-4789-bb88-f248732c3157?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",WCRK 105.7 FM
-https://ice41.securenetsystems.net/WCRK
 # 72FM: https://72fm.com/station/91224424-24b6-4565-a27e-4a937bf9a68f?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",95.7 The Jet
 https://stream.revma.ihrhls.com/zc2569
+# 72FM: https://72fm.com/station/f2874519-d1a9-4789-bb88-f248732c3157?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",WCRK 105.7 FM
+https://ice41.securenetsystems.net/WCRK
 # 72FM: https://72fm.com/station/476a772c-f97f-44ca-bf7f-ff28bc806bbc?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",V 105.5
 http://66.245.184.90:8002/stream
-# 72FM: https://72fm.com/station/8a831b94-e03e-4793-a66d-ee2bebc24af6?source=m3u
-#EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/1650/cmsSiteLogo.png?r=56198" group-title="Classic Hits" radio="true",CKBW-FM 98.1 Bridgewater, 94.5 Liverpool, 93.1 Shelburne, NS
-https://ais-sa1.streamon.fm/7239_128k.aac
 # 72FM: https://72fm.com/station/96205a50-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Arc Musique
 https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3
 # 72FM: https://72fm.com/station/ed15ff70-208e-48b9-856f-a893050f55cf?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",B 104.3
 https://ice24.securenetsystems.net/KDBB
+# 72FM: https://72fm.com/station/8a831b94-e03e-4793-a66d-ee2bebc24af6?source=m3u
+#EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/1650/cmsSiteLogo.png?r=56198" group-title="Classic Hits" radio="true",CKBW-FM 98.1 Bridgewater, 94.5 Liverpool, 93.1 Shelburne, NS
+https://ais-sa1.streamon.fm/7239_128k.aac
 # 72FM: https://72fm.com/station/38dd84f1-4954-4311-ae11-ba189b528801?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -688,12 +688,12 @@ http://rougefm.ice.infomaniak.ch/rougefm-high.aac
 # 72FM: https://72fm.com/station/4557c3ba-42d1-4573-9bf7-fcd44c5d9de0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.4cc.com.au/wp-content/uploads/sites/25/2022/10/cropped-512x512-favicon-1.png?w=180" group-title="Classic Hits" radio="true",Radio 4CC - AM 927 - Gladstone, QLD
 http://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CCAAC.aac
-# 72FM: https://72fm.com/station/9620a5e7-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",CHTN 100.3 'Ocean 100' Charlottetown, PE
-http://newcap.leanstream.co/CHTNFM
 # 72FM: https://72fm.com/station/e7cc0269-d1b0-48b4-a2a3-5bac46919d35?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio Sol FM
 http://solfm.ru:8000/online128
+# 72FM: https://72fm.com/station/9620a5e7-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",CHTN 100.3 'Ocean 100' Charlottetown, PE
+http://newcap.leanstream.co/CHTNFM
 # 72FM: https://72fm.com/station/fb89fe75-a0a1-45df-9f55-4897be417363?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",WRBZ 95.5
 https://ice10.securenetsystems.net/WRBZ955
@@ -703,12 +703,12 @@ http://stream.laut.fm/antenna-network
 # 72FM: https://72fm.com/station/3ca26ed3-0fdf-4f35-b03a-c8b11883f0b9?source=m3u
 #EXTINF:-1 tvg-logo="https://www.nostalgie.be/build/images/favicon.png" group-title="Classic Hits" radio="true",Nostalgie + (Belgique)
 https://stream.rcs.revma.com/s9mkgtsqtg0uv
-# 72FM: https://72fm.com/station/240598b5-5c8a-4fd0-afbb-e9e3ac130ec0?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Nation Radio 80s
-http://listen-nation.sharp-stream.com/nationradio80s.mp3
 # 72FM: https://72fm.com/station/1797a00f-b6c4-4150-9cac-316432e0d018?source=m3u
 #EXTINF:-1 tvg-logo="https://cyberfolks.pl/wp-content/themes/cyberfolks/dist/img/favicons/favicon-128.png" group-title="Classic Hits" radio="true",Radio Dzwiek
 http://s3.slotex.pl:7408/;
+# 72FM: https://72fm.com/station/240598b5-5c8a-4fd0-afbb-e9e3ac130ec0?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Nation Radio 80s
+http://listen-nation.sharp-stream.com/nationradio80s.mp3
 # 72FM: https://72fm.com/station/5af444cf-2906-4658-bfa6-30506ea1a6b6?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Power Hit Radio
 http://radio.dline-media.com/powerhit128
@@ -733,24 +733,24 @@ https://ice10.securenetsystems.net/CJBB
 # 72FM: https://72fm.com/station/96298d4d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio Delta International
 http://s6.mediastreaming.it:9098/;
+# 72FM: https://72fm.com/station/8e2df32d-b4b0-4e0f-b1c6-7b1049da1482?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Radio Makro Digital
+http://streamingecuador.net:7000/stream
 # 72FM: https://72fm.com/station/78439b9f-658c-4c10-8e40-b45ffe1147b0?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Aranduka 87.9 FM Paraguay
 http://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/d4c4e5d0-8e5f-49d6-a31c-27f47b225a3e?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Eurovision Radio
 http://misato.ru-hoster.com:8038/live
+# 72FM: https://72fm.com/station/4a8828ff-1834-4790-8388-fc7758729ef1?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Radio FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
 # 72FM: https://72fm.com/station/c22c2836-9e6b-11e9-a787-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",KJBI 100.1 The Eagle
 http://ice23.securenetsystems.net/KJBIFM
 # 72FM: https://72fm.com/station/5a8265a5-5871-441e-ad43-1cb1a07f88d8?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",WRNO-HD2 Throwback 96.3 FM
 http://stream.revma.ihrhls.com/zc5873
-# 72FM: https://72fm.com/station/8e2df32d-b4b0-4e0f-b1c6-7b1049da1482?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Radio Makro Digital
-http://streamingecuador.net:7000/stream
-# 72FM: https://72fm.com/station/4a8828ff-1834-4790-8388-fc7758729ef1?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Radio FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
 # 72FM: https://72fm.com/station/291a9b8a-31f6-4865-b319-ef473b623e3d?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio Center 80s
 http://stream2.radioekspres.si:8064/stream
@@ -772,39 +772,39 @@ https://newcap.leanstream.co/CFHIFM
 # 72FM: https://72fm.com/station/d1df1026-bca3-4f8e-a094-946629292f18?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/110/porao-da-nau-radio.5abfe912.jpg" group-title="Classic Hits" radio="true",Porão da nau radio
 https://stream.zeno.fm/rwmao7mxxt8vv
-# 72FM: https://72fm.com/station/96247d80-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",WOLV 97.7 'The Wolf' Houghton, MI
-http://ice10.securenetsystems.net/WOLV
 # 72FM: https://72fm.com/station/de5c1144-76fe-4f7f-a3d8-ff3371b4eef2?source=m3u
 #EXTINF:-1 tvg-logo="https://www.classic.nl/images/logo-footer.png" group-title="Classic Hits" radio="true",classic nl mind radio
 https://stream.classic.nl/classicnl-mindradio.mp3
+# 72FM: https://72fm.com/station/96247d80-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",WOLV 97.7 'The Wolf' Houghton, MI
+http://ice10.securenetsystems.net/WOLV
 # 72FM: https://72fm.com/station/c9c4cf3b-7ac6-458f-b0bb-3936b69886ca?source=m3u
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2379/files/2019/08/boom995herologo.png" group-title="Classic Hits" radio="true",CHOO-FM 'Boom 99.5' Drumheller, AB
 https://newcap.leanstream.co/CHOOFM
 # 72FM: https://72fm.com/station/e29cbc01-1bcd-4182-8791-42775b6b5e73?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Hot FM UK
 http://chandra.shoutca.st:8009/;
-# 72FM: https://72fm.com/station/b36000ea-e7b3-42c5-97e6-327f40ffa6ca?source=m3u
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi6xF6Rwknssj9nbpmEKolsJYub__amnZdhqMDddJDirjQRO0DouPdt1hoSx0ZgwpUwdZVjGP9GMUcQcF55UXsH04kNk40zKoOt2opr98BkvdPEhLscFYTONoJwTTkDlw6Du4JoUa4fMinmIj0xn9QTsjoCJUk_DqZSwytGX4XsFBBYaPZ9Yj__U1DjxZBZ=s668" group-title="Classic Hits" radio="true",LA CLÁSICA
-https://stream-284.surfernetwork.com/vbp236a2qzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2YnAyMzZhMnF6enV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ikgza0Z5bEV1VG1PM1ZLMzlXS28yWlEiLCJpYXQiOjE3OTA4MDkxOTYsImV4cCI6MTc5MDgwOTI1Nn0.kfkgJdeMwn3i5EeJfzoEsCRVwfBVi5iIGQzXrSHbhfg
-# 72FM: https://72fm.com/station/91f612a6-ea55-47c1-8eba-ddf997321bdf?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Woods Hit Radio AC
-https://cast4.asurahosting.com/proxy/nigel/stream
-# 72FM: https://72fm.com/station/e8736274-8a4e-11e8-aa66-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305394/images/logoq.jpg" group-title="Classic Hits" radio="true",Regional Radio
-http://lyra.shoutca.st:8593/stream
 # 72FM: https://72fm.com/station/962974e6-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio Adige
 http://onair18.xdevel.com:8128/listen.pls
+# 72FM: https://72fm.com/station/91f612a6-ea55-47c1-8eba-ddf997321bdf?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Woods Hit Radio AC
+https://cast4.asurahosting.com/proxy/nigel/stream
+# 72FM: https://72fm.com/station/b36000ea-e7b3-42c5-97e6-327f40ffa6ca?source=m3u
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi6xF6Rwknssj9nbpmEKolsJYub__amnZdhqMDddJDirjQRO0DouPdt1hoSx0ZgwpUwdZVjGP9GMUcQcF55UXsH04kNk40zKoOt2opr98BkvdPEhLscFYTONoJwTTkDlw6Du4JoUa4fMinmIj0xn9QTsjoCJUk_DqZSwytGX4XsFBBYaPZ9Yj__U1DjxZBZ=s668" group-title="Classic Hits" radio="true",LA CLÁSICA
+https://stream-284.surfernetwork.com/vbp236a2qzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2YnAyMzZhMnF6enV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ikgza0Z5bEV1VG1PM1ZLMzlXS28yWlEiLCJpYXQiOjE3OTA4MDkxOTYsImV4cCI6MTc5MDgwOTI1Nn0.kfkgJdeMwn3i5EeJfzoEsCRVwfBVi5iIGQzXrSHbhfg
+# 72FM: https://72fm.com/station/e8736274-8a4e-11e8-aa66-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305394/images/logoq.jpg" group-title="Classic Hits" radio="true",Regional Radio
+http://lyra.shoutca.st:8593/stream
 # 72FM: https://72fm.com/station/ff6292b5-a8c9-43e0-894f-65375f6f5e45?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",WTOB 980 AM
 https://ice23.securenetsystems.net/WTOB
-# 72FM: https://72fm.com/station/1b922841-c47d-4818-bd89-ba18db0c6f71?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",WXXM 'Rewind 92.1' Sun Prairie, WI
-https://stream.revma.ihrhls.com/zc2665/hls.m3u8
 # 72FM: https://72fm.com/station/ab60fa96-0abd-4896-9156-91874f8240d2?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",PlanetRadioie
 https://media.planetradio.ie/radio/8000/OnAir
+# 72FM: https://72fm.com/station/1b922841-c47d-4818-bd89-ba18db0c6f71?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",WXXM 'Rewind 92.1' Sun Prairie, WI
+https://stream.revma.ihrhls.com/zc2665/hls.m3u8
 # 72FM: https://72fm.com/station/c7e75080-5ebc-4ef4-8e9b-e2dc284be70e?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Dorozhnoe Radio
 https://dorognoe.hostingradio.ru/dorognoe
@@ -817,66 +817,66 @@ http://ice23.securenetsystems.net/WTOB
 # 72FM: https://72fm.com/station/6af82449-cfa6-4777-a31f-76b72f535829?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio Arad
 http://85.120.220.205:8000/radio-arad
+# 72FM: https://72fm.com/station/7115947a-0474-4e0f-9717-d6a03c33c3e2?source=m3u
+#EXTINF:-1 tvg-logo="https://www.discovermoosejaw.com/assets/moosejaw/apple-icon-120x120-9fddb1210edd41b14dd6000f7e44807e167f825861131cece2137bcb690ba59d.png" group-title="Classic Hits" radio="true",CHAB 800 Moose Jaw, SK
+https://goldenwest.leanstream.co/CHABAM
 # 72FM: https://72fm.com/station/362200ba-1bae-4ea4-9fcf-94058dae0cae?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Galaxy FM 92.0
 https://galaxy.live24.gr/galaxy9292
 # 72FM: https://72fm.com/station/128a4337-41ce-423a-bedf-28ff5d27e8dd?source=m3u
 #EXTINF:-1 tvg-logo="https://radiodns.mpbnl.nl/logos/mpb/radio2.png" group-title="Classic Hits" radio="true",MPB Radio 2
 https://sc.mpbnl.nl/radio2.mp3
-# 72FM: https://72fm.com/station/7115947a-0474-4e0f-9717-d6a03c33c3e2?source=m3u
-#EXTINF:-1 tvg-logo="https://www.discovermoosejaw.com/assets/moosejaw/apple-icon-120x120-9fddb1210edd41b14dd6000f7e44807e167f825861131cece2137bcb690ba59d.png" group-title="Classic Hits" radio="true",CHAB 800 Moose Jaw, SK
-https://goldenwest.leanstream.co/CHABAM
 # 72FM: https://72fm.com/station/8001b783-671b-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",CKEZ 'Z97.9' New Glasgow, NS
 https://newcap.leanstream.co/CKEZFM
-# 72FM: https://72fm.com/station/63500069-5104-4a1c-87b2-701dd445c2ea?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",WHMI 93.5 FM
-https://crystalout.surfernetwork.com:8001/WHMI-FM_MP3
 # 72FM: https://72fm.com/station/ee9780aa-b9be-46e2-8b19-ead019d6b5a8?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Kuzbass FM
 http://212.75.194.94:8000/KuzbassFM
-# 72FM: https://72fm.com/station/c41b8b47-87e9-4c33-a4c0-f890c488a81a?source=m3u
-#EXTINF:-1 tvg-logo="https://www.fantasyradio.co.uk/files/9414/1236/5176/fbthumb.png" group-title="Classic Hits" radio="true",Fantasy Radio (Devizes)
-https://server.fantasyradio.co.uk/fantasyradio
+# 72FM: https://72fm.com/station/63500069-5104-4a1c-87b2-701dd445c2ea?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",WHMI 93.5 FM
+https://crystalout.surfernetwork.com:8001/WHMI-FM_MP3
 # 72FM: https://72fm.com/station/93f0757d-7dcb-440c-ab30-274f0c6e5425?source=m3u
 #EXTINF:-1 tvg-logo="https://hellorayo.co.uk/tesla/static/favicons/rayo/favicon.svg" group-title="Classic Hits" radio="true",SAM FM Hampshire
 https://listen-nation.sharp-stream.com/samfmhampshire.aac
+# 72FM: https://72fm.com/station/c41b8b47-87e9-4c33-a4c0-f890c488a81a?source=m3u
+#EXTINF:-1 tvg-logo="https://www.fantasyradio.co.uk/files/9414/1236/5176/fbthumb.png" group-title="Classic Hits" radio="true",Fantasy Radio (Devizes)
+https://server.fantasyradio.co.uk/fantasyradio
 # 72FM: https://72fm.com/station/fd7406a5-0093-4e55-9e7f-ba6caa9f02a1?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Vorarlberg 80s
 https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer
-# 72FM: https://72fm.com/station/35d2b267-012d-4809-a5a9-234f4ef20082?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",KDAK 1600 AM
-https://ice23.securenetsystems.net/KDAK
 # 72FM: https://72fm.com/station/29174d6d-6990-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jack1021.com/wp-content/uploads/sites/66/2023/03/cropped-static-logo-jack-1021-180x180.png" group-title="Classic Hits" radio="true",CJCY 102.1 Medicine Hat, AB
 https://rogers-hls.leanstream.co/rogers/med1021.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/961ff83e-12e9-11e9-a80b-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Hitparadio
 http://stream.laut.fm/hitparadio
-# 72FM: https://72fm.com/station/961cd7fe-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",CFXW 'Boom 96.7' Whitecourt, AB
-http://newcap.leanstream.co/CFXWFM
+# 72FM: https://72fm.com/station/35d2b267-012d-4809-a5a9-234f4ef20082?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",KDAK 1600 AM
+https://ice23.securenetsystems.net/KDAK
 # 72FM: https://72fm.com/station/4239544b-498d-4392-b999-d071643caaee?source=m3u
 #EXTINF:-1 tvg-logo="https://radioadagio.com/favicon.ico" group-title="Classic Hits" radio="true",Radio Adagio
 https://radioadagio.com/wp-content/uploads/2021/12/12-13-21-The-Mystery.mp3?_=1
-# 72FM: https://72fm.com/station/deef6943-1f47-4a2e-8fef-8de1b2c6b2e4?source=m3u
-#EXTINF:-1 tvg-logo="https://www.kabithegeneral.com/wp-content/uploads/2017/08/cropped-favicon-180x180.png" group-title="Classic Hits" radio="true",KABI 1560 The General
-https://ice42.securenetsystems.net/KABI
-# 72FM: https://72fm.com/station/294ff44a-0bee-40c4-a6e1-dec1545fb0c1?source=m3u
-#EXTINF:-1 tvg-logo="https://contigofm.live/wp-content/uploads/2023/09/cropped-Mesa-de-trabajo-2.png" group-title="Classic Hits" radio="true",Contigo FM 104.9
-https://panel.innovatestream.pe:10852/;
-# 72FM: https://72fm.com/station/22967a95-dff4-4797-8122-401d5d1f8a2f?source=m3u
-#EXTINF:-1 tvg-logo="https://rio969.com/_static/thumbnail.png" group-title="Classic Hits" radio="true",Rio FM 96.9 Rosario
-https://streaming.redboing.com/radio/8070/radio.mp3
-# 72FM: https://72fm.com/station/f1b69552-cd55-42e4-a78a-cde2109cbf9c?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",Platinum Gold Radio
-http://s2.voscast.com:10128/;
-# 72FM: https://72fm.com/station/f6aac32a-c146-45db-8823-19027537c34a?source=m3u
-#EXTINF:-1 group-title="Classic Hits" radio="true",RADIO EL LOA 101.1 FM
-http://us9.maindigitalstream.com:7258/stream
+# 72FM: https://72fm.com/station/961cd7fe-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",CFXW 'Boom 96.7' Whitecourt, AB
+http://newcap.leanstream.co/CFXWFM
 # 72FM: https://72fm.com/station/9620ed67-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",CHFT '100.5 CRUZ FM' Fort McMurray, AB
 http://chft.streamon.fm/stream/CHFT-64k.aac
+# 72FM: https://72fm.com/station/294ff44a-0bee-40c4-a6e1-dec1545fb0c1?source=m3u
+#EXTINF:-1 tvg-logo="https://contigofm.live/wp-content/uploads/2023/09/cropped-Mesa-de-trabajo-2.png" group-title="Classic Hits" radio="true",Contigo FM 104.9
+https://panel.innovatestream.pe:10852/;
+# 72FM: https://72fm.com/station/deef6943-1f47-4a2e-8fef-8de1b2c6b2e4?source=m3u
+#EXTINF:-1 tvg-logo="https://www.kabithegeneral.com/wp-content/uploads/2017/08/cropped-favicon-180x180.png" group-title="Classic Hits" radio="true",KABI 1560 The General
+https://ice42.securenetsystems.net/KABI
+# 72FM: https://72fm.com/station/22967a95-dff4-4797-8122-401d5d1f8a2f?source=m3u
+#EXTINF:-1 tvg-logo="https://rio969.com/_static/thumbnail.png" group-title="Classic Hits" radio="true",Rio FM 96.9 Rosario
+https://streaming.redboing.com/radio/8070/radio.mp3
+# 72FM: https://72fm.com/station/f6aac32a-c146-45db-8823-19027537c34a?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",RADIO EL LOA 101.1 FM
+http://us9.maindigitalstream.com:7258/stream
+# 72FM: https://72fm.com/station/f1b69552-cd55-42e4-a78a-cde2109cbf9c?source=m3u
+#EXTINF:-1 group-title="Classic Hits" radio="true",Platinum Gold Radio
+http://s2.voscast.com:10128/;
 # 72FM: https://72fm.com/station/ea9e4436-5f05-425d-a72f-892a86178485?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio Capital FM
 http://patmos.cdnstream.com:9599/1
@@ -892,15 +892,15 @@ http://94.23.67.20:8030/;
 # 72FM: https://72fm.com/station/4597ba09-9328-4baa-942d-07bca795bdbf?source=m3u
 #EXTINF:-1 tvg-logo="https://www.awfullyawesomeeighties.com/favicon.ico" group-title="Classic Hits" radio="true",Awfully Awesome 80s
 http://psn3.prostreaming.net:8163/;
-# 72FM: https://72fm.com/station/82e58a58-62b2-421f-a383-694ee1b25951?source=m3u
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dxfd6gkkklvm.jpg" group-title="Classic Hits" radio="true",Boom FM Granada 103.8
-http://streaming.elitecomunicacion.es:8086/;
 # 72FM: https://72fm.com/station/9630cc8c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio Center Music
 http://ice17.fluidstream.net/conselve.mp3?FLID=6
 # 72FM: https://72fm.com/station/5c07f22a-8151-4c6e-a523-21ca2df7d908?source=m3u
 #EXTINF:-1 group-title="Classic Hits" radio="true",Radio Destino
 http://radio.streemlion.com:3780/stream
-# 72FM: https://72fm.com/station/4dfc2a8b-8766-4d38-adac-a06a459b28da?source=m3u
-#EXTINF:-1 tvg-logo="https://2ca.com.au/wp-content/uploads/2021/05/2CA_Logo_new.png" group-title="Classic Hits" radio="true",2CA - Canberra - 1053 AM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/2CA.mp3
+# 72FM: https://72fm.com/station/82e58a58-62b2-421f-a383-694ee1b25951?source=m3u
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dxfd6gkkklvm.jpg" group-title="Classic Hits" radio="true",Boom FM Granada 103.8
+http://streaming.elitecomunicacion.es:8086/;
+# 72FM: https://72fm.com/station/f166597f-1398-4377-9c6e-c52c94a8e438?source=m3u
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1mN5LPpmY5fJjXIHIg8rB5F7Gd0PODAM3/view?usp=sharing" group-title="Classic Hits" radio="true",RADIO TOUR
+https://radiotour.streamingmedia.it/play.mp3

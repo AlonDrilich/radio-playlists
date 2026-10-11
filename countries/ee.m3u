@@ -124,12 +124,12 @@ http://icecast.err.ee/r2chill.opus
 # 72FM: https://72fm.com/station/1227cb0c-1047-422e-b54e-b4822ce9f281?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",KlaRa Klassika
 https://icecast.err.ee/klaraklassika.mp3
-# 72FM: https://72fm.com/station/f257abd4-9397-4110-b810-c7ca9fb8fbf7?source=m3u
-#EXTINF:-1 group-title="Estonia" radio="true",KlaRa Jazz
-https://icecast.err.ee/klarajazz.mp3
 # 72FM: https://72fm.com/station/91ff5c64-9080-4976-b506-aee6c755a94a?source=m3u
 #EXTINF:-1 tvg-logo="https://starfm.tv3.ee/ui/images/icons//apple-icon-120x120.png" group-title="Estonia" radio="true",Star FM Eesti
 https://ice.leviracloud.eu/starFMEesti96-aac
+# 72FM: https://72fm.com/station/f257abd4-9397-4110-b810-c7ca9fb8fbf7?source=m3u
+#EXTINF:-1 group-title="Estonia" radio="true",KlaRa Jazz
+https://icecast.err.ee/klarajazz.mp3
 # 72FM: https://72fm.com/station/ea4d6e72-553d-407f-b5fe-01e60d78bd7f?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",R2Pop
 http://icecast.err.ee/r2pop.opus
@@ -181,12 +181,12 @@ https://ice.leviracloud.eu/star320-mp3
 # 72FM: https://72fm.com/station/51a6fb08-d881-4937-8c99-c1feac025279?source=m3u
 #EXTINF:-1 tvg-logo="https://optim.tildacdn.net/tild3738-6439-4433-a336-616635313861/-/resize/760x/-/format/webp/_-removebg-preview.png" group-title="Estonia" radio="true",Radio Nostalgia
 https://c16.radioboss.fm:8327/stream
-# 72FM: https://72fm.com/station/3055ea31-af16-4a32-91b9-1a81366fc73a?source=m3u
-#EXTINF:-1 group-title="Estonia" radio="true",Retro fm disco
-https://edge05.cdn.bitflip.ee:8888/retro1.mp3?
 # 72FM: https://72fm.com/station/6e25ec62-c2d4-4d80-9f22-cb9edc3157a8?source=m3u
 #EXTINF:-1 tvg-logo="https://s.err.ee/www/images/favicon/R2Favicon@2x.png?2740" group-title="Estonia" radio="true",Raadio 2 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r2.err.ee
 http://icecast.err.ee/raadio2.opus
+# 72FM: https://72fm.com/station/3055ea31-af16-4a32-91b9-1a81366fc73a?source=m3u
+#EXTINF:-1 group-title="Estonia" radio="true",Retro fm disco
+https://edge05.cdn.bitflip.ee:8888/retro1.mp3?
 # 72FM: https://72fm.com/station/0de9ba51-23cd-4830-ad91-0cdf98a5a10a?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Pereraadio Tartu
 http://icecast.pereraadio.ee:8000/Tartu
@@ -196,15 +196,15 @@ http://icecast.err.ee/klassikaraadio.opus
 # 72FM: https://72fm.com/station/639b8e0e-c798-424f-9a0a-789d10f90fa7?source=m3u
 #EXTINF:-1 tvg-logo="https://klara.err.ee/assets/icons/favicon.png" group-title="Estonia" radio="true",Klara Jazz
 http://icecast.err.ee/klarajazz.opus
+# 72FM: https://72fm.com/station/01d76691-d320-4040-9bb2-1c21ebe0371a?source=m3u
+#EXTINF:-1 group-title="Estonia" radio="true",Pereraadio Kuressaare
+http://icecast.pereraadio.ee:8000/Kuressaare
 # 72FM: https://72fm.com/station/4f188dc4-3f0d-4429-9597-e1b3eb612705?source=m3u
 #EXTINF:-1 tvg-logo="https://klara.err.ee/assets/icons/favicon.png" group-title="Estonia" radio="true",Klara Nostalgia (128 kbps Ogg Opus) | Eesti Rahvusringhääling | err.ee
 http://icecast.err.ee/klaranostalgia.opus
 # 72FM: https://72fm.com/station/31946e60-f679-4d3b-933f-d7dbda58d6ba?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Raadio Kadi
 https://edge06.cdn.bitflip.ee:8888/kadi
-# 72FM: https://72fm.com/station/01d76691-d320-4040-9bb2-1c21ebe0371a?source=m3u
-#EXTINF:-1 group-title="Estonia" radio="true",Pereraadio Kuressaare
-http://icecast.pereraadio.ee:8000/Kuressaare
 # 72FM: https://72fm.com/station/26a83979-8d28-4521-a744-d752ecd9441a?source=m3u
 #EXTINF:-1 tvg-logo="https://s.err.ee/www/images/favicon/R-TLN_Favicon@2x.png?2740" group-title="Estonia" radio="true",Raadio Tallinn (128 kbps Ogg Opus) | Eesti Rahvusringhääling | raadiotallinn.err.ee
 http://icecast.err.ee/raadiotallinn.opus
@@ -241,27 +241,27 @@ https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8
 # 72FM: https://72fm.com/station/05781c28-9d5a-40c5-af53-a36d2b8e2ae9?source=m3u
 #EXTINF:-1 tvg-logo="https://site.prelive.sky.ee/sites/default/files/2024-11/legendaarne_3.svg" group-title="Estonia" radio="true",Legendaarne Raadio
 https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92
-# 72FM: https://72fm.com/station/278b3d8e-8f30-43cd-853d-a0cd7aba4894?source=m3u
-#EXTINF:-1 tvg-logo="https://site.prelive.sky.ee/sites/default/files/2024-11/legendaarne_3.svg" group-title="Estonia" radio="true",Legendaarne Raadio
-https://stream.skymedia.ee/live/Legendaarne
 # 72FM: https://72fm.com/station/d21f1a73-6718-4a79-84cc-0968e8d05d08?source=m3u
 #EXTINF:-1 tvg-logo="https://sky.ee/storage/radio-stations/2025/12/Rock-FM-Metal-card.webp" group-title="Estonia" radio="true",Rock-FM Metal
 https://edge04.cdn.bitflip.ee:8888/rckmetal
-# 72FM: https://72fm.com/station/3cca537f-0533-4810-b962-c9885527c9d6?source=m3u
-#EXTINF:-1 tvg-logo="https://ruutfm.treraadio.ee/img/logo_valga.svg" group-title="Estonia" radio="true",RUUT FM
-https://a1.asurahosting.com/listen/ruut_fm/radio.mp3
+# 72FM: https://72fm.com/station/278b3d8e-8f30-43cd-853d-a0cd7aba4894?source=m3u
+#EXTINF:-1 tvg-logo="https://site.prelive.sky.ee/sites/default/files/2024-11/legendaarne_3.svg" group-title="Estonia" radio="true",Legendaarne Raadio
+https://stream.skymedia.ee/live/Legendaarne
 # 72FM: https://72fm.com/station/b759ab6c-2a20-4b05-bf27-d29100716029?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/95be61_02d07ad6f61f44d39a9d02873253eb24%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/95be61_02d07ad6f61f44d39a9d02873253eb24%7Emv2.png" group-title="Estonia" radio="true",Hits Show Radio
 https://stream.zeno.fm/7sreyeyustkuv
+# 72FM: https://72fm.com/station/3cca537f-0533-4810-b962-c9885527c9d6?source=m3u
+#EXTINF:-1 tvg-logo="https://ruutfm.treraadio.ee/img/logo_valga.svg" group-title="Estonia" radio="true",RUUT FM
+https://a1.asurahosting.com/listen/ruut_fm/radio.mp3
 # 72FM: https://72fm.com/station/899374d2-d08d-4ea0-aefb-37cff8ef3960?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",HITS RADIO ESTONIA
 https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3
-# 72FM: https://72fm.com/station/fde1bf20-db90-4691-a10f-18f91599e597?source=m3u
-#EXTINF:-1 tvg-logo="https://olematu.ee/img/favicon.png" group-title="Estonia" radio="true",Radio Olematu
-https://radio.olematu.ee/listen/radio_olematu/radio.mp3
 # 72FM: https://72fm.com/station/19d7d7ff-a49d-432e-b709-6bc3a82fac22?source=m3u
 #EXTINF:-1 tvg-logo="https://s.err.ee/photo/crop/2018/10/23/558567h9916t62.jpg" group-title="Estonia" radio="true",Raadio Tallinn
 http://icecast.err.ee/raadiotallinn.mp3
+# 72FM: https://72fm.com/station/fde1bf20-db90-4691-a10f-18f91599e597?source=m3u
+#EXTINF:-1 tvg-logo="https://olematu.ee/img/favicon.png" group-title="Estonia" radio="true",Radio Olematu
+https://radio.olematu.ee/listen/radio_olematu/radio.mp3
 # 72FM: https://72fm.com/station/27a69f19-4001-4bf4-b602-92511bc1e682?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hpsbassline.club/favicon.ico" group-title="Estonia" radio="true",HPS Bassline
 https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3
@@ -280,21 +280,21 @@ http://icecast.err.ee/r2rock.mp3
 # 72FM: https://72fm.com/station/4b889ec9-03bd-4926-9daf-492883756e55?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.globalexport.ee/logo-192.png" group-title="Estonia" radio="true",Global Export FM
 https://radio.globalexport.ee/stream.mp3
-# 72FM: https://72fm.com/station/ec7959cb-7ff7-416a-966e-b6cc228eb886?source=m3u
-#EXTINF:-1 tvg-logo="https://sky.ee/storage/radio-stations/2025/12/Super-Radio-logo.svg" group-title="Estonia" radio="true",Суперрадио
-https://edge04.cdn.bitflip.ee:8888/RR_AAC?_i=88a9ec47
-# 72FM: https://72fm.com/station/d535ac16-7fd2-4c9f-9436-6db63cb0579d?source=m3u
-#EXTINF:-1 tvg-logo="https://kaguraadio.ee/wp-content/uploads/2019/11/cropped-Kaguraadio-logo-roheline3-2.jpg" group-title="Estonia" radio="true",Kaguraadio
-https://radio.vlevelscdn.net/radio/kaguraadio.stream/chunklist_w936127105.m3u8
-# 72FM: https://72fm.com/station/1e2ce322-78b3-448e-9e35-5f8c4ab68241?source=m3u
-#EXTINF:-1 tvg-logo="https://sky.ee/storage/articles/2026/02/eurovision-detail-1.webp" group-title="Estonia" radio="true",Kiss FM Eurovision
-https://edge04.cdn.bitflip.ee:8888/KISS_AAC?_i=2e955b68
-# 72FM: https://72fm.com/station/ad50048b-9f2a-4b2c-97ee-9aafa6e9857f?source=m3u
-#EXTINF:-1 tvg-logo="https://s.err.ee/www/images/favicon/R4_favicon@2x.png?3006" group-title="Estonia" radio="true",Raadio 4
-http://icecast.err.ee/r4retro.mp3
 # 72FM: https://72fm.com/station/7fd6f545-eb50-4cbf-8485-2d6f965786e5?source=m3u
 #EXTINF:-1 tvg-logo="https://raadio.aieon.ee/static/icons/production/192.png" group-title="Estonia" radio="true",AiEon
 https://raadio.aieon.ee/public/raadio/playlist.pls
+# 72FM: https://72fm.com/station/d535ac16-7fd2-4c9f-9436-6db63cb0579d?source=m3u
+#EXTINF:-1 tvg-logo="https://kaguraadio.ee/wp-content/uploads/2019/11/cropped-Kaguraadio-logo-roheline3-2.jpg" group-title="Estonia" radio="true",Kaguraadio
+https://radio.vlevelscdn.net/radio/kaguraadio.stream/chunklist_w936127105.m3u8
+# 72FM: https://72fm.com/station/ad50048b-9f2a-4b2c-97ee-9aafa6e9857f?source=m3u
+#EXTINF:-1 tvg-logo="https://s.err.ee/www/images/favicon/R4_favicon@2x.png?3006" group-title="Estonia" radio="true",Raadio 4
+http://icecast.err.ee/r4retro.mp3
+# 72FM: https://72fm.com/station/ec7959cb-7ff7-416a-966e-b6cc228eb886?source=m3u
+#EXTINF:-1 tvg-logo="https://sky.ee/storage/radio-stations/2025/12/Super-Radio-logo.svg" group-title="Estonia" radio="true",Суперрадио
+https://edge04.cdn.bitflip.ee:8888/RR_AAC?_i=88a9ec47
 # 72FM: https://72fm.com/station/df8d900f-9d12-48d2-978b-9bf078f22de0?source=m3u
 #EXTINF:-1 tvg-logo="https://raadio.aieon.ee/static/icons/production/192.png" group-title="Estonia" radio="true",AiEon
 https://raadio.aieon.ee/radio.mp3
+# 72FM: https://72fm.com/station/1e2ce322-78b3-448e-9e35-5f8c4ab68241?source=m3u
+#EXTINF:-1 tvg-logo="https://sky.ee/storage/articles/2026/02/eurovision-detail-1.webp" group-title="Estonia" radio="true",Kiss FM Eurovision
+https://edge04.cdn.bitflip.ee:8888/KISS_AAC?_i=2e955b68

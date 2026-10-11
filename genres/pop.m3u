@@ -394,12 +394,12 @@ http://109.71.41.6:8026/stream
 # 72FM: https://72fm.com/station/c6fa893b-8530-4d7c-803e-724e1575239f?source=m3u
 #EXTINF:-1 group-title="Pop" radio="true",Radio Huancayo
 https://cloud9.ldwebstudios.net:7000/;
-# 72FM: https://72fm.com/station/960be1b7-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Pop" radio="true",181.FM - Beatles
-https://listen.181fm.com/181-beatles_128k.mp3
 # 72FM: https://72fm.com/station/1a4914a2-f35f-11e8-a471-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-2000s_600x600.jpg" group-title="Pop" radio="true",- 0 N - 2000s on Radio
 https://0n-2000s.radionetz.de/0n-2000s.mp3
+# 72FM: https://72fm.com/station/960be1b7-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Pop" radio="true",181.FM - Beatles
+https://listen.181fm.com/181-beatles_128k.mp3
 # 72FM: https://72fm.com/station/961f6cc4-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Pop" radio="true",Free Rádio 107,0 FM Brno
 http://icecast8.play.cz/freeradio128.mp3
@@ -667,12 +667,12 @@ https://online.pilotfm.ru/pilot
 # 72FM: https://72fm.com/station/963c8518-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Pop" radio="true",Heart
 http://media-the.musicradio.com/HeartNorthLancsCumbria
-# 72FM: https://72fm.com/station/d0a1da9f-46b3-11e9-aa55-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.todayfm.com/favicon.ico" group-title="Pop" radio="true",Today FM
-https://stream.audioxi.com/TD
 # 72FM: https://72fm.com/station/961f92d9-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Pop" radio="true",Top20Radio
 http://server8.blitz-stream.de:9100/
+# 72FM: https://72fm.com/station/d0a1da9f-46b3-11e9-aa55-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.todayfm.com/favicon.ico" group-title="Pop" radio="true",Today FM
+https://stream.audioxi.com/TD
 # 72FM: https://72fm.com/station/961957e7-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/MNM_logo_2024.svg" group-title="Pop" radio="true",MNM
 http://icecast.vrtcdn.be/mnm-high.mp3
@@ -810,7 +810,7 @@ https://stream.zeno.fm/fvrx47wpg0quv
 http://sc2.radiocaroline.net:10558/;
 # 72FM: https://72fm.com/station/96475698-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Pop" radio="true",Light FM 90.5 & 90.7 Beirut
-http://25703.live.streamtheworld.com/LIGHTFMAAC_SC
+http://25643.live.streamtheworld.com/LIGHTFMAAC_SC
 # 72FM: https://72fm.com/station/96393d3c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Pop" radio="true",Europa Plus (128 kbps)
 http://ep128.streamr.ru/
@@ -829,12 +829,12 @@ https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/960e4255-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png" group-title="Pop" radio="true",NDR Blue
 http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
-# 72FM: https://72fm.com/station/3e78590f-ab9c-4e13-a512-189a17a54965?source=m3u
-#EXTINF:-1 tvg-logo="https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png" group-title="Pop" radio="true",CIN Khabar
-https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60
 # 72FM: https://72fm.com/station/d6d00207-f360-11e8-a471-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="Pop" radio="true",- 0 N - Disco on Radio
 https://0n-disco.radionetz.de/0n-disco.mp3
+# 72FM: https://72fm.com/station/3e78590f-ab9c-4e13-a512-189a17a54965?source=m3u
+#EXTINF:-1 tvg-logo="https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png" group-title="Pop" radio="true",CIN Khabar
+https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60
 # 72FM: https://72fm.com/station/9620b9a8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://101fm.de/wp-content/uploads/2020/02/cropped-512er-180x180.png" group-title="Pop" radio="true",101FM - 80s
 http://stream.laut.fm/0-24_80er_pop_rock
@@ -859,12 +859,12 @@ http://radio.alloldieschannel.com:8000/stream
 # 72FM: https://72fm.com/station/1be3981d-f3da-4371-891f-07300815f19c?source=m3u
 #EXTINF:-1 group-title="Pop" radio="true",Ρυθμός 89.2
 http://s4.onweb.gr:8892/stream?type=http&nocache=136101
-# 72FM: https://72fm.com/station/961bf014-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.rtbf.be/favicon.ico" group-title="Pop" radio="true",RTBF Classic 21
-https://radios.rtbf.be/classic21-64.aac
 # 72FM: https://72fm.com/station/f56fc0e0-8d6e-43df-9253-bfa03cb9a067?source=m3u
 #EXTINF:-1 tvg-logo="https://www.eska.pl/favicon.ico" group-title="Pop" radio="true",ESKA - Gorąca 20
 https://waw.ic.smcdn.pl/6130-1.mp3
+# 72FM: https://72fm.com/station/961bf014-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.rtbf.be/favicon.ico" group-title="Pop" radio="true",RTBF Classic 21
+https://radios.rtbf.be/classic21-64.aac
 # 72FM: https://72fm.com/station/96121667-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiokosice.sk/assets/radio-ke.png" group-title="Pop" radio="true",Rádio Košice
 http://stream.ecce.sk:8000/radiokosice-128.mp3

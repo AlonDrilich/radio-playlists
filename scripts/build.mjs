@@ -547,6 +547,7 @@ async function main() {
 
   // Top
   const top = stations.slice(0, TOP_N);
+  entriesOf.set(`top:top-${TOP_N}`, top);
   const topFiles = [[`top-${TOP_N}.m3u`, m3u(`Top ${TOP_N} radio stations by votes`, top, nameOf)]];
   playlists.push({
     type: 'top',
@@ -677,11 +678,13 @@ function formatOf(s) {
   return parts.join(' ');
 }
 
-function stationTable(entries) {
+function stationTable(entries, { country = false } = {}) {
   const rows = entries
     .map(
       (s, i) =>
-        `<tr><td class="num">${i + 1}</td><td class="name">${esc(s.name)}</td><td class="nw">${esc(formatOf(s)) || '<span class="muted">–</span>'}</td>` +
+        `<tr><td class="num">${i + 1}</td><td class="name">${esc(s.name)}</td>` +
+        (country ? `<td>${s.cc ? esc(countryName(s.cc)) : '<span class="muted">–</span>'}</td>` : '') +
+        `<td class="nw">${esc(formatOf(s)) || '<span class="muted">–</span>'}</td>` +
         `<td class="nw"><a href="${esc(s.url)}" rel="nofollow noopener">Stream</a></td>` +
         // nofollow: ~32,000 per-station links from generated pages would read as link manipulation, and most of
         // those stations have no prerendered 72FM page. People can still click; search engines are not told to follow.
@@ -689,7 +692,7 @@ function stationTable(entries) {
     )
     .join('\n');
   return `<div class="tw"><table>
-<thead><tr><th class="num">#</th><th>Station</th><th>Format</th><th>Stream</th><th>72FM</th></tr></thead>
+<thead><tr><th class="num">#</th><th>Station</th>${country ? '<th>Country</th>' : ''}<th>Format</th><th>Stream</th><th>72FM</th></tr></thead>
 <tbody>
 ${rows}
 </tbody>
@@ -734,6 +737,35 @@ ${footerHtml(generated)}`;
   return { path, html: htmlPage({ title, description, canonical, body }) };
 }
 
+/** The worldwide list gets a page of its own: it is the one people ask for most, and it shows the country. */
+function topPage(p, entries, generated) {
+  const path = 'top/';
+  const canonical = PAGES_BASE + path;
+  const n = p.stations;
+  const title = `Top ${n} internet radio stations by listener votes — M3U playlist`;
+  const description =
+    `The ${n} most-voted working internet radio stations in the Radio Browser directory, as a free M3U playlist ` +
+    `and a list with stream links. Updated weekly, last on ${generated}.`;
+  const body = `<p class="crumbs"><a href="../">All playlists</a> › Top ${n}</p>
+<h1>Top ${n} internet radio stations by listener votes</h1>
+<p>These are the ${fmtInt(n)} working stations with the most community votes in the public-domain
+<a href="https://www.radio-browser.info">Radio Browser</a> directory, out of ${fmtInt(p.stations_available)}.
+Votes are cast by the directory's own users, so the list leans toward the countries and tastes of the people who use it:
+it is a popularity ranking, not a judgement of quality by 72FM. Each station passed Radio Browser's most recent stream check,
+but streams go offline or move, so a few may not play. Last updated ${esc(generated)}.</p>
+<div class="actions">
+<a class="btn" href="${esc(p.url)}">Download playlist (.m3u)</a>
+<a class="cta" href="${SITE}">Listen in the browser on 72FM →</a>
+</div>
+<p class="muted">In VLC: Media → Open Network Stream and paste the playlist link. With mpv:</p>
+<pre><code>mpv ${esc(p.url)}</code></pre>
+<p>Looking for one country or one genre? <a href="../#countries">Country playlists</a> · <a href="../#genres">Genre playlists</a></p>
+<h2>Stations (${fmtInt(entries.length)})</h2>
+${stationTable(entries, { country: true })}
+${footerHtml(generated)}`;
+  return { path, html: htmlPage({ title, description, canonical, body }) };
+}
+
 function indexPage(index) {
   const { generated, totals } = index;
   const countries = index.playlists.filter((p) => p.type === 'country');
@@ -771,7 +803,7 @@ Streams go offline or move between checks, so some entries will not play.</p>
 <p class="actions"><a class="btn" href="${SITE}">Listen in the browser on 72FM → 72fm.com</a></p>
 <ul>
 <li>${fmtInt(totals.working_unique_stations)} working, de-duplicated stations in the directory at the last build</li>
-<li>${totals.countries} country playlists, ${totals.genres} genre playlists, and a <a href="${esc(top.url)}">top ${TOP_N} by votes</a> playlist</li>
+<li>${totals.countries} country playlists, ${totals.genres} genre playlists, and a <a href="top/">top ${TOP_N} by votes</a> list (<a href="${esc(top.url)}">.m3u</a>)</li>
 <li>Last updated ${esc(generated)}</li>
 <li>Every playlist with its raw URL, for scripts: <a href="${RAW_BASE}/index.json">index.json</a> · source code: <a href="${REPO_URL}">GitHub</a></li>
 </ul>
@@ -825,6 +857,11 @@ async function writeSite(index, entriesOf) {
   for (const p of index.playlists) {
     if (p.type !== 'country' && p.type !== 'genre') continue;
     const page = playlistPage(p, entriesOf.get(`${p.type}:${p.id}`) ?? [], index.generated);
+    files.push([`${page.path}index.html`, page.html]);
+  }
+  const topList = index.playlists.find((p) => p.type === 'top');
+  if (topList) {
+    const page = topPage(topList, entriesOf.get(`top:${topList.id}`) ?? [], index.generated);
     files.push([`${page.path}index.html`, page.html]);
   }
   const urls = files.map(([f]) => PAGES_BASE + f.replace(/index\.html$/, ''));
@@ -996,7 +1033,7 @@ station count.
 ## Top ${TOP_N}
 
 [top-${TOP_N}.m3u](${RAW_BASE}/top/top-${TOP_N}.m3u) – the most-voted working stations
-worldwide.
+worldwide. The same list as a page, with each station's country: [${PAGES_BASE}top/](${PAGES_BASE}top/).
 
 ## Genres
 

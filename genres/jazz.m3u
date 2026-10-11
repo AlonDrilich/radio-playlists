@@ -244,12 +244,12 @@ https://streaming.coollective.nl:8443/UbuntuFM
 # 72FM: https://72fm.com/station/961acb20-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Радио Культура / Radio Kultura
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
-# 72FM: https://72fm.com/station/aafa806b-e43e-4b96-8502-7b34f67cd450?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Radio Kaya
-http://usa9-vn.mixstream.net:8084/;
 # 72FM: https://72fm.com/station/c7ff0e18-52d5-4d2c-bce8-d88d784b2ffe?source=m3u
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/131_jazz_for_sl-600x400.jpg" group-title="Jazz" radio="true",Radio Art - Jazz for Sleep
 http://air.radioart.com/fJazz_for_sleep.mp3
+# 72FM: https://72fm.com/station/aafa806b-e43e-4b96-8502-7b34f67cd450?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Radio Kaya
+http://usa9-vn.mixstream.net:8084/;
 # 72FM: https://72fm.com/station/e6eacee7-b2ef-11e8-afe1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Radio Caprice - Guitar Jazz
 http://79.120.77.11:8002/guitarjazz
@@ -301,12 +301,12 @@ https://ais-sa8.cdnstream1.com/3629_128.mp3
 # 72FM: https://72fm.com/station/cb37fde6-44dd-4bc3-a57a-3543ff6cc04b?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",JazzW3
 http://jazz.w3.at:8000/w3jazz.mp3
-# 72FM: https://72fm.com/station/96105c20-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Qfm
-http://51.255.235.165:5092/;
 # 72FM: https://72fm.com/station/c7d6315c-3bcd-40f6-a1b5-4bc1c8efecee?source=m3u
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/47137/favicon/6c0b5a4fbc04adeb8117f49ccabeb70b.jpg" group-title="Jazz" radio="true",Tropical Smooth Jazz
 https://servidor32-3.brlogic.com:8230/live
+# 72FM: https://72fm.com/station/96105c20-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Qfm
+http://51.255.235.165:5092/;
 # 72FM: https://72fm.com/station/ade78f50-e134-4d3c-95ab-8bc9cccc431c?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Suite Jazz Radio
 https://jenny.torontocast.com:2000/stream/suitejazzradio
@@ -343,30 +343,30 @@ https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758
 # 72FM: https://72fm.com/station/bedcf517-f9a6-11e8-a97a-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Jazz Medley Webradio
 http://server01.ouvir.radio.br:8006/stream
-# 72FM: https://72fm.com/station/28a9d517-b2ef-11e8-afe1-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Radio Caprice - Smooth Jazz
-http://79.120.39.202:8002/smoothjazz
 # 72FM: https://72fm.com/station/d7339299-f364-11e8-a471-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-jazz_600x600.jpg" group-title="Jazz" radio="true",- 0 N - Jazz on Radio
 https://0n-jazz.radionetz.de/0n-jazz.mp3
+# 72FM: https://72fm.com/station/28a9d517-b2ef-11e8-afe1-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Radio Caprice - Smooth Jazz
+http://79.120.39.202:8002/smoothjazz
 # 72FM: https://72fm.com/station/ad3c109f-d8cc-46d1-bc45-67c72ec586d3?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Smooth Jazz Global Radio
 https://smoothjazz.cdnstream1.com/2585_256.mp3
 # 72FM: https://72fm.com/station/b88337cc-110c-45c9-a482-9138a393eaeb?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Babel
 https://radios.iwstreaming.uy/8030/stream
-# 72FM: https://72fm.com/station/8bfd74c2-c254-4e9b-ba58-94248ddd767e?source=m3u
-#EXTINF:-1 tvg-logo="https://stream.radiosar.pl/logo.png" group-title="Jazz" radio="true",Radio SAR - Studencka Agencja Radiowa
-https://stream.radiosar.pl/hdmain.mp3
 # 72FM: https://72fm.com/station/af53a4c2-6fcf-47cf-b771-dbd316a951c2?source=m3u
 #EXTINF:-1 tvg-logo="https://listenonlineradio.com/wp-content/uploads/All4Masti.jpg" group-title="Jazz" radio="true",All4Masti
 http://stream.zeno.fm/bahhkuge5zhvv
-# 72FM: https://72fm.com/station/a4e98f6e-e326-41eb-97a4-f5f477842fab?source=m3u
-#EXTINF:-1 tvg-logo="https://tokopemancar99.blogspot.com/2022/09/live-streaming-alternatif-radio.html" group-title="Jazz" radio="true",Alternatif radio jakarta
-https://void.idserverhost.com/8016/stream
+# 72FM: https://72fm.com/station/8bfd74c2-c254-4e9b-ba58-94248ddd767e?source=m3u
+#EXTINF:-1 tvg-logo="https://stream.radiosar.pl/logo.png" group-title="Jazz" radio="true",Radio SAR - Studencka Agencja Radiowa
+https://stream.radiosar.pl/hdmain.mp3
 # 72FM: https://72fm.com/station/2596606e-b454-11e9-acb2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Radio 17bis
 http://listen.radioking.com/radio/444/stream/1754
+# 72FM: https://72fm.com/station/a4e98f6e-e326-41eb-97a4-f5f477842fab?source=m3u
+#EXTINF:-1 tvg-logo="https://tokopemancar99.blogspot.com/2022/09/live-streaming-alternatif-radio.html" group-title="Jazz" radio="true",Alternatif radio jakarta
+https://void.idserverhost.com/8016/stream
 # 72FM: https://72fm.com/station/3df1c47e-58c4-4f54-b7de-f0f5df5f52a9?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Jazz" radio="true",Radio Art - Saxophone Jazz
 http://air.radioart.com/fSaxophone_jazz.mp3
@@ -391,15 +391,15 @@ http://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3
 # 72FM: https://72fm.com/station/32eb1eb1-b712-4137-b670-0a620ce04d97?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Relax cafe
 https://stream.relaxfm.ee/cafe
-# 72FM: https://72fm.com/station/96269ba0-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",KSDS 'Jazz 88.3' San Diego, CA
-http://listen.jazz88.org/ksds.mp3
-# 72FM: https://72fm.com/station/cf68de27-dc9e-4e89-b1ca-56ca40e3bdc5?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Jazz" radio="true",Radio Art - Guitar Jazz
-https://live.radioart.com/fGuitar_jazz.mp3
 # 72FM: https://72fm.com/station/2037c9d4-8d99-48f1-b5f1-eb60dc015773?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioswissjazz.ch/social-media/rsj-web.png" group-title="Jazz" radio="true",Jazz | Radio Swiss
 https://stream.srg-ssr.ch/m/rsj/mp3_128
+# 72FM: https://72fm.com/station/cf68de27-dc9e-4e89-b1ca-56ca40e3bdc5?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Jazz" radio="true",Radio Art - Guitar Jazz
+https://live.radioart.com/fGuitar_jazz.mp3
+# 72FM: https://72fm.com/station/96269ba0-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",KSDS 'Jazz 88.3' San Diego, CA
+http://listen.jazz88.org/ksds.mp3
 # 72FM: https://72fm.com/station/d8dc960b-20d2-45a1-96cf-a79af5c64a61?source=m3u
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="Jazz" radio="true",Naim Jazz
 http://mscp3.live-streams.nl:8340/jazz-flac.flac
@@ -445,15 +445,15 @@ http://streaming.exclusive.radio/er/franksinatra/icecast.audio
 # 72FM: https://72fm.com/station/d9b43ea7-3c4d-11e8-b74d-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="Jazz" radio="true",SomaFM Secret Agent (64k AAC)
 https://ice6.somafm.com/secretagent-64-aac
+# 72FM: https://72fm.com/station/26592f49-564a-402c-8123-19dc8d496271?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Smooth FM (AAC)
+https://stream-icy.bauermedia.pt/smooth.aac
 # 72FM: https://72fm.com/station/960cbd93-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Jazzradio GrooveFM
 http://streaming.groovefm.de/
 # 72FM: https://72fm.com/station/0b3ff698-3282-483c-96bc-1ba9ff08ea25?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/media/radio/thumb/180x180_electro-swing.png" group-title="Jazz" radio="true",Jazz Radio Electro Swing
 https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090
-# 72FM: https://72fm.com/station/26592f49-564a-402c-8123-19dc8d496271?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Smooth FM (AAC)
-https://stream-icy.bauermedia.pt/smooth.aac
 # 72FM: https://72fm.com/station/6d59604a-7f2f-4f5f-8a00-bc5264372fe2?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Smooth Lounge Global Radio
 https://smoothjazz.cdnstream1.com/2586_256.mp3
@@ -490,12 +490,12 @@ http://lounge-high.rautemusik.fm/
 # 72FM: https://72fm.com/station/56acc4b0-63de-4b70-bdbe-24f8e1acaad8?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",RadioSky Music Jazz
 http://jazz.radioskymusic.com:7006/live
-# 72FM: https://72fm.com/station/ca98042b-bc30-4325-b636-c2b870e4490a?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Monte Carlo Moscow
-https://montecarlo.hostingradio.ru/montecarlo96.aacp
 # 72FM: https://72fm.com/station/faf67a18-6660-438a-b472-0713dd0de1e1?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",98.7 DZFE The Master's Touch
 http://sg-icecast.eradioportal.com:8000/febc_dzfe
+# 72FM: https://72fm.com/station/ca98042b-bc30-4325-b636-c2b870e4490a?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Monte Carlo Moscow
+https://montecarlo.hostingradio.ru/montecarlo96.aacp
 # 72FM: https://72fm.com/station/0efb01bf-e55e-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="Jazz" radio="true",FIP JAZZ
 http://icecast.radiofrance.fr/fipjazz-midfi.mp3
@@ -529,24 +529,24 @@ https://live.radioart.com/fMellow_piano_jazz.mp3
 # 72FM: https://72fm.com/station/3f0a0ad0-fa37-11e9-bbf2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",WNCU 90.7 Jazz
 http://wncu.streamguys1.com/live
-# 72FM: https://72fm.com/station/a8c3a4a2-f984-11e9-bbf2-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",XO.FM
-https://live.xo.fm/xofm128
 # 72FM: https://72fm.com/station/0fa1bfa4-f365-11e8-a471-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-jazz_600x600.jpg" group-title="Jazz" radio="true",- 0 N - Jazz on Radio
 https://0n-jazz.radionetz.de/0n-jazz.aac
+# 72FM: https://72fm.com/station/a8c3a4a2-f984-11e9-bbf2-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",XO.FM
+https://live.xo.fm/xofm128
 # 72FM: https://72fm.com/station/69e00e1b-2dd9-432d-b60a-e4a38ad41f41?source=m3u
 #EXTINF:-1 tvg-logo="https://jazzfm.mk/favicon.png" group-title="Jazz" radio="true",Jazz FM
 https://radio.jazzfm.mk/listen/jazzfm/live
 # 72FM: https://72fm.com/station/9ceb61e8-5101-11e9-a4d7-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.wwoz.org//sites/default/files/favicons-bw/apple-touch-icon-57x57.png" group-title="Jazz" radio="true",WWOZ - New Orleans Public Radio
 https://www.wwoz.org/listen/hi
-# 72FM: https://72fm.com/station/7dd8b01e-5d9b-11ea-be63-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Radio Radio Network
-http://radioradio.es:8000/stream
 # 72FM: https://72fm.com/station/0b5ba280-1823-4b72-bd01-10e3efb2ac20?source=m3u
 #EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2022/11/antena-2-jazzin.png" group-title="Jazz" radio="true",Antena 2 Jazzin (Portugal)
 https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+# 72FM: https://72fm.com/station/7dd8b01e-5d9b-11ea-be63-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Radio Radio Network
+http://radioradio.es:8000/stream
 # 72FM: https://72fm.com/station/96138296-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Radio Neptune
 http://icecast.infini.fr:8000/neptune
@@ -589,21 +589,21 @@ https://0nlineradio.radioho.st/lounge-coffee-bar-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/039894ef-dfa1-4217-b288-0a36e8700c4e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioswissjazz.ch/favicon.ico" group-title="Jazz" radio="true",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/aacp_32
-# 72FM: https://72fm.com/station/b5fe26d1-ef12-4a65-8761-80f7678693da?source=m3u
-#EXTINF:-1 tvg-logo="https://www.esdesmada.com/wp-content/uploads/2024/11/esdes-logo-80x80-1.png" group-title="Jazz" radio="true",ESDES Radio
-https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3
 # 72FM: https://72fm.com/station/4f30d107-82f3-4e4e-99e4-44e05adcb2e9?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkhwYrRM/Piano-Jazz-Lounge.png" group-title="Jazz" radio="true",0R - PIANO JAZZ LOUNGE || Jazz, Piano, Lounge, Smooth, Chill, Relax, Soft, Acoustic, Instrumental, Evening, Romantic, Ba
 https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26
+# 72FM: https://72fm.com/station/b5fe26d1-ef12-4a65-8761-80f7678693da?source=m3u
+#EXTINF:-1 tvg-logo="https://www.esdesmada.com/wp-content/uploads/2024/11/esdes-logo-80x80-1.png" group-title="Jazz" radio="true",ESDES Radio
+https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3
 # 72FM: https://72fm.com/station/567483dc-b2f0-11e8-afe1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Radio Caprice - Jazz Fusion
 http://79.111.119.111:8002/jazzfusion
-# 72FM: https://72fm.com/station/9a544b89-b2ef-11e8-afe1-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Radio Caprice - Dixieland
-http://79.120.39.202:8002/dixieland
 # 72FM: https://72fm.com/station/40e0da97-9fd2-4729-8e86-4c65cdba7910?source=m3u
 #EXTINF:-1 tvg-logo="https://jazzgumboradio.com/favicon.ico" group-title="Jazz" radio="true",A Fine Jazz Gumbo Radio
 https://streaming.smartradio.ch:9502/stream
+# 72FM: https://72fm.com/station/9a544b89-b2ef-11e8-afe1-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Radio Caprice - Dixieland
+http://79.120.39.202:8002/dixieland
 # 72FM: https://72fm.com/station/cabd4859-ac2b-4d27-b1ba-a29ddf7e8c58?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Jazz" radio="true",Radio Art - Jazz Piano
 https://live.radioart.com/fJazz_piano.mp3
@@ -646,12 +646,12 @@ http://war.str3am.com:8310/live
 # 72FM: https://72fm.com/station/96232d01-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Hawaii Public Radio HPR-1 (KHPR)
 http://khpr-ice.streamguys1.com/khpr2
-# 72FM: https://72fm.com/station/9642039e-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",FluxFM - XJAZZ
-http://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663?sABC=6noq51s0%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790792176
 # 72FM: https://72fm.com/station/96136e62-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Jazz Radio Groov'Up
 http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3
+# 72FM: https://72fm.com/station/9642039e-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",FluxFM - XJAZZ
+http://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663?sABC=6noq51s0%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1790792176
 # 72FM: https://72fm.com/station/8b2da670-18bc-4bde-ae60-ebfef8985161?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",EPIC CLASSICAL - Classical Romance
 https://stream.epic-classical.com/classical-romance
@@ -793,12 +793,12 @@ https://radio.musorok.org/listen/jazzycool/jazzycool.mp3
 # 72FM: https://72fm.com/station/96344664-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.norawebstreams.de/production/static/1688454086166/icons/icon_64.a8000000000.png" group-title="Jazz" radio="true",NORA Webstream
 http://streams.norawebstreams.de/nora-live/mp3-128/homepage/
-# 72FM: https://72fm.com/station/a3bf114c-c001-4c43-9665-1748d3df0938?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Black Rhino Radio
-https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 # 72FM: https://72fm.com/station/9643c1f3-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",COMALA Radio
 http://www.radioking.com/play/supag
+# 72FM: https://72fm.com/station/a3bf114c-c001-4c43-9665-1748d3df0938?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Black Rhino Radio
+https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 # 72FM: https://72fm.com/station/a9321776-e71e-4f21-a4a3-3489f91959c8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Jazz" radio="true",Radio Art - Gypsy Jazz
 http://air.radioart.com/fGypsy_jazz.mp3
@@ -847,42 +847,42 @@ http://stream.kjzz.org/kjzz_mp3_128
 # 72FM: https://72fm.com/station/97b6d543-896d-4361-bc34-5d1c8a19a4bc?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p2.png" group-title="Jazz" radio="true",Sveriges Radio P2 flac
 https://edge1.sr.se/p2-flac
-# 72FM: https://72fm.com/station/8fd85d7d-5520-4b15-a7a2-cd8e713fb8f3?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",The Jazz Groove (East)
-http://east-aac-64.streamthejazzgroove.com/stream
 # 72FM: https://72fm.com/station/9629e728-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",KJLU 'Smooth Jazz 88.9' Jefferson City, MO
 http://ice8.securenetsystems.net/KJLU
+# 72FM: https://72fm.com/station/8fd85d7d-5520-4b15-a7a2-cd8e713fb8f3?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",The Jazz Groove (East)
+http://east-aac-64.streamthejazzgroove.com/stream
 # 72FM: https://72fm.com/station/ee0672cd-c3cb-4c47-8694-e601ef92b22d?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Exclusively Diana Krall
 https://nl4.mystreaming.net/er/dianakrall/icecast.audio
-# 72FM: https://72fm.com/station/de835f1c-ba24-488f-8d70-28a94ce22315?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Radio Nova22
-http://s2.myradiostream.com:4520/listen.m4a
 # 72FM: https://72fm.com/station/583e6081-1a9a-41bd-a5c1-842af3a9da5b?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vva3r45dttjy.jpeg" group-title="Jazz" radio="true",Radio Dismuke
 http://74.208.71.58:8078/
-# 72FM: https://72fm.com/station/cc9030c8-bd33-40e5-8613-5f1d4d26e4a8?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Epic Lounge - HOTEL LOUNGE
-https://stream.epic-lounge.com/hotel-lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/96135ece-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="Jazz" radio="true",Jazz Radio Nouveautés Jazz
 http://jzr-wr99.ice.infomaniak.ch/jzr-wr99.mp3
 # 72FM: https://72fm.com/station/7dcdcfb3-b056-44c8-9b97-3d18d0a1f1a9?source=m3u
 #EXTINF:-1 group-title="Jazz" radio="true",Radio Caprice Jazz Modern Creative
 http://79.120.77.11:8000/mcreative
-# 72FM: https://72fm.com/station/3e841d56-72bc-4728-a8df-fa8389f0f974?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",FunkURadio
-https://furfmcou.radioca.st/stream
-# 72FM: https://72fm.com/station/96241582-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",WGMC 'Jazz 90.1' Rochester, NY
-http://greece-media.monroe.edu/wgmc.mp3
-# 72FM: https://72fm.com/station/df5eed19-b2ee-11e8-afe1-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Jazz" radio="true",Radio Caprice - Chamber Jazz
-http://79.120.39.202:8002/chamberjazz
+# 72FM: https://72fm.com/station/de835f1c-ba24-488f-8d70-28a94ce22315?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Radio Nova22
+http://s2.myradiostream.com:4520/listen.m4a
+# 72FM: https://72fm.com/station/cc9030c8-bd33-40e5-8613-5f1d4d26e4a8?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Epic Lounge - HOTEL LOUNGE
+https://stream.epic-lounge.com/hotel-lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/03bf6559-d0bb-43f1-9ad0-cf7b0a6ee035?source=m3u
 #EXTINF:-1 tvg-logo="https://musicajazz.it/wp-content/uploads/logo-120.png" group-title="Jazz" radio="true",Musica Jazz Radio
 https://ice16.fluidstream.net/mjr.mp3
+# 72FM: https://72fm.com/station/3e841d56-72bc-4728-a8df-fa8389f0f974?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",FunkURadio
+https://furfmcou.radioca.st/stream
+# 72FM: https://72fm.com/station/df5eed19-b2ee-11e8-afe1-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",Radio Caprice - Chamber Jazz
+http://79.120.39.202:8002/chamberjazz
+# 72FM: https://72fm.com/station/96241582-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Jazz" radio="true",WGMC 'Jazz 90.1' Rochester, NY
+http://greece-media.monroe.edu/wgmc.mp3
 # 72FM: https://72fm.com/station/a2936e90-af4f-4bfb-9e41-666e76324054?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Jazz" radio="true",Exclusively Amy Winehouse
 https://streaming.exclusive.radio/er/amywinehouse/icecast.audio
