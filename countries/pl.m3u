@@ -69,7 +69,7 @@ http://audio.radiownet.pl:8000/stream
 http://stream3.polskieradio.pl:8906/;stream
 # 72FM: https://72fm.com/station/c101cf0d-9385-452f-96f8-ad46425f89d3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.voxfm.pl/apple-touch-icon.png" group-title="Poland" radio="true",VOX FM
-http://ic2.smcdn.pl/3990-1.mp3
+http://ic1.smcdn.pl/3990-1.aac
 # 72FM: https://72fm.com/station/961b5bb7-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Szczecin (128K MP3)
 http://stream4.nadaje.com:11986/prs
@@ -192,7 +192,7 @@ https://play.radiofest.pl:8443/fest
 http://online.radiojasnagora.pl:8000/rjg
 # 72FM: https://72fm.com/station/97b1aec1-dad3-4551-8cc5-07965bbcb93f?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio RMF FM
-https://rs201-krk-cyfronet.rmfstream.pl/rmf_fm
+https://rs201-krk.rmfstream.pl/rmf_fm
 # 72FM: https://72fm.com/station/16829065-cee9-49e2-b76e-a7242a12aaa9?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio RMF24.PL
 https://rs201-krk.rmfstream.pl/RMF24
@@ -268,12 +268,12 @@ https://waw.ic.smcdn.pl/6120-1.mp3
 # 72FM: https://72fm.com/station/866491e3-f607-4e8a-915f-fb1d3b682cd8?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Mirage - Italo Dance
 https://ssl-1.radiohost.pl:9569/stream
-# 72FM: https://72fm.com/station/05094fb8-9fd1-491c-9f02-ca4d52a2f488?source=m3u
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240209_103039189.jpg?alt=media&token=6aa71f56-8a3e-42d2-a0d8-5e5293766afd" group-title="Poland" radio="true",JEDYNKA
-http://stream3.polskieradio.pl:8900/;
 # 72FM: https://72fm.com/station/2474b5ce-4888-11e9-80ab-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Mirage - Euro Dance
 http://s0.radiohost.pl:9569/;
+# 72FM: https://72fm.com/station/05094fb8-9fd1-491c-9f02-ca4d52a2f488?source=m3u
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240209_103039189.jpg?alt=media&token=6aa71f56-8a3e-42d2-a0d8-5e5293766afd" group-title="Poland" radio="true",JEDYNKA
+http://stream3.polskieradio.pl:8900/;
 # 72FM: https://72fm.com/station/b8988a60-d602-4e28-8fd4-db8ebe023993?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",RMF PRL + FAKTY
 http://195.150.20.8/PRLF
@@ -334,12 +334,12 @@ http://195.150.20.7/90SDANCE
 # 72FM: https://72fm.com/station/17cbec6e-ab8a-41e1-ac8e-7d946334790e?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Eska Warszawa
 http://waw.ic.smcdn.pl/2380-1.mp3
-# 72FM: https://72fm.com/station/691b86e8-39cc-11e9-9b4e-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://radiopoznan.fm/v3/img/logo.png" group-title="Poland" radio="true",Polskie Radio Poznań
-http://stream4.nadaje.com:8578/poznan
 # 72FM: https://72fm.com/station/45047af4-56c2-47fe-b322-af6f6b67c111?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Muzyczne Radio
 http://stream3.technologicznie.net/muzyczne_radio_192.mp3
+# 72FM: https://72fm.com/station/691b86e8-39cc-11e9-9b4e-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://radiopoznan.fm/v3/img/logo.png" group-title="Poland" radio="true",Polskie Radio Poznań
+http://stream4.nadaje.com:8578/poznan
 # 72FM: https://72fm.com/station/960fd7e9-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Chillout Radio
 http://panel.nadaje.com:9004/
@@ -402,7 +402,7 @@ http://s3.slotex.pl:7222/stream
 http://195.150.20.7/ROCK
 # 72FM: https://72fm.com/station/c3ef941d-14b8-441b-ac83-269cc869e0d9?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",RMF Dance
-https://rs101-krk.rmfstream.pl/rmf_dance
+https://rs203-krk-cyfronet.rmfstream.pl/rmf_dance
 # 72FM: https://72fm.com/station/2feb2001-ac7b-45d6-8c71-c12079f72e0e?source=m3u
 #EXTINF:-1 tvg-logo="https://discoparty.pl/wp-content/uploads/2023/01/cropped-logotyp-180x180.png" group-title="Poland" radio="true",DISCOPARTY.PL - Kanał Club
 https://s3.slotex.pl/shoutcast/7354/stream
@@ -417,16 +417,16 @@ http://plus-gdansk-01.eurozet.pl:8500/
 http://91.232.4.33:7028/;
 # 72FM: https://72fm.com/station/1c0f423c-5403-4cf4-9e37-57010ed28b0d?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",RMF Disco polo
-https://rs202-krk.rmfstream.pl/rmf_disco_polo
+https://rs102-krk-cyfronet.rmfstream.pl/rmf_disco_polo
 # 72FM: https://72fm.com/station/fb3f6660-6ee1-47d6-829a-a07e12aea9ec?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Mirage Space
 http://s0.radiohost.pl:9563/
-# 72FM: https://72fm.com/station/2edd883e-376c-44b8-b370-1da891acd8f1?source=m3u
-#EXTINF:-1 group-title="Poland" radio="true",RMF Polskie przeboje + FAKTY
-http://195.150.20.8/PPRZEBOJEF
 # 72FM: https://72fm.com/station/39e9719f-f3b4-4a08-b2c8-29881e3b8314?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241223_184842765.jpg?alt=media&token=a62dd69a-bc4c-4e96-bbb8-d551e4bdfef7" group-title="Poland" radio="true",MELORADIO HOT DANCE
 http://ml02.cdn.eurozet.pl/MELHDN.mp3
+# 72FM: https://72fm.com/station/2edd883e-376c-44b8-b370-1da891acd8f1?source=m3u
+#EXTINF:-1 group-title="Poland" radio="true",RMF Polskie przeboje + FAKTY
+http://195.150.20.8/PPRZEBOJEF
 # 72FM: https://72fm.com/station/4021b06a-5787-44ca-9621-4dc63bf371c7?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Kampus 97,1 FM
 https://stream.radiokampus.fm/kampus
@@ -463,6 +463,9 @@ http://stream4.nadaje.com:11986/prs.aac
 # 72FM: https://72fm.com/station/a0d8c631-5097-48ed-81a8-50f6b9324665?source=m3u
 #EXTINF:-1 tvg-logo="https://www.voxfm.pl/apple-touch-icon.png" group-title="Poland" radio="true",VOX FM 128kbps
 https://pldm.one.pl/radio?url=https://www.eskago.pl/radio/vox-fm
+# 72FM: https://72fm.com/station/4a2147a0-f04f-471a-a7c6-d8fc4d2b0bf4?source=m3u
+#EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",RMF Muzyka_Filmowa
+https://rs203-krk-cyfronet.rmfstream.pl/rmf_muzyka_filmowa
 # 72FM: https://72fm.com/station/cb39f162-3b40-11e8-b74d-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Toksyna FM PsyTrance
 http://s01.toksyna.fm:8030/
@@ -478,12 +481,12 @@ http://stream3.polskieradio.pl:8080/
 # 72FM: https://72fm.com/station/ba07e619-04a2-4c35-bdbb-bd557f470bc0?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio RDN Małopolska
 https://stream1.dabcom.pl/rdn_mpl
-# 72FM: https://72fm.com/station/96224577-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Poland" radio="true",Radio Dwójka (MP3)
-http://mp3.polskieradio.pl:8902/
 # 72FM: https://72fm.com/station/c1694afe-e4fb-4a91-83da-5cec323bd082?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioitalo4you.net/images/logo.png" group-title="Poland" radio="true",Radio Italo4you
 https://ssl-1.radiohost.pl:8018/stream
+# 72FM: https://72fm.com/station/96224577-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Poland" radio="true",Radio Dwójka (MP3)
+http://mp3.polskieradio.pl:8902/
 # 72FM: https://72fm.com/station/bf97ae48-d8aa-4c71-b8de-19f077a540de?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",VOX FM HIT 22
 http://ic1.smcdn.pl/6020-1.mp3
@@ -532,15 +535,15 @@ http://137.74.5.240:443/;stream.mp3
 # 72FM: https://72fm.com/station/8d4ad577-024d-48c0-9cab-c219d124bb5a?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Piekary 88.7FM
 https://n21a-eu.rcs.revma.com/0rg0mztk33bwv?rj-ttl=5&rj-tok=AAABnDF1SJoAi5xp4z8vj4ZXKA
-# 72FM: https://72fm.com/station/737299d9-6583-4103-aacf-9576b60baa82?source=m3u
-#EXTINF:-1 tvg-logo="https://discoparty.pl/wp-content/uploads/2023/01/impreza-370x370.png" group-title="Poland" radio="true",DiscoParty.pl - Disco Impreza
-https://s3.slotex.pl/shoutcast/7046/stream?sid=1
 # 72FM: https://72fm.com/station/33e0d018-39ac-4776-a288-20ec4fdc0a15?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",RMF Classic Rock
 https://rs201-krk.rmfstream.pl/rmf_classic_rock
 # 72FM: https://72fm.com/station/1c142460-76ad-4100-a9cb-a76eff76d821?source=m3u
 #EXTINF:-1 tvg-logo="https://gfx-player.radiozet.pl/design/player_radiozet/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",Radio ZET
 https://hub.radiostream.pl/stream.pls?radio=8400&type=none&dist=zet&app=none&coding=aac&redirect=true
+# 72FM: https://72fm.com/station/737299d9-6583-4103-aacf-9576b60baa82?source=m3u
+#EXTINF:-1 tvg-logo="https://discoparty.pl/wp-content/uploads/2023/01/impreza-370x370.png" group-title="Poland" radio="true",DiscoParty.pl - Disco Impreza
+https://s3.slotex.pl/shoutcast/7046/stream?sid=1
 # 72FM: https://72fm.com/station/065971ca-2b0e-4982-9b6e-416b7b262e7e?source=m3u
 #EXTINF:-1 tvg-logo="https://radio5.com.pl/favicon.ico" group-title="Poland" radio="true",Radio 5
 https://streaming.radio5.com.pl:8888/radio5suwalki
@@ -652,36 +655,36 @@ http://31.192.216.8/RELAKS
 # 72FM: https://72fm.com/station/ab793bf1-a794-4aea-af16-f5d85ab333cb?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",Radio RMF
 https://rs201-krk-cyfronet.rmfstream.pl/HARDHEAVY?listenerid=22faa5bd029362874d207dd68f5e4954&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.skey=1649088434&aw_0_req.gdpr=false&aw_0_req.userConsentV2=CPW7rKhPW7rKhFKACAPLCHCgAAAAAEPAAB5YAAARTAJMNS8gC7EscGRaNKoUQIwrCQqgUAFFAMLREYAODgp2VgEuoAWACAVARgRAgxBRgwCAAQCAJCIgJACwQCIAiAAAAgARgIQAETAILACwMAgAFANCxACgAECQgyOCo5TAgIkWiglsrEEoK9hTCAMssAKBRGRUACJAgAWBkJCwcxwBICXCyQJMELxACMAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
-# 72FM: https://72fm.com/station/21a59f6d-a10c-45cb-8dcb-ab20bd5e4f9e?source=m3u
-#EXTINF:-1 tvg-logo="https://www.waszeradiofm.pl/apple-touch-icon.png" group-title="Poland" radio="true",Wasze Radio FM
-https://sluchaj.link:5443/wasze
 # 72FM: https://72fm.com/station/129586bd-4635-49f4-81ac-0bb9c30f79d4?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Olsztyn
 https://rostr1.radioolsztyn.pl:8443/RO
+# 72FM: https://72fm.com/station/21a59f6d-a10c-45cb-8dcb-ab20bd5e4f9e?source=m3u
+#EXTINF:-1 tvg-logo="https://www.waszeradiofm.pl/apple-touch-icon.png" group-title="Poland" radio="true",Wasze Radio FM
+https://sluchaj.link:5443/wasze
 # 72FM: https://72fm.com/station/9610d15d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Victoria
 http://stream.v4.radiovictoria.pl:8176/;
 # 72FM: https://72fm.com/station/960f667a-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",RMF 2 Pop
 http://195.150.20.8/RMF2
-# 72FM: https://72fm.com/station/b28ed0ea-bbc5-4127-a456-0a29a051e78c?source=m3u
-#EXTINF:-1 tvg-logo="https://www.super.fm/storage/app/uploads/public/5f8/6f3/983/5f86f3983122e636480233.png" group-title="Poland" radio="true",Super FM
-http://stream.super.fm:8000/superfm.mp3
 # 72FM: https://72fm.com/station/ad95696d-c911-4a6c-bddf-d56b79082915?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",RMF 80s + FAKTY
 http://195.150.20.9/80SF
+# 72FM: https://72fm.com/station/b28ed0ea-bbc5-4127-a456-0a29a051e78c?source=m3u
+#EXTINF:-1 tvg-logo="https://www.super.fm/storage/app/uploads/public/5f8/6f3/983/5f86f3983122e636480233.png" group-title="Poland" radio="true",Super FM
+http://stream.super.fm:8000/superfm.mp3
 # 72FM: https://72fm.com/station/7c396e00-acce-4b86-bd88-a2e38689ce7b?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.lublin.pl/wp-content/uploads/2019/05/cropped-logo512t-180x180.png" group-title="Poland" radio="true",Radio Lublin
 https://streaming.radio.lublin.pl:8843/128k
 # 72FM: https://72fm.com/station/464d7aaf-cd4d-412e-bc43-691190405d54?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio ZET - 2000
 https://zt04.cdn.eurozet.pl/ZET200.mp3
-# 72FM: https://72fm.com/station/46c7773d-34a7-4e7b-9e53-e3bc6e011934?source=m3u
-#EXTINF:-1 group-title="Poland" radio="true",RMF 80s Disco + FAKTY
-http://195.150.20.9/80SDISCOF
 # 72FM: https://72fm.com/station/f434e3d1-8b34-452f-acbd-23700db83b0c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.eska.pl/favicon.ico" group-title="Poland" radio="true",Eska - Rzeszów
 http://ic1.smcdn.pl/2240-1.mp3
+# 72FM: https://72fm.com/station/46c7773d-34a7-4e7b-9e53-e3bc6e011934?source=m3u
+#EXTINF:-1 group-title="Poland" radio="true",RMF 80s Disco + FAKTY
+http://195.150.20.9/80SDISCOF
 # 72FM: https://72fm.com/station/960fdc9a-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Baobab
 http://stream.radiobaobab.pl:8000/radiobaobab.mp3
@@ -691,15 +694,15 @@ http://91.232.4.33:9569/Stream1
 # 72FM: https://72fm.com/station/bcb5c4af-dc66-11e9-a8ba-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiolodz.pl/favicon.ico" group-title="Poland" radio="true",Radio Łódź
 http://217.113.224.171/RadioLodz-1-HQ.aac
+# 72FM: https://72fm.com/station/3a1cb722-b83f-442e-acad-01c90d2ec528?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiomaryja.pl/wp-content/uploads/2021/08/radio-logo.jpg" group-title="Poland" radio="true",Radio Maryja
+http://51.68.135.155/stream
 # 72FM: https://72fm.com/station/960ff557-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Katolickie Radio Diecezji Plockiej
 http://s1.slotex.pl:7760/
 # 72FM: https://72fm.com/station/96113c8d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Polka Jammer Station
 http://199.58.161.66/
-# 72FM: https://72fm.com/station/3a1cb722-b83f-442e-acad-01c90d2ec528?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiomaryja.pl/wp-content/uploads/2021/08/radio-logo.jpg" group-title="Poland" radio="true",Radio Maryja
-http://51.68.135.155/stream
 # 72FM: https://72fm.com/station/dea9401e-2a1e-4000-a54e-3f2a459929e8?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",RMFmaxx
 https://rs203-krk.rmfstream.pl/rmf_maxxx
@@ -736,12 +739,12 @@ http://51.77.59.65:8000/stream.ogg
 # 72FM: https://72fm.com/station/204876d4-98d1-4919-95f0-c90a6e343ffe?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",radio
 https://c16.radioboss.fm:18014/stream
-# 72FM: https://72fm.com/station/fb50e3c6-14a6-43fd-bd68-afb1d26f54ef?source=m3u
-#EXTINF:-1 group-title="Poland" radio="true",RMF Gold
-https://rs202-krk.rmfstream.pl/rmf_gold
 # 72FM: https://72fm.com/station/f762ebd5-3cf3-4010-a0df-82d12bd0077e?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",RADIO KIEROWCÓW
 https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+# 72FM: https://72fm.com/station/fb50e3c6-14a6-43fd-bd68-afb1d26f54ef?source=m3u
+#EXTINF:-1 group-title="Poland" radio="true",RMF Gold
+https://rs202-krk.rmfstream.pl/rmf_gold
 # 72FM: https://72fm.com/station/1979432f-3c8c-41b2-a093-403228715160?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Antyradio Covers
 http://an.cdn.eurozet.pl/ANTCOV.mp3
@@ -781,12 +784,12 @@ http://51.77.59.65:8100/stream.mp3
 # 72FM: https://72fm.com/station/4dbb2cc1-3d4a-48e6-9519-7067b87df160?source=m3u
 #EXTINF:-1 tvg-logo="https://gfx-player.radiozet.pl/var/player/storage/images/player-meloradio/kanaly-muzyczne/meloradio-wroclaw/1728818-6-pol-PL/Meloradio-Wroclaw_size-140x140.webp" group-title="Poland" radio="true",Meloradio Wrocław
 https://ml02.cdn.eurozet.pl/mel-wro.mp3
-# 72FM: https://72fm.com/station/e252d1b9-1b55-4f49-8cb0-b28fadd68fea?source=m3u
-#EXTINF:-1 tvg-logo="https://radiokielce.pl/wp-content/uploads/2021/12/logo150.png" group-title="Poland" radio="true",Radio Kielce
-https://streaming.g-news.pl:8030/rk2
 # 72FM: https://72fm.com/station/cff50d8d-b639-4e6f-9815-32eb3c24081c?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",RMF Chopin + FAKTY
 http://31.192.216.8/CHOPINF
+# 72FM: https://72fm.com/station/e252d1b9-1b55-4f49-8cb0-b28fadd68fea?source=m3u
+#EXTINF:-1 tvg-logo="https://radiokielce.pl/wp-content/uploads/2021/12/logo150.png" group-title="Poland" radio="true",Radio Kielce
+https://streaming.g-news.pl:8030/rk2
 # 72FM: https://72fm.com/station/960fdbd1-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Toksyna FM New Romantic
 http://s01.toksyna.fm:8020/
@@ -847,12 +850,12 @@ http://stream2.technologicznie.net/konin.fm
 # 72FM: https://72fm.com/station/b7b409d6-689d-4977-ba74-8ead870e1ccd?source=m3u
 #EXTINF:-1 tvg-logo="https://discoparty.pl/wp-content/uploads/2020/06/logo.png" group-title="Poland" radio="true",DiscoParty.pl - Disco Polo
 https://s1.slotex.pl/shoutcast/7432/stream?sid=1
-# 72FM: https://72fm.com/station/a79ce643-387f-4b32-a956-c857d47fa39e?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioplus.pl/favicon.ico" group-title="Poland" radio="true",Radio Plus Koszalin
-http://ic1.smcdn.pl/4270-1.aac
 # 72FM: https://72fm.com/station/405285f7-d4b3-4cfb-a2f7-120a6876d7ae?source=m3u
 #EXTINF:-1 tvg-logo="https://gfx-player.radiozet.pl/design/player_radiozet/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",Zet 90s
 https://zt02.cdn.eurozet.pl/ZET090.mp3
+# 72FM: https://72fm.com/station/a79ce643-387f-4b32-a956-c857d47fa39e?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radioplus.pl/favicon.ico" group-title="Poland" radio="true",Radio Plus Koszalin
+http://ic1.smcdn.pl/4270-1.aac
 # 72FM: https://72fm.com/station/40114c00-90ca-4c7d-a5b2-2f91616cacae?source=m3u
 #EXTINF:-1 tvg-logo="https://gfx.chillizet.pl/extension/chillizet/design/standard/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",Chilli ZET
 https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx
@@ -895,12 +898,9 @@ https://houseoffunk.eu:8443/live
 # 72FM: https://72fm.com/station/4a9151f9-835c-4c58-bda3-9084ed6addbc?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio ZET
 https://zt01.cdn.eurozet.pl/zet-net.mp3?redirected=01
-# 72FM: https://72fm.com/station/128bd0bb-26fc-480b-a6ab-249c1db7c0e1?source=m3u
-#EXTINF:-1 tvg-logo="https://rmfmaxxx.pl/assets-22/images/favicons/apple-touch-icon.png" group-title="Poland" radio="true",RMF MAXXX KIELCE
-http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie
 # 72FM: https://72fm.com/station/964aa576-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",MojePolskieRadio - РАДИО ПОЛЬША
 http://stream3.polskieradio.pl:8914/
-# 72FM: https://72fm.com/station/ea305816-dc67-495e-a387-989e293074d1?source=m3u
-#EXTINF:-1 tvg-logo="https://rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",RMF DANCE FAKTY
-http://195.150.20.7/rmf_dance_f
+# 72FM: https://72fm.com/station/128bd0bb-26fc-480b-a6ab-249c1db7c0e1?source=m3u
+#EXTINF:-1 tvg-logo="https://rmfmaxxx.pl/assets-22/images/favicons/apple-touch-icon.png" group-title="Poland" radio="true",RMF MAXXX KIELCE
+http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie

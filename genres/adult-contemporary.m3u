@@ -99,7 +99,7 @@ http://mp3.rtvslo.si/rsi
 http://str01.fluidstream.net:6020/listen.pls
 # 72FM: https://72fm.com/station/9610b7f6-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",947
-http://29073.live.streamtheworld.com/FM947_SC
+http://23623.live.streamtheworld.com:3690/FM947_SC
 # 72FM: https://72fm.com/station/9617d9b0-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Super 100 Tegucigalpa 100.1
 http://27403.live.streamtheworld.com/SUPER100_SC
@@ -208,12 +208,12 @@ https://stream.chiliradio.app/chiliclassics
 # 72FM: https://72fm.com/station/e6592998-c7b2-4b5e-9bc0-d88039f6e096?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",KOZT The Coast
 http://35.153.101.19/caradio-koztfmaac-ibc3?session-id=7dafb0b8d488f2a40b65ea550b5bb71e
-# 72FM: https://72fm.com/station/96427e24-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://radiomaia.com/wp-content/themes/radio/images/favicons/apple-touch-icon-120x120.png" group-title="Adult Contemporary" radio="true",Maya Burgas
-http://rnmediagroup.com:9000/;
 # 72FM: https://72fm.com/station/cd2a7a3e-635b-479b-b75a-156034f734d8?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Desert Underground Radio
 http://s18.myradiostream.com:6878/;
+# 72FM: https://72fm.com/station/96427e24-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://radiomaia.com/wp-content/themes/radio/images/favicons/apple-touch-icon-120x120.png" group-title="Adult Contemporary" radio="true",Maya Burgas
+http://rnmediagroup.com:9000/;
 # 72FM: https://72fm.com/station/cf31588a-9edd-41f3-aad8-d6e297ac1468?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Enrique Iglesias
 https://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio
@@ -316,12 +316,12 @@ http://onair15.xdevel.com:8658/;stream.mp3
 # 72FM: https://72fm.com/station/d5fdc0d9-8aac-4a19-9c3c-3e10692d74f6?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",EPIC CLASSICAL - Classical Study
 https://stream.epic-classical.com/classical-study
-# 72FM: https://72fm.com/station/963f9e3d-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",R.SH Live
-http://streams.rsh.de/rsh-live/mp3-192/mediaplayer
 # 72FM: https://72fm.com/station/f597209f-f524-4daa-a809-282988976b55?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Cher
 https://streaming.exclusive.radio/er/cher/icecast.audio
+# 72FM: https://72fm.com/station/963f9e3d-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",R.SH Live
+http://streams.rsh.de/rsh-live/mp3-192/mediaplayer
 # 72FM: https://72fm.com/station/5a597723-62af-477b-9cd1-8a666ee72b5c?source=m3u
 #EXTINF:-1 tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-transilvania/play_250_250.jpg" group-title="Adult Contemporary" radio="true",Radio Transilvania - Cluj
 https://stream2.radiotransilvania.ro/Cluj
@@ -331,12 +331,12 @@ https://streaming.exclusive.radio/er/lionelrichie/icecast.audio
 # 72FM: https://72fm.com/station/96212a14-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",CFVR 'Mix 103.7' Fort McMurray, AB
 http://cfvr.streamon.fm/stream/CFVR-64k.aac
-# 72FM: https://72fm.com/station/0aa5f3e9-bd09-40ad-84b3-df31f9c92ea9?source=m3u
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Tom Jones
-https://streaming.exclusive.radio/er/tomjones/icecast.audio
 # 72FM: https://72fm.com/station/02639ad0-b482-4abd-a342-434435d20bd0?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Britney Spears
 https://streaming.exclusive.radio/er/britney/icecast.audio
+# 72FM: https://72fm.com/station/0aa5f3e9-bd09-40ad-84b3-df31f9c92ea9?source=m3u
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Tom Jones
+https://streaming.exclusive.radio/er/tomjones/icecast.audio
 # 72FM: https://72fm.com/station/d45a9c6f-8526-11e9-aa30-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/617/5d77b07fec8c4.png" group-title="Adult Contemporary" radio="true",Limerick's Live 95FM
 https://wg.cdn.tibus.net/Live95fm
@@ -358,12 +358,12 @@ http://streamnavs.net:8133/live
 # 72FM: https://72fm.com/station/96231a86-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Heart Sussex 102.4 &103.5
 http://media-ice.musicradio.com/HeartSussexMP3?.mp3
-# 72FM: https://72fm.com/station/8e9677d0-a3ea-482a-a662-00515519b5e3?source=m3u
-#EXTINF:-1 tvg-logo="https://i0.wp.com/spiritfm1039lucena.com/wp-content/uploads/2021/07/logo.png?resize=768%2C768&ssl=1" group-title="Adult Contemporary" radio="true",Spirit FM Lucena 103.9
-http://stream.zeno.fm/fp689r8sty8uv
 # 72FM: https://72fm.com/station/05eda073-6722-49a1-bd0c-7e8eec9efc61?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively America
 https://streaming.exclusive.radio/er/america/icecast.audio
+# 72FM: https://72fm.com/station/8e9677d0-a3ea-482a-a662-00515519b5e3?source=m3u
+#EXTINF:-1 tvg-logo="https://i0.wp.com/spiritfm1039lucena.com/wp-content/uploads/2021/07/logo.png?resize=768%2C768&ssl=1" group-title="Adult Contemporary" radio="true",Spirit FM Lucena 103.9
+http://stream.zeno.fm/fp689r8sty8uv
 # 72FM: https://72fm.com/station/e3f8d228-1bb6-42b9-8771-18daad167de6?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Magic 107.7
 https://stream.revma.ihrhls.com/zc597
@@ -408,25 +408,25 @@ http://centova.radio.com.pt:9470/;
 https://ice9.securenetsystems.net/KLTAHD2
 # 72FM: https://72fm.com/station/96306815-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",R.SH Live
-http://rsh.streamabc.net/regc-rshlive-mp3-128-7643923?sABC=6nor1ppq%230%23r30o443r1929r059s085628511796n57%23fgernzf.efu.qr&aw_0_1st.playerid=streams.rsh.de&amsparams=playerid:streams.rsh.de;skey:1790844109
+http://rsh.streamabc.net/regc-rshlive-mp3-128-7643923?sABC=6npq4s9o%230%23r30o443r1929r059s085628511796n57%23fgernzf.efu.qr&aw_0_1st.playerid=streams.rsh.de&amsparams=playerid:streams.rsh.de;skey:1791840155
 # 72FM: https://72fm.com/station/cd706e3b-e435-4e5a-bf8e-c0e2c5072de0?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Power Hit Radio
 https://ice.leviracloud.eu/phr96-aac?
 # 72FM: https://72fm.com/station/96289778-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Big R Radio - The Love Channel
 http://bigrradio.cdnstream1.com/5207_128
-# 72FM: https://72fm.com/station/9647da10-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",KroneHit Radio
-http://onair-ha1.krone.at/kronehit.aac
 # 72FM: https://72fm.com/station/2e789a5c-c032-4bf1-8da9-04ab7944cb04?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wXT2vZ5ai-MAEN-oO3BwFpOulBYlDqoywVnQBDR9uDIMHo0yK02Osa_RT5wBSgDKbw=w240-h480-rw" group-title="Adult Contemporary" radio="true",Radio Agricultura
 https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
-# 72FM: https://72fm.com/station/a2936e90-af4f-4bfb-9e41-666e76324054?source=m3u
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Amy Winehouse
-https://streaming.exclusive.radio/er/amywinehouse/icecast.audio
+# 72FM: https://72fm.com/station/9647da10-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",KroneHit Radio
+http://onair-ha1.krone.at/kronehit.aac
 # 72FM: https://72fm.com/station/962b1a03-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiocompanyeasy.com/wp-content/uploads/2016/02/20160217-icona-radio-company-easy.png" group-title="Adult Contemporary" radio="true",Radio Company Easy
 http://ice02.fluidstream.net/ceasy.aac
+# 72FM: https://72fm.com/station/a2936e90-af4f-4bfb-9e41-666e76324054?source=m3u
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Amy Winehouse
+https://streaming.exclusive.radio/er/amywinehouse/icecast.audio
 # 72FM: https://72fm.com/station/8bfdc158-7c6e-4778-9449-3973f384da35?source=m3u
 #EXTINF:-1 tvg-logo="https://m.facebook.com/favicon.ico" group-title="Adult Contemporary" radio="true",Big Sound FM Baguio
 http://162.220.162.10:8184/stream
@@ -499,12 +499,12 @@ https://ice7.securenetsystems.net/THEMIX
 # 72FM: https://72fm.com/station/9628cb4c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Gelosa
 http://ice02.fluidstream.net/gelosa
-# 72FM: https://72fm.com/station/ced4eb46-0a32-4ea7-bf28-e26c94d989f8?source=m3u
-#EXTINF:-1 tvg-logo="https://masmusica.lanacion.com.ar/assets/img/favicon.png" group-title="Adult Contemporary" radio="true",LA NACION 104.9
-https://stream.radio.co/s2ed3bec0a/listen
 # 72FM: https://72fm.com/station/942218e4-32f2-4131-8a73-e3432a8cf4d0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioportal.ecatolico.com/images/stations/absoluteradio.webp" group-title="Adult Contemporary" radio="true",Absolute Radio
 http://stream-ar.planetradio.co.uk/absoluteradiohigh.aac??direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true%20#EXTINF:0,Absolute%2080s
+# 72FM: https://72fm.com/station/ced4eb46-0a32-4ea7-bf28-e26c94d989f8?source=m3u
+#EXTINF:-1 tvg-logo="https://masmusica.lanacion.com.ar/assets/img/favicon.png" group-title="Adult Contemporary" radio="true",LA NACION 104.9
+https://stream.radio.co/s2ed3bec0a/listen
 # 72FM: https://72fm.com/station/962cf6fb-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiopiper.it/wp-content/uploads/2023/01/cropped-logo-radio-piper-definitivo-png-1-180x180.png" group-title="Adult Contemporary" radio="true",Radio Piper
 http://s7.myradiostream.com:5466/stream
@@ -525,7 +525,7 @@ http://stream.revma.ihrhls.com/zc1173
 https://stream.zeno.fm/gxjhbloltwluv
 # 72FM: https://72fm.com/station/963a5fac-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",WJXA 'Mix 92.9' Nashville, TN
-http://29320.live.streamtheworld.com:3690/WJXAFMAAC_SC
+http://29312.live.streamtheworld.com:3690/WJXAFMAAC_SC
 # 72FM: https://72fm.com/station/37830480-1017-4e66-a64b-efa95d89ae5d?source=m3u
 #EXTINF:-1 tvg-logo="https://radiogdansk.pl/wp-content/uploads/2020/12/radio-gdansk-logo.svg" group-title="Adult Contemporary" radio="true",Radio Gdańsk REGIONY DAB2
 https://stream.task.gda.pl:8443/rg4
@@ -591,34 +591,34 @@ http://s1.knixx.fm/dein_webradio_128.mp3
 https://stream.revma.ihrhls.com/zc689/hls.m3u8
 # 72FM: https://72fm.com/station/9647581e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",XHRC-FM 'Mix 91.7' Puebla, PU
-http://14933.live.streamtheworld.com:3690/XHRCFMAAC_SC
+http://29317.live.streamtheworld.com/XHRCFMAAC_SC
 # 72FM: https://72fm.com/station/96198f99-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Rádio Popular Afifense
 http://centova.radio.com.pt:8471/;
 # 72FM: https://72fm.com/station/9637b20e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Stella FM
 http://onair11.xdevel.com:8108/;stream.mp3
-# 72FM: https://72fm.com/station/2ea918d2-e9e3-11e9-a96c-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",Балтик Плюс
-http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
 # 72FM: https://72fm.com/station/f06d626d-da8a-49e6-a29e-94f534319c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",94.5 Mix FM
 http://www.ophanim.net:8970/live
 # 72FM: https://72fm.com/station/96231699-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Heart Cornwall 105.1 &107.0
 http://media-ice.musicradio.com/HeartCornwallMP3
+# 72FM: https://72fm.com/station/2ea918d2-e9e3-11e9-a96c-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Балтик Плюс
+http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
 # 72FM: https://72fm.com/station/3b90e565-c730-4015-9b69-f3028c74fa63?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Power 102.1
 https://stream.revma.ihrhls.com/zc3196
 # 72FM: https://72fm.com/station/96495b41-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",XHIDO-FM 'Super Stereo 100.5' Tula, HG
-http://29321.live.streamtheworld.com/XHIDOFMGAVCAAC_SC
-# 72FM: https://72fm.com/station/876485d3-5552-494b-b241-079fe09b592d?source=m3u
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/B53XD4NWpt.jpg" group-title="Adult Contemporary" radio="true",Decada FM 100.1
-http://streaming5.elitecomunicacion.es:8230/;
+http://29308.live.streamtheworld.com/XHIDOFMGAVCAAC_SC
 # 72FM: https://72fm.com/station/73a8f976-b9ac-4d69-a8e6-cacede578300?source=m3u
 #EXTINF:-1 tvg-logo="https://lapoderosa1041.com/wp-content/uploads/2022/11/log-la-poderosa-fm-300x300.png" group-title="Adult Contemporary" radio="true",La Poderosa 104.1 FM
 https://samuel.i-radio.co:8001/araunastereo
+# 72FM: https://72fm.com/station/876485d3-5552-494b-b241-079fe09b592d?source=m3u
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/B53XD4NWpt.jpg" group-title="Adult Contemporary" radio="true",Decada FM 100.1
+http://streaming5.elitecomunicacion.es:8230/;
 # 72FM: https://72fm.com/station/0d17a57f-3940-41d5-95e6-fefc800aa5bb?source=m3u
 #EXTINF:-1 tvg-logo="https://rakradio.ae/wp-content/uploads/2025/05/fac-LOGO-RAK.jpg" group-title="Adult Contemporary" radio="true",Rak Radio UAE
 https://stream.chiliradio.app/gulfradio
@@ -661,12 +661,12 @@ https://hilversumdrie.beheerstream.nl/8038/stream
 # 72FM: https://72fm.com/station/962a02ac-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Vallebelbo
 http://nr9.newradio.it:9581/stream
-# 72FM: https://72fm.com/station/963f870c-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",CKWM 'Magic 94.9' Kentville, NS
-http://mbsradio.leanstream.co/CKWMFM-MP3
 # 72FM: https://72fm.com/station/9626acfe-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Bari
 http://s6.mediastreaming.it:9062/;
+# 72FM: https://72fm.com/station/963f870c-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",CKWM 'Magic 94.9' Kentville, NS
+http://mbsradio.leanstream.co/CKWMFM-MP3
 # 72FM: https://72fm.com/station/9632da92-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",WWNW 88.9 'Titan Radio' Westminster College - New Wilmington, PA
 http://ice64.securenetsystems.net/WWNW
@@ -736,21 +736,24 @@ http://nr8.newradio.it:9095/;
 # 72FM: https://72fm.com/station/232e3e60-3e09-11ea-8dd7-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Calima
 https://escucha.calima.fm/stream
-# 72FM: https://72fm.com/station/9648cb03-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",Best Net Radio - The Mix
-http://bigrradio.cdnstream1.com/5169_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=180023.mp3
 # 72FM: https://72fm.com/station/962dec21-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Diffusione Firenze
 http://onair22.streaming.xdevel.com:8244/;stream.mp3
 # 72FM: https://72fm.com/station/4e6a2979-f2b2-4045-911a-cc4c94c1f5f8?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",106.1 The Breeze
 https://stream.revma.ihrhls.com/zc2001
+# 72FM: https://72fm.com/station/9648cb03-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Best Net Radio - The Mix
+http://bigrradio.cdnstream1.com/5169_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=180023.mp3
 # 72FM: https://72fm.com/station/79189808-a405-4a55-9b1e-a48f6533acdd?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",90 FM (95.2(
 http://185.23.192.118:8010/;
 # 72FM: https://72fm.com/station/68c0c168-999f-11e9-a605-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiomantova.it/favicon.ico" group-title="Adult Contemporary" radio="true",Radio Mantova
 https://onair20.xdevel.com/proxy/radiomantova?mp=/stream/;
+# 72FM: https://72fm.com/station/a2934367-5e6b-4729-81e0-6ed3d5708551?source=m3u
+#EXTINF:-1 tvg-logo="https://gitlab.com/alexby306/host-images/-/raw/main/rampower.png" group-title="Adult Contemporary" radio="true",Ram Power 102.7
+https://stream.ram.radio/audio/ram.stream_aac64/chunklist.m3u8
 # 72FM: https://72fm.com/station/24ecf801-3b54-4512-8a7d-9c11fcb505fe?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Q102 WIOQ FM 102.1 Philladelphia
 http://stream.revma.ihrhls.com/zc1997
@@ -760,42 +763,39 @@ https://s.bul.tec.br:8020/128
 # 72FM: https://72fm.com/station/96216880-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",CKUL 'Mix 96.5' Halifax, NS
 http://newcap.leanstream.co/CKULFM
-# 72FM: https://72fm.com/station/a2934367-5e6b-4729-81e0-6ed3d5708551?source=m3u
-#EXTINF:-1 tvg-logo="https://gitlab.com/alexby306/host-images/-/raw/main/rampower.png" group-title="Adult Contemporary" radio="true",Ram Power 102.7
-https://stream.ram.radio/audio/ram.stream_aac64/chunklist.m3u8
-# 72FM: https://72fm.com/station/c814bc71-e223-42ba-a3e7-b0aece90d6c2?source=m3u
-#EXTINF:-1 tvg-logo="https://edelweiss.fm/wp-content/uploads/2022/07/logo-edelweiss-100x100.png" group-title="Adult Contemporary" radio="true",Radio Edelweiss
-https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
 # 72FM: https://72fm.com/station/6dc08a7c-a2a1-11e8-abb8-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",InTheMixRadio
 http://stream.laut.fm/inthemixradio
 # 72FM: https://72fm.com/station/7ded1b30-6581-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="Adult Contemporary" radio="true",Heart Plymouth 97.0 & 96.6
 http://media-sov.musicradio.com/HeartPlymouth
-# 72FM: https://72fm.com/station/afecee5c-8ecd-4350-9218-7c6fd080a39c?source=m3u
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",delilah stories and songs matched perfectly
-https://stream.revma.ihrhls.com/zc4846
+# 72FM: https://72fm.com/station/c814bc71-e223-42ba-a3e7-b0aece90d6c2?source=m3u
+#EXTINF:-1 tvg-logo="https://edelweiss.fm/wp-content/uploads/2022/07/logo-edelweiss-100x100.png" group-title="Adult Contemporary" radio="true",Radio Edelweiss
+https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
 # 72FM: https://72fm.com/station/ba50a94d-f0cf-11e8-a471-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",KZHP-LP K-ZAP
 http://ice9.securenetsystems.net/KZHP
+# 72FM: https://72fm.com/station/afecee5c-8ecd-4350-9218-7c6fd080a39c?source=m3u
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",delilah stories and songs matched perfectly
+https://stream.revma.ihrhls.com/zc4846
+# 72FM: https://72fm.com/station/d5bba736-3d53-49bb-b901-872b2b6c0138?source=m3u
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",FM Horizonte (revival 101.9)
+https://redirector.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/hztear/playlist/manifest/gotardisz/audio/now/livestream1.m3u8
 # 72FM: https://72fm.com/station/e26833a6-d154-4986-9267-67f0af436505?source=m3u
 #EXTINF:-1 tvg-logo="https://www.star943.com/favicon.ico" group-title="Adult Contemporary" radio="true",STAR 94.3
 https://ice10.securenetsystems.net/KHKU
 # 72FM: https://72fm.com/station/aa4ff657-8c47-4c45-aa8e-f6ece6d4001c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hr1.de/favicon.png?v=3.84.2" group-title="Adult Contemporary" radio="true",hr1 Südhessen
 https://dispatcher.rndfnk.com/hr/hr1/suedhessen/high
-# 72FM: https://72fm.com/station/d5bba736-3d53-49bb-b901-872b2b6c0138?source=m3u
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",FM Horizonte (revival 101.9)
-https://redirector.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/hztear/playlist/manifest/gotardisz/audio/now/livestream1.m3u8
-# 72FM: https://72fm.com/station/ed421b3e-d381-4046-9175-e0bdad8f08b7?source=m3u
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WGSY.jpg" group-title="Adult Contemporary" radio="true",Sunny 94.7
-https://stream.revma.ihrhls.com/zc3390
 # 72FM: https://72fm.com/station/4de4e148-f5f5-4cb9-9b8c-020e73f8d7be?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Big 98.7
 https://ice3.securenetsystems.net/KLTA
 # 72FM: https://72fm.com/station/96231406-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Heart Berkshire 102.9 & 97.0
 http://media-ice.musicradio.com/HeartBerkshireMP3?.mp3
+# 72FM: https://72fm.com/station/ed421b3e-d381-4046-9175-e0bdad8f08b7?source=m3u
+#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/WGSY.jpg" group-title="Adult Contemporary" radio="true",Sunny 94.7
+https://stream.revma.ihrhls.com/zc3390
 # 72FM: https://72fm.com/station/9621347f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",CHYR 'MIX 96.7' Leamington, ON
 http://live.leanstream.co/CHYRFM
@@ -820,15 +820,15 @@ http://streamall.alsolnet.com/radiolightfm
 # 72FM: https://72fm.com/station/20025e34-3f12-4ed2-8980-243a864c1bcf?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFcQL10/logod.png" group-title="Adult Contemporary" radio="true",Pulse FM Hobart - Radio Jukebox (AAC+)
 http://icemedia.pulsefm.com.au:8000/au_tas_net_radiojukebox
-# 72FM: https://72fm.com/station/91f612a6-ea55-47c1-8eba-ddf997321bdf?source=m3u
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",Woods Hit Radio AC
-https://cast4.asurahosting.com/proxy/nigel/stream
 # 72FM: https://72fm.com/station/2ee024c7-2561-4b38-894d-1be1a7b5f2e8?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Radio Freee 89.9
 https://streaming.radio.lublin.pl:8843/radiofreeeacp
 # 72FM: https://72fm.com/station/9628d873-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioflash.fm/wp-content/uploads/2019/06/cropped-cropped-logo-radio-flash-standard-180x180.png" group-title="Adult Contemporary" radio="true",Radio Flash
 http://onair15.xdevel.com:9230/listen.pls
+# 72FM: https://72fm.com/station/91f612a6-ea55-47c1-8eba-ddf997321bdf?source=m3u
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",Woods Hit Radio AC
+https://cast4.asurahosting.com/proxy/nigel/stream
 # 72FM: https://72fm.com/station/8f410c30-2231-405e-9808-96c15cc545df?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Now 1051
 https://stream.revma.ihrhls.com/zc913
@@ -841,12 +841,12 @@ http://sr1.inmystream.info:8333/;stream.mp3
 # 72FM: https://72fm.com/station/3730ef31-af44-4b3f-8326-c2eb0cd13f8e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.magic979boise.com/favicon.ico" group-title="Adult Contemporary" radio="true",Magic 97.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/KQFCFMAAC.aac
-# 72FM: https://72fm.com/station/964270aa-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiosystem.net/wp-content/uploads/2017/01/sy-ico-100x100.png" group-title="Adult Contemporary" radio="true",Radio System Network
-http://178.32.139.184:8110/stream
 # 72FM: https://72fm.com/station/7addaa41-027a-433c-833e-dcdf1dbec372?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Jam'n 94.5
 https://stream.revma.ihrhls.com/zc1089
+# 72FM: https://72fm.com/station/964270aa-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiosystem.net/wp-content/uploads/2017/01/sy-ico-100x100.png" group-title="Adult Contemporary" radio="true",Radio System Network
+http://178.32.139.184:8110/stream
 # 72FM: https://72fm.com/station/c26fe099-0b50-444d-b425-68a498e8636f?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2WSdxp/Brand-Tile-N100.png" group-title="Adult Contemporary" radio="true",Nova 100 - Melbourne - 100.3 FM (AAC+ 320k)
 http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320.aac
@@ -871,24 +871,24 @@ http://16613.live.streamtheworld.com:3690/KELOFMAAC_SC
 # 72FM: https://72fm.com/station/f78b5faa-d2a0-4c91-b891-e8889664d460?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Argovia-logo.svg/800px-Argovia-logo.svg.png" group-title="Adult Contemporary" radio="true",Radio Argovia
 https://stream.streambase.ch/argovia/mp3-192/radiobrowser/
-# 72FM: https://72fm.com/station/2b9745a6-9155-44f6-adfe-e62ff9361d7e?source=m3u
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/11/62090e452aff2.png" group-title="Adult Contemporary" radio="true",Original 106
-https://listen-original.sharp-stream.com/original106.mp3
 # 72FM: https://72fm.com/station/cf06f7eb-500f-44b8-a8a0-1461d490421e?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",011.FM - Cruise Control - Road Trip Radio
 https://listen.011fm.com/stream30
-# 72FM: https://72fm.com/station/96229cb0-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Adult Contemporary" radio="true",CJSB 104.5 'CJ104' Swan River, MB
-http://dns4.83north.ca:8000/cjsb.mp3
+# 72FM: https://72fm.com/station/2b9745a6-9155-44f6-adfe-e62ff9361d7e?source=m3u
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/11/62090e452aff2.png" group-title="Adult Contemporary" radio="true",Original 106
+https://listen-original.sharp-stream.com/original106.mp3
 # 72FM: https://72fm.com/station/8fd90d91-97a6-48dd-8da8-c58dac1951dd?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/DM_95.5.JPG/revision/latest?cb=20160814112718" group-title="Adult Contemporary" radio="true",DWDM fm 95.5
 http://n09.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlNUkOegAd71tiQORW5Lo8A
-# 72FM: https://72fm.com/station/5745cb33-e36c-4447-aebd-35b59dad9e1b?source=m3u
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Josh Groban
-https://streaming.exclusive.radio/er/joshgroban/icecast.audio
 # 72FM: https://72fm.com/station/963444e6-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",RCS Radio Camaldoli Stereo
 http://ice04.fluidstream.net/fluid0401.mp3
+# 72FM: https://72fm.com/station/96229cb0-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Adult Contemporary" radio="true",CJSB 104.5 'CJ104' Swan River, MB
+http://dns4.83north.ca:8000/cjsb.mp3
+# 72FM: https://72fm.com/station/5745cb33-e36c-4447-aebd-35b59dad9e1b?source=m3u
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="Adult Contemporary" radio="true",Exclusively Josh Groban
+https://streaming.exclusive.radio/er/joshgroban/icecast.audio
 # 72FM: https://72fm.com/station/9624fa89-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Adult Contemporary" radio="true",Veronica My Radio
 http://sphera.fluidstream.eu/rpd_country.mp3?FLID=7

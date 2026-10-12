@@ -211,12 +211,12 @@ https://streaming.positivity.radio/pr/maxrichter/icecast.audio
 # 72FM: https://72fm.com/station/8f3e8cb4-fdc7-4aeb-a17c-2a3a174d09f7?source=m3u
 #EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Classical Radio - André Rieu
 https://drive.uber.radio/uber/crandrerieu/icecast.audio
-# 72FM: https://72fm.com/station/21c08eec-61db-4b0d-93bd-66b2eb35ca0d?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Carpenters
-https://streaming.exclusive.radio/er/carpenters/icecast.audio
 # 72FM: https://72fm.com/station/e91f0c88-ab95-4278-9b8a-71ea66f8755e?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Genesis
 https://2.mystreaming.net/er/genesis/icecast.audio
+# 72FM: https://72fm.com/station/21c08eec-61db-4b0d-93bd-66b2eb35ca0d?source=m3u
+#EXTINF:-1 group-title="United Arab Emirates" radio="true",Carpenters
+https://streaming.exclusive.radio/er/carpenters/icecast.audio
 # 72FM: https://72fm.com/station/d52a564e-5117-4b65-a8ea-a84405ab7e86?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Shakira
 https://streaming.exclusive.radio/er/shakira/icecast.audio
@@ -226,15 +226,15 @@ https://streaming.exclusive.radio/er/lennon/icecast.audio
 # 72FM: https://72fm.com/station/11e45095-74a0-45d7-a8d3-ce2498ea7c17?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Paul McCartney
 https://streaming.exclusive.radio/er/paulmccartney/icecast.audio
+# 72FM: https://72fm.com/station/55ef86d6-d820-49cd-9e79-c613609a52c2?source=m3u
+#EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively - Metallica
+https://streaming.exclusive.radio/er/metallica/icecast.audio
 # 72FM: https://72fm.com/station/4fe87d66-5079-4e32-82a6-4f962cafa2ff?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively The Clash
 https://streaming.exclusive.radio/er/theclash/icecast.audio
 # 72FM: https://72fm.com/station/319a9758-9b6b-4aa6-8415-432e43c46d1e?source=m3u
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/brand/af0845bf-87b2-4abd-a401-8e0029bb2696.png" group-title="United Arab Emirates" radio="true",Exclusively Madonna
 https://streaming.exclusive.radio/er/madonna/icecast.audio
-# 72FM: https://72fm.com/station/55ef86d6-d820-49cd-9e79-c613609a52c2?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively - Metallica
-https://streaming.exclusive.radio/er/metallica/icecast.audio
 # 72FM: https://72fm.com/station/2bfd4b42-f578-4b76-9d24-970938428820?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Alice Cooper (Only Hits)
 https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio
@@ -259,12 +259,12 @@ https://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio
 # 72FM: https://72fm.com/station/10ce6d05-5fc3-4c5c-83b1-f1e8397b0573?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Stone Temple Pilots
 https://streaming.exclusive.radio/er/stonetemplepilots/icecast.audio
-# 72FM: https://72fm.com/station/5023aea1-ca11-4c8c-9e9a-592b31e9bbb4?source=m3u
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Simon And Garfunkel
-https://streaming.exclusive.radio/er/simongarfunkle/icecast.audio
 # 72FM: https://72fm.com/station/cf31588a-9edd-41f3-aad8-d6e297ac1468?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Enrique Iglesias
 https://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio
+# 72FM: https://72fm.com/station/5023aea1-ca11-4c8c-9e9a-592b31e9bbb4?source=m3u
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Simon And Garfunkel
+https://streaming.exclusive.radio/er/simongarfunkle/icecast.audio
 # 72FM: https://72fm.com/station/8cdd871a-24c3-4902-8708-071580f9763b?source=m3u
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="United Arab Emirates" radio="true",Exclusively Frank Sinatra
 http://streaming.exclusive.radio/er/franksinatra/icecast.audio
@@ -403,12 +403,12 @@ https://streaming.positivity.radio/pr/workoutrelax/icecast.audio
 # 72FM: https://72fm.com/station/def163ef-5dc7-42a3-a3b6-fb4e51acea87?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Ella Fitzgerald
 https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio
-# 72FM: https://72fm.com/station/0aa5f3e9-bd09-40ad-84b3-df31f9c92ea9?source=m3u
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Tom Jones
-https://streaming.exclusive.radio/er/tomjones/icecast.audio
 # 72FM: https://72fm.com/station/02639ad0-b482-4abd-a342-434435d20bd0?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Britney Spears
 https://streaming.exclusive.radio/er/britney/icecast.audio
+# 72FM: https://72fm.com/station/0aa5f3e9-bd09-40ad-84b3-df31f9c92ea9?source=m3u
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Tom Jones
+https://streaming.exclusive.radio/er/tomjones/icecast.audio
 # 72FM: https://72fm.com/station/116345d6-53cd-43b2-9786-7ed7cfab553e?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively ZZ Top
 https://2.mystreaming.net/er/zztop/icecast.audio
@@ -421,12 +421,12 @@ https://streaming.exclusive.radio/er/steelydan/icecast.audio
 # 72FM: https://72fm.com/station/a36e9159-c20d-4c35-9459-739dc6132c4a?source=m3u
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/47b15c2e-423c-4648-bb2f-7bef025e5ba4.png" group-title="United Arab Emirates" radio="true",Positively Sleepy -om
 https://streaming.positivity.radio/pr/posisleepy/icecast.audio
-# 72FM: https://72fm.com/station/13508bd6-7606-438d-9e41-73b705ec660c?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="United Arab Emirates" radio="true",Classical Radio - John Williams (guitarist)
-https://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio
 # 72FM: https://72fm.com/station/2d8c3cf2-ed51-4b5f-a58d-e1857470ffa4?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Rod Stewart Hits
 https://streaming.exclusive.radio/er/rodstewarthits/icecast.audio
+# 72FM: https://72fm.com/station/13508bd6-7606-438d-9e41-73b705ec660c?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="United Arab Emirates" radio="true",Classical Radio - John Williams (guitarist)
+https://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio
 # 72FM: https://72fm.com/station/77b2862f-1bbc-4e5e-ae21-50311a4b20c8?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Simple Minds
 https://nl4.mystreaming.net/er/simpleminds/icecast.audio
@@ -487,12 +487,12 @@ http://drive.uber.radio/uber/crhandel/icecast.audio
 # 72FM: https://72fm.com/station/7f6680f8-21fd-40a2-a5c7-fc6fa9d38d17?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="United Arab Emirates" radio="true",Classical Radio - Schubert
 https://drive.uber.radio/uber/crschubert/icecast.audio
-# 72FM: https://72fm.com/station/7aadf3a9-3f0f-4928-b5c8-6090c82a9a7e?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="United Arab Emirates" radio="true",Classical Radio - Brahms
-https://drive.uber.radio/uber/crbrahms/icecast.audio
 # 72FM: https://72fm.com/station/23ba9a6d-fc16-4ae6-85f5-52265b8eaa32?source=m3u
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/9f9e3c8f-59ee-47dd-ab88-32bbd1547223.png" group-title="United Arab Emirates" radio="true",Rock The World - Heavy Metal
 https://drive.uber.radio/uber/rtwheavymetal/icecast.audio
+# 72FM: https://72fm.com/station/7aadf3a9-3f0f-4928-b5c8-6090c82a9a7e?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="United Arab Emirates" radio="true",Classical Radio - Brahms
+https://drive.uber.radio/uber/crbrahms/icecast.audio
 # 72FM: https://72fm.com/station/c8abb9df-2e84-4c9e-9752-9e1c34694cac?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively The Kinks
 https://streaming.exclusive.radio/er/thekinks/icecast.audio
@@ -523,12 +523,12 @@ https://streaming.positivity.radio/pr/posi80s/icecast.audio
 # 72FM: https://72fm.com/station/4b6580ec-bcae-43e7-ac50-a9c337dfa20e?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Cliff Richard
 https://streaming.exclusive.radio/er/cliffrichard/icecast.audio
-# 72FM: https://72fm.com/station/313e2a8d-e241-4983-8fd0-4e8c3f9af6b0?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="United Arab Emirates" radio="true",Classical Radio - Debussy
-https://drive.uber.radio/uber/crdebussy/icecast.audio
 # 72FM: https://72fm.com/station/450076e8-cd0c-4f7f-98b1-578cf8540d4d?source=m3u
 #EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Berlin Philharmonic Orchestra - Classical Radio
 https://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio
+# 72FM: https://72fm.com/station/313e2a8d-e241-4983-8fd0-4e8c3f9af6b0?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="United Arab Emirates" radio="true",Classical Radio - Debussy
+https://drive.uber.radio/uber/crdebussy/icecast.audio
 # 72FM: https://72fm.com/station/6b98923e-6ecb-4f50-afd2-cd93e91d540b?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Cat Stevens
 https://streaming.exclusive.radio/er/catstevens/icecast.audio
@@ -580,12 +580,12 @@ https://nl4.mystreaming.net/er/dianakrall/icecast.audio
 # 72FM: https://72fm.com/station/23b206e7-3801-412c-b779-e0d644fc41b9?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Peter Gabriel
 https://nl4.mystreaming.net/er/petergabriel/icecast.audio
-# 72FM: https://72fm.com/station/a2936e90-af4f-4bfb-9e41-666e76324054?source=m3u
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Amy Winehouse
-https://streaming.exclusive.radio/er/amywinehouse/icecast.audio
 # 72FM: https://72fm.com/station/d170d737-7250-41b4-bef4-a41cc889e101?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively The Beach Boys
 https://streaming.exclusive.radio/er/beachboys/icecast.audio
+# 72FM: https://72fm.com/station/a2936e90-af4f-4bfb-9e41-666e76324054?source=m3u
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Amy Winehouse
+https://streaming.exclusive.radio/er/amywinehouse/icecast.audio
 # 72FM: https://72fm.com/station/dd5a1bb3-ac10-4d77-9b65-e7e7d3d5a952?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively - Bob Marley Hits
 https://streaming.exclusive.radio/er/bobmarleyhits/icecast.audio
@@ -598,15 +598,15 @@ https://drive.uber.radio/uber/lrromanticpiano/icecast.audio
 # 72FM: https://72fm.com/station/bd507231-bd55-49b3-bc45-e259e7bbd2fd?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Crosby, Stills, Nash & Young
 http://2.mystreaming.net/er/csny/icecast.audio
+# 72FM: https://72fm.com/station/fa171cd5-79b0-4f0b-86a2-4d97d2b409bc?source=m3u
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Christina Aguilera
+https://streaming.exclusive.radio/er/christinaaguilera/icecast.audio
 # 72FM: https://72fm.com/station/7f868fe0-78dd-481a-bf77-455bd1ca876c?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Tick Tock Radio - 1978
 https://streaming.ticktock.radio/tt/1978/icecast.audio
 # 72FM: https://72fm.com/station/cf9066b3-aec8-4404-ad29-1f7fa849efb5?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Tears for Fears
 https://nl4.mystreaming.net/er/tearsforfears/icecast.audio
-# 72FM: https://72fm.com/station/fa171cd5-79b0-4f0b-86a2-4d97d2b409bc?source=m3u
-#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Christina Aguilera
-https://streaming.exclusive.radio/er/christinaaguilera/icecast.audio
 # 72FM: https://72fm.com/station/9b0b39bc-a044-400b-82f1-f81198069556?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Keane
 https://streaming.exclusive.radio/er/keane/icecast.audio
@@ -625,12 +625,12 @@ https://streaming.exclusive.radio/er/bbking/icecast.audio
 # 72FM: https://72fm.com/station/560f4338-2483-4269-96ed-d46ff1c61793?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Beastie Boys
 https://streaming.exclusive.radio/er-app/beastieboys/icecast.audio
-# 72FM: https://72fm.com/station/5aac5da3-55ff-4780-897a-4c09608d9a77?source=m3u
-#EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Classical Radio - CALM
-https://drive.uber.radio/uber/crcalm/icecast.audio
 # 72FM: https://72fm.com/station/53f25a3f-fd20-4fcf-b999-b0db140aa794?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively - Oasis Hits
 https://streaming.exclusive.radio/er/oasishits/icecast.audio
+# 72FM: https://72fm.com/station/5aac5da3-55ff-4780-897a-4c09608d9a77?source=m3u
+#EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Classical Radio - CALM
+https://drive.uber.radio/uber/crcalm/icecast.audio
 # 72FM: https://72fm.com/station/dc9ecc9d-49b6-4043-9534-af158c36ba56?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively - Red Hot Chili Peppers
 https://streaming.exclusive.radio/er/chilipeppers/icecast.audio
@@ -679,6 +679,9 @@ https://streaming.exclusive.radio/er/defleppard/icecast.audio
 # 72FM: https://72fm.com/station/7edbf4ef-21ac-46da-8ffa-2aa933690adf?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Huey Lewis & The News
 https://nl4.mystreaming.net/er/hueylewis/icecast.audio
+# 72FM: https://72fm.com/station/284fbda4-14df-4283-ab40-f8f28f2d54bf?source=m3u
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/314e0fdd-80a2-4361-9786-706d37306b71.png" group-title="United Arab Emirates" radio="true",Easy 70s
+https://streaming.exclusive.radio/uber/easy70/icecast.audio
 # 72FM: https://72fm.com/station/c4953a4d-eb82-4520-9dcd-41805a6d541f?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Leonard Cohen
 https://2.mystreaming.net/er/leonardcohen/icecast.audio
@@ -688,9 +691,6 @@ https://streaming.exclusive.radio/er/badcompany/icecast.audio
 # 72FM: https://72fm.com/station/94dea394-0c3e-4002-96a9-b990a6be6f22?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Lady Gaga
 https://nl4.mystreaming.net/er-app/ladygaga/icecast.audio
-# 72FM: https://72fm.com/station/284fbda4-14df-4283-ab40-f8f28f2d54bf?source=m3u
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/314e0fdd-80a2-4361-9786-706d37306b71.png" group-title="United Arab Emirates" radio="true",Easy 70s
-https://streaming.exclusive.radio/uber/easy70/icecast.audio
 # 72FM: https://72fm.com/station/61fe1fca-15ed-443e-b061-288f91b75f9e?source=m3u
 #EXTINF:-1 tvg-logo="https://charlieparkermusic.com/wp-content/uploads/2022/03/CP_Gallery_550x550_006_MAR22.jpg" group-title="United Arab Emirates" radio="true",Exclusively Radio - Charlie Parker
 https://streaming.exclusive.radio/er/charlieparker/icecast.audio
@@ -718,12 +718,12 @@ https://drive.uber.radio/uber/boomerang2010s/icecast.audio
 # 72FM: https://72fm.com/station/23f44360-41f7-4f03-9187-d9234b2537ad?source=m3u
 #EXTINF:-1 tvg-logo="https://www.viaggio-in-austria.it/herbert-von-karajan01.jpg" group-title="United Arab Emirates" radio="true",Herbert Von Karajan - Classical Radio
 https://drive.uber.radio/uber/crherbertvonkarajan/icecast.audio
-# 72FM: https://72fm.com/station/1932180a-251b-4279-920d-c474b8f9d626?source=m3u
-#EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Classica Radio - Ravel
-https://drive.uber.radio/uber/crravel/icecast.audio
 # 72FM: https://72fm.com/station/0d82be69-1a6a-4472-a3ae-4df07d3ad5e5?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Love Radio - 80s
 https://drive.uber.radio/uber/lr1980s/icecast.audio
+# 72FM: https://72fm.com/station/1932180a-251b-4279-920d-c474b8f9d626?source=m3u
+#EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Classica Radio - Ravel
+https://drive.uber.radio/uber/crravel/icecast.audio
 # 72FM: https://72fm.com/station/c18d5463-b6b0-4cff-8131-772196980434?source=m3u
 #EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Maria Callas - Classical Radio
 https://drive.uber.radio/uber/crmariacallas/icecast.audio
@@ -733,12 +733,12 @@ https://drive.uber.radio/uber/crvanessamae/icecast.audio
 # 72FM: https://72fm.com/station/f195ceb3-2559-4494-bbd6-5847df8f4c89?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",World Music Radio - Afrobeats
 https://streaming.exclusive.radio/er/afrobeats/icecast.audio
-# 72FM: https://72fm.com/station/29add650-22e1-4aae-9d3e-74e2fe43c68c?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Billy Joel
-https://streaming.exclusive.radio/er/billyjoel/icecast.audio
 # 72FM: https://72fm.com/station/666d8062-7aef-4d44-81b2-066e6cbe3486?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240328_221624470.jpg?alt=media&token=04fce930-679e-466f-8d36-548b8335d525" group-title="United Arab Emirates" radio="true",C.R - Mozart
 http://drive.uber.radio/uber/crmozart/icecast.audio
+# 72FM: https://72fm.com/station/29add650-22e1-4aae-9d3e-74e2fe43c68c?source=m3u
+#EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Billy Joel
+https://streaming.exclusive.radio/er/billyjoel/icecast.audio
 # 72FM: https://72fm.com/station/907d4937-9a89-4339-a17b-33eb5171e95f?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Exclusively Demi Lovato
 https://streaming.exclusive.radio/er/demilovato/icecast.audio
@@ -754,42 +754,42 @@ https://streaming.positivity.radio/pr/uplifting/icecast.audio
 # 72FM: https://72fm.com/station/36a6e64c-f87e-4cb2-b327-7bef4561f59e?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",World music radio bollywood
 http://streaming.exclusive.radio/er/bollywood/icecast.audio
-# 72FM: https://72fm.com/station/f772609c-e3d0-44e9-8d9c-98c27d177f7a?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively James Taylor
-http://2.mystreaming.net/er/jamestaylor/icecast.audio
 # 72FM: https://72fm.com/station/8d94e08e-384f-4087-a8a1-57e3bfa92679?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Tinder radio bollywood
 https://2.mystreaming.net/uber/bollywoodmix/icecast.audio
+# 72FM: https://72fm.com/station/f772609c-e3d0-44e9-8d9c-98c27d177f7a?source=m3u
+#EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively James Taylor
+http://2.mystreaming.net/er/jamestaylor/icecast.audio
 # 72FM: https://72fm.com/station/585edbea-e697-4791-9ff0-8746a6e46152?source=m3u
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/61662c9c-3f89-4151-804a-f1f7e9207533.png" group-title="United Arab Emirates" radio="true",Positively Rejuvenate 528 Hz -om
 https://streaming.positivity.radio/pr/rejuvenate/icecast.audio
+# 72FM: https://72fm.com/station/7bcabdad-dc4e-4a92-a935-30289f8ce368?source=m3u
+#EXTINF:-1 tvg-logo="https://www.admn.ae/Content/Admedia/images/favicon/favicon.png" group-title="United Arab Emirates" radio="true",Emarat fm
+https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8
 # 72FM: https://72fm.com/station/901d7f2a-2054-44b0-83ed-8ae32a2d3064?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Air Supply
 https://streaming.exclusive.radio/er/airsupply/icecast.audio
 # 72FM: https://72fm.com/station/bb6bd749-04ef-4f0d-87a9-63152f7c3567?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Positively 1920's
 https://streaming.positivity.radio/pr/1920/icecast.audio
-# 72FM: https://72fm.com/station/7bcabdad-dc4e-4a92-a935-30289f8ce368?source=m3u
-#EXTINF:-1 tvg-logo="https://www.admn.ae/Content/Admedia/images/favicon/favicon.png" group-title="United Arab Emirates" radio="true",Emarat fm
-https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8
 # 72FM: https://72fm.com/station/5b360f56-f1f0-4324-b41b-5b695d843a80?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively - Beatles Hits
 https://streaming.exclusive.radio/er/thebeatleshits/icecast.audio
 # 72FM: https://72fm.com/station/1e84076c-416b-43f0-b193-495befafb3f9?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240408_174119295.jpg?alt=media&token=0f95b70e-d702-4a02-9596-9f86ff2531e4" group-title="United Arab Emirates" radio="true",Exclusively Bob Dylan
 http://streaming.exclusive.radio/er/bobdylan/icecast.audio
-# 72FM: https://72fm.com/station/b034e6c9-99f7-48b4-97d2-91f1b6c3e92d?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Andrea Bocelli - Classical Radio
-https://drive.uber.radio/uber/crandreabocelli/icecast.audio
 # 72FM: https://72fm.com/station/3a8242b5-a042-466f-b1ad-45ebe013602a?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",DJ Radio Dubai
 https://listen.radioking.com/radio/623812/stream/685903
-# 72FM: https://72fm.com/station/c9628e44-7c8f-4ad3-b43e-85b6b515d507?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Love Radio - 60s
-https://drive.uber.radio/uber/lr1960s/icecast.audio
 # 72FM: https://72fm.com/station/24718db6-7ced-4a28-a7de-e0c09eeb0095?source=m3u
 #EXTINF:-1 tvg-logo="https://www.admn.ae/Content/Admedia/images/favicon/favicon.png" group-title="United Arab Emirates" radio="true",Abu Dhabi fm
 https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8
+# 72FM: https://72fm.com/station/b034e6c9-99f7-48b4-97d2-91f1b6c3e92d?source=m3u
+#EXTINF:-1 group-title="United Arab Emirates" radio="true",Andrea Bocelli - Classical Radio
+https://drive.uber.radio/uber/crandreabocelli/icecast.audio
+# 72FM: https://72fm.com/station/c9628e44-7c8f-4ad3-b43e-85b6b515d507?source=m3u
+#EXTINF:-1 group-title="United Arab Emirates" radio="true",Love Radio - 60s
+https://drive.uber.radio/uber/lr1960s/icecast.audio
 # 72FM: https://72fm.com/station/bd7aac11-5127-4ffd-8001-d5bbe5031f8b?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively - Bryan Adams Hits
 https://streaming.exclusive.radio/er/bryanadamshits/icecast.audio
@@ -826,12 +826,12 @@ https://drive.uber.radio/uber/cmr50scountry/icecast.audio
 # 72FM: https://72fm.com/station/054d33b7-3d8a-48dd-a7dd-e1e3bb039177?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Joan Baez
 https://streaming.exclusive.radio/er/joanbaez/icecast.audio
-# 72FM: https://72fm.com/station/78a8902c-e809-4965-a5d0-a6d425b91377?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Love Radio - Movies
-https://drive.uber.radio/uber/lrmovies/icecast.audio
 # 72FM: https://72fm.com/station/9b04242d-1f67-4a91-a6db-779cd906a3f3?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Love Radio - French Love Songs
 https://drive.uber.radio/uber/lrfrenchlovesongs/icecast.audio
+# 72FM: https://72fm.com/station/78a8902c-e809-4965-a5d0-a6d425b91377?source=m3u
+#EXTINF:-1 group-title="United Arab Emirates" radio="true",Love Radio - Movies
+https://drive.uber.radio/uber/lrmovies/icecast.audio
 # 72FM: https://72fm.com/station/a3374c90-5fbf-4752-8f42-dc1a187fae36?source=m3u
 #EXTINF:-1 tvg-logo="https://greatesthits.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Greatest Hits 2020's
 https://drive.uber.radio/uber/boomerang2020s/icecast.audio
@@ -880,12 +880,12 @@ https://streaming.exclusive.radio/uber/easyjazz/icecast.audio
 # 72FM: https://72fm.com/station/03ec60d0-3294-459e-bfb5-b5ffa9b95784?source=m3u
 #EXTINF:-1 tvg-logo="https://greatesthits.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Greatest Hits 1950's
 https://drive.uber.radio/uber/boomerang1950s/icecast.audio
-# 72FM: https://72fm.com/station/47c0c887-c68e-4bf6-8d5f-9461b0fd85ca?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusive Radio - George Michael hits
-https://streaming.exclusive.radio/er/georgemichaelhits/icecast.audio
 # 72FM: https://72fm.com/station/970ef008-b56d-4ad3-9153-b6c8a39381da?source=m3u
 #EXTINF:-1 tvg-logo="https://greatesthits.radio/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Greatest Hits 1960's
 https://drive.uber.radio/uber/boomerang1960s/icecast.audio
+# 72FM: https://72fm.com/station/47c0c887-c68e-4bf6-8d5f-9461b0fd85ca?source=m3u
+#EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusive Radio - George Michael hits
+https://streaming.exclusive.radio/er/georgemichaelhits/icecast.audio
 # 72FM: https://72fm.com/station/90fcfb03-8ee7-4835-a5ac-6955a66a3ecd?source=m3u
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/ee7a91c9-47e7-4931-9bb3-d35e222c7d71.png" group-title="United Arab Emirates" radio="true",Positively Sleep Baby -om
 https://streaming.positivity.radio/pr/sleepbaby/icecast.audio
@@ -898,9 +898,9 @@ https://streaming.exclusive.radio/er/emersonlakepalmer/icecast.audio
 # 72FM: https://72fm.com/station/48155c90-7332-435d-a304-45524c80c4fa?source=m3u
 #EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="United Arab Emirates" radio="true",Classical Radio - Vladamir Horowitz
 https://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio
-# 72FM: https://72fm.com/station/7d972ad7-9ca4-45b2-a65a-0e5f7590564d?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively - Nickelback
-https://streaming.exclusive.radio/er/nickelback/icecast.audio
-# 72FM: https://72fm.com/station/58a4d192-429d-452f-b5a9-0e65250217ce?source=m3u
-#EXTINF:-1 group-title="United Arab Emirates" radio="true",Love Radio - 50s
-https://drive.uber.radio/uber/lr1950s/icecast.audio
+# 72FM: https://72fm.com/station/0d17a57f-3940-41d5-95e6-fefc800aa5bb?source=m3u
+#EXTINF:-1 tvg-logo="https://rakradio.ae/wp-content/uploads/2025/05/fac-LOGO-RAK.jpg" group-title="United Arab Emirates" radio="true",Rak Radio UAE
+https://stream.chiliradio.app/gulfradio
+# 72FM: https://72fm.com/station/4591b25e-3801-4aea-a15f-206ea9b5c8b3?source=m3u
+#EXTINF:-1 group-title="United Arab Emirates" radio="true",Sportify bollywood workout radio
+https://2.mystreaming.net/uber/sportifybollywood/icecast.audio

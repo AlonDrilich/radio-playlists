@@ -136,12 +136,12 @@ https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%
 # 72FM: https://72fm.com/station/a4dbc173-c863-462a-9707-d28b3dfae714?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Aplus Beat
 http://107.173.210.247:9000/aplus_beat_128
-# 72FM: https://72fm.com/station/2161c4eb-2d8d-42b0-a480-40b076593332?source=m3u
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/wgfm.png" group-title="Belarus" radio="true",WGFM-Trance
-https://sv.netradio.by/1/128
 # 72FM: https://72fm.com/station/41363e63-9606-40cd-a52a-3689527ead6b?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Radio Unistar
 https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8
+# 72FM: https://72fm.com/station/2161c4eb-2d8d-42b0-a480-40b076593332?source=m3u
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/wgfm.png" group-title="Belarus" radio="true",WGFM-Trance
+https://sv.netradio.by/1/128
 # 72FM: https://72fm.com/station/c482e799-0794-42f3-b740-acdbb813f19d?source=m3u
 #EXTINF:-1 tvg-logo="https://radioslovo.net/assets/css/img/favicon.ico" group-title="Belarus" radio="true",Открытое Слово Инструментальная музыка
 https://rt.radioslovo.net:4275/stream
@@ -160,12 +160,12 @@ http://radio.100fm.by:8000/100fm128
 # 72FM: https://72fm.com/station/7f782637-2ae4-4f7c-b235-90520a7649f1?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Easy Listening BLR
 http://178.172.235.5:8001/10
-# 72FM: https://72fm.com/station/805b48c3-f9ad-4253-8e64-010ca13b5edd?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s167335/images/logod.png?t=636196552593670000" group-title="Belarus" radio="true",TEPLOE RADIO NETOP FM
-https://listen.teploe.net:8001/netopfm
 # 72FM: https://72fm.com/station/a335d5e9-48f7-4ed6-a13e-0b2e4b78f320?source=m3u
 #EXTINF:-1 tvg-logo="https://anothermusicproject.com/gfx/tx.favicon.ico" group-title="Belarus" radio="true",Another Music Project
 https://radio.anothermusicproject.com:8443/idm
+# 72FM: https://72fm.com/station/805b48c3-f9ad-4253-8e64-010ca13b5edd?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s167335/images/logod.png?t=636196552593670000" group-title="Belarus" radio="true",TEPLOE RADIO NETOP FM
+https://listen.teploe.net:8001/netopfm
 # 72FM: https://72fm.com/station/82e3af82-7e7e-4009-846b-e3aea9124315?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Aplus.FM Rock
 https://shoutcast.aplus.fm/aplus_rock_256
@@ -181,9 +181,6 @@ https://s05.volnorez.com/live-app/788219
 # 72FM: https://72fm.com/station/945b1b81-44b2-4249-a9ac-865a5e4f28c9?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Pilot FM
 https://edge2.usp.unistar.by/hls/unistar_pilotfm/96k.m3u8?session_id=60c1fba2-77d4-4180-ab07-4f162b47f3fc
-# 72FM: https://72fm.com/station/9571baa3-8604-442c-ae16-bcd1f593306c?source=m3u
-#EXTINF:-1 group-title="Belarus" radio="true",Вадим Комаров
-http://live.myradio24.com:9000/vasas3_live
 # 72FM: https://72fm.com/station/2ac6aada-0800-4fa6-99f3-d5f49fc5b601?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Radio Alesia
 http://hls.alesia.live/alesia/aac_hifi.m3u8

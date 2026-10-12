@@ -130,12 +130,12 @@ https://radio.rtbf.be/c21-80nw/mp3-128/me
 # 72FM: https://72fm.com/station/550f4b47-a545-4b1d-8c08-3b520c4db329?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg" group-title="Belgium" radio="true",Studio Brussel
 http://icecast.vrtcdn.be/stubru-high.mp3
-# 72FM: https://72fm.com/station/74d0f536-d32d-4d76-88be-2fc0dff8c706?source=m3u
-#EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg" group-title="Belgium" radio="true",Studio Brussel - Vuurland
-http://icecast.vrtcdn.be/stubru_tgs.aac
 # 72FM: https://72fm.com/station/529b71b3-ac05-426c-bd8c-6ae981713900?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1" group-title="Belgium" radio="true",JOE
 https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3
+# 72FM: https://72fm.com/station/74d0f536-d32d-4d76-88be-2fc0dff8c706?source=m3u
+#EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg" group-title="Belgium" radio="true",Studio Brussel - Vuurland
+http://icecast.vrtcdn.be/stubru_tgs.aac
 # 72FM: https://72fm.com/station/f8997dcf-168b-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",RTBF Tarmac
 https://radios.rtbf.be/tarmac-128.mp3
@@ -325,12 +325,12 @@ https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/
 # 72FM: https://72fm.com/station/961bfc7d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.family-radio.be/wp-content/uploads/2019/10/cropped-familyradio.jpg?fit=180%2c180" group-title="Belgium" radio="true",Family Radio (België/Belgique/Belgien)
 http://www.clubfmserver.be:8000/family.mp3
-# 72FM: https://72fm.com/station/961a44de-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Gold FM
-http://stream.goldfm.be:1061/station.mp3
 # 72FM: https://72fm.com/station/109338aa-a5fb-4c1b-a0cc-78961a55324c?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",joe easy
 https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3
+# 72FM: https://72fm.com/station/961a44de-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Gold FM
+http://stream.goldfm.be:1061/station.mp3
 # 72FM: https://72fm.com/station/e76f7cbb-168a-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",RTBF Classic 21 - Soul Power
 https://radios.rtbf.be/wr-c21-soul-128.mp3
@@ -478,6 +478,9 @@ https://france1.coollabel-productions.com/proxy/radiobonheur317/stream
 # 72FM: https://72fm.com/station/07043eda-f335-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Charleking Radio
 http://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3
+# 72FM: https://72fm.com/station/f9373e82-f848-4562-a617-032f075f0d0d?source=m3u
+#EXTINF:-1 tvg-logo="https://impro.usercontent.one/appid/oneComWsb/domain/bestoldiesstation.com/media/bestoldiesstation.com/onewebmedia/BOR%20radio%20%20transparant%20favicon.png?etag=%222260-66d60cec%22&sourceContentType=image%2Fpng" group-title="Belgium" radio="true",BEST OLDIES RADIO (BOR)
+https://a8.asurahosting.com:8090/radio.mp3
 # 72FM: https://72fm.com/station/a9db6569-d9cd-49f9-804f-37e3f7e2e96e?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radio Music Sambre
 http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3
@@ -487,9 +490,6 @@ http://streams.movemedia.eu:8054/
 # 72FM: https://72fm.com/station/ba13002b-03c3-4220-a16b-4a303cf48d26?source=m3u
 #EXTINF:-1 tvg-logo="https://zoe.radio/zoeradio/images/logo-vierkant-512.png" group-title="Belgium" radio="true",ZOE.radio
 https://stream.zoe.radio/
-# 72FM: https://72fm.com/station/f9373e82-f848-4562-a617-032f075f0d0d?source=m3u
-#EXTINF:-1 tvg-logo="https://impro.usercontent.one/appid/oneComWsb/domain/bestoldiesstation.com/media/bestoldiesstation.com/onewebmedia/BOR%20radio%20%20transparant%20favicon.png?etag=%222260-66d60cec%22&sourceContentType=image%2Fpng" group-title="Belgium" radio="true",BEST OLDIES RADIO (BOR)
-https://a8.asurahosting.com:8090/radio.mp3
 # 72FM: https://72fm.com/station/5f1da2ec-e53e-45e3-9df4-54622bb90537?source=m3u
 #EXTINF:-1 tvg-logo="https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico" group-title="Belgium" radio="true",Qmusic Q-Allstars
 https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
@@ -559,18 +559,18 @@ http://s35.myradiostream.com:14472/
 # 72FM: https://72fm.com/station/9619da5e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radio Quartz
 http://manager2.streaming-ingenierie.fr:8026/;stream.mp3
-# 72FM: https://72fm.com/station/a2c5f7f3-31df-4863-9e97-7465e22230b9?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Radio Stars 98.5 FM & DAB+ (Belgium)
-http://stream.radiostars.be:9850/RadioStars.mka
 # 72FM: https://72fm.com/station/f279a49c-b1ac-4e28-a966-ece2a54a87cb?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radio Magic Europ
 http://s4.yesstreaming.net:7162/stream
-# 72FM: https://72fm.com/station/b181374f-fc11-4f7d-a3d6-09d0dad9bb4e?source=m3u
-#EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="Belgium" radio="true",Q-Foute Radio
-https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac?aw_0_1st.skey=1691506785&aw_0_1st.playerid=site-player
+# 72FM: https://72fm.com/station/a2c5f7f3-31df-4863-9e97-7465e22230b9?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Radio Stars 98.5 FM & DAB+ (Belgium)
+http://stream.radiostars.be:9850/RadioStars.mka
 # 72FM: https://72fm.com/station/cb0df887-9378-471f-b445-1c11658753e3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg" group-title="Belgium" radio="true",Studio Brussel - Vuurland
 http://icecast.vrtcdn.be/stubru_tgs-high.mp3
+# 72FM: https://72fm.com/station/b181374f-fc11-4f7d-a3d6-09d0dad9bb4e?source=m3u
+#EXTINF:-1 tvg-logo="https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png" group-title="Belgium" radio="true",Q-Foute Radio
+https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac?aw_0_1st.skey=1691506785&aw_0_1st.playerid=site-player
 # 72FM: https://72fm.com/station/a3b61e54-132e-4c78-b2f9-814b1c21c197?source=m3u
 #EXTINF:-1 tvg-logo="https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png" group-title="Belgium" radio="true",RTBF Classic 21
 http://radio.rtbf.be/c21/aac-128/fl
@@ -601,24 +601,24 @@ https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3
 # 72FM: https://72fm.com/station/6010ee2f-c88e-4ee6-a2a1-1c1526cc48ca?source=m3u
 #EXTINF:-1 tvg-logo="https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg" group-title="Belgium" radio="true",Studio Brussel Zware Gitaren
 http://icecast.vrtcdn.be/stubru_bruut-high.mp3
-# 72FM: https://72fm.com/station/696a4757-5b69-11e8-b0ce-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Gaveromroep
-http://s43.myradiostream.com:18192/
 # 72FM: https://72fm.com/station/1fcdd3c4-5215-4cb2-b5b4-3c0aa3e606d8?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Joe Gold
 https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac
 # 72FM: https://72fm.com/station/9fbd1cde-1be5-4a67-8697-3c60f997e0c0?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",'name': ''undefined' -> 'AFN 360 Benelux'',
 http://28993.live.streamtheworld.com:3690/AFNE_BLX_SC
+# 72FM: https://72fm.com/station/696a4757-5b69-11e8-b0ce-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Gaveromroep
+http://s43.myradiostream.com:18192/
 # 72FM: https://72fm.com/station/0752b600-8f5e-4391-bba7-82f3226d0c64?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",AFN 360 Benelux
 http://28563.live.streamtheworld.com/AFNE_BLX_SC
-# 72FM: https://72fm.com/station/13acd5a9-d83b-4689-9853-0351c905590f?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Afrikana Radio – Live African
-https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3
 # 72FM: https://72fm.com/station/b47dab6a-792b-4fe2-9eda-df3b46e76fbb?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radio Land Van Waas (Stream)
 http://stream.rlvw.be:8480/stream
+# 72FM: https://72fm.com/station/13acd5a9-d83b-4689-9853-0351c905590f?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Afrikana Radio – Live African
+https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3
 # 72FM: https://72fm.com/station/f9bc14bf-6600-4eba-8690-3124a80624ac?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radio Valencia 105 FM - Meer, Be
 https://stream.radiovalencia.be/
@@ -631,33 +631,33 @@ http://www.clubfmserver.be:8000/aktief.mp3
 # 72FM: https://72fm.com/station/e08c290e-a629-4d8d-8de6-bd969815eb86?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Geel fm
 http://geelfm.nsupdate.info:8080/geelfm.mp3
-# 72FM: https://72fm.com/station/1a6b6947-09e1-4f18-8494-214589bcd681?source=m3u
-#EXTINF:-1 tvg-logo="https://joe.be/favicon.ico" group-title="Belgium" radio="true",Joe Lage Landen
-https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3
+# 72FM: https://72fm.com/station/a1ec55ee-e8fe-416c-9ee3-dc174bb4d186?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Q Music België
+https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac
 # 72FM: https://72fm.com/station/21723475-f86e-42e3-8552-ee60db04a981?source=m3u
 #EXTINF:-1 tvg-logo="https://mixxfm.be/assets/favicon.png" group-title="Belgium" radio="true",Mixx FM Charleroi
 https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3
 # 72FM: https://72fm.com/station/244d4b03-93a7-459c-a009-70d433b3f13c?source=m3u
 #EXTINF:-1 tvg-logo="https://radiopros.be/wp-content/uploads/2020/07/logo-PROS.png" group-title="Belgium" radio="true",PROS
 https://stream4.audiostreamen.nl/radiopros
+# 72FM: https://72fm.com/station/1a6b6947-09e1-4f18-8494-214589bcd681?source=m3u
+#EXTINF:-1 tvg-logo="https://joe.be/favicon.ico" group-title="Belgium" radio="true",Joe Lage Landen
+https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3
 # 72FM: https://72fm.com/station/98d4da42-e3d8-41ec-8fb7-006407ef3a39?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioapollo.be/wp-content/uploads/2020/05/cropped-voorsite-1-192x192.jpg" group-title="Belgium" radio="true",Radio Apollo
 https://radioapollo.beheerstream.nl/8004/stream
-# 72FM: https://72fm.com/station/a1ec55ee-e8fe-416c-9ee3-dc174bb4d186?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Q Music België
-https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac
-# 72FM: https://72fm.com/station/5fb2096b-37b3-4c9d-960c-b28515b7b3c8?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",TradCan
-https://dc1.serverse.com/proxy/wiupfvnu?mp=/TradCan
 # 72FM: https://72fm.com/station/182fd9ff-588f-4d71-8ac3-5dd04d599b7f?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Belgian Dance Radio
 https://s4.radio.co/sf5a880a25/listen
-# 72FM: https://72fm.com/station/57238c01-c13f-43d7-b262-e5d1634f5a08?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Radio Campus BXL 92.1 [AAC+]
-https://www.radiocampus.be/stream/stream.aacplus
+# 72FM: https://72fm.com/station/5fb2096b-37b3-4c9d-960c-b28515b7b3c8?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",TradCan
+https://dc1.serverse.com/proxy/wiupfvnu?mp=/TradCan
 # 72FM: https://72fm.com/station/d82a0393-b8b0-46f9-8b49-6938d0406a8d?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",La Cible
 https://quincy.torontocast.com:3195/stream
+# 72FM: https://72fm.com/station/57238c01-c13f-43d7-b262-e5d1634f5a08?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Radio Campus BXL 92.1 [AAC+]
+https://www.radiocampus.be/stream/stream.aacplus
 # 72FM: https://72fm.com/station/c37e5228-a11d-45ed-a49b-2f376bb6d8e7?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Villa Bota
 https://caster04.streampakket.com/proxy/8186/stream
@@ -679,12 +679,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3
 # 72FM: https://72fm.com/station/4163f500-a509-4a0b-bc51-21a65504cdd0?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radio Christina 106.1 FM - Heist o/d Berg , Be
 http://shoutcast2.wirelessbelgie.be:8100/;
-# 72FM: https://72fm.com/station/ae2471de-0487-4cda-ab4d-15d6a355a16a?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Radio Reflex
-http://shoutcast2.wirelessbelgie.be:8510/
 # 72FM: https://72fm.com/station/ae600421-cec3-4913-87d6-ff3669498de1?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioaccent.be/apple-touch-icon.png" group-title="Belgium" radio="true",Accent Radio
 https://www.clubfmserver.be/accent.mp3
+# 72FM: https://72fm.com/station/ae2471de-0487-4cda-ab4d-15d6a355a16a?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Radio Reflex
+http://shoutcast2.wirelessbelgie.be:8510/
 # 72FM: https://72fm.com/station/c3f994a8-1d61-40fd-a31d-fa0befe8beaf?source=m3u
 #EXTINF:-1 tvg-logo="https://xbeat.org/wp-content/uploads/2019/04/cropped-29019567_10214064850427760_1674394533_n-1-1-1-32x32.png" group-title="Belgium" radio="true",XBeat
 https://radio.xbeat.org/stream1
@@ -721,33 +721,33 @@ https://c30.radioboss.fm/stream/1031
 # 72FM: https://72fm.com/station/283ff0b4-6fcf-4178-be8c-bded51c0a374?source=m3u
 #EXTINF:-1 tvg-logo="https://kerst.noordzee105.be/img/Noordzee_Gold78x.png" group-title="Belgium" radio="true",Noordzee Gold
 http://stream.noordzee105.be:8000/gold
-# 72FM: https://72fm.com/station/3e5a83e1-4d52-475f-8db3-e268f03c9073?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Up Radio
-http://upradio.ovh:8054/up-low
 # 72FM: https://72fm.com/station/ccf8ac31-b023-4299-b095-a4346668e7e6?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Boo
 http://stream03.level27.be/;stream.mp3
-# 72FM: https://72fm.com/station/c1dc09fd-16d2-42d6-992d-1d54117d71af?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.radiokix.be/favicon-32x32.png" group-title="Belgium" radio="true",Kix
-http://stream.radiokix.be:10460/live.aac
 # 72FM: https://72fm.com/station/4b4c85ec-334c-4454-9eb0-6ed497f02f4b?source=m3u
 #EXTINF:-1 tvg-logo="https://www.nrj.be/build/images/favicon.ico" group-title="Belgium" radio="true",NRJ+ (Belgique)
 https://stream.rcs.revma.com/1a6hdnzbebuvv
+# 72FM: https://72fm.com/station/3e5a83e1-4d52-475f-8db3-e268f03c9073?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Up Radio
+http://upradio.ovh:8054/up-low
+# 72FM: https://72fm.com/station/c1dc09fd-16d2-42d6-992d-1d54117d71af?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radiokix.be/favicon-32x32.png" group-title="Belgium" radio="true",Kix
+http://stream.radiokix.be:10460/live.aac
 # 72FM: https://72fm.com/station/b444ff49-4a70-403a-9649-4437d4dd4afb?source=m3u
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.oilsjtmjoezik.be%2F" group-title="Belgium" radio="true",Oilsjt Mjoezik
 https://stream.oilsjtmjoezik.be/?1739170252723
 # 72FM: https://72fm.com/station/e205d3a1-442a-4771-b2b2-7d4b037689ea?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Joe
 https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac
-# 72FM: https://72fm.com/station/f6c26185-0944-45f0-8992-54ba74758b59?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Magic Radio Herentals
-http://shoutcast.movemedia.eu/pdgfm
-# 72FM: https://72fm.com/station/262618b1-04fc-468f-b267-5d6c01a5dc07?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Omroep Neteland
-http://media1.hostin.cc/omroepneteland.mp3
 # 72FM: https://72fm.com/station/5588d97b-c204-4637-bf23-76cf863c4349?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-radio.dpgmedia.net/7/32/78/a4/113/JOE_GOLD-7-WEBSITE-220x220.png" group-title="Belgium" radio="true",JOE Gold
 https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3
+# 72FM: https://72fm.com/station/262618b1-04fc-468f-b267-5d6c01a5dc07?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Omroep Neteland
+http://media1.hostin.cc/omroepneteland.mp3
+# 72FM: https://72fm.com/station/f6c26185-0944-45f0-8992-54ba74758b59?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Magic Radio Herentals
+http://shoutcast.movemedia.eu/pdgfm
 # 72FM: https://72fm.com/station/42f795dc-e6e7-4f2c-8f5b-0f904b221ba6?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioeagle.be/wp-content/uploads/2018/04/favicon-32x32.png" group-title="Belgium" radio="true",Radio Eagle
 http://antares.dribbcast.com:4438/xstream?type=http&nocache=874
@@ -781,6 +781,9 @@ http://komilfoo.radioca.st:8195/stream
 # 72FM: https://72fm.com/station/9ff26473-b290-4b99-93a1-be553d9dab2a?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Omroep Voeren - Vroenhoven, Be
 http://stream.omroepvoeren.be/radio/8000/radio.mp3
+# 72FM: https://72fm.com/station/2c768a33-2ceb-4edc-bfd6-bdfc62423fc9?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Radio M FM
+http://149.202.22.75:8248/;
 # 72FM: https://72fm.com/station/526fbab6-08e4-4d0b-aa11-da750e950f55?source=m3u
 #EXTINF:-1 tvg-logo="https://www.fmgoud.be/uploads/3/9/6/3/3963899/logopngtransparant.png" group-title="Belgium" radio="true",FM Goud Tenerife
 https://stream.fmgoud.be/fm-goud-tenerife
@@ -796,9 +799,6 @@ https://radio7.pro-fhi.net:19073/stream.mp3
 # 72FM: https://72fm.com/station/a0fe9ad0-ff20-4e8c-913c-781aad3516bb?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radio BaHeNa - Baarle-Hertog, Be
 http://stream.bahena.be:8000/bahena.mp3
-# 72FM: https://72fm.com/station/2c768a33-2ceb-4edc-bfd6-bdfc62423fc9?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Radio M FM
-http://149.202.22.75:8248/;
 # 72FM: https://72fm.com/station/c5bf1e06-3373-47f1-af77-93a3a82232d0?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radio TRL
 http://stream.radiotrl.be:8000/RadioTRL
@@ -808,6 +808,9 @@ https://icecast.movemedia.be/opsinjoor
 # 72FM: https://72fm.com/station/66d6eb0d-b8d0-4cb3-a62a-fdb77ce6ed2c?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",VRT Verkeer
 https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3
+# 72FM: https://72fm.com/station/6d32244c-98a0-4d3b-9c58-66879a449343?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Radio 100%
+http://live2.radiostudio.be:8000/pros
 # 72FM: https://72fm.com/station/dd9fbcab-d09e-4463-ae02-b06a86b76721?source=m3u
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=330x10000:format=png/path/s9e6a3346d3e8a31d/image/icae1bd052ee3dde8/version/1607257621/image.png" group-title="Belgium" radio="true",Radio Noordzee (192k)
 http://stream.noordzee105.be:8000/noordzee_192
@@ -817,24 +820,24 @@ http://live.radiostudio.be/beonexmas
 # 72FM: https://72fm.com/station/3b7a7f65-7d04-4cc5-952a-5d93484daaeb?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/f57H5FZt9ZyztXUDWFOz0BiO56m7k8tlZWozFWq-BAgWv7z03N13rhcKfouB29gzy8y8=w480-h960-rw" group-title="Belgium" radio="true",BRUZZ
 https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3
-# 72FM: https://72fm.com/station/6d32244c-98a0-4d3b-9c58-66879a449343?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Radio 100%
-http://live2.radiostudio.be:8000/pros
-# 72FM: https://72fm.com/station/edc2021f-3984-41d4-b177-f68a7583e14f?source=m3u
-#EXTINF:-1 tvg-logo="https://www.fiestaradio.be/wp-content/uploads/2020/05/fiesta_radio_logo.png" group-title="Belgium" radio="true",Fiësta Radio
-https://media1.hostin.cc/fiestaradio.mp3
 # 72FM: https://72fm.com/station/0ed0b12c-4102-4607-b99b-a596b3b3bea1?source=m3u
 #EXTINF:-1 tvg-logo="https://usercontent.one/wp/www.radioapollo.be/wp-content/uploads/2023/10/radioapollo.jpg" group-title="Belgium" radio="true",Radio Appolo
 https://loa.beheerstream.nl:8004/stream
 # 72FM: https://72fm.com/station/ff30515d-e04e-4043-b0e2-f2a969e66e6f?source=m3u
 #EXTINF:-1 tvg-logo="https://lorali.be/favicon.ico" group-title="Belgium" radio="true",Radio Lorali
 https://lorali.beheerstream.nl/cp/links.php?p=8014&m=pls
+# 72FM: https://72fm.com/station/edc2021f-3984-41d4-b177-f68a7583e14f?source=m3u
+#EXTINF:-1 tvg-logo="https://www.fiestaradio.be/wp-content/uploads/2020/05/fiesta_radio_logo.png" group-title="Belgium" radio="true",Fiësta Radio
+https://media1.hostin.cc/fiestaradio.mp3
 # 72FM: https://72fm.com/station/bf0d0d82-827f-43e4-a788-e9ad91c72a10?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiooostwest.be/wp-content/uploads/2018/01/cropped-Logo-enkel-32x32.png" group-title="Belgium" radio="true",Radio Oost-West
 https://icecast.movemedia.be/oostwest
 # 72FM: https://72fm.com/station/60fda078-3595-4fc8-ba90-0fde2e6adca3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ajoinmusic.be/" group-title="Belgium" radio="true",Ajoin Music
 https://play.ajoinmusic.be/ajoinmusic.mp3
+# 72FM: https://72fm.com/station/e15074e4-a3f4-4f74-9680-a4153b6fc0ba?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiomemory.be/img/logo/memory-transparant-wit.png" group-title="Belgium" radio="true",Radio Memory
+https://live.radiostudio.be/radiomemory
 # 72FM: https://72fm.com/station/c010c0a8-eb79-4e74-b1fa-7ca5f4aee7da?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radyo Gar
 https://gargara.net/listen/zana/radio.mp3
@@ -844,63 +847,60 @@ https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&
 # 72FM: https://72fm.com/station/ff7d9489-d462-4e88-94b7-e28d6b66545a?source=m3u
 #EXTINF:-1 tvg-logo="https://mooyzo.be/wp-content/uploads/2018/06/mooyzo-favicon.png" group-title="Belgium" radio="true",MooyZo
 http://play.mooyzo.be/mooyzo.mp3
-# 72FM: https://72fm.com/station/e15074e4-a3f4-4f74-9680-a4153b6fc0ba?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiomemory.be/img/logo/memory-transparant-wit.png" group-title="Belgium" radio="true",Radio Memory
-https://live.radiostudio.be/radiomemory
 # 72FM: https://72fm.com/station/fffae114-3107-4796-961d-e04d2287533c?source=m3u
 #EXTINF:-1 tvg-logo="https://citymusic.be/wp-content/uploads/2024/12/City_music_logo-hr-150.jpg" group-title="Belgium" radio="true",CityMusic
 http://play.citymusic.be/citymusic.mp3
-# 72FM: https://72fm.com/station/aba308de-a2a0-4ffb-bd0d-968464da2649?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",radio qui chifel
-http://5.39.80.55:8000/
 # 72FM: https://72fm.com/station/86a75bc0-431d-4a8a-a4f9-f464a3ca98a3?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",Radio Benelux Beringen, be
 http://remote.radiobenelux.be/MP3
+# 72FM: https://72fm.com/station/aba308de-a2a0-4ffb-bd0d-968464da2649?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",radio qui chifel
+http://5.39.80.55:8000/
 # 72FM: https://72fm.com/station/f50df77b-898c-4607-9244-186d026ef637?source=m3u
 #EXTINF:-1 tvg-logo="https://grandprixradio.be/themes/flixi/favicons/apple-touch-icon.png?v=2" group-title="Belgium" radio="true",Grand Prix Radio
 https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1
 # 72FM: https://72fm.com/station/44c203b3-6c5f-4f8f-9ac8-5509ee6108de?source=m3u
 #EXTINF:-1 tvg-logo="https://www.nostalgie.be/favicon.ico" group-title="Belgium" radio="true",Nostalgie Cinema
 https://stream.rcs.revma.com/urds0v43ehuvv
-# 72FM: https://72fm.com/station/5a982b98-b5a2-4db0-9417-810373b1bebe?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",stadradio Tienen
-http://shoutcast2.wirelessantwerpen.be:8414/;stream.mp3
-# 72FM: https://72fm.com/station/b521fd98-8295-45c0-a994-c6e40d057998?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",CK Radio
-https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3
 # 72FM: https://72fm.com/station/4b6cfd36-ac02-4236-ab14-7458ad012328?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-radio.dpgmedia.net/6/98/d5/1a/111/Q-ALL_STARS-7-WEBSITE-220x220.png" group-title="Belgium" radio="true",Q-Allstars
 https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3
 # 72FM: https://72fm.com/station/01c848bc-d6a3-41b9-9683-57b0e471c340?source=m3u
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=330x10000:format=png/path/s9e6a3346d3e8a31d/image/ida3ab4b07e0a9493/version/1607257617/image.png" group-title="Belgium" radio="true",Radio Noordzee Info
 http://stream.noordzee105.be:8000/noordzee_info
+# 72FM: https://72fm.com/station/5a982b98-b5a2-4db0-9417-810373b1bebe?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",stadradio Tienen
+http://shoutcast2.wirelessantwerpen.be:8414/;stream.mp3
 # 72FM: https://72fm.com/station/d7c9abe2-33a7-4eba-8392-16ad9782c85a?source=m3u
 #EXTINF:-1 tvg-logo="https://api.topradio.be/images/8178.91fb06c.16-9.1000.90.jpg" group-title="Belgium" radio="true",Top Techno
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSPINNING.mp3
+# 72FM: https://72fm.com/station/b521fd98-8295-45c0-a994-c6e40d057998?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",CK Radio
+https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3
 # 72FM: https://72fm.com/station/130f37a8-bcba-4d2d-a39d-a1881df1f185?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s87683/images/logod.png" group-title="Belgium" radio="true",Qmusic
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3
-# 72FM: https://72fm.com/station/6a649620-6076-4ac7-820b-316ba0b3099c?source=m3u
-#EXTINF:-1 tvg-logo="https://www.fmgoud.be/uploads/3/9/6/3/3963899/logopngtransparant.png" group-title="Belgium" radio="true",FM Goud Limburg
-https://stream.fmgoud.be/fm-goud-noord-limburg
 # 72FM: https://72fm.com/station/302c2994-eee0-4682-ad00-759941b561e3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.goeiedagradio.be%2F" group-title="Belgium" radio="true",Goeiedag Radio
 https://stream.goeiedagradio.be/
 # 72FM: https://72fm.com/station/768884f5-281d-4a94-8d52-7f967565159e?source=m3u
 #EXTINF:-1 group-title="Belgium" radio="true",LN Radio
 http://stream.rcs.revma.com/th89pet3pzzuv
-# 72FM: https://72fm.com/station/43dffdb5-ae10-43e7-ace2-71c9cbdf1a40?source=m3u
-#EXTINF:-1 tvg-logo="https://onibradio.com/favicon.ico" group-title="Belgium" radio="true",ONIB Radio
-https://www.radioking.com/play/galaxieradio-belgium-1/356660
-# 72FM: https://72fm.com/station/49499424-92f5-42f1-97a0-ea0e778c5759?source=m3u
-#EXTINF:-1 group-title="Belgium" radio="true",Kerstradio Noordzee
-http://stream.noordzee105.be:8000/krn
+# 72FM: https://72fm.com/station/6a649620-6076-4ac7-820b-316ba0b3099c?source=m3u
+#EXTINF:-1 tvg-logo="https://www.fmgoud.be/uploads/3/9/6/3/3963899/logopngtransparant.png" group-title="Belgium" radio="true",FM Goud Limburg
+https://stream.fmgoud.be/fm-goud-noord-limburg
 # 72FM: https://72fm.com/station/d8d45ed8-47a4-49fe-a992-9046d877a5f3?source=m3u
 #EXTINF:-1 tvg-logo="https://media.audiodrama.com/2026/01/10142806/cropped-Copy-of-AUDIODRAMA-1000-x-1000-px_20260123_171114_0000-180x180.png" group-title="Belgium" radio="true",AudioDrama Radio
 https://fritske.be:8000/stream
-# 72FM: https://72fm.com/station/ce72ed25-202f-4e8d-9198-998a16c6be59?source=m3u
-#EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/o/c/v/temp-pdvdrgzrikqbudviaidm/dax-fm-logo-2021-klein-high.jpg" group-title="Belgium" radio="true",DAX FM RADIO
-http://master.shoutcast.com:8000/dax-fm
-# 72FM: https://72fm.com/station/1b4d2260-d251-45fa-966f-df9ff2f8ed0a?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-radio.dpgmedia.net/c/7e/12/49/87/JOE_80s___90s-4-WEBSITE-220x220.png" group-title="Belgium" radio="true",JOE 80s & 90s
-https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/mp3
+# 72FM: https://72fm.com/station/43dffdb5-ae10-43e7-ace2-71c9cbdf1a40?source=m3u
+#EXTINF:-1 tvg-logo="https://onibradio.com/favicon.ico" group-title="Belgium" radio="true",ONIB Radio
+https://www.radioking.com/play/galaxieradio-belgium-1/356660
+# 72FM: https://72fm.com/station/2ca2dd95-147f-4b44-87b0-787e2e2205e4?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Radio Paradise
+https://phoebe.streamerr.co:3445/stream
+# 72FM: https://72fm.com/station/49499424-92f5-42f1-97a0-ea0e778c5759?source=m3u
+#EXTINF:-1 group-title="Belgium" radio="true",Kerstradio Noordzee
+http://stream.noordzee105.be:8000/krn
+# 72FM: https://72fm.com/station/255d2a3c-b986-4811-937d-b86a0e9fd04a?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiovictoria.be/wp-content/uploads/2025/08/cropped-Victoria_RGB_Kat_Blauw-scaled-1-192x192.png" group-title="Belgium" radio="true",Radio Victoria
+https://streamer1.radiovictoria.be/

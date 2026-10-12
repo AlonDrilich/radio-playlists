@@ -15,13 +15,13 @@ https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
 https://us9.maindigitalstream.com/ssl/radiosol
 # 72FM: https://72fm.com/station/960c1328-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Imagina
-http://24363.live.streamtheworld.com/IMAGINA_SC
+http://27433.live.streamtheworld.com:3690/IMAGINA_SC
 # 72FM: https://72fm.com/station/84b43fb8-1be0-11e8-a334-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Corazon
-http://27573.live.streamtheworld.com:3690/CORAZON_SC
+http://27363.live.streamtheworld.com/CORAZON_SC
 # 72FM: https://72fm.com/station/960c10e1-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Pudahuel
-http://26593.live.streamtheworld.com/PUDAHUEL_SC
+http://26583.live.streamtheworld.com/PUDAHUEL_SC
 # 72FM: https://72fm.com/station/960c11f3-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Rock and Pop
 http://24413.live.streamtheworld.com:3690/ROCK_AND_POPAAC_SC
@@ -30,7 +30,7 @@ http://24413.live.streamtheworld.com:3690/ROCK_AND_POPAAC_SC
 https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio
 # 72FM: https://72fm.com/station/9632c4ae-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Los 40 Principales Chile
-http://27323.live.streamtheworld.com/LOS40_CHILE_SC
+http://27583.live.streamtheworld.com/LOS40_CHILE_SC
 # 72FM: https://72fm.com/station/960c09af-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Concierto
 http://24283.live.streamtheworld.com/CONCIERTO_SC
@@ -51,7 +51,7 @@ http://stream.zeno.fm/pvs6hqz3crtvv
 https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox
 # 72FM: https://72fm.com/station/9b246252-1fa0-4fc9-b5f2-fb120587ad51?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",FM Dos
-http://26573.live.streamtheworld.com:3690/FMDOSAAC_SC
+http://24283.live.streamtheworld.com:3690/FMDOSAAC_SC
 # 72FM: https://72fm.com/station/8bc8f710-0d16-4df5-8878-cfaedee7d4c5?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",RADIO COOPERATIVA
 https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
@@ -60,7 +60,7 @@ https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
 https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio
 # 72FM: https://72fm.com/station/0d4011f6-3de2-4345-972e-e77cabbb1bdf?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Futuro
-http://27323.live.streamtheworld.com/FUTUROAAC_SC
+http://23243.live.streamtheworld.com:3690/FUTUROAAC_SC
 # 72FM: https://72fm.com/station/8d6ee408-b0e3-4342-90bc-079d3defb15f?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio El Conquistador FM (Santiago)
 https://stream10.usastreams.com/9314/stream/
@@ -72,7 +72,7 @@ https://27413.live.streamtheworld.com/ADNAAC.aac
 https://stream.festival.cl/1
 # 72FM: https://72fm.com/station/6b2fbecc-0c13-4ff7-9af6-a9acd8becd10?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rockandpop.cl/favicon.ico" group-title="Chile" radio="true",Rock and Pop
-http://24413.live.streamtheworld.com/ROCK_AND_POP_SC
+http://14073.live.streamtheworld.com/ROCK_AND_POP_SC
 # 72FM: https://72fm.com/station/1c8fa9cd-5a8d-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",RADIO MARIA CHILE
 http://dreamsiteradiocp.com:8066/stream
@@ -213,10 +213,13 @@ http://streaming.comunicacioneschile.net:9358/;
 https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
 # 72FM: https://72fm.com/station/5b1387f3-2991-4d8e-9518-981c210fbbe4?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Activa
-http://26513.live.streamtheworld.com:3690/ACTIVA_SC
+http://26683.live.streamtheworld.com/ACTIVA_SC
 # 72FM: https://72fm.com/station/207369e2-1dcf-497e-8c9d-54d25ee9bf17?source=m3u
 #EXTINF:-1 tvg-logo="https://vlnradio.s3.amazonaws.com/wp-content/uploads/2023/09/c21f969b5f03d33d43e04f8f136e7682_1695763756.png" group-title="Chile" radio="true",VLN Radio
 https://sonando-us.digitalproserver.com/vln_lo
+# 72FM: https://72fm.com/station/72fa03ee-5b40-4fee-88a7-048a9944e9bf?source=m3u
+#EXTINF:-1 tvg-logo="https://clubdance.cl/apple-icon-120x120.png" group-title="Chile" radio="true",Club Dance Chile
+https://audio.bitsur.cl/8002/stream
 # 72FM: https://72fm.com/station/2c3589b8-bed1-4d10-8031-8675a8efc930?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/800px-Logo_Radio_Beethoven_FM.png" group-title="Chile" radio="true",Beethoven - Santiago FM
 https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio
@@ -234,7 +237,7 @@ http://encoder.armoniaoficina.cl:3032/1.mp3
 https://audio0.tustreaming.cl/7170/casablanca
 # 72FM: https://72fm.com/station/964d9747-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radioactiva 92.5 FM
-http://27443.live.streamtheworld.com/ACTIVAAAC_SC
+http://26563.live.streamtheworld.com/ACTIVAAAC_SC
 # 72FM: https://72fm.com/station/50d2e07b-f1fa-4206-a2b9-c9cc34d08014?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Bío-Bío Los Ángeles 96.7
 https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio
@@ -268,12 +271,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.a
 # 72FM: https://72fm.com/station/fa4d31f6-9490-4fd3-abf6-92db4bfadb1b?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Central Clasista de Trabajadores
 http://stream.zeno.fm/m5fw6rwx2tzuv
-# 72FM: https://72fm.com/station/21ae720a-b5a3-4603-8ae2-bdf33bf9274b?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Radiofavoritaranchera
-https://stream.zeno.fm/pdlp0sxtdjkvv
 # 72FM: https://72fm.com/station/664dce71-b723-4b62-95e4-70eb22b46c4d?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Las Nieves
 https://audio2.tustreaming.cl:10987/stream
+# 72FM: https://72fm.com/station/21ae720a-b5a3-4603-8ae2-bdf33bf9274b?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Radiofavoritaranchera
+https://stream.zeno.fm/pdlp0sxtdjkvv
 # 72FM: https://72fm.com/station/deb1b3df-aa1c-4ff5-8f5b-ade03d1b09f4?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Austral CD97
 http://archi-us.digitalproserver.com/austral.aac
@@ -313,12 +316,12 @@ http://unlimited3-cl.dps.live/biobiovalparaiso/mp3/icecast.audio
 # 72FM: https://72fm.com/station/7373ab5f-0d96-45ce-8cc0-0abd2edbb16b?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/643/radio-rtl.02aba817.png" group-title="Chile" radio="true",Radio rtl Curico
 https://radio.mediadev.cl/radio/8070/rtlcurico
-# 72FM: https://72fm.com/station/9618fda2-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",María
-http://dreamsiteradiocp4.com:8024/
 # 72FM: https://72fm.com/station/5c6c0f87-5529-447f-a764-78d3a04627aa?source=m3u
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="Chile" radio="true",Radio la Sureña
 https://stream-287.surfernetwork.com/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkFQWTlZdE9RUnAyaGJfMi1adHlOd3ciLCJpYXQiOjE3OTE3OTYwMTgsImV4cCI6MTc5MTc5NjA3OH0.ViKbyfRyNZtQZXLF3Zz4lv_FuLpKniy-KbKkexmLcy0
+# 72FM: https://72fm.com/station/9618fda2-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",María
+http://dreamsiteradiocp4.com:8024/
 # 72FM: https://72fm.com/station/58419e40-5531-4271-b55e-d157f2593bff?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Bio-Bio Puerto Montt
 https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio
@@ -337,15 +340,15 @@ https://stream.zeno.fm/ws9z11fhrd0uv
 # 72FM: https://72fm.com/station/ba6dd884-d148-45cf-aa1a-398207025a9b?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Alternativa FM
 https://radio.tvstream.cl/8056/stream
+# 72FM: https://72fm.com/station/4c94c46e-b1ba-4cab-ad45-efd7fafb67bd?source=m3u
+#EXTINF:-1 tvg-logo="https://radiopaloma.cl/icon.png" group-title="Chile" radio="true",Radio Paloma
+https://audio3.tustreaming.cl/7320/stream
 # 72FM: https://72fm.com/station/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Isla Negra Upbeat
 https://radioislanegra.org/radio/8030/basic.aac
 # 72FM: https://72fm.com/station/4304e512-42ea-484e-9189-c1bf08943299?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Caribe FM 95.5
 http://149.56.241.149:8118/stream
-# 72FM: https://72fm.com/station/4c94c46e-b1ba-4cab-ad45-efd7fafb67bd?source=m3u
-#EXTINF:-1 tvg-logo="https://radiopaloma.cl/icon.png" group-title="Chile" radio="true",Radio Paloma
-https://audio3.tustreaming.cl/7320/stream
 # 72FM: https://72fm.com/station/fe9116aa-b4c9-43ab-8c91-6463007e3dbb?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Distorsion FM FLAC
 https://radioemisoras.cl/distorsion.flac
@@ -370,21 +373,21 @@ https://audio.divalstream.com:7019/stream
 # 72FM: https://72fm.com/station/85992930-e143-408c-8d8f-1b58c304aa45?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3c8e3d_dd0e5cb9bf7b46bbab4d74789d45be31%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/3c8e3d_dd0e5cb9bf7b46bbab4d74789d45be31%7emv2.png" group-title="Chile" radio="true",Radio Libra
 http://sonando.us.digitalproserver.com/libra.aac
-# 72FM: https://72fm.com/station/8ab682ae-3508-4434-b704-fb76c6bf3541?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",UCV radio vivan los lentos
-https://sonando-us.digitalproserver.com/ucvradio2
 # 72FM: https://72fm.com/station/4dec2e65-095b-4e0b-9c03-1dfc96ca629c?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio El Carbón
 https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio
+# 72FM: https://72fm.com/station/8ab682ae-3508-4434-b704-fb76c6bf3541?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",UCV radio vivan los lentos
+https://sonando-us.digitalproserver.com/ucvradio2
 # 72FM: https://72fm.com/station/f44a1cef-c2b6-4f07-a074-29a406a47241?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio XQA5
 https://archi-us.digitalproserver.com/xqa-5.aac
-# 72FM: https://72fm.com/station/c814bc71-e223-42ba-a3e7-b0aece90d6c2?source=m3u
-#EXTINF:-1 tvg-logo="https://edelweiss.fm/wp-content/uploads/2022/07/logo-edelweiss-100x100.png" group-title="Chile" radio="true",Radio Edelweiss
-https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
 # 72FM: https://72fm.com/station/e44d401f-613a-4213-9b43-14ed4854ff5b?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Positiva
 https://unlimited4-us.dps.live/positiva/aac/icecast.audio
+# 72FM: https://72fm.com/station/c814bc71-e223-42ba-a3e7-b0aece90d6c2?source=m3u
+#EXTINF:-1 tvg-logo="https://edelweiss.fm/wp-content/uploads/2022/07/logo-edelweiss-100x100.png" group-title="Chile" radio="true",Radio Edelweiss
+https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
 # 72FM: https://72fm.com/station/3616fb0c-c0dc-490a-abc5-606cf1ce329c?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Millenium Network
 http://5.9.65.9:8030/stream.aac
@@ -409,15 +412,15 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b2916
 # 72FM: https://72fm.com/station/4b9eb877-25be-45dc-85cf-d3ae9c85c791?source=m3u
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-fbiHouUdQ6I/YMylILVZI8I/AAAAAAAAICA/tP70eZSFmkUAWVkjpKsDlDTYTEA9idcAgCK4BGAYYCw/w800/logo1nuevo.png" group-title="Chile" radio="true",Musicoop
 https://sonic.portalfoxmix.club/8486/stream
-# 72FM: https://72fm.com/station/e1bc96da-f6f3-4c80-ae7c-9cf63400e8d4?source=m3u
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/811/radio-carinosa.442aaaaf.jpg" group-title="Chile" radio="true",Radio Cariñosa
-https://archi-us.digitalproserver.com/carinosa-fm.aac
 # 72FM: https://72fm.com/station/5c3dc5a7-018a-4958-8b5c-4f2362f488ae?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Bio Bio Temuco
 https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio
+# 72FM: https://72fm.com/station/e1bc96da-f6f3-4c80-ae7c-9cf63400e8d4?source=m3u
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/811/radio-carinosa.442aaaaf.jpg" group-title="Chile" radio="true",Radio Cariñosa
+https://archi-us.digitalproserver.com/carinosa-fm.aac
 # 72FM: https://72fm.com/station/6b575a10-ed34-4099-b22e-27c38fc845b8?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Rock & Pop m
-http://26503.live.streamtheworld.com/ROCK_AND_POP_SC
+http://24413.live.streamtheworld.com:3690/ROCK_AND_POP_SC
 # 72FM: https://72fm.com/station/19244016-fce9-479c-b234-6988d473b0f7?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Frecuencia Rock 95.3
 http://audio.streaminghd.cl:9206/stream
@@ -433,21 +436,24 @@ http://cityradio.ddns.net:8000/citypop
 # 72FM: https://72fm.com/station/1e17754c-9e4a-475e-be53-0777c0b68002?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",La Melinkana FM
 https://audio3.tustreaming.cl/7050/stream
+# 72FM: https://72fm.com/station/5edccd48-ff22-4434-bef9-c75f0b61b64a?source=m3u
+#EXTINF:-1 tvg-logo="https://lamaskaliente.com/assets/favicon.ico" group-title="Chile" radio="true",La Más Kaliente
+https://audio1stream.com/8002/stream
 # 72FM: https://72fm.com/station/29f6f8d4-6d21-4bca-b1f5-9b668fd3b021?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Marisol
 https://audio0.tustreaming.cl/7620/stream
 # 72FM: https://72fm.com/station/45c93111-414c-4f98-9d71-09be3687c66a?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Alegría del Transporte 90.7 FM
 http://streaming01.xhost.cl/8048/;
+# 72FM: https://72fm.com/station/f6aac32a-c146-45db-8823-19027537c34a?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",RADIO EL LOA 101.1 FM
+http://us9.maindigitalstream.com:7258/stream
 # 72FM: https://72fm.com/station/4a212390-33f2-4d7c-a5d8-db837db8bd54?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",ESTRELLA DEL MAR
 https://streaming.chiloestreaming.com/9626/;
 # 72FM: https://72fm.com/station/d476d00d-d1e7-4b47-8979-c98b3db68666?source=m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ThetMT.png" group-title="Chile" radio="true",Kawaii Anime Radio
 https://canada1.reliastream.com/proxy/danser?mp=/stream
-# 72FM: https://72fm.com/station/f6aac32a-c146-45db-8823-19027537c34a?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",RADIO EL LOA 101.1 FM
-http://us9.maindigitalstream.com:7258/stream
 # 72FM: https://72fm.com/station/ff85790d-67c1-4c4f-9282-d6bc58a9e33a?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",RADIO PAULINA
 https://sp1.streamingssl.com/8058/stream
@@ -463,12 +469,12 @@ http://radio.streemlion.com:3780/stream
 # 72FM: https://72fm.com/station/e9eb8dcc-dc9e-4e7d-93f5-1f287e881240?source=m3u
 #EXTINF:-1 tvg-logo="https://player-conecta.s3.us-east-1.amazonaws.com/production/logos/694aeda2c541c7703780a9b0/1766520465068-h4blxsypuc.png" group-title="Chile" radio="true",FM Plus
 https://conectapp.misradios.cl/radio/fmplus.mp3
-# 72FM: https://72fm.com/station/5b34637e-2dca-491d-a1d8-ee7741c08a6a?source=m3u
-#EXTINF:-1 tvg-logo="https://azura.picados.beer/static/uploads/radio/album_art.1745611419.webp" group-title="Chile" radio="true",🕷️ Radio Picados - Online - Música 24/7
-https://a10.asurahosting.com:7630/radio.mp3
 # 72FM: https://72fm.com/station/f34c324e-b817-4ae6-a023-5ae26ea04727?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Guayacán
 https://sonic.mallocohosting.cl/8038/stream
+# 72FM: https://72fm.com/station/5b34637e-2dca-491d-a1d8-ee7741c08a6a?source=m3u
+#EXTINF:-1 tvg-logo="https://azura.picados.beer/static/uploads/radio/album_art.1745611419.webp" group-title="Chile" radio="true",🕷️ Radio Picados - Online - Música 24/7
+https://a10.asurahosting.com:7630/radio.mp3
 # 72FM: https://72fm.com/station/74b42e8f-5b81-40fb-8fa7-5e5ad89216bd?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Isla Negra
 https://radioislanegra.org/radio/8000/basic.aac
@@ -478,15 +484,15 @@ https://stream.zeno.fm/yo6udiulqhbvv
 # 72FM: https://72fm.com/station/b3cdcaaa-6e3f-4bef-8799-9eadeb4fd945?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Marcela
 http://archi-us.digitalproserver.com/marcelafm.aac
+# 72FM: https://72fm.com/station/68118e68-5575-48cb-975a-ddcfa64547f9?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Radio Rural Chile
+https://stm7.voxhd.com.br:10788/stream
 # 72FM: https://72fm.com/station/0007bc55-a9b4-4e93-a6e0-9b9b1e7c8f01?source=m3u
 #EXTINF:-1 tvg-logo="https://digitalfm.cl/wp-content/themes/digitalfm/assets/images/favicon.png" group-title="Chile" radio="true",Digital 105.5 FM - CONCEPCIÓN
 https://radio.digitalfm.cl:8000/concepcion1
 # 72FM: https://72fm.com/station/3d95f7f4-67cc-40d9-b998-a6cda0a14a13?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Digital 94.9 FM - VALPARAISO
 https://radio.digitalfm.cl:8000/valparaiso1
-# 72FM: https://72fm.com/station/68118e68-5575-48cb-975a-ddcfa64547f9?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Radio Rural Chile
-https://stm7.voxhd.com.br:10788/stream
 # 72FM: https://72fm.com/station/bf965245-8dc6-4c9e-9a04-34eda4ff1d66?source=m3u
 #EXTINF:-1 tvg-logo="https://www.facebook.com/photo/?fbid=947383129737920&set=a.301089161033990" group-title="Chile" radio="true",ESTACION DEL PODER
 http://stream.zeno.fm/t7cdutykw38uv
@@ -520,6 +526,9 @@ https://sonic.portalfoxmix.cl:7045/;
 # 72FM: https://72fm.com/station/d27ec3c3-4129-4757-877c-854b362581f6?source=m3u
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0P1_MXfXqpJxXRPiSMzmhQInwx6e-3EqU9Q8SEUNejCrimtvx7TY6DzyUGsbqOq1r_cwm5PJ=s900-c-k-c0x00ffffff-no-rj" group-title="Chile" radio="true",Tele13 Radio 103.3
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8
+# 72FM: https://72fm.com/station/ba9fac17-5541-4791-aa91-145b7d18aac9?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Romántica FM
+https://mdstrm.com/audio/639b78f7ff35df084fa7f964/icecast.audio
 # 72FM: https://72fm.com/station/2968926f-9bcc-4b3b-bacb-4b9a291dd799?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",RADIO MANANTIAL DE VIDA
 https://audio3.tustreaming.cl/7080/stream
@@ -529,9 +538,6 @@ http://play.isla.ovh/vocaloplus.opus
 # 72FM: https://72fm.com/station/ea6e849f-d740-4f23-b9e6-cb117354065b?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",punto7
 https://unlimited11-cl.dps.live/p7concepcion/aac/icecast.audio
-# 72FM: https://72fm.com/station/ba9fac17-5541-4791-aa91-145b7d18aac9?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Romántica FM
-https://mdstrm.com/audio/639b78f7ff35df084fa7f964/icecast.audio
 # 72FM: https://72fm.com/station/b5af32d6-e8ab-4141-b6a0-1d81d54681dc?source=m3u
 #EXTINF:-1 tvg-logo="https://dulcefm.cl/wp-content/uploads/elementor/thumbs/logo-web-q0val34wkm3p6wh8gop0g4apeqxdpct5lleoaa1omg.png" group-title="Chile" radio="true",Radio Dulce LA LIGUA - PAPUDO ZAPALLAR 95.3 FM
 https://stream.zeno.fm/3yv0enxnp7zuv
@@ -553,15 +559,15 @@ https://stream.zeno.fm/dzvavezs85ouv
 # 72FM: https://72fm.com/station/ea5fcc45-1545-41f1-88d0-485567b056e1?source=m3u
 #EXTINF:-1 tvg-logo="https://www.silensclamor.com/img/logo.png" group-title="Chile" radio="true",Silens Clamor
 https://www.silensclamor.com/live
-# 72FM: https://72fm.com/station/b248b931-0c79-4b93-9ef3-65e19233b576?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Universal Malleco Chile
-https://s02.azuracast.cl/listen/radio_universal_victoria/victoria
 # 72FM: https://72fm.com/station/712a509c-d1d3-455c-a6b4-f814918ccbbb?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",actual fm
 http://archi-us.digitalproserver.com/actual.aac
 # 72FM: https://72fm.com/station/834c8c21-342f-490a-966b-3a15c1f0e0db?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",CARNAVAL VINA DEL MAR
 https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac
+# 72FM: https://72fm.com/station/b248b931-0c79-4b93-9ef3-65e19233b576?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Universal Malleco Chile
+https://s02.azuracast.cl/listen/radio_universal_victoria/victoria
 # 72FM: https://72fm.com/station/a787630c-3f66-43f1-ba77-4fc3e09f042e?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Carnaval 104.5 FM
 https://cp2.streamchileno.cl//listen//radiocarnaval//radio.mp3
@@ -571,24 +577,24 @@ https://radio.digitalfm.cl:8000/antofagasta1
 # 72FM: https://72fm.com/station/32ccce02-298d-4d1e-9ed7-e944d9d64358?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",CLG Radio 93.5 FM
 https://sonic.portalfoxmix.club/8012/streamstream
-# 72FM: https://72fm.com/station/8336650b-5916-4cd8-96c1-72f5fa76f79e?source=m3u
-#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="Chile" radio="true",Star Radio
-https://stream.zeno.fm/sowa6evoo9kvv
 # 72FM: https://72fm.com/station/ee88bf83-2c85-4568-9ec9-8fdc59d63c21?source=m3u
 #EXTINF:-1 tvg-logo="https://amigafm.cl/wp/wp-content/uploads/2019/08/cropped-Captura-de-Pantalla-2019-08-03-a-las-10.59.01_002.jpg" group-title="Chile" radio="true",Radio Amiga Fm 100.7
 https://streams.radiomast.io/aff8c0f0-5d0c-41d6-83b2-71daff574701
 # 72FM: https://72fm.com/station/6e5cb53f-50b7-4dbf-96a8-e5e5454f86e5?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",RADIO CARICIA FM
 https://sonic.portalfoxmix.club/8244/stream/
-# 72FM: https://72fm.com/station/6b838015-6713-498a-bfb9-f196d563bec1?source=m3u
-#EXTINF:-1 tvg-logo="https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1767353319" group-title="Chile" radio="true",Retro Plus Señal 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
-# 72FM: https://72fm.com/station/62fd3e2a-8dff-435c-b5de-b28ff84cadbd?source=m3u
-#EXTINF:-1 tvg-logo="https://www.digitalfm.cl/favicon.ico" group-title="Chile" radio="true",Digital 97.7 FM - LA SERENA
-https://radio.digitalfm.cl:8000/laserena1
+# 72FM: https://72fm.com/station/8336650b-5916-4cd8-96c1-72f5fa76f79e?source=m3u
+#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="Chile" radio="true",Star Radio
+https://stream.zeno.fm/sowa6evoo9kvv
 # 72FM: https://72fm.com/station/eacec66f-6f8d-469a-a14f-a65d6bb683d4?source=m3u
 #EXTINF:-1 tvg-logo="https://fmarcoiris.cl/wp-content/uploads/2023/12/logo-arcoiris-negro.jpeg" group-title="Chile" radio="true",Radio arcoiris FM 99.3
 https://audio2.tustreaming.cl/7210/stream
+# 72FM: https://72fm.com/station/62fd3e2a-8dff-435c-b5de-b28ff84cadbd?source=m3u
+#EXTINF:-1 tvg-logo="https://www.digitalfm.cl/favicon.ico" group-title="Chile" radio="true",Digital 97.7 FM - LA SERENA
+https://radio.digitalfm.cl:8000/laserena1
+# 72FM: https://72fm.com/station/6b838015-6713-498a-bfb9-f196d563bec1?source=m3u
+#EXTINF:-1 tvg-logo="https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1767353319" group-title="Chile" radio="true",Retro Plus Señal 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 # 72FM: https://72fm.com/station/b0f9cd1c-4dfc-4e04-9ed1-a84a233f8b8a?source=m3u
 #EXTINF:-1 tvg-logo="https://dulcefm.cl/wp-content/uploads/elementor/thumbs/logo-web-q0val34wkm3p6wh8gop0g4apeqxdpct5lleoaa1omg.png" group-title="Chile" radio="true",Radio Dulce ILLAPEL 98.3 FM
 https://stream.zeno.fm/kc5hofr05tavv
@@ -598,30 +604,27 @@ https://radio.digitalfm.cl:8000/ptaarenas
 # 72FM: https://72fm.com/station/2de72327-54da-41fc-9299-c460573c86c4?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Vilas Radio 100.1
 https://sonic.streamingchilenos.com/8072/stream
-# 72FM: https://72fm.com/station/b388dc40-4ae9-45c1-b14a-799eaef7c44b?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/orhkaa59/production/143a67d9a64de62032bdb8f06b0e665f82a62d4a-1080x1080.jpg?w=384&q=75" group-title="Chile" radio="true",Radio Club 80: Retro
-https://stream.radioclub80.cl:8022/retro80.flac
 # 72FM: https://72fm.com/station/19159235-c0bc-4725-937d-0cff36a18274?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Romántica Chile
 https://stream.zeno.fm/mb5l1xfyu7yuv
+# 72FM: https://72fm.com/station/b388dc40-4ae9-45c1-b14a-799eaef7c44b?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/orhkaa59/production/143a67d9a64de62032bdb8f06b0e665f82a62d4a-1080x1080.jpg?w=384&q=75" group-title="Chile" radio="true",Radio Club 80: Retro
+https://stream.radioclub80.cl:8022/retro80.flac
 # 72FM: https://72fm.com/station/df1f43d4-86c2-4ae0-953b-4545a41322ef?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Rock En Español Chile
-https://stream-204.surfernetwork.com/aaxwtg4w6x1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYXh3dGc0dzZ4MXV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlFIMG9aNUhLU0plV2tGYlcyYXd6dkEiLCJpYXQiOjE3OTA4Njk1ODksImV4cCI6MTc5MDg2OTY0OX0.qX96t6mQsJ-pVd1x7qwawLZaAZ7P6EMnibm2lyzRv3k
+https://stream-290.surfernetwork.com/aaxwtg4w6x1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYXh3dGc0dzZ4MXV2IiwiaG9zdCI6InN0cmVhbS0yOTAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1tUTNRV21kUTBXem1VTWEyOU1DbkEiLCJpYXQiOjE3OTE4MzAwMDksImV4cCI6MTc5MTgzMDA2OX0.n4E80B9Vd4X9H_vD124vc-Elt8zUfLRPDOMlWNe5fug
 # 72FM: https://72fm.com/station/ea4a7bfc-0159-4da3-b136-26727d8a3644?source=m3u
 #EXTINF:-1 tvg-logo="https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1767353319" group-title="Chile" radio="true",Retro Plus Señal 1
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-# 72FM: https://72fm.com/station/6dc2ec0f-bb83-4308-916c-570b9476cf5d?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Radio Universidad de Chile
-https://sonic-us.arkeo.cl/8186/stream
 # 72FM: https://72fm.com/station/07c45bae-b091-4105-b9ad-0ecd8d2a9490?source=m3u
 #EXTINF:-1 tvg-logo="https://mediainfo.cl/playerV2/assets/favorita/logo.webp" group-title="Chile" radio="true",Radio Favorita 89.9 y 102.3 FM
 https://zeus.miradio.pro/hls/favorita/live.m3u8
+# 72FM: https://72fm.com/station/6dc2ec0f-bb83-4308-916c-570b9476cf5d?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Radio Universidad de Chile
+https://sonic-us.arkeo.cl/8186/stream
 # 72FM: https://72fm.com/station/547e56cc-a3dc-4ec8-bb14-db2c0b529efc?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Vilas Radio 98.1
 https://sonic.portalfoxmix.club/8042/stream
-# 72FM: https://72fm.com/station/a0282d74-0fae-4399-afc9-54b07a266c0e?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Puerto Salsa Radio
-https://sonic.portalfoxmix.cl:7028/stream?icy=http
 # 72FM: https://72fm.com/station/64de23df-c93f-4bc2-b2e4-cb9a4282f19e?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",CQX PMONTT
 http://5.9.65.9:8083/stream
@@ -631,6 +634,9 @@ http://streaming.chiloestreaming.com:9920/;
 # 72FM: https://72fm.com/station/454b1777-82ad-451c-b4bb-1f85d5246756?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",maray
 https://video.mediawebchile.com:2000/stream/8212/stream
+# 72FM: https://72fm.com/station/a0282d74-0fae-4399-afc9-54b07a266c0e?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Puerto Salsa Radio
+https://sonic.portalfoxmix.cl:7028/stream?icy=http
 # 72FM: https://72fm.com/station/8daeca57-a41f-4c6d-87d1-406b9634282a?source=m3u
 #EXTINF:-1 tvg-logo="https://dulcefm.cl/wp-content/uploads/elementor/thumbs/logo-web-q0val34wkm3p6wh8gop0g4apeqxdpct5lleoaa1omg.png" group-title="Chile" radio="true",Radio Dulce PETORCA- -CABILDO 104.7 FM
 https://stream.zeno.fm/uftblekcpxguv
@@ -652,12 +658,12 @@ https://mdstrm.com/audio/67f42f96e464d19a6eda3c7d/icecast.audio
 # 72FM: https://72fm.com/station/866e47ae-4780-45af-80b2-8e44aa682c3c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiorebuena.cl/wp-content/uploads/2024/04/rebuena-log3-300x300.png" group-title="Chile" radio="true",Radio Rebuena 95.7FM
 https://audio5.tustreaming.cl/7930/stream
-# 72FM: https://72fm.com/station/2bbc486b-8429-4be3-a271-6d9388cafc4f?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Radio Condell 92.7 FM
-https://zeus.miradio.pro/radio/8090/stream
 # 72FM: https://72fm.com/station/6fdb3e93-18d9-449e-abfd-b1f27cf3c18f?source=m3u
 #EXTINF:-1 tvg-logo="https://radiosol.cl/wp-content/uploads/2022/04/Logo-Radio-Sol-color-Horizontal-485.png" group-title="Chile" radio="true",Radio Sol FM 97.7
 http://us9.maindigitalstream.com:7389/stream/;
+# 72FM: https://72fm.com/station/2bbc486b-8429-4be3-a271-6d9388cafc4f?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Radio Condell 92.7 FM
+https://zeus.miradio.pro/radio/8090/stream
 # 72FM: https://72fm.com/station/030e432e-7ce5-49ef-93cd-b2533750d562?source=m3u
 #EXTINF:-1 tvg-logo="https://www.miradiols.cl/wp-content/uploads/2019/10/Mi_Radio_Ls_Logo_2019.png" group-title="Chile" radio="true",Mi Radio
 https://audio2.tustreaming.cl/9020/stream
@@ -667,36 +673,33 @@ https://audio.bitsur.cl/8066/stream
 # 72FM: https://72fm.com/station/78ae3fdf-77ed-4231-b645-5dd42682f2f4?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Sunrise Lounge
 https://sonic-cl.arkeo.cl/8098/stream
-# 72FM: https://72fm.com/station/c1d50f77-aff5-4ae1-a121-6c2bf1d5eaaf?source=m3u
-#EXTINF:-1 tvg-logo="https://radiolautarotalca.cl/wp-content/uploads/2022/01/favicon.png" group-title="Chile" radio="true",Radio Lautaro Talca
-https://audio2.tustreaming.cl/7320/stream
-# 72FM: https://72fm.com/station/56c0b714-d62f-4430-9086-6fe59c39c983?source=m3u
-#EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/poderpentecostal.png" group-title="Chile" radio="true",RADIO PODER PENTECOSTAL
-https://streaming2.locucionar.com/proxy/poderpentecostal?mp=/stream
+# 72FM: https://72fm.com/station/7f3ead63-a78e-42fa-a237-8642d0879934?source=m3u
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/HB8KPSvFAJLp7zKZ7" group-title="Chile" radio="true",Europa Beat
+https://s4.radio.co/s13e4f2090/listen
 # 72FM: https://72fm.com/station/e315bdc6-0ab5-4f30-bdee-384a5db0585b?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",La jaula del Mono RadioActiva (19/03/2023 - Tramo de 02:00 a 03:00)
 https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3?dist=radioactiva_cl-web-aod_play
 # 72FM: https://72fm.com/station/ff454d36-e4ea-4905-8beb-5c69b35af4b4?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Caramelo San Vicente
 https://cast.radioservicios.cl:8316/sanvicente
+# 72FM: https://72fm.com/station/c1d50f77-aff5-4ae1-a121-6c2bf1d5eaaf?source=m3u
+#EXTINF:-1 tvg-logo="https://radiolautarotalca.cl/wp-content/uploads/2022/01/favicon.png" group-title="Chile" radio="true",Radio Lautaro Talca
+https://audio2.tustreaming.cl/7320/stream
+# 72FM: https://72fm.com/station/56c0b714-d62f-4430-9086-6fe59c39c983?source=m3u
+#EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/poderpentecostal.png" group-title="Chile" radio="true",RADIO PODER PENTECOSTAL
+https://streaming2.locucionar.com/proxy/poderpentecostal?mp=/stream
 # 72FM: https://72fm.com/station/6d9f83f6-edf8-4931-b1ff-d3bbf352425b?source=m3u
 #EXTINF:-1 tvg-logo="https://radiogenoveva.cl/wp-content/uploads/2019/05/Logo-Radio-Genoveva1-1024x614.png" group-title="Chile" radio="true",Radio Genoveva Valdivia
 https://audio.bitsur.cl/8032/stream
 # 72FM: https://72fm.com/station/f084c878-8523-4dce-905e-7b3843fe2d64?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio la Voz del Mar
 https://sonic.streamingchilenos.com/8186/stream
-# 72FM: https://72fm.com/station/1d7ffdc8-ad09-41b0-894d-e05752bea1e9?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Radio Tornagaleones 105.3
-http://tornagaleones.ddns.net:9000/Flac
 # 72FM: https://72fm.com/station/a3713579-820d-4dad-82c8-f6ca71d4b76a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.digitalfm.cl/favicon.ico" group-title="Chile" radio="true",Digital 105.5 FM - TALCA
 https://radio.digitalfm.cl:8000/talca
 # 72FM: https://72fm.com/station/ae6c3cd0-bb5e-45ea-acab-093ac9df6e7a?source=m3u
 #EXTINF:-1 tvg-logo="https://digitalfm.cl/wp-content/themes/digitalfm/assets/images/favicon.png" group-title="Chile" radio="true",Digital 89.5 FM - CALAMA
 https://radio.digitalfm.cl:8000/calama1
-# 72FM: https://72fm.com/station/7f3ead63-a78e-42fa-a237-8642d0879934?source=m3u
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/HB8KPSvFAJLp7zKZ7" group-title="Chile" radio="true",Europa Beat
-https://s4.radio.co/s13e4f2090/listen
 # 72FM: https://72fm.com/station/2c98d232-0416-4fb7-9060-f54716fb0655?source=m3u
 #EXTINF:-1 tvg-logo="https://fm7.s3-accelerate.amazonaws.com/media/img/stations/2a520731-069b-4ef6-a110-590b65f72dda.png" group-title="Chile" radio="true",FM Siete Rock
 https://sp1.streamingssl.com/8036/stream
@@ -712,33 +715,36 @@ http://archi-us.digitalproserver.com/amiga.aac
 # 72FM: https://72fm.com/station/b78efce2-e10a-465a-bfeb-40fd373a49fa?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Paula FM - 103.7 MHz - Laja (HD)
 http://escucha.radiopaulafm.com/
-# 72FM: https://72fm.com/station/6fe2206f-31cc-4b0e-a55b-16ef2188afe0?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Radioroins
-https://stream.zeno.fm/dd3rxeuxznhvv
-# 72FM: https://72fm.com/station/a66555ad-8a94-4c89-ae8d-a5545c1a33bc?source=m3u
-#EXTINF:-1 tvg-logo="https://superstereohires.com/images/108/16639522/ss-2024-vPKyuF6SxYedJh63k3CFYg.png" group-title="Chile" radio="true",SuperStereo Network
-https://icecast.centaury.cl:7610/SSDEMO
-# 72FM: https://72fm.com/station/4845eefc-a9ac-4e8c-9ca9-dd1b29dec992?source=m3u
-#EXTINF:-1 tvg-logo="https://www.venusradiofm.cl/wp-content/uploads/2025/10/cropped-cw29YV3.png" group-title="Chile" radio="true",Venus Radio Fm Chile
-https://streaming.audiplay.cl/listen/venus_radio_fm_chile/radio.mp3
-# 72FM: https://72fm.com/station/dc852603-f55e-4e85-8ae8-c0a48f1a6ce5?source=m3u
-#EXTINF:-1 tvg-logo="https://cobrox.radio.fm/favicon.ico" group-title="Chile" radio="true",| COBrOx.RADiO.fm |
-http://65.108.105.26:8672/cobroxradio
+# 72FM: https://72fm.com/station/1d7ffdc8-ad09-41b0-894d-e05752bea1e9?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Radio Tornagaleones 105.3
+http://tornagaleones.ddns.net:9000/Flac
 # 72FM: https://72fm.com/station/65014c2f-47be-4e85-9e4f-f470e277a492?source=m3u
 #EXTINF:-1 tvg-logo="https://www.altafidelidadradio.com/site/wp-content/uploads/2021/08/fidelidad-logo-retina.png" group-title="Chile" radio="true",Alta Fidelidad Radio
 https://s21.myradiostream.com/14464/;?type=http&nocache=1724080980?0.022147003328686576
+# 72FM: https://72fm.com/station/a66555ad-8a94-4c89-ae8d-a5545c1a33bc?source=m3u
+#EXTINF:-1 tvg-logo="https://superstereohires.com/images/108/16639522/ss-2024-vPKyuF6SxYedJh63k3CFYg.png" group-title="Chile" radio="true",SuperStereo Network
+https://icecast.centaury.cl:7610/SSDEMO
+# 72FM: https://72fm.com/station/dc852603-f55e-4e85-8ae8-c0a48f1a6ce5?source=m3u
+#EXTINF:-1 tvg-logo="https://cobrox.radio.fm/favicon.ico" group-title="Chile" radio="true",| COBrOx.RADiO.fm |
+http://65.108.105.26:8672/cobroxradio
+# 72FM: https://72fm.com/station/6fe2206f-31cc-4b0e-a55b-16ef2188afe0?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Radioroins
+https://stream.zeno.fm/dd3rxeuxznhvv
+# 72FM: https://72fm.com/station/4845eefc-a9ac-4e8c-9ca9-dd1b29dec992?source=m3u
+#EXTINF:-1 tvg-logo="https://www.venusradiofm.cl/wp-content/uploads/2025/10/cropped-cw29YV3.png" group-title="Chile" radio="true",Venus Radio Fm Chile
+https://streaming.audiplay.cl/listen/venus_radio_fm_chile/radio.mp3
 # 72FM: https://72fm.com/station/7d82d29b-a8b0-4dca-b547-738c733c51bf?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio247.net/images/icon.png?crc=4113053419" group-title="Chile" radio="true",RADIO 24/7
 http://broadcast.radio247.net/listen/live/radio.mp3
 # 72FM: https://72fm.com/station/bd0c33b8-1d2a-4ff6-8014-fe2c7cc2d498?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Texto Plano
 http://texto-plano.xyz:8000/live.ogg
-# 72FM: https://72fm.com/station/3b9d11f9-1249-4223-a3b0-b678168e3b51?source=m3u
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/359/radio-tropikal-rancheras2.04a17a3b.png" group-title="Chile" radio="true",Radio Tropikal Ranchera
-https://streaming.viphosting.cl/8034/stream
 # 72FM: https://72fm.com/station/ee623a0e-933e-4030-b1c9-1c48aa332d7a?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Maricón radio
 https://radio.maricon.org/vocaloid
+# 72FM: https://72fm.com/station/3b9d11f9-1249-4223-a3b0-b678168e3b51?source=m3u
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/359/radio-tropikal-rancheras2.04a17a3b.png" group-title="Chile" radio="true",Radio Tropikal Ranchera
+https://streaming.viphosting.cl/8034/stream
 # 72FM: https://72fm.com/station/c4292112-294f-4d09-b57d-97bdc135d5c5?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",radiorara
 https://sonicpanel.chileservidores.cl/8004/stream
@@ -771,13 +777,16 @@ https://sonic.portalfoxmix.cl:7066/stream?icy=http
 https://sonic.portalfoxmix.cl:7046/;
 # 72FM: https://72fm.com/station/0f4edbb3-e548-425f-852a-4b9cbf3bd2eb?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Década de los 90s
-https://stream-283.surfernetwork.com/hxv1ceue74zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoeHYxY2V1ZTc0enV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlDZlV0MTNxUkdtX3htMklDS1lwN1EiLCJpYXQiOjE3OTA4MTkwNDUsImV4cCI6MTc5MDgxOTEwNX0.9l5daxrWjAUvIcvx1WL2fuyieTxo9WCx784ZqC9vlgU
+https://stream-283.surfernetwork.com/hxv1ceue74zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoeHYxY2V1ZTc0enV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IldXU3JiV1M0VDQtcDNxN1NQazJGUUEiLCJpYXQiOjE3OTE4Mjg0OTEsImV4cCI6MTc5MTgyODU1MX0.8qBZx4feuy-8wapqsMObH0dLdbOcTJvejGm4k-KbG0M
 # 72FM: https://72fm.com/station/9dae5fb6-6577-488a-a4c4-17ae73d22f76?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Estilo FM
 https://audio3.tustreaming.cl/7120/stream
 # 72FM: https://72fm.com/station/091790a1-0f81-4cac-abd4-40a1c437cf3d?source=m3u
 #EXTINF:-1 tvg-logo="https://catalogo-rm.prochile.cl/wp-content/uploads/2020/10/LOGO_400-169.jpg" group-title="Chile" radio="true",Rockaxis Radio
 https://cl-a9-p-e-pt11-audio.cdn.mdstrm.com/live-audio/5c0efabde4c87f3f2d3e8036/5de7fdb07e2fde0798203821/playlist.m3u8?aid=5c0efabde4c87f3f2d3e8036&pid=y17ljD0047v09HO15qERoDg1IHF4CMPc&sid=idOANFonoPKF755oWzoId1suQeSvQFai&uid=5bO0dwJoxlycdbJSRZf6jhlZ1cuSVVAK&es=cl-a9-p-e-pt11-audio.cdn.mdstrm.com&ote=1770300062726&ot=-zwH-pCa0tfwVqKtapOryA&proto=https&pz=us&cP=128000
+# 72FM: https://72fm.com/station/68f2b862-0bd5-40ff-8d8c-034fb014a832?source=m3u
+#EXTINF:-1 tvg-logo="https://alasdeaguilas.cl/wp-content/uploads/2020/03/cropped-aguila-1.jpg" group-title="Chile" radio="true",Radio Alas de Águilas 107.5 FM
+http://stream.alasdeaguilas.cl:9332/;
 # 72FM: https://72fm.com/station/6d46dbd7-4f42-4d8b-a039-2d00d52babd7?source=m3u
 #EXTINF:-1 tvg-logo="https://radiomunicipal.cl/wp-content/uploads/2022/06/logo-comprimido.png" group-title="Chile" radio="true",Radio Municipal Iquique 93.3 FM
 http://audio.streaminghd.cl:9202/;
@@ -787,15 +796,18 @@ https://streaming.comunicacioneschile.net/8030/stream
 # 72FM: https://72fm.com/station/4c0d89e2-b6f2-463d-899b-2c54699d390e?source=m3u
 #EXTINF:-1 tvg-logo="https://radioeuroextasis.com/wp-content/uploads/2022/07/LOGO-12-512.png" group-title="Chile" radio="true",Radio Euro Éxtasis
 https://conexion.radioeuroextasis.com/
-# 72FM: https://72fm.com/station/ec855d4a-dd31-4dd5-820e-9bd3a27ee232?source=m3u
-#EXTINF:-1 tvg-logo="https://s1.jcbroadcast.org/static/icons/production/120.png" group-title="Chile" radio="true",Dinamix fm
-http://s1.jcbroadcast.org:8000/stream
 # 72FM: https://72fm.com/station/80732313-2c58-443c-96fe-38e9bf46f85f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioprensa.cl/favicon.ico" group-title="Chile" radio="true",Radio Ignacio Serrano
 https://sonic.portalfoxmix.club/8242/stream/
+# 72FM: https://72fm.com/station/ec855d4a-dd31-4dd5-820e-9bd3a27ee232?source=m3u
+#EXTINF:-1 tvg-logo="https://s1.jcbroadcast.org/static/icons/production/120.png" group-title="Chile" radio="true",Dinamix fm
+http://s1.jcbroadcast.org:8000/stream
 # 72FM: https://72fm.com/station/0d9a72c4-d467-42f5-8445-11144c3738cd?source=m3u
 #EXTINF:-1 tvg-logo="https://radiolapalabra.cl/wp-content/uploads/2024/02/RLP-1-980x980.png" group-title="Chile" radio="true",Radio la Palabra FM
 https://sonic.streamingchilenos.com/8126/stream:8000/;?download=false
+# 72FM: https://72fm.com/station/3b229df2-a91d-408c-bfd3-9b2eae134487?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Radio Montecarlo
+https://sonic.mallocohosting.cl/8032/stream
 # 72FM: https://72fm.com/station/30cbab1c-b1cf-445d-bc4d-275636b591b9?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Almeyda
 https://sonic.streamingchilenos.com/9974/stream.aac
@@ -805,18 +817,15 @@ https://stream-159.zeno.fm/dg69bex4gxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 # 72FM: https://72fm.com/station/700af025-21f0-4425-8855-4bd485a20d5f?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Infinita
 https://mdstrm.com/audio/639b791cea22540890cd1d8b/icecast.audio
-# 72FM: https://72fm.com/station/3b229df2-a91d-408c-bfd3-9b2eae134487?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Radio Montecarlo
-https://sonic.mallocohosting.cl/8032/stream
-# 72FM: https://72fm.com/station/63577159-6318-424f-aa6c-f30da3737065?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/la-surena.png" group-title="Chile" radio="true",Radio la Sureña
-https://stream-287.surfernetwork.com/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkNyZ3l0eVAyUWNLUEVkbVNhbHpteGciLCJpYXQiOjE3OTA4ODEwMjIsImV4cCI6MTc5MDg4MTA4Mn0.wUA2VNzdGYnrr2HQcA5BZkU-sQ4C3PW2B92Q3ZK-kM4
 # 72FM: https://72fm.com/station/f2bf4b90-e1a0-4371-8c3c-9ddbb77c04fb?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",FM+ 92.3 Radio Talca
 https://audio5.tustreaming.cl/8010/fmmas
 # 72FM: https://72fm.com/station/552a0e18-6411-4564-a7e2-adc3e8a4b474?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio La Calera 105.5
 http://archi-us.digitalproserver.com/la-calera.aac
+# 72FM: https://72fm.com/station/63577159-6318-424f-aa6c-f30da3737065?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/la-surena.png" group-title="Chile" radio="true",Radio la Sureña
+https://stream-287.surfernetwork.com/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjN2YW10R09HUm5xUllIOWZ5dlJJNkEiLCJpYXQiOjE3OTE4NDA0MzQsImV4cCI6MTc5MTg0MDQ5NH0.QFRQqu2-IsS-PL336A0ps8Qtg53kVQZ5-tUu6X5MZjk
 # 72FM: https://72fm.com/station/adcea298-ca05-4c19-98ae-ecdf9d855d03?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Happy Radio Chile
 https://a6.asurahosting.com:8840/radio.mp3
@@ -829,21 +838,27 @@ https://sonicstream-puntual.grupozgh.cl/8040/radioua
 # 72FM: https://72fm.com/station/8c79fb35-8059-4626-96f7-49fe990e693d?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Salsa Chile
 https://stream.zeno.fm/70sehzr9ssluv
-# 72FM: https://72fm.com/station/d2b617f7-83ce-4d02-97bf-fb7084f1c10a?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Universo FM
-http://unlimited3-cl.dps.live/universo/mp3/icecast.audio
 # 72FM: https://72fm.com/station/4b395336-7aed-446a-8ade-fd5d9c282c16?source=m3u
 #EXTINF:-1 tvg-logo="https://radioatractivafm.cl/atractivafm/site/artic/20230512/imag/foto_0000000420230512131258/logo-atractiva2.png" group-title="Chile" radio="true",Atractiva 101.3
 https://sonicstream-puntual.grupozgh.cl/8126/;
+# 72FM: https://72fm.com/station/d2b617f7-83ce-4d02-97bf-fb7084f1c10a?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Universo FM
+http://unlimited3-cl.dps.live/universo/mp3/icecast.audio
 # 72FM: https://72fm.com/station/2178e1da-e5e6-40af-ba8f-05a4162b0be7?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Desierto FM
 https://broadcast.radio247.net/listen/desierto_web/radio.mp3
 # 72FM: https://72fm.com/station/78131840-0694-4baf-93bc-fb6510e5bb39?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",LibelulaChile ONLINE
 https://radio.libelulachile.cl/listen/online/radio.mp3
+# 72FM: https://72fm.com/station/28de5900-711d-4558-b27a-a56a9ab37bcd?source=m3u
+#EXTINF:-1 tvg-logo="https://radiomunicipal.cl/wp-content/uploads/2022/06/logo-comprimido.png" group-title="Chile" radio="true",Radio Municipal Iquique
+https://audio.streaminghd.cl:2000/stream/radiomunicipaliquique/;stream.mp3
 # 72FM: https://72fm.com/station/78fe0e8d-2a83-4481-9f0d-9f7b244666fe?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.uchile.cl/wp-content/themes/duch-2026/assets/i/favicon-160px.png" group-title="Chile" radio="true",Radio Universidad de Chile
 http://streamuchile.teslati.com/liveruch
+# 72FM: https://72fm.com/station/92dce4c1-946c-4cc0-a7ae-fac1e4934d12?source=m3u
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lwQt8zE6mFXn3q-MrgZBvBoqLNG2WsprXsuexaGwXqlsnL=s160-c-k-c0x00ffffff-no-rj" group-title="Chile" radio="true",Radio Urbana FM
+https://sonic-us.arkeo.cl/8574/stream
 # 72FM: https://72fm.com/station/1623b53c-64e6-40c0-8b05-983b50e24270?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",BlueRadio
 https://stream.zeno.fm/udk5orfzet5vv
@@ -868,9 +883,6 @@ http://14073.live.streamtheworld.com:3690/ADNAAC_SC
 # 72FM: https://72fm.com/station/61f6ef0d-e14a-4b56-a557-3a815fe98ff8?source=m3u
 #EXTINF:-1 tvg-logo="https://radioangelina.cl/portal/assets/img/logoRadioAngelina.png" group-title="Chile" radio="true",Radio Angelina 730 AM
 https://sonic.portalfoxmix.cl:7025/;
-# 72FM: https://72fm.com/station/28de5900-711d-4558-b27a-a56a9ab37bcd?source=m3u
-#EXTINF:-1 tvg-logo="https://radiomunicipal.cl/wp-content/uploads/2022/06/logo-comprimido.png" group-title="Chile" radio="true",Radio Municipal Iquique
-https://audio.streaminghd.cl:2000/stream/radiomunicipaliquique/;stream.mp3
 # 72FM: https://72fm.com/station/2819ded1-bb9c-4c75-a5a5-2ae200053151?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Nativa FM
 http://stm3.srvif.com:8090/;
@@ -880,27 +892,15 @@ http://audio.streaminghd.cl:9016/stream
 # 72FM: https://72fm.com/station/96e7702c-de81-4995-9eff-5995420bd85d?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio San Gabriel FM
 https://archi-us.digitalproserver.com/san-gabriel-fm.aac
-# 72FM: https://72fm.com/station/92dce4c1-946c-4cc0-a7ae-fac1e4934d12?source=m3u
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lwQt8zE6mFXn3q-MrgZBvBoqLNG2WsprXsuexaGwXqlsnL=s160-c-k-c0x00ffffff-no-rj" group-title="Chile" radio="true",Radio Urbana FM
-https://sonic-us.arkeo.cl/8574/stream
 # 72FM: https://72fm.com/station/2bc4e334-7324-47e7-9625-a17b40b98a7c?source=m3u
 #EXTINF:-1 tvg-logo="https://logo.vconline.cl/ruidosfm.png" group-title="Chile" radio="true",RUIDOS FM
 https://sonic.streamingchilenos.com/9880/stream
 # 72FM: https://72fm.com/station/ee096666-782b-4a4b-a151-6e8d0839f16c?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Sunrise
 https://sonic-cl.arkeo.cl/8044/stream
-# 72FM: https://72fm.com/station/fefe7eeb-5878-46d7-ab60-d6b4175e54f1?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Acordes de Chile
-https://cast1.my-control-panel.com/proxy/acordesdechile/stream
 # 72FM: https://72fm.com/station/6fd32a3c-9b76-4edc-b19b-7800f64ffdaf?source=m3u
 #EXTINF:-1 group-title="Chile" radio="true",Radio Clásica FM Chile
 https://sp001.servidoresph.com:8130/;
-# 72FM: https://72fm.com/station/05f64448-7f04-40c9-b081-2aa9af4d6343?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",EchoBeat FM
-https://as100.globalhost1.com/8004/stream
-# 72FM: https://72fm.com/station/72e22acc-7f8f-4da6-a11a-496cd7ea2acb?source=m3u
-#EXTINF:-1 group-title="Chile" radio="true",Radio 7 Tazas de Molina FM
-https://miradio.f96.cl/8006/streaming
-# 72FM: https://72fm.com/station/87f2460d-5531-4a68-bead-de1fd063f77e?source=m3u
-#EXTINF:-1 tvg-logo="https://radiomix360.cl/favicon.png" group-title="Chile" radio="true",Radio Mix 360 |
-https://sp001.servidoresph.com:7035/stream
+# 72FM: https://72fm.com/station/fefe7eeb-5878-46d7-ab60-d6b4175e54f1?source=m3u
+#EXTINF:-1 group-title="Chile" radio="true",Acordes de Chile
+https://cast1.my-control-panel.com/proxy/acordesdechile/stream

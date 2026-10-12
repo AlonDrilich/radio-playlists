@@ -153,7 +153,7 @@ http://direct.franceinter.fr/live/franceinter-midfi.mp3
 http://29318.live.streamtheworld.com:3690/977_80_SC
 # 72FM: https://72fm.com/station/961d5c4e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",.977 Hitz
-http://29308.live.streamtheworld.com/977_HITS_SC
+http://18853.live.streamtheworld.com:3690/977_HITS_SC
 # 72FM: https://72fm.com/station/01b61e49-18bd-486d-b0e1-cb51cbaf9a6d?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw" group-title="France" radio="true",Skyrock
 http://icecast.skyrock.net/s/natio_mp3_128k
@@ -166,24 +166,24 @@ http://radio.stereoscenic.com/asp-h
 # 72FM: https://72fm.com/station/960de706-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Шансон Радио
 http://chanson.hostingradio.ru:8041/chanson128.mp3
-# 72FM: https://72fm.com/station/961e5274-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://dorognoe.ru/assets/default/i/fav_114x114.png" group-title="Russia" radio="true",дорожное радио (Dorognoe Radio)
-http://dorognoe.hostingradio.ru:8000/dorognoe
 # 72FM: https://72fm.com/station/961787d1-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="United States" radio="true",Frisky
 http://stream2.friskyradio.com/frisky_mp3_hi
+# 72FM: https://72fm.com/station/961e5274-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://dorognoe.ru/assets/default/i/fav_114x114.png" group-title="Russia" radio="true",дорожное радио (Dorognoe Radio)
+http://dorognoe.hostingradio.ru:8000/dorognoe
 # 72FM: https://72fm.com/station/8e63e8b6-4e70-4bc0-9f5d-07e8477a4480?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDeG4UfceNKx39_KEr8RQhM3QX5kSdpK6zQ&usqp=CAU" group-title="Egypt" radio="true",إذاعة القرآن الكريم من القاهرة
 http://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5
 # 72FM: https://72fm.com/station/59e30dda-64bf-11ea-be63-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",Radio Zet
 http://zet-net-01.cdn.eurozet.pl:8400/
-# 72FM: https://72fm.com/station/9614bbb6-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="United Kingdom" radio="true",LBC Radio
-http://media-sov.musicradio.com/LBC973MP3Low
 # 72FM: https://72fm.com/station/6ce8da92-859f-4f96-a5e4-503c1ddfbfbf?source=m3u
 #EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="United States" radio="true",Classic Vinyl HD Opus
 https://icecast.walmradio.com:8443/classic_opus
+# 72FM: https://72fm.com/station/9614bbb6-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="United Kingdom" radio="true",LBC Radio
+http://media-sov.musicradio.com/LBC973MP3Low
 # 72FM: https://72fm.com/station/e3d8f94f-156e-11e9-a80b-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Russia" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
@@ -234,7 +234,7 @@ http://nashe1.hostingradio.ru/nashe-128.mp3
 http://rock.volna.top/RusRock
 # 72FM: https://72fm.com/station/961dbb40-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",.977 The Mix
-http://24293.live.streamtheworld.com:3690/977_MIX_SC
+http://15113.live.streamtheworld.com/977_MIX_SC
 # 72FM: https://72fm.com/station/960c37c6-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png" group-title="Spain" radio="true",Cadena 100
 http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3
@@ -390,7 +390,7 @@ http://streams.echoesofbluemars.org:8000/cryosleep
 http://shoutcast3.streamingmedia.it:3162/
 # 72FM: https://72fm.com/station/9614b5e5-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="United States" radio="true",SomaFM Underground 80s (128k MP3)
-https://ice5.somafm.com/u80s-128-mp3
+https://ice2.somafm.com/u80s-128-mp3
 # 72FM: https://72fm.com/station/96201b3d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Arabesk FM
 http://yayin.arabeskfm.biz:8042/
@@ -459,7 +459,7 @@ http://158.69.114.190:8065/;
 https://onair.armisa.it/listen/armisa/radio.mp3
 # 72FM: https://72fm.com/station/960cc332-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/160x160/extaudio/8/5/8/a/f8e6-9555-4eb9-8005-1ec4dabd55ce.jpg" group-title="United States" radio="true",Bassdrive
-http://stream.bassdrive.uk:8200/
+http://chi.bassdrive.co/
 # 72FM: https://72fm.com/station/3dcd0385-1171-4a95-b31e-81d78af8bfac?source=m3u
 #EXTINF:-1 tvg-logo="https://diwanfm.net/favicon.ico" group-title="Tunisia" radio="true",diwanfm
 https://streaming.diwanfm.net/stream
@@ -550,15 +550,15 @@ http://bookradio.hostingradio.ru:8069/fm
 # 72FM: https://72fm.com/station/96394224-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/indiepop-400.jpg" group-title="United States" radio="true",SomaFM Indie Pop Rocks! (128k AAC)
 https://ice2.somafm.com/indiepop-128-aac
+# 72FM: https://72fm.com/station/64b357e7-d9e9-4cb6-99b5-4cb6cef785cc?source=m3u
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" group-title="United States" radio="true",WALM - Old Time Radio Opus
+https://icecast.walmradio.com:8443/otr_opus
 # 72FM: https://72fm.com/station/531fced7-b22b-11e8-afe1-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/apple-touch-icon.png" group-title="Brazil" radio="true",Antena 1 FM 94.7 São Paulo
 http://antena1.newradio.it/stream
 # 72FM: https://72fm.com/station/b6fa9d93-97bf-48b0-8624-e8f84b817823?source=m3u
 #EXTINF:-1 tvg-logo="https://icecast.anon.fm/favicon.png" group-title="Russia" radio="true",Anon.FM
 https://icecast.anon.fm/radio
-# 72FM: https://72fm.com/station/64b357e7-d9e9-4cb6-99b5-4cb6cef785cc?source=m3u
-#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" group-title="United States" radio="true",WALM - Old Time Radio Opus
-https://icecast.walmradio.com:8443/otr_opus
 # 72FM: https://72fm.com/station/960969eb-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png" group-title="Türkiye" radio="true",Virgin Radio Türkiye
 http://29073.live.streamtheworld.com:3690/VIRGIN_RADIO_SC
@@ -637,12 +637,12 @@ http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
 # 72FM: https://72fm.com/station/6de7e6da-5c4f-4264-ab2d-bbc731219f7d?source=m3u
 #EXTINF:-1 group-title="India" radio="true",Hits Of Bollywood
 http://stream.zeno.fm/8ty8szwpwfeuv
-# 72FM: https://72fm.com/station/96126f56-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/640px-NPO_Radio_1_logo_2014.svg.png" group-title="Netherlands" radio="true",NPO Radio 1
-http://icecast.omroep.nl/radio1-bb-mp3
 # 72FM: https://72fm.com/station/9dc2bd8c-ef1c-421c-be0c-dd9f4a30f965?source=m3u
 #EXTINF:-1 group-title="Ukraine" radio="true",Rock Ballads
 http://online.radioroks.ua/RadioROKS_Ballads
+# 72FM: https://72fm.com/station/96126f56-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/640px-NPO_Radio_1_logo_2014.svg.png" group-title="Netherlands" radio="true",NPO Radio 1
+http://icecast.omroep.nl/radio1-bb-mp3
 # 72FM: https://72fm.com/station/902ea231-d537-4dc8-8708-6819418086d0?source=m3u
 #EXTINF:-1 group-title="India" radio="true",Vivid Bharti
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
@@ -750,7 +750,7 @@ http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.mp3
 https://eu8.fastcast4u.com/proxy/clyedupq/stream
 # 72FM: https://72fm.com/station/961e6ff1-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",.977 Oldies
-http://17573.live.streamtheworld.com/977_OLDIES_SC
+http://17573.live.streamtheworld.com:3690/977_OLDIES_SC
 # 72FM: https://72fm.com/station/960c0a73-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Hungary" radio="true",Kossuth Rádió
 http://mr-stream.mediaconnect.hu/4734/mr1.aac
@@ -817,12 +817,12 @@ http://icecast2.play.cz:8000/country128aac
 # 72FM: https://72fm.com/station/961d41f3-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Europa FM
 http://astreaming.europafm.ro:8000/europafm_aacp48k
-# 72FM: https://72fm.com/station/962a66fd-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Switzerland" radio="true",1.FM - Classic Country Radio
-http://strm112.1.fm/ccountry_mobile_mp3
 # 72FM: https://72fm.com/station/dc722c5e-21a0-49be-8687-474638c95ca7?source=m3u
 #EXTINF:-1 group-title="China" radio="true",凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+# 72FM: https://72fm.com/station/962a66fd-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Switzerland" radio="true",1.FM - Classic Country Radio
+http://strm112.1.fm/ccountry_mobile_mp3
 # 72FM: https://72fm.com/station/5ce6f88b-6308-420d-aa40-343dbdab6c61?source=m3u
 #EXTINF:-1 group-title="Ukraine" radio="true",Radio ROKS Hard'n'Heavy
 http://online.radioroks.ua/RadioROKS_HardnHeavy_HD
@@ -832,15 +832,15 @@ http://31.192.216.8/RMFCLASSIC48
 # 72FM: https://72fm.com/station/9618e0b5-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",DIGI FM
 http://edge76.rdsnet.ro:84/digifm/digifm.mp3
+# 72FM: https://72fm.com/station/ca359617-6b25-4df0-83ba-5b3793386377?source=m3u
+#EXTINF:-1 group-title="Yemen" radio="true",Sam FM
+http://edge.mixlr.com/channel/kijwr
 # 72FM: https://72fm.com/station/b7e7bb7b-b41a-11e8-afe1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",90s90s Dance HQ
 http://streams.90s90s.de/eurodance/mp3-192/radiode/
 # 72FM: https://72fm.com/station/961af0bd-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Colombia" radio="true",W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio
 http://27403.live.streamtheworld.com:3690/WRADIO_SC
-# 72FM: https://72fm.com/station/ca359617-6b25-4df0-83ba-5b3793386377?source=m3u
-#EXTINF:-1 group-title="Yemen" radio="true",Sam FM
-http://edge.mixlr.com/channel/kijwr
 # 72FM: https://72fm.com/station/96113f20-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radioparty.pl Dj Mixes Party
 http://djmixes.radioparty.pl:8035/
@@ -913,12 +913,12 @@ http://stream.zeno.fm/pnwpbyfambruv
 # 72FM: https://72fm.com/station/62a5bcf1-ebc5-4cb6-afeb-d40ac4195ab3?source=m3u
 #EXTINF:-1 group-title="India" radio="true",Hits Of Kishor Kumar
 http://stream.zeno.fm/pg6rqp8ztm0uv
-# 72FM: https://72fm.com/station/4c1ec953-fcf5-4bf1-b03b-4be73ad4cb3f?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6417q.png" group-title="Tanzania" radio="true",Clouds FM
-http://eu6.fastcast4u.com:5306/;
 # 72FM: https://72fm.com/station/7460fe1a-700e-4925-9990-72df7e00e1a3?source=m3u
 #EXTINF:-1 tvg-logo="https://radiomojdeh.com/favicon.ico" group-title="Iran" radio="true",Radio Mojdeh - Iranian Farsi/Persian Christian music and talk
 https://ic2326.c1261.fastserv.com/rm128
+# 72FM: https://72fm.com/station/4c1ec953-fcf5-4bf1-b03b-4be73ad4cb3f?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6417q.png" group-title="Tanzania" radio="true",Clouds FM
+http://eu6.fastcast4u.com:5306/;
 # 72FM: https://72fm.com/station/659f5596-51a8-4e3a-802e-ef5e6ceb61d0?source=m3u
 #EXTINF:-1 group-title="Mexico" radio="true",Cumbias Inmortales Radio (Monterrey) - Online - www.cumbiasinmortales.com - Grupo Digital Retroland - Monterrey, Nuevo L
 https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen
@@ -931,24 +931,24 @@ http://stream.zeno.fm/0zkr7x8ztm0uv
 # 72FM: https://72fm.com/station/5e992e1e-e6ef-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" group-title="France" radio="true",France Musique
 http://icecast.radiofrance.fr/francemusique-hifi.aac
-# 72FM: https://72fm.com/station/9641c132-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://fmradiomanele.ro/favicon.ico" group-title="Romania" radio="true",Radio Manele FM
-http://a.fmradiomanele.ro:8054/;
 # 72FM: https://72fm.com/station/33178054-56cd-449c-8cf7-412cc7be936a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.cnn.com/media/sites/cnn/favicon.ico" group-title="United States" radio="true",CNN
 https://tunein.cdnstream1.com/2868_96.mp3
+# 72FM: https://72fm.com/station/9641c132-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://fmradiomanele.ro/favicon.ico" group-title="Romania" radio="true",Radio Manele FM
+http://a.fmradiomanele.ro:8054/;
 # 72FM: https://72fm.com/station/963fb135-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://pp.userapi.com/c837231/v837231617/5990/ChfZPOJgSmA.jpg" group-title="Kazakhstan" radio="true",Radio 90s Eurodance
 https://listen1.myradio24.com/5967
 # 72FM: https://72fm.com/station/46b51010-c2c5-45b6-a71c-84d168a705a3?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24506g.png" group-title="Mexico" radio="true",La Ranchera de Monterrey - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, NL
 http://streamingcwsradio20.com:9410/stream
-# 72FM: https://72fm.com/station/fa76f16f-dc31-11e9-a8ba-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Heart Dance
-https://media-ssl.musicradio.com/HeartDanceMP3
 # 72FM: https://72fm.com/station/12bd299d-af73-4bd0-903d-b602afd4485f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Yemen" radio="true",Afaq FM راديو آفاق
 http://edge.mixlr.com/channel/rumps
+# 72FM: https://72fm.com/station/fa76f16f-dc31-11e9-a8ba-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="United Kingdom" radio="true",Heart Dance
+https://media-ssl.musicradio.com/HeartDanceMP3
 # 72FM: https://72fm.com/station/96126e82-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NPO_Radio_2_logo.svg/640px-NPO_Radio_2_logo.svg.png" group-title="Netherlands" radio="true",NPO Radio 2
 http://icecast.omroep.nl/radio2-bb-mp3
@@ -987,7 +987,7 @@ http://31.192.216.7/90S
 https://ice5.somafm.com/lush-128-mp3
 # 72FM: https://72fm.com/station/0012c08a-31e7-48c6-87a9-7f64736e0a38?source=m3u
 #EXTINF:-1 tvg-logo="https://metrofm.com.tr/favicon.ico" group-title="Türkiye" radio="true",Metro FM
-http://25703.live.streamtheworld.com/METRO_FMAAC_SC
+http://22183.live.streamtheworld.com:3690/METRO_FMAAC_SC
 # 72FM: https://72fm.com/station/46e58cb0-de1f-4664-a5a5-0807d1ef8c0f?source=m3u
 #EXTINF:-1 tvg-logo="https://radioullash.com/wp-content/uploads/2021/07/cropped-radio-ullash-round-180x180.png" group-title="Bangladesh" radio="true",Radio Ullash
 http://stream.zeno.fm/gpgkgp9mp18uv.mp3
@@ -1012,6 +1012,9 @@ http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
 # 72FM: https://72fm.com/station/96414555-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Morocco" radio="true",Radio Aswat
 http://broadcast.ice.infomaniak.ch/aswat-high.mp3?.mp3
+# 72FM: https://72fm.com/station/961fb4b2-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Switzerland" radio="true",1.FM - Chillout Lounge Radio
+http://strm112.1.fm/chilloutlounge_mobile_mp3
 # 72FM: https://72fm.com/station/724e92cd-9d57-4fef-b7e6-adad9fcc270d?source=m3u
 #EXTINF:-1 group-title="Nepal" radio="true",Kantipur FM
 https://radio-broadcast.ekantipur.com/stream
@@ -1027,15 +1030,15 @@ https://stream.radioplus.mu:8000/radio.mp3
 # 72FM: https://72fm.com/station/55275efc-1ee2-4a52-9aef-7fb632c7f3e8?source=m3u
 #EXTINF:-1 tvg-logo="https://maximum.fm/assets/images/favicons/favicon-96x96.png?v=53" group-title="Ukraine" radio="true",Радіо Максимум 94.2
 http://lux.radio.tvstitch.com/kyiv/max_adv_sd
-# 72FM: https://72fm.com/station/9619e894-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="United Kingdom" radio="true",TMM 2
-https://listen-msmn.sharp-stream.com/nme2.mp3
-# 72FM: https://72fm.com/station/29a68b7f-f573-4b19-b3ba-cdbb0979e348?source=m3u
-#EXTINF:-1 group-title="Russia" radio="true",Вести FM (AAC)
-https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps
 # 72FM: https://72fm.com/station/ec389853-09d2-499a-8be2-f58dfe8f118c?source=m3u
 #EXTINF:-1 group-title="Iran" radio="true",RadioSimorgh
 https://stream.zeno.fm/jl8n7thgcdftv
+# 72FM: https://72fm.com/station/29a68b7f-f573-4b19-b3ba-cdbb0979e348?source=m3u
+#EXTINF:-1 group-title="Russia" radio="true",Вести FM (AAC)
+https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps
+# 72FM: https://72fm.com/station/9619e894-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="United Kingdom" radio="true",TMM 2
+https://listen-msmn.sharp-stream.com/nme2.mp3
 # 72FM: https://72fm.com/station/963559d7-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png" group-title="Bulgaria" radio="true",Energy NRJ Bulgaria
 http://play.global.audio/nrj128
@@ -1074,7 +1077,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 http://162.244.80.118:4900/;stream.mp3
 # 72FM: https://72fm.com/station/96318993-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Colombia" radio="true",La Kalle
-http://24273.live.streamtheworld.com:3690/LA_KALLE_SC
+http://26683.live.streamtheworld.com:3690/LA_KALLE_SC
 # 72FM: https://72fm.com/station/9513b20b-e4bd-11e8-a9cc-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.arrow.nl/wp-content/themes/bones-master/library/images/apple-touch-icon.png" group-title="Netherlands" radio="true",Arrow Classic Rock
 http://stream.gal.io/arrow
@@ -1165,42 +1168,42 @@ http://netradio.live24.gr/realfm
 # 72FM: https://72fm.com/station/0e5dfcc8-99e2-4fed-a232-7f4bf23ba3c3?source=m3u
 #EXTINF:-1 group-title="India" radio="true",Mirchi Love
 https://drive.uber.radio/uber/bollywoodlove/icecast.audio
-# 72FM: https://72fm.com/station/a1fbace9-f758-443d-8bca-2dd43c64898a?source=m3u
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/14pqOm4XzVJvRZa9oV3Iq9GeTPlIVhxdV/view?usp=drivesdk" group-title="Iran" radio="true",RadioSimorgh Authentic Iranian music
-https://stream.zeno.fm/9svfnobkrxrvv
 # 72FM: https://72fm.com/station/5fba48df-c08f-47b1-951c-3b43e162a345?source=m3u
 #EXTINF:-1 group-title="Yemen" radio="true",Radio Lana FM
 http://node-24.zeno.fm/542gubz258quv
+# 72FM: https://72fm.com/station/a1fbace9-f758-443d-8bca-2dd43c64898a?source=m3u
+#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/14pqOm4XzVJvRZa9oV3Iq9GeTPlIVhxdV/view?usp=drivesdk" group-title="Iran" radio="true",RadioSimorgh Authentic Iranian music
+https://stream.zeno.fm/9svfnobkrxrvv
 # 72FM: https://72fm.com/station/98b22cd2-0ec8-4bb1-a5f6-f168de7548b5?source=m3u
 #EXTINF:-1 tvg-logo="https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png" group-title="Hungary" radio="true",Retro Rádió
 https://icast.connectmedia.hu/5001/live.mp3
 # 72FM: https://72fm.com/station/c97e2821-9f9e-4ee3-b043-25823e459832?source=m3u
 #EXTINF:-1 tvg-logo="https://www.okradio.net/wp-content/uploads/2021/11/ok-logo-m.png" group-title="Serbia" radio="true",OK radio
 https://sslstream.okradio.net/;?type=http&nocache=8804
-# 72FM: https://72fm.com/station/96286b1d-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Italy" radio="true",RMC 80
-http://edge.radiomontecarlo.net/rmcweb008
 # 72FM: https://72fm.com/station/1010a082-c072-482d-b664-1f9f7d34f9fc?source=m3u
 #EXTINF:-1 group-title="Indonesia" radio="true",Suara Giri 98.4 FM
 http://streaming.girifm.com:8010/
-# 72FM: https://72fm.com/station/09f8922f-56bb-41bd-ad35-a7e54c5520e3?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",KRAL TÜRK FM
-https://live.radyositesihazir.com/8032/stream
+# 72FM: https://72fm.com/station/96286b1d-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Italy" radio="true",RMC 80
+http://edge.radiomontecarlo.net/rmcweb008
 # 72FM: https://72fm.com/station/064734c4-5ca8-4b17-b1ad-587e1c2896d6?source=m3u
 #EXTINF:-1 group-title="Tunisia" radio="true",Mosaique FM Tarab
 https://radio.mosaiquefm.net/mosatarab
+# 72FM: https://72fm.com/station/09f8922f-56bb-41bd-ad35-a7e54c5520e3?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",KRAL TÜRK FM
+https://live.radyositesihazir.com/8032/stream
 # 72FM: https://72fm.com/station/9121aa97-ef1e-11e8-a471-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Sky Arabia News TV
 http://stream.skynewsarabia.com/hls/sna_720.m3u8
 # 72FM: https://72fm.com/station/960c341d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",NTV Radyo
 http://46.20.3.207/listen.pls
-# 72FM: https://72fm.com/station/961f3711-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Ukraine" radio="true",Громадське радіо / Hromadske radio
-http://91.218.212.67:8000/stream
 # 72FM: https://72fm.com/station/24711f7f-8ff5-4141-8e0f-ab17f3da1b89?source=m3u
 #EXTINF:-1 group-title="China" radio="true",怀集音乐之声
 https://lhttp.qingting.fm/live/4804/64k.mp3
+# 72FM: https://72fm.com/station/961f3711-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Ukraine" radio="true",Громадське радіо / Hromadske radio
+http://91.218.212.67:8000/stream
 # 72FM: https://72fm.com/station/b2357cbe-d080-4099-8cae-770539945230?source=m3u
 #EXTINF:-1 group-title="Indonesia" radio="true",elshinta jakarta
 https://stream-ssl.arenastreaming.com:8000/jakarta
@@ -1231,33 +1234,33 @@ http://server1.chilltrax.com:9000/
 # 72FM: https://72fm.com/station/82a04c36-2885-4e19-8c4b-6eda5a2ae90d?source=m3u
 #EXTINF:-1 group-title="Tunisia" radio="true",Radio Tunisie Sfax
 http://rtstream.tanitweb.com/sfax
-# 72FM: https://72fm.com/station/961ddf4b-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.kiss929.gr/sites/default/files/kiss.ico" group-title="Greece" radio="true",Kiss 92.9
-http://netradio.live24.gr/kissfmathens
 # 72FM: https://72fm.com/station/a23469c1-a0f4-42f7-80d3-ca69f6ddaa01?source=m3u
 #EXTINF:-1 group-title="Iran" radio="true",go
 https://stream.zeno.fm/v5kxmagseg0uv
+# 72FM: https://72fm.com/station/961ddf4b-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.kiss929.gr/sites/default/files/kiss.ico" group-title="Greece" radio="true",Kiss 92.9
+http://netradio.live24.gr/kissfmathens
 # 72FM: https://72fm.com/station/81cee789-221c-45a5-abe0-cc07e8e9589f?source=m3u
 #EXTINF:-1 tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ16Ll_QkMCxIOU3RhdGlvblByb2ZpbGUYgIDQz-qz9QkMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="India" radio="true",Goldy Cool
 https://stream.zeno.fm/3k1fb86tfm8uv
 # 72FM: https://72fm.com/station/835070cd-bf45-4e48-88a4-e9f9a0d7dd9e?source=m3u
 #EXTINF:-1 group-title="China" radio="true",CNR-1 中国之声
 https://lhttp.qtfm.cn/live/15318317/64k.mp3
-# 72FM: https://72fm.com/station/576e64fd-74ac-11ea-b1cf-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Slovakia" radio="true",Radio FM
-https://icecast.stv.livebox.sk/fm_128.mp3
 # 72FM: https://72fm.com/station/9615d27a-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Australia" radio="true",ABC NewsRadio MP3
 http://abc.streamguys1.com/live/newsradio/icecast.audio
+# 72FM: https://72fm.com/station/576e64fd-74ac-11ea-b1cf-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Slovakia" radio="true",Radio FM
+https://icecast.stv.livebox.sk/fm_128.mp3
 # 72FM: https://72fm.com/station/0155ec12-7308-468a-88dc-fcbd440e01da?source=m3u
 #EXTINF:-1 group-title="Egypt" radio="true",إذاعة مصطفى إسماعيل
 https://qurango.net/radio/mustafa_ismail
-# 72FM: https://72fm.com/station/9619ef9e-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Hard Rock
-http://icy.unitedradio.it/VirginHardRock.mp3
 # 72FM: https://72fm.com/station/3a386176-7b44-46eb-9461-75fc96121c99?source=m3u
 #EXTINF:-1 tvg-logo="https://radiokp.ru/modules/custom/dna_kpradio/modules/kp_favicon/img/favicon-194x194.png?v=1.1" group-title="Russia" radio="true",Комсомольская правда
 https://kpradio.hostingradio.ru:8000/64
+# 72FM: https://72fm.com/station/9619ef9e-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Hard Rock
+http://icy.unitedradio.it/VirginHardRock.mp3
 # 72FM: https://72fm.com/station/96185f35-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Greece" radio="true",Sport FM 94.6
 http://netradio.live24.gr/sportfm7712
@@ -1285,12 +1288,12 @@ http://radio.autoliferadio.com:8090/radio
 # 72FM: https://72fm.com/station/d77d6bb3-8a1a-11e9-ad01-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Cafe Romania
 http://live.radiocafe.ro:8048/live.aac
-# 72FM: https://72fm.com/station/961ae516-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Guerrilla
-http://live.guerrillaradio.ro:8010/guerrilla.aac
 # 72FM: https://72fm.com/station/7c53ff0d-1fd7-49f5-9a63-1c6594de4677?source=m3u
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Yemen" radio="true",صوت المقاومة
 https://node-23.zeno.fm/b67qheuk54zuv
+# 72FM: https://72fm.com/station/961ae516-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Guerrilla
+http://live.guerrillaradio.ro:8010/guerrilla.aac
 # 72FM: https://72fm.com/station/39215908-b5f6-40d9-875c-57248dfe314a?source=m3u
 #EXTINF:-1 group-title="Egypt" radio="true",Amr Diab Radio
 https://stream-40.zeno.fm/xa4yhh4k838uv?zs=gojgaFRaRrK1wgGIwdv6xA
@@ -1324,21 +1327,21 @@ http://213.230.109.7:9000/alo_low
 # 72FM: https://72fm.com/station/8bee6f3f-5bbd-4a2a-9cb9-0b75063f35b2?source=m3u
 #EXTINF:-1 group-title="Egypt" radio="true",---تراتيل قصيرة متميزة---
 https://qurango.net/radio/tarateel
-# 72FM: https://72fm.com/station/9610a72f-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Only Women
-http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
 # 72FM: https://72fm.com/station/c12d8e4d-8b61-41a3-9699-5fdba4554aad?source=m3u
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Yemen" radio="true",Huna Aden FM
 https://c30.radioboss.fm:18267/stream
+# 72FM: https://72fm.com/station/9610a72f-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Only Women
+http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
 # 72FM: https://72fm.com/station/a9e20c5b-0758-46e6-8f70-fa2ab481b72d?source=m3u
 #EXTINF:-1 group-title="Iran" radio="true",hamsafar
-http://n0b.radiojar.com/pyea7q9h5ehvv
-# 72FM: https://72fm.com/station/368ef657-f8b5-47ce-b578-337e401cc744?source=m3u
-#EXTINF:-1 tvg-logo="https://www.vdl.me/wp-content/uploads/2020/12/images.png" group-title="Lebanon" radio="true",Voice of Lebanon (Sawtlebnan) Radio
-https://l3.itworkscdn.net/itwaudio/9054/stream
+http://n04.radiojar.com/pyea7q9h5ehvv
 # 72FM: https://72fm.com/station/3c807031-f9f0-4d60-b696-1482249cb74c?source=m3u
 #EXTINF:-1 group-title="Iran" radio="true",Radio Faaz
 https://free.rcast.net/230792
+# 72FM: https://72fm.com/station/368ef657-f8b5-47ce-b578-337e401cc744?source=m3u
+#EXTINF:-1 tvg-logo="https://www.vdl.me/wp-content/uploads/2020/12/images.png" group-title="Lebanon" radio="true",Voice of Lebanon (Sawtlebnan) Radio
+https://l3.itworkscdn.net/itwaudio/9054/stream
 # 72FM: https://72fm.com/station/8fae0da6-d485-4e98-8860-d71720a49dcc?source=m3u
 #EXTINF:-1 group-title="Ukraine" radio="true",Kiss FM Ukrainian
 https://online.kissfm.ua/KissFM_Ukr
@@ -1399,12 +1402,12 @@ http://stream.rfm.fr/rfm.mp3
 # 72FM: https://72fm.com/station/7e41d6c6-1842-4ecf-9c6e-2901fdca18ca?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",The Jazz Groove - East
 http://east-mp3-128.streamthejazzgroove.com/stream
-# 72FM: https://72fm.com/station/7ada8a81-5ae1-418c-8f18-51d2f38d86a4?source=m3u
-#EXTINF:-1 tvg-logo="https://bossajazzbrasil.com/wp-content/uploads/2020/12/cropped-bjs-app-180x180.png" group-title="Brazil" radio="true",Bossa Jazz Brasil
-https://centova5.transmissaodigital.com:20104/live
 # 72FM: https://72fm.com/station/780b212d-189c-45e2-828d-76cc6164ef5f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.veseloeradio.ru/design/images/assets/img/icons/touch-icon-ipad.png" group-title="Russia" radio="true",Юмор FM
 http://pub0101.101.ru:8000/stream/air/aac/64/102
+# 72FM: https://72fm.com/station/7ada8a81-5ae1-418c-8f18-51d2f38d86a4?source=m3u
+#EXTINF:-1 tvg-logo="https://bossajazzbrasil.com/wp-content/uploads/2020/12/cropped-bjs-app-180x180.png" group-title="Brazil" radio="true",Bossa Jazz Brasil
+https://centova5.transmissaodigital.com:20104/live
 # 72FM: https://72fm.com/station/9ae30654-b1a6-4eff-81f3-6400d105b340?source=m3u
 #EXTINF:-1 group-title="India" radio="true",Rafi hit songs
 https://stream-143.zeno.fm/0zkr7x8ztm0uv?zs=WTPQx8TiQXSo11XU0iyTAQ
@@ -1501,6 +1504,3 @@ https://maggie.torontocast.com:2020/stream/reggaechillcafe
 # 72FM: https://72fm.com/station/de39fc19-0636-4d05-acbb-2aba2c0d1f7a?source=m3u
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png" group-title="Spain" radio="true",LOS40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
-# 72FM: https://72fm.com/station/648b2abd-92a0-11e9-a605-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://dancewave.online/dw_logo.png" group-title="Hungary" radio="true",Dance Wave!
-https://dancewave.online/dance.ogg

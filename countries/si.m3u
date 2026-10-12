@@ -223,12 +223,12 @@ http://stream02.exit.si:8000/POLETJE?
 # 72FM: https://72fm.com/station/3e5be19c-3469-4de2-b3aa-282db4c74650?source=m3u
 #EXTINF:-1 tvg-logo="https://www.robin.si/wp-content/uploads/2021/09/cropped-robin-favicon-270x270.png" group-title="Slovenia" radio="true",Radio robin
 https://live.radio.si/Robin
-# 72FM: https://72fm.com/station/96474f16-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://radiostudent.si/sites/default/files/favicon_3.ico" group-title="Slovenia" radio="true",Radio Študent
-http://kruljo.radiostudent.si:8000/loq
 # 72FM: https://72fm.com/station/414582d1-7144-4379-8d64-b6363d9118bb?source=m3u
 #EXTINF:-1 group-title="Slovenia" radio="true",Radio Roška
 http://stream.zeno.fm/q7300aptbwzuv
+# 72FM: https://72fm.com/station/96474f16-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://radiostudent.si/sites/default/files/favicon_3.ico" group-title="Slovenia" radio="true",Radio Študent
+http://kruljo.radiostudent.si:8000/loq
 # 72FM: https://72fm.com/station/9f7f35e8-f0e1-4755-8e64-33248c7f34f4?source=m3u
 #EXTINF:-1 group-title="Slovenia" radio="true",RADIO NET FM
 http://reflector.radionet.si:8000/stream.ogg
@@ -361,15 +361,15 @@ https://radio.ambiland.space/live.mp3?src=radio-browser
 # 72FM: https://72fm.com/station/6ccf7bae-2daa-4819-9b46-140170b1a477?source=m3u
 #EXTINF:-1 tvg-logo="https://ambiland.space/icon-spatial-512.png" group-title="Slovenia" radio="true",Ambiland Spatial
 https://radio.ambiland.space/spatial.mp3?src=radio-browser
-# 72FM: https://72fm.com/station/2e9820c7-82d8-4f51-a12a-712e56a1e932?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/logo-capris.svg" group-title="Slovenia" radio="true",Radio Capris Number 1's
-http://stream02.exit.si:8000/NO1?
 # 72FM: https://72fm.com/station/91ad39dd-a4c3-4cf7-8607-6ec861496e85?source=m3u
 #EXTINF:-1 tvg-logo="https://www.capitalradio.sl/wp/wp-content/uploads/2021/01/cropped-caplogo.gif" group-title="Slovenia" radio="true",Capital Radio SL
 http://live.capitalradio.sl/
 # 72FM: https://72fm.com/station/4c12c42f-5704-49fb-8401-61b0bd8f7c60?source=m3u
 #EXTINF:-1 group-title="Slovenia" radio="true",Kaef FM
 https://stream.kaef.fun/stream
+# 72FM: https://72fm.com/station/2e9820c7-82d8-4f51-a12a-712e56a1e932?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiocapris.si/data/images/logo-capris.svg" group-title="Slovenia" radio="true",Radio Capris Number 1's
+http://stream02.exit.si:8000/NO1?
 # 72FM: https://72fm.com/station/e27dfe0a-1b8f-4099-a460-4b742ecd964d?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiometeor.si/logo.png" group-title="Slovenia" radio="true",Radio METEOR .si
 https://stream.radiometeor.si/listen/meteor/live.mp3

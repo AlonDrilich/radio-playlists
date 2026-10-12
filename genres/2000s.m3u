@@ -132,7 +132,7 @@ http://stream.danubiusradio.hu:8091/danubius_HiFi
 https://0n-greatesthits.radionetz.de/0n-greatesthits.aac
 # 72FM: https://72fm.com/station/e3f530f8-f8f1-11e9-bbf2-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://radiowow.com/wp-content/uploads/2024/09/cropped-radio-wow-180x180.png" group-title="2000s" radio="true",Radio WoW
-http://sphera.fluidstream.eu/fluid_wow.aac?FLID=6
+http://sphera.fluidstream.eu/fluid_wow.mp3?FLID=6
 # 72FM: https://72fm.com/station/3ef378fb-01a6-48f2-80e1-f659e7ac3e4d?source=m3u
 #EXTINF:-1 tvg-logo="https://colombiacrossover.com/wp-content/uploads/Logo-colombia-poprock-nueva-1024x1024.png" group-title="2000s" radio="true",Colombia Pop Rock
 https://play10.tikast.com/proxy/colpoprock?mp=/stream
@@ -250,12 +250,12 @@ https://edge3.audioxi.com/FREEDOMFM
 # 72FM: https://72fm.com/station/962572e2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Radio 105 - 2k & More
 http://icy.unitedradio.it/1052kandMore.mp3
-# 72FM: https://72fm.com/station/6aa20383-4ee2-4e28-a42b-b20ecb6f7a0b?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",FUN Radio Romania
-http://online.webcastradio.ro/fun
 # 72FM: https://72fm.com/station/597d9f11-b953-4cae-8f8f-88ff846fe2e9?source=m3u
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/406/601068617960a.png" group-title="2000s" radio="true",Hot Radio
 https://stream1.hippynet.co.uk/stream/hotradio/dorset
+# 72FM: https://72fm.com/station/6aa20383-4ee2-4e28-a42b-b20ecb6f7a0b?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",FUN Radio Romania
+http://online.webcastradio.ro/fun
 # 72FM: https://72fm.com/station/8d7e4527-3f3b-4f94-974d-10c5cef66ad9?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Totally Radio - 00s (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3
@@ -322,24 +322,24 @@ https://radio2day.ip-streaming.net/radio2day
 # 72FM: https://72fm.com/station/c67374fe-b34a-479f-a644-b97d410026fb?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",2day mix radio
 https://2day.2daymixradio.org:8000/radio.mp3
-# 72FM: https://72fm.com/station/2a10785b-7aea-4f70-8b0a-aa9c7b9259da?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",RADIO PRECISA I più trasmessi dal 1975 ad oggi
-https://rprecisa.radioca.st/radioprecisa
 # 72FM: https://72fm.com/station/1e640e9c-81ad-429e-9d0e-61c73216bd98?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Oldiefans - Das Original
 https://server7.streamserver24.com:8080/proxy/stekonig?mp=/stream
+# 72FM: https://72fm.com/station/2a10785b-7aea-4f70-8b0a-aa9c7b9259da?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",RADIO PRECISA I più trasmessi dal 1975 ad oggi
+https://rprecisa.radioca.st/radioprecisa
 # 72FM: https://72fm.com/station/6c49dc4b-ad31-41ec-9129-90b655d7efc0?source=m3u
 #EXTINF:-1 tvg-logo="https://i0.wp.com/blackwoodfm.com/wp-content/uploads/2020/04/cropped-favicon.png?fit=180%2c180&#038;ssl=1" group-title="2000s" radio="true",Blackwwod FM
 http://server-24.stream-server.nl:8326/stream
 # 72FM: https://72fm.com/station/cd1e77ac-e034-4236-a295-eafc43d1159d?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-radio.dpgmedia.net/2/72/3d/09/109/Site-logo-_220x220_2.png" group-title="2000s" radio="true",Qmusic 90's & 00's (64k aac)
 https://stream.qmusic.nl/90s-00s/aaclow
-# 72FM: https://72fm.com/station/42542b18-0d4d-436f-b286-209787d2793f?source=m3u
-#EXTINF:-1 tvg-logo="https://radio-online.ch/uploads/img/1-fm-y2k.png" group-title="2000s" radio="true",1.FM Y2K Radio (2000s)
-http://strm112.1.fm/hits2000_mobile_mp3
 # 72FM: https://72fm.com/station/3199aaa9-bbfc-40ba-a1d5-eb8af2b5867e?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Rewind Radio
 http://s4.radio.co/s2eaa194f6/listen
+# 72FM: https://72fm.com/station/42542b18-0d4d-436f-b286-209787d2793f?source=m3u
+#EXTINF:-1 tvg-logo="https://radio-online.ch/uploads/img/1-fm-y2k.png" group-title="2000s" radio="true",1.FM Y2K Radio (2000s)
+http://strm112.1.fm/hits2000_mobile_mp3
 # 72FM: https://72fm.com/station/ef65c41c-fabc-49ae-b0cd-48b9c7a3db8e?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",+Exclusively Green Day
 https://streaming.exclusive.radio/er-app/greenday/icecast.audio
@@ -349,12 +349,12 @@ http://centauri.shoutca.st:8402/;stream.mp3
 # 72FM: https://72fm.com/station/5e4d837f-bfc5-4494-bb26-4ee78c6a88b2?source=m3u
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/1377/6669663b59417.png" group-title="2000s" radio="true",Deja Vu Radio
 https://carina.streamerr.co:8178/dejavuradio?type=http&nocache=297
-# 72FM: https://72fm.com/station/e2e82c41-96fc-422f-a982-9523a0038201?source=m3u
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nixxfm.nl/wp-content/uploads/2022/02/cropped-favicon-nixx-fm.jpg?fit=180%2c180&#038;ssl=1" group-title="2000s" radio="true",NixxFM
-https://mediacp.shoutcastradio.nl:8002/NixxFM.m3u
 # 72FM: https://72fm.com/station/9627d30a-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",wunschradio.fm 2000er
 http://mp3.wunschradio.de/wunschradio-2000er.mp3
+# 72FM: https://72fm.com/station/e2e82c41-96fc-422f-a982-9523a0038201?source=m3u
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nixxfm.nl/wp-content/uploads/2022/02/cropped-favicon-nixx-fm.jpg?fit=180%2c180&#038;ssl=1" group-title="2000s" radio="true",NixxFM
+https://mediacp.shoutcastradio.nl:8002/NixxFM.m3u
 # 72FM: https://72fm.com/station/5573061e-a938-49a1-ad96-ac45e601e356?source=m3u
 #EXTINF:-1 tvg-logo="https://www.538.nl/favicon.ico" group-title="2000s" radio="true",538 Classics AAC
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac
@@ -415,12 +415,12 @@ https://broadcast.radio247.net/radio/8000/;
 # 72FM: https://72fm.com/station/9c099bc8-3bfa-46fc-90a8-6c7da95e6f3c?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Dance Anthems Radio
 https://stream3.themediasite.co.uk/stream/danceanthems
-# 72FM: https://72fm.com/station/ac374ffc-407d-4448-af2d-193a2c708430?source=m3u
-#EXTINF:-1 tvg-logo="https://www.kissfm.ro/apple-touch-icon.png" group-title="2000s" radio="true",Kiss Millenium Hits
-https://live.kissfm.ro/milleniumhits
 # 72FM: https://72fm.com/station/a3e3aed5-9adb-4fc9-baae-0e0f3b09d50f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/4b/fb/128106/1/c300.png" group-title="2000s" radio="true",Vinyl Hits
 http://stream.vinylhits.dk/vinylaac
+# 72FM: https://72fm.com/station/ac374ffc-407d-4448-af2d-193a2c708430?source=m3u
+#EXTINF:-1 tvg-logo="https://www.kissfm.ro/apple-touch-icon.png" group-title="2000s" radio="true",Kiss Millenium Hits
+https://live.kissfm.ro/milleniumhits
 # 72FM: https://72fm.com/station/6efb6188-fcee-4a56-86ce-26e3e6fcd2fa?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Radio Aviva
 https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3
@@ -436,12 +436,12 @@ http://stream.revma.ihrhls.com/zc5873
 # 72FM: https://72fm.com/station/96216880-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",CKUL 'Mix 96.5' Halifax, NS
 http://newcap.leanstream.co/CKULFM
-# 72FM: https://72fm.com/station/a7a9392d-f6a1-418a-aff3-58381fe9525f?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiomega.pl/wp-content/uploads/2024/09/Radio-MEGA-LOGO.png" group-title="2000s" radio="true",Mega Radio
-https://stream.rcs.revma.com/q18ty3qhwzzuv
 # 72FM: https://72fm.com/station/96c7ed13-0b2f-4b6b-8f5a-13ebbbe7595d?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/674Yy9b8/2000s.png" group-title="2000s" radio="true",* 2000s || 2000er, Pop, Charts, Dance, Electro, RnB, Club Hits, Party, Radio Hits, Mainstream, Teen Pop, Eurodance, Feel
 https://0nlineradio.radioho.st/0r-2000er?ref=rb26
+# 72FM: https://72fm.com/station/a7a9392d-f6a1-418a-aff3-58381fe9525f?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiomega.pl/wp-content/uploads/2024/09/Radio-MEGA-LOGO.png" group-title="2000s" radio="true",Mega Radio
+https://stream.rcs.revma.com/q18ty3qhwzzuv
 # 72FM: https://72fm.com/station/52bc9743-ef49-4c8f-9107-857973998190?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Hit classic
 https://solid67.streamupsolutions.com/proxy/smzyynlm?mp=/stream
@@ -481,24 +481,24 @@ https://radio.sonicpanel.ro:9170/
 # 72FM: https://72fm.com/station/eed87399-8146-43bc-94f0-525c9b0d8e6a?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Desi Hits 2000s
 https://www.desizoneradio.com/relay2
-# 72FM: https://72fm.com/station/3ff5ace6-5e22-40ee-a02a-ad0da8beba18?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",Radio Urbana 106.9 FM
-http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24
 # 72FM: https://72fm.com/station/93c6f7a5-fc79-4558-a20d-b53995f4b2bd?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/lwf05eR3ITaSNa-Of3DdYjFQVSuCS8nFZOOgEwP-iuw/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0E0TEx3emdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FnSjNBbWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY5NTM1NjkzNzAwMA.webp" group-title="2000s" radio="true",Guarida Hip Hop
 https://stream.zeno.fm/ukum8z9cmvduv
+# 72FM: https://72fm.com/station/3ff5ace6-5e22-40ee-a02a-ad0da8beba18?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",Radio Urbana 106.9 FM
+http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24
 # 72FM: https://72fm.com/station/0bb1d938-2f1e-4ff5-8c43-2fa25ae65f68?source=m3u
 #EXTINF:-1 tvg-logo="https://radiolive.ma/logos/u-radio.png" group-title="2000s" radio="true",U RADIO
 https://uradio-aac.ice.infomaniak.ch/uradio.aac
 # 72FM: https://72fm.com/station/0f770e28-1c6a-4a34-ae67-82ca5aa372ad?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",+Exclusively Imagine Dragons
 https://streaming.exclusive.radio/er-app/imaginedragons/icecast.audio
-# 72FM: https://72fm.com/station/c222556f-0ee5-4993-b8a4-acd118800923?source=m3u
-#EXTINF:-1 tvg-logo="https://www.2fm.nl/retro/retro.jpg" group-title="2000s" radio="true",2FM Retro
-http://server.2fm.nl:8000/retro
 # 72FM: https://72fm.com/station/5f07a434-987f-4e41-8498-53e130ffb7bb?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radionoise.ro/wp-content/uploads/2022/07/faviconnew.png" group-title="2000s" radio="true",Radio Noise Hits
 https://radio.sonicpanel.ro:9140/
+# 72FM: https://72fm.com/station/c222556f-0ee5-4993-b8a4-acd118800923?source=m3u
+#EXTINF:-1 tvg-logo="https://www.2fm.nl/retro/retro.jpg" group-title="2000s" radio="true",2FM Retro
+http://server.2fm.nl:8000/retro
 # 72FM: https://72fm.com/station/c31a3b69-21b6-4e2a-b5d1-a28d2e643f62?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.radiopsr.de/production/static/1675427943375/icons/icon_64.cawac0w0200.png" group-title="2000s" radio="true",Radio PSR 2000er
 https://streams.radiopsr.de/2000er/mp3-192/www.radio-browser.info/
@@ -538,21 +538,21 @@ http://21633.live.streamtheworld.com/JOY_FM128AAC.aac
 # 72FM: https://72fm.com/station/5e663d5e-0972-45ac-8a8f-ed4afe9291de?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.radiopsr.de/production/static/1693298881101/icons/icon_64.cawac0w0200.png" group-title="2000s" radio="true",RADIO PSR Chartbreaker
 https://streams.radiopsr.de/psr-chartbreaker/mp3-192/www.radio-browser.info/
+# 72FM: https://72fm.com/station/294ff44a-0bee-40c4-a6e1-dec1545fb0c1?source=m3u
+#EXTINF:-1 tvg-logo="https://contigofm.live/wp-content/uploads/2023/09/cropped-Mesa-de-trabajo-2.png" group-title="2000s" radio="true",Contigo FM 104.9
+https://panel.innovatestream.pe:10852/;
 # 72FM: https://72fm.com/station/111ce497-3944-47eb-8f48-d6be56a0c426?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rp3tk1rW/Li-STNR-Square-Tile-3000x3000-NOUGHTIES-HIP-HOP-Rn-B.jpg" group-title="2000s" radio="true",LiSTNR - 2000s Noughties Hip-Hop & RnB (HLS)
 http://sa47.scastream.com.au/live/noughties-hiphop.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/323775e1-d7db-4c20-b5bf-ead18a4825c5?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",2000er Hits (by MineMusic)
 https://laut.fm/minemusic-2000er
-# 72FM: https://72fm.com/station/294ff44a-0bee-40c4-a6e1-dec1545fb0c1?source=m3u
-#EXTINF:-1 tvg-logo="https://contigofm.live/wp-content/uploads/2023/09/cropped-Mesa-de-trabajo-2.png" group-title="2000s" radio="true",Contigo FM 104.9
-https://panel.innovatestream.pe:10852/;
-# 72FM: https://72fm.com/station/185e4b3f-e327-4507-8310-07d0cc4b0d4a?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",Radio BOB! 2000er Rock
-https://streams.radiobob.de/2000er/mp3-192/streams.radiobob.de/
 # 72FM: https://72fm.com/station/cad28be0-3d75-4b8a-aef4-a951ff362706?source=m3u
 #EXTINF:-1 tvg-logo="https://radiodos.com/assets/LogoRadio2.svg" group-title="2000s" radio="true",Radio Dos (2) Costa Rica
 https://s5.radio.co/sd515b7b34/listen
+# 72FM: https://72fm.com/station/185e4b3f-e327-4507-8310-07d0cc4b0d4a?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",Radio BOB! 2000er Rock
+https://streams.radiobob.de/2000er/mp3-192/streams.radiobob.de/
 # 72FM: https://72fm.com/station/2b5f1777-194e-4db7-95d7-de368a9794cb?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Kazanova Radio
 http://72.11.152.198:81/listen/kazanova_radio/radio.mp3
@@ -580,6 +580,9 @@ https://stream.paradisefm.cw/00s10s
 # 72FM: https://72fm.com/station/1406b2e7-76db-4b1e-890a-af7a76f839e5?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Radio X 00s
 https://media-ice.musicradio.com/RadioX00sMP3
+# 72FM: https://72fm.com/station/2887dc93-4c30-4981-8f60-a87d25a4386f?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",Static – 90s & 2000s Alt Rock
+https://r.bgp.rodeo/listen/static/radio.mp3
 # 72FM: https://72fm.com/station/2a0eb2d1-63bb-4212-a757-ce53be4016c8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.insuperable891fm.com.ve/images/logo%20coye%20fm.png?crc=3915360359" group-title="2000s" radio="true",C-Oye 89.1 FM
 http://streamingned.com:7146/;
@@ -589,9 +592,6 @@ https://stream.rpr1.de/flashback/mp3-128/radiobrowser
 # 72FM: https://72fm.com/station/1378d991-a369-43a9-a6c9-db52dc055f66?source=m3u
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/rZq3pt23v9.jpg" group-title="2000s" radio="true",Radio Amiga 93.3 FM
 http://radiolatina.live:8072/;
-# 72FM: https://72fm.com/station/2887dc93-4c30-4981-8f60-a87d25a4386f?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",Static – 90s & 2000s Alt Rock
-https://r.bgp.rodeo/listen/static/radio.mp3
 # 72FM: https://72fm.com/station/a482c901-0de5-410d-892e-395b24e55c97?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",95.5 Buzz HD2
 https://stream.revma.ihrhls.com/zc10079/hls.m3u8
@@ -607,24 +607,24 @@ https://audiostreaming.luz.network/stream/8/;
 # 72FM: https://72fm.com/station/829d3858-dcca-4551-8e09-fe020a150b7a?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.radiopsr.de/production/static/1693298881101/icons/icon_64.cawac0w0200.png" group-title="2000s" radio="true",RADIO PSR Sommerhits
 https://streams.radiopsr.de/sommerhits/mp3-192/www.radio-browser.info/play.m3u8
-# 72FM: https://72fm.com/station/6f5573d8-fbfa-41dc-a32d-1eb05a97c692?source=m3u
-#EXTINF:-1 tvg-logo="https://www.ondatorrentradio.com/" group-title="2000s" radio="true",Onda Torrente Radio
-http://5.135.183.124:8073/stream
 # 72FM: https://72fm.com/station/38441808-02e0-4d04-88ae-4e67bee3fdf4?source=m3u
 #EXTINF:-1 tvg-logo="https://media.live365.com/download/119460ab-eb43-4fca-a482-eadc9c4d9ef0.png" group-title="2000s" radio="true",UK National Radio
 https://das-edge14-live365-dal02.cdnstream.com/a80402
-# 72FM: https://72fm.com/station/31dcf37f-eb42-4225-8afa-0889fe98af84?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",Radio Star 92e5
-https://vramacciv2-danidi01.radioca.st/stream
+# 72FM: https://72fm.com/station/6f5573d8-fbfa-41dc-a32d-1eb05a97c692?source=m3u
+#EXTINF:-1 tvg-logo="https://www.ondatorrentradio.com/" group-title="2000s" radio="true",Onda Torrente Radio
+http://5.135.183.124:8073/stream
+# 72FM: https://72fm.com/station/9ee3d66a-bce4-494f-be16-1e7c219a44bd?source=m3u
+#EXTINF:-1 tvg-logo="https://tail.5v.pl/kita.jpg" group-title="2000s" radio="true",Tail FM Poland
+http://play.ogon.ovh:8810/tail-fm
 # 72FM: https://72fm.com/station/563c1b55-4e3e-4bc1-b32c-a8336bf571d3?source=m3u
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6630-3333-4462-b232-646236303332/nostalgia-favicon-da.png" group-title="2000s" radio="true",Nostalgia Radio
 https://live.radionostalgia.ro:8443/nostalgia.aac
 # 72FM: https://72fm.com/station/4b4c85ec-334c-4454-9eb0-6ed497f02f4b?source=m3u
 #EXTINF:-1 tvg-logo="https://www.nrj.be/build/images/favicon.ico" group-title="2000s" radio="true",NRJ+ (Belgique)
 https://stream.rcs.revma.com/1a6hdnzbebuvv
-# 72FM: https://72fm.com/station/9ee3d66a-bce4-494f-be16-1e7c219a44bd?source=m3u
-#EXTINF:-1 tvg-logo="https://tail.5v.pl/kita.jpg" group-title="2000s" radio="true",Tail FM Poland
-http://play.ogon.ovh:8810/tail-fm
+# 72FM: https://72fm.com/station/31dcf37f-eb42-4225-8afa-0889fe98af84?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",Radio Star 92e5
+https://vramacciv2-danidi01.radioca.st/stream
 # 72FM: https://72fm.com/station/1e707249-860c-40a6-ac80-bcd520588b7d?source=m3u
 #EXTINF:-1 tvg-logo="https://pcradio.ru/images/stations/62e280c32067d.jpg" group-title="2000s" radio="true",Динамит FM
 http://listen7.myradio24.com/76923
@@ -646,15 +646,18 @@ https://ecmanager.pro-fhi.net:1710/;
 # 72FM: https://72fm.com/station/0b4851a1-991f-417d-87f9-cef78841099c?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Australian Digital Radio Network - 2000s Noughties Pop Charting (MP3)
 http://abm21.com.au:8000/CONTAINER95
+# 72FM: https://72fm.com/station/eacec66f-6f8d-469a-a14f-a65d6bb683d4?source=m3u
+#EXTINF:-1 tvg-logo="https://fmarcoiris.cl/wp-content/uploads/2023/12/logo-arcoiris-negro.jpeg" group-title="2000s" radio="true",Radio arcoiris FM 99.3
+https://audio2.tustreaming.cl/7210/stream
 # 72FM: https://72fm.com/station/2de46955-7ccd-4808-a48b-dcec07e3ee20?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Dedog's Fm
 https://stream-150.zeno.fm/8br78fp6rrhvv?zs=tNMv3fliQ66phPGduYxuYA
 # 72FM: https://72fm.com/station/2fed77fa-717c-4ff6-9c4c-7c5cd3d33a98?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.radiopsr.de/production/static/1713539534799/icons/icon_64.cawac0w0200.png" group-title="2000s" radio="true",RADIO PSR 2000er
 https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6npp4p6n%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1791773802
-# 72FM: https://72fm.com/station/eacec66f-6f8d-469a-a14f-a65d6bb683d4?source=m3u
-#EXTINF:-1 tvg-logo="https://fmarcoiris.cl/wp-content/uploads/2023/12/logo-arcoiris-negro.jpeg" group-title="2000s" radio="true",Radio arcoiris FM 99.3
-https://audio2.tustreaming.cl/7210/stream
+# 72FM: https://72fm.com/station/ecd6267e-9fa5-4ad5-9b7c-d5bbb764dca8?source=m3u
+#EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/c28fea15-107a-4c60-a9c9-6fd0657cd9ca.png" group-title="2000s" radio="true",Kasseta
+https://politismedia-sec.live24.gr/streameekasetta
 # 72FM: https://72fm.com/station/1d1e415f-bd1e-4978-879f-cb2398a5f9e2?source=m3u
 #EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/3279628/400_5e98c8e8b7099.png" group-title="2000s" radio="true",Antena 2000
 https://eu1.fastcast4u.com/proxy/antena2000?mp=/1
@@ -664,9 +667,6 @@ https://stream.889fmtamworth.com.au:8443/stream
 # 72FM: https://72fm.com/station/2fc7b6c5-3625-48cb-97f2-19f0aa8b38d2?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Digital 96.9 FM
 https://cast3.my-control-panel.com/proxy/xhtz?mp=/stream
-# 72FM: https://72fm.com/station/ecd6267e-9fa5-4ad5-9b7c-d5bbb764dca8?source=m3u
-#EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/c28fea15-107a-4c60-a9c9-6fd0657cd9ca.png" group-title="2000s" radio="true",Kasseta
-https://politismedia-sec.live24.gr/streameekasetta
 # 72FM: https://72fm.com/station/4fb411e0-4e84-41b7-b8ec-bb21cbbfbaa4?source=m3u
 #EXTINF:-1 tvg-logo="https://remember4u.alwaysdata.net/assets/icons/favicon-32x32.png" group-title="2000s" radio="true",Remember4U
 https://radio.remember4u.es/live
@@ -687,7 +687,7 @@ https://radiostreamingserver.com/listen/ondamar80/live
 https://s02.azuracast.cl/radio/8210/fmcentro
 # 72FM: https://72fm.com/station/70efb24e-d5fa-43a4-9fcc-1caace55efb2?source=m3u
 #EXTINF:-1 tvg-logo="https://www.sputnikfm.ru/favicon2020.png" group-title="2000s" radio="true",Radio Sputnik Volgograd 105.1FM
-https://online.sputnikfm.ru/sputnik_mp3
+https://stream2.sputnikfm.ru/sputnik_mp3
 # 72FM: https://72fm.com/station/2475bc9b-62b8-41dd-b5b7-f73d8e620a3d?source=m3u
 #EXTINF:-1 tvg-logo="https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg" group-title="2000s" radio="true",De la Nueva Bahía 106.1 FM
 https://radios.solumedia.com/6136/stream
@@ -724,27 +724,27 @@ http://s5.myradiostream.com:42840/listen.mp3
 # 72FM: https://72fm.com/station/67592fb2-b7e5-47ad-af9a-666548a8f008?source=m3u
 #EXTINF:-1 tvg-logo="https://gongfm.s3-cdn.welocal.cloud/sources/5fb569edf10ad.svg" group-title="2000s" radio="true",Gong FM Best of 2000
 https://frontend.streamonkey.net/gongfm-bestof2000/stream/aacp
-# 72FM: https://72fm.com/station/3ec7bcb8-e708-4d98-ac38-1c09a48f2031?source=m3u
-#EXTINF:-1 tvg-logo="https://legends966.com/images/legends966.png" group-title="2000s" radio="true",Legends 96.6 FM
-https://mbc.thestreamtech.com:8585/stream
 # 72FM: https://72fm.com/station/7694d938-7d46-4c7c-ad4d-04e348b45c80?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Australian Digital Radio Network - Country - 2000s Noughties (MP3)
 http://abm21.com.au:8000/CONTAINER138
 # 72FM: https://72fm.com/station/acc54afe-d99e-4af4-a771-e42eb8c3f98b?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",DIGITAL FM 104.9
 https://stream.zeno.fm/pewavgmncv8uv
+# 72FM: https://72fm.com/station/3ec7bcb8-e708-4d98-ac38-1c09a48f2031?source=m3u
+#EXTINF:-1 tvg-logo="https://legends966.com/images/legends966.png" group-title="2000s" radio="true",Legends 96.6 FM
+https://mbc.thestreamtech.com:8585/stream
 # 72FM: https://72fm.com/station/947f20c1-025b-477b-8711-3f96f554f342?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Radio 13c 102.1 FM
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b29169d
 # 72FM: https://72fm.com/station/e257491f-83d7-43c4-a34e-b89005709034?source=m3u
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6884213a07fd7649591e3d10" group-title="2000s" radio="true",iHeart 2000s Radio
 https://n23b-e2.revma.ihrhls.com/zc6850/hls.m3u8?rj-ttl=5&rj-tok=AAABoAtx4zgAWafLS3OZolBX9Q
-# 72FM: https://72fm.com/station/6544a8a4-f8dd-41cf-97cd-b27c6562a029?source=m3u
-#EXTINF:-1 tvg-logo="https://www.mdr.de/administratives/av/logo-182-resimage_v-variantSmall1x1_w-512.jpg" group-title="2000s" radio="true",MDR SACHSEN-ANHALT Dessau
-https://radio-hls.mdr.de/hls/live/2112896/mdr-284290-1-hls/index.m3u8
 # 72FM: https://72fm.com/station/22ffc3f2-915d-4fe5-8041-4ef92b68b7ce?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/122745.v6.png" group-title="2000s" radio="true",RADIO 100
 https://s3.slotex.pl:7278/stream/
+# 72FM: https://72fm.com/station/6544a8a4-f8dd-41cf-97cd-b27c6562a029?source=m3u
+#EXTINF:-1 tvg-logo="https://www.mdr.de/administratives/av/logo-182-resimage_v-variantSmall1x1_w-512.jpg" group-title="2000s" radio="true",MDR SACHSEN-ANHALT Dessau
+https://radio-hls.mdr.de/hls/live/2112896/mdr-284290-1-hls/index.m3u8
 # 72FM: https://72fm.com/station/5f477a20-3eda-441d-881f-20f2e96c263a?source=m3u
 #EXTINF:-1 tvg-logo="https://northants1.co.uk/wp-content/uploads/2022/12/Northants-_1_-Symbol-Red.png" group-title="2000s" radio="true",Northants 1
 https://solid41.streamupsolutions.com/proxy/svdkgaiq/stream?icecast
@@ -763,6 +763,12 @@ https://streaming1.locucionar.com/proxy/fmatlantica?
 # 72FM: https://72fm.com/station/4c3726ad-90f6-4d7d-b13b-58024b30da74?source=m3u
 #EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/delacosta905.png" group-title="2000s" radio="true",FM de la Costa 90.5
 https://streaming1.locucionar.com/proxy/delacosta905?mp=/stream
+# 72FM: https://72fm.com/station/d08917dc-72da-4f72-b580-821e6a4661d6?source=m3u
+#EXTINF:-1 tvg-logo="https://popradiopa.com/wp-content/uploads/sites/4/2023/09/Group-115-300x300.png" group-title="2000s" radio="true",Pop! 93.1 - 95.9 WQYX
+https://ice10.securenetsystems.net/WQYX
+# 72FM: https://72fm.com/station/b8827a23-acb0-487c-8b6e-0d470c8b03b7?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",EuroHit Russia Classics
+http://aska.ru-hoster.com:8019/stream
 # 72FM: https://72fm.com/station/89059ee2-c983-44b2-b7f1-2bab224d4211?source=m3u
 #EXTINF:-1 tvg-logo="https://aquaradio.es/images/tc_logo_web.png" group-title="2000s" radio="true",Aqua Radio
 https://quincy.torontocast.com:2260/;
@@ -772,30 +778,21 @@ http://hemnos.cdnstream.com/1463_128
 # 72FM: https://72fm.com/station/2e6a44a2-6458-4850-9ccc-3ee68a6902ad?source=m3u
 #EXTINF:-1 tvg-logo="https://www.deventerrtv.nl/own-files/apple-touch-icon.png" group-title="2000s" radio="true",Deventer Radio
 https://stream.deventerrtv.nl:8443/mp3
-# 72FM: https://72fm.com/station/b8827a23-acb0-487c-8b6e-0d470c8b03b7?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",EuroHit Russia Classics
-http://aska.ru-hoster.com:8019/stream
-# 72FM: https://72fm.com/station/d08917dc-72da-4f72-b580-821e6a4661d6?source=m3u
-#EXTINF:-1 tvg-logo="https://popradiopa.com/wp-content/uploads/sites/4/2023/09/Group-115-300x300.png" group-title="2000s" radio="true",Pop! 93.1 - 95.9 WQYX
-https://ice10.securenetsystems.net/WQYX
 # 72FM: https://72fm.com/station/48c2b805-844e-4884-b2c7-5179ad92f774?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Tick Tock Radio - 2009
 https://streaming.ticktock.radio/tt/2009/icecast.audio
-# 72FM: https://72fm.com/station/93e769c6-f0a4-4ca7-99fd-ab06eccf3dd7?source=m3u
-#EXTINF:-1 tvg-logo="https://youfm.ro/wp-content/uploads/2025/02/logo-you-fm.jpg" group-title="2000s" radio="true",YOU FM România
-https://sonic2-rbx.cloud-center.ro/8034/stream
-# 72FM: https://72fm.com/station/08e42861-11f7-48f1-81ee-4934af12b6d9?source=m3u
-#EXTINF:-1 tvg-logo="https://stream.deecibel.com/one_logo.png" group-title="2000s" radio="true",Deecibel One Radio
-https://stream.deecibel.com/one
-# 72FM: https://72fm.com/station/85a55d6c-c2c1-4928-a539-c723023b98ac?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",Radio Infinity Classic
-https://sonic.host-live.com/8192/stream
 # 72FM: https://72fm.com/station/ae198d6e-f570-49a3-8e84-d3c43c78ef1c?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",1.FM - Millennial Nostalgia
 http://strm112.1.fm/eurovision_mobile_mp3
 # 72FM: https://72fm.com/station/2fdf0fd8-aa01-4d53-82b4-e46fb6dbe975?source=m3u
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2024-07/bigfm_groovenight_600x600.jpg" group-title="2000s" radio="true",bigFM Groove Night
 https://stream.bigfm.de/groovenight/mp3-128/radio-browser
+# 72FM: https://72fm.com/station/08e42861-11f7-48f1-81ee-4934af12b6d9?source=m3u
+#EXTINF:-1 tvg-logo="https://stream.deecibel.com/one_logo.png" group-title="2000s" radio="true",Deecibel One Radio
+https://stream.deecibel.com/one
+# 72FM: https://72fm.com/station/85a55d6c-c2c1-4928-a539-c723023b98ac?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",Radio Infinity Classic
+https://sonic.host-live.com/8192/stream
 # 72FM: https://72fm.com/station/3b6c157c-b7ad-4c8b-97b8-e638fbe446ec?source=m3u
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d1/2c/d12ce78cd1655e398d54308ff93a73bb.jpg" group-title="2000s" radio="true",FM del Lago 92.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM921_56.mp3
@@ -808,24 +805,30 @@ https://streamming.dobitsoluciones.com:7036/live
 # 72FM: https://72fm.com/station/aed008d2-958c-4361-ba98-0afe0ee238b6?source=m3u
 #EXTINF:-1 tvg-logo="https://blob.luznoticias.mx/img/rediseno/LOGOS_53X53_MZT_VINTAGE_100_3.png" group-title="2000s" radio="true",Vintage 100.3 FM Mazatlán
 https://audiostreaming.luz.network/stream/14/;
+# 72FM: https://72fm.com/station/93e769c6-f0a4-4ca7-99fd-ab06eccf3dd7?source=m3u
+#EXTINF:-1 tvg-logo="https://youfm.ro/wp-content/uploads/2025/02/logo-you-fm.jpg" group-title="2000s" radio="true",YOU FM România
+https://sonic2-rbx.cloud-center.ro/8034/stream
 # 72FM: https://72fm.com/station/331d0b05-69dc-4a8c-a6b8-a2d5353ef2d4?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0tGXnLV/IMG-20260228-153259.png" group-title="2000s" radio="true",Khaos FM
 https://streaming0103.sonicpanelradio.com:8050/stream
 # 72FM: https://72fm.com/station/533dc341-1dbb-46bb-b2d3-d43f9752bccd?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G34bgyVB/favicon-3.jpg" group-title="2000s" radio="true",rockSateliteONE
 https://server5.mediasector.es:8050/rocksatelite.mp3
-# 72FM: https://72fm.com/station/73a9d959-bed2-4a78-907c-19132bb93fb6?source=m3u
-#EXTINF:-1 tvg-logo="https://www.classique.com.ar/adjuntos/300/classiq/logo-2023.png" group-title="2000s" radio="true",Classique FM 106.5 FM
-https://radio.solumedia.com.ar:8562/;
 # 72FM: https://72fm.com/station/d1e41a1f-ff7c-49b5-b637-adb0d154d66b?source=m3u
 #EXTINF:-1 tvg-logo="https://fluxmusic.cdn.radiosphere.io/images/4baa09a4-bc9d-4f68-93b0-4f3d411d76e5?type=medium" group-title="2000s" radio="true",FluxFM 2000er | 320k AAC
 https://fluxmusic.api.radiosphere.io/channels/2000er/stream.aac?quality=10
+# 72FM: https://72fm.com/station/03a337c6-a373-4466-89eb-401dc212fbfc?source=m3u
+#EXTINF:-1 tvg-logo="https://www.mdr.de/administratives/av/logo-182-resimage_v-variantSmall1x1_w-512.jpg" group-title="2000s" radio="true",MDR SACHSEN-ANHALT Halle
+https://radio-hls.mdr.de/hls/live/2112894/mdr-284290-2-hls/index.m3u8
 # 72FM: https://72fm.com/station/72f47bd6-6f04-41a2-928d-1dc6ab624669?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDVYHcD/LOGO-SACHSEN-eins.jpg" group-title="2000s" radio="true",SACHSEN eins
 https://stream.sachsen-media.de/sachsen-media-sachseneins/mp3-192?ref=radio-browser
 # 72FM: https://72fm.com/station/7f37fb19-1d36-4d46-8d76-cf940647e34d?source=m3u
 #EXTINF:-1 tvg-logo="https://anzoradio.com/wp-content/uploads/2023/09/2023anzoradiologo_600px.png" group-title="2000s" radio="true",AnZoRadio
 https://anzoradio.stream.laut.fm/anzoradio
+# 72FM: https://72fm.com/station/73a9d959-bed2-4a78-907c-19132bb93fb6?source=m3u
+#EXTINF:-1 tvg-logo="https://www.classique.com.ar/adjuntos/300/classiq/logo-2023.png" group-title="2000s" radio="true",Classique FM 106.5 FM
+https://radio.solumedia.com.ar:8562/;
 # 72FM: https://72fm.com/station/c7cf510d-75a3-4aea-bf94-93a534a13853?source=m3u
 #EXTINF:-1 tvg-logo="https://ecomedios.com/wp-content/uploads/2024/02/cropped-Ecomedios-rojo-apaisado-web.png" group-title="2000s" radio="true",Eco Medios 1220 AM
 https://stream.zeno.fm/uyd6h9w162quv
@@ -838,9 +841,6 @@ https://streamconex.com:2000/stream/La106
 # 72FM: https://72fm.com/station/57cab6e0-d914-4751-abce-ca412622ce3e?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZjJ6Vkv/Li-STNR-Square-Tile-3000x3000-NOUGHTIES.jpg" group-title="2000s" radio="true",LiSTNR - 2000s Noughties (HLS)
 http://sa46.scastream.com.au/live/7noughties_128.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/03a337c6-a373-4466-89eb-401dc212fbfc?source=m3u
-#EXTINF:-1 tvg-logo="https://www.mdr.de/administratives/av/logo-182-resimage_v-variantSmall1x1_w-512.jpg" group-title="2000s" radio="true",MDR SACHSEN-ANHALT Halle
-https://radio-hls.mdr.de/hls/live/2112894/mdr-284290-2-hls/index.m3u8
 # 72FM: https://72fm.com/station/87bd45bf-fc3d-48cf-81c4-9aa9860b3a4d?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Merf Radio (WMRF)
 https://ice41.securenetsystems.net/WMRF
@@ -856,18 +856,18 @@ https://streaming.ticktock.radio/tt/2004/icecast.audio
 # 72FM: https://72fm.com/station/a5cdbad8-f4d6-4e1c-93b5-07d1480760e5?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_85&fit_cover&s_144x144/https://images.zeno.fm/NgYfdrvZ9rTMm75m9Mxkb6RxQ1NUs7zzrg-g59kHDAE/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k3WnJFaUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lqWXpFaWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU4NjQ4MjAwMA.webp" group-title="2000s" radio="true",La Radio Estación ZaS Radio
 https://stream-176.surfernetwork.com/axxxe1rs2nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheHh4ZTFyczJuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImZycU9hX1VTVHVPck9ERmpvMVlGTXciLCJpYXQiOjE3OTE3NjY5MTIsImV4cCI6MTc5MTc2Njk3Mn0.IB1xZG7AcgMyhJHJ66h3mUSzj7gXfJ-EoHSE9FkveJ4
-# 72FM: https://72fm.com/station/aaa5a7f8-cc1f-4389-8240-4dbbfd3d6dbc?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",Radio DOS 84
-http://188.93.73.7:8064/
-# 72FM: https://72fm.com/station/302ad9ff-2292-4283-a42a-0defbfe473d3?source=m3u
-#EXTINF:-1 tvg-logo="https://boomboe.cluster129.hosting.ovh.net/logo-boombox.png" group-title="2000s" radio="true",Boombox radio
-http://hosting.radiomedia.fr:1100/boombox
 # 72FM: https://72fm.com/station/a8b818b1-8968-469a-9fbf-728d6e177812?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",Studio Brussel De Jaren Nul
 https://icecast.vrtcdn.be/stubru_dejarennul-high.mp3
 # 72FM: https://72fm.com/station/a47bad93-de6e-4bbc-9ebc-0cc74b05089a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.altvintage.com/favicon-32x32.png" group-title="2000s" radio="true",Alt Vintage
 https://streaming.live365.com/a89825
+# 72FM: https://72fm.com/station/302ad9ff-2292-4283-a42a-0defbfe473d3?source=m3u
+#EXTINF:-1 tvg-logo="https://boomboe.cluster129.hosting.ovh.net/logo-boombox.png" group-title="2000s" radio="true",Boombox radio
+http://hosting.radiomedia.fr:1100/boombox
+# 72FM: https://72fm.com/station/aaa5a7f8-cc1f-4389-8240-4dbbfd3d6dbc?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",Radio DOS 84
+http://188.93.73.7:8064/
 # 72FM: https://72fm.com/station/b5bf65ee-0937-49c3-854f-52ba08b7184f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.cristalnoetinger.com.ar/images/Black_no.circle_facebook.png" group-title="2000s" radio="true",CRISTAL FM Noetinger
 https://radio02.ferozo.com/proxy/ra02001324?mp=/stream
@@ -877,30 +877,30 @@ https://stream.zeno.fm/7bs1rw5zw8quv
 # 72FM: https://72fm.com/station/101b4604-1304-43a2-a0e0-297bb2fabcbb?source=m3u
 #EXTINF:-1 tvg-logo="https://wokw.com/wpimages/wpcdcd5fcd_06.png" group-title="2000s" radio="true",WOKW OK! 102.9
 https://ice24.securenetsystems.net/WOKW
+# 72FM: https://72fm.com/station/37f849b3-b6f9-46da-ae4d-149542a4b736?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Strimovi/2000e1000px.png" group-title="2000s" radio="true",Radio S 2000-e
+https://stream.radios.rs:9052/stream
 # 72FM: https://72fm.com/station/0d4fd9a6-0014-4733-8f06-0e75dea1b57d?source=m3u
 #EXTINF:-1 tvg-logo="https://images.berliner-rundfunk.de/files/2026-06/brf_stream_simone_panteleit_radio-homepage_kombi_1.jpg?crop=1920%2C1080%2C-1%2C0&rect=-1%2C0%2C1920%2C1080&fit=crop&crop=faces&w=1100&h=619&dpr=1&width=1100&height=619&fm=webp" group-title="2000s" radio="true",Berliner Rundfunk - Simone Panteleit Radio
 https://topradio.stream07.radiohost.de/brf-event_mp3-192?mode=preroll&aw_0_1st.skey=1780828779&cb=266852023&listenerid=26b1e17976054a9ba75fd88e2af59d00&metaid=26b1e17976054a9ba75fd88e2af59d00_0365c7a5-2ccc-4afd-9c23-e06ed01107a7&agend=true&upd-meta&upd-scheme=https&ref=homepage&amsparams=homepage&_art=dD0xNzgwODI5MTM2JmQ9NjEwZjQ3YTQ4ZmNkNTUxZDRmYTY
+# 72FM: https://72fm.com/station/05b96e91-2622-4679-9808-93b2fb0787b3?source=m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlALeBErv6OLhaMLhA0hYXVdz6JhM7drb5_Q&s" group-title="2000s" radio="true",Jovem pan são jose dos campos
+https://r15.ciclano.io/proxy/radiomu1/stream
+# 72FM: https://72fm.com/station/86818545-64f6-4c0c-b78d-b7593d26fd5e?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",90|00 - NEUNZIG NULL NULL
+https://stream.neunzignullnull.de/stream.mp3
 # 72FM: https://72fm.com/station/7b930f63-ab5e-4b69-a8ce-efc6d1a70072?source=m3u
 #EXTINF:-1 tvg-logo="https://fluxmusic.cdn.radiosphere.io/images/4baa09a4-bc9d-4f68-93b0-4f3d411d76e5?type=medium" group-title="2000s" radio="true",FluxFM 2000er | 320k MP3
 https://fluxmusic.api.radiosphere.io/channels/2000er/stream.mp3?quality=10
 # 72FM: https://72fm.com/station/97a53925-e4bb-4d93-8d09-d03a2efe8e17?source=m3u
 #EXTINF:-1 tvg-logo="https://www.mahakax.com/wp-content/uploads/2022/06/logo-kisfm.png" group-title="2000s" radio="true",Kis FM 95.1
 https://ic.mari.co.id:8443/kisfm
-# 72FM: https://72fm.com/station/86818545-64f6-4c0c-b78d-b7593d26fd5e?source=m3u
-#EXTINF:-1 group-title="2000s" radio="true",90|00 - NEUNZIG NULL NULL
-https://stream.neunzignullnull.de/stream.mp3
-# 72FM: https://72fm.com/station/05b96e91-2622-4679-9808-93b2fb0787b3?source=m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlALeBErv6OLhaMLhA0hYXVdz6JhM7drb5_Q&s" group-title="2000s" radio="true",Jovem pan são jose dos campos
-https://r15.ciclano.io/proxy/radiomu1/stream
 # 72FM: https://72fm.com/station/7c59967a-418e-4ba2-aa7c-87ff79955dbe?source=m3u
 #EXTINF:-1 tvg-logo="https://townsquare.media/site/1122/files/2023/12/attachment-256-2.png" group-title="2000s" radio="true",K101 KZMK 100.9FM
 https://live.amperwave.net/manifest/townsquare-kzmkfmaac-hlsc3.m3u8
-# 72FM: https://72fm.com/station/9554c047-5c51-4ce5-a6bb-eb65d61bb228?source=m3u
-#EXTINF:-1 tvg-logo="https://radioxtra.co.uk/wp-content/uploads/2023/07/Radio-XTRA-2.svg" group-title="2000s" radio="true",Radio Xtra
-https://n18a-eu.rcs.revma.com/nye22yatz42vv?rj-ttl=5&rj-tok=AAABm86No4cAj3cUwHekQ5GQLQ
 # 72FM: https://72fm.com/station/799fca97-e9cf-401d-bef2-d8a9a7dc2b0c?source=m3u
 #EXTINF:-1 group-title="2000s" radio="true",1047 Jack FM
 http://us9.maindigitalstream.com:7805/stream
-# 72FM: https://72fm.com/station/957004db-38bc-4424-aff1-372e526e2fff?source=m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xShnZs0C/Ant-MZ-Uplink.png" group-title="2000s" radio="true",Antenne Mainz
-https://stream.antenne-mainz.de/antennemainz-live/mp3-192?ref=radio-browser
+# 72FM: https://72fm.com/station/9815961b-c3f7-4fca-b911-bd4ee63c2dfe?source=m3u
+#EXTINF:-1 group-title="2000s" radio="true",NONSTOPRADIO CZ
+http://stream.nonstopradio.cz:8080/
