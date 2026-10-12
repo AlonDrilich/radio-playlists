@@ -4,6 +4,9 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/4413f4de-4a87-4835-8525-a80a23b3d39f?source=m3u
+#EXTINF:-1 group-title="Pakistan" radio="true",FM 100 Pakistan
+http://162.244.80.118:4900/;stream.mp3
 # 72FM: https://72fm.com/station/babb87d8-14f7-4d42-b813-390ac01fb3c9?source=m3u
 #EXTINF:-1 group-title="Pakistan" radio="true",Samaa FM 107.4
 https://samaakhi107-itelservices.radioca.st/stream
@@ -55,6 +58,9 @@ http://162.244.80.118:3024/stream.mp3?ver=517748
 # 72FM: https://72fm.com/station/a9592d38-17fc-4fd7-9d8a-f0526906c5ed?source=m3u
 #EXTINF:-1 group-title="Pakistan" radio="true",FM 93 Lahore
 https://whmsonic.radio.gov.pk:8088/stream
+# 72FM: https://72fm.com/station/be82fba4-6953-4f0c-95e7-7aaa7f56b060?source=m3u
+#EXTINF:-1 group-title="Pakistan" radio="true",FM 100 Pakistan Gujrat
+http://162.244.80.118:4900/stream.mp3?ver=682776
 # 72FM: https://72fm.com/station/ffcdc7e1-089e-4dfb-b11f-c2dcb26ef923?source=m3u
 #EXTINF:-1 group-title="Pakistan" radio="true",Love-Islam-Radio
 https://stream-52.zeno.fm/f9h69cgbu68uv
@@ -169,3 +175,6 @@ https://radio.universalhealthradio.org/uhr-ur.mp3
 # 72FM: https://72fm.com/station/7b2908dc-bc8b-4e2b-a33c-f88e3587d3cd?source=m3u
 #EXTINF:-1 group-title="Pakistan" radio="true",Radio Pakistan Peshawar
 https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9](https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9
+# 72FM: https://72fm.com/station/e67478e3-6018-4a27-82e5-621e12cc30b8?source=m3u
+#EXTINF:-1 group-title="Pakistan" radio="true",Sindh fm
+http://167.114.131.90:2758/

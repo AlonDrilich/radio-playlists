@@ -27,7 +27,7 @@ https://stream3.megarockradio.net:80/
 http://eu4.fastcast4u.com:5248/;stream.mp3
 # 72FM: https://72fm.com/station/962af33f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",181.FM - The Rock! (HardRock)
-http://listen.181fm.com/181-hardrock_128k.mp3
+https://listen.181fm.com/181-hardrock_128k.mp3
 # 72FM: https://72fm.com/station/32b2e232-8634-4eb5-a820-af28ae9709f2?source=m3u
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="Hard Rock" radio="true",Exclusively Guns N’ Roses
 https://streaming.exclusive.radio/er/gunsnroses/icecast.audio
@@ -223,6 +223,9 @@ https://0n-heavymetal.radionetz.de/0n-heavymetal.aac
 # 72FM: https://72fm.com/station/45cdd461-3aaf-11e8-b74d-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Bates FM Hard Rock
 http://bigrradio.cdnstream1.com/5135_128
+# 72FM: https://72fm.com/station/aec438e2-74b3-11ea-b1cf-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Hard Rock" radio="true",Radyo ODTU - Rock
+http://stream.radyoodtu.com.tr/rock
 # 72FM: https://72fm.com/station/0d939aa0-cce8-4841-92fe-1a03d36da0d3?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Classic Rock Danmark
 https://netradio.classicfm.dk/classicrock
@@ -295,12 +298,12 @@ http://streams.fluxfm.de/hardrock/mp3-128/streams.fluxfm.de/
 # 72FM: https://72fm.com/station/ab55d4aa-01db-46c6-9934-288828374ea1?source=m3u
 #EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" group-title="Hard Rock" radio="true",Rock Antenne - Hard Rock
 https://stream.rockantenne.de/rock-antenne-hard-rock/stream/mp3
-# 72FM: https://72fm.com/station/548d3232-fd53-4942-933b-38e9ddb4bcb3?source=m3u
-#EXTINF:-1 group-title="Hard Rock" radio="true",EldoPop FM
-http://stm10.srvstm.com:34794/stream
 # 72FM: https://72fm.com/station/2b480134-b9a9-11e9-acb2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",RadioBOB AC/DC Collection (64 kbps AAC)
 http://streams.radiobob.de/bob-acdc/aac-64/mediaplayer
+# 72FM: https://72fm.com/station/548d3232-fd53-4942-933b-38e9ddb4bcb3?source=m3u
+#EXTINF:-1 group-title="Hard Rock" radio="true",EldoPop FM
+http://stm10.srvstm.com:34794/stream
 # 72FM: https://72fm.com/station/92843212-0221-45fc-85a9-47d7b13f9e94?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/a2/92/186945/1/c300.png" group-title="Hard Rock" radio="true",RADIO BOB - Roadtrip
 https://streams.radiobob.de/roadtrip/mp3-192/streams.radiobob.de/
@@ -330,7 +333,7 @@ https://streams.radiobob.de/70errock/aac-64/streams.radiobob.de/
 https://uk1.internet-radio.com/proxy/bloodstream?mp=/stream
 # 72FM: https://72fm.com/station/c5bc9dde-3059-11e9-8f31-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",100Rock
-http://100rock.stream.laut.fm/100rock?t302=2026-10-01_21-27-52&uuid=9449927d-575b-ffba-e1da-0a0eea85ec8b
+http://100rock.stream.laut.fm/100rock?uuid=33c01577-629b-d9bb-6aed-a43d91993714&t302=2026-10-11_23-07-41
 # 72FM: https://72fm.com/station/ad37b092-f582-4841-8022-bd70b7592067?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",The Generator
 https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892
@@ -421,12 +424,12 @@ http://stream.laut.fm/telecaster
 # 72FM: https://72fm.com/station/47f68050-851a-46a8-a9b7-0726389ee1c3?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/ac123050ec59b3718d98712e0435746" group-title="Hard Rock" radio="true",Southern Rock Radio
 https://stream.laut.fm/southern-rock_radio
-# 72FM: https://72fm.com/station/5e63c494-2c63-401b-8e4e-ceef8b3bca47?source=m3u
-#EXTINF:-1 tvg-logo="https://femmetal.net/favicon.ico" group-title="Hard Rock" radio="true",Femmetal Classics Radio
-https://cast2.my-control-panel.com/proxy/femmetal/stream
 # 72FM: https://72fm.com/station/c0a80b16-14db-4fa8-84c4-94e9162a3502?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Radio Furgoncino
 https://stream.radiojar.com/sf65dpxy9vzuv
+# 72FM: https://72fm.com/station/5e63c494-2c63-401b-8e4e-ceef8b3bca47?source=m3u
+#EXTINF:-1 tvg-logo="https://femmetal.net/favicon.ico" group-title="Hard Rock" radio="true",Femmetal Classics Radio
+https://cast2.my-control-panel.com/proxy/femmetal/stream
 # 72FM: https://72fm.com/station/a798586c-efc8-4f2b-ae3c-74729ce0f085?source=m3u
 #EXTINF:-1 tvg-logo="https://live.offshoreradio.net/static/uploads/offshore_radio/album_art.1773012574.png" group-title="Hard Rock" radio="true",Offshore Radio
 https://live.offshoreradio.net/listen/offshore_radio/radio.mp3
@@ -448,18 +451,18 @@ https://ais-arn.streamguys1.com/au_030/playlist.m3u8
 # 72FM: https://72fm.com/station/951b95d8-8bcc-11e9-ad01-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="Hard Rock" radio="true",Fire-Base-Sound-Radio
 http://stream.laut.fm/fbsr
-# 72FM: https://72fm.com/station/146903c4-805a-41ea-907a-c7e30192905d?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/e6/e2/25726/c300.png" group-title="Hard Rock" radio="true",Radio Home of Rock
-https://server24094.streamplus.de/stream.mp3
 # 72FM: https://72fm.com/station/fd73fddd-5b94-4d5c-9953-3deab1a8571a?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Radio Dudelsack
 http://dudelsack.stream.laut.fm/dudelsack
-# 72FM: https://72fm.com/station/73e9da69-0dcd-4cd1-9ffc-bfe1078e674d?source=m3u
-#EXTINF:-1 group-title="Hard Rock" radio="true",Exclusively Joan Jett
-https://2.mystreaming.net/er/joanjett/icecast.audio
+# 72FM: https://72fm.com/station/146903c4-805a-41ea-907a-c7e30192905d?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/e6/e2/25726/c300.png" group-title="Hard Rock" radio="true",Radio Home of Rock
+https://server24094.streamplus.de/stream.mp3
 # 72FM: https://72fm.com/station/d754a202-8815-4e25-9d27-b296837021f1?source=m3u
 #EXTINF:-1 tvg-logo="https://i0.wp.com/iskcrocks.com/wp-content/uploads/2014/10/cropped-Baloon720.jpg?fit=192%2C192&ssl=1" group-title="Hard Rock" radio="true",ISKC Only Live
 https://mediaserv68.live-streams.nl:18012/OnlyLive
+# 72FM: https://72fm.com/station/73e9da69-0dcd-4cd1-9ffc-bfe1078e674d?source=m3u
+#EXTINF:-1 group-title="Hard Rock" radio="true",Exclusively Joan Jett
+https://2.mystreaming.net/er/joanjett/icecast.audio
 # 72FM: https://72fm.com/station/c2b4e74d-8392-44fd-b626-36d7854c646b?source=m3u
 #EXTINF:-1 tvg-logo="https://overdrivelive.net/wp-content/uploads/2024/06/favicon_overdrivelive.png" group-title="Hard Rock" radio="true",Overdrive Live! Station
 https://stream.overdrivelive.net:8000/alternative_128.mp3
@@ -520,54 +523,54 @@ https://mml2.prostream.se/listen/metal_mayhem/radio.mp3
 # 72FM: https://72fm.com/station/82370617-9a11-4489-bd8e-c02813b50eff?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Rock 94 & 1/2 - KHTQ - Spokane
 https://18433.live.streamtheworld.com/KHTQFMAAC.aac
+# 72FM: https://72fm.com/station/ae8a8b9d-2e79-4ac1-b7d0-9118901fa063?source=m3u
+#EXTINF:-1 tvg-logo="https://knac.com/" group-title="Hard Rock" radio="true",Pure Rock KNAC.COM
+https://stream.rcast.net/71987
+# 72FM: https://72fm.com/station/143ff518-5d57-4bf0-9859-e82af365a771?source=m3u
+#EXTINF:-1 group-title="Hard Rock" radio="true",Q103.3 KTMQ
+http://stream.revma.ihrhls.com/zc5130
 # 72FM: https://72fm.com/station/679e5c4f-740d-4c92-9d22-0d7948c5910d?source=m3u
 #EXTINF:-1 tvg-logo="https://stream.deecibel.com/rock_logo.png" group-title="Hard Rock" radio="true",Deecibel Rock Radio
 https://stream.deecibel.com/rock
 # 72FM: https://72fm.com/station/5892d8a4-fbf4-497c-9e64-6f468fa0465c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.odsradio.com/media/radio/thumb/360x360_691f2bd2af31f-plan-de-travail-1.webp" group-title="Hard Rock" radio="true",ODS Radio Légende du Rock
 http://egwr-ods-ldr.ice.infomaniak.ch/ods-legend-du-rock.mp3
-# 72FM: https://72fm.com/station/143ff518-5d57-4bf0-9859-e82af365a771?source=m3u
-#EXTINF:-1 group-title="Hard Rock" radio="true",Q103.3 KTMQ
-http://stream.revma.ihrhls.com/zc5130
-# 72FM: https://72fm.com/station/ae8a8b9d-2e79-4ac1-b7d0-9118901fa063?source=m3u
-#EXTINF:-1 tvg-logo="https://knac.com/" group-title="Hard Rock" radio="true",Pure Rock KNAC.COM
-https://stream.rcast.net/71987
-# 72FM: https://72fm.com/station/548724bd-78e1-41a9-8b5c-09ecb8a7d79a?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-hard_rock-en-mp3.jpg" group-title="Hard Rock" radio="true",Hotmix Hard Rock
-https://streaming.hotmixradio.com/hotmix-hard-rock-en-mp3?provider=radiobrowser
-# 72FM: https://72fm.com/station/c16ffe2f-a305-4f11-9d85-0aa615b9ed04?source=m3u
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63f9116c52398de39f539db6" group-title="Hard Rock" radio="true",Q 103.3 - Rockin' the Temecula Valley!
-https://stream.revma.ihrhls.com/zc5130/hls.m3u8
 # 72FM: https://72fm.com/station/277acce7-f1bb-47e8-a342-7b1d560b65d2?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Radio Caprice - HeavyPsych (heavy psychedelic rock)
 http://79.120.39.202:8000/heavypsych
+# 72FM: https://72fm.com/station/548724bd-78e1-41a9-8b5c-09ecb8a7d79a?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-hard_rock-en-mp3.jpg" group-title="Hard Rock" radio="true",Hotmix Hard Rock
+https://streaming.hotmixradio.com/hotmix-hard-rock-en-mp3?provider=radiobrowser
 # 72FM: https://72fm.com/station/5676ffa5-d687-4df9-823b-ecd591caa4ee?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Exclusive - Scorpions
 https://streaming.exclusive.radio/er/scorpions/icecast.audio
 # 72FM: https://72fm.com/station/7a7d4983-a650-4653-8b00-e9f705731ae2?source=m3u
 #EXTINF:-1 tvg-logo="https://maximusrockfm.com/wp-content/uploads/2026/01/512x512.png" group-title="Hard Rock" radio="true",MaximusRockFM
 https://stream.laut.fm/maximusrockfm
-# 72FM: https://72fm.com/station/8844bdbf-4edc-4a0d-9fff-ce0bc66bbc2e?source=m3u
-#EXTINF:-1 tvg-logo="https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtSGFyZFJvY2stMTU4ODA2MzA2NzExMXBuZy12aXJnaW5fcmFkaW9faGFyZF9yb2NrLnBuZw/-/0/0?r=219f4eb58f50ac8f9908b1be8fc5cdcb" group-title="Hard Rock" radio="true",Virgin Radio Hard Rock
-https://icy.unitedradio.it/VirginHardRock.mp3
-# 72FM: https://72fm.com/station/c11e4caf-0344-4ab5-8567-95cfac2f570f?source=m3u
-#EXTINF:-1 group-title="Hard Rock" radio="true",Metalwar
-https://c2.radioboss.fm:8674//stream?type=.mp3
+# 72FM: https://72fm.com/station/c16ffe2f-a305-4f11-9d85-0aa615b9ed04?source=m3u
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/63f9116c52398de39f539db6" group-title="Hard Rock" radio="true",Q 103.3 - Rockin' the Temecula Valley!
+https://stream.revma.ihrhls.com/zc5130/hls.m3u8
 # 72FM: https://72fm.com/station/180e9acf-af32-4a21-9c77-1d66d2af0303?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Nuclear Fallout Radio
 https://s4.radioforge.com:5170/stream
-# 72FM: https://72fm.com/station/255d3cc9-fdd2-4552-8bc2-de8aadb83a1a?source=m3u
-#EXTINF:-1 tvg-logo="https://radioroks.md/front-assets/favicons/favicon-96x96.png" group-title="Hard Rock" radio="true",Radio ROKS (Moldova) - Hard'n'Heavy
-https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac
 # 72FM: https://72fm.com/station/31a41c92-c94c-417b-9178-23641b8b8d5c?source=m3u
 #EXTINF:-1 tvg-logo="https://tanase.tapinarii.ro/wp-content/cropped-SIgla-Rockstar-Radio212-1.png" group-title="Hard Rock" radio="true",Rockstar Radio
 https://a5.asurahosting.com:7120/radio.mp3
-# 72FM: https://72fm.com/station/b2fdd491-7376-4240-b11c-66af45e71579?source=m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv9q2Hc9/HRP-Senderlogo.png" group-title="Hard Rock" radio="true",HARD ROCK PALACE
-https://stream.laut.fm/hrp
+# 72FM: https://72fm.com/station/c11e4caf-0344-4ab5-8567-95cfac2f570f?source=m3u
+#EXTINF:-1 group-title="Hard Rock" radio="true",Metalwar
+https://c2.radioboss.fm:8674//stream?type=.mp3
+# 72FM: https://72fm.com/station/255d3cc9-fdd2-4552-8bc2-de8aadb83a1a?source=m3u
+#EXTINF:-1 tvg-logo="https://radioroks.md/front-assets/favicons/favicon-96x96.png" group-title="Hard Rock" radio="true",Radio ROKS (Moldova) - Hard'n'Heavy
+https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac
+# 72FM: https://72fm.com/station/8844bdbf-4edc-4a0d-9fff-ce0bc66bbc2e?source=m3u
+#EXTINF:-1 tvg-logo="https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtSGFyZFJvY2stMTU4ODA2MzA2NzExMXBuZy12aXJnaW5fcmFkaW9faGFyZF9yb2NrLnBuZw/-/0/0?r=219f4eb58f50ac8f9908b1be8fc5cdcb" group-title="Hard Rock" radio="true",Virgin Radio Hard Rock
+https://icy.unitedradio.it/VirginHardRock.mp3
 # 72FM: https://72fm.com/station/ed02a49b-11e2-4de3-b279-279529290257?source=m3u
 #EXTINF:-1 tvg-logo="https://azura.mntl.top/static/uploads/montiel_rock/album_art.1782413303.png" group-title="Hard Rock" radio="true",Montiel Rock
 https://radio.mntl.top/listen/montiel_rock/radio.mp3
+# 72FM: https://72fm.com/station/b2fdd491-7376-4240-b11c-66af45e71579?source=m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv9q2Hc9/HRP-Senderlogo.png" group-title="Hard Rock" radio="true",HARD ROCK PALACE
+https://stream.laut.fm/hrp
 # 72FM: https://72fm.com/station/4dc166c7-acde-405e-b134-eba17c514215?source=m3u
 #EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2025-05/classic_rock_stream_schrift.jpg" group-title="Hard Rock" radio="true",RADIO BOB Classic Rock
 https://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer/
@@ -589,33 +592,33 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KHTQFMAAC.aac
 # 72FM: https://72fm.com/station/f2d38d55-01ef-4d78-9686-61f54d48ee03?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Heavy Metal Radio
 http://107.161.126.115:8000/
-# 72FM: https://72fm.com/station/8b2a827f-963b-4b07-80d6-5051e9e09411?source=m3u
-#EXTINF:-1 tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3797/files/2026/01/cfwf-30-year-socast-200x200-1.png" group-title="Hard Rock" radio="true",The Wolf 104.9 (CFWF)
-http://cfwf.streamon.fm/radioplayer-3/CFWF-64k.aac
-# 72FM: https://72fm.com/station/0cd363a2-d26f-4957-bc69-9b1f85b5f173?source=m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiaRXhd4mh2OYTmv6C3LtByAejEL3CpjYbvi_9fFSF4A&s=10" group-title="Hard Rock" radio="true",Q104.3
-https://ample.revma.ihrhls.com/zc1465/12_1uoo2d7lcwrcy02/playlist.m3u8
 # 72FM: https://72fm.com/station/86b97f82-7ea9-44e5-9abd-1efd93d0ede1?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Radio Caprice - HeavyPsych (stream 2)
 http://79.120.39.202:8004/heavypsych
 # 72FM: https://72fm.com/station/e0917d89-171e-4bee-9467-62293c582a7b?source=m3u
 #EXTINF:-1 group-title="Hard Rock" radio="true",Radio Fox Rock
 http://09.stmip.net:8422/stream
+# 72FM: https://72fm.com/station/0cd363a2-d26f-4957-bc69-9b1f85b5f173?source=m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiaRXhd4mh2OYTmv6C3LtByAejEL3CpjYbvi_9fFSF4A&s=10" group-title="Hard Rock" radio="true",Q104.3
+https://ample.revma.ihrhls.com/zc1465/12_1uoo2d7lcwrcy02/playlist.m3u8
 # 72FM: https://72fm.com/station/c9e17187-7b9f-48af-8454-0cf8462302c7?source=m3u
 #EXTINF:-1 tvg-logo="https://realrockrevival.com/wp-content/uploads/2026/08/cropped-c8eb6030-cd3f-4b78-ac61-8a1c9b2f6da7.png" group-title="Hard Rock" radio="true",Real Rock Revival
 https://puma.streemlion.com:2085/stream
+# 72FM: https://72fm.com/station/8b2a827f-963b-4b07-80d6-5051e9e09411?source=m3u
+#EXTINF:-1 tvg-logo="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3797/files/2026/01/cfwf-30-year-socast-200x200-1.png" group-title="Hard Rock" radio="true",The Wolf 104.9 (CFWF)
+http://cfwf.streamon.fm/radioplayer-3/CFWF-64k.aac
 # 72FM: https://72fm.com/station/b60c41f0-f041-4146-bcca-88d03775e0a2?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/4f002ea7d902e5e084e798c2901fbb9f?t=_120x120" group-title="Hard Rock" radio="true",Waste Water Music
 https://wastewatermusic.stream.laut.fm/wastewatermusic
+# 72FM: https://72fm.com/station/d5c6fb79-1344-43bc-a995-6524620c61ba?source=m3u
+#EXTINF:-1 tvg-logo="https://image.live365.com/download/d0f1a7a3-b73c-4160-90db-2c0e3226f42d.png/400/image.webp" group-title="Hard Rock" radio="true",Hard Rock Halloween
+https://streaming.live365.com/a10373
 # 72FM: https://72fm.com/station/f27af422-8ec6-48eb-aa62-f73a1d629eb3?source=m3u
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/production-hostgator-v1-0-5/145/1835145/kgxhXoYm/0c66263dfe7146f2980fdba82b3dd045" group-title="Hard Rock" radio="true",KCUT 102.9 Moab Rocks Community Radio - Moab, Utah
 https://streaming.live365.com/a24346
 # 72FM: https://72fm.com/station/59a3411a-e5bc-4ff9-9341-bb949f09a230?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.dogmazic.net/favicon.ico" group-title="Hard Rock" radio="true",Dogmazic Radio
 http://radio.dogmazic.net:8000/stream.mp3
-# 72FM: https://72fm.com/station/5f00fe52-2aff-46c4-bd22-b740fadc4887?source=m3u
-#EXTINF:-1 tvg-logo="https://cp-1.owh.radio.br/static/uploads/owh_s35319/album_art.1791535879.jpg" group-title="Hard Rock" radio="true",RÁDIO PROFANUM MC MUNDIAL
-https://cp-1.owh.radio.br/listen/owh_s35319/radio-mp3
 # 72FM: https://72fm.com/station/913fc253-fd99-4f0e-a215-f7751bbed27a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiorockcorner.de/index-Dateien/image707.png" group-title="Hard Rock" radio="true",Rockcorner
 https://stream.laut.fm/rockcorner

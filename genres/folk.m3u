@@ -28,6 +28,9 @@ http://176.9.30.66/cool64
 # 72FM: https://72fm.com/station/3bb1e37c-f4bb-4ec4-b1d7-ce384a8028a2?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Uttorbango Betar
 http://stream.zeno.fm/spqbxkqxdf9uv
+# 72FM: https://72fm.com/station/4413f4de-4a87-4835-8525-a80a23b3d39f?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",FM 100 Pakistan
+http://162.244.80.118:4900/;stream.mp3
 # 72FM: https://72fm.com/station/96318993-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",La Kalle
 http://24273.live.streamtheworld.com:3690/LA_KALLE_SC
@@ -180,7 +183,10 @@ http://eu1.fastcast4u.com:10942/stream
 http://900.cloudrad.io:8138/
 # 72FM: https://72fm.com/station/962396d9-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radionapoli.it/favicon.ico" group-title="Folk" radio="true",Radio Napoli
-http://ice08.fluidstream.net/RadioNapoli.aac?FLID=6
+http://ice06.fluidstream.net/RadioNapoli.mp3?FLID=6
+# 72FM: https://72fm.com/station/96265f1b-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Radio Caprice - Russian Folk
+http://79.120.77.11:9057/;
 # 72FM: https://72fm.com/station/1b0feabd-d3a5-4a4f-86ee-d2b4e13d8ca1?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio burimi
 https://stream-156.zeno.fm/vzp9uf0u3ehvv?zs=Jubk5XJHTEC2zFWm3mOTfA
@@ -216,7 +222,7 @@ http://eco.onestreaming.com:8552/;
 http://radio.icehosting.com:8091/live.mp3
 # 72FM: https://72fm.com/station/9612745b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/thistle-400.jpg" group-title="Folk" radio="true",SomaFM ThistleRadio (128k AAC)
-https://ice5.somafm.com/thistle-128-aac
+https://ice2.somafm.com/thistle-128-aac
 # 72FM: https://72fm.com/station/4a116b98-e289-4630-9b62-b93a67159c7e?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ujF6XWh2xUPiqk5XUeFxA0r0VLCmqZky9KBhIco2xjWBIKcpwsp1G7Fbsn0ONc5YamKj=w240-h480-rw" group-title="Folk" radio="true",Anghamy
 https://radio.avazfarsi.com:8010/radio.mp3
@@ -280,12 +286,12 @@ http://158.69.119.6:8095/;&type=mp3
 # 72FM: https://72fm.com/station/58940095-dc8b-477f-a7e1-cbac01932f5c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.mellowbangla.com/icon.png" group-title="Folk" radio="true",Mellow Bangla
 https://radio.mellowbangla.com/stream
-# 72FM: https://72fm.com/station/3d4c97c7-e122-4304-b8c8-52336683bda1?source=m3u
-#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr5_logo_claim.svg" group-title="Folk" radio="true",WDR 5
-https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/646ef974-f7c2-4a9e-830b-ed43c8efb135?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio S3 Juzni
 http://53a7ed211fc32.streamlock.net/asmedia/radio_s_juzni/chunklist_w317033927.m3u8?nocache=286704
+# 72FM: https://72fm.com/station/3d4c97c7-e122-4304-b8c8-52336683bda1?source=m3u
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr5_logo_claim.svg" group-title="Folk" radio="true",WDR 5
+https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/cea656d7-88f9-431a-914e-70fb1b10af0f?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Canal Breizh
 http://cast.canalbreizh.bzh/canalbreizh-hd-mp3
@@ -346,12 +352,12 @@ http://stream1.contrateam.com:8040/
 # 72FM: https://72fm.com/station/acf240e4-c1af-4ea3-b882-7cf29968c17b?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Naxi - hype
 https://naxidigital-hype128ssl.streaming.rs:8272/;stream.nsv
-# 72FM: https://72fm.com/station/9ed43144-610d-4ff0-9477-ccc5dabfd09f?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/101444.v5.png" group-title="Folk" radio="true",Hitz Funky Radio
-https://stream.zeno.fm/azgx0ktf4p8uv
 # 72FM: https://72fm.com/station/a1dbd7d6-d0c7-4479-b91e-e44b64718d65?source=m3u
 #EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:37a3d50efe6feacb?w=512" group-title="Folk" radio="true",BR Heimat
 https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
+# 72FM: https://72fm.com/station/9ed43144-610d-4ff0-9477-ccc5dabfd09f?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/101444.v5.png" group-title="Folk" radio="true",Hitz Funky Radio
+https://stream.zeno.fm/azgx0ktf4p8uv
 # 72FM: https://72fm.com/station/633900c8-f204-4c80-9432-d8a80efb5a0f?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Caprice - Bulgarian Pop-Folk/Ethnopop/Chalga
 http://213.141.131.10:8000/chalga
@@ -448,12 +454,12 @@ http://acousticoutpost.com/pvt102
 # 72FM: https://72fm.com/station/213c4d3a-8b38-404b-81de-5b5f1e726a25?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s152191g.png" group-title="Folk" radio="true",Radio Folclor
 https://ssl.omegahost.ro/8092/stream
-# 72FM: https://72fm.com/station/b273b11d-f07b-41bd-b5fb-081010700cf8?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Bravo 89.6
-https://sp3.streams.ovh/8046/stream
 # 72FM: https://72fm.com/station/1d66c174-7995-4f7d-a126-a7d5b1fd56de?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Folk
 http://stream.radiojar.com/fqt2y0ds97zuv
+# 72FM: https://72fm.com/station/b273b11d-f07b-41bd-b5fb-081010700cf8?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Bravo 89.6
+https://sp3.streams.ovh/8046/stream
 # 72FM: https://72fm.com/station/dcd4c537-2081-4a2a-b69d-2ea5b6688dfc?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiosamobor.hr/cms/wp-content/uploads/2014/04/cropped-apple-touch-icon-144x144-1-180x180.png" group-title="Folk" radio="true",Radio Samobor
 http://185.150.235.162/
@@ -502,18 +508,18 @@ https://stream.zeno.fm/n0dt87vrnd0uv
 # 72FM: https://72fm.com/station/8f79abad-a2d1-4aa1-abe2-f2d5d1b900aa?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Outpost Radio - Folk Frontier (VIP)
 http://folkfrontier.com/pvt102
-# 72FM: https://72fm.com/station/2aa93960-f3bf-4a35-9581-e0f1ea823974?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Radio Caprice Russian Folk
-http://79.120.77.11:8002/russianfolk
 # 72FM: https://72fm.com/station/8e1890ff-a74c-484c-b3df-aa5346c03c61?source=m3u
 #EXTINF:-1 tvg-logo="https://radiosehara.net/wp-content/uploads/2017/02/logo-2.png" group-title="Folk" radio="true",Radio Sehara
 https://cast.name.ba:8000/;
-# 72FM: https://72fm.com/station/86d4122b-8c50-4515-8824-4f91bb7fc8de?source=m3u
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/thistle-400.jpg" group-title="Folk" radio="true",SomaFM ThistleRadio (128k MP3)
-https://ice2.somafm.com/thistle-128-mp3
 # 72FM: https://72fm.com/station/3eba933a-a037-447b-b3ca-ffeb8ca90b08?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Križevci
 https://s8.iqstreaming.com:8048/stream
+# 72FM: https://72fm.com/station/86d4122b-8c50-4515-8824-4f91bb7fc8de?source=m3u
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/thistle-400.jpg" group-title="Folk" radio="true",SomaFM ThistleRadio (128k MP3)
+https://ice2.somafm.com/thistle-128-mp3
+# 72FM: https://72fm.com/station/2aa93960-f3bf-4a35-9581-e0f1ea823974?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Radio Caprice Russian Folk
+http://79.120.77.11:8002/russianfolk
 # 72FM: https://72fm.com/station/e9fddd49-3ee2-4597-8574-1b7dbd00aac0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.kexp.org/static/assets/img/logo-black.svg" group-title="Folk" radio="true",KEXP 90.3 FM Seattle
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
@@ -537,7 +543,7 @@ http://sonic.streams.ovh:9870/;
 http://streaming.comunicacioneschile.net:9318/stream
 # 72FM: https://72fm.com/station/2571dcf3-3c4e-11e8-b74d-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/thistle-400.jpg" group-title="Folk" radio="true",SomaFM ThistleRadio (64k AAC)
-https://ice2.somafm.com/thistle-64-aac
+https://ice5.somafm.com/thistle-64-aac
 # 72FM: https://72fm.com/station/f7c3e272-6632-46e8-a3ae-9265f94af020?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio 3Net
 http://media.3netmedia.ro:8000/Live128
@@ -547,12 +553,12 @@ https://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
 # 72FM: https://72fm.com/station/e3cebe3a-feaf-4f15-955f-3efbf9b8e6e0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/favicon.ico" group-title="Folk" radio="true",CBC Music Pacific (Vancouver) MP3 Stream
 https://17813.live.streamtheworld.com/CBUFM_CBC_SC
-# 72FM: https://72fm.com/station/9f96edb3-1c4b-4373-b56a-be368cb1e368?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Folk Alley FreshGrass
-https://freshgrass.streamguys1.com/ss1-128mp3
 # 72FM: https://72fm.com/station/8dc17c0b-d06b-4cdc-8218-9847696c4d01?source=m3u
 #EXTINF:-1 tvg-logo="https://pozdravite.net/images/favicon.png" group-title="Folk" radio="true",Radio Party Mix
 https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3
+# 72FM: https://72fm.com/station/9f96edb3-1c4b-4373-b56a-be368cb1e368?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Folk Alley FreshGrass
+https://freshgrass.streamguys1.com/ss1-128mp3
 # 72FM: https://72fm.com/station/961b96d8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Antenne Niedersachsen Relax
 http://stream.antenne.com/relax/mp3-192/linux/
@@ -562,12 +568,12 @@ https://radios.rtbf.be/jam-128.mp3
 # 72FM: https://72fm.com/station/962b30ae-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Studio Emme
 http://ice05.fluidstream.net/fluid0505.mp3?FLID=6
-# 72FM: https://72fm.com/station/3258f031-ca87-4ef9-a72f-f87af968291b?source=m3u
-#EXTINF:-1 tvg-logo="https://folkradio.pl/images/logo.png" group-title="Folk" radio="true",Folk Radio
-https://streaming.g-news.pl:8030/fr1
 # 72FM: https://72fm.com/station/00a169e2-99be-4eb5-88f6-e32960718882?source=m3u
 #EXTINF:-1 tvg-logo="https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg" group-title="Folk" radio="true",Rádio folk Czech
 http://mp3stream2.abradio.cz:8000/folk320.mp3
+# 72FM: https://72fm.com/station/3258f031-ca87-4ef9-a72f-f87af968291b?source=m3u
+#EXTINF:-1 tvg-logo="https://folkradio.pl/images/logo.png" group-title="Folk" radio="true",Folk Radio
+https://streaming.g-news.pl:8030/fr1
 # 72FM: https://72fm.com/station/2577a021-2392-4baa-8f6c-bcdefeab7957?source=m3u
 #EXTINF:-1 tvg-logo="https://naladit.radiocimbalka.cz/favicon/favicon-96x96.png" group-title="Folk" radio="true",Radio JIH Cimbalka
 http://icecast6.play.cz/jihcimbalka128.mp3
@@ -613,30 +619,30 @@ http://s3.onweb.gr:8872/;
 # 72FM: https://72fm.com/station/59bc8af2-3f68-11e9-aa55-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Күңел радиосы
 http://live.kunelradio.ru:8000/128.mp3
-# 72FM: https://72fm.com/station/e30883d9-2a3d-4c5b-8518-a472646f5a4a?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Irish Pub Radio
-http://solid24.streamupsolutions.com:8026/live
 # 72FM: https://72fm.com/station/3861aa3f-eb00-4690-a25b-2d9cde93cc7c?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Skylos 69
 https://i6.streams.ovh/ic/skylos69/stream
-# 72FM: https://72fm.com/station/961f7d9b-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://cklbradio.com/wp-content/uploads/2019/04/cropped-top_small_square-180x180.gif" group-title="Folk" radio="true",CKLB 101.9 Yellowknife, NT
-http://cklb.streamon.fm:8000/CKLB-24k.aac
+# 72FM: https://72fm.com/station/e30883d9-2a3d-4c5b-8518-a472646f5a4a?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Irish Pub Radio
+http://solid24.streamupsolutions.com:8026/live
 # 72FM: https://72fm.com/station/a76886de-703d-4c64-91ba-75673bfc7235?source=m3u
 #EXTINF:-1 tvg-logo="https://s.regiogroei.cloud/img/favicons/zeeland/android-chrome-192x192.png" group-title="Folk" radio="true",Omroep Zeeland Radio
 https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio
 # 72FM: https://72fm.com/station/278df5f8-6b73-4254-a8df-07c62e07da8b?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png" group-title="Folk" radio="true",CBC Music Eastern (Toronto) MP3 Stream
-https://22983.live.streamtheworld.com/CBLFM_CBC_SC
+https://26373.live.streamtheworld.com/CBLFM_CBC_SC
+# 72FM: https://72fm.com/station/961f7d9b-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://cklbradio.com/wp-content/uploads/2019/04/cropped-top_small_square-180x180.gif" group-title="Folk" radio="true",CKLB 101.9 Yellowknife, NT
+http://cklb.streamon.fm:8000/CKLB-24k.aac
 # 72FM: https://72fm.com/station/e771586c-72b0-4c95-8799-18d886b32cca?source=m3u
 #EXTINF:-1 tvg-logo="https://www.wuky.org/favicon.ico" group-title="Folk" radio="true",WUKY - NPR Rocks
 https://wuky.streamguys1.com/wuky
-# 72FM: https://72fm.com/station/1d86737b-bf6f-41f2-bd52-cd29d4a73688?source=m3u
-#EXTINF:-1 tvg-logo="https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-ico-beta.ico" group-title="Folk" radio="true",CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
-https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
 # 72FM: https://72fm.com/station/c5ee5c7b-78eb-4485-94f5-83ca2d1ba8eb?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Exclusively Linda Ronstadt
 http://2.mystreaming.net/er/lindaronstadt/icecast.audio
+# 72FM: https://72fm.com/station/1d86737b-bf6f-41f2-bd52-cd29d4a73688?source=m3u
+#EXTINF:-1 tvg-logo="https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-ico-beta.ico" group-title="Folk" radio="true",CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
 # 72FM: https://72fm.com/station/9c39439d-86a1-49d7-ad4e-638dd3e6ee25?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Kosmos 100
 http://s1.onweb.gr:8856/;
@@ -652,15 +658,15 @@ http://live.notafm.hu:8000/notafm
 # 72FM: https://72fm.com/station/d0ea5f62-a19f-4905-928b-fc64f7d7ee30?source=m3u
 #EXTINF:-1 tvg-logo="https://oxv3e3.p3cdn2.secureserver.net/wp-content/themes/wumb/images/favicon.png" group-title="Folk" radio="true",WUMB Celtic Journey 24/7 Music Stream
 http://wumb.streamguys1.com/wumb919cj
-# 72FM: https://72fm.com/station/253ad8ac-b75a-4e9c-8700-0a9abde11cb8?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Radio Centar Studio Poreč
-http://radiocentar.hr:8282/mp3
 # 72FM: https://72fm.com/station/cbc8aa70-4c47-43aa-8386-932d928f2fbc?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Jaska
 https://uk1.streamingpulse.com/ssl/RadioJaska
 # 72FM: https://72fm.com/station/e9f47aa7-374f-4cdf-911c-d86e4ff5a529?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Manos 103.4
 http://i5.streams.ovh:14123/live
+# 72FM: https://72fm.com/station/253ad8ac-b75a-4e9c-8700-0a9abde11cb8?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Radio Centar Studio Poreč
+http://radiocentar.hr:8282/mp3
 # 72FM: https://72fm.com/station/2d6f60f0-2ba0-406f-b43f-2e946bbd63c7?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Popular (Arhiva) (1)
 http://web.archive.org/web/20180110095018if_/http://mp3.radiopopular.ro:7777/;
@@ -670,18 +676,18 @@ http://213.141.131.10:8000/europeanfolk
 # 72FM: https://72fm.com/station/9fe98180-3855-4f43-963c-855fa02eeaae?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio La Zurda
 https://radios.solumedia.com:6270/stream
-# 72FM: https://72fm.com/station/087085f9-49cb-4c69-abd3-3fd670cca1dd?source=m3u
-#EXTINF:-1 tvg-logo="https://karlovacki.hr/wp-content/uploads/2022/11/cropped-favicon-180x180.png" group-title="Folk" radio="true",Hrvatski radio Karlovac
-http://s8.iqstreaming.com:8002/
 # 72FM: https://72fm.com/station/8765bc45-2e1a-462c-ab5f-775fbd8c0da5?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Mилли радио Китап
 http://radio.tatmedia.com:8800/kitapfm
-# 72FM: https://72fm.com/station/7fe861a9-5b46-49d0-9b37-2ccac195f2ef?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Radio Alpenstar
-http://streamplus62.leonex.de:22674/;
+# 72FM: https://72fm.com/station/087085f9-49cb-4c69-abd3-3fd670cca1dd?source=m3u
+#EXTINF:-1 tvg-logo="https://karlovacki.hr/wp-content/uploads/2022/11/cropped-favicon-180x180.png" group-title="Folk" radio="true",Hrvatski radio Karlovac
+http://s8.iqstreaming.com:8002/
 # 72FM: https://72fm.com/station/c8333a97-8739-4dd2-9471-ab48e4436ad5?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Caprice Country / Folk Blues
 http://79.120.77.11:8002/countryblues
+# 72FM: https://72fm.com/station/7fe861a9-5b46-49d0-9b37-2ccac195f2ef?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Radio Alpenstar
+http://streamplus62.leonex.de:22674/;
 # 72FM: https://72fm.com/station/fc34869b-77f3-4483-87ad-813361bbbfd0?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p2.png" group-title="Folk" radio="true",Sveriges Radio P2 flac
 https://live1.sr.se/p2-flac
@@ -697,12 +703,12 @@ https://alpenpower.stream.laut.fm/alpenpower
 # 72FM: https://72fm.com/station/b1939f76-1417-4058-8657-403e6fcf45ea?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Toutes les couleurs du trad
 https://my2.radiolize.com/radio/8100/radio.mp3
-# 72FM: https://72fm.com/station/961bce7a-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Radio Cagnac
-http://2stream.dyndns.org:8000/cagnac_sd.mp3
 # 72FM: https://72fm.com/station/96425dae-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://oxv3e3.p3cdn2.secureserver.net/wp-content/themes/wumb/images/favicon.png" group-title="Folk" radio="true",WUMB Studio Archives Stream - Boston, MA
 http://wumb.streamguys1.com/wumb919od
+# 72FM: https://72fm.com/station/961bce7a-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Radio Cagnac
+http://2stream.dyndns.org:8000/cagnac_sd.mp3
 # 72FM: https://72fm.com/station/9e8b984d-732c-4049-b43f-411eae57bfed?source=m3u
 #EXTINF:-1 tvg-logo="https://i2.wp.com/cambridge105.co.uk/wp-content/uploads/2017/10/cropped-C105R-Logo.png?fit=32%2C32&ssl=1" group-title="Folk" radio="true",Cambridge 105
 https://stream.cambridge105.co.uk:8443/105-radioplayer-high
@@ -715,15 +721,15 @@ https://streamer.radio.co/sd6131729c/listen
 # 72FM: https://72fm.com/station/73f64034-fc07-446c-983d-1a23a139b1f9?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",RADIO BOB - Chillout Unplugged Songs [mp3 | 192 kbps]
 https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/
-# 72FM: https://72fm.com/station/588a1856-12bd-11e9-a80b-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Национальное Радио Чувашии / Chuvash National Radio
-http://icecast.ntrk21.ru:8000/nacradio
+# 72FM: https://72fm.com/station/57f91dff-0d23-4406-9a58-5f86456edaeb?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Radio Fränkisch Spoken
+http://fraenkisch-spoken.stream.laut.fm/fraenkisch-spoken?uuid=85d74331-3221-d2ec-d0f4-a6b7be685071&t302=2026-10-12_00-40-11
 # 72FM: https://72fm.com/station/5aaf6603-7a01-461a-9b41-643ff0794a86?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Ελληνικό Παραδοσιακό Ραδιόφωνο
 http://i2.streams.ovh:7058/stream1
-# 72FM: https://72fm.com/station/57f91dff-0d23-4406-9a58-5f86456edaeb?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Radio Fränkisch Spoken
-http://fraenkisch-spoken.stream.laut.fm/fraenkisch-spoken?t302=2026-09-30_20-53-42&uuid=eb75c466-df08-dd5a-3ce4-4f73c8a548a2
+# 72FM: https://72fm.com/station/588a1856-12bd-11e9-a80b-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Национальное Радио Чувашии / Chuvash National Radio
+http://icecast.ntrk21.ru:8000/nacradio
 # 72FM: https://72fm.com/station/f3dbfcf1-17c0-4981-aa02-eb5c1bd2cb97?source=m3u
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/2022/0115/20220115044123.gif" group-title="Folk" radio="true",涞水县怀旧音乐广播895
 https://lhttp.qtfm.cn/live/20211619/64k.mp3
@@ -751,6 +757,9 @@ https://stunnel2.cyber-streaming.com:9272/stream
 # 72FM: https://72fm.com/station/cd43795e-4fc0-416b-8ce5-8d9bca59e4f3?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radioachterhoek.nl
 https://stream.radioachterhoek.nl/index.html?sid=1
+# 72FM: https://72fm.com/station/bb8fb5d5-022b-45cb-a68b-45e0f40ad431?source=m3u
+#EXTINF:-1 tvg-logo="https://kef.fm/keffm.png" group-title="Folk" radio="true",kef.fm
+http://91.227.77.124/keffm
 # 72FM: https://72fm.com/station/a6657ed6-cbf1-408f-a1f3-bff89de64389?source=m3u
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/c504ef7a-1685-4c35-aa77-786399125edb.png" group-title="Folk" radio="true",Easy Folk
 https://streaming.exclusive.radio/uber/easyfolk/icecast.audio
@@ -769,6 +778,9 @@ http://stream.laut.fm/freunde-des-nordens
 # 72FM: https://72fm.com/station/a9db6569-d9cd-49f9-804f-37e3f7e2e96e?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Music Sambre
 http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3
+# 72FM: https://72fm.com/station/16135930-a084-4941-b6d9-69ca19063eb1?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Muzyka Dwoch Serc
+http://s3.slotex.pl:7272/
 # 72FM: https://72fm.com/station/b1cb20c0-18c0-4799-987a-c8e264f627f6?source=m3u
 #EXTINF:-1 tvg-logo="https://radio-bnm.hr/wp-content/uploads/2024/04/cropped-logo_radio_bnm_fav-180x180.png" group-title="Folk" radio="true",Radio Biograd na Moru
 https://onlineradiobox.com/json/hr/bnm/play?platform=web
@@ -781,39 +793,39 @@ http://stream.laut.fm/schallgrenzen
 # 72FM: https://72fm.com/station/d7088d98-c969-4bed-91be-030e5cc88376?source=m3u
 #EXTINF:-1 tvg-logo="https://folkalley-wp-assets.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/07130534/cropped-fa-fav-192x192.jpg" group-title="Folk" radio="true",Folk Alley Irish Stream [AAC]
 http://freshgrass.streamguys1.com/irish-64aac
-# 72FM: https://72fm.com/station/16135930-a084-4941-b6d9-69ca19063eb1?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Muzyka Dwoch Serc
-http://s3.slotex.pl:7272/
 # 72FM: https://72fm.com/station/44f1b286-8b30-4d93-ae86-ebb71f833d33?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Kiss FM Narodni
 https://stream.zeno.fm/q8252338t68uv
 # 72FM: https://72fm.com/station/6793afb4-3f6c-11e9-aa55-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Саба дулкыннары
 http://radio.tatmedia.com:8800/Saba
-# 72FM: https://72fm.com/station/30a7a9a1-ef32-4af2-b615-37cbd66fa5cd?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Radio Caprice - Slavonic
-http://213.141.131.10:8000/slavonicneofolk
 # 72FM: https://72fm.com/station/5bfc4b1a-def1-44ab-8d6d-e7c63820f781?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Pop Radio 21
 https://listen.radioking.com/radio/318317/stream/365846
-# 72FM: https://72fm.com/station/f205439c-5a27-4e95-ae9f-bba7ac569439?source=m3u
-#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="Folk" radio="true",ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)
-https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+# 72FM: https://72fm.com/station/30a7a9a1-ef32-4af2-b615-37cbd66fa5cd?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Radio Caprice - Slavonic
+http://213.141.131.10:8000/slavonicneofolk
+# 72FM: https://72fm.com/station/5c9aa341-31f9-4c76-a5b8-aea612006ff9?source=m3u
+#EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/11ee4925-5901-4d5f-81f3-23db7b0a3fa6-w320.webp" group-title="Folk" radio="true",Medina FM Amazigh (128 kbps)
+https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3
 # 72FM: https://72fm.com/station/512caa5f-e994-4db8-b17d-9a865aa583e1?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Čivijaš Radio
 http://media.srb-streaming.com:9078/stream
+# 72FM: https://72fm.com/station/f205439c-5a27-4e95-ae9f-bba7ac569439?source=m3u
+#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="Folk" radio="true",ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
 # 72FM: https://72fm.com/station/5705e8c2-6208-41c9-8ad1-3fb780405548?source=m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLDxX33r/Kiwi-Folk.jpg" group-title="Folk" radio="true",Kiwi Folk Radio
 https://streamer.radio.co/sde527a41e/listen
+# 72FM: https://72fm.com/station/c3d14461-df38-4f37-bee6-a74ec17aa32d?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Max 93.4
+http://n06.radiojar.com/qt9gf4hhdwzuv?rj-ttl=5&rj-tok=AAABePC4w-8AswP_xFbknsZD6g
 # 72FM: https://72fm.com/station/20c2d803-b952-46ef-aab8-05313b1e286a?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",CBFM.ca Gaelic College - St. Ann's, NS
 https://s4.radio.co/s6f58ddb4f/listen
 # 72FM: https://72fm.com/station/b4a1a38c-0473-4f1c-a4c1-d55099686b5f?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Core de Roma
 https://sr14.inmystream.it:8210/stream
-# 72FM: https://72fm.com/station/c3d14461-df38-4f37-bee6-a74ec17aa32d?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Max 93.4
-http://n06.radiojar.com/qt9gf4hhdwzuv?rj-ttl=5&rj-tok=AAABePC4w-8AswP_xFbknsZD6g
 # 72FM: https://72fm.com/station/622a9284-a40a-49a1-b45a-467b273e311f?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Exclusively Bonnie Raitt
 http://2.mystreaming.net/er/bonnieraitt/icecast.audio
@@ -826,45 +838,42 @@ http://sp2.streams.ovh:8106/stream?type=http&nocache=540
 # 72FM: https://72fm.com/station/1fcd6315-becc-4ffd-8216-f0eb63130bd4?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Πήλιο 93.4
 http://s3.myradiostream.com:4060/;
-# 72FM: https://72fm.com/station/5c9aa341-31f9-4c76-a5b8-aea612006ff9?source=m3u
-#EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/11ee4925-5901-4d5f-81f3-23db7b0a3fa6-w320.webp" group-title="Folk" radio="true",Medina FM Amazigh (128 kbps)
-https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3
 # 72FM: https://72fm.com/station/e7bc85d6-3f7c-11e9-aa55-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Ашҡаҙар
 http://radio.mediacdn.ru/ashkadar.mp3
 # 72FM: https://72fm.com/station/4043fd6b-ba19-4467-8e84-382a54bbae0e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.mysterytrainradio.com/favicon.ico" group-title="Folk" radio="true",Mystery Train Radio
 https://streamer.radio.co/sf662f27c0/low
-# 72FM: https://72fm.com/station/165b0bf2-517b-434a-8a6f-0e26e5dd6f1a?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiokalavryta.gr/wp-content/uploads/2021/08/cropped-mono-laika-3-180x180.png" group-title="Folk" radio="true",Καλάβρυτα
-https://rdst.win:48030/live
 # 72FM: https://72fm.com/station/21de199b-131a-470a-9a83-154573719041?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Oltenia Craiova
 http://stream2.srr.ro:8370/
+# 72FM: https://72fm.com/station/165b0bf2-517b-434a-8a6f-0e26e5dd6f1a?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiokalavryta.gr/wp-content/uploads/2021/08/cropped-mono-laika-3-180x180.png" group-title="Folk" radio="true",Καλάβρυτα
+https://rdst.win:48030/live
 # 72FM: https://72fm.com/station/3e64ce47-a692-4188-a501-d539753ea38d?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Λαϊκό Ραδιόφωνο
 http://i2.streams.ovh:7017/;s.mp3%2613142580629?1561638450138
 # 72FM: https://72fm.com/station/2c73ee77-c681-42b2-b2c4-ccb8712ab9da?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CBC_Music_Logo.png/800px-CBC_Music_Logo.png" group-title="Folk" radio="true",CBC Music Atlantic (Halifax) MP3 Stream
 https://26183.live.streamtheworld.com/CBH_CBC_SC
-# 72FM: https://72fm.com/station/e1aa6731-3ecd-48bd-8968-d7b9e9a60170?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Elmari tantsuõhtu 24/7
-http://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac
 # 72FM: https://72fm.com/station/024eb1b2-ad04-479a-880a-55a3833ac37b?source=m3u
 #EXTINF:-1 tvg-logo="https://1015fm.com.au/favicon.ico" group-title="Folk" radio="true",4OUR 101.5 fm
 http://streaming.lava.net.au/au_qld_4our_caboolture1015
+# 72FM: https://72fm.com/station/e1aa6731-3ecd-48bd-8968-d7b9e9a60170?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Elmari tantsuõhtu 24/7
+http://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac
 # 72FM: https://72fm.com/station/a43fe521-6b1b-4297-9d0d-26e0b903b328?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio105.hr/favicon.ico" group-title="Folk" radio="true",Radio 105 Selnica (HR)
 https://azuracast.novi-net.net/radio/8050/radio105.aac
 # 72FM: https://72fm.com/station/61f28b98-91ee-476b-9863-099b2aa58d10?source=m3u
 #EXTINF:-1 tvg-logo="https://balkanradio.com/img/Icon.png" group-title="Folk" radio="true",Balkan Radio
 https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl
-# 72FM: https://72fm.com/station/a586d665-294e-4492-ba60-0e942339f550?source=m3u
-#EXTINF:-1 tvg-logo="https://chanove.com/templates/beez_20/images/plus.png" group-title="Folk" radio="true",Radio Chanove
-http://radio.chanove.com:8000/stream
 # 72FM: https://72fm.com/station/b9d128ca-4bbf-41ee-97bf-6829c21d247d?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Exclusively Eva Cassidy
 https://2.mystreaming.net/er/evacassidy/icecast.audio
+# 72FM: https://72fm.com/station/a586d665-294e-4492-ba60-0e942339f550?source=m3u
+#EXTINF:-1 tvg-logo="https://chanove.com/templates/beez_20/images/plus.png" group-title="Folk" radio="true",Radio Chanove
+http://radio.chanove.com:8000/stream
 # 72FM: https://72fm.com/station/c21d3998-f91b-48e4-9bb1-74fa12ffb9e5?source=m3u
 #EXTINF:-1 tvg-logo="https://www.kentfm955.com.tr/icons/radyokent_logo_tunein_512.png" group-title="Folk" radio="true",Radyo Kent
 https://kentfm955.ozelip.com/9306/stream
@@ -876,7 +885,7 @@ https://server-28.stream-server.nl:18828/stream
 http://online.kometa.fm:8000/live
 # 72FM: https://72fm.com/station/9618d7b9-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",High Plains Public Radio - 91.1 KANZ
-http://14843.live.streamtheworld.com/KANZFM_HPPR_SC
+http://26153.live.streamtheworld.com:3690/KANZFM_HPPR_SC
 # 72FM: https://72fm.com/station/12ebc143-6d72-42db-89b4-3610f97c9409?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Marija Bistrica
 http://178.218.163.171:8024/stream
@@ -895,12 +904,3 @@ https://s3.slotex.pl:7126/stream
 # 72FM: https://72fm.com/station/0e670961-6c1f-469a-a26e-3ffa19b5ece7?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",RADIO BOB - Chillout Unplugged Songs [aac | 64 kbps]
 https://streams.radiobob.de/bob-chillout/aac-64/streams.radiobob.de/
-# 72FM: https://72fm.com/station/cd3c305e-7058-482f-97f0-f3362a60972d?source=m3u
-#EXTINF:-1 tvg-logo="https://radiopuls.lu/wp-content/uploads/2016/02/cropped-original_radio_puls_logo_3d_png_1000px-180x180.png" group-title="Folk" radio="true",Radio Puls Luxembourg
-https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream
-# 72FM: https://72fm.com/station/775abd5d-0369-47f9-8e43-bd40513d2440?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Zusamstream
-http://stream.laut.fm/zusamstream
-# 72FM: https://72fm.com/station/0c889849-9a9d-4cfd-ac3d-3ce5cdb3f478?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Radio Uylenspiegel
-https://listen.radioking.com/radio/474857/stream/531260

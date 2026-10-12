@@ -124,12 +124,12 @@ https://proxy01.servidorenlinea.net/cdehosting/8050/;
 # 72FM: https://72fm.com/station/9026acd0-fbbd-437e-8550-9683480d0da6?source=m3u
 #EXTINF:-1 group-title="Paraguay" radio="true",Aspen FM 102.7 Paraguay
 https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/db1c07b2-8c87-4b67-b4e8-c30114bed36e?source=m3u
-#EXTINF:-1 tvg-logo="https://radioconcierto.com.py/wp-content/uploads/2018/04/flaicon-2.png" group-title="Paraguay" radio="true",Radio Concierto 89.1
-https://radio.host.com.py/9572/stream
 # 72FM: https://72fm.com/station/5b2c1196-f0ac-46d3-aa25-81179e5dea00?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240707_215147809.jpg?alt=media&token=f575a19f-9671-488a-9d22-3ea89f5ad321" group-title="Paraguay" radio="true",Radio Impacto 95.3 FM
 http://radio.host.com.py:9714/stream
+# 72FM: https://72fm.com/station/db1c07b2-8c87-4b67-b4e8-c30114bed36e?source=m3u
+#EXTINF:-1 tvg-logo="https://radioconcierto.com.py/wp-content/uploads/2018/04/flaicon-2.png" group-title="Paraguay" radio="true",Radio Concierto 89.1
+https://radio.host.com.py/9572/stream
 # 72FM: https://72fm.com/station/34715bae-8311-433a-8a19-5310e5e566fb?source=m3u
 #EXTINF:-1 tvg-logo="https://www.laclave.com.py/wp-content/uploads/2024/01/unnamed-e1712685386448.png" group-title="Paraguay" radio="true",La Clave 103.9
 https://radio.host.com.py:7181/
@@ -160,6 +160,9 @@ http://cp9.serverse.com:7221/amambayfm
 # 72FM: https://72fm.com/station/1aaff5b3-6d65-4eb5-827a-505c1f9ec8c5?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240809_152219338.jpg?alt=media&token=75e6cd7a-5213-4c68-afe8-fbe9968b6dc8" group-title="Paraguay" radio="true",Radio Mix 90.1 FM
 https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/bf80c934-ca00-4ea5-b96a-b2260c1dd4af?source=m3u
+#EXTINF:-1 group-title="Paraguay" radio="true",Radio Cerro Cora 91.5 FM
+http://135.181.103.10:8018/stream
 # 72FM: https://72fm.com/station/827a5b81-d1d1-4b07-aad0-2557a712d021?source=m3u
 #EXTINF:-1 tvg-logo="https://1000noticias.com.py/wp-content/uploads/2024/03/130x30-1000-Noticias-1.png" group-title="Paraguay" radio="true",Radio 1000 AM
 https://1000noticias.live:8000/radio.mp3
@@ -187,3 +190,9 @@ https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9
 # 72FM: https://72fm.com/station/80a7d5b0-9ec3-45bc-b613-3886db784621?source=m3u
 #EXTINF:-1 tvg-logo="https://ibb.co/prLvsVGn" group-title="Paraguay" radio="true",Golden Classic Radio PY
 https://stream.zeno.fm/9wxcnjd0dievv
+# 72FM: https://72fm.com/station/aa0ff27e-7e81-42f6-9dc6-7c72089255ae?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/paraguay/radio-chaco-boreal.avif?v=1791194402" group-title="Paraguay" radio="true",Radio Chacho Boreal
+https://tigocloud.desdeparaguay.net/mov1330/mov1330.stream/chunklist_w1397196983.m3u8
+# 72FM: https://72fm.com/station/c8568a6a-3111-40bc-ac5c-e50428da965d?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/paraguay/conquistador-fm.avif?v=1791194402" group-title="Paraguay" radio="true",Radio Conquistador 89.1 FM
+https://tigocloud.desdeparaguay.net/movconquistador/movconquistador.stream/chunklist_w1215257311.m3u8

@@ -4,6 +4,9 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
+# 72FM: https://72fm.com/station/4413f4de-4a87-4835-8525-a80a23b3d39f?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",FM 100 Pakistan
+http://162.244.80.118:4900/;stream.mp3
 # 72FM: https://72fm.com/station/9617fe3b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Maria
 http://dreamsiteradiocp.com:8092/;
@@ -217,12 +220,12 @@ https://dc1.serverse.com/proxy/kjxwtpdt/stream
 # 72FM: https://72fm.com/station/5e24cb0b-858a-4c8a-8604-e49b4eab8536?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",EMAUS RADIO
 https://sh2.radioonlinehd.com:8141/;
-# 72FM: https://72fm.com/station/06ce7631-0f06-4315-aca8-bc90123f92fe?source=m3u
-#EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Religious" radio="true",Radio Hermanos
-https://stream.zenolive.com/vq7z0a3u7mruv
 # 72FM: https://72fm.com/station/ab1a66a3-40ac-11ea-a9fa-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ewtn.com/img/favicons/favicon-128x128.png" group-title="Religious" radio="true",EWTN Catholic Radio
 https://ewtn-ice.streamguys1.com/english-aac
+# 72FM: https://72fm.com/station/06ce7631-0f06-4315-aca8-bc90123f92fe?source=m3u
+#EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Religious" radio="true",Radio Hermanos
+https://stream.zenolive.com/vq7z0a3u7mruv
 # 72FM: https://72fm.com/station/f36067b3-bb5f-476c-9d55-dccc26f3f8aa?source=m3u
 #EXTINF:-1 tvg-logo="https://i0.wp.com/alfaruq.net/wp-content/uploads/2018/08/PIC-INFO.png?zoom=2&resize=230%2C230&ssl=1" group-title="Religious" radio="true",Al-Faruq Purwokerto Banyumas <24kb aac+>
 http://alfaruq.radioislam.my.id:12000/
@@ -363,7 +366,7 @@ http://rs16.stream24.org/horeb.mp3
 http://s39.myradiostream.com/:15664/;
 # 72FM: https://72fm.com/station/18fa9cbc-1199-4aa4-8a98-d3bbc5d41e95?source=m3u
 #EXTINF:-1 tvg-logo="https://www.cope.es/favicon.ico" group-title="Religious" radio="true",COPE Cartagena
-http://wecast10-h-cloud.flumotion.com/copesedes/cartagena.mp3
+http://wecast07-o-cloud.flumotion.com/copesedes/cartagena.mp3
 # 72FM: https://72fm.com/station/1b0cb1d8-9e80-11e8-a767-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Ancient Faith Radio
 https://ancientfaith.streamguys1.com/music
@@ -409,12 +412,12 @@ https://stream.zeno.fm/fu9hfhw8na0uv
 # 72FM: https://72fm.com/station/94d3aa00-b246-48d9-9089-7c9b762f3156?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiocristiana883.com.ar/splash.jpg" group-title="Religious" radio="true",Radio Cristiana FM 88.3
 https://rr5100.globalhost1.com/8540/;
-# 72FM: https://72fm.com/station/13f4519e-6923-4013-a21f-6d3cac828d22?source=m3u
-#EXTINF:-1 tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png" group-title="Religious" radio="true",Radio Vaticana Bulgaria
-https://radio.vaticannews.va/stream-bg
 # 72FM: https://72fm.com/station/01685993-6bb3-440d-8946-ff728f66e802?source=m3u
 #EXTINF:-1 tvg-logo="https://www.smzg.org/home/wp-content/uploads/2015/09/cropped-smzg1201-180x180.png" group-title="Religious" radio="true",生命之光广播电台
 https://stream.radiojar.com/z3ctv2zxm2zuv.m4a
+# 72FM: https://72fm.com/station/13f4519e-6923-4013-a21f-6d3cac828d22?source=m3u
+#EXTINF:-1 tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png" group-title="Religious" radio="true",Radio Vaticana Bulgaria
+https://radio.vaticannews.va/stream-bg
 # 72FM: https://72fm.com/station/33986943-5902-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.horeb.org///favicon.ico" group-title="Religious" radio="true",Radio Horeb (32 kbps)
 http://dreamsiteradiocp.com:8114/stream
@@ -472,15 +475,15 @@ http://yayin2.canliyayin.org:7052/;*.mp3
 # 72FM: https://72fm.com/station/628f09dd-5a7e-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",RADIO MARIA LATVIA
 http://dreamsiteradiocp2.com:8046/stream
+# 72FM: https://72fm.com/station/d7e6ec7b-7ea8-4442-b046-c2a149b24c7f?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",KURAN ve TÜRKÇE MEAL
+http://baserorg.duckdns.org:8000/
 # 72FM: https://72fm.com/station/0aa9f85f-436b-11e9-aa55-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",HKR
 http://stream.hkr.hr:8000/hkr.mp3
 # 72FM: https://72fm.com/station/82de2d37-3578-4dc9-8cf4-99c7e1963ea5?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Christianity
 http://eu1.fastcast4u.com:9326/stream
-# 72FM: https://72fm.com/station/d7e6ec7b-7ea8-4442-b046-c2a149b24c7f?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",KURAN ve TÜRKÇE MEAL
-http://baserorg.duckdns.org:8000/
 # 72FM: https://72fm.com/station/9f36c6ea-2a62-4a76-a4c7-8c69b99c7d1b?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",CARACOL RADIO 105.1 FM
 https://stream.zeno.fm/u844q3w08mwtv
@@ -520,30 +523,30 @@ https://stream.zeno.fm/abkmpazmyk8uv
 # 72FM: https://72fm.com/station/d4780e22-7a70-11ea-8a3b-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png" group-title="Religious" radio="true",Su Presencia Radio
 https://supresenciaradio.out.airtime.pro/supresenciaradio_a
-# 72FM: https://72fm.com/station/8b42fdc1-a9bb-4b28-a576-01f89bdb7e34?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",Radio Contigo
-http://streaming.comunicacioneschile.net:9318/stream
 # 72FM: https://72fm.com/station/6106ed33-67fe-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",RADIO MARIA CANADA - TORONTO
 http://dreamsiteradiocp4.com:8016/stream
+# 72FM: https://72fm.com/station/8b42fdc1-a9bb-4b28-a576-01f89bdb7e34?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",Radio Contigo
+http://streaming.comunicacioneschile.net:9318/stream
 # 72FM: https://72fm.com/station/73364e26-4f24-4df0-9118-82626d9852b8?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Islam2Day - Quran Translation
 http://www.islam2day.tv:4000/
-# 72FM: https://72fm.com/station/cef30f27-1f96-4005-8b7c-e161dba43ccf?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",Erkam Radyo
-https://api-tv5.yayin.com.tr:8002/mp3
 # 72FM: https://72fm.com/station/470a069f-a284-4f62-8d66-5ce2b8f0a3a7?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hwadzan.tv/wp-content/uploads/2021/04/favicon.ico" group-title="Religious" radio="true",华藏净宗弘化网网络念佛堂
 https://vod.amtb.de/liveedge/_definst_/smil:amtb.smil/chunklist_b828000.m3u8
+# 72FM: https://72fm.com/station/cef30f27-1f96-4005-8b7c-e161dba43ccf?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",Erkam Radyo
+https://api-tv5.yayin.com.tr:8002/mp3
 # 72FM: https://72fm.com/station/e04a5e36-a6f4-4673-8dd4-1983e5a44002?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="Religious" radio="true",圣大解脱经
 https://stream.zeno.fm/qu29gyku968uv
-# 72FM: https://72fm.com/station/962da54b-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",Радио Мария
-http://dreamsiteradiocp4.com:8002/
 # 72FM: https://72fm.com/station/b76a4d99-653c-4e90-83c4-d72d3a677b8b?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9y1bNkr/image.jpg" group-title="Religious" radio="true",Gospel Plus (MP3)
 http://stream.zeno.fm/8m3ue57r1uhvv
+# 72FM: https://72fm.com/station/962da54b-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",Радио Мария
+http://dreamsiteradiocp4.com:8002/
 # 72FM: https://72fm.com/station/90de4424-5901-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.horeb.org/favicon.ico" group-title="Religious" radio="true",Radio Horeb (127 kbps)
 http://rs16.stream24.org:8000/horeb.mp3
@@ -565,12 +568,12 @@ http://stream.zeno.fm/nvz73r6m7yzuv
 # 72FM: https://72fm.com/station/ae06af89-5a24-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",RADIO MARIA ROMANIA HUNG.
 http://dreamsiteradiocp4.com:8026/stream
-# 72FM: https://72fm.com/station/fbf0bb38-272f-438a-b8f3-d325b2232df8?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",salaammedia
-https://iceant.antfarm.co.za/Salaam
 # 72FM: https://72fm.com/station/961cd91c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Izlam 4 Your Spiritual Thirst
 http://66.45.232.133:9998/
+# 72FM: https://72fm.com/station/fbf0bb38-272f-438a-b8f3-d325b2232df8?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",salaammedia
+https://iceant.antfarm.co.za/Salaam
 # 72FM: https://72fm.com/station/6f87c6b7-43b5-4592-95a0-bd6b69c1b210?source=m3u
 #EXTINF:-1 tvg-logo="https://www.estereosantasionlive.com/contenido-estatico/uploads/sites/76/2023/05/logo-150x150.jpg.webp" group-title="Religious" radio="true",Estéreo Santa Sion
 https://radio015.gt.gt/radio/8000/live.mp3
@@ -598,18 +601,18 @@ https://stream.zeno.fm/n5tergcf4v8uv
 # 72FM: https://72fm.com/station/28ab7a7b-25fb-4648-8475-c67691e633d7?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Hidayah 103.4 FM
 https://radioislamindonesia.com/radiohidayah.mp3
-# 72FM: https://72fm.com/station/045f3da4-f2e0-44da-8fe2-d79274bd9c9c?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",Ι.Μ. Σπάρτης 88.8
-http://s4.onweb.gr:8862/;
 # 72FM: https://72fm.com/station/99dfaec2-67fe-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Maria Canada - Spanish
 http://rmcesp.radiomaria.ca:8050/;stream.mp3
-# 72FM: https://72fm.com/station/964c9973-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",WWCR Shortwave - Nashville, TN
-http://wwcr.gsradio.net:3763/;.mp3
+# 72FM: https://72fm.com/station/045f3da4-f2e0-44da-8fe2-d79274bd9c9c?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",Ι.Μ. Σπάρτης 88.8
+http://s4.onweb.gr:8862/;
 # 72FM: https://72fm.com/station/ccf9a5fa-76e6-11e9-8b97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://radiomaria.bz.it/wp-content/uploads/2019/01/cropped-RM_512x512-270x270.jpg" group-title="Religious" radio="true",Radio Maria Südtirol
 http://dreamsiteradiocp.com:8054/stream
+# 72FM: https://72fm.com/station/964c9973-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",WWCR Shortwave - Nashville, TN
+http://wwcr.gsradio.net:3763/;.mp3
 # 72FM: https://72fm.com/station/8a774517-18f6-41f8-b60b-e69a93f53756?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/9mKAVQIExbHZjqVZe2ozXw3YnKDZOwbkWMiiNMT5RZM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvM2Q3Nzc4MTUtMjk0Mi00MDc5LWE5N2UtNGE1OTE1YzNjZDA1L2ltYWdlLz91PTE3MzIxMTAzNzMwMDA.webp" group-title="Religious" radio="true",Ebenezer 94.5 FM
 https://stream.zeno.fm/shfz70w4k1nvv
@@ -643,24 +646,24 @@ https://cloud1.cdnseguro.com:5520/;stream.mp3
 # 72FM: https://72fm.com/station/d14750f8-9bbf-45c7-bf9a-3315e10db893?source=m3u
 #EXTINF:-1 tvg-logo="https://listenonlineradio.com/wp-content/uploads/2019/12/104.1-Redentor.jpg" group-title="Religious" radio="true",104.1 FM Redentor
 https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream
-# 72FM: https://72fm.com/station/da86e361-67fe-11e9-af37-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",RADIO MARIA CANADA - HMWN
-http://dreamsiteradiocp.com:8016/stream
 # 72FM: https://72fm.com/station/095033f1-e833-4b6d-99c6-42efd5db789c?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Maria England
 https://dreamsiteradiocp5.com/proxy/rmengland?mp=/stream
+# 72FM: https://72fm.com/station/da86e361-67fe-11e9-af37-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",RADIO MARIA CANADA - HMWN
+http://dreamsiteradiocp.com:8016/stream
 # 72FM: https://72fm.com/station/9623e951-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Bodun 105.5 Reykjavik
 http://radio.bodun.is:8000/stream
 # 72FM: https://72fm.com/station/1383b40c-e144-4b5a-864e-68e84cec1e98?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/tpjU7T-2WjbpS5Lrp9GnSugiiXZxU45L4cW-vOOmtAM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2dpNEtyMkFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGdoWm1SMWdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTY1NTUxMzAwMA.webp" group-title="Religious" radio="true",SALSA CRISTIANA
 https://stream.zeno.fm/131byu0uvmzuv
-# 72FM: https://72fm.com/station/952840ba-f2d8-42ca-9e5f-7e169b880c8c?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",Bahrain Quran 106.1 FM
-https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8
 # 72FM: https://72fm.com/station/0f57c314-027b-4291-af73-a99dd37a0d66?source=m3u
 #EXTINF:-1 tvg-logo="https://rcncatolica.com/wp-content/uploads/2023/07/LOGO-RCN.png" group-title="Religious" radio="true",RCN CATOLICA NACIONAL
 https://dattavolt.com/8358/stream
+# 72FM: https://72fm.com/station/952840ba-f2d8-42ca-9e5f-7e169b880c8c?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",Bahrain Quran 106.1 FM
+https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8
 # 72FM: https://72fm.com/station/e4ea89ff-6804-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",RADIO MARIA USA
 http://dreamsiteradiocp4.com:8006/stream
@@ -673,12 +676,12 @@ https://america-2.nty.uy/stream
 # 72FM: https://72fm.com/station/430e9ddb-5a84-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",RADIO MARIA SERBIA HUNG
 http://dreamsiteradiocp.com:8014/stream
-# 72FM: https://72fm.com/station/b8ea5110-bc8c-4d6b-870a-9d9d56966b58?source=m3u
-#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428799/f8aac16829ee95b1e5949009a47f3461_165x165.webp" group-title="Religious" radio="true",Estereo Sur 91.3 FM
-https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream
 # 72FM: https://72fm.com/station/4f554502-fd93-431c-88f6-fd4aceb9e2b2?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Trinitas 88.5
 https://live.radiotrinitas.ro:8003/;stream.nsv
+# 72FM: https://72fm.com/station/b8ea5110-bc8c-4d6b-870a-9d9d56966b58?source=m3u
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/428799/f8aac16829ee95b1e5949009a47f3461_165x165.webp" group-title="Religious" radio="true",Estereo Sur 91.3 FM
+https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream
 # 72FM: https://72fm.com/station/71dace4c-5af8-497c-94bc-dfcf6c8522f8?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Maria Nederland
 https://stream.radiomaria.nl/mp3
@@ -700,30 +703,33 @@ http://dreamsiteradiocp4.com:8024/
 # 72FM: https://72fm.com/station/23ee9e6c-76ea-11e9-8b97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Maria Switzerland
 http://dreamsiteradiocp.com:8020/stream
-# 72FM: https://72fm.com/station/79fc8389-c08d-4f49-9acd-aee0cf3c77de?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",WWCR 2
-http://wwcr.gsradio.net:3863/
 # 72FM: https://72fm.com/station/ab43ac57-0bec-4a78-acc4-bdf72ac00761?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiovm.com/sites/default/themes/at_panels_everywhere/css/images/apple-icon-114x114.png" group-title="Religious" radio="true",Radio VM
 https://s5.radio.co/sec326ff8a/listen
+# 72FM: https://72fm.com/station/79fc8389-c08d-4f49-9acd-aee0cf3c77de?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",WWCR 2
+http://wwcr.gsradio.net:3863/
 # 72FM: https://72fm.com/station/809631f4-3a63-4dcf-8b9a-4c5dad40eb66?source=m3u
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIbvbZ2uyNvjxtfbeZ2DxxxvWxM-39XN4sSIM9Nj34PwLPeteirg0HH-MuA4I8cDuetc0wrMcrmyzZhAVkVNIaCYMqRO-vL0jQoE-5RpM5pUM7Wkw-Id65neg6krv7NvP2EDmfpACbJLD4ziZZItroueDek_j7L8kgo2sEHpIi2rMiqZZwEGPYM1-j7K8/s16000/church.jpg" group-title="Religious" radio="true",Radio Cristiano Bíblico
-https://stream-283.surfernetwork.com/jth8it4lbfmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqdGg4aXQ0bGJmbXV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkRLOTA3Nkh0U1hlQmR4cWlKd09SWHciLCJpYXQiOjE3OTA3OTgxODIsImV4cCI6MTc5MDc5ODI0Mn0.eSRVLhr7lX78TT12y0EWRTuCcggp0pggKT9xxqoxsdY
+https://stream-283.surfernetwork.com/jth8it4lbfmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqdGg4aXQ0bGJmbXV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImY4MWUxNXBZUmttd1R0NVJfOEJwTFEiLCJpYXQiOjE3OTE3OTM3MzUsImV4cCI6MTc5MTc5Mzc5NX0.jwhYwQkIz95IFJ16dckQU5Rbju85DyDuNW7NszrRgkk
 # 72FM: https://72fm.com/station/8c7903f4-52ec-49e0-9fa7-d51e25f45b9c?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",iCatholicRadio
 http://hfc.streamguys1.com/wqom
+# 72FM: https://72fm.com/station/6e3605b7-cc53-462c-83dd-4e8c58568e1e?source=m3u
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVsPlfF14llRw3JLf9RskjvpKjXlvKLoMud7AO-QsM9_RLFh2J5FbZ5xcXe3qW_WvU8GEPGJbvb9f12P_QL0W4NMylEQiWz9RyPVJc1i0vjHnaDY9uYSWAFtfj1wiN6JX7ToqY4DoiyTJX/s200/lambang+pondok+temboro.jpg" group-title="Religious" radio="true",Trangkil FM
+https://i.klikhost.com/8228/;radio
 # 72FM: https://72fm.com/station/18eb2a44-92a5-4aff-9d7b-8b5b56919ab2?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Scriptures For America
 http://67.225.254.37:5530/
 # 72FM: https://72fm.com/station/964305ec-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Horeb 48k
 http://rs16.stream24.org:8100/horeb.aac
-# 72FM: https://72fm.com/station/9f5c8fba-411b-4a70-a197-bd029d04493f?source=m3u
-#EXTINF:-1 tvg-logo="https://daairadio.tw/UploadFile/IMG_1511539469137.png" group-title="Religious" radio="true",大愛網路電台
-http://test.taiwan-radio.tw:8000/DaAiRadio
 # 72FM: https://72fm.com/station/ba5d6a8d-89d0-45fc-a40c-7b5ce3e184f1?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/h0Zck_jWBky6fAZHHQptQLU_5mZFlZ8IqCiVq0MIddk/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ2dpNEtyMkFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGdoLUw3d0FnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg2NjQ0MDAwMA.webp" group-title="Religious" radio="true",PASION CRISTIANA
 https://stream.zeno.fm/ff5at146ctzuv
+# 72FM: https://72fm.com/station/9f5c8fba-411b-4a70-a197-bd029d04493f?source=m3u
+#EXTINF:-1 tvg-logo="https://daairadio.tw/UploadFile/IMG_1511539469137.png" group-title="Religious" radio="true",大愛網路電台
+http://test.taiwan-radio.tw:8000/DaAiRadio
 # 72FM: https://72fm.com/station/77062ed9-dbfd-425b-8679-80b96289d6e0?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_211946328.jpg?alt=media&token=9cd042e6-7d27-49f4-880a-999c76ef1763" group-title="Religious" radio="true",Радио Образ Нижний Новгород 98.0 FM
 http://213.177.106.78:8006/;
@@ -781,12 +787,12 @@ https://stream.zeno.fm/1g9cduy10bruv
 # 72FM: https://72fm.com/station/79b5c8a3-19f2-40f7-a24e-7914b5363493?source=m3u
 #EXTINF:-1 tvg-logo="https://infinite-plane-radio.ghost.io/content/images/2022/07/6lk7u7.gif" group-title="Religious" radio="true",Infinite Plane Radio
 https://listen.radioking.com/radio/321971/stream/369716
-# 72FM: https://72fm.com/station/961baa19-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="Religious" radio="true",Radio Dei Kristiinankaupunki
-http://isojako.radiodei.fi:8000/kristiinankaupunki
 # 72FM: https://72fm.com/station/fdc60a7e-21af-4061-ad0d-50de9531533a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png" group-title="Religious" radio="true",Radio Vaticana Čeština
 https://radio.vaticannews.va/stream-cs
+# 72FM: https://72fm.com/station/961baa19-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="Religious" radio="true",Radio Dei Kristiinankaupunki
+http://isojako.radiodei.fi:8000/kristiinankaupunki
 # 72FM: https://72fm.com/station/03264813-c0ea-4e7f-8ba7-63a5aef3bdc0?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Church Radio (MP3)
 http://stream.zeno.fm/k0weys53f78uv
@@ -799,18 +805,21 @@ http://winb.mntts.com:82/broadwave.mp3
 # 72FM: https://72fm.com/station/8e6df575-1636-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiosantateresa.it/wp-content/uploads/2022/10/cropped-460x0w-300x300-removebg-preview-180x180.png" group-title="Religious" radio="true",Radio Santa Teresa
 http://onair15.xdevel.com:9256/;stream.mp3
+# 72FM: https://72fm.com/station/a01028c9-02ef-41ee-ab7f-53e632e14a00?source=m3u
+#EXTINF:-1 tvg-logo="https://laradiodepaz919.com/images/logo.png" group-title="Religious" radio="true",Radio Central 91.9 FM
+http://live.myradioserver.net:7588/;
 # 72FM: https://72fm.com/station/4681c44a-6abd-4f32-9188-6c960b363f9d?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio Espiritu Santo
 http://01.solumedia.com.ar:7802/;
+# 72FM: https://72fm.com/station/f56b1299-7711-11e9-8b97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",RADIO MARIA SWITZERLAND
+http://dreamsiteradiocp2.com:8106/stream
 # 72FM: https://72fm.com/station/890473bb-4c6e-48e4-ac71-35baa06e0a43?source=m3u
 #EXTINF:-1 tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png" group-title="Religious" radio="true",Radio Vaticana Slovenščina
 https://radio.vaticannews.va/stream-sl
 # 72FM: https://72fm.com/station/f6bd573d-3fc2-490b-8cd5-7c5f8c840e78?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Taiyabah Masjid
 https://taiyabahmbolton.radioca.st/stream
-# 72FM: https://72fm.com/station/f56b1299-7711-11e9-8b97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",RADIO MARIA SWITZERLAND
-http://dreamsiteradiocp2.com:8106/stream
 # 72FM: https://72fm.com/station/321ebdc6-2b17-45be-9858-24bfddc5ec40?source=m3u
 #EXTINF:-1 tvg-logo="https://i1.wp.com/radiocatolicacuenca.com.ec/wp/wp-content/uploads/2017/02/logo-GRANDE.jpg" group-title="Religious" radio="true",Católica Cuenca 98.1 FM
 https://radiohdstreaming.com/radio/8230/catolica
@@ -823,54 +832,54 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC.aac
 # 72FM: https://72fm.com/station/1093d2fd-d68a-41b9-9f0e-8040ec6c0254?source=m3u
 #EXTINF:-1 tvg-logo="https://radiodakwahmustofa.com/wp-content/uploads/2022/11/Logo-Radio-Warna-Plong-Emboss-Cloudradio-150x150@2x.png" group-title="Religious" radio="true",Damu Lumajang
 https://stream.radiodakwahmustofa.com:8724/damu
-# 72FM: https://72fm.com/station/5f7378a8-b489-11ea-993a-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://1360khnc.com/wp-content/themes/1360khnc/favicon.png" group-title="Religious" radio="true",KHNC 1360 AM
-http://streamingv2.shoutcast.com/AmericanFreedomNetwork?sid=1
 # 72FM: https://72fm.com/station/69b17e13-e756-433d-ad17-8ee8e7b91cd9?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiokolbe.it/__ovh/common/img/favicon.ico" group-title="Religious" radio="true",Radio Kolbe - La voce di Maria Regina dell'Amore
 https://uk2.streamingpulse.com/ssl/kolbe
+# 72FM: https://72fm.com/station/5f7378a8-b489-11ea-993a-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://1360khnc.com/wp-content/themes/1360khnc/favicon.png" group-title="Religious" radio="true",KHNC 1360 AM
+http://streamingv2.shoutcast.com/AmericanFreedomNetwork?sid=1
 # 72FM: https://72fm.com/station/c725047d-109c-4ef9-8943-f771539cf18a?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Ι.Μ. Τρίκκης Γαρδικίου και Πύλης 102
 http://s5.onweb.gr:8508/;
-# 72FM: https://72fm.com/station/7ea58b1d-e502-4e03-abb1-65b2408bab2d?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",Radyo Fıtrat
-http://radyofitrat.radyotvonline.net/
 # 72FM: https://72fm.com/station/da0c4636-963f-4e1e-bee0-236858201444?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Shaiva Lahari
 https://26343.live.streamtheworld.com/SP_R2925215_SC
+# 72FM: https://72fm.com/station/7ea58b1d-e502-4e03-abb1-65b2408bab2d?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",Radyo Fıtrat
+http://radyofitrat.radyotvonline.net/
 # 72FM: https://72fm.com/station/fdcc91c5-2a51-471d-a055-7084c124f713?source=m3u
 #EXTINF:-1 tvg-logo="https://christlichesradio.de/storage/thumbs/192x192/r:1729866404/791lo3107c01q.png" group-title="Religious" radio="true",Christliches Radio München
 https://crm924.stream.laut.fm/crm924
 # 72FM: https://72fm.com/station/f954089f-6159-4f22-bcdb-4fb07d7bc62d?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.com.gt/uploads/img/stereo-gerardi.jpg" group-title="Religious" radio="true",Estéreo Gerardi 107.9 FM
 https://aler.org:8445/gerardi.mp3
-# 72FM: https://72fm.com/station/45c3659d-27a8-4209-910b-7e0e746301a8?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",Radio Patmos
-https://s3.yesstreaming.net:7011/radio
-# 72FM: https://72fm.com/station/bb0d2fdf-0904-4c33-9415-706ee0ebb99b?source=m3u
-#EXTINF:-1 tvg-logo="https://im-xanthis.gr/favicon.ico" group-title="Religious" radio="true",Ιερά Μητρόπολη Ξάνθης
-https://radio.streamings.gr/proxy/imxanthis?mp=/stream
 # 72FM: https://72fm.com/station/79df0bf1-3932-4fdc-ad76-9f2f8bcb793c?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Armonías del Caquetá 970 AM
 https://broadcasting.enlacestic.com/radio/8020/radio.mp3
+# 72FM: https://72fm.com/station/45c3659d-27a8-4209-910b-7e0e746301a8?source=m3u
+#EXTINF:-1 group-title="Religious" radio="true",Radio Patmos
+https://s3.yesstreaming.net:7011/radio
 # 72FM: https://72fm.com/station/cccd39aa-6c8e-4f85-b742-bf638bae7f63?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/LBqBp__eU9FJux4UbBlQ2-7V_75Xb0J5INVifs_yClM/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMWQ1NGRiMTUtZDRkMC00YzhmLWFjNjgtMDVlNDE3ODBlY2JlL2ltYWdlLz91PTE3MTQyNDMxNzcwMDA.webp" group-title="Religious" radio="true",LATINA STEREO 107.9 FM
 https://stream.zeno.fm/maxyg1sqkbjtv
 # 72FM: https://72fm.com/station/4e335b7e-4ceb-4786-a9e1-07969ab42f54?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Reintregirea
 https://live.reintregirea.ro/
+# 72FM: https://72fm.com/station/bb0d2fdf-0904-4c33-9415-706ee0ebb99b?source=m3u
+#EXTINF:-1 tvg-logo="https://im-xanthis.gr/favicon.ico" group-title="Religious" radio="true",Ιερά Μητρόπολη Ξάνθης
+https://radio.streamings.gr/proxy/imxanthis?mp=/stream
 # 72FM: https://72fm.com/station/c9f1f972-bda4-41c4-87a8-edd0b4c2998f?source=m3u
 #EXTINF:-1 tvg-logo="https://armoniacristiana.com/wp-content/uploads/2021/02/Armonia-Cristiana-1-1024x395.jpg" group-title="Religious" radio="true",Radio Armonía Cristiana 94.9 FM (El Sonido Celestial)
 http://eu6.fastcast4u.com:5264/;
 # 72FM: https://72fm.com/station/8f8fb315-9ef8-4185-b9ae-92888bea2d05?source=m3u
 #EXTINF:-1 tvg-logo="https://media.rcf.fr/sites/default/files/logo_rcf.webp" group-title="Religious" radio="true",RCF Occitanie
 https://rcf.streamakaci.com/rcfoccitanie.mp3
+# 72FM: https://72fm.com/station/ff5a1baa-b1af-4157-b8bf-c9100a41831d?source=m3u
+#EXTINF:-1 tvg-logo="https://www.stereomundo919.com/" group-title="Religious" radio="true",Radio Stereo Mundo 91.9 FM
+https://ssl.hostingtico.com:8138/smundo2014
 # 72FM: https://72fm.com/station/6a729057-087c-411b-a065-d55b03904b11?source=m3u
 #EXTINF:-1 tvg-logo="https://imcorfu.gr/wp-content/uploads/2022/04/logo-im-corfu-white.png" group-title="Religious" radio="true",Άγιος Σπυρίδων 91.1
 http://s3.onweb.gr:8462/;
-# 72FM: https://72fm.com/station/740b10ee-d48f-4de8-aac4-80a28970d156?source=m3u
-#EXTINF:-1 tvg-logo="https://autenticacali.com/wp-content/uploads/elementor/thumbs/Logo-CRA-Cali-Letra-Blanca-q7acbzlagxjk1v1o2mg9d3to9v02ob416irp0x7xdq.png" group-title="Religious" radio="true",Radio Auténtica Cali 660 AM
-https://play10.tikast.com:20113/stream
 # 72FM: https://72fm.com/station/2d6ae1d8-baea-11e9-acb2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Agnus Rádió
 http://radio2.tirek.hu:8000/agnusradio
@@ -880,27 +889,18 @@ https://play8.tikast.com/proxy/celeste?mp=/stream
 # 72FM: https://72fm.com/station/d0016192-6508-43a1-bf77-b87ab77ce7e8?source=m3u
 #EXTINF:-1 tvg-logo="https://dabarradio.org/wp-content/uploads/2017/12/cropped-favicon-90x90.png" group-title="Religious" radio="true",Dabar Radio
 https://a1.asurahosting.com:8720/radio.mp3/;
+# 72FM: https://72fm.com/station/740b10ee-d48f-4de8-aac4-80a28970d156?source=m3u
+#EXTINF:-1 tvg-logo="https://autenticacali.com/wp-content/uploads/elementor/thumbs/Logo-CRA-Cali-Letra-Blanca-q7acbzlagxjk1v1o2mg9d3to9v02ob416irp0x7xdq.png" group-title="Religious" radio="true",Radio Auténtica Cali 660 AM
+https://play10.tikast.com:20113/stream
 # 72FM: https://72fm.com/station/2e728efe-5d69-410b-a5d2-e987ca66c09f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/isra-fm.jpg" group-title="Religious" radio="true",Konya İsra FM
 https://yayin2.canliyayin.org:8210/;stream
 # 72FM: https://72fm.com/station/f055c571-6297-44c1-964f-ce5aba347598?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/VKCdFAaoUEMH8mHud0OZC8Puq_KfFFKE-kedmtJyE-Q/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHc5SVdMM3dnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHc1T0RHdUFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4MjY2MTU3OTAwMA.webp" group-title="Religious" radio="true",La Voz de Jesús
-https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InZtOWh6cHJlVGIyZ2RLN1Vzck5QUFEiLCJpYXQiOjE3OTA4MzQ0MTYsImV4cCI6MTc5MDgzNDQ3Nn0.bWxcUEjeOHXaexGmxXi7tlds4_4eZKV6CkXTfYr_gJw
-# 72FM: https://72fm.com/station/3984b407-8b80-4df9-8d89-9e9fcdeaf8e2?source=m3u
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/oz1IPtaIFHHKzr7iRZQfBMTHFvIoHUs4GyQ0q0CmTdc/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJdTd6bGdRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJLThhNXR3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjIwMTMwNzMwMDA.webp" group-title="Religious" radio="true",Chosen Radio Uganda (MP3)
-http://stream.zeno.fm/6uxwuag3srhvv
-# 72FM: https://72fm.com/station/2b4c964d-360f-444f-aaa9-d0086f91f47d?source=m3u
-#EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/europa-radio/play_250_250.webp" group-title="Religious" radio="true",Európa Rádió Miskolc
-https://europaradio.hu/miskolc
-# 72FM: https://72fm.com/station/9f8d430a-9df5-44ba-a715-7da09812c207?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",Głos Nadziei
-https://ssl-1.radiohost.pl:9548/index
+https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjZ6cG8zeF9jU1R5dlNRbTVid1VtMmciLCJpYXQiOjE3OTE3NzA4MjUsImV4cCI6MTc5MTc3MDg4NX0.RWAcKf3AUeoe2KrMYdC-e6ebGVrz0sKHnhnCqL5HtRc
 # 72FM: https://72fm.com/station/872f3ec0-db9b-4225-b1df-e29068ae6567?source=m3u
 #EXTINF:-1 group-title="Religious" radio="true",Radio InBlu2000
 https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
-# 72FM: https://72fm.com/station/99660eba-311b-461a-b2ff-10aefef237cb?source=m3u
-#EXTINF:-1 group-title="Religious" radio="true",Rádio Clube de Lamego
-http://audio.ptisp.com:8110/;
-# 72FM: https://72fm.com/station/053afdbe-db10-4825-b439-a5b1892a9ff9?source=m3u
-#EXTINF:-1 tvg-logo="https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg" group-title="Religious" radio="true",Contacto FM 93.7
-https://laradiossl.online:10058/;
+# 72FM: https://72fm.com/station/3984b407-8b80-4df9-8d89-9e9fcdeaf8e2?source=m3u
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/oz1IPtaIFHHKzr7iRZQfBMTHFvIoHUs4GyQ0q0CmTdc/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJdTd6bGdRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJLThhNXR3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjIwMTMwNzMwMDA.webp" group-title="Religious" radio="true",Chosen Radio Uganda (MP3)
+http://stream.zeno.fm/6uxwuag3srhvv

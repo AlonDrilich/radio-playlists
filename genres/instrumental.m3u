@@ -151,12 +151,12 @@ https://solopiano-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/db31ee08-ae3a-11e8-aa67-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s247230/images/logoq.jpg" group-title="Instrumental" radio="true",Radio Art - Spa
 http://air-tunein.radioart.com/fSpa.mp3
-# 72FM: https://72fm.com/station/d2a70bdb-ba65-11e8-aaf2-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Instrumental" radio="true",Radio Noordvaarder Angel Healing
-http://www1.radionoordvaarder.nl:8000/;
 # 72FM: https://72fm.com/station/51428e80-a033-46ba-9bf8-9d2a6a9bef07?source=m3u
 #EXTINF:-1 group-title="Instrumental" radio="true",All Piano Radio
 http://streamingp.shoutcast.com/JamendoLounge
+# 72FM: https://72fm.com/station/d2a70bdb-ba65-11e8-aaf2-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Instrumental" radio="true",Radio Noordvaarder Angel Healing
+http://www1.radionoordvaarder.nl:8000/;
 # 72FM: https://72fm.com/station/ae83fb99-d8b3-11e8-a9cc-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Instrumental" radio="true",Radio Art - Healing
 http://air-tunein.radioart.com/fHealing.mp3
@@ -340,12 +340,12 @@ https://air.radioart.online/fGuitar_for_sleep.mp3
 # 72FM: https://72fm.com/station/2f35a985-b98a-41c2-8d77-ce89128752d4?source=m3u
 #EXTINF:-1 group-title="Instrumental" radio="true",Radio Noordvaarder Healing Wellness
 http://www1.radionoordvaarder.nl:8300/;
-# 72FM: https://72fm.com/station/73a08888-b51c-42f2-a960-0f2d755aa911?source=m3u
-#EXTINF:-1 group-title="Instrumental" radio="true",Radio Noordvaarder Healing
-http://www1.radionoordvaarder.nl:8500/;
 # 72FM: https://72fm.com/station/2eff0155-2785-43d3-a1b7-95b94f3a37ed?source=m3u
 #EXTINF:-1 group-title="Instrumental" radio="true",KTL Oldies-Radio
 http://streamplus36.leonex.de:24844/
+# 72FM: https://72fm.com/station/73a08888-b51c-42f2-a960-0f2d755aa911?source=m3u
+#EXTINF:-1 group-title="Instrumental" radio="true",Radio Noordvaarder Healing
+http://www1.radionoordvaarder.nl:8500/;
 # 72FM: https://72fm.com/station/ef52b56c-6830-4346-b4d3-e42e5ae5d928?source=m3u
 #EXTINF:-1 group-title="Instrumental" radio="true",[laut.fm] lofi
 https://stream.laut.fm/lofi
@@ -364,12 +364,12 @@ http://air.radioart.com/fHealing.mp3
 # 72FM: https://72fm.com/station/96fb2af6-f66d-4421-993e-9eff511e5829?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.radioart.com/images/channels/140_baby_sleep-600x400.jpg" group-title="Instrumental" radio="true",Radio Art - Baby Sleep
 https://air.radioart.online/fBaby_sleep.mp3
-# 72FM: https://72fm.com/station/b5872bd0-4a97-4b34-a637-5b14b4f882af?source=m3u
-#EXTINF:-1 group-title="Instrumental" radio="true",Zeno
-https://stream-169.zeno.fm/0anygxe1b1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYW55Z3hlMWIxZHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZMNHZGcFJuU0YtWjFsSlV1WEtFdkEiLCJpYXQiOjE
 # 72FM: https://72fm.com/station/ef43e14b-b8b6-41ac-8c64-a1fd08409783?source=m3u
 #EXTINF:-1 group-title="Instrumental" radio="true",Hospital Radio Norwich
 https://hospita1.radioca.st/;
+# 72FM: https://72fm.com/station/b5872bd0-4a97-4b34-a637-5b14b4f882af?source=m3u
+#EXTINF:-1 group-title="Instrumental" radio="true",Zeno
+https://stream-169.zeno.fm/0anygxe1b1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYW55Z3hlMWIxZHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZMNHZGcFJuU0YtWjFsSlV1WEtFdkEiLCJpYXQiOjE
 # 72FM: https://72fm.com/station/9ed92d81-34a0-47c3-85b4-641551972ffc?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Instrumental" radio="true",Radio Art - Setar
 http://air.radioart.com/fSetar.mp3
@@ -463,63 +463,66 @@ https://live.zuperdns.net/8950/stream/;stream.mp3?nochache=0.7584312150692858
 # 72FM: https://72fm.com/station/6726e082-6014-4c7a-9213-959623f5707d?source=m3u
 #EXTINF:-1 tvg-logo="https://stream.ramine.net/logo.png" group-title="Instrumental" radio="true",Retro Rave Radio
 https://stream.ramine.net/
-# 72FM: https://72fm.com/station/35aeaec8-d742-4a65-9e91-49f34a93d9ad?source=m3u
-#EXTINF:-1 group-title="Instrumental" radio="true",NREW Radio
-http://s5.radio.co/s9a982dd0d/listen
 # 72FM: https://72fm.com/station/2ab511cf-6115-43de-a7f8-67c238171cb4?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Classic1000px.png" group-title="Instrumental" radio="true",Radio S Classic
 https://stream.radios.rs:9074/stream
-# 72FM: https://72fm.com/station/7bbec1fb-da28-45db-b0c5-72100f09c37a?source=m3u
-#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/463.png?ver=1583241345" group-title="Instrumental" radio="true",Radio Classic
-https://streaming.radioplay.fi/fi_classic_128.mp3
 # 72FM: https://72fm.com/station/ec0d3919-415f-4c63-9958-0da384b69ab4?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Instrumental" radio="true",Aftab
 https://mml1.prostream.se/listen/aftab/radio.mp3
-# 72FM: https://72fm.com/station/cd9cad10-788f-44ee-9e35-00a05efe2271?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Instrumental" radio="true",Ivory Echoes
-https://mml1.prostream.se/listen/ivory_echoes/radio.mp3
 # 72FM: https://72fm.com/station/17810e85-3e06-4df5-91c5-f38250017c2e?source=m3u
 #EXTINF:-1 tvg-logo="https://rangeboss.dreamvfia.com/assets/favicon-512x512.png" group-title="Instrumental" radio="true",RANGEBØSS 24/7 Cyber Industrial Radio
 https://rangeboss.dreamvfia.com/radio.mp3
-# 72FM: https://72fm.com/station/908be5d3-81c8-4019-a580-3ff21a916332?source=m3u
-#EXTINF:-1 group-title="Instrumental" radio="true",24/7 Classical
-https://analytics.247classical.com/radio/live.mp3
+# 72FM: https://72fm.com/station/7bbec1fb-da28-45db-b0c5-72100f09c37a?source=m3u
+#EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/463.png?ver=1583241345" group-title="Instrumental" radio="true",Radio Classic
+https://streaming.radioplay.fi/fi_classic_128.mp3
+# 72FM: https://72fm.com/station/cd9cad10-788f-44ee-9e35-00a05efe2271?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Instrumental" radio="true",Ivory Echoes
+https://mml1.prostream.se/listen/ivory_echoes/radio.mp3
+# 72FM: https://72fm.com/station/35aeaec8-d742-4a65-9e91-49f34a93d9ad?source=m3u
+#EXTINF:-1 group-title="Instrumental" radio="true",NREW Radio
+http://s5.radio.co/s9a982dd0d/listen
 # 72FM: https://72fm.com/station/413357d6-11d4-4bf0-acd5-6f10cb7e75e4?source=m3u
 #EXTINF:-1 group-title="Instrumental" radio="true",Melodia Stereo 93.5 FM
 https://server6.globalhostla.com:9266/stream
+# 72FM: https://72fm.com/station/908be5d3-81c8-4019-a580-3ff21a916332?source=m3u
+#EXTINF:-1 group-title="Instrumental" radio="true",24/7 Classical
+https://analytics.247classical.com/radio/live.mp3
+# 72FM: https://72fm.com/station/455ffa03-2fed-45f1-b6f6-beb444dc6d44?source=m3u
+#EXTINF:-1 tvg-logo="https://steadystateradio.com/og.png" group-title="Instrumental" radio="true",Steady State Radio
+https://radio.steadystateradio.com/listen/steady_state/radio.mp3
 # 72FM: https://72fm.com/station/15d69605-fd3f-4476-a918-3092f833bff8?source=m3u
 #EXTINF:-1 tvg-logo="https://omaneo.de/assets/omaneo-radio-logo-600.png" group-title="Instrumental" radio="true",omaneo Instrumental
 https://radio.omaneo.de/listen/instrumental/radio.mp3
 # 72FM: https://72fm.com/station/f6516fa9-1e5b-4bc6-a196-35f8dd745496?source=m3u
 #EXTINF:-1 tvg-logo="https://gonulmisralari.com/wp-content/uploads/2026/07/cropped-cropped-gonulmisralarilogo_small.png" group-title="Instrumental" radio="true",Radyo Gönül Mısraları
 https://radyo.gonulmisralari.com/listen/canli/radio.mp3
-# 72FM: https://72fm.com/station/455ffa03-2fed-45f1-b6f6-beb444dc6d44?source=m3u
-#EXTINF:-1 tvg-logo="https://steadystateradio.com/og.png" group-title="Instrumental" radio="true",Steady State Radio
-https://radio.steadystateradio.com/listen/steady_state/radio.mp3
+# 72FM: https://72fm.com/station/bf3a865d-ba29-4b09-ad4f-e5a4f4932b25?source=m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDfjgKK1/A4-98-X98-2.png" group-title="Instrumental" radio="true",ANTENNA4
+https://antenna4.radioca.st/stream
 # 72FM: https://72fm.com/station/a58da318-7924-400f-a076-a5081c462906?source=m3u
 #EXTINF:-1 tvg-logo="https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png" group-title="Instrumental" radio="true",Music Radio Lo-Fi
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 # 72FM: https://72fm.com/station/c88bb973-d8f4-45e7-8d83-df9c415e9145?source=m3u
 #EXTINF:-1 tvg-logo="https://141-144-200-199.nip.io/radio-assets/cover-darkjazz.png" group-title="Instrumental" radio="true",Mind Fuel Radio · Dark Jazz
 https://141-144-200-199.nip.io/darkjazz.mp3
-# 72FM: https://72fm.com/station/9ba4a315-1749-48fb-962e-65acf197346e?source=m3u
-#EXTINF:-1 group-title="Instrumental" radio="true",One Long Signal
-https://onelongsignal.com/main.mp3
-# 72FM: https://72fm.com/station/5147c803-8b8c-4a52-8d62-92f33d52021c?source=m3u
-#EXTINF:-1 group-title="Instrumental" radio="true",Symphoniya Wave — Symphoniya.com
-https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3
-# 72FM: https://72fm.com/station/a8b495c9-e685-4dbc-bf5b-0d8a1dec43bd?source=m3u
-#EXTINF:-1 tvg-logo="https://wellheart.londonviberadio.com/assets/img/logo-512.png" group-title="Instrumental" radio="true",WellHeart London
-https://wellheart.londonviberadio.com/stream
 # 72FM: https://72fm.com/station/110fa208-08d0-4513-b14a-e221c0ab342f?source=m3u
 #EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/1cf56a5051e18e63dbd3b43da5b9fb3e" group-title="Instrumental" radio="true",ABC Classic 2
 https://streaming.abc-cdn.net.au/audio/hls/classic2.m3u8?source=web
+# 72FM: https://72fm.com/station/030b87b2-7ba2-4239-8224-871c3d4046a5?source=m3u
+#EXTINF:-1 tvg-logo="https://moonquito.de/user/themes/moonquito/img/icon-512.png" group-title="Instrumental" radio="true",moonquito radio
+https://radio.das.pub/stream.mp3
+# 72FM: https://72fm.com/station/a8b495c9-e685-4dbc-bf5b-0d8a1dec43bd?source=m3u
+#EXTINF:-1 tvg-logo="https://wellheart.londonviberadio.com/assets/img/logo-512.png" group-title="Instrumental" radio="true",WellHeart London
+https://wellheart.londonviberadio.com/stream
 # 72FM: https://72fm.com/station/58893b85-4e2d-4cd9-8bd3-bc452d6f82a1?source=m3u
 #EXTINF:-1 group-title="Instrumental" radio="true",Espwa Radyo 97
 https://stream10.vestaradio.com/espwaradyo97
 # 72FM: https://72fm.com/station/57ba416b-79ca-4beb-aa67-6d8467842cbe?source=m3u
 #EXTINF:-1 tvg-logo="https://141-144-200-199.nip.io/radio-assets/cover.png" group-title="Instrumental" radio="true",Mind Fuel Radio · Lo-fi
 https://141-144-200-199.nip.io/lofi.mp3
-# 72FM: https://72fm.com/station/030b87b2-7ba2-4239-8224-871c3d4046a5?source=m3u
-#EXTINF:-1 tvg-logo="https://moonquito.de/user/themes/moonquito/img/icon-512.png" group-title="Instrumental" radio="true",moonquito radio
-https://radio.das.pub/stream.mp3
+# 72FM: https://72fm.com/station/9ba4a315-1749-48fb-962e-65acf197346e?source=m3u
+#EXTINF:-1 group-title="Instrumental" radio="true",One Long Signal
+https://onelongsignal.com/main.mp3
+# 72FM: https://72fm.com/station/5147c803-8b8c-4a52-8d62-92f33d52021c?source=m3u
+#EXTINF:-1 group-title="Instrumental" radio="true",Symphoniya Wave — Symphoniya.com
+https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3

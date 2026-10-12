@@ -36,7 +36,7 @@ http://servidor28.brlogic.com:8212/live
 https://centova5.transmissaodigital.com:20104/live
 # 72FM: https://72fm.com/station/8cf1083b-a326-11e8-abb8-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",JB FM
-http://26683.live.streamtheworld.com/JBFMAAC_SC
+http://27353.live.streamtheworld.com/JBFMAAC_SC
 # 72FM: https://72fm.com/station/345cc08c-a5e3-43d9-9543-0626f2081177?source=m3u
 #EXTINF:-1 tvg-logo="https://static.radios.com.br/img/apple-touch-icon.png" group-title="Brazil" radio="true",Bons Tempos FM
 https://server02.ouvir.radio.br:8050/stream?1609720768800
@@ -211,12 +211,12 @@ https://stm1.srvif.com:7576/;
 # 72FM: https://72fm.com/station/247e4d32-39b8-48d7-a86a-ec6effea7723?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Radio Energia 97 FM
 https://streaming.inweb.com.br/energia
-# 72FM: https://72fm.com/station/d0b93f19-cd1e-4d46-99b3-206439e8062c?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Rádio Rap Brasil
-https://stream.zeno.fm/7c83b37e32quv
 # 72FM: https://72fm.com/station/d4f0f5ca-b0a5-4de4-be3b-e686920d94b0?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Jovem Pan FM - Belo Horizonte - MG - 99.1 Mhz
 https://8062.brasilstream.com.br/stream?origem=task_site
+# 72FM: https://72fm.com/station/d0b93f19-cd1e-4d46-99b3-206439e8062c?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Rádio Rap Brasil
+https://stream.zeno.fm/7c83b37e32quv
 # 72FM: https://72fm.com/station/f50d93d5-590c-11e8-b0ce-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Rádio Batuta MPB - A webradio do Instituto Moreira Salles
 http://radioims.out.airtime.pro:8000/radioims_a
@@ -232,6 +232,9 @@ https://live.paineldj.com.br/proxy/jfloripa?mp=/stream
 # 72FM: https://72fm.com/station/e496e27f-9df9-4625-9694-cf28754f1f3d?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Só Brega
 http://stm18.xcast.com.br:8290/;
+# 72FM: https://72fm.com/station/1dedfe49-c6fd-4105-a017-3857f5069d80?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Difusora Manaus 96,9
+http://69.16.236.247:9300/;mp3
 # 72FM: https://72fm.com/station/a35b909a-b461-11e8-afe1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",91 Rock - Curitiba (web)
 http://servidor40.brlogic.com:8044/live
@@ -291,7 +294,7 @@ http://cast4.audiostream.com.br:8654/mp3
 https://cast.mgtradio.net/radio/8060/aac
 # 72FM: https://72fm.com/station/9643e575-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Nova Brasil FM Recife (ZYD241, 94,3 MHz FM)
-http://27413.live.streamtheworld.com/NOVABRASIL_RECAAC_SC
+http://24373.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC
 # 72FM: https://72fm.com/station/ee7de2e3-67c5-4f3b-81f2-a36d0c0b37d5?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t3yXF8R/R-dio-Sertaneja-Ra-z.png" group-title="Brazil" radio="true",Rádio Sertaneja Raiz
 http://station.radionanet.com:8330/stream?1713376151781
@@ -426,7 +429,10 @@ https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8
 https://8758.brasilstream.com.br/stream
 # 72FM: https://72fm.com/station/9d4cc69b-bb83-41c3-b76c-9da2eacee424?source=m3u
 #EXTINF:-1 tvg-logo="https://radioglobo.globo.com/estaticos/img/favicons/apple-touch-icon.png" group-title="Brazil" radio="true",Rádio Globo - Rio de Janeiro
-https://26673.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac?dist=site
+https://24403.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac?dist=site
+# 72FM: https://72fm.com/station/66ffbb08-88bd-11e9-ad01-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png" group-title="Brazil" radio="true",Jovem Pan (Porto Alegre)
+http://centova6.ciclanohost.com.br:9256/;
 # 72FM: https://72fm.com/station/296adbae-e14a-4c08-bad3-38e04877cc1d?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",LIGA SAMBA WEB RÁDIO
 http://srv1.braudio.com.br:7308/;stream
@@ -436,36 +442,36 @@ http://classicoims.out.airtime.pro:8000/classicoims_a
 # 72FM: https://72fm.com/station/b8cb31b3-5a4b-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Nova Brasil FM 93.5 Aracaju
 http://24233.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC
-# 72FM: https://72fm.com/station/d927c675-820e-4d82-91ed-791ad86b0907?source=m3u
-#EXTINF:-1 tvg-logo="https://cultura.uol.com.br/favicon.ico" group-title="Brazil" radio="true",Cultura Brasil (fm77.9)
-https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
 # 72FM: https://72fm.com/station/9d245111-a72c-404f-aeb3-226a3f597d27?source=m3u
 #EXTINF:-1 tvg-logo="https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png" group-title="Brazil" radio="true",Rádio Metropolitana 98.5 FM Light
 https://ice.fabricahost.com.br/metropolitanasplight
 # 72FM: https://72fm.com/station/1aae2254-3d61-43ab-b9b1-d62f20619b05?source=m3u
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="Brazil" radio="true",Radio Amigos do Flashback
 https://stm4.voxhd.com.br:7086/;
+# 72FM: https://72fm.com/station/d927c675-820e-4d82-91ed-791ad86b0907?source=m3u
+#EXTINF:-1 tvg-logo="https://cultura.uol.com.br/favicon.ico" group-title="Brazil" radio="true",Cultura Brasil (fm77.9)
+https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
 # 72FM: https://72fm.com/station/13dea9bd-e0f0-4bd6-b5f1-f56ed8a91f45?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",89 Goiânia
 https://ice.fabricahost.com.br/89aradiorockgo
 # 72FM: https://72fm.com/station/61ce9de7-6d67-4bad-bd00-11ec8db1da48?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Ouvindo a Bilbia
 http://v3.directradios.com:8235/stream
-# 72FM: https://72fm.com/station/8c8825fe-e150-11e9-a8ba-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Jean Majolo Player
-http://jeanmajolo.com.br:8000/radio
 # 72FM: https://72fm.com/station/a8e3ff95-272d-47d4-b5db-a2f2723abb5f?source=m3u
 #EXTINF:-1 tvg-logo="https://estilo.fm.br/wp-content/uploads/2023/12/ESTILO-FM-SP-300x300.png" group-title="Brazil" radio="true",Estilo FM Litoral 93.3 Mhz (Cubatão - SP) (ZYU943)
 https://cloud1.cdnseguro.com:20492/stream
+# 72FM: https://72fm.com/station/8c8825fe-e150-11e9-a8ba-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Jean Majolo Player
+http://jeanmajolo.com.br:8000/radio
 # 72FM: https://72fm.com/station/195f2990-e0d3-4b34-8aab-5b173ddb6c6e?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/94775.v6.png" group-title="Brazil" radio="true",BR - The Classic Rock
 https://stream.zeno.fm/nbq1aq62gd0uv
-# 72FM: https://72fm.com/station/56363d79-d9d7-40eb-9612-0ff1bcb0346a?source=m3u
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg" group-title="Brazil" radio="true",Rádio BandNews SP 96.9 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC
 # 72FM: https://72fm.com/station/c177f52c-a3f0-4477-8837-e40990c68232?source=m3u
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio111501_1560523801.png" group-title="Brazil" radio="true",Rádio Joli Beatles
 https://stream.zeno.fm/3hgez706e3quv?zs
+# 72FM: https://72fm.com/station/56363d79-d9d7-40eb-9612-0ff1bcb0346a?source=m3u
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg" group-title="Brazil" radio="true",Rádio BandNews SP 96.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC
 # 72FM: https://72fm.com/station/c72c2a29-b42c-4aad-9317-9d5cd369c212?source=m3u
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="Brazil" radio="true",Radio Amigos do Rock
 http://stm25.srvaudio.com.br:11358/
@@ -496,12 +502,12 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.
 # 72FM: https://72fm.com/station/f4e01db7-ffe6-11e9-bbf2-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://radioaconchego.org/files/2015/03/cropped-cropped-5617042203_961643d1a0_o-180x180.jpg" group-title="Brazil" radio="true",Rádio Comunitária Aconchego
 https://fm.radioaconchego.org/
-# 72FM: https://72fm.com/station/0a5bb413-0b38-4d42-8967-b7c680dae5c0?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Rádio Cidade FM 100.1 MHz (Juiz de Fora - MG)
-http://wz1.dnip.com.br/cidadefmjf/cidadefmjf.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/360ca421-3424-43a5-ae9e-9a239f6db472?source=m3u
 #EXTINF:-1 tvg-logo="https://www.mgtradio.net/images/ouvir-radio-online.png" group-title="Brazil" radio="true",MGT LOVE HITS
 https://cast.mgtradio.net/radio/8010/aac
+# 72FM: https://72fm.com/station/0a5bb413-0b38-4d42-8967-b7c680dae5c0?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Rádio Cidade FM 100.1 MHz (Juiz de Fora - MG)
+http://wz1.dnip.com.br/cidadefmjf/cidadefmjf.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/f39f6d0e-a534-4d21-9352-e35e3bdddd48?source=m3u
 #EXTINF:-1 tvg-logo="https://hunter.fm/_nuxt/icons/icon_64x64.5c2fd0.png" group-title="Brazil" radio="true",Hunter FM - Pagode
 https://live.hunter.fm/pagode_normal
@@ -544,12 +550,12 @@ https://radio.webfrequencia.com.br:8110/tempofm
 # 72FM: https://72fm.com/station/30a59a6c-ab37-4d5a-a38b-f609ba400db6?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",FM PREMIUM
 http://cast4.audiostream.com.br:8663/mp3
-# 72FM: https://72fm.com/station/105608b1-e7e2-4acd-a256-6497225edc0f?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Smooth Jazz Brasil
-https://sc4s.cdn.upx.com:8176/stream
 # 72FM: https://72fm.com/station/606fb1a5-5824-4b34-bfb2-18c2e5ca8625?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Radio Amigos do Sertanejo
 https://stm4.voxhd.com.br:7086/
+# 72FM: https://72fm.com/station/105608b1-e7e2-4acd-a256-6497225edc0f?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Smooth Jazz Brasil
+https://sc4s.cdn.upx.com:8176/stream
 # 72FM: https://72fm.com/station/a938dfe1-7a03-4ba0-99b2-fcf60910f5f5?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Venenos do Rock
 https://stream.zeno.fm/dy417tqqmd0uv
@@ -577,12 +583,12 @@ https://stream.zeno.fm/n0dt87vrnd0uv
 # 72FM: https://72fm.com/station/b75c874c-1f89-4bf2-993b-e30807657afe?source=m3u
 #EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/5d8e83522fc9e.png" group-title="Brazil" radio="true",Morena FM Easy
 https://centova.svdns.com.br:20110/stream
-# 72FM: https://72fm.com/station/73fe65cd-9b2e-11e9-a787-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Radio Oeste FM 94,5
-http://radio.viaflux.com:5599/live
 # 72FM: https://72fm.com/station/e0ea2a1e-3590-11e9-8f31-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/CBN_Macei%C3%B3_logo.png" group-title="Brazil" radio="true",CBN MACEIÓ
 http://v3.directradios.com:8229/stream
+# 72FM: https://72fm.com/station/73fe65cd-9b2e-11e9-a787-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Radio Oeste FM 94,5
+http://radio.viaflux.com:5599/live
 # 72FM: https://72fm.com/station/a181aafe-82ec-4b2c-bd62-04c1b70b8a6a?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Rádio Itapoan 97.5 FM
 http://cast.radiu.live:9300/stream
@@ -592,6 +598,9 @@ https://stm01.virtualcast.com.br:8160/massapontagrossa
 # 72FM: https://72fm.com/station/548d3232-fd53-4942-933b-38e9ddb4bcb3?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",EldoPop FM
 http://stm10.srvstm.com:34794/stream
+# 72FM: https://72fm.com/station/df804611-72ca-4207-9031-e6d663fc825d?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Radio Trans Mundial
+https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8
 # 72FM: https://72fm.com/station/b8c3bf71-6363-4658-aea7-72ce7efe0e61?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",105 FM - É só alegria!
 https://appradio.app:8010//live
@@ -601,12 +610,12 @@ https://cast4.audiostream.com.br:2653/mp3
 # 72FM: https://72fm.com/station/7b630dda-fb58-4c39-ba30-2f6eed3361ef?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Piatã FM
 https://streaming.livespanel.com:9430/stream
-# 72FM: https://72fm.com/station/fb1097c0-370b-45de-9d32-7f1f46c13d4e?source=m3u
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/113/fbplayer/7eb6b35b003a5c561f99df3588822931.jpg" group-title="Brazil" radio="true",RST Radio Rock
-https://servidor37-1.brlogic.com:8100/live
 # 72FM: https://72fm.com/station/c04baa7c-ce6f-4d0f-94ba-9c50131da232?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Freestyle Brasil
 https://centova2.ipstm.net/proxy/svyglwqk/;
+# 72FM: https://72fm.com/station/fb1097c0-370b-45de-9d32-7f1f46c13d4e?source=m3u
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/113/fbplayer/7eb6b35b003a5c561f99df3588822931.jpg" group-title="Brazil" radio="true",RST Radio Rock
+https://servidor37-1.brlogic.com:8100/live
 # 72FM: https://72fm.com/station/8914d51f-6458-4dee-9fe8-c2993fe1ec0e?source=m3u
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14075_1506599378.png" group-title="Brazil" radio="true",Rádio Grenal 95.9 FM
 https://grenal.audiostream.com.br:20000/aac?1771934582309
@@ -625,12 +634,12 @@ https://shout25.crossradio.com.br:18022/1,%20https://shout25.crossradio.com.br:1
 # 72FM: https://72fm.com/station/4a5e0a7c-8daf-4168-b125-d3aec2ee28a6?source=m3u
 #EXTINF:-1 tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png" group-title="Brazil" radio="true",Jovem Pan Patos de Minas
 https://shout25.crossradio.com.br:24030//1
-# 72FM: https://72fm.com/station/f18f4ce4-4ec0-11e8-a4d1-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",RADIO TAMANDARE '100% JESUS'
-http://streaming09.hstbr.net:8058/live
 # 72FM: https://72fm.com/station/ece749a2-56d7-4dda-9b78-0cbce7f7c937?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Canaã FM
 http://stream1.svrdedicado.org/8006/stream
+# 72FM: https://72fm.com/station/f18f4ce4-4ec0-11e8-a4d1-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",RADIO TAMANDARE '100% JESUS'
+http://streaming09.hstbr.net:8058/live
 # 72FM: https://72fm.com/station/a61eff3f-323b-4c7c-95da-8c9f804d5e88?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Bahia FM 88.7
 https://ice.fabricahost.com.br/radiobahiafm
@@ -646,12 +655,12 @@ https://cloud1.cdnseguro.com:16020/stream
 # 72FM: https://72fm.com/station/8786fdf7-a25b-45b1-a42d-47f2b27a7ea7?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Diário FM -Ribeirão Preto
 https://rrdns-megasistema.webnow.com.br/diario.aac?v=5499
-# 72FM: https://72fm.com/station/dac87115-d159-4625-8324-396ea852c661?source=m3u
-#EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Brazil" radio="true",Rádio Cidade - Jundiaí
-http://r18.ciclano.io:9693/stream?1653871323495
 # 72FM: https://72fm.com/station/026dac2f-47ba-47df-b691-d640dc9bc00e?source=m3u
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/2414/cover/5d2795a66af166f0f7d5d496531405d7.jpeg" group-title="Brazil" radio="true",Rádio Tropical FM 94.7 MHz (Barbacena - MG)
 https://servidor37-5.brlogic.com:8044/live?source=website
+# 72FM: https://72fm.com/station/dac87115-d159-4625-8324-396ea852c661?source=m3u
+#EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Brazil" radio="true",Rádio Cidade - Jundiaí
+http://r18.ciclano.io:9693/stream?1653871323495
 # 72FM: https://72fm.com/station/8eb03f0d-ebf8-4f97-ba85-cdce78522733?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/37804f_6d90eaf023604a44b1d86bacb3e2b75a%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/37804f_6d90eaf023604a44b1d86bacb3e2b75a%7emv2.png" group-title="Brazil" radio="true",Rádio Notícias Tatuí - 98,3 FM
 https://f100.fabricahost.com.br/radionoticias?f=1790881640N01M3WDTCGG27JJF7SYZRJBK7B5&tid=01M3WDTCGG46T772AXF1FC8G91
@@ -679,15 +688,15 @@ https://1592747t.ha.azioncdn.net/primary/92fm.sdp/playlist.m3u8
 # 72FM: https://72fm.com/station/e6863ec0-9d04-4da3-97c2-db6cac2ed845?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Rockett 97,7
 https://8817.brasilstream.com.br/stream?cc=1645359200316
+# 72FM: https://72fm.com/station/cc1d42e7-85ba-49e1-a085-a43840b6318f?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",BRADO RADIO
+https://servidor17-5.brlogic.com:8300/live
 # 72FM: https://72fm.com/station/979ab633-fbc4-4af4-9d14-98a5200fdd2e?source=m3u
 #EXTINF:-1 tvg-logo="https://hunter.fm/images/icon-logo-default.png" group-title="Brazil" radio="true",Hunter.FM - O Canal Sertanejo
 https://live.hunter.fm/sertanejo_normal
 # 72FM: https://72fm.com/station/8ff5cde7-2daa-43a2-9b72-4254e4e5fe7c?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Radio Alto Piranhas
 http://40.160.24.87:10070/stream
-# 72FM: https://72fm.com/station/cc1d42e7-85ba-49e1-a085-a43840b6318f?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",BRADO RADIO
-https://servidor17-5.brlogic.com:8300/live
 # 72FM: https://72fm.com/station/c4e68be4-9014-4b1f-b29f-2ceeefb665b4?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4w0gZ5sT/85352-v4.png" group-title="Brazil" radio="true",Rádio Ziggy - Raiz (MP3)
 http://stream.zeno.fm/pyt8f8z5gd0uv
@@ -696,19 +705,19 @@ http://stream.zeno.fm/pyt8f8z5gd0uv
 https://stm10.voxhd.com.br:7846/;
 # 72FM: https://72fm.com/station/b9e48686-f197-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",SM Brasil
-http://stream-179.surfernetwork.com/xt4tf9zsxeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dDR0Zjl6c3hlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlNTUGtaU1RzUlQ2VzlQaENKd2ZCV0EiLCJpYXQiOjE3OTA4NTQ3NjYsImV4cCI6MTc5MDg1NDgyNn0.v5bk69MQDnllAAmJBMXc5mOp17ALcjbpCMQWsNP1Rqs
+http://stream-179.surfernetwork.com/xt4tf9zsxeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dDR0Zjl6c3hlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im5YVlRhem54VE8yN1d2NjU2VHF5THciLCJpYXQiOjE3OTE3NzYyODQsImV4cCI6MTc5MTc3NjM0NH0.3CUloF0MB4T0qG1uB0llzOg_rrFhrnxRZZRKOxXUBgM
 # 72FM: https://72fm.com/station/d744c6d4-fbe9-4538-a279-b2e4d05b2a69?source=m3u
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio18023_1574676599.png" group-title="Brazil" radio="true",Rádio Nativa 93.7 FM Irecê - BA
 http://stm3.srvif.com:7128/stream?1716397382938=
 # 72FM: https://72fm.com/station/487a6dc9-07d0-4d47-9da8-10c3b7a56e2c?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",SAD MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc
 http://jpdofunk3.com.br:8242/stream
-# 72FM: https://72fm.com/station/651ef419-1d85-4dcc-9400-4e44033202b3?source=m3u
-#EXTINF:-1 tvg-logo="https://radio.radiosnaweb.com/_uploads/242/logo.jpg" group-title="Brazil" radio="true",Terra Gaúcha
-https://5a57bda70564a.streamlock.net/terragaucha/terragaucha.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/15fe7749-d688-4d38-8a05-4a2275ce5887?source=m3u
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8826_1580130163.jpg" group-title="Brazil" radio="true",Rádio BBN 92.3 FM
 https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
+# 72FM: https://72fm.com/station/651ef419-1d85-4dcc-9400-4e44033202b3?source=m3u
+#EXTINF:-1 tvg-logo="https://radio.radiosnaweb.com/_uploads/242/logo.jpg" group-title="Brazil" radio="true",Terra Gaúcha
+https://5a57bda70564a.streamlock.net/terragaucha/terragaucha.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/fdfc050b-71c8-4c16-9ec3-c91fedf62ae7?source=m3u
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/apple-touch-icon.png" group-title="Brazil" radio="true",antena1
 https://antenaone.crossradio.com.br/stream/2;
@@ -721,12 +730,12 @@ http://cast3.hoost.com.br:8096/stream
 # 72FM: https://72fm.com/station/c4d92d80-8a7c-4076-9373-3fe4ca74d5af?source=m3u
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio205345_1662632533.png" group-title="Brazil" radio="true",Rádio Teomidia Instrumental
 https://usa3.fastcast4u.com/proxy/teomidiainstr?mp=/1
-# 72FM: https://72fm.com/station/03beadd2-ce1d-4949-bab4-0dcce1894412?source=m3u
-#EXTINF:-1 tvg-logo="https://punkfm.com.br/wp-content/uploads/PFM-logo-icon.png" group-title="Brazil" radio="true",Punk FM Brasil
-https://radio.punkfm.com.br/listen/punkfmbrasil/punkfmbrasil.mp3
 # 72FM: https://72fm.com/station/f05a93b9-c679-481f-b793-1a43d45c1e90?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Band FM Triângulo 99.9 Mhz ZYC832 (Uberlândia - MG)
 https://stm28.xcast.com.br:11364/stream
+# 72FM: https://72fm.com/station/03beadd2-ce1d-4949-bab4-0dcce1894412?source=m3u
+#EXTINF:-1 tvg-logo="https://punkfm.com.br/wp-content/uploads/PFM-logo-icon.png" group-title="Brazil" radio="true",Punk FM Brasil
+https://radio.punkfm.com.br/listen/punkfmbrasil/punkfmbrasil.mp3
 # 72FM: https://72fm.com/station/e2f1a191-390e-46e2-893f-d92f6cc64844?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Melody 94.1 FM
 https://sc4s.cdn.upx.com:8080/stream
@@ -739,12 +748,12 @@ http://zoeweb.net:8176/stream
 # 72FM: https://72fm.com/station/c8996b5e-e4d3-420a-8d3e-62b49356cc52?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",104 FM Natal
 http://radios.braviahost.com.br:8000/radio.mp3
-# 72FM: https://72fm.com/station/bb288396-6b88-4bf1-b8d0-80c8e9196cab?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Rádio Gospel Jireh
-https://stm9.xcast.com.br:9922/
 # 72FM: https://72fm.com/station/bd483ddf-d8bf-11e9-a861-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://interativafm.net/wp-content/uploads/2024/11/7-150x150.png" group-title="Brazil" radio="true",Rádio Interativa FM 94.9
 http://suaradio1.dyndns.ws:13551/stream
+# 72FM: https://72fm.com/station/bb288396-6b88-4bf1-b8d0-80c8e9196cab?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Rádio Gospel Jireh
+https://stm9.xcast.com.br:9922/
 # 72FM: https://72fm.com/station/36d4f4f9-cca9-4b37-9f9b-e0972cb6cd23?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Rádio São Francisco Anápolis - 97.7FM
 https://cast.hoost.com.br:20150/stream
@@ -778,18 +787,18 @@ http://hd4.matutos.com.br:8324/;stream.mp3
 # 72FM: https://72fm.com/station/90d4675e-67c8-11ea-be63-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/2098/mobileicon/f9f8e72d2a71bf699a29336f5a191932x192.png" group-title="Brazil" radio="true",WEBGIO
 http://servidor34.brlogic.com:8080/live?1583625685800
-# 72FM: https://72fm.com/station/37d3cffd-c048-40b5-8023-a8179d7b3787?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.stmsrv.com/multi/16614/logo_r1dbkqc.png" group-title="Brazil" radio="true",98 ROCK BRASIL
-https://stm41.stmsrv.com:16614/stream?type=http&nocache=1897905694
 # 72FM: https://72fm.com/station/cb95bf54-e976-4994-ab0c-77d7c0b0ac9d?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Radio UFAL
 https://directradios.net/proxy/ufal?mp=/stream
-# 72FM: https://72fm.com/station/4dbf247c-52c0-44e8-bf5f-f9803f401fbd?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",107 FM Tatuí
-https://f100.fabricahost.com.br/107fm?f=1790824189N01M3TQ136EA5F6MSN5XS4C5PMK&tid=01M3TQ136E8DCFZ2T7H4SK3HSW
+# 72FM: https://72fm.com/station/37d3cffd-c048-40b5-8023-a8179d7b3787?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.stmsrv.com/multi/16614/logo_r1dbkqc.png" group-title="Brazil" radio="true",98 ROCK BRASIL
+https://stm41.stmsrv.com:16614/stream?type=http&nocache=1897905694
 # 72FM: https://72fm.com/station/ae76d510-a627-4367-9dd8-07124d8edb46?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Radio Uirapuru
 https://radio.saopaulo01.com.br:7002/stream
+# 72FM: https://72fm.com/station/4dbf247c-52c0-44e8-bf5f-f9803f401fbd?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",107 FM Tatuí
+https://f100.fabricahost.com.br/107fm?f=1790824189N01M3TQ136EA5F6MSN5XS4C5PMK&tid=01M3TQ136E8DCFZ2T7H4SK3HSW
 # 72FM: https://72fm.com/station/960ff62c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio10447_1439401380.jpg" group-title="Brazil" radio="true",Radio Boa Vista 96.5 Paracatu, MG
 http://wz3.dnip.com.br/sc_boavi/sc_boavi.stream/playlist.m3u8
@@ -835,30 +844,27 @@ https://minasfmaac.jmvstream.com/stream
 # 72FM: https://72fm.com/station/7d5d84ac-e01b-413b-a9b0-a491c74b7af2?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Rádio Digital Bahia
 http://stm1.tcmcast.com.br:7050/
-# 72FM: https://72fm.com/station/943c65a8-3411-11e9-8f31-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Espacial FM - Pará de Minas 105.5 FM
-http://paineldj4.com.br:8300/stream.mp3?type=.mp3
 # 72FM: https://72fm.com/station/e4bb67e1-925b-4fea-aedb-79ebe0f2f403?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Rádio Forró
 https://stm5.painelcast.com:7600/stream
+# 72FM: https://72fm.com/station/943c65a8-3411-11e9-8f31-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Espacial FM - Pará de Minas 105.5 FM
+http://paineldj4.com.br:8300/stream.mp3?type=.mp3
 # 72FM: https://72fm.com/station/4ae9d73f-c0ad-459d-bceb-8d9f931c246d?source=m3u
 #EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/777/mobileicon/f494e15c3f5ac7d03f0db6a0274e50a5.png" group-title="Brazil" radio="true",Darkradio Brasil
 https://servidor32-3.brlogic.com:8130/live
 # 72FM: https://72fm.com/station/0ec65b23-5732-4825-9e39-7df7856bb39b?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Dixie Rebel
 https://servidor36.brlogic.com:8572/live
-# 72FM: https://72fm.com/station/98af7955-fe4f-11e9-bbf2-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Rádio Som do Céu
-http://stream.zeno.fm/t5y50e2ekbruv
 # 72FM: https://72fm.com/station/4f374f52-6938-4954-a10b-4a70f6048ae9?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",PorDeus.fm
 https://stream.zenolive.com/92ptm8uua2zuv.aac
+# 72FM: https://72fm.com/station/98af7955-fe4f-11e9-bbf2-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Rádio Som do Céu
+http://stream.zeno.fm/t5y50e2ekbruv
 # 72FM: https://72fm.com/station/ea035d44-e6bf-4974-9bf0-a766b44df5ac?source=m3u
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio112934_1562066435.png" group-title="Brazil" radio="true",Rádio Joli MPB
 http://stream.zeno.fm/mrutsyhkc3quv
-# 72FM: https://72fm.com/station/add6cef5-d892-4248-b542-f981f2d97665?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Eldorado FM
-https://cast4.audiostream.com.br:2652/mp3
 # 72FM: https://72fm.com/station/3bea551b-f561-4bc8-81cc-6d382aca4a84?source=m3u
 #EXTINF:-1 tvg-logo="https://gazetafm.com.br/" group-title="Brazil" radio="true",gazeta FM 1
 https://gazetafmsite.crossradio.com.br:19878/stream/1;
@@ -868,15 +874,18 @@ https://9176.brasilstream.com.br/stream
 # 72FM: https://72fm.com/station/52a39c75-1035-4f92-a432-38168b8fd5b1?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Torres FM 101,1
 https://cast4.audiostream.com.br:2661/mp3
+# 72FM: https://72fm.com/station/add6cef5-d892-4248-b542-f981f2d97665?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",Eldorado FM
+https://cast4.audiostream.com.br:2652/mp3
 # 72FM: https://72fm.com/station/8cbe4f82-4bbc-4afe-b39e-63a5b3e2497f?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Rádio Sergipe 95.9 FM - Aracaju Sergipe
 http://08.stmip.net:8012/stream
-# 72FM: https://72fm.com/station/a4282d30-0f30-4f33-b276-6bb675543b7c?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",antenAZero
-https://servidor26-4.brlogic.com:8006/live
 # 72FM: https://72fm.com/station/22ae5ff0-a313-11e8-abb8-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://radiograviola.com/wp-content/themes/radio-graviola/dist/assets/img/favicon/apple-touch-icon.png" group-title="Brazil" radio="true",Rádio Graviola
 http://servidor30.brlogic.com:8262/live
+# 72FM: https://72fm.com/station/a4282d30-0f30-4f33-b276-6bb675543b7c?source=m3u
+#EXTINF:-1 group-title="Brazil" radio="true",antenAZero
+https://servidor26-4.brlogic.com:8006/live
 # 72FM: https://72fm.com/station/eca86762-c8e0-4f42-baeb-13ec0e38aa69?source=m3u
 #EXTINF:-1 tvg-logo="https://www.morenafm.com.br/imagens/logo.png" group-title="Brazil" radio="true",Morena FM 107,1 FM - Campo Grande
 http://centova.svdns.com.br:25518/stream
@@ -892,15 +901,6 @@ https://usa10.fastcast4u.com/paulinrio
 # 72FM: https://72fm.com/station/521e0177-f6a0-4207-9ec4-c780befc06a9?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Atlántida
 https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/playlist.m3u8
-# 72FM: https://72fm.com/station/8ee67b0d-757c-4adc-83db-5ab5e26ba2b7?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Mundial Rock
-https://azura.mundialmusic.net/radio/8010/radio.mp3
-# 72FM: https://72fm.com/station/e29587c0-b1c6-4f50-8209-6c8a098ebcdf?source=m3u
-#EXTINF:-1 group-title="Brazil" radio="true",Rádio Bla Rock
-https://s12.maxcast.com.br:8086/live
-# 72FM: https://72fm.com/station/db8f5d94-d128-4eb6-9dec-797cabee805e?source=m3u
-#EXTINF:-1 tvg-logo="https://static1.s123-cdn-static-a.com/uploads/3327316/400_5eadbec66cd8d.png" group-title="Brazil" radio="true",Radio Germanica
-https://s18.maxcast.com.br:8983/live
 # 72FM: https://72fm.com/station/2d5168a3-7e43-483c-9522-9d0989ddc3a8?source=m3u
 #EXTINF:-1 group-title="Brazil" radio="true",Rádio Liderança FM
 https://webradio.amsolution.com.br/radio/8320/lideranca

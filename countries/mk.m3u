@@ -42,7 +42,7 @@ https://liderfm.ipradio.mk/
 http://iandonov.radioca.st/;stream/1
 # 72FM: https://72fm.com/station/1bb7e1c0-267e-4030-b42c-4322954cd407?source=m3u
 #EXTINF:-1 tvg-logo="https://skyradio.com.mk/favicon-32x32.png?v=gAepAyvLkw" group-title="North Macedonia" radio="true",Скај Радио
-http://s1.skyradio.com.mk:8000/
+http://s1.skyradio.com.mk:8002/
 # 72FM: https://72fm.com/station/76498941-8bcb-46a1-92f3-03dd42432581?source=m3u
 #EXTINF:-1 group-title="North Macedonia" radio="true",Time FM Gevgelija
 https://s2.free-shoutcast.com/stream/18058
@@ -106,6 +106,9 @@ https://visual.shoutca.st:8122/stream
 # 72FM: https://72fm.com/station/34f253c7-9c10-4327-b87c-8525d1e6b438?source=m3u
 #EXTINF:-1 group-title="North Macedonia" radio="true",Star Radio (World Hits) Skopje, Macedonia
 https://radiostar.pro/stream/worldretro.php
+# 72FM: https://72fm.com/station/1e764559-cb2b-43a5-b732-ba7340ab12bf?source=m3u
+#EXTINF:-1 tvg-logo="https://skyradio.com.mk/img/logo.png" group-title="North Macedonia" radio="true",Sky Radio 102.5 FM Macedonia (MP3 128 kbps)
+http://s1.skyradio.com.mk:8000/
 # 72FM: https://72fm.com/station/e2d37a2e-41d5-4800-b1cd-0dc76eb57b00?source=m3u
 #EXTINF:-1 tvg-logo="https://radiostar.pro/wp-content/uploads/2023/08/PLUS-300x300.png" group-title="North Macedonia" radio="true",Star Radio (Plus) Skopje, Macedonia
 https://radiostar.pro/stream/starplus.php
@@ -118,8 +121,8 @@ https://worldradio.online/proxy/?q=http://liferadio.ddns.net:8000/stream&plugin_
 # 72FM: https://72fm.com/station/ff3c7dfc-1699-4606-805c-d88544a1520e?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241108_165044336.jpg?alt=media&token=af90a123-dc5a-436e-a840-ed68b7e3e83f" group-title="North Macedonia" radio="true",RFM 91.3 - North Macedonia
 http://213.133.109.18:10004/stream
-# 72FM: https://72fm.com/station/e51d5caf-1af4-4b93-b4f7-85a34bc7da59?source=m3u
-#EXTINF:-1 tvg-logo="https://radiofortuna.com.mk/wp-content/uploads/2024/06/fortuna_herer_logo_544.png" group-title="North Macedonia" radio="true",Radio Fortuna 96.8 FM
+# 72FM: https://72fm.com/station/e9587234-cad2-4953-8d0c-73d95abcd09b?source=m3u
+#EXTINF:-1 group-title="North Macedonia" radio="true",Radio Fortuna 96.8 FM
 https://radiofortuna.ipradio.mk/;*.mp3
 # 72FM: https://72fm.com/station/de34f39b-d35d-4570-a6fe-92d0031a1681?source=m3u
 #EXTINF:-1 group-title="North Macedonia" radio="true",Makedonsko Radio 1 - Radio Skopje

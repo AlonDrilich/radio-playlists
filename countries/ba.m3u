@@ -337,12 +337,12 @@ https://stream-162.zeno.fm/qggihjl4mgcvv
 # 72FM: https://72fm.com/station/c0c8ab11-ee88-47f1-b1d1-448c79185c55?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiomajevica.com/favicon.ico" group-title="Bosnia & Herzegovina" radio="true",RadioMajevica.com
 https://live.radiomajevica.com:7520/live
-# 72FM: https://72fm.com/station/649b6727-96e8-42fb-9b7e-bfab6593c8f4?source=m3u
-#EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Osvit
-https://radio.dukahosting.com/8020/stream
 # 72FM: https://72fm.com/station/6f80ae50-c91e-495f-8a44-e825078bfd1c?source=m3u
 #EXTINF:-1 tvg-logo="https://sanartv.ba/wp-content/uploads/2017/03/Logo_Kapica.png" group-title="Bosnia & Herzegovina" radio="true",Radio Sana
 http://quasar.shoutca.st:8174/stream
+# 72FM: https://72fm.com/station/649b6727-96e8-42fb-9b7e-bfab6593c8f4?source=m3u
+#EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Osvit
+https://radio.dukahosting.com/8020/stream
 # 72FM: https://72fm.com/station/2548bc19-6f98-401a-ae25-fe38bdb1a7c5?source=m3u
 #EXTINF:-1 tvg-logo="https://radiotrebinje.com/assets/rt/images/logo.jpg" group-title="Bosnia & Herzegovina" radio="true",Radio Trebinje
 https://radio.dukahosting.com:7002/;
@@ -352,15 +352,18 @@ http://s8.iqstreaming.com:8016/stream
 # 72FM: https://72fm.com/station/4aa287d0-a765-431a-87ee-e5247a0702f3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.skalaradio.net/wp-content/uploads/2016/02/logoskala.png" group-title="Bosnia & Herzegovina" radio="true",Skala Radio
 http://cast2.name.ba:9049/
-# 72FM: https://72fm.com/station/df1b947f-d1b1-4483-a078-402570a812f3?source=m3u
-#EXTINF:-1 tvg-logo="https://esoterica.live/images/favicon.ico" group-title="Bosnia & Herzegovina" radio="true",Esoterica Radio S4
-https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3
-# 72FM: https://72fm.com/station/d71c5650-1792-4de3-8ce3-32fad008c669?source=m3u
-#EXTINF:-1 tvg-logo="https://esoterica.live/images/favicon.ico" group-title="Bosnia & Herzegovina" radio="true",Esoterica Radio S5
-https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3
+# 72FM: https://72fm.com/station/49552182-69ee-4692-a058-b2cd68b6f4bd?source=m3u
+#EXTINF:-1 tvg-logo="https://radiobosna.com/assets/favicon.png" group-title="Bosnia & Herzegovina" radio="true",Radio Bosna
+https://host2.streamafrica.net/listen/radio_bossna/radio.mp3
 # 72FM: https://72fm.com/station/882b08a2-c753-4af0-91a7-4edad1cd683d?source=m3u
 #EXTINF:-1 tvg-logo="https://esoterica.live/images/favicon.ico" group-title="Bosnia & Herzegovina" radio="true",Esoterica Radio S2
 https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3
+# 72FM: https://72fm.com/station/d71c5650-1792-4de3-8ce3-32fad008c669?source=m3u
+#EXTINF:-1 tvg-logo="https://esoterica.live/images/favicon.ico" group-title="Bosnia & Herzegovina" radio="true",Esoterica Radio S5
+https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3
+# 72FM: https://72fm.com/station/df1b947f-d1b1-4483-a078-402570a812f3?source=m3u
+#EXTINF:-1 tvg-logo="https://esoterica.live/images/favicon.ico" group-title="Bosnia & Herzegovina" radio="true",Esoterica Radio S4
+https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3
 # 72FM: https://72fm.com/station/80891d3f-cf77-4fbf-a924-0274871a0bfb?source=m3u
 #EXTINF:-1 tvg-logo="https://esoterica.live/images/favicon.ico" group-title="Bosnia & Herzegovina" radio="true",Esoterica Radio S3
 https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3
@@ -373,9 +376,6 @@ https://radiousk2.radioca.st/;
 # 72FM: https://72fm.com/station/55925da5-d41c-4bda-86d7-7366bb50020c?source=m3u
 #EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Alpha 93.1 FM Riscado
 https://kadushi.westream.cloud/listen/alfafm/xstream
-# 72FM: https://72fm.com/station/49552182-69ee-4692-a058-b2cd68b6f4bd?source=m3u
-#EXTINF:-1 tvg-logo="https://radiobosna.com/assets/favicon.png" group-title="Bosnia & Herzegovina" radio="true",Radio Bosna
-https://host2.streamafrica.net/listen/radio_bossna/radio.mp3
 # 72FM: https://72fm.com/station/7095ad02-75cd-4650-ae6b-10ef6975679f?source=m3u
 #EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Novi Grad
 http://s2.myradiostream.com:5584/
@@ -385,12 +385,12 @@ http://studiod.omerovic.info:8018/;
 # 72FM: https://72fm.com/station/91e2e87b-a329-4beb-b2f2-31725834fcdb?source=m3u
 #EXTINF:-1 tvg-logo="https://rtvglasdrine.com/wp-content/uploads/2021/03/favicon-16x16-1.png" group-title="Bosnia & Herzegovina" radio="true",Radio Glas Drine
 https://cast2.name.ba/proxy/glasdrine/stream
-# 72FM: https://72fm.com/station/f86a026c-259a-43c6-bd38-128963e0950e?source=m3u
-#EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Magic Milići
-http://stream.iradio.pro:8034/;*.mp3
 # 72FM: https://72fm.com/station/34ce2c40-ee73-479c-8ff1-39c91d3231b7?source=m3u
 #EXTINF:-1 tvg-logo="https://radiom.ba/assets/storage/photos/shares/radio-m-caffe.png" group-title="Bosnia & Herzegovina" radio="true",Radio M Cafe
 https://team-data.ba:9032/play?sid=1&t=1781439858301
+# 72FM: https://72fm.com/station/f86a026c-259a-43c6-bd38-128963e0950e?source=m3u
+#EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Magic Milići
+http://stream.iradio.pro:8034/;*.mp3
 # 72FM: https://72fm.com/station/da529110-27d4-4c92-88ac-9bb2babc69f6?source=m3u
 #EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Yes Radio
 http://77.78.198.84:8000/
@@ -400,24 +400,21 @@ https://patrisamato.com/listen/live/radio.mp3
 # 72FM: https://72fm.com/station/6dcffe0d-57c8-4a37-876b-5d64b8c868ab?source=m3u
 #EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio USK 1
 https://radiousk.radioca.st/stream/
-# 72FM: https://72fm.com/station/f6334c2f-56c3-440b-af33-c882c77e0b95?source=m3u
-#EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Čaršija
-http://cast2.name.ba:8081/
 # 72FM: https://72fm.com/station/d90ff06b-2ad0-43d8-a3ab-c81768a1bdaa?source=m3u
 #EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Bet
 https://cast1.asurahosting.com/proxy/betradio/stream
-# 72FM: https://72fm.com/station/862898ae-b5fd-4bfb-b123-455a9fb221fe?source=m3u
-#EXTINF:-1 tvg-logo="https://radiosarajevo.ba/assets/img/logo.svg" group-title="Bosnia & Herzegovina" radio="true",Radio Sarajevo 90.2
-https://443-1.autopo.st/45?type=http
+# 72FM: https://72fm.com/station/f6334c2f-56c3-440b-af33-c882c77e0b95?source=m3u
+#EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Čaršija
+http://cast2.name.ba:8081/
 # 72FM: https://72fm.com/station/b5705de2-ffb6-4f5c-8095-693cdbece876?source=m3u
 #EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Daš Extra
 http://cast2.name.ba:8085/stream
+# 72FM: https://72fm.com/station/862898ae-b5fd-4bfb-b123-455a9fb221fe?source=m3u
+#EXTINF:-1 tvg-logo="https://radiosarajevo.ba/assets/img/logo.svg" group-title="Bosnia & Herzegovina" radio="true",Radio Sarajevo 90.2
+https://443-1.autopo.st/45?type=http
 # 72FM: https://72fm.com/station/1c506bf0-7506-4b23-8ce0-b9b92d42677b?source=m3u
 #EXTINF:-1 tvg-logo="https://esoterica.live/images/favicon.ico" group-title="Bosnia & Herzegovina" radio="true",Esoterica Radio S1
 https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3
-# 72FM: https://72fm.com/station/eac926b3-4dfa-4554-a5c9-bd961a9bbad2?source=m3u
-#EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Valentino ORV Life
-https://otv.ovh/live_radio/orv/icecast.audio
 # 72FM: https://72fm.com/station/4c46ac71-1e02-488f-9b95-0aa8cb56bea1?source=m3u
 #EXTINF:-1 tvg-logo="https://radiobegovhan.com/assets/radiobegovhan_cover.png" group-title="Bosnia & Herzegovina" radio="true",Radio Begov Han
 https://stream-175.surfernetwork.com/qggihjl4mgcvv
@@ -427,6 +424,9 @@ https://stream.radios.rs:9082/stream
 # 72FM: https://72fm.com/station/ba798dfd-f293-4247-ab35-a3bed05c5ede?source=m3u
 #EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Postaja Odzak
 https://stream.rcast.net/70602
+# 72FM: https://72fm.com/station/eac926b3-4dfa-4554-a5c9-bd961a9bbad2?source=m3u
+#EXTINF:-1 group-title="Bosnia & Herzegovina" radio="true",Radio Valentino ORV Life
+https://otv.ovh/live_radio/orv/icecast.audio
 # 72FM: https://72fm.com/station/dcce94cd-b61b-4f15-be79-2f2aacf6fef9?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/26412.v4.png" group-title="Bosnia & Herzegovina" radio="true",BIG Radio 2 Banja Luka
 https://big2.bigportal.ba:8080/big2
