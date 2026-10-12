@@ -897,7 +897,7 @@ function readme(index, _fromSitemap) {
   const countryRows = countries
     .map(
       (p) =>
-        `| ${p.flag} | ${mdEscape(p.name)} | ${p.stations}${p.stations_available > p.stations ? ` of ${p.stations_available}` : ''} | [${p.id}.m3u](${p.url}) | ${
+        `| ${p.flag} | [${mdEscape(p.name)}](${PAGES_BASE}country/${p.id}/) | ${p.stations}${p.stations_available > p.stations ? ` of ${p.stations_available}` : ''} | [${p.id}.m3u](${p.url}) | ${
           p.page_72fm ? `[72fm.com/radio/${p.id}](${p.page_72fm})` : '—'
         } |`,
     )
@@ -905,7 +905,7 @@ function readme(index, _fromSitemap) {
   const genreRows = genres
     .map(
       (p) =>
-        `| ${mdEscape(p.name)} | ${p.stations}${p.stations_available > p.stations ? ` of ${p.stations_available}` : ''} | [${p.id}.m3u](${p.url}) | ${
+        `| [${mdEscape(p.name)}](${PAGES_BASE}genre/${p.id}/) | ${p.stations}${p.stations_available > p.stations ? ` of ${p.stations_available}` : ''} | [${p.id}.m3u](${p.url}) | ${
           p.page_72fm ? `[72fm.com/genre/${p.id}](${p.page_72fm})` : '—'
         } |`,
     )
@@ -1038,7 +1038,8 @@ worldwide. The same list as a page, with each station's country: [${PAGES_BASE}t
 ## Genres
 
 Station counts are "in this file of all that matched" when a genre has more than
-${PER_FILE_CAP}. The last column links to the matching genre page on 72FM where one exists.
+${PER_FILE_CAP}. A genre's or country's name opens its station list as a page; the last column links
+to the matching page on 72FM where one exists.
 
 | Genre | Stations | Playlist | Listen on 72FM |
 |---|---|---|---|
