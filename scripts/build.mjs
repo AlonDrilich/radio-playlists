@@ -638,6 +638,7 @@ th{white-space:nowrap}
 td.nw,td.num{white-space:nowrap}
 td.num,th.num{text-align:right}
 td.name{min-width:11em}
+td.url{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.82rem;word-break:break-all;min-width:15em;max-width:34em}
 footer{color:var(--muted);font-size:.875rem;border-top:1px solid var(--line);margin-top:2.5em;padding-top:1em}`;
 
 function htmlPage({ title, description, canonical, body, jsonLd }) {
@@ -685,14 +686,16 @@ function stationTable(entries, { country = false } = {}) {
         `<tr><td class="num">${i + 1}</td><td class="name">${esc(s.name)}</td>` +
         (country ? `<td>${s.cc ? esc(countryName(s.cc)) : '<span class="muted">–</span>'}</td>` : '') +
         `<td class="nw">${esc(formatOf(s)) || '<span class="muted">–</span>'}</td>` +
-        `<td class="nw"><a href="${esc(s.url)}" rel="nofollow noopener">Stream</a></td>` +
+        // The address itself, not the word "Stream": it is what people come for (to paste into a Wi-Fi radio,
+        // VLC or a home-automation config), and a link's href is not text a search engine can match.
+        `<td class="url"><a href="${esc(s.url)}" rel="nofollow noopener">${esc(s.url)}</a></td>` +
         // nofollow: ~32,000 per-station links from generated pages would read as link manipulation, and most of
         // those stations have no prerendered 72FM page. People can still click; search engines are not told to follow.
         `<td class="nw"><a href="${SITE}/station/${esc(encodeURIComponent(s.uuid))}" rel="nofollow">Listen on 72FM</a></td></tr>`,
     )
     .join('\n');
   return `<div class="tw"><table>
-<thead><tr><th class="num">#</th><th>Station</th>${country ? '<th>Country</th>' : ''}<th>Format</th><th>Stream</th><th>72FM</th></tr></thead>
+<thead><tr><th class="num">#</th><th>Station</th>${country ? '<th>Country</th>' : ''}<th>Format</th><th>Stream URL</th><th>72FM</th></tr></thead>
 <tbody>
 ${rows}
 </tbody>
@@ -704,10 +707,10 @@ function playlistPage(p, entries, generated) {
   const path = `${p.type}/${p.id}/`;
   const canonical = PAGES_BASE + path;
   const n = p.stations;
-  const title = `${p.name} radio stations — M3U playlist (${n} stations)`;
+  const title = `${p.name} radio stream URLs — M3U playlist (${n} stations)`;
   const scope = isCountry ? `from ${p.name}` : `tagged ${p.name}`;
   const description =
-    `Free M3U playlist of ${n} internet radio stations ${scope}, from the Radio Browser directory. ` +
+    `Stream URLs of ${n} internet radio stations ${scope}, as a list and as a free M3U playlist, from the Radio Browser directory. ` +
     `Opens in VLC and mpv. Updated weekly, last on ${generated}.`;
   const ofAll =
     p.stations_available > n
@@ -717,11 +720,14 @@ function playlistPage(p, entries, generated) {
     `This playlist has ${fmtInt(n)} internet radio stations ${scope}, taken from the public-domain ` +
     `<a href="https://www.radio-browser.info">Radio Browser</a> directory.${ofAll} ` +
     `Each one passed Radio Browser's most recent stream check, but streams go offline or move, so a few may not play. ` +
+    `The table gives every station's stream URL, for Wi-Fi radios and players that take one address at a time. ` +
     `Last updated ${esc(generated)}.`;
   const link72 = p.page_72fm
     ? `<a class="cta" href="${esc(p.page_72fm)}">Listen to ${esc(p.name)} radio in the browser on 72FM →</a>`
     : `<a class="cta" href="${SITE}">Listen in the browser on 72FM →</a>`;
-  const heading = isCountry ? `${p.flag} ${esc(p.name)} radio stations — M3U playlist` : `${esc(p.name)} radio stations — M3U playlist`;
+  const heading = isCountry
+    ? `${p.flag} ${esc(p.name)} radio stations — stream URLs and M3U playlist`
+    : `${esc(p.name)} radio stations — stream URLs and M3U playlist`;
   const body = `<p class="crumbs"><a href="../../">All playlists</a> › ${isCountry ? 'Countries' : 'Genres'} › ${esc(p.name)}</p>
 <h1>${heading}</h1>
 <p>${intro}</p>
