@@ -939,6 +939,10 @@ Listen in the browser, no install: **https://72fm.com**
 - [Radio stream URL finder](https://72fm.com/radio-stream-url-finder): type a station's name, get the address of its stream to copy or download as a one-station .m3u.
 - [72FM radio widget](https://72fm.com/radio-widget): copy-and-paste player for any website. All tools: [72fm.com/developers](https://72fm.com/developers).
 
+## Mentioned in
+
+- [The SWLing Post, "Radio Waves", 11 October 2026](https://swling.com/blog/2026/10/radio-waves-saq-un-day-broadcast-test-transmission-radio-bulgaria-qsl-10-liblice-transmitter-masts-demolition-and-source-for-streaming-station-urls/): listed as a source of stream URLs for Wi-Fi radios.
+
 ## Where the data comes from
 
 Every entry comes from [Radio Browser](https://www.radio-browser.info), a
