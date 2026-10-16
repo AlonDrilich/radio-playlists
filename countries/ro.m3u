@@ -190,12 +190,12 @@ http://rlive.doxologia.ro/stream.mp3
 # 72FM: https://72fm.com/station/c4eb7648-e867-4545-bdda-71b1368db779?source=m3u
 #EXTINF:-1 tvg-logo="https://brokenbeats.net/favicon.ico" group-title="Romania" radio="true",Atmospheric dnb s0urce
 https://brokenbeats.net/stream/aac
-# 72FM: https://72fm.com/station/4a09517b-d073-11e8-a54a-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",MusicFM
-http://edge126.rdsnet.ro:84/profm/music-fm.mp3
 # 72FM: https://72fm.com/station/e2019de4-34b0-40f2-b09a-5a22b0d6eb10?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Super Manele
 http://manele.capitalfm.ro:8020/stream
+# 72FM: https://72fm.com/station/4a09517b-d073-11e8-a54a-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",MusicFM
+http://edge126.rdsnet.ro:84/profm/music-fm.mp3
 # 72FM: https://72fm.com/station/e76147c6-7657-11ea-b1cf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rockfm.ro/apple-touch-icon.png" group-title="Romania" radio="true",RockFM
 https://live.rockfm.ro/rockfm.aacp
@@ -214,12 +214,12 @@ https://edge76.rcs-rds.ro/digifm/digifm.mp3
 # 72FM: https://72fm.com/station/5cced4a4-65b7-4f65-b637-8c763e6b7cf2?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Vacanța Nostalgia
 https://stream4.srr.ro:8443/nostalgia_rv
-# 72FM: https://72fm.com/station/bb12ddb1-eca4-48b0-bf98-9083820ea4b4?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Flo Manele
-https://live.radioflomanele.ro/8084/stream
 # 72FM: https://72fm.com/station/063759b2-3420-4a70-8b6b-a0462147128a?source=m3u
 #EXTINF:-1 tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-manele/play_250_250.jpg" group-title="Romania" radio="true",Radio MANELE
 https://play.wrhradios.com/8044/stream
+# 72FM: https://72fm.com/station/bb12ddb1-eca4-48b0-bf98-9083820ea4b4?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Flo Manele
+https://live.radioflomanele.ro/8084/stream
 # 72FM: https://72fm.com/station/140c9452-873f-4449-8d30-69ccd5a06943?source=m3u
 #EXTINF:-1 tvg-logo="https://radiokokoms.ro/images/radiokoko-logo.png" group-title="Romania" radio="true",Rádió KoKo
 https://az10.yesstreaming.net:8210/radiokoko.mp3
@@ -262,15 +262,15 @@ http://live.westcityradio.ro:8000/mp3
 # 72FM: https://72fm.com/station/db61d84c-620c-4e56-b262-cbbe0909c828?source=m3u
 #EXTINF:-1 tvg-logo="https://ebsradio.ro/stream/img/stream-movies-soundtrack.png" group-title="Romania" radio="true",EBS | Movie Soundtracks
 https://azura.ebsmedia.ro/listen/movies/movies128.mp3
+# 72FM: https://72fm.com/station/56322f1e-0b86-4e1f-8fef-5b983e7eddfc?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Capital FM - Manele
+http://manele.capitalfm.ro:8020/;
 # 72FM: https://72fm.com/station/ceddaaf9-e322-4ceb-a3e9-d2025f9f9747?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",itsy bitsy
 http://live.itsybitsy.ro:8000/itsybitsy
 # 72FM: https://72fm.com/station/a0f4d2c1-b39a-4062-8c71-26482548900c?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Jurnal FM
 https://ssl.radios.show:7009/stream
-# 72FM: https://72fm.com/station/56322f1e-0b86-4e1f-8fef-5b983e7eddfc?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Capital FM - Manele
-http://manele.capitalfm.ro:8020/;
 # 72FM: https://72fm.com/station/eff3993b-9322-11e8-a767-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Romania Constanta
 http://89.238.227.6:8332/
@@ -286,15 +286,15 @@ https://radio.sonicpanel.ro:9300/
 # 72FM: https://72fm.com/station/dca40689-5260-430c-8aec-8172f7dcd661?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioexpert.net/radio-logo/romania/radio-doza-manele-245-bucure%C8%99ti-romania-320.jpg" group-title="Romania" radio="true",Radio Doza Manele
 http://manele.radiodoza.eu:8100/stream
-# 72FM: https://72fm.com/station/2108005f-4085-48c4-a41e-6a6b3d4adfbe?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiovacanta.ro/wp-content/themes/radiovacanta/images/favicons/favicon-96x96.png" group-title="Romania" radio="true",Radio Vacanța - Gold
-https://stream4.srr.ro:8443/gold_rv
-# 72FM: https://72fm.com/station/984b6f74-113a-11ea-a87e-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Romania Targu Mures
-http://streaming.radiomures.ro:8302/listen.pls;/stream
 # 72FM: https://72fm.com/station/53903241-34a0-46a2-a877-edb06080f384?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Paprika Rádió
 http://stream1.paprikaradio.ro:8000/;stream
+# 72FM: https://72fm.com/station/984b6f74-113a-11ea-a87e-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Romania Targu Mures
+http://streaming.radiomures.ro:8302/listen.pls;/stream
+# 72FM: https://72fm.com/station/2108005f-4085-48c4-a41e-6a6b3d4adfbe?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiovacanta.ro/wp-content/themes/radiovacanta/images/favicons/favicon-96x96.png" group-title="Romania" radio="true",Radio Vacanța - Gold
+https://stream4.srr.ro:8443/gold_rv
 # 72FM: https://72fm.com/station/28130233-a8e1-4195-8c6e-a22ab41f576a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiobrasovfm.ro/templates/favicon/apple-touch-icon.png" group-title="Romania" radio="true",Radio România Brașov
 http://stream2.srr.ro:8210/;
@@ -316,15 +316,15 @@ https://live.smartradio.ro:8443/live
 # 72FM: https://72fm.com/station/e118e67d-ddbc-48ef-ab98-b60435339a4a?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",RADIO MIRAJUL MUZICII
 http://live.radiomiraj.ro:9952/stream
+# 72FM: https://72fm.com/station/ba12510c-33f1-40a9-add1-45516d73b197?source=m3u
+#EXTINF:-1 tvg-logo="https://scontent.fsbz4-1.fna.fbcdn.net/v/t39.30808-6/335841304_737873554406490_4291068825206123225_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Rzwicn1igMAQ7kNvgHp9yeH&_nc_zt=23&_nc_ht=scontent.fsbz4-1.fna&_nc_gid=ASHALMr8ce0swTJpiBYArx9&oh=00_AYBX8OTWi0wbmHhUnFC2SPQI0JiLSzwkiKZ3ia4lBvzHqA&oe=673FD069" group-title="Romania" radio="true",Radio Disco Mix
+https://play.discomix.ro/8002/stream
 # 72FM: https://72fm.com/station/fd63371f-2620-49ee-88ef-6e2ddfe5b86f?source=m3u
 #EXTINF:-1 tvg-logo="https://blogunik.buzz/img/icon-unik02.png" group-title="Romania" radio="true",Radio Energy Cugir
 https://sonicssl.namehost.ro/8790/stream/;
 # 72FM: https://72fm.com/station/b1d47504-a08b-464b-b054-f404b1cb7d60?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Magic Gold Hits
 https://live.magicfm.ro/magic.gold.hits
-# 72FM: https://72fm.com/station/ba12510c-33f1-40a9-add1-45516d73b197?source=m3u
-#EXTINF:-1 tvg-logo="https://scontent.fsbz4-1.fna.fbcdn.net/v/t39.30808-6/335841304_737873554406490_4291068825206123225_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Rzwicn1igMAQ7kNvgHp9yeH&_nc_zt=23&_nc_ht=scontent.fsbz4-1.fna&_nc_gid=ASHALMr8ce0swTJpiBYArx9&oh=00_AYBX8OTWi0wbmHhUnFC2SPQI0JiLSzwkiKZ3ia4lBvzHqA&oe=673FD069" group-title="Romania" radio="true",Radio Disco Mix
-https://play.discomix.ro/8002/stream
 # 72FM: https://72fm.com/station/5b59f175-b633-4861-a17d-de155de0e8bf?source=m3u
 #EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847c688eefabb0fda4219fd9d4" group-title="Romania" radio="true",Vibe FM Romania
 https://radiotrucker.com/en/play/vibe-fm-romania
@@ -334,15 +334,15 @@ https://spacefm.live/radio/8000/spacefm128
 # 72FM: https://72fm.com/station/cd039c01-3556-4134-a89a-e9e4d0a827f7?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY" group-title="Romania" radio="true",Tequila România -Radio Manele
 http://asculta.radiotequila.ro:7000/
-# 72FM: https://72fm.com/station/960a0966-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Marosvásárhelyi Rádió
-http://streaming.radiomures.ro:8312/;stream.nsv&type=mp3
-# 72FM: https://72fm.com/station/24139e55-a9d3-4c97-9516-1589a73ab29a?source=m3u
-#EXTINF:-1 tvg-logo="https://radiosomes.ro/favicon.ico" group-title="Romania" radio="true",radio SOMEȘ
-http://radio.mediacp.eu/stream/radiosomes
 # 72FM: https://72fm.com/station/57edf0e2-6f3b-4103-981a-2e9d1e4294a2?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/cfKVjEjbHnRLCVtXf6rex3gJ_b_eSddr8qU7S4AtXhA/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EwN19XaXdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1EwOEthLVFvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTcwOTU4OTAwMA.webp" group-title="Romania" radio="true",Super Manele
 https://stream.zeno.fm/w8461rwck5zuv
+# 72FM: https://72fm.com/station/24139e55-a9d3-4c97-9516-1589a73ab29a?source=m3u
+#EXTINF:-1 tvg-logo="https://radiosomes.ro/favicon.ico" group-title="Romania" radio="true",radio SOMEȘ
+http://radio.mediacp.eu/stream/radiosomes
+# 72FM: https://72fm.com/station/960a0966-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Marosvásárhelyi Rádió
+http://streaming.radiomures.ro:8312/;stream.nsv&type=mp3
 # 72FM: https://72fm.com/station/2da7b8ab-d486-4649-b78a-68b8a08e9a2d?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Rádió Gaga
 http://rc.radiogaga.ro:8000/live
@@ -376,30 +376,30 @@ http://mp3.radiohot.ro:8000/stream
 # 72FM: https://72fm.com/station/07aa77b3-5a03-11ea-be63-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Sky FM
 http://89.43.138.116:8000/radiosky.mp3
-# 72FM: https://72fm.com/station/901dd847-925d-4720-8e18-809d50ffa6d8?source=m3u
-#EXTINF:-1 tvg-logo="https://radiotaraf.ro/wp-content/uploads/2020/04/cropped-1-2-radio-png-file-180x180.png" group-title="Romania" radio="true",Radio Lăutaru
-http://live.radiolautaru.ro:9000/;
 # 72FM: https://72fm.com/station/b09e7ff4-fa15-4d81-821b-ec7751c3b9ad?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/qpp8PZC2Iv47ReKxCN_iDii6O0esnPhhFiZbC3dGCaE/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZTBkYTc1YWMtZWMwOC00MDY3LThjNGItMzQ0NTU3Nzg2MjZkL2ltYWdlLz91PTE3NDYzNzg4NjgwMDA.webp" group-title="Romania" radio="true",Stil Mix Manele 107.9 MHz FM
 https://stream.zeno.fm/zt84vax7ptzuv
-# 72FM: https://72fm.com/station/964c376f-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",City Rádió
-http://live.city-radio.ro:8800/;
+# 72FM: https://72fm.com/station/901dd847-925d-4720-8e18-809d50ffa6d8?source=m3u
+#EXTINF:-1 tvg-logo="https://radiotaraf.ro/wp-content/uploads/2020/04/cropped-1-2-radio-png-file-180x180.png" group-title="Romania" radio="true",Radio Lăutaru
+http://live.radiolautaru.ro:9000/;
 # 72FM: https://72fm.com/station/29ef5448-6995-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiomaria.ro/wp-content/uploads/2017/06/favicon.ico" group-title="Romania" radio="true",RADIO MARIA ROMANIA
 http://dreamsiteradiocp2.com:8002/stream
+# 72FM: https://72fm.com/station/964c376f-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",City Rádió
+http://live.city-radio.ro:8800/;
 # 72FM: https://72fm.com/station/d8752a6a-dd00-48ef-b2ac-9eed96171696?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Retró Rádió Csíkszereda
 http://online.radioretro.ro:8002/RetroRadio.mp3
 # 72FM: https://72fm.com/station/b95a38cd-9a3c-11e8-a767-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio liberty slagare
 http://slagare.radioliberty.ro:1989/
-# 72FM: https://72fm.com/station/abbd2e0a-edb9-471b-85b5-44745b87e38a?source=m3u
-#EXTINF:-1 tvg-logo="https://radiorfm.ro/wp-content/uploads/2023/05/favicon.png" group-title="Romania" radio="true",Radio RFM
-https://shout.realitatea.net:8001/mixt
 # 72FM: https://72fm.com/station/b0e1799a-be39-4fde-8765-84d80f7a8224?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiomanele.net/wp-content/uploads/2024/01/Super-FM-Prahova.jpg" group-title="Romania" radio="true",Super Fm Manele Prahova
 https://asculta.superfmradio.ro/9720/stream
+# 72FM: https://72fm.com/station/abbd2e0a-edb9-471b-85b5-44745b87e38a?source=m3u
+#EXTINF:-1 tvg-logo="https://radiorfm.ro/wp-content/uploads/2023/05/favicon.png" group-title="Romania" radio="true",Radio RFM
+https://shout.realitatea.net:8001/mixt
 # 72FM: https://72fm.com/station/5080836a-f4e9-48e8-b409-4597e9d6ff66?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Aripi Spre Cer
 https://mobile.stream.aripisprecer.ro/radio.mp3
@@ -415,27 +415,27 @@ https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 # 72FM: https://72fm.com/station/fab8979f-a08c-11e9-a787-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://radionebunya.ro/wp-content/uploads/2024/04/cropped-favicon-180x180.gif" group-title="Romania" radio="true",Radio Nebunya
 http://asculta.radionebunya.ro:7575/
-# 72FM: https://72fm.com/station/a84c4b0c-f039-4f2a-a381-018522632c96?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Party București
-http://asculta.radiopartybucuresti.ro:8050/;
 # 72FM: https://72fm.com/station/205bee2a-b678-43e2-9c55-a47e78c9be48?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/103533.v6.png" group-title="Romania" radio="true",Play Urban
 http://live.playradio.org:9090/UrbanHD
+# 72FM: https://72fm.com/station/a84c4b0c-f039-4f2a-a381-018522632c96?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Party București
+http://asculta.radiopartybucuresti.ro:8050/;
 # 72FM: https://72fm.com/station/58644702-5f3e-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",gofm.ro
 http://live.gofm.ro:9128/
 # 72FM: https://72fm.com/station/bbfa7a05-bc27-411b-9e37-375184fec3be?source=m3u
 #EXTINF:-1 tvg-logo="https://radiovaloare.ro/wp-content/uploads/2021/08/cropped-Logo.png" group-title="Romania" radio="true",Valoare Radio -Manele Vechi
 https://ssl.omegahost.ro/8000/stream
+# 72FM: https://72fm.com/station/87dc3921-6858-4d43-abd0-7417667324c5?source=m3u
+#EXTINF:-1 tvg-logo="https://radiotranquila.net/wp-content/uploads/2022/11/RADIO-TRANQUILA-1.png" group-title="Romania" radio="true",Tranquila Manele România
+https://live.radiotranquila.net:8032/stream
 # 72FM: https://72fm.com/station/960c3e01-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Vox FM - Székelykeresztúr
 http://stream.voxfm.ro:8000/stream/1
 # 72FM: https://72fm.com/station/701c9821-4869-47b9-9eef-9d25553b0940?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Etno Vest Timisoara
 http://ssl.radios.show:8020/;
-# 72FM: https://72fm.com/station/87dc3921-6858-4d43-abd0-7417667324c5?source=m3u
-#EXTINF:-1 tvg-logo="https://radiotranquila.net/wp-content/uploads/2022/11/RADIO-TRANQUILA-1.png" group-title="Romania" radio="true",Tranquila Manele România
-https://live.radiotranquila.net:8032/stream
 # 72FM: https://72fm.com/station/e22dc75a-f902-11e9-bbf2-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioresita.ro/wp-content/themes/radioresita/images/favicons/favicon-96x96.png" group-title="Romania" radio="true",Radio Resita
 http://89.238.227.6:8344/
@@ -445,12 +445,12 @@ https://stream2.radiotransilvania.ro/Nagyvarad
 # 72FM: https://72fm.com/station/de835f1c-ba24-488f-8d70-28a94ce22315?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Nova22
 http://s2.myradiostream.com:4520/listen.m4a
-# 72FM: https://72fm.com/station/701e5bbd-5384-468a-a564-179de50e5544?source=m3u
-#EXTINF:-1 tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Romania" radio="true",ROMÂNIA Antena Satelor
-https://stream4.srr.ro:8443/antena-satelor
 # 72FM: https://72fm.com/station/39ad3c71-df68-4b64-a7de-23370c5bbcec?source=m3u
 #EXTINF:-1 tvg-logo="https://app.radio.com.ro/v5/images/17365_radio.webp" group-title="Romania" radio="true",Stil Mix -Radio Manele
 https://stream.zeno.fm/87sktrysmuqtv
+# 72FM: https://72fm.com/station/701e5bbd-5384-468a-a564-179de50e5544?source=m3u
+#EXTINF:-1 tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Romania" radio="true",ROMÂNIA Antena Satelor
+https://stream4.srr.ro:8443/antena-satelor
 # 72FM: https://72fm.com/station/964c313e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Kolozsvári Rádió
 http://89.238.227.6:8386/
@@ -478,45 +478,48 @@ http://live02.radiohit.ro:8000/hit.mp3
 # 72FM: https://72fm.com/station/c0f6499f-1a00-40a9-b728-c01392173724?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Rádio Koko
 https://az10.yesstreaming.net:8210/radiokoko
-# 72FM: https://72fm.com/station/5340dba1-bf4a-4e7a-92fb-b7b53c2bc089?source=m3u
-#EXTINF:-1 tvg-logo="https://darkedge.ro/logo.svg" group-title="Romania" radio="true",Dark Edge Radio
-https://stream.darkedge.ro:8002/stream/1/
 # 72FM: https://72fm.com/station/e20bf96a-cee9-42a2-aa07-89034f2933eb?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Romantic
 https://radio-romantic.ro/stream
+# 72FM: https://72fm.com/station/5340dba1-bf4a-4e7a-92fb-b7b53c2bc089?source=m3u
+#EXTINF:-1 tvg-logo="https://darkedge.ro/logo.svg" group-title="Romania" radio="true",Dark Edge Radio
+https://stream.darkedge.ro:8002/stream/1/
+# 72FM: https://72fm.com/station/ba4d14a5-2b69-4991-ac52-ba9d393a6849?source=m3u
+#EXTINF:-1 tvg-logo="https://greudedifuzat.ro/assets/radio/icons/android-chrome-192x192.png?v=1.4" group-title="Romania" radio="true",Radio Greu De Difuzat
+https://greudedifuzat.ro/stream/
 # 72FM: https://72fm.com/station/4a2aca23-f665-4d84-b1e4-d1d92c359050?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Ambiento
 https://ambiento-adradio.radioca.st/128
 # 72FM: https://72fm.com/station/b93814e1-1b1a-47c4-b4b2-deff609c3817?source=m3u
 #EXTINF:-1 tvg-logo="https://radiocaleasprecer.com/wp-content/uploads/2020/06/fav-radio.png" group-title="Romania" radio="true",TRADIȚIONAL / POPULAR - Radio Calea Spre Cer LIVE 24/7
 https://panel.radiocaleasprecer.com/radio/8020/radio.mp3
-# 72FM: https://72fm.com/station/ba4d14a5-2b69-4991-ac52-ba9d393a6849?source=m3u
-#EXTINF:-1 tvg-logo="https://greudedifuzat.ro/assets/radio/icons/android-chrome-192x192.png?v=1.4" group-title="Romania" radio="true",Radio Greu De Difuzat
-https://greudedifuzat.ro/stream/
 # 72FM: https://72fm.com/station/f486e917-cee1-4171-904d-3ec044d723d6?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Magic Sunset
 https://live.magicfm.ro/magic.lite
+# 72FM: https://72fm.com/station/29495082-85fc-47c5-ae5d-f169e67e5732?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Kolozsvári Rádió M
+http://89.238.227.6:8386/;
 # 72FM: https://72fm.com/station/f7c3e272-6632-46e8-a3ae-9265f94af020?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio 3Net
 http://media.3netmedia.ro:8000/Live128
 # 72FM: https://72fm.com/station/99d3bb67-04ef-44c3-a2a3-998122746e45?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radionoise.ro/wp-content/uploads/2022/07/faviconnew.png" group-title="Romania" radio="true",Radio Noise
 http://live.radionoise.ro:9100/;
-# 72FM: https://72fm.com/station/29495082-85fc-47c5-ae5d-f169e67e5732?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Kolozsvári Rádió M
-http://89.238.227.6:8386/;
-# 72FM: https://72fm.com/station/18a14983-a9e3-4401-9be7-8f7ab2c9aaa9?source=m3u
-#EXTINF:-1 tvg-logo="https://www.rvesv.ro/favicon.ico" group-title="Romania" radio="true",Radio Vocea Evangheliei Suceava - RVE
-http://s9.yesstreaming.net:7014/stream
 # 72FM: https://72fm.com/station/5d682126-0312-4215-b137-d1d333854362?source=m3u
 #EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/opera.jpg" group-title="Romania" radio="true",Clasic Radio_Opera -București
 https://live.radioclasic.com/listen/radio_clasic_opera/live.mp3
+# 72FM: https://72fm.com/station/18a14983-a9e3-4401-9be7-8f7ab2c9aaa9?source=m3u
+#EXTINF:-1 tvg-logo="https://www.rvesv.ro/favicon.ico" group-title="Romania" radio="true",Radio Vocea Evangheliei Suceava - RVE
+http://s9.yesstreaming.net:7014/stream
 # 72FM: https://72fm.com/station/2e10cfad-23c8-4ecb-b89c-ed41ea5e56aa?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
 # 72FM: https://72fm.com/station/cc2b624a-585e-4b9a-924e-7d677bad9eaa?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",RadioPapuc
 https://stream.zeno.fm/phcn6lncrj4tv
+# 72FM: https://72fm.com/station/5e063320-07d6-4d99-a434-f34e7e2a7431?source=m3u
+#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/701141/logo/6451afd2-e9e2-4738-a826-eea1b1ba0585.jpeg" group-title="Romania" radio="true",Pescobar Radio
+https://listen.radioking.com/radio/701141/stream/766385
 # 72FM: https://72fm.com/station/9f6625fe-b0a4-4f27-a876-fe53d7460226?source=m3u
 #EXTINF:-1 tvg-logo="https://api.magicfm.ro/resized/streams/2024/04/19/magic-80s-hits-1e54d0_663a0daa2427fb8374951086d4b03106.jpg?w=120&h=120&c=1" group-title="Romania" radio="true",Magic FM 80s HIts
 https://live.kissfm.ro/Magic-80s
@@ -529,9 +532,6 @@ https://stream.radioboom.ro/listen/boom_house_music/radio.mp3
 # 72FM: https://72fm.com/station/61894f8f-86a3-440a-b0a3-97bf2fe5f143?source=m3u
 #EXTINF:-1 tvg-logo="https://erdelyfm.ro/wp-content/uploads/2020/07/erdelyFM_LOGO-1.png" group-title="Romania" radio="true",Erdély FM
 https://efm.radioca.st/stream
-# 72FM: https://72fm.com/station/5e063320-07d6-4d99-a434-f34e7e2a7431?source=m3u
-#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/701141/logo/6451afd2-e9e2-4738-a826-eea1b1ba0585.jpeg" group-title="Romania" radio="true",Pescobar Radio
-https://listen.radioking.com/radio/701141/stream/766385
 # 72FM: https://72fm.com/station/38c0c3ff-6b5d-468e-96d5-acaebc4ef4ea?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Favorit FM
 http://91.250.252.251:8001/;
@@ -571,12 +571,12 @@ https://live.gofm.ro:2000/stream/goREBEL/stream.mp3
 # 72FM: https://72fm.com/station/1453d748-3917-4447-9482-ceedf25b7875?source=m3u
 #EXTINF:-1 tvg-logo="https://radiozen.ro/wp-content/uploads/2021/04/favicon.png" group-title="Romania" radio="true",Radio ZEN
 https://streaming.shoutcast.com/radiozen
-# 72FM: https://72fm.com/station/0acff5ae-5356-4261-96cb-8d9c196b9721?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Bandit
-http://live.radiobandit.ro:8000/320.mp3
 # 72FM: https://72fm.com/station/5c0cd788-12f0-442c-b25a-12dfccebbaff?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.aripisprecer.ro/upd/2020/11/cropped-logo-aripi-bg-rosu-logo-alb-192x192.png" group-title="Romania" radio="true",Aripi Spre Cer Worship
 https://worship.aac.aripisprecer.ro/radio.mp3;
+# 72FM: https://72fm.com/station/0acff5ae-5356-4261-96cb-8d9c196b9721?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Bandit
+http://live.radiobandit.ro:8000/320.mp3
 # 72FM: https://72fm.com/station/2d6f60f0-2ba0-406f-b43f-2e946bbd63c7?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Popular (Arhiva) (1)
 http://web.archive.org/web/20180110095018if_/http://mp3.radiopopular.ro:7777/;
@@ -607,12 +607,12 @@ https://panel.radiocaleasprecer.com/radio/8040/radio.mp3
 # 72FM: https://72fm.com/station/d428c4e5-bfeb-4856-b99d-9b30982ddaf3?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Bucuresti FM
 https://stream4.srr.ro:8443/bucuresti-fm
-# 72FM: https://72fm.com/station/bb69d366-3de6-4e66-a1a6-3f50ff7fdc29?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Mynele
-http://live.radiomynele.ro:8000/;
 # 72FM: https://72fm.com/station/6f96c929-0443-4402-b576-c5674b9e3b4a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.chillfm.ro/images/logo-chillfm.png" group-title="Romania" radio="true",Chill FM
 https://edge126.rcs-rds.ro/profm/chillfm.mp3?1712405207687
+# 72FM: https://72fm.com/station/bb69d366-3de6-4e66-a1a6-3f50ff7fdc29?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Mynele
+http://live.radiomynele.ro:8000/;
 # 72FM: https://72fm.com/station/8dfef56a-6480-413c-a515-f67bec0f447f?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Baraka radio
 https://ice.streams.ovh:1165/stream
@@ -628,24 +628,24 @@ https://ssl.radios.show:7008/;
 # 72FM: https://72fm.com/station/a6aa2bf2-11c2-4e69-b227-8a5939d25e0b?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",goJAZZ
 https://live.gofm.ro:2020/stream/goJAZZ
-# 72FM: https://72fm.com/station/7361c6ae-70f7-4494-acef-ee52eb9b737f?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiooldies.ro/wp-content/uploads/2018/02/cropped-radiooldies-logo-180x180.png" group-title="Romania" radio="true",Radio Oldies
-http://live.radiooldies.ro:9200/stream
-# 72FM: https://72fm.com/station/e13b81e6-7dca-4a9d-a13b-0327b2dd5219?source=m3u
-#EXTINF:-1 tvg-logo="https://ebsradio.ro/wp-content/themes/ebs/favicons/apple-touch-icon.png" group-title="Romania" radio="true",EBS | Blues
-https://azura.ebsmedia.ro/listen/blues/blues128.mp3
-# 72FM: https://72fm.com/station/59b837fb-7e8e-4253-8954-9db7ec5d1602?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Bistrița FM 92.6
-https://audio-edge-cmc51.fra.h.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8
-# 72FM: https://72fm.com/station/ac374ffc-407d-4448-af2d-193a2c708430?source=m3u
-#EXTINF:-1 tvg-logo="https://www.kissfm.ro/apple-touch-icon.png" group-title="Romania" radio="true",Kiss Millenium Hits
-https://live.kissfm.ro/milleniumhits
-# 72FM: https://72fm.com/station/f31991fe-00a6-4ea2-b0a9-2f80c71c4484?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Bucovina
-http://live.radiobucovina.ro:8000/
 # 72FM: https://72fm.com/station/19743e4c-21f0-4100-841f-5ac141dbf11f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiotraditional.ro/wp-content/plugins/radio-player/assets/images/placeholder.png" group-title="Romania" radio="true",Tradițional Radio - Manele
 https://radio.ascultatare.ro/7000/stream
+# 72FM: https://72fm.com/station/7361c6ae-70f7-4494-acef-ee52eb9b737f?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiooldies.ro/wp-content/uploads/2018/02/cropped-radiooldies-logo-180x180.png" group-title="Romania" radio="true",Radio Oldies
+http://live.radiooldies.ro:9200/stream
+# 72FM: https://72fm.com/station/ac374ffc-407d-4448-af2d-193a2c708430?source=m3u
+#EXTINF:-1 tvg-logo="https://www.kissfm.ro/apple-touch-icon.png" group-title="Romania" radio="true",Kiss Millenium Hits
+https://live.kissfm.ro/milleniumhits
+# 72FM: https://72fm.com/station/59b837fb-7e8e-4253-8954-9db7ec5d1602?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Bistrița FM 92.6
+https://audio-edge-cmc51.fra.h.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8
+# 72FM: https://72fm.com/station/e13b81e6-7dca-4a9d-a13b-0327b2dd5219?source=m3u
+#EXTINF:-1 tvg-logo="https://ebsradio.ro/wp-content/themes/ebs/favicons/apple-touch-icon.png" group-title="Romania" radio="true",EBS | Blues
+https://azura.ebsmedia.ro/listen/blues/blues128.mp3
+# 72FM: https://72fm.com/station/f31991fe-00a6-4ea2-b0a9-2f80c71c4484?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Bucovina
+http://live.radiobucovina.ro:8000/
 # 72FM: https://72fm.com/station/cf3d7568-c023-432b-a408-aedc77c1b9a8?source=m3u
 #EXTINF:-1 tvg-logo="https://radiocaleasprecer.com/wp-content/uploads/2020/06/fav-radio.png" group-title="Romania" radio="true",Biblia Audio - Radio Calea Spre Cer
 https://panel.radiocaleasprecer.com/radio/8010/radio.mp3
@@ -658,63 +658,63 @@ https://s9.webradio-hosting.com/proxy/rgmcolinde/stream
 # 72FM: https://72fm.com/station/b74bb2f0-0c5f-49dc-b9e4-7843c40f6e8b?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Marketescu House&Minimal
 https://s31.radiolize.com/radio/8020/radio.mp3
-# 72FM: https://72fm.com/station/be67303b-4ac1-41e9-af0f-5b18fd3a43cc?source=m3u
-#EXTINF:-1 tvg-logo="https://stream.radioboom.ro/static/uploads/boom_gold/album_art.1711440856.jpg" group-title="Romania" radio="true",Radio Boom Gold
-https://stream.radioboom.ro/listen/boom_gold/radio.mp3
 # 72FM: https://72fm.com/station/1e675ac4-b63c-402f-807b-9df6fe77dde3?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",BigFM Deva
 http://82.208.143.10:8000/;
-# 72FM: https://72fm.com/station/2578d606-817d-4b3f-98e6-44ed4151c553?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Folclor Buzau
-https://live.radiofolclorbuzaufm.ro:8910/stream
+# 72FM: https://72fm.com/station/be67303b-4ac1-41e9-af0f-5b18fd3a43cc?source=m3u
+#EXTINF:-1 tvg-logo="https://stream.radioboom.ro/static/uploads/boom_gold/album_art.1711440856.jpg" group-title="Romania" radio="true",Radio Boom Gold
+https://stream.radioboom.ro/listen/boom_gold/radio.mp3
 # 72FM: https://72fm.com/station/5c6e31af-a4f7-4550-aee4-82a3966c27ad?source=m3u
 #EXTINF:-1 tvg-logo="https://urbanfm.ro/logo_drept.png" group-title="Romania" radio="true",Urban FM
 https://urbanfm.ro:8777/live
+# 72FM: https://72fm.com/station/2578d606-817d-4b3f-98e6-44ed4151c553?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Folclor Buzau
+https://live.radiofolclorbuzaufm.ro:8910/stream
 # 72FM: https://72fm.com/station/d280637d-8b7e-11e9-ad01-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",MDI FM
 http://stream.mdifm.ro:8000/
-# 72FM: https://72fm.com/station/14e06778-0d8b-42b3-a373-ed83932aafe1?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio KPTV
-https://nl1.streamingpulse.com/ssl/KPTV
 # 72FM: https://72fm.com/station/a86e2000-1958-4bd3-965d-1ba8881cdc8f?source=m3u
 #EXTINF:-1 tvg-logo="https://ebsradio.ro/stream/img/stream-electro.png" group-title="Romania" radio="true",EBS | Electro
 https://azura.ebsmedia.ro/listen/electro/electro128.mp3
+# 72FM: https://72fm.com/station/14e06778-0d8b-42b3-a373-ed83932aafe1?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio KPTV
+https://nl1.streamingpulse.com/ssl/KPTV
 # 72FM: https://72fm.com/station/afa2c57c-5159-4029-8dce-177697dd2957?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Romania Muzical
 http://stream2.srr.ro:8020/
 # 72FM: https://72fm.com/station/46d201ed-c61c-4a54-8c07-6a837f6014dc?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Goldies
 https://s10.streamingcloud.online/stream/13664
-# 72FM: https://72fm.com/station/5b1ea057-5612-4ee0-8159-0b2dbe10beb1?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Getarum Radio
-https://stream.clever-host.ro/8010/stream
-# 72FM: https://72fm.com/station/21de199b-131a-470a-9a83-154573719041?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Oltenia Craiova
-http://89.238.227.6:8370/
-# 72FM: https://72fm.com/station/6b068513-bb9e-429e-a652-5071ce1ce975?source=m3u
-#EXTINF:-1 tvg-logo="https://wfeconaturabaicoi.blob.core.windows.net/data/assets/favicon.png" group-title="Romania" radio="true",Radio Eco Natura
-https://n0a.radiojar.com/fp5c3fgbyzzuv
 # 72FM: https://72fm.com/station/00a319a8-b449-4ed4-8649-7fca4dda5d11?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiotimisoara.ro/wp-content/themes/radiotimisoara/images/favicons/favicon-96x96.png" group-title="Romania" radio="true",Radio Timișoara 630 AM
 http://89.238.227.6:8352/
+# 72FM: https://72fm.com/station/5b1ea057-5612-4ee0-8159-0b2dbe10beb1?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Getarum Radio
+https://stream.clever-host.ro/8010/stream
+# 72FM: https://72fm.com/station/6b068513-bb9e-429e-a652-5071ce1ce975?source=m3u
+#EXTINF:-1 tvg-logo="https://wfeconaturabaicoi.blob.core.windows.net/data/assets/favicon.png" group-title="Romania" radio="true",Radio Eco Natura
+https://n0a.radiojar.com/fp5c3fgbyzzuv
+# 72FM: https://72fm.com/station/21de199b-131a-470a-9a83-154573719041?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Oltenia Craiova
+http://89.238.227.6:8370/
 # 72FM: https://72fm.com/station/4fd3e923-bb44-4209-91dc-f2e47e8defe1?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Activ România
 https://stream.zeno.fm/72xsfrg0bfhvv
-# 72FM: https://72fm.com/station/0a41650f-2a40-46c2-a016-dcd030a9147e?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioarmonia.ro/wp-content/uploads/2022/04/cropped-ratv-favicon-1-180x180.png" group-title="Romania" radio="true",Radio Armonia Romania
-http://a1.bisericilive.com/mainradioarmoniaro.mp3
 # 72FM: https://72fm.com/station/55d89203-76a9-4be9-b6c9-ce192b29ef74?source=m3u
 #EXTINF:-1 tvg-logo="https://stream.radioboom.ro/static/uploads/boom_rock/album_art.1711440856.jpg" group-title="Romania" radio="true",Radio Boom Rock
 https://stream.radioboom.ro/listen/boom_rock/radio.mp3
+# 72FM: https://72fm.com/station/0a41650f-2a40-46c2-a016-dcd030a9147e?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radioarmonia.ro/wp-content/uploads/2022/04/cropped-ratv-favicon-1-180x180.png" group-title="Romania" radio="true",Radio Armonia Romania
+http://a1.bisericilive.com/mainradioarmoniaro.mp3
+# 72FM: https://72fm.com/station/4fa95437-eea7-437a-bc31-2dd60a24014a?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Elim Air
+http://91.213.11.102:8011/stream_high
 # 72FM: https://72fm.com/station/a63358e2-1caa-47c9-a2eb-3e9c8af84a77?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Noise Gold
 https://radio.sonicpanel.ro:9170/
 # 72FM: https://72fm.com/station/96523f02-cbd3-48bd-aabb-76fc651d840a?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Brașov
 https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}
-# 72FM: https://72fm.com/station/4fa95437-eea7-437a-bc31-2dd60a24014a?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Elim Air
-http://91.213.11.102:8011/stream_high
 # 72FM: https://72fm.com/station/10c0e2d3-f6e8-4316-ab75-54bd2cbc9c4e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.romanfm.ro/site/wp-content/uploads/2019/10/cropped-rfm-favicon-1-180x180.png" group-title="Romania" radio="true",Roman FM
 https://live.romanfm.ro:8000/;rfm
@@ -733,18 +733,18 @@ https://live.cozyfm.ro:8010/live
 # 72FM: https://72fm.com/station/4cf01730-2844-4d62-b3e3-d9ff7ae1a462?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Arges
 http://89.39.189.53:8000/stream
-# 72FM: https://72fm.com/station/5f07a434-987f-4e41-8498-53e130ffb7bb?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radionoise.ro/wp-content/uploads/2022/07/faviconnew.png" group-title="Romania" radio="true",Radio Noise Hits
-https://radio.sonicpanel.ro:9140/
 # 72FM: https://72fm.com/station/1b8112c7-0d19-4ffd-be0c-21f7c9473bb2?source=m3u
 #EXTINF:-1 tvg-logo="https://sweetfm.ro/wp-content/uploads/2022/09/cropped-sweetfm-e1664439016342.png" group-title="Romania" radio="true",Sweet FM Romania
 https://live.gofm.ro:2000/stream/SWEET/stream.mp3
-# 72FM: https://72fm.com/station/66cd5760-0907-4f1a-9431-dbb5d4c9d160?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioexpert.net/radio-logo/romania/radio-love-marilena-186-gala%C8%9Bi-romania-320.jpg" group-title="Romania" radio="true",Love Marilena Galați
-https://radio.sonicpanel.ro/8068/stream
+# 72FM: https://72fm.com/station/5f07a434-987f-4e41-8498-53e130ffb7bb?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radionoise.ro/wp-content/uploads/2022/07/faviconnew.png" group-title="Romania" radio="true",Radio Noise Hits
+https://radio.sonicpanel.ro:9140/
 # 72FM: https://72fm.com/station/cae1ff66-8f22-42a1-b86e-586525d2cb15?source=m3u
 #EXTINF:-1 tvg-logo="https://www.europafm.ro/favicon.ico" group-title="Romania" radio="true",Europa FM-AAC
 http://astreaming.virginradio.ro:8000/EuropaFM_aac
+# 72FM: https://72fm.com/station/66cd5760-0907-4f1a-9431-dbb5d4c9d160?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radioexpert.net/radio-logo/romania/radio-love-marilena-186-gala%C8%9Bi-romania-320.jpg" group-title="Romania" radio="true",Love Marilena Galați
+https://radio.sonicpanel.ro/8068/stream
 # 72FM: https://72fm.com/station/6fce6ce2-0136-4f38-b5e9-adba5dc934c5?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",goROCK
 https://live.gofm.ro:2020/stream/goROCK
@@ -763,39 +763,39 @@ https://live.playradio.org:8443/FMHD
 # 72FM: https://72fm.com/station/b75eff2e-8645-4f4e-b82d-378b2d678001?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioromaniacultural.ro/templates/default/images/custom/logo-main.svg" group-title="Romania" radio="true",ROMÂNIA Cultural
 https://stream4.srr.ro:8443/romania-cultural
-# 72FM: https://72fm.com/station/bca1d831-4924-4206-9355-070d38381d3e?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Constanta FM
-http://89.238.227.6:8332/;stream/1
-# 72FM: https://72fm.com/station/894da335-b8d2-4ac3-a992-fb958f0a57a1?source=m3u
-#EXTINF:-1 tvg-logo="https://atentat.ro/wp-content/uploads/2021/03/radio240-150x150.png" group-title="Romania" radio="true",Radio A-Tentat
-https://ssl.omegahost.ro/8066/stream
-# 72FM: https://72fm.com/station/a472e7a2-36f7-48a2-a497-7c6c0daa2c3d?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",EBS | Jazz
-https://azura.ebsmedia.ro/listen/jazz/jazz128.mp3
 # 72FM: https://72fm.com/station/dc94b893-e362-4db3-bea3-b479a59af728?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio-terra.ro/img/logos/terra-navbar.png" group-title="Romania" radio="true",Radio Terra
 http://188.26.110.59:8000/terra_hq.mp3
-# 72FM: https://72fm.com/station/6af82449-cfa6-4777-a31f-76b72f535829?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Arad
-http://85.120.220.205:8000/radio-arad
+# 72FM: https://72fm.com/station/bca1d831-4924-4206-9355-070d38381d3e?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Constanta FM
+http://89.238.227.6:8332/;stream/1
 # 72FM: https://72fm.com/station/223e9062-c8a2-45ee-b6b9-c10f4be1fff0?source=m3u
 #EXTINF:-1 tvg-logo="https://radioenergycugir.ro/wp-content/uploads/2019/10/poza_cu_text-768x642.jpg" group-title="Romania" radio="true",Radio Energy Cugir - 87,9 FM
 https://sonicssl.namehost.ro/8790/stream
-# 72FM: https://72fm.com/station/5c2baa18-f4a2-4510-a961-d924aedccdb1?source=m3u
-#EXTINF:-1 tvg-logo="https://moinestifm.ro/images/logo_color.png" group-title="Romania" radio="true",Moinesti FM
-https://listen.moinestifm.ro/radio.mp3
+# 72FM: https://72fm.com/station/6af82449-cfa6-4777-a31f-76b72f535829?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Arad
+http://85.120.220.205:8000/radio-arad
+# 72FM: https://72fm.com/station/a472e7a2-36f7-48a2-a497-7c6c0daa2c3d?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",EBS | Jazz
+https://azura.ebsmedia.ro/listen/jazz/jazz128.mp3
+# 72FM: https://72fm.com/station/894da335-b8d2-4ac3-a992-fb958f0a57a1?source=m3u
+#EXTINF:-1 tvg-logo="https://atentat.ro/wp-content/uploads/2021/03/radio240-150x150.png" group-title="Romania" radio="true",Radio A-Tentat
+https://ssl.omegahost.ro/8066/stream
 # 72FM: https://72fm.com/station/4e335b7e-4ceb-4786-a9e1-07969ab42f54?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Reintregirea
 https://live.reintregirea.ro/
-# 72FM: https://72fm.com/station/7ee58861-e158-4edd-b42b-02ec870f100b?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Fain & Simplu
-http://zuicast.digitalag.ro:9420/fainsisimplu
 # 72FM: https://72fm.com/station/5a1c5abc-dfd5-4b96-bbb8-6d7eab7a34a6?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Aripi Spre Cer Popular
 https://popular.stream.aripisprecer.ro/radio.mp3
 # 72FM: https://72fm.com/station/0f2c59bb-c204-4d17-a0ea-3e8623cb1d73?source=m3u
 #EXTINF:-1 tvg-logo="https://ebsradio.ro/stream/img/stream-alternative.png" group-title="Romania" radio="true",EBS | Alternative
 https://azura.ebsmedia.ro/listen/alternative/alternative128.mp3
+# 72FM: https://72fm.com/station/7ee58861-e158-4edd-b42b-02ec870f100b?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Fain & Simplu
+http://zuicast.digitalag.ro:9420/fainsisimplu
+# 72FM: https://72fm.com/station/5c2baa18-f4a2-4510-a961-d924aedccdb1?source=m3u
+#EXTINF:-1 tvg-logo="https://moinestifm.ro/images/logo_color.png" group-title="Romania" radio="true",Moinesti FM
+https://listen.moinestifm.ro/radio.mp3
 # 72FM: https://72fm.com/station/6535ab4f-d626-4547-8c2d-08fd9389f6b6?source=m3u
 #EXTINF:-1 tvg-logo="https://nextradio.live/next-radio-logo.png" group-title="Romania" radio="true",Next Radio
 https://stream.nextradio.live/listen/nextradio/NextHD
@@ -808,21 +808,24 @@ http://c34.radioboss.fm:8175/autodj
 # 72FM: https://72fm.com/station/779b3315-bb37-4649-b5ee-5db200597d33?source=m3u
 #EXTINF:-1 tvg-logo="https://superfm.ro/apple-icon-120x120.png" group-title="Romania" radio="true",Super FM Brasov 93.8
 https://live.superfm.ro/stream.mp3?time=1697692801
-# 72FM: https://72fm.com/station/0caddac5-f0ab-452e-8bc5-0095f3f91ef6?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Mioveni
-http://argesmioveninr1.radi0.im:8000/stream
 # 72FM: https://72fm.com/station/c6bc0419-2d4e-442f-956d-affd47e18cd9?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ortodoxradio.ro/images/favicon/apple-icon-120x120.png" group-title="Romania" radio="true",Manastirea Putna
 https://www.ortodoxradio.ro:8000/stream48
-# 72FM: https://72fm.com/station/946a016e-6a11-479c-a3d1-6a80d6b97d96?source=m3u
-#EXTINF:-1 tvg-logo="https://rct.unitbv.ro/assets/radio-logo-98940189.png" group-title="Romania" radio="true",Radio Campus Transilvania
-https://rct.unitbv.ro/shoutcast/;?sid=1
+# 72FM: https://72fm.com/station/0caddac5-f0ab-452e-8bc5-0095f3f91ef6?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Mioveni
+http://argesmioveninr1.radi0.im:8000/stream
 # 72FM: https://72fm.com/station/596f7373-e9e9-4f7e-a85c-9f5b3eb3cef3?source=m3u
 #EXTINF:-1 tvg-logo="https://musceltv.ro/wp-content/uploads/2023/09/favicon-150x150.png" group-title="Romania" radio="true",Muscel FM 94.1
 http://188.27.135.199:8000/muscelfm
-# 72FM: https://72fm.com/station/214f3da4-7795-491e-b5e7-91a18b18d089?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/132460.v3.png" group-title="Romania" radio="true",Club Radio
-https://live.clubradio.ro/listen/clubradio/live
+# 72FM: https://72fm.com/station/946a016e-6a11-479c-a3d1-6a80d6b97d96?source=m3u
+#EXTINF:-1 tvg-logo="https://rct.unitbv.ro/assets/radio-logo-98940189.png" group-title="Romania" radio="true",Radio Campus Transilvania
+https://rct.unitbv.ro/shoutcast/;?sid=1
+# 72FM: https://72fm.com/station/4d708625-6b65-4b74-9fbc-60d556560a47?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Folclor Muntenia
+https://live.radiofolclormuntenia.ro:8008/stream
+# 72FM: https://72fm.com/station/2d6ae1d8-baea-11e9-acb2-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Agnus Rádió
+http://radio2.tirek.hu:8000/agnusradio
 # 72FM: https://72fm.com/station/e49db061-4c6f-4d81-8053-3fcc1894a722?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Capital FM - Dance
 https://ssl.omegahost.ro:8020/stream
@@ -832,12 +835,9 @@ https://azura.ebsmedia.ro/listen/live/live96.aac
 # 72FM: https://72fm.com/station/dccc2a60-30c2-482f-a3c7-f01b15682c11?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Veselia Folclor
 http://asculta.radioveseliafolclor.com:8232/;
-# 72FM: https://72fm.com/station/2d6ae1d8-baea-11e9-acb2-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Agnus Rádió
-http://radio2.tirek.hu:8000/agnusradio
-# 72FM: https://72fm.com/station/4d708625-6b65-4b74-9fbc-60d556560a47?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Folclor Muntenia
-https://live.radiofolclormuntenia.ro:8008/stream
+# 72FM: https://72fm.com/station/214f3da4-7795-491e-b5e7-91a18b18d089?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/132460.v3.png" group-title="Romania" radio="true",Club Radio
+https://live.clubradio.ro/listen/clubradio/live
 # 72FM: https://72fm.com/station/e4ed8cd5-aa8e-40ca-bc02-94a4c588f8a6?source=m3u
 #EXTINF:-1 tvg-logo="https://supersonicradio.ro/favicon.ico" group-title="Romania" radio="true",Supersonic Radio
 https://s5.radio.co/s08e5c5875/listen
@@ -853,54 +853,54 @@ https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 # 72FM: https://72fm.com/station/f883f613-7f2f-4410-927c-0687dac27525?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioclick.ro/wp-content/uploads/2019/04/logo.png" group-title="Romania" radio="true",Radio Click Romania
 http://live.radioclick.ro:8008/
-# 72FM: https://72fm.com/station/fe54540f-ac7f-43db-8925-9e053928e2d7?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Dux Radio
-https://radio.duxradio.ro:8002/stream
 # 72FM: https://72fm.com/station/85160a6a-7bd3-4a7b-b1c8-1f6fa57841db?source=m3u
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/3266.png" group-title="Romania" radio="true",Szépvíz FM
 https://szepvizfm.ro:8000/stream
+# 72FM: https://72fm.com/station/13970f13-48ea-483e-b281-d615d34479f4?source=m3u
+#EXTINF:-1 tvg-logo="https://radiodomeldo.ro/wp-content/uploads/2017/03/radiodomeldo_textinner_nourl_forheader.jpg" group-title="Romania" radio="true",Radio Domeldo Movie
+https://radiodomeldo.ro/movie
+# 72FM: https://72fm.com/station/fe54540f-ac7f-43db-8925-9e053928e2d7?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Dux Radio
+https://radio.duxradio.ro:8002/stream
 # 72FM: https://72fm.com/station/9aaacdee-2f77-4ab0-a723-e925a1d0d7e6?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Iubire
 http://ssl.radios.show:8026/;
 # 72FM: https://72fm.com/station/6ebd864a-a86b-4056-a8b7-4ec317884dfa?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Alien Club Fantasy
 http://radio.club-fantasy-hub.ro:8000/;
-# 72FM: https://72fm.com/station/13970f13-48ea-483e-b281-d615d34479f4?source=m3u
-#EXTINF:-1 tvg-logo="https://radiodomeldo.ro/wp-content/uploads/2017/03/radiodomeldo_textinner_nourl_forheader.jpg" group-title="Romania" radio="true",Radio Domeldo Movie
-https://radiodomeldo.ro/movie
 # 72FM: https://72fm.com/station/a5cfbbd2-d3ec-4ea5-ad93-9a9c4f672568?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiotrib.ro/Files/Templates/Designs/RadioTrib/assets/img/logo.png" group-title="Romania" radio="true",Radio Trib
 https://streams.radio.co/s78f983952/listen
 # 72FM: https://72fm.com/station/b5857153-18f6-4df8-8c8b-df0dd1a680b5?source=m3u
 #EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/chopin.jpg" group-title="Romania" radio="true",Clasic Radio_Chopin -București
 https://live.radioclasic.com/listen/radio_clasic_chopin/live.mp3
-# 72FM: https://72fm.com/station/5c063d2e-79a3-4767-853e-b8bf841f7dc7?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",RadioPitesteanuRomania
-https://free.rcast.net/246157
 # 72FM: https://72fm.com/station/a0848e4b-25ad-4603-87b9-f3603f11dd7c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioiasi.ro/wp-content/uploads/2024/11/favicon-150x150.png" group-title="Romania" radio="true",Radio Iasi Fm
 http://stream2.srr.ro:8202/
-# 72FM: https://72fm.com/station/0efbb5f4-1236-478a-92ee-8cf84a017261?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio T
-http://82.77.249.68:8000/
+# 72FM: https://72fm.com/station/5c063d2e-79a3-4767-853e-b8bf841f7dc7?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",RadioPitesteanuRomania
+https://free.rcast.net/246157
 # 72FM: https://72fm.com/station/a729b1ff-376c-4bd7-8b67-b951ea1609b4?source=m3u
 #EXTINF:-1 tvg-logo="https://stream.radioboom.ro/static/uploads/boom_energy/album_art.1711440856.jpg" group-title="Romania" radio="true",Radio Boom Energy
 https://stream.radioboom.ro/listen/boom_energy/radio.mp3
+# 72FM: https://72fm.com/station/0efbb5f4-1236-478a-92ee-8cf84a017261?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio T
+http://82.77.249.68:8000/
 # 72FM: https://72fm.com/station/32a174f0-4ab3-41e1-b452-800a714c030c?source=m3u
 #EXTINF:-1 tvg-logo="https://api.magicfm.ro/resized/streams/2024/04/19/magic-gold-cb9500_6b701baf938b5df854657e31cf496780.jpg?w=120&h=120&c=1" group-title="Romania" radio="true",Magic FM Gold
 https://live.kissfm.ro/magic.gold.hits
+# 72FM: https://72fm.com/station/c1064460-1b20-4fae-ac1e-74a142be0c18?source=m3u
+#EXTINF:-1 tvg-logo="https://api.magicfm.ro/resized/streams/2025/02/27/movie-hits_1c56def70ed725889d50759f277cff2d.jpg?w=120&h=120&c=1" group-title="Romania" radio="true",Magic FM Movie Hits
+https://dc.digi.live.kissfm.ro/magic-movies
 # 72FM: https://72fm.com/station/e2c3f5c8-cb3c-4667-9a8c-9818ab724eb0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.tomorrowland.com/home/apple-touch-icon.png" group-title="Romania" radio="true",One World Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP
 # 72FM: https://72fm.com/station/ec15ab9a-486c-47a8-ad5b-6ff725106ea3?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Brașov
 https://live.radiobrasov.ro/stream.mp3
-# 72FM: https://72fm.com/station/c1064460-1b20-4fae-ac1e-74a142be0c18?source=m3u
-#EXTINF:-1 tvg-logo="https://api.magicfm.ro/resized/streams/2025/02/27/movie-hits_1c56def70ed725889d50759f277cff2d.jpg?w=120&h=120&c=1" group-title="Romania" radio="true",Magic FM Movie Hits
-https://dc.digi.live.kissfm.ro/magic-movies
-# 72FM: https://72fm.com/station/65f006a6-7f3d-42ba-8550-51261ae53c6e?source=m3u
-#EXTINF:-1 tvg-logo="https://radiosomes.ro/favicon.ico" group-title="Romania" radio="true",radio SOMEȘ
-https://radio.mediacp.eu/stream/radiosomes
+# 72FM: https://72fm.com/station/cbb2ea6b-d9f0-419f-a941-52def49098b7?source=m3u
+#EXTINF:-1 tvg-logo="https://radiogoldfm.ro/wp-content/uploads/2021/04/logo2.png" group-title="Romania" radio="true",Gold FM 96,9
+https://live.radiogoldfm.ro:8443/WP.mp3
 # 72FM: https://72fm.com/station/4a67d934-8486-4f89-8c69-9099902de012?source=m3u
 #EXTINF:-1 tvg-logo="https://oxoradio.eu/wp-content/uploads/2021/09/logo-oxo_mobile_bw.jpg" group-title="Romania" radio="true",OXO Radio
 https://s4.ssl-stream.com/listen/oxo_radio/radio.mp3

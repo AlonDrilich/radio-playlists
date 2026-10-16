@@ -1,0 +1,12 @@
+SiiNunit
+{
+live_stream_def : .live_streams {
+ stream_data: 5
+ stream_data[0]: "http://uk5.internet-radio.com:8115/stream|Virgin Radio Oman|Hiphop|ENG|128|0"
+ stream_data[1]: "https://listen-halafm.sharp-stream.com/halafmlow.mp3|Hala FM|Arabic|ARA|64|0"
+ stream_data[2]: "http://uk7.internet-radio.com:8067/;|Al Wisal|Arabic|ARA|96|0"
+ stream_data[3]: "http://uk7.internet-radio.com:8040/|Merge|Hits|ARA|96|0"
+ stream_data[4]: "http://listen-hifmtemp.sharp-stream.com/hifmmid.mp3|Hi FM Oman|Pop|ENG|128|0"
+}
+
+}

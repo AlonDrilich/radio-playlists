@@ -124,12 +124,12 @@ http://91.200.41.23:8000/192.mp3
 # 72FM: https://72fm.com/station/90a9493d-1735-45a4-bf6b-4d85eac05066?source=m3u
 #EXTINF:-1 group-title="Cyprus" radio="true",Enerji
 https://live.enerjiplay.com/stream/enerji
-# 72FM: https://72fm.com/station/552fde98-3aab-4433-b48b-69725b0fcbf9?source=m3u
-#EXTINF:-1 tvg-logo="https://www.mixfmradio.com/upload/design/66e7d8af577fa9.28585462.png" group-title="Cyprus" radio="true",MIX FM Cyprus
-https://strm.mixlive.eu/mixfm/index.m3u8
 # 72FM: https://72fm.com/station/79a6c099-452c-42f3-88c3-6cfa563a7c2b?source=m3u
 #EXTINF:-1 tvg-logo="https://www.imlemesou.org/images/logo3.png" group-title="Cyprus" radio="true",Ι.Μ.Λεμεσού
 http://194.154.128.242:9090/stream.mp3
+# 72FM: https://72fm.com/station/552fde98-3aab-4433-b48b-69725b0fcbf9?source=m3u
+#EXTINF:-1 tvg-logo="https://www.mixfmradio.com/upload/design/66e7d8af577fa9.28585462.png" group-title="Cyprus" radio="true",MIX FM Cyprus
+https://strm.mixlive.eu/mixfm/index.m3u8
 # 72FM: https://72fm.com/station/7a0523b9-8d11-4be9-b50a-18343bf8cc8c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.reymod.com/img/apple-touch-icon.png" group-title="Cyprus" radio="true",Radio ReyMod
 https://server.streamcasthd.com:7092/;
@@ -145,12 +145,6 @@ https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3
 # 72FM: https://72fm.com/station/860bed25-d8b1-4266-8d82-a33965242a61?source=m3u
 #EXTINF:-1 group-title="Cyprus" radio="true",CYBC 1
 https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8
-# 72FM: https://72fm.com/station/f8e3a9e1-dd9b-42a7-a25c-18b2826791ac?source=m3u
-#EXTINF:-1 tvg-logo="https://api.enerjiplay.com/uploads/images/file-1779347545583-640839459.jpg" group-title="Cyprus" radio="true",Play FM
-https://radyo.playfm.com.tr/listen/playfm/playfm.mp3
-# 72FM: https://72fm.com/station/1ed3fcdb-1931-49c2-b99b-012e82bdc0b5?source=m3u
-#EXTINF:-1 tvg-logo="https://api.enerjiplay.com/uploads/images/file-1776357457113-57733641.jpg" group-title="Cyprus" radio="true",Radyo Sim
-https://live.enerjiplay.com/stream/radyosim
 # 72FM: https://72fm.com/station/5410588b-6614-48e6-9b88-8f372f8512f8?source=m3u
 #EXTINF:-1 tvg-logo="https://api.enerjiplay.com/uploads/images/file-1779347508013-389877087.jpg" group-title="Cyprus" radio="true",Capital Radio
 https://radyo1.radyo-dinle.tc/8256/stream
@@ -160,6 +154,12 @@ https://radyo1.radyo-dinle.tc/8210/stream
 # 72FM: https://72fm.com/station/4b8bfd19-d718-4ebc-b306-e389cab6b70c?source=m3u
 #EXTINF:-1 group-title="Cyprus" radio="true",CYBC 3
 https://r1.cloudskep.com/cybcr/cybc3/playlist.m3u8
+# 72FM: https://72fm.com/station/f8e3a9e1-dd9b-42a7-a25c-18b2826791ac?source=m3u
+#EXTINF:-1 tvg-logo="https://api.enerjiplay.com/uploads/images/file-1779347545583-640839459.jpg" group-title="Cyprus" radio="true",Play FM
+https://radyo.playfm.com.tr/listen/playfm/playfm.mp3
 # 72FM: https://72fm.com/station/179c916e-99eb-4b1d-879f-222342a4d442?source=m3u
 #EXTINF:-1 tvg-logo="https://api.enerjiplay.com/uploads/images/file-1779347445479-770896593.jpg" group-title="Cyprus" radio="true",Radyo Juke
 https://stream.netradyom.com/listen/radyojuke/radio.mp3
+# 72FM: https://72fm.com/station/1ed3fcdb-1931-49c2-b99b-012e82bdc0b5?source=m3u
+#EXTINF:-1 tvg-logo="https://api.enerjiplay.com/uploads/images/file-1776357457113-57733641.jpg" group-title="Cyprus" radio="true",Radyo Sim
+https://live.enerjiplay.com/stream/radyosim

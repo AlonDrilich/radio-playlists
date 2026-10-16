@@ -1,0 +1,17 @@
+SiiNunit
+{
+live_stream_def : .live_streams {
+ stream_data: 10
+ stream_data[0]: "http://eu.stream4cast.com:8036/stream/|Fama|Various|AM|192|0"
+ stream_data[1]: "https://streams.radio.co/sa0bf8ec29/listen?sid=1|Armenian Christian Radio - Bashde Radio|Various|AM|192|0"
+ stream_data[2]: "https://eu.stream4cast.com/proxy/mfmradio/stream|MFM Music Radio|Modern|AM|256|0"
+ stream_data[3]: "https://am.radioaurora.am/kiss|Kiss FM Armenia|Various|AM|256|0"
+ stream_data[4]: "https://eu.stream4cast.com/proxy/marshallfm/stream|Radio Marshall|Various|AM|128|0"
+ stream_data[5]: "https://eu.stream4cast.com/proxy/lavradio/stream|Lav Radio|Armenian|ARM|256|0"
+ stream_data[6]: "http://212.34.233.78:8000/live|Lratvakan Radio|Armenian|ARM|128|0"
+ stream_data[7]: "https://cast.thiff.com/proxy/laarmeni?mp=/stream|Armenian Radio|Entertainment|ARM|192|0"
+ stream_data[8]: "https://de.auroramedia.am/jazz.mp3|Jazz FM 106.9 Yerevan Radio|Jazz|ARM|256|0"
+ stream_data[9]: "https://eu.stream4cast.com/proxy/xfmradio/stream|XFM Radio|Various|AM|256|0"
+}
+
+}

@@ -1,0 +1,15 @@
+SiiNunit
+{
+live_stream_def : .live_streams {
+ stream_data: 8
+ stream_data[0]: "http://martinique.ice.infomaniak.ch/martinique-128.mp3|Martinique 1ere|Various|MQ|128|0"
+ stream_data[1]: "http://str81.streamakaci.com:9160/|Super Radio|Various|CRE|128|0"
+ stream_data[2]: "https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3|Radio Mojito|Various|MQ|128|0"
+ stream_data[3]: "https://stream.rcs.revma.com/5stt0yrtpwzuv|RCI Dancehall|Various|MQ|128|0"
+ stream_data[4]: "https://n25-eu.rcs.revma.com/9b1a2gyspwzuv|Bel Radio Martinique|Various|FRE|128|0"
+ stream_data[5]: "https://maxxi.studio/listen/cheriefmmq/radio.mp3|Cherie FM Martinique|Adult contemporary|FRE|128|0"
+ stream_data[6]: "https://maxxi.studio/listen/maxximq/radio.mp3|MAXXI Martinique|Antilles|FRE|128|0"
+ stream_data[7]: "https://loxiiradio.duckdns.org/listen/loxii-radio/radio.mp3|LOXII RADIO|Various|FRE|192|0"
+}
+
+}

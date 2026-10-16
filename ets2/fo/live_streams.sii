@@ -1,0 +1,17 @@
+SiiNunit
+{
+live_stream_def : .live_streams {
+ stream_data: 10
+ stream_data[0]: "http://netvarp.kringvarp.fo:443/uvhm|Kringvarp F\xc3\xb8roya (KVF)|Faroe islands|FAR|192|0"
+ stream_data[1]: "http://netvarp.kringvarp.fo:4443/kvf2_2|KVF2|Various|FAR|192|0"
+ stream_data[2]: "http://stream.midlar.fo/voxpop|VoxPop|Faroe islands|FAR|320|0"
+ stream_data[3]: "http://stream.midlar.fo/ras2|Ras 2|Faroe islands|FAR|128|0"
+ stream_data[4]: "http://netvarp.kringvarp.fo:4443/tingvarp|KVF - Tingvarp|Various|FO|96|0"
+ stream_data[5]: "https://stream-secure.midlar.fo/fm1-128|FM1 88,7|Various|FO|128|0"
+ stream_data[6]: "https://liveradio.stream.fo/listen/nordlysid/web|Nor\xc3\xb0lysi\xc3\xb0|Klaksvik|FAR|128|0"
+ stream_data[7]: "http://stream.midlar.fo/fm1-128|FM 1|Various|FAR|128|0"
+ stream_data[8]: "https://streaming.radio.co/s4d14b9fcc/listen|Aldan: Hitt Radio|Various|FO|320|0"
+ stream_data[9]: "https://stream-secure.midlar.fo/voxpop-128|VoxPop|Dance|FAR|128|0"
+}
+
+}

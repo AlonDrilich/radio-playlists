@@ -1,0 +1,12 @@
+SiiNunit
+{
+live_stream_def : .live_streams {
+ stream_data: 5
+ stream_data[0]: "http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3|Radio Monaco 98.2|Euro hits|FRE|128|0"
+ stream_data[1]: "http://edge.radiomontecarlo.net/RMC.mp3|Radio Monte Carlo|News|ITA|128|0"
+ stream_data[2]: "https://icy.unitedradio.it/rmcweb005|Radio Monte Carlo Italia|Italian|ITA|128|0"
+ stream_data[3]: "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3|Yellow.radio|Dance|MC|192|0"
+ stream_data[4]: "https://yellowradio.ice.infomaniak.ch/yellow01.mp3|Yellow Riviera|Deep house|FRE|128|0"
+}
+
+}

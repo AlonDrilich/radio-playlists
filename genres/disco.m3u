@@ -151,12 +151,12 @@ http://stream.laut.fm/funk2disco
 # 72FM: https://72fm.com/station/e8ca53f3-f45b-46e0-bd72-86a1673e54fc?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Soulfunky Radio
 http://stream.laut.fm/soulfunky
-# 72FM: https://72fm.com/station/671e40e6-2459-11e8-91bf-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="Disco" radio="true",Allzic Radio Disco
-http://allzic36.ice.infomaniak.ch/allzic36.mp3
 # 72FM: https://72fm.com/station/7034c88f-7ae0-4590-9e2d-22b5a49db0e9?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio-tsop.com/favicon.ico" group-title="Disco" radio="true",Radio TSOP - The Sound Of Philadelphia
 http://54.36.165.156:8650/stream
+# 72FM: https://72fm.com/station/671e40e6-2459-11e8-91bf-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="Disco" radio="true",Allzic Radio Disco
+http://allzic36.ice.infomaniak.ch/allzic36.mp3
 # 72FM: https://72fm.com/station/37ae40d9-3ed6-45e7-8036-e46c11be6c27?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Radio Salsoul
 https://broadcast.miami/proxy/salsoul?mp=/stream/;
@@ -166,12 +166,12 @@ http://stream.zeno.fm/5hfdntgf8yzuv
 # 72FM: https://72fm.com/station/cb9ebb6d-a3e4-11e8-abb8-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://artofmusic.fm/resources/apple-touch-icon.png" group-title="Disco" radio="true",Art Of Music
 http://sr6.inmystream.info:8024/stream
-# 72FM: https://72fm.com/station/c28035d7-0e4e-11e9-a80b-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Station Italy
-http://stream.laut.fm/stationitaly
 # 72FM: https://72fm.com/station/af118154-fe5f-4911-a614-25617db23492?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Disco" radio="true",__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)
 https://schlager-high.rautemusik.fm/?ref=radiobrowser
+# 72FM: https://72fm.com/station/c28035d7-0e4e-11e9-a80b-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Station Italy
+http://stream.laut.fm/stationitaly
 # 72FM: https://72fm.com/station/07dd0960-5709-475c-a515-c8a76df2bd14?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.pejpal.cloud/static/uploads/browser_icon/192.1747064544.png" group-title="Disco" radio="true",Radio pejpal
 https://radio.pejpal.cloud/stream
@@ -226,12 +226,12 @@ https://stream.zeno.fm/5a1utt11fkhvv
 # 72FM: https://72fm.com/station/05324cb6-8a7c-47a2-accb-5423f3d1e686?source=m3u
 #EXTINF:-1 tvg-logo="https://uk.radio.net/300/nudiscofunkradio.jpeg?version=b5b29e74fa5bb43b3b8a3e9d27349a94" group-title="Disco" radio="true",Nu Disco Funk Radio
 https://my.radiolize.com/radio/8090/radio.mp3
-# 72FM: https://72fm.com/station/962373d0-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",i-turn radio
-http://live.i-turnradio.nl/live
 # 72FM: https://72fm.com/station/8a6e95dc-2fc0-40f3-8df4-d31d64096c92?source=m3u
 #EXTINF:-1 tvg-logo="https://www.guliayradio.ua/favicon.ico" group-title="Disco" radio="true",Гуляй Радіо
 https://online.radioplayer.ua/GuliayRadio
+# 72FM: https://72fm.com/station/962373d0-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",i-turn radio
+http://live.i-turnradio.nl/live
 # 72FM: https://72fm.com/station/50b0772c-d8cc-11e9-a861-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",TOP FM base
 http://live.topfm.hu:8000/base.mp3
@@ -325,6 +325,9 @@ https://broadcast.miami/proxy/indiedisco?mp=/stream/;
 # 72FM: https://72fm.com/station/59434995-5ac9-4f1b-8cd0-f0dbee902327?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Njb073L/image-3.jpg" group-title="Disco" radio="true",Solid Soul Grooves Radio - Stourbridge (MP3)
 http://stream.zeno.fm/u08ymmrybg8uv
+# 72FM: https://72fm.com/station/5f774691-05c7-48d6-89e0-26f39aacb3aa?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Athens Free Radio
+http://n12.radiojar.com/e206r95qsp8uv?rj-ttl=5&rj-tok=AAABhMPbz3sAf9_4FoIJiUmkoA
 # 72FM: https://72fm.com/station/02a1d3f7-8ef6-48b1-8c63-58e9743cea5c?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",0nlineradio VOLKSMUSIK
 https://stream.0nlineradio.com/volksmusik?ref=radiobrowser
@@ -334,9 +337,6 @@ https://quincy.torontocast.com:2500/stream
 # 72FM: https://72fm.com/station/381fbf5e-1320-42b9-bcdd-a4395940c74b?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Radio Warner Bros.
 https://broadcast.miami/proxy/warnerbros?mp=/stream/;
-# 72FM: https://72fm.com/station/5f774691-05c7-48d6-89e0-26f39aacb3aa?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Athens Free Radio
-http://n12.radiojar.com/e206r95qsp8uv?rj-ttl=5&rj-tok=AAABhMPbz3sAf9_4FoIJiUmkoA
 # 72FM: https://72fm.com/station/7e194d4b-3d76-46e0-be42-a7f527788927?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Radio Plus Gent
 http://live.radiostudio.be/plus
@@ -376,12 +376,12 @@ https://icecast3.play.cz/radio-nostalgie128.mp3
 # 72FM: https://72fm.com/station/0de4d5eb-53ce-46fa-a20c-73b8300f9c58?source=m3u
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/cf/d9/cfd9303c27dd71c35a2370766d4d1309.jpg" group-title="Disco" radio="true",Retro Soul Radio
 https://streaming.galaxywebsolutions.com/stream/retrosoul
-# 72FM: https://72fm.com/station/84e2ab98-8ff1-4804-a2e3-011823865af4?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Music Corner
-https://stream1.468.gr/8010/stream
 # 72FM: https://72fm.com/station/88360635-3913-43c8-a72f-71a477fe3584?source=m3u
 #EXTINF:-1 tvg-logo="https://www.globalfunkradio.com/favicon/128x128.png" group-title="Disco" radio="true",Globl Funk Radio
 https://securestreams2.autopo.st:1148/stream
+# 72FM: https://72fm.com/station/84e2ab98-8ff1-4804-a2e3-011823865af4?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Music Corner
+https://stream1.468.gr/8010/stream
 # 72FM: https://72fm.com/station/9626acfe-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Radio Bari
 http://s6.mediastreaming.it:9062/;
@@ -400,18 +400,18 @@ https://stream2.datacenter.by/zefirfm
 # 72FM: https://72fm.com/station/a2d85de7-3b0e-498c-8b49-629adb60495c?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Exclusively Earth, Wind & Fire
 https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio
-# 72FM: https://72fm.com/station/29f8a768-3afd-44f7-a4d3-981788753cdf?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Exclusively Donna Summer
-https://nl4.mystreaming.net/er/donnasummer/icecast.audio
-# 72FM: https://72fm.com/station/44ddb57b-9b0e-4ff5-850c-3a4abb7702e1?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",The Disco Paradise
-https://broadcast.miami/proxy/thediscoparadise
-# 72FM: https://72fm.com/station/1efb905d-3efe-488a-8072-4dd3de202c35?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",R.SA 80er Disco
-http://rsa.streamabc.net/regc-rsasachsen80erdisco8061125-mp3-192-1208176?sABC=6npp6nq5%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1791781589
 # 72FM: https://72fm.com/station/2f905407-9ad8-4799-9b95-b59c366efbfe?source=m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/514804647828017152/ac9cYpha_400x400.jpeg" group-title="Disco" radio="true",Radio Oro Marbella
 http://185.23.192.118:8004/;stream.mp3
+# 72FM: https://72fm.com/station/29f8a768-3afd-44f7-a4d3-981788753cdf?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Exclusively Donna Summer
+https://nl4.mystreaming.net/er/donnasummer/icecast.audio
+# 72FM: https://72fm.com/station/1efb905d-3efe-488a-8072-4dd3de202c35?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",R.SA 80er Disco
+http://rsa.streamabc.net/regc-rsasachsen80erdisco8061125-mp3-192-1208176?sABC=6npp6nq5%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1791781589
+# 72FM: https://72fm.com/station/44ddb57b-9b0e-4ff5-850c-3a4abb7702e1?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",The Disco Paradise
+https://broadcast.miami/proxy/thediscoparadise
 # 72FM: https://72fm.com/station/2873ff1d-d251-4c4d-9437-8ea3abfeea0f?source=m3u
 #EXTINF:-1 tvg-logo="https://abusiaradio.com/wp-content/uploads/2024/06/cropped-abusia-radio_new-site-logo_pro-radio-180x180.png" group-title="Disco" radio="true",Abusia Radio
 https://ice66.securenetsystems.net/ABUSIA
@@ -424,18 +424,18 @@ http://listen.181fm.com/181-ball_128k.mp3
 # 72FM: https://72fm.com/station/581e71c7-94df-469e-8709-52d96a17c691?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Nova 106
 http://novafm106.media.friktoria.net:8000/novafm106.mp3
-# 72FM: https://72fm.com/station/2bedb6f8-93f5-45c8-a7a6-eacf348565c7?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",KTFM / Global Sport
-http://live9.avf.ch:8000/globalfmdabge
 # 72FM: https://72fm.com/station/707a2044-2023-40dd-9f01-5b33c66f5ca9?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Flashback
 https://stream-59.zeno.fm/22sad7fskkhvv?zs=SEQDOseTQ26sFPXEokpsjA
-# 72FM: https://72fm.com/station/917e71a5-6015-4657-9e1b-fb8b0dafd8e2?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",4U Motown
-https://str4uice.streamakaci.com/4umotown.mp3
+# 72FM: https://72fm.com/station/2bedb6f8-93f5-45c8-a7a6-eacf348565c7?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",KTFM / Global Sport
+http://live9.avf.ch:8000/globalfmdabge
 # 72FM: https://72fm.com/station/2886bb17-aa5f-41c2-8a4c-063a9d76fca8?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",CRASH
 http://live.radiocrash.net/
+# 72FM: https://72fm.com/station/917e71a5-6015-4657-9e1b-fb8b0dafd8e2?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",4U Motown
+https://str4uice.streamakaci.com/4umotown.mp3
 # 72FM: https://72fm.com/station/48ed33be-7ee2-41ba-b152-7fdb137819a5?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Radio Star Terrassa
 http://streaming2.elitecomunicacion.es:8202/;
@@ -451,42 +451,42 @@ http://drs953.live24.gr/drs953
 # 72FM: https://72fm.com/station/a808b58b-d619-4048-8f28-60980194e2f3?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.radiopsr.de/production/static/1699276561931/icons/icon_64.cawac0w0200.png" group-title="Disco" radio="true",RADIO PSR Partymix
 https://regiocast.streamabc.net/regc-psrpartymix1801718-mp3-192-6173501?sABC=6npq2276%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1791828598
-# 72FM: https://72fm.com/station/f7a9a8d6-8ff1-4c9b-8d17-369664e25059?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",D-Code 96,2
-http://176.31.118.39:13980/
 # 72FM: https://72fm.com/station/962c1286-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Radio Onda Libera
 http://s6.mediastreaming.it:9064/stream
 # 72FM: https://72fm.com/station/2634a58d-684b-44b1-9ed5-b0006494bec9?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/favicon-194x194.png" group-title="Disco" radio="true",Retro Love
 https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud
+# 72FM: https://72fm.com/station/f7a9a8d6-8ff1-4c9b-8d17-369664e25059?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",D-Code 96,2
+http://176.31.118.39:13980/
 # 72FM: https://72fm.com/station/7a2cd20d-2544-4609-8006-6c3885e391e6?source=m3u
 #EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" group-title="Disco" radio="true",DFM DISCO
 https://dfm-disco.hostingradio.ru/disco96.aacp
-# 72FM: https://72fm.com/station/552ab96a-25b6-41d3-ad94-d184b2c42fb6?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Onda Musical de Yecla
-https://stream.zeno.fm/89t31p4mdwzuv
-# 72FM: https://72fm.com/station/2afc3d60-6f2a-4435-a6d1-65a446bfd360?source=m3u
-#EXTINF:-1 tvg-logo="https://www.oldskoolradio.nl/wp-content/uploads/2025/05/discoth5-768x232-1-300x91-1.jpg" group-title="Disco" radio="true",Oldskoolradio
-https://caster08.streampakket.com/proxy/arjanhoo?mp=/stream
 # 72FM: https://72fm.com/station/2062e3ec-1643-4aea-9c59-f5c381a1f1f6?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Lumpen Radio
 https://radio.mensajito.mx/lumpenradio
+# 72FM: https://72fm.com/station/2afc3d60-6f2a-4435-a6d1-65a446bfd360?source=m3u
+#EXTINF:-1 tvg-logo="https://www.oldskoolradio.nl/wp-content/uploads/2025/05/discoth5-768x232-1-300x91-1.jpg" group-title="Disco" radio="true",Oldskoolradio
+https://caster08.streampakket.com/proxy/arjanhoo?mp=/stream
+# 72FM: https://72fm.com/station/552ab96a-25b6-41d3-ad94-d184b2c42fb6?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Onda Musical de Yecla
+https://stream.zeno.fm/89t31p4mdwzuv
 # 72FM: https://72fm.com/station/3f30c1af-de22-43f9-af05-9cdae5fc71e4?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",THE LYNX DISCO CLASSICS
 https://disco-lynxradio.radioca.st/stream
-# 72FM: https://72fm.com/station/6512fd8f-a693-4b42-9c69-a3300d4db38f?source=m3u
-#EXTINF:-1 tvg-logo="https://generationdiscofunk.com/favicon.ico" group-title="Disco" radio="true",GENERATION SOUL DISCO FUNK RADIO
-https://gestream.fr/g-radio-hd.mp3
 # 72FM: https://72fm.com/station/76025416-742b-443e-bf73-10fb5201b411?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7u-ddLakUqlSi4UMucAHo7yNKTDG2o-spkfc_WD3Dw&s=10" group-title="Disco" radio="true",Old School 94.1 FM
 https://ec3.yesstreaming.net:4245/stream
-# 72FM: https://72fm.com/station/226e2ae1-4721-11e8-8919-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Musik-Kurier
-http://stream.laut.fm/musik-kurier
+# 72FM: https://72fm.com/station/6512fd8f-a693-4b42-9c69-a3300d4db38f?source=m3u
+#EXTINF:-1 tvg-logo="https://generationdiscofunk.com/favicon.ico" group-title="Disco" radio="true",GENERATION SOUL DISCO FUNK RADIO
+https://gestream.fr/g-radio-hd.mp3
 # 72FM: https://72fm.com/station/e7c67840-16ea-44d6-bd69-719c369314fb?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",FUNK2DISCO
 https://stream.zeno.fm/ck78w00p97zuv
+# 72FM: https://72fm.com/station/226e2ae1-4721-11e8-8919-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Musik-Kurier
+http://stream.laut.fm/musik-kurier
 # 72FM: https://72fm.com/station/1b38404a-9b7b-44c0-9c57-a051d3367e88?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Polmax 2
 http://stream.zeno.fm/szxcunxzbceuv
@@ -502,36 +502,36 @@ https://streams.radiopsr.de/psr-chartbreaker/mp3-192/www.radio-browser.info/
 # 72FM: https://72fm.com/station/db846e19-4533-4dbb-94a6-5ca3cea59596?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Polmax FM
 http://stream.zeno.fm/1gg3kbnzbceuv
-# 72FM: https://72fm.com/station/0a1e6519-b730-45c5-a829-9ca20ab6e4ec?source=m3u
-#EXTINF:-1 tvg-logo="https://www.relaxfmonline.nl/favicon.ico" group-title="Disco" radio="true",Relax FM Online
-https://caster04.streampakket.com/proxy/8009/stream
 # 72FM: https://72fm.com/station/b562983d-1c3d-456c-acdd-bcef491f245e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.r1.co.nz/images/logo.png" group-title="Disco" radio="true",Radio One 91FM
 https://play.r1.co.nz/live
 # 72FM: https://72fm.com/station/61f6debd-0a5f-4c22-8805-66096f3d566b?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762084/600/600/kyafz16f.png" group-title="Disco" radio="true",98.6 charivari Discomania
 https://frontend.streamonkey.net/fhn-986charivaridiscomania/stream/mp3
+# 72FM: https://72fm.com/station/0a1e6519-b730-45c5-a829-9ca20ab6e4ec?source=m3u
+#EXTINF:-1 tvg-logo="https://www.relaxfmonline.nl/favicon.ico" group-title="Disco" radio="true",Relax FM Online
+https://caster04.streampakket.com/proxy/8009/stream
 # 72FM: https://72fm.com/station/53195414-8978-42e0-a624-1fe43bb7ec4f?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Supernova Party
 https://ic2.smcdn.pl/6160-1.mp3#Supernova_Party
 # 72FM: https://72fm.com/station/c3290c98-c4ba-4bc0-9d68-5d6b95792604?source=m3u
 #EXTINF:-1 tvg-logo="https://thrakifm.gr/wp-content/uploads/2012/09/keraia1.png" group-title="Disco" radio="true",Θράκη 99.8
 http://eco.onestreaming.com:8010/stream
-# 72FM: https://72fm.com/station/aeff6fb7-6d42-4494-b3fe-35201928355e?source=m3u
-#EXTINF:-1 tvg-logo="https://teleradio1.com/favicon.ico" group-title="Disco" radio="true",TeleRadio1
-http://stream.laut.fm/teleradio1
 # 72FM: https://72fm.com/station/f1084565-7f8f-4401-93f4-e5c1a6e2a6b6?source=m3u
 #EXTINF:-1 tvg-logo="https://polmaxfm.github.io/images/djpies3.jpg" group-title="Disco" radio="true",Polmax 3
 http://stream.zeno.fm/2p4yw9sd8yzuv
+# 72FM: https://72fm.com/station/aeff6fb7-6d42-4494-b3fe-35201928355e?source=m3u
+#EXTINF:-1 tvg-logo="https://teleradio1.com/favicon.ico" group-title="Disco" radio="true",TeleRadio1
+http://stream.laut.fm/teleradio1
 # 72FM: https://72fm.com/station/250acb2f-73c1-4e47-a6a9-3834d4e54e1d?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Laut.fm Minidisco im Urlaub
 http://minidisco.stream.laut.fm/minidisco
-# 72FM: https://72fm.com/station/f168d1f6-728a-4515-83cd-873a6be2f4e0?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",R.SA Disco
-http://rsa.streamabc.net/regc-rsasachsendisco8844938-mp3-192-6537057?sABC=6npp3991%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1791768977
 # 72FM: https://72fm.com/station/2e8c7795-7908-4cca-ac61-b3dbed5c172e?source=m3u
 #EXTINF:-1 tvg-logo="https://uk.radio.net/300/beats-nudisco.jpeg?version=0d0617ddc63c5839f914886a7efd533db740ccf8" group-title="Disco" radio="true",Beats Radio - Nu Disco
 https://klassikr.streamabc.net/klr_qohdzgv3jpl_mzy9-mp3-192-1126592
+# 72FM: https://72fm.com/station/f168d1f6-728a-4515-83cd-873a6be2f4e0?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",R.SA Disco
+http://rsa.streamabc.net/regc-rsasachsendisco8844938-mp3-192-6537057?sABC=6npp3991%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1791768977
 # 72FM: https://72fm.com/station/8cd9bdb8-d6ab-42de-853b-4f009dcc76d9?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_090259478.jpg?alt=media&token=d7b6447d-0f85-4983-97c1-31b02344c9da" group-title="Disco" radio="true",Paradise FM Disco Inferno
 https://stream.paradisefm.cw/ParadiseDiscoInferno
@@ -544,24 +544,27 @@ http://radiostreamone.mine.nu/MRS9050one
 # 72FM: https://72fm.com/station/ab81e5f2-bfee-41de-bd66-4baf82db30e1?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Radio Epic
 https://broadcast.miami/proxy/epic?mp=/stream/;
-# 72FM: https://72fm.com/station/001906c3-d133-4bea-b37c-90c177aded67?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Radio Joystick | laut.fm/joy
-http://stream.laut.fm/joy
 # 72FM: https://72fm.com/station/a933e805-8c3b-4842-b41f-05617340f68e?source=m3u
 #EXTINF:-1 tvg-logo="https://soulrhythmsradio.com/wp-content/uploads/2023/12/SRR-LOGOTHIS_ONE.jpg" group-title="Disco" radio="true",Soul Rhythms Radio UK
 https://a7.asurahosting.com:8230/radio.mp3
 # 72FM: https://72fm.com/station/23d347fd-0ce1-47f3-a13d-7b910fdc1956?source=m3u
 #EXTINF:-1 tvg-logo="https://blob.luznoticias.mx/img/rediseno/vintage941.png" group-title="Disco" radio="true",Vintage 94.1 HD2 Culiacán
 https://audiostreaming.luz.network/stream/8/;
+# 72FM: https://72fm.com/station/001906c3-d133-4bea-b37c-90c177aded67?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Radio Joystick | laut.fm/joy
+http://stream.laut.fm/joy
 # 72FM: https://72fm.com/station/5245e5de-0398-456a-9235-c706dea8cc57?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFWqJ08Q/Li-STNR-Square-Tile-3000x3000-SOUL-DISCO.jpg" group-title="Disco" radio="true",LiSTNR - Soul Disco (HLS)
 http://sa46.scastream.com.au/live/soul-disco.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/9b165fe4-890e-4aef-92c1-3e8387f05650?source=m3u
-#EXTINF:-1 tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/2b52513b-96ff-4459-a29c-36d8816ea4d6/600x600_psr-partymix_colored.jpg" group-title="Disco" radio="true",Radio PSR Partymix | AAC 64 kbps
-https://streams.radiopsr.de/psr-partymix/aac-64/streams.radiopsr.de
+# 72FM: https://72fm.com/station/28fde80e-9103-4383-8f3f-3a0fb1791c9e?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiozw.com.pl/wp-content/uploads/2025/01/RZW-logo-www-darkmode_109.jpg" group-title="Disco" radio="true",Radio Ziemi Wieluńskiej
+http://stream2.nadaje.com:8022/;stream
 # 72FM: https://72fm.com/station/0a29e7a5-96b9-45a6-a8e5-86611b2f31ff?source=m3u
 #EXTINF:-1 tvg-logo="https://i0.wp.com/ktfm-radio.ch/wp-content/uploads/2019/12/KTFM-1.png?fit=50%2C50&ssl=1" group-title="Disco" radio="true",KTfm Geneva - THE BEST OF 70'S AND 80'S
 https://ktfm.ice.infomaniak.ch/ktfm-high.mp3
+# 72FM: https://72fm.com/station/9b165fe4-890e-4aef-92c1-3e8387f05650?source=m3u
+#EXTINF:-1 tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/2b52513b-96ff-4459-a29c-36d8816ea4d6/600x600_psr-partymix_colored.jpg" group-title="Disco" radio="true",Radio PSR Partymix | AAC 64 kbps
+https://streams.radiopsr.de/psr-partymix/aac-64/streams.radiopsr.de
 # 72FM: https://72fm.com/station/02ec5302-9dc4-42f7-9801-2278c06c1073?source=m3u
 #EXTINF:-1 tvg-logo="https://chunt.org/images/logo_fishe_calm_256.png" group-title="Disco" radio="true",Chunt FM
 https://fm.chunt.org/stream
@@ -571,18 +574,15 @@ http://fra-pioneer01.dedicateware.com:1090/stream
 # 72FM: https://72fm.com/station/4df9c40e-6e4d-4134-bd4d-5d18fb3524f7?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioponiente.com/imagenes/apple-icono-web.png" group-title="Disco" radio="true",Radio Poniente
 http://broadcast.radioponiente.org:8036/;
-# 72FM: https://72fm.com/station/28fde80e-9103-4383-8f3f-3a0fb1791c9e?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiozw.com.pl/wp-content/uploads/2025/01/RZW-logo-www-darkmode_109.jpg" group-title="Disco" radio="true",Radio Ziemi Wieluńskiej
-http://stream2.nadaje.com:8022/;stream
 # 72FM: https://72fm.com/station/aefcbe21-f203-4678-ad89-3fa6a22a5461?source=m3u
 #EXTINF:-1 tvg-logo="https://www.nostalgie.fr/uploads/assets/nostalgie/icons/apple-icon-180x180.png" group-title="Disco" radio="true",Nostalgie Disco Fever
 https://streaming.nrjaudio.fm/ou4swshtd2ko
-# 72FM: https://72fm.com/station/c000105f-94b9-438c-9c16-8f6e66bab6f2?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",90 Hits
-https://stream.pcradio.ru/shitsradiopcradio90-hi
 # 72FM: https://72fm.com/station/d59d1597-df0e-43e3-a74e-8d6ddab0f88f?source=m3u
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/Q9J6HMtPoVpJY27a6" group-title="Disco" radio="true",JOY - Funky Sounds 4 Central Europe
 https://joy.stream.laut.fm/joy
+# 72FM: https://72fm.com/station/c000105f-94b9-438c-9c16-8f6e66bab6f2?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",90 Hits
+https://stream.pcradio.ru/shitsradiopcradio90-hi
 # 72FM: https://72fm.com/station/8259d15f-8827-4a82-8cb9-85cc9561a2bb?source=m3u
 #EXTINF:-1 tvg-logo="https://funkydiscoradio.weebly.com/uploads/3/8/3/4/38344263/published/funky-disco.png?1762586681" group-title="Disco" radio="true",Funky Disco Radio
 https://stream.laut.fm/funkydiscoradio
@@ -604,18 +604,18 @@ https://stream.streamaudio.de:8000/strul-fm
 # 72FM: https://72fm.com/station/0d84332a-1580-41bc-8697-9e8d3b4a9568?source=m3u
 #EXTINF:-1 tvg-logo="https://vocalboothradio.com/wp-content/uploads/We_Heart_PINK-1536x1536.png" group-title="Disco" radio="true",Vocalbooth Radio
 https://c22.radioboss.fm:8785/stream
-# 72FM: https://72fm.com/station/ddcc5b96-282b-4ab0-81ed-4a5a366b5686?source=m3u
-#EXTINF:-1 tvg-logo="https://red7.pl/img/clubdj-app.png" group-title="Disco" radio="true",Red7.pl - Kanał Główny
-https://s.red7.pl/stream256
 # 72FM: https://72fm.com/station/73c524b6-786a-4426-9048-1612ad98e10b?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Crystal
 https://n06.radiojar.com/htczr9epmchvv?rj-ttl=5&rj-tok=AAABhNhBqBYAE69MZAiHyDMI2Q
-# 72FM: https://72fm.com/station/4294c182-946f-4a64-9a6d-13d5fcb0f83d?source=m3u
-#EXTINF:-1 tvg-logo="https://figarodisco.odoo.com/web/image/465-9d3163ba/DALL%C2%B7E%202025-01-22%2013.07.42%20-%20A%20vibrant%20and%20dynamic%20design%20representing%20a%20disco%20theme%20with%20a%20red%20and%20black%20color%20palette.%20The%20image%20features%20a%20retro-style%20disco%20ball%20reflecting%20col.webp" group-title="Disco" radio="true",Figaro Discotheque
-https://s2.free-shoutcast.com/stream/18148
 # 72FM: https://72fm.com/station/ac3e8614-f467-4af4-83a0-fff5e4e43e8d?source=m3u
 #EXTINF:-1 tvg-logo="https://www.paradiseradio.org/wp-content/uploads/2024/08/logo.png" group-title="Disco" radio="true",Paradise Radio
 https://radiostreamcast.com/listen/paradise_radio/radio.mp3
+# 72FM: https://72fm.com/station/4294c182-946f-4a64-9a6d-13d5fcb0f83d?source=m3u
+#EXTINF:-1 tvg-logo="https://figarodisco.odoo.com/web/image/465-9d3163ba/DALL%C2%B7E%202025-01-22%2013.07.42%20-%20A%20vibrant%20and%20dynamic%20design%20representing%20a%20disco%20theme%20with%20a%20red%20and%20black%20color%20palette.%20The%20image%20features%20a%20retro-style%20disco%20ball%20reflecting%20col.webp" group-title="Disco" radio="true",Figaro Discotheque
+https://s2.free-shoutcast.com/stream/18148
+# 72FM: https://72fm.com/station/ddcc5b96-282b-4ab0-81ed-4a5a366b5686?source=m3u
+#EXTINF:-1 tvg-logo="https://red7.pl/img/clubdj-app.png" group-title="Disco" radio="true",Red7.pl - Kanał Główny
+https://s.red7.pl/stream256
 # 72FM: https://72fm.com/station/cb333747-66c7-44a2-bc84-e74ff252387a?source=m3u
 #EXTINF:-1 tvg-logo="https://milestoneradio.com/wpx4/wp-content/uploads/2022/01/Milestone-Radio-500x500.png" group-title="Disco" radio="true",Milestone Radio
 http://cupcake.citrus3.com:8380/stream
@@ -634,234 +634,261 @@ http://stream.laut.fm/radiorob
 # 72FM: https://72fm.com/station/fd7c6cd0-0e97-4fb1-90fc-7ecd8a3424c4?source=m3u
 #EXTINF:-1 tvg-logo="https://thefinest.amsterdam/wp-content/uploads/2026/01/The_Finest_Amsterdam_1200x1200-1.png" group-title="Disco" radio="true",The Finest Amsterdam
 https://live.thefinest.amsterdam/hq
-# 72FM: https://72fm.com/station/5782d204-ba9f-4857-b1b1-cd8aaa407c75?source=m3u
-#EXTINF:-1 tvg-logo="https://replicaradio.com/images/assets/Replica-Radio-Live.jpg" group-title="Disco" radio="true",Replica Radio
-https://securestreams.autopo.st:2490/
 # 72FM: https://72fm.com/station/3892cc14-04c6-43ae-963b-f2b76ae89ba1?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Solar Radio 256
 http://listen-msmn.sharp-stream.com/solarhigh.mp3
 # 72FM: https://72fm.com/station/822d0d37-9557-403d-a9bb-dd4040a8f23f?source=m3u
 #EXTINF:-1 tvg-logo="https://radiopsr.raudio-online.de/assets/icon.png" group-title="Disco" radio="true",Radio PSR Chemnitz | AAC 64 kbps
 https://streams.radiopsr.de/psr-live-sn-chm/aac-64/streams.radiopsr.de
+# 72FM: https://72fm.com/station/5782d204-ba9f-4857-b1b1-cd8aaa407c75?source=m3u
+#EXTINF:-1 tvg-logo="https://replicaradio.com/images/assets/Replica-Radio-Live.jpg" group-title="Disco" radio="true",Replica Radio
+https://securestreams.autopo.st:2490/
 # 72FM: https://72fm.com/station/3a1d4f07-9dc2-4d31-a5f5-5f95c4b55e6f?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Walkman Radio
 https://colombiawebs.com.co/proxy/walkmanradio?mp=/stream
-# 72FM: https://72fm.com/station/4a57880d-9e67-4360-928b-ae2cd0947ee8?source=m3u
-#EXTINF:-1 tvg-logo="https://radiopsr.raudio-online.de/assets/icon.png" group-title="Disco" radio="true",Radio PSR Sommerhits | AAC 64 kbps
-https://streams.radiopsr.de/sommerhits/aac-64/streams.radiopsr.de
+# 72FM: https://72fm.com/station/e2f869a0-8c11-408c-80a5-c0a37d9c671a?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Portobello Radio
+https://uk1.internet-radio.com/proxy/portobelloradio?mp=/stream
 # 72FM: https://72fm.com/station/46317322-eb22-4671-a3df-9b3ee155255a?source=m3u
 #EXTINF:-1 tvg-logo="https://radiocmp3.eu/img/av-app.png" group-title="Disco" radio="true",RadioCmp3.eu - Kanał Główny
 https://s1.cmp3.eu/stream128
 # 72FM: https://72fm.com/station/3868471e-fc23-4d0b-aa49-943feaea5ea0?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Australian Digital Radio Network - Disco (MP3)
 http://abm22.com.au:8000/CONTAINER21
-# 72FM: https://72fm.com/station/e2f869a0-8c11-408c-80a5-c0a37d9c671a?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Portobello Radio
-https://uk1.internet-radio.com/proxy/portobelloradio?mp=/stream
+# 72FM: https://72fm.com/station/4a57880d-9e67-4360-928b-ae2cd0947ee8?source=m3u
+#EXTINF:-1 tvg-logo="https://radiopsr.raudio-online.de/assets/icon.png" group-title="Disco" radio="true",Radio PSR Sommerhits | AAC 64 kbps
+https://streams.radiopsr.de/sommerhits/aac-64/streams.radiopsr.de
 # 72FM: https://72fm.com/station/bd7c8db6-23a8-4b99-9841-790366623e51?source=m3u
 #EXTINF:-1 tvg-logo="https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-6/306087505_770094974385045_1970008622171999007_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=TkA1b_EdO0QQ7kNvgHF3IKc&_nc_zt=23&_nc_ht=scontent-phx1-1.xx&_nc_gid=ASYu4hYrbbYvKgcGcA-wpBb&oh=00_AYB9aHDIrf2u2D_iKGi5obHgCrfWyo7gHiqPcZ8rqTtivw&oe=679E1927" group-title="Disco" radio="true",The Strobe Radio
 http://646.cloudrad.io:8234/
-# 72FM: https://72fm.com/station/d9531f03-21e8-4170-8849-57f7fb49eab4?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-disco_funk-en-mp3.jpg" group-title="Disco" radio="true",Hotmix Disco Funk
-https://streaming.hotmixradio.com/hotmix-disco-funk-en-mp3?provider=radiobrowser
-# 72FM: https://72fm.com/station/85a55d6c-c2c1-4928-a539-c723023b98ac?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Radio Infinity Classic
-https://sonic.host-live.com/8192/stream
-# 72FM: https://72fm.com/station/a6946822-05ec-4633-8c16-30ae7bede634?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Radio Stereo Sound Italia
-http://s5.myradiostream.com:39494/
-# 72FM: https://72fm.com/station/9c97c1ea-73e3-4013-8b47-13a5936c764b?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Disco" radio="true",Groove Revival Radio
-https://mml2.prostream.se/listen/groove_revival_radio/radio.mp3
 # 72FM: https://72fm.com/station/fd3c673c-ffe1-4621-8f83-d827b26dc0bc?source=m3u
 #EXTINF:-1 tvg-logo="https://classichouse-images.pages.dev/thumbnail.png" group-title="Disco" radio="true",Classic House Music
 https://classichousemusic.ca/listen/classic_house_music/radio.mp3
-# 72FM: https://72fm.com/station/4cd84e91-bcd6-42c2-8f0f-35cd5fd7ad05?source=m3u
-#EXTINF:-1 tvg-logo="https://discothequefantastique.org/wp-content/uploads/2026/03/cropped-logo-small-1-300x168.png" group-title="Disco" radio="true",Discothèque Fantastique Radio
-https://radio.discothequefantastique.org/listen/discotheque_fantastique_radio/radio.mp3
+# 72FM: https://72fm.com/station/d9531f03-21e8-4170-8849-57f7fb49eab4?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-disco_funk-en-mp3.jpg" group-title="Disco" radio="true",Hotmix Disco Funk
+https://streaming.hotmixradio.com/hotmix-disco-funk-en-mp3?provider=radiobrowser
+# 72FM: https://72fm.com/station/9c97c1ea-73e3-4013-8b47-13a5936c764b?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Disco" radio="true",Groove Revival Radio
+https://mml2.prostream.se/listen/groove_revival_radio/radio.mp3
+# 72FM: https://72fm.com/station/a6946822-05ec-4633-8c16-30ae7bede634?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Radio Stereo Sound Italia
+http://s5.myradiostream.com:39494/
+# 72FM: https://72fm.com/station/85a55d6c-c2c1-4928-a539-c723023b98ac?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Radio Infinity Classic
+https://sonic.host-live.com/8192/stream
 # 72FM: https://72fm.com/station/1617aae3-b929-4036-8e17-948d9e85dba2?source=m3u
 #EXTINF:-1 tvg-logo="https://mixstream.info/favicon-512x512.png" group-title="Disco" radio="true",MixStream Radio - Disco
 https://radio.mixstream.nl/disco.mp3
+# 72FM: https://72fm.com/station/4cd84e91-bcd6-42c2-8f0f-35cd5fd7ad05?source=m3u
+#EXTINF:-1 tvg-logo="https://discothequefantastique.org/wp-content/uploads/2026/03/cropped-logo-small-1-300x168.png" group-title="Disco" radio="true",Discothèque Fantastique Radio
+https://radio.discothequefantastique.org/listen/discotheque_fantastique_radio/radio.mp3
 # 72FM: https://72fm.com/station/fc94c734-f869-4f68-b894-603ece8db18f?source=m3u
 #EXTINF:-1 tvg-logo="https://musiclovequest.pages.dev/img/social.png" group-title="Disco" radio="true",theradio.fm
 https://servidor36-2.brlogic.com:7064/live
 # 72FM: https://72fm.com/station/17e60697-5411-4477-9463-70a862a02805?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiokansk.ru/wp-content/uploads/2025/02/cropped-favicon-512x512-1-32x32.png" group-title="Disco" radio="true",РадиоКанск
 https://azura-cast.radiokansk.ru/listen/radiokansk/live
-# 72FM: https://72fm.com/station/302ad9ff-2292-4283-a42a-0defbfe473d3?source=m3u
-#EXTINF:-1 tvg-logo="https://boomboe.cluster129.hosting.ovh.net/logo-boombox.png" group-title="Disco" radio="true",Boombox radio
-http://hosting.radiomedia.fr:1100/boombox
 # 72FM: https://72fm.com/station/170a2a8e-fefc-46de-8ea4-df3fccca053b?source=m3u
 #EXTINF:-1 tvg-logo="https://horizons-cdn.hostinger.com/6fc7f52e-1444-494c-bd09-fbd1e898c6de/d660e9f52cb5da0a7ea1ba0734ff1cc1.png" group-title="Disco" radio="true",LeMixx Radio
 http://maxxima.mine.nu/lemixx
-# 72FM: https://72fm.com/station/b77d4a10-8634-4f76-a579-8421c9131dde?source=m3u
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9l5hioJHnb99wLMAOD7sai10WTa6YpW1JfW5GvSJWGE8C_r0KfPieC4gCYPJtRgLOhcBjihgMoOQ3KvTNAB3iaO5T3LRSmrvjE-3-WA3u0HZa_3jIk1Gpq2buERY8F8IxpWBPcVsn5dbSOk0dUiYncOOCweTZ-e0UP3VyJWeSPtp208W3i_YJkwRWG3-A/s1080/PCIMG_2026-03-19_10-06-56.JPG" group-title="Disco" radio="true",porão da nau 2
-http://uk20freenew.listen2myradio.com:5382/;
 # 72FM: https://72fm.com/station/ef6e3266-d25e-49a9-b36d-772325e3cabe?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Sin Fronteras 98.5 FM
 http://tigocloud.desdeparaguay.net/movsinfronteras/movsinfronteras.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/ca55c130-0a89-4a10-98be-75f0c4820332?source=m3u
-#EXTINF:-1 tvg-logo="https://radio-pub.be/CKDJ/CK%20DJ'smix.png" group-title="Disco" radio="true",CK Deejay
-https://radio-pub.be/CKDJ/ckdjmix.mp3
-# 72FM: https://72fm.com/station/3648af4c-a9bd-4852-9d25-2e18f962fbde?source=m3u
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/0a/36/0a36cd6eaed6a91be60d1aa3046225c6.jpg" group-title="Disco" radio="true",International Rare Groove
-https://s131.radiolize.com/radio/8110/radio.mp3
+# 72FM: https://72fm.com/station/302ad9ff-2292-4283-a42a-0defbfe473d3?source=m3u
+#EXTINF:-1 tvg-logo="https://boomboe.cluster129.hosting.ovh.net/logo-boombox.png" group-title="Disco" radio="true",Boombox radio
+http://hosting.radiomedia.fr:1100/boombox
+# 72FM: https://72fm.com/station/b77d4a10-8634-4f76-a579-8421c9131dde?source=m3u
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9l5hioJHnb99wLMAOD7sai10WTa6YpW1JfW5GvSJWGE8C_r0KfPieC4gCYPJtRgLOhcBjihgMoOQ3KvTNAB3iaO5T3LRSmrvjE-3-WA3u0HZa_3jIk1Gpq2buERY8F8IxpWBPcVsn5dbSOk0dUiYncOOCweTZ-e0UP3VyJWeSPtp208W3i_YJkwRWG3-A/s1080/PCIMG_2026-03-19_10-06-56.JPG" group-title="Disco" radio="true",porão da nau 2
+http://uk20freenew.listen2myradio.com:5382/;
 # 72FM: https://72fm.com/station/2a5ba2c2-f689-4093-bdbf-8895ce0f3d78?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-nu_disco-en-mp3.jpg" group-title="Disco" radio="true",Hotmix Nu Disco
 https://streaming.hotmixradio.com/hotmix-nu_disco-en-mp3?provider=radiobrowser
+# 72FM: https://72fm.com/station/3648af4c-a9bd-4852-9d25-2e18f962fbde?source=m3u
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/0a/36/0a36cd6eaed6a91be60d1aa3046225c6.jpg" group-title="Disco" radio="true",International Rare Groove
+https://s131.radiolize.com/radio/8110/radio.mp3
 # 72FM: https://72fm.com/station/8eb64d77-0fc9-43b0-9bd6-ad3209152a4c?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Disco" radio="true",Stars on 45
 https://mml2.prostream.se/listen/stars_on_45/radio.mp3
+# 72FM: https://72fm.com/station/ca55c130-0a89-4a10-98be-75f0c4820332?source=m3u
+#EXTINF:-1 tvg-logo="https://radio-pub.be/CKDJ/CK%20DJ'smix.png" group-title="Disco" radio="true",CK Deejay
+https://radio-pub.be/CKDJ/ckdjmix.mp3
 # 72FM: https://72fm.com/station/5f5fb2d6-3bca-4e5f-b9aa-4cd4dcf60ef8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.nostalgie.fr/uploads/assets/nostalgie/icons/apple-icon-180x180.png" group-title="Disco" radio="true",Nostalgie Funky Collector
 https://streaming.nrjaudio.fm/ou7x6kf3s5gi
-# 72FM: https://72fm.com/station/f86d4ad2-4fad-49ad-bdfe-7f2cc8ec3597?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Galattica FM
-https://stream.laut.fm/galatticafm
 # 72FM: https://72fm.com/station/cf2ba78a-59fa-4288-81d4-6b4d1c42a1f8?source=m3u
 #EXTINF:-1 tvg-logo="https://bringthenoi.se/apple-touch-icon.png" group-title="Disco" radio="true",bringthenoise
 https://radio.bringthenoi.se/listen/dj_nocide/default
 # 72FM: https://72fm.com/station/64e16fb4-4102-42be-9eb8-36a90b381aa1?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUuoHokhLLtGIP3yXL8nSnc4mRk-0T2rzDZ573m_1kg&s=10" group-title="Disco" radio="true",Mela Radio
 https://melaradio-fellini.radioca.st/;
+# 72FM: https://72fm.com/station/a2b36c90-49aa-4db6-a1cc-31c5ae09d503?source=m3u
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/o2EjgXlsyph9jk88mqCk0rv1A44yT3-okZx2fGwhQ-LOR0rIERfo1XRqbnkL9-TVnG4" group-title="Disco" radio="true",Te Ador Radio
+https://sonicpanel.namehost.ro:1260/stream
+# 72FM: https://72fm.com/station/d4e63d36-5800-4d86-a7ba-aa1190cb5df8?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/15387.v4.png" group-title="Disco" radio="true",Discomania
+http://radio2.discomaniaradio.com:7000/live
+# 72FM: https://72fm.com/station/f86d4ad2-4fad-49ad-bdfe-7f2cc8ec3597?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Galattica FM
+https://stream.laut.fm/galatticafm
 # 72FM: https://72fm.com/station/87b3306c-264b-406d-bd40-9751a30ef66e?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Radio 105
 https://loa.beheerstream.nl:8094/stream
 # 72FM: https://72fm.com/station/670140ec-f90d-4ea4-85e4-88cebcb57a20?source=m3u
 #EXTINF:-1 tvg-logo="https://radiopodlasie2019.panelradiowy.pl/images/logos/71481-58.png" group-title="Disco" radio="true",Radio Podlasie 2
 https://s3.slotex.pl:7438/stream/1/
-# 72FM: https://72fm.com/station/a2b36c90-49aa-4db6-a1cc-31c5ae09d503?source=m3u
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/o2EjgXlsyph9jk88mqCk0rv1A44yT3-okZx2fGwhQ-LOR0rIERfo1XRqbnkL9-TVnG4" group-title="Disco" radio="true",Te Ador Radio
-https://sonicpanel.namehost.ro:1260/stream
-# 72FM: https://72fm.com/station/7716ccd0-bfd7-475b-b25a-41abb8da2e21?source=m3u
-#EXTINF:-1 tvg-logo="https://happynessoise.fr/wp-content/uploads/2025/01/Happyness-Oise@3x-50.jpg" group-title="Disco" radio="true",Happyness Oise
-https://azuracast-scrs-2.foxoud.synology.me/listen/happyness_oise/player
+# 72FM: https://72fm.com/station/1472dbb5-07d2-4ee0-a26e-d2a16c48233a?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",staronlineradio
+https://strcdn.klm99.com/8100/stream
 # 72FM: https://72fm.com/station/54c33488-667b-44c1-8ddb-83fd146380a6?source=m3u
 #EXTINF:-1 tvg-logo="https://ecmanager4.pro-fhi.net:3450/media/servers/IMG_1285.jpeg" group-title="Disco" radio="true",OutOfParadise
 http://ecmanager4.pro-fhi.net:1470/stream
+# 72FM: https://72fm.com/station/7716ccd0-bfd7-475b-b25a-41abb8da2e21?source=m3u
+#EXTINF:-1 tvg-logo="https://happynessoise.fr/wp-content/uploads/2025/01/Happyness-Oise@3x-50.jpg" group-title="Disco" radio="true",Happyness Oise
+https://azuracast-scrs-2.foxoud.synology.me/listen/happyness_oise/player
 # 72FM: https://72fm.com/station/aca451aa-29ea-4040-b187-105bdc34a09f?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Royal Harbour Radio
 http://s9.citrus3.com:8402/stream
-# 72FM: https://72fm.com/station/0768242d-bd5a-4291-b835-796eb11d860f?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Skate.fm
-https://listen.skate.fm:8443/live
 # 72FM: https://72fm.com/station/6a2fe382-636f-4423-b30c-ba51d2388c3a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.slimradio.co.uk/" group-title="Disco" radio="true",Slim Radio
 https://a2.asurahosting.com:6260/radio.mp3
+# 72FM: https://72fm.com/station/9bf76f26-2227-4ba8-9981-1644fdaf5e84?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Fiorda.fm
+http://cast1.torontocast.com:2280/;?type=http&nocache=42
+# 72FM: https://72fm.com/station/a456fb93-966d-4d71-ab6e-95baba13c363?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Golfo Paradiso Caffe
+https://gpcaffe.streaming.center:1095/stream
+# 72FM: https://72fm.com/station/0768242d-bd5a-4291-b835-796eb11d860f?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Skate.fm
+https://listen.skate.fm:8443/live
 # 72FM: https://72fm.com/station/d0a1fdcb-15a7-41a1-aef9-e561d2174e6f?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",90RU
 https://stream.pcradio.ru/ru90pcradio-hi
 # 72FM: https://72fm.com/station/66d29155-b69e-466c-9273-010024acecd1?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/827f2647f362fe8cf10095492261bf28?t=_120x120" group-title="Disco" radio="true",Clubradio24
 https://stream.laut.fm/clubradio24
-# 72FM: https://72fm.com/station/d4e63d36-5800-4d86-a7ba-aa1190cb5df8?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/15387.v4.png" group-title="Disco" radio="true",Discomania
-http://radio2.discomaniaradio.com:7000/live
-# 72FM: https://72fm.com/station/a456fb93-966d-4d71-ab6e-95baba13c363?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Golfo Paradiso Caffe
-https://gpcaffe.streaming.center:1095/stream
 # 72FM: https://72fm.com/station/ede7017f-4fc0-4bb9-afb9-d1966eba8231?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Boombox Radio
 http://hosting.studioradiomedia.fr:1100/boombox
-# 72FM: https://72fm.com/station/c64a999f-2856-4b99-a34b-dea8bedb663b?source=m3u
-#EXTINF:-1 tvg-logo="https://www.richnigga.wtf/logo.png" group-title="Disco" radio="true",Rich Nigga Radio
-https://richnigga.wtf/radio/stream
 # 72FM: https://72fm.com/station/61df5503-690c-40c9-9d43-82608a4a255d?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.antonioesteve.es/favicon.ico" group-title="Disco" radio="true",Blackstreet Radio
 https://listen.antonioesteve.es/listen/blackstreet_radio/live128.aac
+# 72FM: https://72fm.com/station/e82e3639-bb08-4a6d-b547-9086c54414b8?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Bridge Fm Hungary
+http://eu4.fastcast4u.com:1546/mp3
+# 72FM: https://72fm.com/station/77e4d4b0-2a2b-4360-b894-b5ad33c40474?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-disco_fever-en-mp3.jpg" group-title="Disco" radio="true",Hotmix DIsco Fever
+https://streaming.hotmixradio.com/hotmix-disco-fever-en-mp3?provider=radiobrowser
+# 72FM: https://72fm.com/station/79ed8ddf-5e4d-4f4b-92e9-51dfbf899241?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Kabana Rooftop Marrakech
+https://stream.vibe-stream.com/kabana-rooftop-marrakech.mp3
+# 72FM: https://72fm.com/station/70a5b1c0-0a0f-45a8-8a1b-0fff77ec9113?source=m3u
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/619280b9d1f52300eda755fb/1679806858902-4UBOGCUI4MC18IBXN0TA/NRG+IN+THE+MIX+LOGO+-+MAR+23.png" group-title="Disco" radio="true",100.9 NRG
+https://audio-edge-5r6yd.cdg.o.radiomast.io/b91617ff-71d6-495a-bba0-7256662a37ab
+# 72FM: https://72fm.com/station/8aeaa9b4-9350-4159-9d36-4aa29a2f3ef8?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Celodex Disco Club
+https://radio.celodex.com/stream/disco.mp3
+# 72FM: https://72fm.com/station/b4e554a2-f0d2-449d-99d5-5ba11dc784ff?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",GDS.FM
+https://live.gds.fm/main.mp3
+# 72FM: https://72fm.com/station/fa013712-d04f-4177-8791-244ae49ec5f2?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/118696.v13.png" group-title="Disco" radio="true",Interpretul Buzău FM -Buzău
+http://interpretul.radiofolclorbuzaufm.ro:8910/stream
+# 72FM: https://72fm.com/station/9239cf0b-60a3-4c8d-9daf-cd5ebd3b8c63?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",FUNK and CO Radio
+https://cast1.torontocast.com:1440/stream
+# 72FM: https://72fm.com/station/ffa8dead-f759-4f99-b76b-cfb89a575da3?source=m3u
+#EXTINF:-1 tvg-logo="https://happynessamiens.fr/wp-content/uploads/2025/01/Happyness-Amiens@3x-50.jpg" group-title="Disco" radio="true",Happyness Amiens
+https://azuracast-scrs-2.foxoud.synology.me/listen/happyness_amiens/player
 # 72FM: https://72fm.com/station/40694d2e-2fd1-435f-b672-299a8587a49f?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Hoodoo Radio
 https://s4.radio.co/s76f8b99fc/listen
 # 72FM: https://72fm.com/station/8a4afabd-a6f3-4bae-8c1a-1ffb781b9835?source=m3u
 #EXTINF:-1 tvg-logo="https://playfmdublin.com/wp-content/uploads/2023/08/Fav.jpg" group-title="Disco" radio="true",PlayFm Dublin
 https://stream.playfmdublin.com/radio192.mp3
-# 72FM: https://72fm.com/station/1472dbb5-07d2-4ee0-a26e-d2a16c48233a?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",staronlineradio
-https://strcdn.klm99.com/8100/stream
-# 72FM: https://72fm.com/station/70a5b1c0-0a0f-45a8-8a1b-0fff77ec9113?source=m3u
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/619280b9d1f52300eda755fb/1679806858902-4UBOGCUI4MC18IBXN0TA/NRG+IN+THE+MIX+LOGO+-+MAR+23.png" group-title="Disco" radio="true",100.9 NRG
-https://audio-edge-5r6yd.cdg.o.radiomast.io/b91617ff-71d6-495a-bba0-7256662a37ab
-# 72FM: https://72fm.com/station/9bf76f26-2227-4ba8-9981-1644fdaf5e84?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Fiorda.fm
-http://cast1.torontocast.com:2280/;?type=http&nocache=42
-# 72FM: https://72fm.com/station/9239cf0b-60a3-4c8d-9daf-cd5ebd3b8c63?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",FUNK and CO Radio
-https://cast1.torontocast.com:1440/stream
-# 72FM: https://72fm.com/station/b4e554a2-f0d2-449d-99d5-5ba11dc784ff?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",GDS.FM
-https://live.gds.fm/main.mp3
 # 72FM: https://72fm.com/station/37347263-cb11-479b-8e0b-0ab1f6cf8b85?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtvbStzBwDUnWYoX8UJZQL7tgoSr8IZ6nPN77UMlLpwa-3Sbr6QMg_j4K&s=10" group-title="Disco" radio="true",Radio Bar Sardine
 https://listen.radioking.com/radio/552908/stream/612230
-# 72FM: https://72fm.com/station/e82e3639-bb08-4a6d-b547-9086c54414b8?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Bridge Fm Hungary
-http://eu4.fastcast4u.com:1546/mp3
-# 72FM: https://72fm.com/station/8aeaa9b4-9350-4159-9d36-4aa29a2f3ef8?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Celodex Disco Club
-https://radio.celodex.com/stream/disco.mp3
-# 72FM: https://72fm.com/station/ffa8dead-f759-4f99-b76b-cfb89a575da3?source=m3u
-#EXTINF:-1 tvg-logo="https://happynessamiens.fr/wp-content/uploads/2025/01/Happyness-Amiens@3x-50.jpg" group-title="Disco" radio="true",Happyness Amiens
-https://azuracast-scrs-2.foxoud.synology.me/listen/happyness_amiens/player
-# 72FM: https://72fm.com/station/77e4d4b0-2a2b-4360-b894-b5ad33c40474?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-disco_fever-en-mp3.jpg" group-title="Disco" radio="true",Hotmix DIsco Fever
-https://streaming.hotmixradio.com/hotmix-disco-fever-en-mp3?provider=radiobrowser
-# 72FM: https://72fm.com/station/fa013712-d04f-4177-8791-244ae49ec5f2?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/118696.v13.png" group-title="Disco" radio="true",Interpretul Buzău FM -Buzău
-http://interpretul.radiofolclorbuzaufm.ro:8910/stream
-# 72FM: https://72fm.com/station/07a81af3-003c-4af3-b8eb-a67bd8d1418a?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",FREAKS ONLY FM
-https://streaming.live365.com/a77923
-# 72FM: https://72fm.com/station/b23ba7d7-32b2-418d-9e9b-5b47d7c58130?source=m3u
-#EXTINF:-1 tvg-logo="https://www.exotica.radio/assets/cover-fallback.png" group-title="Disco" radio="true",Exotica Radio
-https://www.exotica.radio/stream/radio-browser
-# 72FM: https://72fm.com/station/9d4ccdcc-e796-4242-8d1d-04a087479b81?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Bridge Fm Hungary
-https://radio.freestream.hu:8340/stream
-# 72FM: https://72fm.com/station/852342df-f50c-4096-9429-8eb36fe96c7a?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",KCRW Danse 24
-https://streams.kcrw.com/10466_256.aac/playlist.m3u8
+# 72FM: https://72fm.com/station/c64a999f-2856-4b99-a34b-dea8bedb663b?source=m3u
+#EXTINF:-1 tvg-logo="https://www.richnigga.wtf/logo.png" group-title="Disco" radio="true",Rich Nigga Radio
+https://richnigga.wtf/radio/stream
+# 72FM: https://72fm.com/station/fae03b86-d61f-4803-a96b-1108d5b922a8?source=m3u
+#EXTINF:-1 tvg-logo="https://player.groovefm.uk/media/logo.png" group-title="Disco" radio="true",Groove FM
+https://groovefm.uk/listen/groove_fm/radio.mp3
 # 72FM: https://72fm.com/station/47ae89d9-4648-4536-b555-4d9be071d966?source=m3u
 #EXTINF:-1 tvg-logo="https://neric-collection.fr/img/neric-logo-512.jpg" group-title="Disco" radio="true",Néric Collection
 https://radio.neric-collection.fr/listen/neric_collection/radio.mp3
+# 72FM: https://72fm.com/station/1b7c3c05-88ce-4cf5-b7fc-f22c368e512c?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Retro Hitz
+https://app.aloncast.com/api/stream/retro-hitz-cb6975
+# 72FM: https://72fm.com/station/97d73cba-05ed-4158-b9c0-e7271ca9979c?source=m3u
+#EXTINF:-1 tvg-logo="https://victoryofart.com/wp-content/uploads/2022/03/Logo-VA.png" group-title="Disco" radio="true",Victory Art Radio
+https://sonic.xservere.net/8150/stream
+# 72FM: https://72fm.com/station/9d4ccdcc-e796-4242-8d1d-04a087479b81?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Bridge Fm Hungary
+https://radio.freestream.hu:8340/stream
+# 72FM: https://72fm.com/station/b23ba7d7-32b2-418d-9e9b-5b47d7c58130?source=m3u
+#EXTINF:-1 tvg-logo="https://www.exotica.radio/assets/cover-fallback.png" group-title="Disco" radio="true",Exotica Radio
+https://www.exotica.radio/stream/radio-browser
+# 72FM: https://72fm.com/station/852342df-f50c-4096-9429-8eb36fe96c7a?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",KCRW Danse 24
+https://streams.kcrw.com/10466_256.aac/playlist.m3u8
+# 72FM: https://72fm.com/station/a9e4278a-1822-412e-9806-f9be04402dd7?source=m3u
+#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/G49swqcLJs8GRdJlPQpgC8YebxH7Mw5Xb-xBoDy7Zw8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNTViZGNlZDYtZjkxNy00ZTc2LWI2YWQtY2FlZjhlMGE2NGI3L2ltYWdlLz91PTE2OTc1NjM5NjUwMDA.webp" group-title="Disco" radio="true",radiohit24
+https://stream.zeno.fm/udoudast0y8vv
+# 72FM: https://72fm.com/station/07a81af3-003c-4af3-b8eb-a67bd8d1418a?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",FREAKS ONLY FM
+https://streaming.live365.com/a77923
 # 72FM: https://72fm.com/station/ac5981d7-857b-41c2-8531-91cd1cfcaaba?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",primavera stereo 88.3 sincelejo
 https://play14.tikast.com:20075/stream?type=http&nocache=9
 # 72FM: https://72fm.com/station/b721d3fd-d4ea-4598-8256-0e59c242df33?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Radio G-FM Nederland
 https://stream.radiogfm.nl:8200/high.aac
-# 72FM: https://72fm.com/station/a9e4278a-1822-412e-9806-f9be04402dd7?source=m3u
-#EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/G49swqcLJs8GRdJlPQpgC8YebxH7Mw5Xb-xBoDy7Zw8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNTViZGNlZDYtZjkxNy00ZTc2LWI2YWQtY2FlZjhlMGE2NGI3L2ltYWdlLz91PTE2OTc1NjM5NjUwMDA.webp" group-title="Disco" radio="true",radiohit24
-https://stream.zeno.fm/udoudast0y8vv
-# 72FM: https://72fm.com/station/1b7c3c05-88ce-4cf5-b7fc-f22c368e512c?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Retro Hitz
-https://app.aloncast.com/api/stream/retro-hitz-cb6975
 # 72FM: https://72fm.com/station/463857e2-ce2d-48a2-802e-49b61ea1c1d0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/547176/resized/180x172c/the_disco_philharmonic.jpg" group-title="Disco" radio="true",The Disco Philharmonic
 http://54.36.165.156:8830/stream/1/
-# 72FM: https://72fm.com/station/97d73cba-05ed-4158-b9c0-e7271ca9979c?source=m3u
-#EXTINF:-1 tvg-logo="https://victoryofart.com/wp-content/uploads/2022/03/Logo-VA.png" group-title="Disco" radio="true",Victory Art Radio
-https://sonic.xservere.net/8150/stream
-# 72FM: https://72fm.com/station/42da1286-57a6-4759-a7f5-b57a83251c36?source=m3u
-#EXTINF:-1 tvg-logo="https://inthemix.at/image.php?object_id=1&object_type=playlist&thumb=11" group-title="Disco" radio="true",DJ SteffE.N. - BigMixes
-http://inthemix.at:8000/bigmixes
-# 72FM: https://72fm.com/station/1f3668e6-b105-414d-8cf3-461c8213469a?source=m3u
-#EXTINF:-1 tvg-logo="https://billing.radioheart.ru/public_pages/logo/1715187160663badd816f19.jpg" group-title="Disco" radio="true",Radio Источник
-http://s0.radioheart.ru:8000/VM73179
+# 72FM: https://72fm.com/station/156839f6-9ac0-431d-bc8d-87d3b9d03d76?source=m3u
+#EXTINF:-1 tvg-logo="https://d4mt18vwj73wk.cloudfront.net/stationImage/2024-01-11T15:30:50Z-1024x1024.jpeg" group-title="Disco" radio="true",The Face Radio
+https://the-face-radio.radiocult.fm/stream
+# 72FM: https://72fm.com/station/abe35b9f-25c0-4aa1-85fd-34c82cad3624?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Radijo stotis Radio3
+https://stream.rcs.revma.com/8cwskd80zxcwv
 # 72FM: https://72fm.com/station/6f1cf727-f501-4755-9d6b-e157aa5338e3?source=m3u
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/0a6qmu.png" group-title="Disco" radio="true",CH16 · Channel Sixteen
 https://stream.channelsixteen.com/listen/ch16/radio.mp3
-# 72FM: https://72fm.com/station/c248706c-69e7-49d6-b5d5-a6df9635c956?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Highway Radio Hits
-https://streaming.live365.com/a61976
-# 72FM: https://72fm.com/station/e4f1fa00-ff0b-429b-9408-d8cbc3983bdb?source=m3u
-#EXTINF:-1 group-title="Disco" radio="true",Fontainblau
-https://listen.radioking.com/radio/866526/stream/936461
+# 72FM: https://72fm.com/station/ae3bf2c4-16bd-45cf-b2cb-804ca470b5a1?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Radio Divjaka HD
+https://stream.zeno.fm/brc5btguqg8uv
+# 72FM: https://72fm.com/station/3ef1104f-2563-4aed-b97b-3453d89dc02b?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Retro FM 90's
+https://playerservices.streamtheworld.com/api/livestream-redirect/RETRO_LATVIJA_FM_70_80_90SAAC.aac
+# 72FM: https://72fm.com/station/af927ce9-35d4-4d98-b36e-0812039bd16d?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",RKNW Pirate Radio
+http://quasar.shoutca.st:8108/stream
+# 72FM: https://72fm.com/station/d7fde6f3-9f1b-4ea3-b50f-f58b26b51165?source=m3u
+#EXTINF:-1 tvg-logo="https://samibiza.com/assets/images/logo-header.png" group-title="Disco" radio="true",SAM Ibiza
+https://stream.aiir.com/a85tlgriuzyuv
+# 72FM: https://72fm.com/station/0a274f0d-e00d-48f5-b207-02ada2d2b7a0?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Авторадио Дискотека 80-х
+https://my.radioprocessor.com:8100/avtoradiolv-disco80s-48.aac
 # 72FM: https://72fm.com/station/3c37f462-2550-46bb-907a-b7f96267fc3f?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Happy Music Radio
 https://nelson.mandelahost.com/proxy/hpxdneuk/stream
+# 72FM: https://72fm.com/station/c248706c-69e7-49d6-b5d5-a6df9635c956?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Highway Radio Hits
+https://streaming.live365.com/a61976
 # 72FM: https://72fm.com/station/4c12c42f-5704-49fb-8401-61b0bd8f7c60?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Kaef FM
 https://stream.kaef.fun/stream
+# 72FM: https://72fm.com/station/1f3668e6-b105-414d-8cf3-461c8213469a?source=m3u
+#EXTINF:-1 tvg-logo="https://billing.radioheart.ru/public_pages/logo/1715187160663badd816f19.jpg" group-title="Disco" radio="true",Radio Источник
+http://s0.radioheart.ru:8000/VM73179
+# 72FM: https://72fm.com/station/42da1286-57a6-4759-a7f5-b57a83251c36?source=m3u
+#EXTINF:-1 tvg-logo="https://inthemix.at/image.php?object_id=1&object_type=playlist&thumb=11" group-title="Disco" radio="true",DJ SteffE.N. - BigMixes
+http://inthemix.at:8000/bigmixes
+# 72FM: https://72fm.com/station/e4f1fa00-ff0b-429b-9408-d8cbc3983bdb?source=m3u
+#EXTINF:-1 group-title="Disco" radio="true",Fontainblau
+https://listen.radioking.com/radio/866526/stream/936461
 # 72FM: https://72fm.com/station/e5edde63-ab19-4b4b-8d88-a6ce749482a1?source=m3u
 #EXTINF:-1 group-title="Disco" radio="true",Melody Soul Connection
 https://n13.rcs.revma.com/m59b5ub8203vv?

@@ -1,0 +1,15 @@
+SiiNunit
+{
+live_stream_def : .live_streams {
+ stream_data: 8
+ stream_data[0]: "http://s10.voscast.com:8202/stream|One Radio|Various|MAL|128|0"
+ stream_data[1]: "http://dreamsiteradiocp.com:8102/|Radju Maria Malta|Various|MAL|32|0"
+ stream_data[2]: "http://dreamsiteradiocp.com:8102/stream|RADJU MARIJA MALTA|Catholic|MAL|32|0"
+ stream_data[3]: "https://stream.v3.network/proxy/easy/stream.mp3|Bay Easy 100.2|Various|MT|256|0"
+ stream_data[4]: "https://stream.v3.network/proxy/897bay/stream.mp3?_=1|Bay 89.7|Various|MT|256|0"
+ stream_data[5]: "https://campusfm.radioca.st/campusfm_live|Campus 103.7|Various|MT|192|0"
+ stream_data[6]: "http://philae.shoutca.st:8402/stream?type=http&nocache=165|Christmas Radio Malta|Various|MT|320|0"
+ stream_data[7]: "https://stream.v3.network/proxy/897bay/stream.mp3|89.7 Bay|Various|MT|256|0"
+}
+
+}
