@@ -9,6 +9,8 @@ import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
+import { siiFile, truckSimEntry } from './truck-sim.mjs';
+
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const MIRRORS = [
   'https://de1.api.radio-browser.info',
@@ -25,6 +27,9 @@ const SITE = 'https://72fm.com';
 
 const MIN_COUNTRY_STATIONS = 5;
 const PER_FILE_CAP = 300;
+// Euro Truck Simulator 2 / American Truck Simulator lists: the most-voted stations the game can play.
+const ETS2_CAP = 100;
+const MIN_ETS2_STATIONS = 5;
 const TOP_N = 500;
 const GENRE_COUNT = 60;
 const MIN_GENRE_STATIONS = 10;
@@ -336,6 +341,7 @@ function normalise(raw) {
         .split(',')
         .map((t) => cleanText(t, MAX_TAG_LEN))
         .filter(Boolean),
+      language: cleanText(st.language, 40),
       votes: Number(st.votes) || 0,
       clicks: Number(st.clickcount) || 0,
       codec: /^[A-Za-z0-9+ .-]{1,16}$/.test(String(st.codec ?? '').trim()) &&
@@ -429,11 +435,50 @@ function assertM3u(title, body, expectedEntries) {
   if (entries !== expectedEntries) fail(`expected ${expectedEntries} entries, found ${entries}`);
 }
 
+/** The genre written into the game's list: the first tag that says something. */
+function ets2Genre(tags) {
+  return tags.find((t) => /\p{L}{3}/u.test(t) && !/^(fm|am|radio|online|internet|music|web|live|stream|\d+\s?k(bps)?)$/i.test(t)) || '';
+}
+
+/** The most-voted stations of a list that Euro Truck Simulator 2 and American Truck Simulator can play. */
+function ets2Entries(list, cap = ETS2_CAP) {
+  const out = [];
+  for (const s of list) {
+    const e = truckSimEntry({
+      name: s.name, streamUrl: s.url, codec: s.codec || '', genre: ets2Genre(s.tags),
+      language: s.language, countryCode: s.cc || '', bitrate: s.bitrate ?? 0,
+    });
+    if (e) out.push(e);
+    if (out.length >= cap) break;
+  }
+  return out;
+}
+
+/** Last line of defence for live_streams.sii: exact header, printable ASCII, lines numbered 0..n-1 under a count of n. */
+function assertSii(title, body, expectedEntries) {
+  const fail = (why) => {
+    throw new Error(`Refusing to write "${title}": ${why}`);
+  };
+  if (/[^\x20-\x7e\r\n]/.test(body)) fail('a character outside printable ASCII');
+  const lines = body.split('\r\n');
+  if (lines.slice(0, 4).join('|') !== `SiiNunit|{|live_stream_def : .live_streams {| stream_data: ${expectedEntries}`) fail('bad header');
+  if (lines.slice(-4).join('|') !== '}||}|') fail('bad ending');
+  const rows = lines.slice(4, -4);
+  if (rows.length !== expectedEntries) fail(`expected ${expectedEntries} lines, found ${rows.length}`);
+  rows.forEach((line, i) => {
+    if (!new RegExp(`^ stream_data\\[${i}\\]: "https?://[^"|\\s]+\\|[^"|]+\\|[^"|]+\\|[A-Z]{2,3}\\|\\d{1,3}\\|[01]"$`).test(line)) fail(`malformed line ${i}: ${line.slice(0, 80)}`);
+  });
+  return body;
+}
+
 async function writeDir(dir, files) {
   const abs = join(ROOT, dir);
   await rm(abs, { recursive: true, force: true });
   await mkdir(abs, { recursive: true });
-  for (const [name, body] of files) await writeFile(join(abs, name), body);
+  for (const [name, body] of files) {
+    await mkdir(dirname(join(abs, name)), { recursive: true });
+    await writeFile(join(abs, name), body);
+  }
 }
 
 // README cells: names come from a community directory, so neutralise anything markdown or HTML would act on.
@@ -516,6 +561,17 @@ async function main() {
     });
   }
 
+  // Euro Truck Simulator 2 / American Truck Simulator: one live_streams.sii per country
+  const ets2Files = [];
+  for (const p of playlists) {
+    if (p.type !== 'country') continue;
+    const entries = ets2Entries(byCountry.get(p.id.toUpperCase()) || []);
+    if (entries.length < MIN_ETS2_STATIONS) continue;
+    const path = `${p.id}/live_streams.sii`;
+    ets2Files.push([path, assertSii(`ETS2 ${p.name}`, siiFile(entries), entries.length)]);
+    p.ets2 = { stations: entries.length, path: `ets2/${path}`, url: `${RAW_BASE}/ets2/${path}` };
+  }
+
   // Genres
   const ranked = GENRES.map(([slug, name, aliases]) => {
     const set = new Set(aliases);
@@ -569,6 +625,7 @@ async function main() {
   await writeDir('countries', countryFiles);
   await writeDir('genres', genreFiles);
   await writeDir('top', topFiles);
+  await writeDir('ets2', ets2Files);
 
   const generated = new Date().toISOString().slice(0, 10);
   const index = {
@@ -584,11 +641,13 @@ async function main() {
       sort: 'votes desc, then clickcount desc',
       per_file_cap: PER_FILE_CAP,
       min_country_stations: MIN_COUNTRY_STATIONS,
+      ets2: `per country, up to ${ETS2_CAP} most-voted MP3 or Ogg stations as a live_streams.sii for Euro Truck Simulator 2 and American Truck Simulator; AAC, playlist addresses and https on ports other than 443 are left out`,
     },
     totals: {
       working_unique_stations: stations.length,
       countries: countryFiles.length,
       genres: genreFiles.length,
+      ets2_countries: ets2Files.length,
     },
     playlists,
   };
@@ -597,7 +656,7 @@ async function main() {
   const pageCount = await writeSite(index, entriesOf);
 
   process.stderr.write(
-    `Done: ${countryFiles.length} countries, ${genreFiles.length} genres, top ${top.length}. ` +
+    `Done: ${countryFiles.length} countries, ${genreFiles.length} genres, top ${top.length}, ${ets2Files.length} ETS2 lists. ` +
       `${stations.length} working unique stations. docs/: ${pageCount} HTML pages.\n`,
   );
 }
@@ -737,10 +796,20 @@ ${link72}
 </div>
 <p class="muted">In VLC: Media → Open Network Stream and paste the playlist link. With mpv:</p>
 <pre><code>mpv ${esc(p.url)}</code></pre>
+${p.ets2 ? ets2Block(p) : ''}
 <h2>Stations (${fmtInt(entries.length)})</h2>
 ${stationTable(entries)}
 ${footerHtml(generated)}`;
   return { path, html: htmlPage({ title, description, canonical, body }) };
+}
+
+function ets2Block(p) {
+  return `<h2>Euro Truck Simulator 2 and American Truck Simulator</h2>
+<p>A ready-made <code>live_streams.sii</code> with the ${fmtInt(p.ets2.stations)} most-voted stations from ${esc(p.name)} that the games can play
+(MP3 and Ogg streams). Rename the file already in your <code>Documents/Euro Truck Simulator 2</code> (or <code>American Truck Simulator</code>) folder,
+put this one in its place, and the stations appear in the game's internet radio.</p>
+<div class="actions"><a class="btn" href="${esc(p.ets2.url)}">Download live_streams.sii</a>
+<a class="cta" href="${SITE}/ets2-ats-radio-stations">Pick your own stations on 72FM →</a></div>`;
 }
 
 /** The worldwide list gets a page of its own: it is the one people ask for most, and it shows the country. */
@@ -820,6 +889,7 @@ Streams go offline or move between checks, so some entries will not play.</p>
 <pre><code>mpv ${esc(ex)}</code></pre>
 <p><strong>Command line download:</strong></p>
 <pre><code>curl -LO ${esc(RAW_BASE)}/genres/jazz.m3u</code></pre>
+<p><strong>Euro Truck Simulator 2 and American Truck Simulator:</strong> each country page also has a ready-made <code>live_streams.sii</code> for the game's internet radio, with only the stations the game can play (MP3 and Ogg). To choose your own stations, use the <a href="${SITE}/ets2-ats-radio-stations">ETS2 and ATS radio list builder on 72FM</a>.</p>
 <p>More player notes (pyradio, Home Assistant, ESP32 and Raspberry Pi) are in the <a href="${REPO_URL}#how-to-use">README</a>.</p>
 <h2 id="genres">Genres</h2>
 <p class="muted">“300 of 1,234” means the playlist holds the ${PER_FILE_CAP} most-voted of that many matching stations.</p>
@@ -904,7 +974,7 @@ function readme(index, _fromSitemap) {
   const countryRows = countries
     .map(
       (p) =>
-        `| ${p.flag} | [${mdEscape(p.name)}](${PAGES_BASE}country/${p.id}/) | ${p.stations}${p.stations_available > p.stations ? ` of ${p.stations_available}` : ''} | [${p.id}.m3u](${p.url}) | ${
+        `| ${p.flag} | [${mdEscape(p.name)}](${PAGES_BASE}country/${p.id}/) | ${p.stations}${p.stations_available > p.stations ? ` of ${p.stations_available}` : ''} | [${p.id}.m3u](${p.url}) | ${p.ets2 ? `[live_streams.sii](${p.ets2.url})` : '—'} | ${
           p.page_72fm ? `[72fm.com/radio/${p.id}](${p.page_72fm})` : '—'
         } |`,
     )
@@ -938,6 +1008,16 @@ Listen in the browser, no install: **https://72fm.com**
 - [radio-player-72fm](https://github.com/AlonDrilich/radio-player-72fm): a WordPress plugin that puts a station's player on any post or page.
 - [Radio stream URL finder](https://72fm.com/radio-stream-url-finder): type a station's name, get the address of its stream to copy or download as a one-station .m3u.
 - [72FM radio widget](https://72fm.com/radio-widget): copy-and-paste player for any website. All tools: [72fm.com/developers](https://72fm.com/developers).
+
+## Euro Truck Simulator 2 and American Truck Simulator
+
+Every country also gets a ready-made \`live_streams.sii\` for the games' internet radio, in
+[\`ets2/<country>/\`](ets2/): up to ${ETS2_CAP} of its most-voted stations, and only ones the games can
+play (MP3 and Ogg streams; AAC stations, playlist addresses and https on unusual ports are left out).
+Rename the \`live_streams.sii\` in your \`Documents/Euro Truck Simulator 2\` (or
+\`American Truck Simulator\`) folder, put the downloaded one in its place, and start the game.
+The **ETS2 / ATS** column in the country table below links each file. To pick your own stations from
+several countries, use the [ETS2 and ATS radio list builder](https://72fm.com/ets2-ats-radio-stations).
 
 ## Mentioned in
 
@@ -1059,8 +1139,8 @@ ${genreRows}
 
 ## Countries
 
-| | Country | Stations | Playlist | Listen on 72FM |
-|---|---|---|---|---|
+| | Country | Stations | Playlist | ETS2 / ATS | Listen on 72FM |
+|---|---|---|---|---|---|
 ${countryRows}
 
 ## Build it yourself
@@ -1092,7 +1172,7 @@ Made by [72FM](https://72fm.com), a free web radio player built on the same dire
 `;
 }
 
-export { assertM3u, cleanText, guardAgainstShrink, mdEscape, m3u, normalise, safeUrl };
+export { assertM3u, assertSii, cleanText, ets2Entries, guardAgainstShrink, mdEscape, m3u, normalise, safeUrl };
 
 // Run the build only when executed directly, so scripts/build.test.mjs can import the helpers.
 if (process.argv[1] === fileURLToPath(import.meta.url)) {

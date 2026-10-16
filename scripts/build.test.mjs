@@ -4,7 +4,8 @@ import assert from 'node:assert/strict';
 import { mkdtemp, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { assertM3u, cleanText, guardAgainstShrink, m3u, mdEscape, normalise, safeUrl } from './build.mjs';
+import { assertM3u, assertSii, cleanText, ets2Entries, guardAgainstShrink, m3u, mdEscape, normalise, safeUrl } from './build.mjs';
+import { siiFile } from './truck-sim.mjs';
 
 const U = (n) => `00000000-0000-4000-8000-${String(n).padStart(12, '0')}`;
 const st = (over) => ({
@@ -117,4 +118,25 @@ test('guardAgainstShrink: unreadable or malformed previous index is an error, AL
   await writeFile(prev, JSON.stringify({ totals: { working_unique_stations: 48000, countries: 167, genres: 60 } }));
   process.env.ALLOW_SHRINK = '1';
   try { await guardAgainstShrink({ working_unique_stations: 100, countries: 1, genres: 1 }, prev); } finally { delete process.env.ALLOW_SHRINK; }
+});
+
+test('ets2Entries keeps only stations the truck games play, most-voted first, and assertSii accepts the file', () => {
+  const list = normalise([
+    st({ stationuuid: U(1), name: 'Radio Bob!', url: 'http://a.example.com/bob', votes: 50, tags: 'rock,fm', language: 'german' }),
+    st({ stationuuid: U(2), name: 'AAC One', url: 'http://a.example.com/aac', codec: 'AAC', votes: 40 }),
+    st({ stationuuid: U(3), name: 'HLS One', url: 'http://a.example.com/live/index.m3u8', votes: 30 }),
+    st({ stationuuid: U(4), name: 'Odd Port', url: 'https://a.example.com:8443/live', votes: 20 }),
+    st({ stationuuid: U(5), name: 'Énergie', url: 'https://b.example.com/nrj.ogg', codec: 'OGG', votes: 10, tags: '', language: '' }),
+    st({ stationuuid: U(6), name: 'Mystery', url: 'http://c.example.com/x', codec: 'UNKNOWN', votes: 5 }),
+  ]);
+  const entries = ets2Entries(list);
+  assert.deepEqual(entries.map((e) => e.name), ['Radio Bob!', 'Energie']);
+  assert.equal(entries[0].genre, 'Rock');
+  assert.equal(entries[0].language, 'GER');
+  assert.equal(entries[1].language, 'DE');
+  const body = siiFile(entries);
+  assert.equal(assertSii('t', body, 2), body);
+  assert.throws(() => assertSii('t', body, 3), /Refusing/);
+  assert.throws(() => assertSii('t', body.replace('stream_data[1]', 'stream_data[2]'), 2), /malformed line 1/);
+  assert.throws(() => assertSii('t', body.replace('Energie', 'Énergie'), 2), /printable ASCII/);
 });
