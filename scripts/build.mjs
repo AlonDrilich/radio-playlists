@@ -10,6 +10,8 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { siiFile, truckSimEntry } from './truck-sim.mjs';
+import { farmSimFile, farmSimProblem } from './farm-sim.mjs';
+import { gmodPlaylist, gmodProblem } from './gmod-radio.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const MIRRORS = [
@@ -30,6 +32,9 @@ const PER_FILE_CAP = 300;
 // Euro Truck Simulator 2 / American Truck Simulator lists: the most-voted stations the game can play.
 const ETS2_CAP = 100;
 const MIN_ETS2_STATIONS = 5;
+// The same for Farming Simulator 25/22 (streamingInternetRadios.xml, MP3 only) and Garry's Mod's
+// 3D Stream Radio (a PLS playlist saved as <name>_pls.txt; MP3, OGG, AAC and FLAC).
+const GAME_CAP = 100;
 const TOP_N = 500;
 const GENRE_COUNT = 60;
 const MIN_GENRE_STATIONS = 10;
@@ -454,6 +459,45 @@ function ets2Entries(list, cap = ETS2_CAP) {
   return out;
 }
 
+/** The most-voted stations of a list that a game's rule accepts, as { name, streamUrl, codec }. */
+function gameEntries(list, problem, cap = GAME_CAP) {
+  const out = [];
+  for (const s of list) {
+    if (problem(s.url, s.codec || '')) continue;
+    out.push({ name: s.name, streamUrl: s.url, codec: s.codec || '' });
+    if (out.length >= cap) break;
+  }
+  return out;
+}
+
+/** Last line of defence for streamingInternetRadios.xml: header, n station lines, closing tag, nothing else. */
+function assertFarmXml(title, body, expectedEntries) {
+  const fail = (why) => { throw new Error(`Refusing to write "${title}": ${why}`); };
+  const lines = body.split('\r\n');
+  if (lines[0] !== '<?xml version="1.0" encoding="utf-8" standalone="no" ?>' || lines[1] !== '<streamingInternetRadios>') fail('bad header');
+  if (lines.at(-2) !== '</streamingInternetRadios>' || lines.at(-1) !== '') fail('bad ending');
+  const rows = lines.slice(2, -2);
+  const stations = rows.filter((l) => /^    <streamingInternetRadio href="https?:\/\/[^"<>\s]+" \/>$/.test(l)).length;
+  if (stations !== expectedEntries) fail(`expected ${expectedEntries} stations, found ${stations}`);
+  if (rows.some((l) => !/^    <streamingInternetRadio href="[^"]+" \/>$/.test(l) && !/^    <!-- (?:(?!--).)* -->$/.test(l))) fail('unexpected line');
+  return body;
+}
+
+/** Last line of defence for a 3D Stream Radio PLS playlist. */
+function assertGmodPls(title, body, expectedEntries) {
+  const fail = (why) => { throw new Error(`Refusing to write "${title}": ${why}`); };
+  const lines = body.split('\r\n');
+  if (lines[0] !== '[playlist]' || lines[1] !== `NumberOfEntries=${expectedEntries}`) fail('bad header');
+  if (lines.at(-2) !== 'Version=2' || lines.at(-1) !== '') fail('bad ending');
+  const rows = lines.slice(2, -2);
+  if (rows.length !== expectedEntries * 3) fail(`expected ${expectedEntries * 3} lines, found ${rows.length}`);
+  for (let i = 0; i < expectedEntries; i++) {
+    const n = i + 1;
+    if (!new RegExp(`^File${n}=https?://\\S+$`).test(rows[i * 3]) || !new RegExp(`^Title${n}=.+$`).test(rows[i * 3 + 1]) || rows[i * 3 + 2] !== `Length${n}=-1`) fail(`malformed entry ${n}`);
+  }
+  return body;
+}
+
 /** Last line of defence for live_streams.sii: exact header, printable ASCII, lines numbered 0..n-1 under a count of n. */
 function assertSii(title, body, expectedEntries) {
   const fail = (why) => {
@@ -572,6 +616,26 @@ async function main() {
     p.ets2 = { stations: entries.length, path: `ets2/${path}`, url: `${RAW_BASE}/ets2/${path}` };
   }
 
+  // Farming Simulator and Garry's Mod: one file per country each
+  const farmFiles = [];
+  const gmodFiles = [];
+  for (const p of playlists) {
+    if (p.type !== 'country') continue;
+    const list = byCountry.get(p.id.toUpperCase()) || [];
+    const farm = gameEntries(list, farmSimProblem);
+    if (farm.length >= MIN_ETS2_STATIONS) {
+      const path = `${p.id}/streamingInternetRadios.xml`;
+      farmFiles.push([path, assertFarmXml(`Farming Simulator ${p.name}`, farmSimFile(farm), farm.length)]);
+      p.farming_simulator = { stations: farm.length, path: `farming-simulator/${path}`, url: `${RAW_BASE}/farming-simulator/${path}` };
+    }
+    const gmod = gameEntries(list, gmodProblem);
+    if (gmod.length >= MIN_ETS2_STATIONS) {
+      const path = `${p.id}-radio_pls.txt`;
+      gmodFiles.push([path, assertGmodPls(`Garry's Mod ${p.name}`, gmodPlaylist(gmod), gmod.length)]);
+      p.garrys_mod = { stations: gmod.length, path: `garrys-mod/${path}`, url: `${RAW_BASE}/garrys-mod/${path}` };
+    }
+  }
+
   // Genres
   const ranked = GENRES.map(([slug, name, aliases]) => {
     const set = new Set(aliases);
@@ -626,6 +690,8 @@ async function main() {
   await writeDir('genres', genreFiles);
   await writeDir('top', topFiles);
   await writeDir('ets2', ets2Files);
+  await writeDir('farming-simulator', farmFiles);
+  await writeDir('garrys-mod', gmodFiles);
 
   const generated = new Date().toISOString().slice(0, 10);
   const index = {
@@ -648,6 +714,8 @@ async function main() {
       countries: countryFiles.length,
       genres: genreFiles.length,
       ets2_countries: ets2Files.length,
+      farming_simulator_countries: farmFiles.length,
+      garrys_mod_countries: gmodFiles.length,
     },
     playlists,
   };
@@ -656,7 +724,7 @@ async function main() {
   const pageCount = await writeSite(index, entriesOf);
 
   process.stderr.write(
-    `Done: ${countryFiles.length} countries, ${genreFiles.length} genres, top ${top.length}, ${ets2Files.length} ETS2 lists. ` +
+    `Done: ${countryFiles.length} countries, ${genreFiles.length} genres, top ${top.length}, ${ets2Files.length} ETS2, ${farmFiles.length} Farming Simulator and ${gmodFiles.length} Garry's Mod lists. ` +
       `${stations.length} working unique stations. docs/: ${pageCount} HTML pages.\n`,
   );
 }
@@ -796,20 +864,38 @@ ${link72}
 </div>
 <p class="muted">In VLC: Media → Open Network Stream and paste the playlist link. With mpv:</p>
 <pre><code>mpv ${esc(p.url)}</code></pre>
-${p.ets2 ? ets2Block(p) : ''}
+${p.ets2 || p.farming_simulator || p.garrys_mod ? gameBlock(p) : ''}
 <h2>Stations (${fmtInt(entries.length)})</h2>
 ${stationTable(entries)}
 ${footerHtml(generated)}`;
   return { path, html: htmlPage({ title, description, canonical, body }) };
 }
 
-function ets2Block(p) {
-  return `<h2>Euro Truck Simulator 2 and American Truck Simulator</h2>
-<p>A ready-made <code>live_streams.sii</code> with the ${fmtInt(p.ets2.stations)} most-voted stations from ${esc(p.name)} that the games can play
-(MP3 and Ogg streams). Rename the file already in your <code>Documents/Euro Truck Simulator 2</code> (or <code>American Truck Simulator</code>) folder,
-put this one in its place, and the stations appear in the game's internet radio.</p>
+function gameBlock(p) {
+  const parts = [];
+  if (p.ets2) {
+    parts.push(`<h3>Euro Truck Simulator 2 and American Truck Simulator</h3>
+<p>A <code>live_streams.sii</code> with the ${fmtInt(p.ets2.stations)} most-voted stations from ${esc(p.name)} that the games can play (MP3 and Ogg).
+Rename the file already in your <code>Documents/Euro Truck Simulator 2</code> (or <code>American Truck Simulator</code>) folder and put this one in its place.</p>
 <div class="actions"><a class="btn" href="${esc(p.ets2.url)}">Download live_streams.sii</a>
-<a class="cta" href="${SITE}/ets2-ats-radio-stations">Pick your own stations on 72FM →</a></div>`;
+<a class="cta" href="${SITE}/ets2-ats-radio-stations">Pick your own stations on 72FM →</a></div>`);
+  }
+  if (p.farming_simulator) {
+    parts.push(`<h3>Farming Simulator 25 and 22</h3>
+<p>A <code>streamingInternetRadios.xml</code> with ${fmtInt(p.farming_simulator.stations)} MP3 stations from ${esc(p.name)}. It goes in
+<code>Documents/My Games/FarmingSimulator2025/music</code> (<code>FarmingSimulator2022</code> for Farming Simulator 22); keep a copy of the file already there.</p>
+<div class="actions"><a class="btn" href="${esc(p.farming_simulator.url)}">Download streamingInternetRadios.xml</a>
+<a class="cta" href="${SITE}/farming-simulator-radio-stations">Pick your own stations on 72FM →</a></div>`);
+  }
+  if (p.garrys_mod) {
+    parts.push(`<h3>Garry's Mod (3D Stream Radio)</h3>
+<p>A playlist with ${fmtInt(p.garrys_mod.stations)} stations from ${esc(p.name)} for a server's <code>garrysmod/data/streamradio/playlists</code> folder; keep the
+<code>_pls.txt</code> ending. On a multiplayer server the radio plays only addresses in these playlists, so the file also whitelists the stations
+(run <code>sv_streamradio_url_whitelist_reload</code> after adding it).</p>
+<div class="actions"><a class="btn" href="${esc(p.garrys_mod.url)}">Download the playlist</a>
+<a class="cta" href="${SITE}/garrys-mod-radio-stations">Pick your own stations on 72FM →</a></div>`);
+  }
+  return `<h2>Radio files for games</h2>\n${parts.join('\n')}`;
 }
 
 /** The worldwide list gets a page of its own: it is the one people ask for most, and it shows the country. */
@@ -890,7 +976,7 @@ Streams go offline or move between checks, so some entries will not play.</p>
 <p><strong>Command line download:</strong></p>
 <pre><code>curl -LO ${esc(RAW_BASE)}/genres/jazz.m3u</code></pre>
 <p><strong>WiiM:</strong> in the WiiM Home app, Browse → Open Network Stream → Import Streams takes a downloaded <code>.m3u</code> file as a list of stations (<a href="${SITE}/guide/wiim-add-radio-station">step by step</a>).</p>
-<p><strong>Euro Truck Simulator 2 and American Truck Simulator:</strong> each country page also has a ready-made <code>live_streams.sii</code> for the game's internet radio, with only the stations the game can play (MP3 and Ogg). To choose your own stations, use the <a href="${SITE}/ets2-ats-radio-stations">ETS2 and ATS radio list builder on 72FM</a>.</p>
+<p><strong>Games:</strong> each country page also has ready-made radio files for Euro Truck Simulator 2 and American Truck Simulator (<code>live_streams.sii</code>), Farming Simulator 25 and 22 (<code>streamingInternetRadios.xml</code>) and Garry's Mod's 3D Stream Radio (a <code>_pls.txt</code> playlist), each with only stations the game can play. To choose your own stations, use 72FM's builders for <a href="${SITE}/ets2-ats-radio-stations">ETS2 and ATS</a>, <a href="${SITE}/farming-simulator-radio-stations">Farming Simulator</a> and <a href="${SITE}/garrys-mod-radio-stations">Garry's Mod</a>.</p>
 <p>More player notes (pyradio, Home Assistant, ESP32 and Raspberry Pi) are in the <a href="${REPO_URL}#how-to-use">README</a>.</p>
 <h2 id="genres">Genres</h2>
 <p class="muted">“300 of 1,234” means the playlist holds the ${PER_FILE_CAP} most-voted of that many matching stations.</p>
@@ -1019,6 +1105,18 @@ Rename the \`live_streams.sii\` in your \`Documents/Euro Truck Simulator 2\` (or
 \`American Truck Simulator\`) folder, put the downloaded one in its place, and start the game.
 The **ETS2 / ATS** column in the country table below links each file. To pick your own stations from
 several countries, use the [ETS2 and ATS radio list builder](https://72fm.com/ets2-ats-radio-stations).
+
+## Farming Simulator and Garry's Mod
+
+The same weekly build also writes, per country:
+
+- [\`farming-simulator/<country>/streamingInternetRadios.xml\`](farming-simulator/): up to ${GAME_CAP} MP3 stations for
+  Farming Simulator 25 and 22. Put it in \`Documents/My Games/FarmingSimulator2025/music\` (keep a copy of the file
+  already there). Builder: [72fm.com/farming-simulator-radio-stations](https://72fm.com/farming-simulator-radio-stations).
+- [\`garrys-mod/<country>-radio_pls.txt\`](garrys-mod/): a 3D Stream Radio playlist (MP3, OGG, AAC, FLAC) for a server's
+  \`garrysmod/data/streamradio/playlists\` folder. On multiplayer the radio plays only addresses in these playlists, so the
+  file also whitelists the stations; run \`sv_streamradio_url_whitelist_reload\` after adding it. Builder:
+  [72fm.com/garrys-mod-radio-stations](https://72fm.com/garrys-mod-radio-stations).
 
 ## Mentioned in
 
@@ -1177,7 +1275,7 @@ Made by [72FM](https://72fm.com), a free web radio player built on the same dire
 `;
 }
 
-export { assertM3u, assertSii, cleanText, ets2Entries, guardAgainstShrink, mdEscape, m3u, normalise, safeUrl };
+export { assertFarmXml, assertGmodPls, assertM3u, assertSii, cleanText, ets2Entries, gameEntries, guardAgainstShrink, mdEscape, m3u, normalise, safeUrl };
 
 // Run the build only when executed directly, so scripts/build.test.mjs can import the helpers.
 if (process.argv[1] === fileURLToPath(import.meta.url)) {

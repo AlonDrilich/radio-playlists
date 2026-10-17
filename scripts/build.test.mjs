@@ -4,7 +4,9 @@ import assert from 'node:assert/strict';
 import { mkdtemp, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { assertM3u, assertSii, cleanText, ets2Entries, guardAgainstShrink, m3u, mdEscape, normalise, safeUrl } from './build.mjs';
+import { assertFarmXml, assertGmodPls, assertM3u, assertSii, cleanText, ets2Entries, gameEntries, guardAgainstShrink, m3u, mdEscape, normalise, safeUrl } from './build.mjs';
+import { farmSimFile, farmSimProblem } from './farm-sim.mjs';
+import { gmodPlaylist, gmodProblem } from './gmod-radio.mjs';
 import { siiFile } from './truck-sim.mjs';
 
 const U = (n) => `00000000-0000-4000-8000-${String(n).padStart(12, '0')}`;
@@ -139,4 +141,25 @@ test('ets2Entries keeps only stations the truck games play, most-voted first, an
   assert.throws(() => assertSii('t', body, 3), /Refusing/);
   assert.throws(() => assertSii('t', body.replace('stream_data[1]', 'stream_data[2]'), 2), /malformed line 1/);
   assert.throws(() => assertSii('t', body.replace('Energie', 'Énergie'), 2), /printable ASCII/);
+});
+
+test('Farming Simulator and Garry\'s Mod files: only stations each game takes, and the guards accept them', () => {
+  const list = normalise([
+    st({ stationuuid: U(1), name: 'Radio One', url: 'http://a.example.com/one.mp3', votes: 50 }),
+    st({ stationuuid: U(2), name: 'AAC One', url: 'http://a.example.com/aac', codec: 'AAC', votes: 40 }),
+    st({ stationuuid: U(3), name: 'Ogg One', url: 'http://a.example.com/ogg', codec: 'OGG', votes: 30 }),
+    st({ stationuuid: U(4), name: 'HE-AAC', url: 'http://a.example.com/he', codec: 'AAC+', votes: 20 }),
+    st({ stationuuid: U(5), name: 'Odd & "quoted" -- name', url: 'http://b.example.com/x.mp3?a=1&b=2', votes: 10 }),
+  ]);
+  const farm = gameEntries(list, farmSimProblem);
+  assert.deepEqual(farm.map((e) => e.name), ['Radio One', "Odd & 'quoted' -- name"]);
+  const xml = farmSimFile(farm);
+  assert.equal(assertFarmXml('t', xml, 2), xml);
+  assert.match(xml, /href="http:\/\/b\.example\.com\/x\.mp3\?a=1&amp;b=2"/);
+  assert.throws(() => assertFarmXml('t', xml, 3), /Refusing/);
+  const gmod = gameEntries(list, gmodProblem);
+  assert.deepEqual(gmod.map((e) => e.name), ['Radio One', 'AAC One', 'Ogg One', "Odd & 'quoted' -- name"]);
+  const pls = gmodPlaylist(gmod);
+  assert.equal(assertGmodPls('t', pls, 4), pls);
+  assert.throws(() => assertGmodPls('t', pls.replace('File2=', 'File9='), 4), /malformed entry 2/);
 });
