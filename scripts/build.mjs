@@ -889,6 +889,7 @@ Streams go offline or move between checks, so some entries will not play.</p>
 <pre><code>mpv ${esc(ex)}</code></pre>
 <p><strong>Command line download:</strong></p>
 <pre><code>curl -LO ${esc(RAW_BASE)}/genres/jazz.m3u</code></pre>
+<p><strong>WiiM:</strong> in the WiiM Home app, Browse → Open Network Stream → Import Streams takes a downloaded <code>.m3u</code> file as a list of stations (<a href="${SITE}/guide/wiim-add-radio-station">step by step</a>).</p>
 <p><strong>Euro Truck Simulator 2 and American Truck Simulator:</strong> each country page also has a ready-made <code>live_streams.sii</code> for the game's internet radio, with only the stations the game can play (MP3 and Ogg). To choose your own stations, use the <a href="${SITE}/ets2-ats-radio-stations">ETS2 and ATS radio list builder on 72FM</a>.</p>
 <p>More player notes (pyradio, Home Assistant, ESP32 and Raspberry Pi) are in the <a href="${REPO_URL}#how-to-use">README</a>.</p>
 <h2 id="genres">Genres</h2>
@@ -1110,6 +1111,10 @@ URL from a playlist and call \`media_player.play_media\` with
 \`media_content_type: music\` and \`media_content_id: <stream URL>\`.
 
 More: [Home Assistant radio guide](https://72fm.com/guide/home-assistant-radio).
+
+**WiiM** – in the WiiM Home app, open **Browse → Open Network Stream → Import Streams**
+and pick a playlist you downloaded to your phone; WiiM imports \`.m3u\` files as a list of
+stations. Step-by-step: [72fm.com/guide/wiim-add-radio-station](https://72fm.com/guide/wiim-add-radio-station).
 
 **ESP32 / Raspberry Pi radios** – fetch a playlist over HTTP and take every line
 that does not start with \`#\` as a stream URL (the preceding \`#EXTINF\` line has the
