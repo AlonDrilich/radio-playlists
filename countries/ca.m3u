@@ -39,7 +39,7 @@ https://maggie.torontocast.com:2020/stream/100greatestofthe80s
 https://maggie.torontocast.com:2020/stream/vibrazionirockradio
 # 72FM: https://72fm.com/station/9644c8f4-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",CTV News Audio Channel
-http://29324.live.streamtheworld.com:3690/TV_CTV_NEWSAAC_SC
+http://26103.live.streamtheworld.com/TV_CTV_NEWSAAC_SC
 # 72FM: https://72fm.com/station/95277bca-2c9a-4c08-b2e7-0854e5793f8e?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",Nature Radio Rain
 https://maggie.torontocast.com:2020/stream/natureradiorain
@@ -373,12 +373,12 @@ https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunkl
 # 72FM: https://72fm.com/station/331a9314-f71a-43da-99b6-88ce75fd1d62?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",Labgate - Alt Rock Grunge
 https://s2.ssl-stream.com/radio/8190/radio.mp3
-# 72FM: https://72fm.com/station/9630feb0-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Canada" radio="true",Power92 FM
-http://s12.myradiostream.com:5608/stream
 # 72FM: https://72fm.com/station/0c8e3629-39c2-4d22-9fcf-bf8353e13584?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",Ottawa Hot 89.9 (CIHTFM)
 https://newcap.leanstream.co/CIHTFM?args=web_01
+# 72FM: https://72fm.com/station/9630feb0-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Canada" radio="true",Power92 FM
+http://s12.myradiostream.com:5608/stream
 # 72FM: https://72fm.com/station/96182301-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",CIUT 89.5 University of Toronto
 http://128.100.197.46/
@@ -445,9 +445,6 @@ https://vistaradio.streamb.live/SB00074
 # 72FM: https://72fm.com/station/0f698716-e79e-4a8d-9013-72c51d5aa5f3?source=m3u
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/wzukusers/user-27172421/images/fav-6a63dee4b19e4b57a9038cc5f853f41a/apple-touch-icon-120x120.png?v=fav-6a63dee4b19e4b57a9038cc5f853f41a" group-title="Canada" radio="true",chronix radio metalcore
 http://usa17.fastcast4u.com:5508/
-# 72FM: https://72fm.com/station/4dcb69d2-1b10-4831-9d4f-363133b9b022?source=m3u
-#EXTINF:-1 group-title="Canada" radio="true",CJSQ-FM 92.7 'Radio Classique' Quebec City, QC (320K MP3 Stream)
-https://listen.radioking.com/radio/256885/stream/301510
 # 72FM: https://72fm.com/station/252e32d0-106d-4a77-833c-5d9393a1cc49?source=m3u
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="Canada" radio="true",Calm Radio - Tibet
 https://streams.calmradio.com:6528/stream
@@ -522,7 +519,7 @@ https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8
 https://rcavliveaudio.akamaized.net/hls/live/2006953/P-2QQUE0_QUE/master.m3u8
 # 72FM: https://72fm.com/station/d37e53ae-a111-4d22-a43b-05b47e0fd334?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",CFRA 'News Talk Radio 580' Ottawa, ON
-http://14543.live.streamtheworld.com/CFRAAMAAC_SC
+http://18063.live.streamtheworld.com:3690/CFRAAMAAC_SC
 # 72FM: https://72fm.com/station/9623a8a7-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",Hang 10 Rock Radio - Tofino, BC
 http://158.69.227.214:8113/stream
@@ -604,12 +601,12 @@ https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/96217384-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://country104.com/wp-content/uploads/sites/14/2018/01/country104-small-placeholder.png?w=180" group-title="Canada" radio="true",CKDK 103.9 'Country 104' Woodstock, ON
 http://live.leanstream.co/CKDKFM-MP3
-# 72FM: https://72fm.com/station/0a488605-22d8-4d0c-9268-8cc2f944b597?source=m3u
-#EXTINF:-1 group-title="Canada" radio="true",ICI Musique Classique - Montreal, QC
-http://playerservices.streamtheworld.com/api/livestream-redirect/ICI_MusiqueClassique_SRC.mp3
 # 72FM: https://72fm.com/station/53291f37-699a-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://ckua.com/wp-content/themes/ckua/assets/img/browser-icons/apple-icon-120x120.png" group-title="Canada" radio="true",CKUA Radio Network
 https://ais-sa1.streamon.fm/7000_48k.aac
+# 72FM: https://72fm.com/station/0a488605-22d8-4d0c-9268-8cc2f944b597?source=m3u
+#EXTINF:-1 group-title="Canada" radio="true",ICI Musique Classique - Montreal, QC
+http://playerservices.streamtheworld.com/api/livestream-redirect/ICI_MusiqueClassique_SRC.mp3
 # 72FM: https://72fm.com/station/b7aefb22-0ab1-403d-950e-237773113269?source=m3u
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="Canada" radio="true",Radio Canada Ici Musique - Québec City, QC
 https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
@@ -619,12 +616,12 @@ http://cjsd.streamon.fm/stream/CJSD-32k.aac
 # 72FM: https://72fm.com/station/96225223-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",CHLG 104.3 'LG104' Vancouver, BC
 http://newcap.leanstream.co/CHLGFM
-# 72FM: https://72fm.com/station/9622ab26-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://cisnfm.com/wp-content/uploads/sites/30/2018/01/cropped-fm-logos_512x512_cisn.png?w=180" group-title="Canada" radio="true",CISN 'Country 103.9' Edmonton, AB
-http://live.leanstream.co/CISNFM-MP3
 # 72FM: https://72fm.com/station/aa43f4c0-8081-4abd-b530-959fc8a6232e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.progpalaceradio.com/favicon.ico" group-title="Canada" radio="true",Prog Palace Radio's The Courtyard
 https://puma.streemlion.com:5045/stream
+# 72FM: https://72fm.com/station/9622ab26-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://cisnfm.com/wp-content/uploads/sites/30/2018/01/cropped-fm-logos_512x512_cisn.png?w=180" group-title="Canada" radio="true",CISN 'Country 103.9' Edmonton, AB
+http://live.leanstream.co/CISNFM-MP3
 # 72FM: https://72fm.com/station/96222ff0-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",CIZZ 'Z 98.9' Red Deer, AB
 http://newcap.leanstream.co/CIZZFM
@@ -723,7 +720,7 @@ https://jazzfm91.streamb.live/SB00009?args=web_01
 http://newcap.leanstream.co/CFRKFM
 # 72FM: https://72fm.com/station/b8ef0f44-0815-4ab2-a5e6-e37630e9037d?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.cogecolive.com/websites-public/logo_1047_2021_color_default.svg" group-title="Canada" radio="true",CKOF 'FM 104.7 Outaouais' Gatineau, QC
-https://29319.live.streamtheworld.com/CKOFFMAAC_SC
+https://18503.live.streamtheworld.com/CKOFFMAAC_SC
 # 72FM: https://72fm.com/station/a0a74952-46d6-4b68-ac55-577a8411b421?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s31172/images/logoq.png?t=151318" group-title="Canada" radio="true",NewsTalk 770 AM Calgary
 http://corus-hls.leanstream.co/corus/CHQRAM.stream/playlist.m3u8
@@ -745,12 +742,12 @@ http://newcap.leanstream.co/CKZZFM
 # 72FM: https://72fm.com/station/67a75e09-76ad-4147-a0c0-a9d2783f677f?source=m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1RKyNFgM/n7gdnuywj2qp.png" group-title="Canada" radio="true",TECHNO.FM (CA) 320 kbps
 http://stream.techno.fm/radio1-320k.mp3
-# 72FM: https://72fm.com/station/c1592478-63b0-4846-8c9d-50bed7141e77?source=m3u
-#EXTINF:-1 tvg-logo="https://somehowjazz.com/wp-content/uploads/2022/02/logo-2022-02.png" group-title="Canada" radio="true",SomehowJazz
-https://443-1.autopo.st/36/320K/;&type=mp3
 # 72FM: https://72fm.com/station/9644f07b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",Beach Booster Radio - Wasaga Beach, ON
 http://us3.streamingpulse.com:8082/stream
+# 72FM: https://72fm.com/station/c1592478-63b0-4846-8c9d-50bed7141e77?source=m3u
+#EXTINF:-1 tvg-logo="https://somehowjazz.com/wp-content/uploads/2022/02/logo-2022-02.png" group-title="Canada" radio="true",SomehowJazz
+https://443-1.autopo.st/36/320K/;&type=mp3
 # 72FM: https://72fm.com/station/8c8a75f6-70b0-446c-8450-022c077c7301?source=m3u
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="Canada" radio="true",ICI Radio-Canada Première Edmonton - 90.1 FM (CHFA-FM)
 https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
@@ -772,21 +769,21 @@ http://rmcesp.radiomaria.ca:8050/;stream.mp3
 # 72FM: https://72fm.com/station/a2c79698-6715-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://899thewave.fm/wp-content/uploads/sites/4/2019/12/cropped-899-2-192x192.png" group-title="Canada" radio="true",CHNS 89.9 'The Wave' Halifax, NS
 http://mbsradio.leanstream.co/CHNSFM-MP3
+# 72FM: https://72fm.com/station/0e366e76-be41-4a53-92db-a80be34d69fb?source=m3u
+#EXTINF:-1 tvg-logo="https://lapfoxradio.com/apple-touch-icon-152x152.png" group-title="Canada" radio="true",Lapfox Radio (MP3 320k)
+https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3
 # 72FM: https://72fm.com/station/962ed4dd-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="Canada" radio="true",Calm Radio - Puccini
 http://streams.calmradio.com:13028/stream
 # 72FM: https://72fm.com/station/96216f6b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",CFWD 96.3 'CRUZ FM' Saskatoon, SK
 http://cfwd.streamon.fm/stream/CFWD-64k.aac
-# 72FM: https://72fm.com/station/0e366e76-be41-4a53-92db-a80be34d69fb?source=m3u
-#EXTINF:-1 tvg-logo="https://lapfoxradio.com/apple-touch-icon-152x152.png" group-title="Canada" radio="true",Lapfox Radio (MP3 320k)
-https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3
-# 72FM: https://72fm.com/station/9621ecae-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Canada" radio="true",CJKX 95.9 'KX96 New Country FM' - Ajax, ON
-http://29306.live.streamtheworld.com:3690/CJKXFMAAC_SC
 # 72FM: https://72fm.com/station/434ab4b9-252f-44c4-ad71-8f3c8dd9bcff?source=m3u
 #EXTINF:-1 tvg-logo="https://media.socastsrm.com/uploads/station/1859/site_header_logo-5df3ffce8edd3.png" group-title="Canada" radio="true",CKWR 98.5 'Real Community Radio' Kitchener, ON
 https://stream2.statsradio.com:8150/stream
+# 72FM: https://72fm.com/station/9621ecae-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Canada" radio="true",CJKX 95.9 'KX96 New Country FM' - Ajax, ON
+http://29306.live.streamtheworld.com:3690/CJKXFMAAC_SC
 # 72FM: https://72fm.com/station/a1beb01b-341c-4761-8045-4d3459bcbba6?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",J-Rock Powerplay
 https://kathy.torontocast.com:3340/
@@ -868,12 +865,12 @@ http://cjsr.streamon.fm:8000/CJSR-24k.aac
 # 72FM: https://72fm.com/station/b4f70221-40e1-11e8-b74d-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",CFCW '840 CFCW' Edmonton / Camrose AB
 http://newcap.leanstream.co/CFCWAM
-# 72FM: https://72fm.com/station/9620bcea-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Canada" radio="true",CFGQ 107.3 'Q107' Calgary, AB
-http://live.leanstream.co/CFGQFM-MP3
 # 72FM: https://72fm.com/station/9521dc63-ab87-41e0-9339-367ae4e5bbf3?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",J-Pop Powerplay (Asia DREAM Radio)
 http://kathy.torontocast.com:3560/
+# 72FM: https://72fm.com/station/9620bcea-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Canada" radio="true",CFGQ 107.3 'Q107' Calgary, AB
+http://live.leanstream.co/CFGQFM-MP3
 # 72FM: https://72fm.com/station/66774584-9661-44f7-b82f-411e5e6ced3e?source=m3u
 #EXTINF:-1 group-title="Canada" radio="true",Exclusively Buddy Holly
 https://streaming.exclusive.radio/er/buddyholly/icecast.audio
@@ -904,3 +901,6 @@ http://live.leanstream.co/CFNYFM
 # 72FM: https://72fm.com/station/d1607c3b-ae1c-475e-91a4-1567f5af09e3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-apple-touch-60@2x-beta.png" group-title="Canada" radio="true",CBC Music - CBH-FM - CBN-FM - Atlantic - Halifax - NS - St. John's - NL - 102.7FM - 106.9 FM
 https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
+# 72FM: https://72fm.com/station/9612c585-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Canada" radio="true",CFXE 94.3 'Real Country West' Edson, AB
+http://newcap.leanstream.co/CFXEFM

@@ -4,9 +4,6 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/808d64e4-4a01-11ea-9348-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiookapi.net/sites/default/files/avatar-ro_normal.gif_0.png" group-title="Congo - Kinshasa" radio="true",Radio Okapi
-http://rs1.radiostreamer.com:8000/;
 # 72FM: https://72fm.com/station/db343ca6-5aa4-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Congo - Kinshasa" radio="true",RADIO MARIA DEM.REP. CONGO
 http://dreamsiteradiocp.com:8116/stream
@@ -28,6 +25,9 @@ https://stream.zeno.fm/qe5g83upga0uv
 # 72FM: https://72fm.com/station/526030ed-2361-4fcb-b221-d2d70ad27fb8?source=m3u
 #EXTINF:-1 group-title="Congo - Kinshasa" radio="true",Watoto Radio
 https://stream-47.zeno.fm/xwx18us91k8uv?zs=D6hP5IeET_CVAjQuCUtmkg
+# 72FM: https://72fm.com/station/0130c55c-4968-43e0-b54b-b123b2874a3a?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiookapi.net/sites/default/files/logo-radiookapi-254-92.png" group-title="Congo - Kinshasa" radio="true",Radio Okapi
+http://rs1.radiostreamer.com:8000/;
 # 72FM: https://72fm.com/station/c5aa658b-3305-44fb-b956-63bccd97e012?source=m3u
 #EXTINF:-1 group-title="Congo - Kinshasa" radio="true",LAVDC
 http://stream.zeno.fm/6ya7cvxnff9uv

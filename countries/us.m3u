@@ -123,7 +123,7 @@ http://15693.live.streamtheworld.com/977_SMOOJAZZ_SC
 https://icecast.walmradio.com:8443/otr_opus
 # 72FM: https://72fm.com/station/96394224-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/indiepop-400.jpg" group-title="United States" radio="true",SomaFM Indie Pop Rocks! (128k AAC)
-https://ice2.somafm.com/indiepop-128-aac
+https://ice6.somafm.com/indiepop-128-aac
 # 72FM: https://72fm.com/station/960d4889-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",181.FM - Highway 181
 http://listen.181fm.com/181-highway_128k.mp3
@@ -201,7 +201,7 @@ https://kathy.torontocast.com:2800/;
 http://stream.radioparadise.com/mellow-320
 # 72FM: https://72fm.com/station/960de41d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="United States" radio="true",SomaFM Metal Detector (128k AAC)
-https://ice5.somafm.com/metal-128-aac
+https://ice2.somafm.com/metal-128-aac
 # 72FM: https://72fm.com/station/961e719c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",181.FM - True Blues
 https://listen.181fm.com/181-blues_128k.mp3
@@ -408,7 +408,7 @@ https://ais-sa2.cdnstream1.com/2447_192.mp3
 http://stream.willstare.com:8450/
 # 72FM: https://72fm.com/station/961249b2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.jpg" group-title="United States" radio="true",SomaFM Sonic Universe (128k MP3)
-https://ice6.somafm.com/sonicuniverse-128-mp3
+https://ice2.somafm.com/sonicuniverse-128-mp3
 # 72FM: https://72fm.com/station/7eb9e8ed-47f6-4cae-889a-774f6462db5f?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",.100 Hip hop and RNB FM
 https://ice64.securenetsystems.net/LFTM
@@ -481,15 +481,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAMAAC.aac
 # 72FM: https://72fm.com/station/a722ad53-b10d-4087-85d8-5fabe061f758?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",The Independent FM
 https://listen.radioking.com/radio/293701/stream/340084
-# 72FM: https://72fm.com/station/e4533603-14e6-46a5-9c40-36cecf9c5ff3?source=m3u
-#EXTINF:-1 group-title="United States" radio="true",Bananavision Star Trek
-http://bananavision.tv:8000/trekmobile.mp3
 # 72FM: https://72fm.com/station/7145c05c-8b59-4553-85a0-6e9688d12925?source=m3u
 #EXTINF:-1 tvg-logo="https://radiostorm.com/wp-content/uploads/2018/01/cropped-imgpsh_fullsize2-180x180.png" group-title="United States" radio="true",Radiostorm - At Work 104
 http://streaming.live365.com/b30572_128mp3
 # 72FM: https://72fm.com/station/96191df4-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",181.FM - Soul
-https://listen.181fm.com/181-soul_128k.mp3
+http://listen.181fm.com/181-soul_128k.mp3
 # 72FM: https://72fm.com/station/962aa032-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="United States" radio="true",SomaFM Groove Salad (128k AAC)
 https://ice6.somafm.com/groovesalad-128-aac
@@ -703,12 +700,12 @@ https://maiban00.radioca.st/stream
 # 72FM: https://72fm.com/station/964e946c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",PureRock.US - America's Pure Rock
 http://rosetta.shoutca.st:8524/
-# 72FM: https://72fm.com/station/e828642b-336b-44b1-abec-ac3a24b0be7e?source=m3u
-#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="United States" radio="true",Radio Paradise Main Mix (EU) FLAC+meta
-http://stream-uk1.radioparadise.com/flacm
 # 72FM: https://72fm.com/station/37d99ea9-8c41-4d75-bbce-fc2f3e60f2dd?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",Horror Theatre
 http://ec4.yesstreaming.net:1230/stream
+# 72FM: https://72fm.com/station/e828642b-336b-44b1-abec-ac3a24b0be7e?source=m3u
+#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="United States" radio="true",Radio Paradise Main Mix (EU) FLAC+meta
+http://stream-uk1.radioparadise.com/flacm
 # 72FM: https://72fm.com/station/e6fa9a8a-02a8-11e9-a1be-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/gsclassic400.jpg" group-title="United States" radio="true",SomaFM Groove Salad Classic (128k MP3)
 https://ice5.somafm.com/gsclassic-128-mp3
@@ -798,7 +795,7 @@ http://listen.181fm.com/181-mellow_128k.mp3
 http://listen.181fm.com/181-classicaljazz_128k.mp3
 # 72FM: https://72fm.com/station/962263bc-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",WCSP 90.1 'C-SPAN Radio' Washington, DC
-http://17813.live.streamtheworld.com/CSPANRADIO_SC
+http://17813.live.streamtheworld.com:3690/CSPANRADIO_SC
 # 72FM: https://72fm.com/station/6cdde1c1-fce3-4421-aeea-20cf0d4d000b?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",Fox Sports 1260
 https://stream.revma.ihrhls.com/zc905
@@ -883,12 +880,12 @@ http://18503.live.streamtheworld.com:3690/WIBCFMAAC_SC
 # 72FM: https://72fm.com/station/38055669-97a7-11e9-a605-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",Conyers Old Time Radio
 https://s8.yesstreaming.net:17011/stream
-# 72FM: https://72fm.com/station/6263a7a9-804a-4ce3-9056-cfc98f2fa90f?source=m3u
-#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="United States" radio="true",Radio Paradise World/Etc Mix FLAC
-https://stream.radioparadise.com/world-etc-flac
 # 72FM: https://72fm.com/station/960c36e6-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United States" radio="true",Echoes of Bluemars
 http://streams.echoesofbluemars.org:8000/bluemars
+# 72FM: https://72fm.com/station/6263a7a9-804a-4ce3-9056-cfc98f2fa90f?source=m3u
+#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="United States" radio="true",Radio Paradise World/Etc Mix FLAC
+https://stream.radioparadise.com/world-etc-flac
 # 72FM: https://72fm.com/station/960d67e8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/illstreet-400.jpg" group-title="United States" radio="true",SomaFM Illinois Street Lounge (128k MP3)
 https://ice5.somafm.com/illstreet-128-mp3
@@ -904,3 +901,6 @@ http://opera-stream.wqxr.org/operavore-tunein
 # 72FM: https://72fm.com/station/7ce0842a-0414-4d3e-8c16-e39030c4bfb8?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/vaporwaves400.png" group-title="United States" radio="true",SomaFM Vaporwaves (128k AAC)
 https://ice5.somafm.com/vaporwaves-128-aac
+# 72FM: https://72fm.com/station/9628a108-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="United States" radio="true",2000 FM - Hard Rock
+http://bigrradio.cdnstream1.com/5104_128

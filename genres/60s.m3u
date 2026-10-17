@@ -253,9 +253,6 @@ http://www.beatlesradio.com:8000/;
 # 72FM: https://72fm.com/station/b8edc30d-11c1-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="60s" radio="true",Old Men's Radio
 http://server-10.stream-server.nl:8140/
-# 72FM: https://72fm.com/station/36937fb6-ce78-41b0-ad95-59d0d59f5a81?source=m3u
-#EXTINF:-1 group-title="60s" radio="true",Tick Tock Radio - 1969
-https://streaming.ticktock.radio/tt/1969/icecast.audio
 # 72FM: https://72fm.com/station/964976ac-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82b05f_8193c647efa94b70a93346c2a9e39f19%7emv2.jpg/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/82b05f_8193c647efa94b70a93346c2a9e39f19%7emv2.jpg" group-title="60s" radio="true",RetroSouvenirs
 https://listen.radioking.com/radio/108/stream/61183
@@ -403,12 +400,12 @@ http://ice7.securenetsystems.net/CWTO
 # 72FM: https://72fm.com/station/3637dcc2-3250-483e-a310-7083c2f7a85f?source=m3u
 #EXTINF:-1 group-title="60s" radio="true",Laut Fm Surf
 http://surf.stream.laut.fm/surf
-# 72FM: https://72fm.com/station/13298993-b9e7-46ce-8925-1ae61d87854e?source=m3u
-#EXTINF:-1 group-title="60s" radio="true",Extra Gold
-http://extragold.stream-server.nl/stream?type=http&nocache=124795
 # 72FM: https://72fm.com/station/ec11d3b3-4d68-4db2-b9e4-49140fff81a1?source=m3u
 #EXTINF:-1 tvg-logo="https://radio90s.ru/uploads/posts/2023-12/radio-melodija-spb-onlajn-logo1.webp" group-title="60s" radio="true",Мелодия СПб
 http://stream.salyutfm.ru:4020/stream
+# 72FM: https://72fm.com/station/13298993-b9e7-46ce-8925-1ae61d87854e?source=m3u
+#EXTINF:-1 group-title="60s" radio="true",Extra Gold
+http://extragold.stream-server.nl/stream?type=http&nocache=124795
 # 72FM: https://72fm.com/station/04669a4c-ce24-424d-a54c-f8edbf8008d3?source=m3u
 #EXTINF:-1 group-title="60s" radio="true",Oldie Antenne - 60er Hits
 https://stream.oldie-antenne.de/oldie-antenne-60er-hits/stream/mp3
@@ -454,15 +451,15 @@ https://0n-evergreens.radionetz.de/0n-evergreens.aac
 # 72FM: https://72fm.com/station/ad9c0b81-4794-4ba5-9dd0-8db8be54269f?source=m3u
 #EXTINF:-1 tvg-logo="https://radiorecuerdos1230.com/images/radio%20recuerdos3.png" group-title="60s" radio="true",Radio Recuerdos 1230 AM
 https://radio35.virtualtronics.com/proxy/radiorecuerdos?mp=/;
-# 72FM: https://72fm.com/station/062ccc48-b631-4b70-b04c-471b0336e0de?source=m3u
-#EXTINF:-1 tvg-logo="https://i0.wp.com/kyaradio.com/wp-content/uploads/2018/04/cropped-kya_logo_1959.png" group-title="60s" radio="true",Classic 1260 KYA
-https://pavo.prostreaming.net:8038/stream
 # 72FM: https://72fm.com/station/aa2c5630-a5b6-41f8-8a13-a0193fcfbd8f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png" group-title="60s" radio="true",Life Radio Greatest Hits
 https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/
 # 72FM: https://72fm.com/station/00284088-7998-11e9-aa30-52543be04c81?source=m3u
 #EXTINF:-1 group-title="60s" radio="true",RadioSuperoldie
 http://high.radiosuperoldie.com:8888/
+# 72FM: https://72fm.com/station/062ccc48-b631-4b70-b04c-471b0336e0de?source=m3u
+#EXTINF:-1 tvg-logo="https://i0.wp.com/kyaradio.com/wp-content/uploads/2018/04/cropped-kya_logo_1959.png" group-title="60s" radio="true",Classic 1260 KYA
+https://pavo.prostreaming.net:8038/stream
 # 72FM: https://72fm.com/station/41948753-a7ca-40ce-852d-554a1e5cee69?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240830_085815429.jpg?alt=media&token=96ee0b32-9993-4842-916d-450162276bce" group-title="60s" radio="true",Paradise FM 60s & 70s
 https://stream.paradisefm.cw/60s70s
@@ -700,15 +697,15 @@ https://live.radioclasic.com/listen/radio_clasic_60/live.mp3
 # 72FM: https://72fm.com/station/2e6a44a2-6458-4850-9ccc-3ee68a6902ad?source=m3u
 #EXTINF:-1 tvg-logo="https://www.deventerrtv.nl/own-files/apple-touch-icon.png" group-title="60s" radio="true",Deventer Radio
 https://stream.deventerrtv.nl:8443/mp3
+# 72FM: https://72fm.com/station/08edff62-b4fc-49ea-92af-8adc0cb70332?source=m3u
+#EXTINF:-1 group-title="60s" radio="true",Venlo Vintage
+https://stream-10.pmteurope.com:8040/stream
 # 72FM: https://72fm.com/station/acf7f544-ba84-491a-8a11-4cf1db5dcbb4?source=m3u
 #EXTINF:-1 tvg-logo="https://guatequefm.com/wp-content/uploads/2025/07/logo.png" group-title="60s" radio="true",Radio Guateque FM
 https://eu1.lhdserver.es:3219/stream
 # 72FM: https://72fm.com/station/54f29dc1-2295-4540-b904-1c819db496ef?source=m3u
 #EXTINF:-1 tvg-logo="https://radio-dream-beach.net/templates/solo_radio_sound_27/piratensender.jpg?version=1735748249" group-title="60s" radio="true",Radio-Dream-Beach,willkommen im radio dream beach
 https://radio-dream-beach.spcast.eu/stream
-# 72FM: https://72fm.com/station/08edff62-b4fc-49ea-92af-8adc0cb70332?source=m3u
-#EXTINF:-1 group-title="60s" radio="true",Venlo Vintage
-https://stream-10.pmteurope.com:8040/stream
 # 72FM: https://72fm.com/station/3ef9711b-5b2f-47d1-a0aa-430adc8086f7?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiofirebirds.com/favicon.png" group-title="60s" radio="true",radio firebirds
 https://streaming.silvacast.com/FIREBIRDS.mp3
@@ -769,18 +766,12 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3
 # 72FM: https://72fm.com/station/85476ec3-8581-4294-89a4-d9a2c27fea29?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuoCHLke33QHYO5vRSad5-QuM5oKms2HCDkkFk3fEmeEWrhNYZUXJOq40&s=10" group-title="60s" radio="true",The Record Selector
 https://streaming.live365.com/a76771
-# 72FM: https://72fm.com/station/d4906d0a-2efb-4287-b6ba-6e5f5c2a7446?source=m3u
-#EXTINF:-1 tvg-logo="https://www.mdr.de/administratives/av/bild-36078-resimage_v-variantSmall1x1_w-512.png" group-title="60s" radio="true",MDR SCHLAGERWELT Thüringen
-https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8
 # 72FM: https://72fm.com/station/2ab511cf-6115-43de-a7f8-67c238171cb4?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radios.rs/media/PNG%20LOGOS/Novi%20strimovi/Classic1000px.png" group-title="60s" radio="true",Radio S Classic
 https://stream.radios.rs:9074/stream
 # 72FM: https://72fm.com/station/aca451aa-29ea-4040-b187-105bdc34a09f?source=m3u
 #EXTINF:-1 group-title="60s" radio="true",Royal Harbour Radio
 http://s9.citrus3.com:8402/stream
-# 72FM: https://72fm.com/station/2662ea1d-38ce-4285-ac43-b9c005005cb3?source=m3u
-#EXTINF:-1 tvg-logo="https://www.getmeradio.com/stations/waybackradio-5255/logos/512x512.png" group-title="60s" radio="true",Wayback Radio
-https://s5.citrus3.com:8244/stream
 # 72FM: https://72fm.com/station/1d511763-1680-4bb6-b255-ce384cbe2843?source=m3u
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/86/7a/d4/867ad4f7-fcea-157c-5233-3d3b27aaa0a5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/400x400ia-75.webp" group-title="60s" radio="true",WOLD Radio
 https://usa13.fastcast4u.com/proxy/srncommu?mp=/1
@@ -790,9 +781,15 @@ https://mml1.prostream.se/listen/decades/radio.mp3
 # 72FM: https://72fm.com/station/e4a8b1a2-42c6-450c-b677-2d7739c21dcf?source=m3u
 #EXTINF:-1 tvg-logo="https://www.mdr.de/administratives/av/bild-36078-resimage_v-variantSmall1x1_w-512.png" group-title="60s" radio="true",MDR SCHLAGERWELT Sachsen
 https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8
+# 72FM: https://72fm.com/station/d4906d0a-2efb-4287-b6ba-6e5f5c2a7446?source=m3u
+#EXTINF:-1 tvg-logo="https://www.mdr.de/administratives/av/bild-36078-resimage_v-variantSmall1x1_w-512.png" group-title="60s" radio="true",MDR SCHLAGERWELT Thüringen
+https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8
 # 72FM: https://72fm.com/station/68b74efa-4739-4aa2-a5f5-4c9588a71458?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGC0ZZTx/logo-Oldie-Star-Radio-jpg.png" group-title="60s" radio="true",OldieStar (AM)
 https://stream.schlagerradio.de/b2-oldiestar/mp3-32?ref=radio-browser
+# 72FM: https://72fm.com/station/2662ea1d-38ce-4285-ac43-b9c005005cb3?source=m3u
+#EXTINF:-1 tvg-logo="https://www.getmeradio.com/stations/waybackradio-5255/logos/512x512.png" group-title="60s" radio="true",Wayback Radio
+https://s5.citrus3.com:8244/stream
 # 72FM: https://72fm.com/station/5f9e6ed0-554f-443f-8eac-7beea5bcef8d?source=m3u
 #EXTINF:-1 tvg-logo="https://newageradio.gr/80s_1024x1024.png" group-title="60s" radio="true",1st Greek 80s FLAC Radio
 https://stream.newageradio.gr/listen/80s/radio.flac

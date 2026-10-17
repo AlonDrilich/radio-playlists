@@ -34,12 +34,12 @@ https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
 # 72FM: https://72fm.com/station/96159d2f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://highlandradio.com/wp-content/uploads/2022/01/cropped-highland-favicon-01-180x180.png" group-title="Ireland" radio="true",Highland Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3
-# 72FM: https://72fm.com/station/c96b0b99-6dc6-4b76-9971-b48a55c628ca?source=m3u
-#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/101096/resized/140x134c/rte_lyric_fm.png" group-title="Ireland" radio="true",RTÉ lyric fm
-http://icecast.rte.ie/lyric
 # 72FM: https://72fm.com/station/ad48771d-17a7-11ea-a620-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.98fm.com/favicon.ico?v=11" group-title="Ireland" radio="true",Dublin's 98FM
 https://stream.audioxi.com/98
+# 72FM: https://72fm.com/station/c96b0b99-6dc6-4b76-9971-b48a55c628ca?source=m3u
+#EXTINF:-1 tvg-logo="https://www.liveradio.ie/files/images/101096/resized/140x134c/rte_lyric_fm.png" group-title="Ireland" radio="true",RTÉ lyric fm
+http://icecast.rte.ie/lyric
 # 72FM: https://72fm.com/station/6650bb57-12aa-41d3-8ae4-ed5dcf0909cd?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",8Radio
 https://stream.rcast.net/66127
@@ -145,12 +145,12 @@ https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8
 # 72FM: https://72fm.com/station/e2b4f407-6a8f-404e-a0bf-bed8cc8088c6?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306851/images/logog.jpg" group-title="Ireland" radio="true",Dublin's Q102 80s
 http://wg.cdn.tibus.net/Q10280s
-# 72FM: https://72fm.com/station/c5613036-f32f-40c8-bce0-c980f55c5a11?source=m3u
-#EXTINF:-1 tvg-logo="https://www.irishpubradio.com/images/logo.png" group-title="Ireland" radio="true",Irish Pub Radio
-http://23.81.35.187:8026/stream
 # 72FM: https://72fm.com/station/e30883d9-2a3d-4c5b-8518-a472646f5a4a?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Irish Pub Radio
 http://solid24.streamupsolutions.com:8026/live
+# 72FM: https://72fm.com/station/c5613036-f32f-40c8-bce0-c980f55c5a11?source=m3u
+#EXTINF:-1 tvg-logo="https://www.irishpubradio.com/images/logo.png" group-title="Ireland" radio="true",Irish Pub Radio
+http://23.81.35.187:8026/stream
 # 72FM: https://72fm.com/station/124b8ece-53b7-11ea-be63-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.todayfm.com/i/android-icon-192x192.png?v=6" group-title="Ireland" radio="true",TodayFm
 https://edge.audioxi.com/TDAAC
@@ -187,12 +187,12 @@ https://gemradio.radioca.st/stream/1/
 # 72FM: https://72fm.com/station/599c433e-f416-4fee-b1c4-cef23900e1dd?source=m3u
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/619/5d5199be0aa8e.png" group-title="Ireland" radio="true",C103 West
 https://wg.cdn.tibus.net/C103West
-# 72FM: https://72fm.com/station/b75b0946-9f42-4c9d-bff2-ea13f9141356?source=m3u
-#EXTINF:-1 tvg-logo="https://www.redfm.ie/i/android-chrome-192x192.png" group-title="Ireland" radio="true",Cork's RedFM
-https://live-bauerie.sharp-stream.com/RED
 # 72FM: https://72fm.com/station/aa2dca41-8713-4efe-8ca8-42cb67e57c8e?source=m3u
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/616/5d5138dc14031.png" group-title="Ireland" radio="true",LMFM
 https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507
+# 72FM: https://72fm.com/station/b75b0946-9f42-4c9d-bff2-ea13f9141356?source=m3u
+#EXTINF:-1 tvg-logo="https://www.redfm.ie/i/android-chrome-192x192.png" group-title="Ireland" radio="true",Cork's RedFM
+https://live-bauerie.sharp-stream.com/RED
 # 72FM: https://72fm.com/station/6597cfec-22fa-11e9-a80b-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",NearFM
 http://stream11.shoutcastsolutions.com:8114/stream
@@ -214,15 +214,15 @@ https://sc.mpbnl.nl/radio2-90s00s.mp3
 # 72FM: https://72fm.com/station/9615d92c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Dundalk FM
 http://80.249.249.245:8000/;?1485109331489
+# 72FM: https://72fm.com/station/98301d1a-ed24-4653-afbe-e7113ea8f0e7?source=m3u
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/301/67eecfc515e09.png" group-title="Ireland" radio="true",Onic Movies
+https://live.onic.ie/stream-movies?_=55552
 # 72FM: https://72fm.com/station/6cafffd6-6368-47ff-a6e4-fc82945f7125?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",The Zone - Dublin
 https://uk1.internet-radio.com/proxy/thezone/stream
 # 72FM: https://72fm.com/station/2b33fcdc-8eba-4a2d-9e93-59050bd80bb2?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Ceol FM
 http://ceol.fm:8000/live
-# 72FM: https://72fm.com/station/98301d1a-ed24-4653-afbe-e7113ea8f0e7?source=m3u
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/301/67eecfc515e09.png" group-title="Ireland" radio="true",Onic Movies
-https://live.onic.ie/stream-movies?_=55552
 # 72FM: https://72fm.com/station/128a4337-41ce-423a-bedf-28ff5d27e8dd?source=m3u
 #EXTINF:-1 tvg-logo="https://radiodns.mpbnl.nl/logos/mpb/radio2.png" group-title="Ireland" radio="true",MPB Radio 2
 https://sc.mpbnl.nl/radio2.mp3
@@ -298,21 +298,21 @@ http://lyra.shoutca.st:8147/live
 # 72FM: https://72fm.com/station/c3d4c77d-e090-44a4-ab26-dea91ab5d215?source=m3u
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/301/63435a48d085e.png" group-title="Ireland" radio="true",FM104
 https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417
-# 72FM: https://72fm.com/station/3bdf6582-779c-4589-bb54-36f88c98872e?source=m3u
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/301/67eed0efb2ee9.png" group-title="Ireland" radio="true",Onic RnB
-https://live.onic.ie/stream-rnb?_=890764
 # 72FM: https://72fm.com/station/a39642b1-9405-43cd-8e0e-bd0a476b30db?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Finn Valley FM
 http://visual.shoutca.st:8000/;
+# 72FM: https://72fm.com/station/3bdf6582-779c-4589-bb54-36f88c98872e?source=m3u
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/301/67eed0efb2ee9.png" group-title="Ireland" radio="true",Onic RnB
+https://live.onic.ie/stream-rnb?_=890764
 # 72FM: https://72fm.com/station/3b7b87cd-3287-4a1e-b5fc-7f3d76b9e4a3?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.bfbs.com/icons/icon-512x512.png?v=0afec91a27aaa6d57f2b000c6fbe8cac" group-title="Ireland" radio="true",BFBS Northern Ireland
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac
-# 72FM: https://72fm.com/station/df3c1b03-8de1-4e39-9d1c-c823024e538c?source=m3u
-#EXTINF:-1 tvg-logo="https://liffeysoundfm.ie/wp-content/uploads/2017/01/Logo_edit-300x239.jpg" group-title="Ireland" radio="true",Liffey Sound 96.4 FM
-http://stream.liffeysoundfm.ie:8000/listen.pls.mp3
 # 72FM: https://72fm.com/station/6991b326-24a7-4005-b14c-14f59311636f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.biggestdiscoradio.com/apple-touch-icon.png" group-title="Ireland" radio="true",Biggest Disco Radio
 https://s5.radio.co/s823d25743/low
+# 72FM: https://72fm.com/station/df3c1b03-8de1-4e39-9d1c-c823024e538c?source=m3u
+#EXTINF:-1 tvg-logo="https://liffeysoundfm.ie/wp-content/uploads/2017/01/Logo_edit-300x239.jpg" group-title="Ireland" radio="true",Liffey Sound 96.4 FM
+http://stream.liffeysoundfm.ie:8000/listen.pls.mp3
 # 72FM: https://72fm.com/station/424c69fc-7c07-40e4-aa4d-1b9f01c44fe7?source=m3u
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/301/67eea83a947d4.png" group-title="Ireland" radio="true",Onic Alternative
 https://live.onic.ie/stream-alternative?_=623178
@@ -325,12 +325,12 @@ https://onic.dublin.live.stream.broadcasting.news/stream-fm104
 # 72FM: https://72fm.com/station/5d86bd71-12b0-4426-9f26-181a58ee666f?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Ignoreradio Shoegaze
 https://sp1.autopo.st/8026/stream
-# 72FM: https://72fm.com/station/d642f94f-cd58-4f64-bd7a-5e6359b2512c?source=m3u
-#EXTINF:-1 tvg-logo="https://90snetwork.com/" group-title="Ireland" radio="true",The 90s Network
-http://uk1.streamingpulse.com:7020/stream
 # 72FM: https://72fm.com/station/9c2a39db-f196-447a-9972-805755c5c4d1?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Phantom Radio Ireland
 https://streaming05.liveboxstream.uk/proxy/prienter?mp=/stream&_=1739569292206
+# 72FM: https://72fm.com/station/d642f94f-cd58-4f64-bd7a-5e6359b2512c?source=m3u
+#EXTINF:-1 tvg-logo="https://90snetwork.com/" group-title="Ireland" radio="true",The 90s Network
+http://uk1.streamingpulse.com:7020/stream
 # 72FM: https://72fm.com/station/bcd91fa9-7242-4443-96dc-aefe52e6798b?source=m3u
 #EXTINF:-1 tvg-logo="https://irishcountrymusicradio.com/favicon.ico" group-title="Ireland" radio="true",Irish Country Music Radio
 http://streaming.galaxywebsolutions.com:7502/stream
@@ -352,12 +352,12 @@ http://93.107.98.107:8000/;stream.nsv
 # 72FM: https://72fm.com/station/c45a34d3-6423-4cdd-880f-ab8f1cefb368?source=m3u
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/25ptJVPeSsK0acaBjPZg_EC3n4X2PX71u30I0?io=true&size=avatar-v3_0" group-title="Ireland" radio="true",LiveIreland
 http://lynx.prostreaming.net:8058/;
-# 72FM: https://72fm.com/station/6ee57601-3752-4031-8155-28f67ca9db43?source=m3u
-#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/android-icon-192x192.png" group-title="Ireland" radio="true",Today FM
-https://live-bauerie.sharp-stream.com/TDAAC
 # 72FM: https://72fm.com/station/48a89d98-319d-4643-b02a-420839e89ac8?source=m3u
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/301/67eed19d50886.png" group-title="Ireland" radio="true",Onic Rock
 https://live.onic.ie/stream-rock?_=630901
+# 72FM: https://72fm.com/station/6ee57601-3752-4031-8155-28f67ca9db43?source=m3u
+#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/android-icon-192x192.png" group-title="Ireland" radio="true",Today FM
+https://live-bauerie.sharp-stream.com/TDAAC
 # 72FM: https://72fm.com/station/c1b571b9-5aee-4ff1-952b-c3159338075a?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Christmas FM
 https://christmasfm.cdnstream1.com/2547_128.mp3
@@ -397,12 +397,15 @@ https://ams1.reliastream.com/proxy/john12/stream
 # 72FM: https://72fm.com/station/9ddd4727-33c3-471d-b588-6235816ed054?source=m3u
 #EXTINF:-1 tvg-logo="https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-1/436440440_970042031791081_1555864966190315055_n.jpg?stp=cp0_dst-jpg_s40x40_tt6&_nc_cat=106&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=VOS4bnUf8uAQ7kNvgFCWn0t&_nc_zt=24&_nc_ht=scontent-ord5-3.xx&_nc_gid=ACDBfq4x0451vwpJ3N_UoIL&oh=00_AYCp0eS4BeH0Gz0LZgSFMgjLoIfWeWp9UuAy5As-TIWP6w&oe=675D2DE1" group-title="Ireland" radio="true",RabbitHole Radio
 http://stream.zeno.fm/c88dha3fmzzuv
-# 72FM: https://72fm.com/station/e0e39893-e989-4ec3-a57a-e184c4e0af7a?source=m3u
-#EXTINF:-1 group-title="Ireland" radio="true",Scariff Bay Community Radio
-https://s4.radio.co/s87ac5cf5a/listen
 # 72FM: https://72fm.com/station/52328320-bb19-4949-903b-312d7dfa8628?source=m3u
 #EXTINF:-1 tvg-logo="https://www.spinsouthwest.com/images/logo.svg" group-title="Ireland" radio="true",SPIN South West
 https://edge.audioxi.com/SW
+# 72FM: https://72fm.com/station/e0e39893-e989-4ec3-a57a-e184c4e0af7a?source=m3u
+#EXTINF:-1 group-title="Ireland" radio="true",Scariff Bay Community Radio
+https://s4.radio.co/s87ac5cf5a/listen
+# 72FM: https://72fm.com/station/f3d6ed6f-bdd3-42bf-b4a6-6db8eadd5bc0?source=m3u
+#EXTINF:-1 tvg-logo="https://www.nova.ie/wp-content/uploads/2024/11/color-logo.png" group-title="Ireland" radio="true",Radio Nova 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
 # 72FM: https://72fm.com/station/3e0aff80-1a32-4225-8885-ac26275aac55?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",80s Rewind
 https://a8.asurahosting.com:7170/radio.mp3
@@ -418,9 +421,9 @@ https://cast5.magicstreams.gr:8010/
 # 72FM: https://72fm.com/station/37d9403a-3b8f-4dd5-84bc-ce633a904577?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Raídío Rí-Rá
 https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472=
-# 72FM: https://72fm.com/station/f3d6ed6f-bdd3-42bf-b4a6-6db8eadd5bc0?source=m3u
-#EXTINF:-1 tvg-logo="https://www.nova.ie/wp-content/uploads/2024/11/color-logo.png" group-title="Ireland" radio="true",Radio Nova 100
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
+# 72FM: https://72fm.com/station/0275d375-99e6-4f1b-86e9-a1ea71a02d5c?source=m3u
+#EXTINF:-1 tvg-logo="https://img.resized.co/shuffle/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczovL21lZGlhLmdvbG91ZG5vdy5jb20vdXBsb2Fkcy8xNzIxMTQzOTg4L1NwaW4xMDM4XzUwMC5wbmdcIixcIndpZHRoXCI6MjEwLFwiaGVpZ2h0XCI6MjEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6Ly93d3cuZ29sb3Vkbm93LmNvbS9pbWFnZXMvbG9nby5zdmdcIn0iLCJoYXNoIjoiMDBiNmNmNTFlNWVmMWEzOThlMTY5Y2I3NDc1MDIzODE4OThjODYyNyJ9/Spin1038_500.png" group-title="Ireland" radio="true",Spin 103.8
+https://live-bauerie.sharp-stream.com/SP?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false&aw_0_1st.bauerie_covatic=9999
 # 72FM: https://72fm.com/station/84992286-caac-4752-b362-844244393e62?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",BOB FM
 https://bobfm-seanashmore.radioca.st/stream
@@ -442,18 +445,15 @@ https://live.onic.ie/stream-kids?_=661229
 # 72FM: https://72fm.com/station/fb5f5cde-b21b-453e-8e55-15999c6d0437?source=m3u
 #EXTINF:-1 tvg-logo="https://radiocenzura.pl/wp-content/uploads/2020/06/RC-LOGO-long-white.png" group-title="Ireland" radio="true",Radio Cenzura
 http://live.radiocenzura.pl:8000/radio.mp3
-# 72FM: https://72fm.com/station/0275d375-99e6-4f1b-86e9-a1ea71a02d5c?source=m3u
-#EXTINF:-1 tvg-logo="https://img.resized.co/shuffle/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczovL21lZGlhLmdvbG91ZG5vdy5jb20vdXBsb2Fkcy8xNzIxMTQzOTg4L1NwaW4xMDM4XzUwMC5wbmdcIixcIndpZHRoXCI6MjEwLFwiaGVpZ2h0XCI6MjEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6Ly93d3cuZ29sb3Vkbm93LmNvbS9pbWFnZXMvbG9nby5zdmdcIn0iLCJoYXNoIjoiMDBiNmNmNTFlNWVmMWEzOThlMTY5Y2I3NDc1MDIzODE4OThjODYyNyJ9/Spin1038_500.png" group-title="Ireland" radio="true",Spin 103.8
-https://live-bauerie.sharp-stream.com/SP?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false&aw_0_1st.bauerie_covatic=9999
+# 72FM: https://72fm.com/station/bfc3ac34-2b24-4ab9-ae83-6b3bbc16566e?source=m3u
+#EXTINF:-1 tvg-logo="https://siamsa.ie/wp-content/uploads/2022/07/radiosiamsa.ico" group-title="Ireland" radio="true",Radio Siamsa
+https://main.siamsa.ie:8000/radio.mp3
 # 72FM: https://72fm.com/station/b27fcc5a-2949-4df6-8d0a-d812f6f48063?source=m3u
 #EXTINF:-1 tvg-logo="https://www.beat102103.com/images/ico/android-icon-192x192.png" group-title="Ireland" radio="true",Beat 102-103
 https://live-bauerie.sharp-stream.com/BEAT
 # 72FM: https://72fm.com/station/2f784cf3-6db2-4574-a3a1-57d6a946aa30?source=m3u
 #EXTINF:-1 tvg-logo="https://nearfm.ie/wp-content/uploads/2014/05/near-top-logo-long-1.png" group-title="Ireland" radio="true",Near FM
 https://nearfm-radiohosting.radioca.st/stream.mp3
-# 72FM: https://72fm.com/station/a3781a35-80c9-4df6-88f3-d54c56aeccfe?source=m3u
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/277/697b460932735.jpg" group-title="Ireland" radio="true",South East Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3
 # 72FM: https://72fm.com/station/22c99429-2ccb-4fc2-b354-91957ef94e00?source=m3u
 #EXTINF:-1 tvg-logo="https://www.todayfm.com/i/android-icon-192x192.png" group-title="Ireland" radio="true",Today FM 90s
 https://live-bauerie.sharp-stream.com/T90
@@ -463,9 +463,9 @@ http://stream1.hippynet.co.uk/stream/loughrea
 # 72FM: https://72fm.com/station/6ef27cbc-6229-4d8f-97a9-0d1fc834695a?source=m3u
 #EXTINF:-1 tvg-logo="https://pri.ie/wp-content/uploads/2025/01/abb5e732-a0f9-4881-b587-3ac1201eb889_200x200.jpg" group-title="Ireland" radio="true",Radio Leinster
 http://xt.stream.ie/leinster
-# 72FM: https://72fm.com/station/bfc3ac34-2b24-4ab9-ae83-6b3bbc16566e?source=m3u
-#EXTINF:-1 tvg-logo="https://siamsa.ie/wp-content/uploads/2022/07/radiosiamsa.ico" group-title="Ireland" radio="true",Radio Siamsa
-https://main.siamsa.ie:8000/radio.mp3
+# 72FM: https://72fm.com/station/a3781a35-80c9-4df6-88f3-d54c56aeccfe?source=m3u
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/277/697b460932735.jpg" group-title="Ireland" radio="true",South East Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3
 # 72FM: https://72fm.com/station/616b15d2-dd7d-49ce-bea7-f8281e25e469?source=m3u
 #EXTINF:-1 tvg-logo="https://www.thrcl.com/assets/images/thrcl-fm-logo-128x128.png" group-title="Ireland" radio="true",Tipperary Hospital Radio Clonmel
 https://de2.streamingpulse.com/ssl/THRCL
@@ -514,18 +514,18 @@ https://listen.adtonos.com/deep-house-radio-dhr-4
 # 72FM: https://72fm.com/station/536b650b-f39f-4c65-92a5-64f41605c3a7?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Club FM Dublin Dublins hottest dance mix
 https://c6.radioboss.fm:8225/autodj
-# 72FM: https://72fm.com/station/d63753bc-0514-4bb4-8559-7be104fa189e?source=m3u
-#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/android-icon-192x192.png" group-title="Ireland" radio="true",Today FM 80s
-https://live-bauerie.sharp-stream.com/T80
+# 72FM: https://72fm.com/station/41e7bd44-7e41-4c6d-a11c-fbd491a08b5b?source=m3u
+#EXTINF:-1 tvg-logo="https://classicgoldradio.ie/wp-content/uploads/2024/07/Logo-Classic-Gold-02.png" group-title="Ireland" radio="true",Classic Gold Radio
+https://live.btsstream.com/stream/classicgoldradio
 # 72FM: https://72fm.com/station/1f3f71a0-4859-4d53-a797-38dfea1c6e49?source=m3u
 #EXTINF:-1 tvg-logo="https://www.midwestradio.ie/wp-content/uploads/2024/11/Midwest_Radio.jpg" group-title="Ireland" radio="true",Midwest Radio [MP3]
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3
 # 72FM: https://72fm.com/station/ba6fb930-d9be-4b59-bf8c-2c24c5db6699?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",MixLive.net - Psybient Sunset
 https://listen.openstream.co/6517/audio
-# 72FM: https://72fm.com/station/41e7bd44-7e41-4c6d-a11c-fbd491a08b5b?source=m3u
-#EXTINF:-1 tvg-logo="https://classicgoldradio.ie/wp-content/uploads/2024/07/Logo-Classic-Gold-02.png" group-title="Ireland" radio="true",Classic Gold Radio
-https://live.btsstream.com/stream/classicgoldradio
+# 72FM: https://72fm.com/station/d63753bc-0514-4bb4-8559-7be104fa189e?source=m3u
+#EXTINF:-1 tvg-logo="https://www.todayfm.com/i/android-icon-192x192.png" group-title="Ireland" radio="true",Today FM 80s
+https://live-bauerie.sharp-stream.com/T80
 # 72FM: https://72fm.com/station/b40ca040-9e3e-43c7-978e-462da0470dc9?source=m3u
 #EXTINF:-1 tvg-logo="https://nearfm.ie/wp-content/uploads/2014/05/near-top-logo-long-1.png" group-title="Ireland" radio="true",Near FM (webcam)
 https://vdo.ssl-stream.com:3550/live/nearfmlive.m3u8
@@ -535,9 +535,6 @@ https://stream.playfmdublin.com/radio192.mp3
 # 72FM: https://72fm.com/station/5dd7afc6-40a9-4ce1-8757-552ada188346?source=m3u
 #EXTINF:-1 group-title="Ireland" radio="true",Psybient Sunset on MixLive.net
 https://free.rcast.net/64142
-# 72FM: https://72fm.com/station/acabb60f-6bd8-4930-84eb-f5e2f338b117?source=m3u
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PodcastSource122/v4/d0/c0/db/d0c0dbf6-cbee-ed1f-7a47-f7ae868d87f9/70aabc5c-2d63-43ab-ad31-12d2592c7c32.png/1200x1200bf-60.jpg" group-title="Ireland" radio="true",Beat 102 103
-https://stream.audioxi.com/BEAT
 # 72FM: https://72fm.com/station/ff3b1463-45e2-41a7-a522-e6fd6d2ca859?source=m3u
 #EXTINF:-1 tvg-logo="https://www.clare.fm/wp-content/uploads/2024/09/CLARE-FM-LOGO-HEADER-TRANS-272x90-1.png" group-title="Ireland" radio="true",Clare FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLARE_FM.mp3?dist=web
@@ -553,6 +550,9 @@ https://strw3.openstream.co/932?aw_0_1st.collectionid%3D6517%26stationId%3D6517%
 # 72FM: https://72fm.com/station/8f4d9243-18e1-466f-ab9d-ccb0f3eef312?source=m3u
 #EXTINF:-1 tvg-logo="https://pri.ie/wp-content/uploads/2025/01/5b80707a-6c35-40eb-98bb-f1f29938c3cd.png" group-title="Ireland" radio="true",XT Alternative
 https://xt.stream.ie:8443/xt
+# 72FM: https://72fm.com/station/acabb60f-6bd8-4930-84eb-f5e2f338b117?source=m3u
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PodcastSource122/v4/d0/c0/db/d0c0dbf6-cbee-ed1f-7a47-f7ae868d87f9/70aabc5c-2d63-43ab-ad31-12d2592c7c32.png/1200x1200bf-60.jpg" group-title="Ireland" radio="true",Beat 102 103
+https://stream.audioxi.com/BEAT
 # 72FM: https://72fm.com/station/cb8ab74f-3d80-4296-bdd5-e9c70993007f?source=m3u
 #EXTINF:-1 tvg-logo="https://birdhillradio.com/bhr_logo_splash.png" group-title="Ireland" radio="true",Birdhill Radio
 https://w42pfn4y.hostingenergy.com/
@@ -574,9 +574,9 @@ https://de2.streamingpulse.com/ssl/8042
 # 72FM: https://72fm.com/station/89df4070-7e0b-407d-9fc7-b4afeb9561ec?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/ieradio-org/saint-ita-s-hospital.png" group-title="Ireland" radio="true",St. Itas Hospital Radio
 http://uk1.streamingpulse.com:7022/stream
-# 72FM: https://72fm.com/station/dc799d91-c6d6-4c8d-87c1-3e06e87c50df?source=m3u
-#EXTINF:-1 tvg-logo="https://tippfm.com/player/data/images/whatsapp.png" group-title="Ireland" radio="true",Tipp FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3
 # 72FM: https://72fm.com/station/fe8cc823-e90f-472f-853c-138b9c97c112?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/32814.v10.png" group-title="Ireland" radio="true",ABC 80s (Dublin)
 https://canada1.reliastream.com/proxy/brendan3?mp=/stream
+# 72FM: https://72fm.com/station/dc799d91-c6d6-4c8d-87c1-3e06e87c50df?source=m3u
+#EXTINF:-1 tvg-logo="https://tippfm.com/player/data/images/whatsapp.png" group-title="Ireland" radio="true",Tipp FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3

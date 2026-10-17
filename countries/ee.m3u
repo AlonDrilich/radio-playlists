@@ -220,12 +220,12 @@ https://le305.euddn.net/6fc16c442df09e4d38c4c30fac29e469433021605b53be0bc2062128
 # 72FM: https://72fm.com/station/dd5d6354-ece5-46c5-a8f9-f0f3e6f63668?source=m3u
 #EXTINF:-1 tvg-logo="https://pohjaeesti.treraadio.ee/favicon.ico" group-title="Estonia" radio="true",Tre Raadio Põhja-Eesti
 http://cdn.treraadio.ee/pohja-tre
-# 72FM: https://72fm.com/station/d3d942e0-89e7-4c55-8f18-e6b03057d0e3?source=m3u
-#EXTINF:-1 tvg-logo="https://site.prelive.sky.ee/sites/default/files/2021-08/skyplus.svg" group-title="Estonia" radio="true",Sky Plus D'N'B
-https://edge01.cdn.bitflip.ee:8888/NRJdnb
 # 72FM: https://72fm.com/station/98a2bd0a-a207-4c3c-b273-df0a0dba20dc?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Radio Azathoth Revival
 https://cast4.asurahosting.com/proxy/aadu/stream
+# 72FM: https://72fm.com/station/d3d942e0-89e7-4c55-8f18-e6b03057d0e3?source=m3u
+#EXTINF:-1 tvg-logo="https://site.prelive.sky.ee/sites/default/files/2021-08/skyplus.svg" group-title="Estonia" radio="true",Sky Plus D'N'B
+https://edge01.cdn.bitflip.ee:8888/NRJdnb
 # 72FM: https://72fm.com/station/266acf45-a1ad-4a67-9a81-3cdf54dc8ceb?source=m3u
 #EXTINF:-1 tvg-logo="https://pleier.ee/favicons/pleier/favicon-32x32.png" group-title="Estonia" radio="true",Duo Gold (Estonia)
 https://le302.euddn.net/ce6d1e0eeb065441feac668dd3039740b055678fe0baf94e283f31ef01c437125a2b5218f8ea9677787f3c993779724817458da42fa54211aa1e725b5a78270bbedefc09b9ad03878caeb1ac11ee9edd340cf2866b0f3991f62577d5b5b0ff78b7b86726015b15769ec3206c1fb7904b28b952e487d42e9dcf10700df4103e7f59c75157f2ca864b3f5d3909f3caafa246c304f13d7768ec0aaf0dd8987a972833b379c3268166adcb4c08d734425de5/kuld.aac
@@ -265,12 +265,12 @@ http://icecast.err.ee/raadiotallinn.mp3
 # 72FM: https://72fm.com/station/27a69f19-4001-4bf4-b602-92511bc1e682?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hpsbassline.club/favicon.ico" group-title="Estonia" radio="true",HPS Bassline
 https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3
-# 72FM: https://72fm.com/station/f62e23d6-8104-44e4-a994-5007428289d6?source=m3u
-#EXTINF:-1 tvg-logo="https://jumorfm.ee/wp-content/uploads/superpwa-splashIcons/super_splash_screens/icon_640x1136.png" group-title="Estonia" radio="true",Jumor FM Estonia
-https://a10.asurahosting.com:7640/radio.mp3
 # 72FM: https://72fm.com/station/394136ea-c672-49d8-b98a-fdd3c5b9c4a0?source=m3u
 #EXTINF:-1 tvg-logo="https://pcr.fm/favicon.png" group-title="Estonia" radio="true",PCR.fm (Parnu Club Radio)
 https://pcrfm.radiocult.fm/stream
+# 72FM: https://72fm.com/station/f62e23d6-8104-44e4-a994-5007428289d6?source=m3u
+#EXTINF:-1 tvg-logo="https://jumorfm.ee/wp-content/uploads/superpwa-splashIcons/super_splash_screens/icon_640x1136.png" group-title="Estonia" radio="true",Jumor FM Estonia
+https://a10.asurahosting.com:7640/radio.mp3
 # 72FM: https://72fm.com/station/4b889ec9-03bd-4926-9daf-492883756e55?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.globalexport.ee/logo-192.png" group-title="Estonia" radio="true",Global Export FM
 https://radio.globalexport.ee/stream.mp3
@@ -286,9 +286,6 @@ https://raadio.aieon.ee/radio.mp3
 # 72FM: https://72fm.com/station/6b2be64f-bc1e-4076-b447-853c4da80cb8?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Vikerraadio
 https://icecast.err.ee/vikerraadiokorge.mp3
-# 72FM: https://72fm.com/station/d949f80a-9a36-4b8e-b128-4fb6f3750a83?source=m3u
-#EXTINF:-1 group-title="Estonia" radio="true",Hot Fields AI Radio
-https://radio.citrina.ee/listen/hot_fields_ai_radio/radio.mp3
 # 72FM: https://72fm.com/station/4ba1954b-b9a5-47c5-91e4-13439cfdfdfc?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",MyHits Rock
 https://le302.euddn.net/917ee7f93356a9635286a8ce2890d12c9b533409623ec8f9d400f376bcfe8e4f789c2a8f52d355fd670fc6b30cb49c059fcebd6d9e385c4131648affeacd795cb3fe2425a59ca65fd0a5905d1442fc4f5ee3a4c64f96ddbf8c9f7afb2ec40fb05ed3a32b17afedad0585d0f261d8d2b5d8082d02ef6a373d22c39ed230fcae73388093097eab840de7aaff3ae6989aefad9f25c63efb6c5d32d4721ac217627cb8423e346a02b3a6422f7dd4794f50241bfff38aaaa064fb4ce8881f226406e6/MHR_myhitsrock.aac
@@ -298,6 +295,9 @@ https://stream.skymedia.ee/live/NRJ
 # 72FM: https://72fm.com/station/67ef69d8-a798-458b-b693-75a377839fab?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",R2Extra - AltPop
 https://live.err.ee/live/r2alt.m3u8?short=true
+# 72FM: https://72fm.com/station/1ca62b19-44b3-405f-b455-b1de5854e098?source=m3u
+#EXTINF:-1 group-title="Estonia" radio="true",Relax Instrumental
+https://stream.relaxfm.ee/instrumental
 # 72FM: https://72fm.com/station/a627e7d9-6152-4a0e-8533-0cc22ab80491?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Retro FM
 https://stream.skymedia.ee/live/RETRO
@@ -322,6 +322,9 @@ https://le301.euddn.net/871d03fbe81032ff2f281444c78241bbd5fa41c858eea108d23f7c6c
 # 72FM: https://72fm.com/station/8292e637-6ed6-4ed3-8273-f3e3b84913bc?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Hits Show Radio - EST
 https://stream.zeno.fm/dghp9excl67vv
+# 72FM: https://72fm.com/station/c1f1dc4f-83de-4489-8e55-c74692045e92?source=m3u
+#EXTINF:-1 group-title="Estonia" radio="true",Hot Fields AI Radio
+https://radio.citrina.ee/listen/hot_fields_ai_radio/radio.mp3
 # 72FM: https://72fm.com/station/d535ac16-7fd2-4c9f-9436-6db63cb0579d?source=m3u
 #EXTINF:-1 tvg-logo="https://kaguraadio.ee/wp-content/uploads/2019/11/cropped-Kaguraadio-logo-roheline3-2.jpg" group-title="Estonia" radio="true",Kaguraadio
 https://radio.vlevelscdn.net/radio/kaguraadio.stream/chunklist_w936127105.m3u8
@@ -361,9 +364,6 @@ https://stream.radiomaximum.ee/stream
 # 72FM: https://72fm.com/station/fc9112ee-bf38-4c12-b18a-96fb5a268edf?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Rahvaraadio
 http://streamer.tt.ee:8000/rahvaraadio
-# 72FM: https://72fm.com/station/1ca62b19-44b3-405f-b455-b1de5854e098?source=m3u
-#EXTINF:-1 group-title="Estonia" radio="true",Relax Instrumental
-https://stream.relaxfm.ee/instrumental
 # 72FM: https://72fm.com/station/69084a62-d6db-4ca7-bcfd-65773e56a366?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Retro FM - Jõulud
 https://stream.skymedia.ee/live/RetroJ6ulud

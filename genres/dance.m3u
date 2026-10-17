@@ -450,7 +450,7 @@ http://eco.onestreaming.com:8039/
 http://pl01.cdn.eurozet.pl/ZETDAN.mp3
 # 72FM: https://72fm.com/station/9623a1a9-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="Dance" radio="true",Radio 538 Ibiza
-http://22533.live.streamtheworld.com/TLPSTR19_SC
+http://22723.live.streamtheworld.com:3690/TLPSTR19_SC
 # 72FM: https://72fm.com/station/7a67fe09-ab18-11e9-88f4-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Dance" radio="true",One Dance
 https://ice04.fluidstream.net/rn1_2.aac
@@ -502,12 +502,12 @@ https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio
 # 72FM: https://72fm.com/station/dd0e86d3-b9b4-11e9-acb2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Dance" radio="true",Heart Dance
 https://media-ssl.musicradio.com/HeartDance
-# 72FM: https://72fm.com/station/4add5686-dcb7-4fa2-8e21-ef4c09a64fb1?source=m3u
-#EXTINF:-1 group-title="Dance" radio="true",Radio Vilasound Ibiza 92.7 FM
-https://s9.citrus3.com:8174/stream
 # 72FM: https://72fm.com/station/3d3fc522-0a50-11ea-a87e-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-top-40_600x600.jpg" group-title="Dance" radio="true",- 0 N - Top 40 on Radio
 https://0n-top40.radionetz.de/0n-top40.mp3
+# 72FM: https://72fm.com/station/4add5686-dcb7-4fa2-8e21-ef4c09a64fb1?source=m3u
+#EXTINF:-1 group-title="Dance" radio="true",Radio Vilasound Ibiza 92.7 FM
+https://s9.citrus3.com:8174/stream
 # 72FM: https://72fm.com/station/05d3034c-7599-4fa4-a2c5-3b8cfb055849?source=m3u
 #EXTINF:-1 tvg-logo="https://sky.ee/favicon.ico" group-title="Dance" radio="true",Sky Plus DnB
 https://edge03.cdn.bitflip.ee:8888/NRJdnb
@@ -862,12 +862,12 @@ http://mp3.planetradio.de/plrchannels/hqoldschool.mp3?aw_0_req.gdpr=true
 # 72FM: https://72fm.com/station/764caa2f-ccf8-459f-99d7-1e15009b1474?source=m3u
 #EXTINF:-1 group-title="Dance" radio="true",FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club
 https://onair.net-radio.fr/frequence3dance.flac
-# 72FM: https://72fm.com/station/c445c858-7028-4719-9b20-1676a54eb6ef?source=m3u
-#EXTINF:-1 tvg-logo="https://ecsmedia.pl/c/impreska-volume-4-w-iext120267303.jpg" group-title="Dance" radio="true",ESKA - Impreska
-https://waw.ic.smcdn.pl/6030-1.mp3
 # 72FM: https://72fm.com/station/3074edd7-245a-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="Dance" radio="true",Allzic Radio Top 20
 http://allzic41.ice.infomaniak.ch/allzic41.mp3
+# 72FM: https://72fm.com/station/c445c858-7028-4719-9b20-1676a54eb6ef?source=m3u
+#EXTINF:-1 tvg-logo="https://ecsmedia.pl/c/impreska-volume-4-w-iext120267303.jpg" group-title="Dance" radio="true",ESKA - Impreska
+https://waw.ic.smcdn.pl/6030-1.mp3
 # 72FM: https://72fm.com/station/3e7745c9-ab52-4737-bce3-4f44198174bf?source=m3u
 #EXTINF:-1 tvg-logo="https://spacefm.ro/wp-content/uploads/2022/04/Logo-alb.png" group-title="Dance" radio="true",Space Fm Dance
 https://spacefm.live/radio/8000/spacefm128

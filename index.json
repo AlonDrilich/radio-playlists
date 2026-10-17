@@ -14,10 +14,12 @@
     "ets2": "per country, up to 100 most-voted MP3 or Ogg stations as a live_streams.sii for Euro Truck Simulator 2 and American Truck Simulator; AAC, playlist addresses and https on ports other than 443 are left out"
   },
   "totals": {
-    "working_unique_stations": 50493,
+    "working_unique_stations": 50456,
     "countries": 171,
     "genres": 60,
-    "ets2_countries": 149
+    "ets2_countries": 149,
+    "farming_simulator_countries": 154,
+    "garrys_mod_countries": 162
   },
   "playlists": [
     {
@@ -29,11 +31,21 @@
       "stations_available": 72,
       "path": "countries/af.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/af.m3u",
-      "page_72fm": "https://72fm.com/radio/af",
+      "page_72fm": null,
       "ets2": {
         "stations": 46,
         "path": "ets2/af/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/af/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 50,
+        "path": "farming-simulator/af/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/af/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 59,
+        "path": "garrys-mod/af-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/af-radio_pls.txt"
       }
     },
     {
@@ -50,6 +62,16 @@
         "stations": 70,
         "path": "ets2/al/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/al/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 80,
+        "path": "farming-simulator/al/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/al/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 87,
+        "path": "garrys-mod/al-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/al-radio_pls.txt"
       }
     },
     {
@@ -57,8 +79,8 @@
       "id": "dz",
       "name": "Algeria",
       "flag": "🇩🇿",
-      "stations": 110,
-      "stations_available": 110,
+      "stations": 105,
+      "stations_available": 105,
       "path": "countries/dz.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/dz.m3u",
       "page_72fm": "https://72fm.com/radio/dz",
@@ -66,6 +88,16 @@
         "stations": 43,
         "path": "ets2/dz/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/dz/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/dz/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/dz/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/dz-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/dz-radio_pls.txt"
       }
     },
     {
@@ -77,7 +109,7 @@
       "stations_available": 7,
       "path": "countries/as.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/as.m3u",
-      "page_72fm": "https://72fm.com/radio/as"
+      "page_72fm": null
     },
     {
       "type": "country",
@@ -88,7 +120,17 @@
       "stations_available": 8,
       "path": "countries/ad.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ad.m3u",
-      "page_72fm": "https://72fm.com/radio/ad"
+      "page_72fm": null,
+      "farming_simulator": {
+        "stations": 6,
+        "path": "farming-simulator/ad/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ad/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 8,
+        "path": "garrys-mod/ad-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ad-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -104,6 +146,16 @@
         "stations": 22,
         "path": "ets2/ao/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ao/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 33,
+        "path": "farming-simulator/ao/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ao/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 44,
+        "path": "garrys-mod/ao-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ao-radio_pls.txt"
       }
     },
     {
@@ -115,7 +167,12 @@
       "stations_available": 5,
       "path": "countries/ai.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ai.m3u",
-      "page_72fm": "https://72fm.com/radio/ai"
+      "page_72fm": "https://72fm.com/radio/ai",
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/ai-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ai-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -126,11 +183,21 @@
       "stations_available": 9,
       "path": "countries/aq.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/aq.m3u",
-      "page_72fm": "https://72fm.com/radio/aq",
+      "page_72fm": null,
       "ets2": {
         "stations": 7,
         "path": "ets2/aq/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/aq/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 8,
+        "path": "farming-simulator/aq/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/aq/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 8,
+        "path": "garrys-mod/aq-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/aq-radio_pls.txt"
       }
     },
     {
@@ -158,6 +225,16 @@
         "stations": 100,
         "path": "ets2/ar/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ar/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ar/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ar/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ar-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ar-radio_pls.txt"
       }
     },
     {
@@ -174,6 +251,16 @@
         "stations": 10,
         "path": "ets2/am/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/am/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 11,
+        "path": "farming-simulator/am/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/am/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 11,
+        "path": "garrys-mod/am-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/am-radio_pls.txt"
       }
     },
     {
@@ -185,7 +272,17 @@
       "stations_available": 7,
       "path": "countries/aw.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/aw.m3u",
-      "page_72fm": "https://72fm.com/radio/aw"
+      "page_72fm": "https://72fm.com/radio/aw",
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/aw/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/aw/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/aw-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/aw-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -193,7 +290,7 @@
       "name": "Australia",
       "flag": "🇦🇺",
       "stations": 300,
-      "stations_available": 1548,
+      "stations_available": 1544,
       "path": "countries/au.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/au.m3u",
       "page_72fm": "https://72fm.com/radio/au",
@@ -201,6 +298,16 @@
         "stations": 100,
         "path": "ets2/au/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/au/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/au/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/au/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/au-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/au-radio_pls.txt"
       }
     },
     {
@@ -209,7 +316,7 @@
       "name": "Austria",
       "flag": "🇦🇹",
       "stations": 300,
-      "stations_available": 308,
+      "stations_available": 307,
       "path": "countries/at.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/at.m3u",
       "page_72fm": "https://72fm.com/radio/at",
@@ -217,6 +324,16 @@
         "stations": 100,
         "path": "ets2/at/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/at/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/at/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/at/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/at-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/at-radio_pls.txt"
       }
     },
     {
@@ -233,6 +350,16 @@
         "stations": 28,
         "path": "ets2/az/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/az/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 30,
+        "path": "farming-simulator/az/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/az/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 31,
+        "path": "garrys-mod/az-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/az-radio_pls.txt"
       }
     },
     {
@@ -249,6 +376,16 @@
         "stations": 5,
         "path": "ets2/bs/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/bs/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 6,
+        "path": "farming-simulator/bs/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/bs/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 8,
+        "path": "garrys-mod/bs-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/bs-radio_pls.txt"
       }
     },
     {
@@ -276,6 +413,16 @@
         "stations": 20,
         "path": "ets2/bd/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/bd/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 21,
+        "path": "farming-simulator/bd/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/bd/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 22,
+        "path": "garrys-mod/bd-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/bd-radio_pls.txt"
       }
     },
     {
@@ -292,6 +439,16 @@
         "stations": 7,
         "path": "ets2/bb/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/bb/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 7,
+        "path": "farming-simulator/bb/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/bb/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 12,
+        "path": "garrys-mod/bb-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/bb-radio_pls.txt"
       }
     },
     {
@@ -308,6 +465,16 @@
         "stations": 25,
         "path": "ets2/by/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/by/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 36,
+        "path": "farming-simulator/by/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/by/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 45,
+        "path": "garrys-mod/by-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/by-radio_pls.txt"
       }
     },
     {
@@ -324,6 +491,16 @@
         "stations": 100,
         "path": "ets2/be/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/be/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/be/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/be/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/be-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/be-radio_pls.txt"
       }
     },
     {
@@ -335,7 +512,17 @@
       "stations_available": 5,
       "path": "countries/bm.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/bm.m3u",
-      "page_72fm": "https://72fm.com/radio/bm"
+      "page_72fm": "https://72fm.com/radio/bm",
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/bm/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/bm/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/bm-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/bm-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -351,6 +538,16 @@
         "stations": 33,
         "path": "ets2/bo/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/bo/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 40,
+        "path": "farming-simulator/bo/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/bo/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 48,
+        "path": "garrys-mod/bo-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/bo-radio_pls.txt"
       }
     },
     {
@@ -358,15 +555,25 @@
       "id": "ba",
       "name": "Bosnia & Herzegovina",
       "flag": "🇧🇦",
-      "stations": 142,
-      "stations_available": 142,
+      "stations": 141,
+      "stations_available": 141,
       "path": "countries/ba.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ba.m3u",
       "page_72fm": "https://72fm.com/radio/ba",
       "ets2": {
-        "stations": 84,
+        "stations": 83,
         "path": "ets2/ba/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ba/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 98,
+        "path": "farming-simulator/ba/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ba/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ba-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ba-radio_pls.txt"
       }
     },
     {
@@ -383,6 +590,16 @@
         "stations": 100,
         "path": "ets2/br/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/br/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/br/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/br/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/br-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/br-radio_pls.txt"
       }
     },
     {
@@ -399,6 +616,16 @@
         "stations": 100,
         "path": "ets2/bg/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/bg/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/bg/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/bg/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/bg-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/bg-radio_pls.txt"
       }
     },
     {
@@ -415,6 +642,16 @@
         "stations": 9,
         "path": "ets2/kh/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/kh/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 9,
+        "path": "farming-simulator/kh/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/kh/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 9,
+        "path": "garrys-mod/kh-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/kh-radio_pls.txt"
       }
     },
     {
@@ -431,6 +668,16 @@
         "stations": 38,
         "path": "ets2/cm/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cm/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 41,
+        "path": "farming-simulator/cm/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cm/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 44,
+        "path": "garrys-mod/cm-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cm-radio_pls.txt"
       }
     },
     {
@@ -447,6 +694,16 @@
         "stations": 100,
         "path": "ets2/ca/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ca/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ca/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ca/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ca-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ca-radio_pls.txt"
       }
     },
     {
@@ -463,6 +720,16 @@
         "stations": 9,
         "path": "ets2/cv/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cv/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 15,
+        "path": "farming-simulator/cv/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cv/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 16,
+        "path": "garrys-mod/cv-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cv-radio_pls.txt"
       }
     },
     {
@@ -479,6 +746,16 @@
         "stations": 10,
         "path": "ets2/bq/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/bq/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 11,
+        "path": "farming-simulator/bq/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/bq/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 11,
+        "path": "garrys-mod/bq-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/bq-radio_pls.txt"
       }
     },
     {
@@ -495,6 +772,16 @@
         "stations": 6,
         "path": "ets2/ky/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ky/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 6,
+        "path": "farming-simulator/ky/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ky/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 7,
+        "path": "garrys-mod/ky-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ky-radio_pls.txt"
       }
     },
     {
@@ -511,6 +798,16 @@
         "stations": 100,
         "path": "ets2/cl/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cl/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/cl/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cl/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/cl-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cl-radio_pls.txt"
       }
     },
     {
@@ -519,7 +816,7 @@
       "name": "China",
       "flag": "🇨🇳",
       "stations": 300,
-      "stations_available": 1945,
+      "stations_available": 1943,
       "path": "countries/cn.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/cn.m3u",
       "page_72fm": "https://72fm.com/radio/cn",
@@ -527,6 +824,16 @@
         "stations": 100,
         "path": "ets2/cn/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cn/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/cn/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cn/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/cn-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cn-radio_pls.txt"
       }
     },
     {
@@ -535,7 +842,7 @@
       "name": "Colombia",
       "flag": "🇨🇴",
       "stations": 300,
-      "stations_available": 653,
+      "stations_available": 654,
       "path": "countries/co.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/co.m3u",
       "page_72fm": "https://72fm.com/radio/co",
@@ -543,6 +850,16 @@
         "stations": 100,
         "path": "ets2/co/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/co/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/co/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/co/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/co-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/co-radio_pls.txt"
       }
     },
     {
@@ -559,6 +876,16 @@
         "stations": 10,
         "path": "ets2/cd/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cd/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 10,
+        "path": "farming-simulator/cd/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cd/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 13,
+        "path": "garrys-mod/cd-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cd-radio_pls.txt"
       }
     },
     {
@@ -575,6 +902,16 @@
         "stations": 21,
         "path": "ets2/cr/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cr/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 30,
+        "path": "farming-simulator/cr/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cr/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 33,
+        "path": "garrys-mod/cr-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cr-radio_pls.txt"
       }
     },
     {
@@ -591,6 +928,16 @@
         "stations": 51,
         "path": "ets2/ci/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ci/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 54,
+        "path": "farming-simulator/ci/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ci/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 56,
+        "path": "garrys-mod/ci-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ci-radio_pls.txt"
       }
     },
     {
@@ -607,6 +954,16 @@
         "stations": 100,
         "path": "ets2/hr/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/hr/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/hr/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/hr/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/hr-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/hr-radio_pls.txt"
       }
     },
     {
@@ -623,6 +980,16 @@
         "stations": 18,
         "path": "ets2/cu/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cu/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 20,
+        "path": "farming-simulator/cu/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cu/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 20,
+        "path": "garrys-mod/cu-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cu-radio_pls.txt"
       }
     },
     {
@@ -639,6 +1006,16 @@
         "stations": 16,
         "path": "ets2/cw/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cw/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 17,
+        "path": "farming-simulator/cw/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cw/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 17,
+        "path": "garrys-mod/cw-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cw-radio_pls.txt"
       }
     },
     {
@@ -655,6 +1032,16 @@
         "stations": 37,
         "path": "ets2/cy/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cy/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 43,
+        "path": "farming-simulator/cy/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cy/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 43,
+        "path": "garrys-mod/cy-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cy-radio_pls.txt"
       }
     },
     {
@@ -671,6 +1058,16 @@
         "stations": 100,
         "path": "ets2/cz/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cz/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/cz/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cz/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/cz-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cz-radio_pls.txt"
       }
     },
     {
@@ -687,6 +1084,16 @@
         "stations": 100,
         "path": "ets2/dk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/dk/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/dk/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/dk/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/dk-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/dk-radio_pls.txt"
       }
     },
     {
@@ -714,6 +1121,16 @@
         "stations": 60,
         "path": "ets2/do/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/do/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 78,
+        "path": "farming-simulator/do/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/do/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 82,
+        "path": "garrys-mod/do-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/do-radio_pls.txt"
       }
     },
     {
@@ -730,6 +1147,16 @@
         "stations": 38,
         "path": "ets2/ec/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ec/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 50,
+        "path": "farming-simulator/ec/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ec/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 92,
+        "path": "garrys-mod/ec-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ec-radio_pls.txt"
       }
     },
     {
@@ -746,6 +1173,16 @@
         "stations": 54,
         "path": "ets2/eg/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/eg/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 55,
+        "path": "farming-simulator/eg/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/eg/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 56,
+        "path": "garrys-mod/eg-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/eg-radio_pls.txt"
       }
     },
     {
@@ -762,6 +1199,16 @@
         "stations": 31,
         "path": "ets2/sv/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/sv/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 38,
+        "path": "farming-simulator/sv/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/sv/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 46,
+        "path": "garrys-mod/sv-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/sv-radio_pls.txt"
       }
     },
     {
@@ -778,6 +1225,16 @@
         "stations": 72,
         "path": "ets2/ee/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ee/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 80,
+        "path": "farming-simulator/ee/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ee/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ee-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ee-radio_pls.txt"
       }
     },
     {
@@ -794,6 +1251,16 @@
         "stations": 23,
         "path": "ets2/et/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/et/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 23,
+        "path": "farming-simulator/et/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/et/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 23,
+        "path": "garrys-mod/et-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/et-radio_pls.txt"
       }
     },
     {
@@ -810,6 +1277,16 @@
         "stations": 10,
         "path": "ets2/fo/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/fo/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 10,
+        "path": "farming-simulator/fo/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/fo/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 11,
+        "path": "garrys-mod/fo-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/fo-radio_pls.txt"
       }
     },
     {
@@ -817,15 +1294,25 @@
       "id": "fi",
       "name": "Finland",
       "flag": "🇫🇮",
-      "stations": 131,
-      "stations_available": 131,
+      "stations": 130,
+      "stations_available": 130,
       "path": "countries/fi.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/fi.m3u",
       "page_72fm": "https://72fm.com/radio/fi",
       "ets2": {
-        "stations": 57,
+        "stations": 56,
         "path": "ets2/fi/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/fi/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 66,
+        "path": "farming-simulator/fi/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/fi/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 87,
+        "path": "garrys-mod/fi-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/fi-radio_pls.txt"
       }
     },
     {
@@ -842,6 +1329,16 @@
         "stations": 100,
         "path": "ets2/fr/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/fr/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/fr/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/fr/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/fr-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/fr-radio_pls.txt"
       }
     },
     {
@@ -853,7 +1350,17 @@
       "stations_available": 8,
       "path": "countries/pf.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pf.m3u",
-      "page_72fm": "https://72fm.com/radio/pf"
+      "page_72fm": "https://72fm.com/radio/pf",
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/pf/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/pf/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/pf-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/pf-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -869,6 +1376,16 @@
         "stations": 13,
         "path": "ets2/ge/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ge/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 13,
+        "path": "farming-simulator/ge/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ge/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 13,
+        "path": "garrys-mod/ge-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ge-radio_pls.txt"
       }
     },
     {
@@ -877,7 +1394,7 @@
       "name": "Germany",
       "flag": "🇩🇪",
       "stations": 300,
-      "stations_available": 5431,
+      "stations_available": 5430,
       "path": "countries/de.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/de.m3u",
       "page_72fm": "https://72fm.com/radio/de",
@@ -885,6 +1402,16 @@
         "stations": 100,
         "path": "ets2/de/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/de/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/de/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/de/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/de-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/de-radio_pls.txt"
       }
     },
     {
@@ -901,6 +1428,16 @@
         "stations": 77,
         "path": "ets2/gh/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/gh/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 82,
+        "path": "farming-simulator/gh/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gh/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 84,
+        "path": "garrys-mod/gh-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gh-radio_pls.txt"
       }
     },
     {
@@ -917,6 +1454,16 @@
         "stations": 5,
         "path": "ets2/gi/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/gi/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/gi/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gi/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/gi-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gi-radio_pls.txt"
       }
     },
     {
@@ -925,7 +1472,7 @@
       "name": "Greece",
       "flag": "🇬🇷",
       "stations": 300,
-      "stations_available": 1803,
+      "stations_available": 1802,
       "path": "countries/gr.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/gr.m3u",
       "page_72fm": "https://72fm.com/radio/gr",
@@ -933,6 +1480,16 @@
         "stations": 100,
         "path": "ets2/gr/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/gr/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/gr/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gr/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/gr-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gr-radio_pls.txt"
       }
     },
     {
@@ -944,7 +1501,17 @@
       "stations_available": 5,
       "path": "countries/gl.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/gl.m3u",
-      "page_72fm": "https://72fm.com/radio/gl"
+      "page_72fm": "https://72fm.com/radio/gl",
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/gl/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gl/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/gl-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gl-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -960,6 +1527,16 @@
         "stations": 5,
         "path": "ets2/gd/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/gd/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/gd/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gd/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/gd-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gd-radio_pls.txt"
       }
     },
     {
@@ -976,6 +1553,16 @@
         "stations": 11,
         "path": "ets2/gp/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/gp/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 11,
+        "path": "farming-simulator/gp/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gp/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 13,
+        "path": "garrys-mod/gp-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gp-radio_pls.txt"
       }
     },
     {
@@ -1003,6 +1590,16 @@
         "stations": 32,
         "path": "ets2/gt/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/gt/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 36,
+        "path": "farming-simulator/gt/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gt/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 49,
+        "path": "garrys-mod/gt-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gt-radio_pls.txt"
       }
     },
     {
@@ -1019,6 +1616,16 @@
         "stations": 7,
         "path": "ets2/gy/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/gy/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 8,
+        "path": "farming-simulator/gy/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gy/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 9,
+        "path": "garrys-mod/gy-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gy-radio_pls.txt"
       }
     },
     {
@@ -1035,6 +1642,16 @@
         "stations": 24,
         "path": "ets2/ht/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ht/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 25,
+        "path": "farming-simulator/ht/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ht/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 28,
+        "path": "garrys-mod/ht-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ht-radio_pls.txt"
       }
     },
     {
@@ -1051,6 +1668,16 @@
         "stations": 23,
         "path": "ets2/hn/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/hn/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 25,
+        "path": "farming-simulator/hn/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/hn/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 35,
+        "path": "garrys-mod/hn-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/hn-radio_pls.txt"
       }
     },
     {
@@ -1067,6 +1694,16 @@
         "stations": 19,
         "path": "ets2/hk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/hk/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 20,
+        "path": "farming-simulator/hk/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/hk/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 23,
+        "path": "garrys-mod/hk-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/hk-radio_pls.txt"
       }
     },
     {
@@ -1083,6 +1720,16 @@
         "stations": 100,
         "path": "ets2/hu/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/hu/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/hu/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/hu/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/hu-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/hu-radio_pls.txt"
       }
     },
     {
@@ -1099,6 +1746,16 @@
         "stations": 12,
         "path": "ets2/is/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/is/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 12,
+        "path": "farming-simulator/is/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/is/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 12,
+        "path": "garrys-mod/is-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/is-radio_pls.txt"
       }
     },
     {
@@ -1115,6 +1772,16 @@
         "stations": 100,
         "path": "ets2/in/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/in/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/in/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/in/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/in-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/in-radio_pls.txt"
       }
     },
     {
@@ -1131,6 +1798,16 @@
         "stations": 100,
         "path": "ets2/id/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/id/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/id/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/id/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/id-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/id-radio_pls.txt"
       }
     },
     {
@@ -1147,6 +1824,16 @@
         "stations": 23,
         "path": "ets2/ir/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ir/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 23,
+        "path": "farming-simulator/ir/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ir/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 24,
+        "path": "garrys-mod/ir-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ir-radio_pls.txt"
       }
     },
     {
@@ -1163,6 +1850,16 @@
         "stations": 19,
         "path": "ets2/iq/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/iq/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 19,
+        "path": "farming-simulator/iq/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/iq/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 19,
+        "path": "garrys-mod/iq-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/iq-radio_pls.txt"
       }
     },
     {
@@ -1179,6 +1876,16 @@
         "stations": 100,
         "path": "ets2/ie/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ie/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ie/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ie/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ie-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ie-radio_pls.txt"
       }
     },
     {
@@ -1190,7 +1897,12 @@
       "stations_available": 7,
       "path": "countries/im.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/im.m3u",
-      "page_72fm": "https://72fm.com/radio/im"
+      "page_72fm": "https://72fm.com/radio/im",
+      "garrys_mod": {
+        "stations": 6,
+        "path": "garrys-mod/im-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/im-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -1206,6 +1918,16 @@
         "stations": 61,
         "path": "ets2/il/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/il/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 65,
+        "path": "farming-simulator/il/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/il/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 72,
+        "path": "garrys-mod/il-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/il-radio_pls.txt"
       }
     },
     {
@@ -1214,7 +1936,7 @@
       "name": "Italy",
       "flag": "🇮🇹",
       "stations": 300,
-      "stations_available": 1543,
+      "stations_available": 1541,
       "path": "countries/it.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/it.m3u",
       "page_72fm": "https://72fm.com/radio/it",
@@ -1222,6 +1944,16 @@
         "stations": 100,
         "path": "ets2/it/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/it/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/it/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/it/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/it-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/it-radio_pls.txt"
       }
     },
     {
@@ -1238,6 +1970,16 @@
         "stations": 35,
         "path": "ets2/jm/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/jm/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 39,
+        "path": "farming-simulator/jm/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/jm/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 41,
+        "path": "garrys-mod/jm-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/jm-radio_pls.txt"
       }
     },
     {
@@ -1254,6 +1996,16 @@
         "stations": 70,
         "path": "ets2/jp/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/jp/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 83,
+        "path": "farming-simulator/jp/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/jp/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 98,
+        "path": "garrys-mod/jp-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/jp-radio_pls.txt"
       }
     },
     {
@@ -1270,6 +2022,16 @@
         "stations": 5,
         "path": "ets2/jo/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/jo/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 7,
+        "path": "farming-simulator/jo/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/jo/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 7,
+        "path": "garrys-mod/jo-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/jo-radio_pls.txt"
       }
     },
     {
@@ -1286,6 +2048,16 @@
         "stations": 19,
         "path": "ets2/kz/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/kz/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 28,
+        "path": "farming-simulator/kz/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/kz/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 29,
+        "path": "garrys-mod/kz-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/kz-radio_pls.txt"
       }
     },
     {
@@ -1293,15 +2065,25 @@
       "id": "ke",
       "name": "Kenya",
       "flag": "🇰🇪",
-      "stations": 46,
-      "stations_available": 46,
+      "stations": 45,
+      "stations_available": 45,
       "path": "countries/ke.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ke.m3u",
       "page_72fm": "https://72fm.com/radio/ke",
       "ets2": {
-        "stations": 34,
+        "stations": 33,
         "path": "ets2/ke/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ke/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 34,
+        "path": "farming-simulator/ke/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ke/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 39,
+        "path": "garrys-mod/ke-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ke-radio_pls.txt"
       }
     },
     {
@@ -1318,6 +2100,16 @@
         "stations": 11,
         "path": "ets2/xk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/xk/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 13,
+        "path": "farming-simulator/xk/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/xk/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 13,
+        "path": "garrys-mod/xk-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/xk-radio_pls.txt"
       }
     },
     {
@@ -1340,15 +2132,20 @@
       "stations_available": 6,
       "path": "countries/kg.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/kg.m3u",
-      "page_72fm": "https://72fm.com/radio/kg"
+      "page_72fm": "https://72fm.com/radio/kg",
+      "garrys_mod": {
+        "stations": 6,
+        "path": "garrys-mod/kg-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/kg-radio_pls.txt"
+      }
     },
     {
       "type": "country",
       "id": "lv",
       "name": "Latvia",
       "flag": "🇱🇻",
-      "stations": 155,
-      "stations_available": 155,
+      "stations": 154,
+      "stations_available": 154,
       "path": "countries/lv.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/lv.m3u",
       "page_72fm": "https://72fm.com/radio/lv",
@@ -1356,6 +2153,16 @@
         "stations": 58,
         "path": "ets2/lv/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/lv/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 66,
+        "path": "farming-simulator/lv/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/lv/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 91,
+        "path": "garrys-mod/lv-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/lv-radio_pls.txt"
       }
     },
     {
@@ -1372,6 +2179,16 @@
         "stations": 38,
         "path": "ets2/lb/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/lb/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 46,
+        "path": "farming-simulator/lb/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/lb/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 46,
+        "path": "garrys-mod/lb-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/lb-radio_pls.txt"
       }
     },
     {
@@ -1383,22 +2200,37 @@
       "stations_available": 6,
       "path": "countries/ly.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ly.m3u",
-      "page_72fm": "https://72fm.com/radio/ly"
+      "page_72fm": "https://72fm.com/radio/ly",
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/ly-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ly-radio_pls.txt"
+      }
     },
     {
       "type": "country",
       "id": "lt",
       "name": "Lithuania",
       "flag": "🇱🇹",
-      "stations": 106,
-      "stations_available": 106,
+      "stations": 107,
+      "stations_available": 107,
       "path": "countries/lt.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/lt.m3u",
       "page_72fm": "https://72fm.com/radio/lt",
       "ets2": {
-        "stations": 77,
+        "stations": 79,
         "path": "ets2/lt/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/lt/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 81,
+        "path": "farming-simulator/lt/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/lt/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 96,
+        "path": "garrys-mod/lt-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/lt-radio_pls.txt"
       }
     },
     {
@@ -1415,6 +2247,16 @@
         "stations": 22,
         "path": "ets2/lu/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/lu/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 22,
+        "path": "farming-simulator/lu/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/lu/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 27,
+        "path": "garrys-mod/lu-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/lu-radio_pls.txt"
       }
     },
     {
@@ -1431,6 +2273,16 @@
         "stations": 5,
         "path": "ets2/mo/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mo/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 6,
+        "path": "farming-simulator/mo/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mo/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 6,
+        "path": "garrys-mod/mo-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mo-radio_pls.txt"
       }
     },
     {
@@ -1447,6 +2299,16 @@
         "stations": 12,
         "path": "ets2/mg/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mg/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 13,
+        "path": "farming-simulator/mg/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mg/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 13,
+        "path": "garrys-mod/mg-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mg-radio_pls.txt"
       }
     },
     {
@@ -1463,6 +2325,16 @@
         "stations": 42,
         "path": "ets2/mw/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mw/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 49,
+        "path": "farming-simulator/mw/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mw/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 54,
+        "path": "garrys-mod/mw-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mw-radio_pls.txt"
       }
     },
     {
@@ -1479,6 +2351,16 @@
         "stations": 30,
         "path": "ets2/my/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/my/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 32,
+        "path": "farming-simulator/my/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/my/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 42,
+        "path": "garrys-mod/my-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/my-radio_pls.txt"
       }
     },
     {
@@ -1495,6 +2377,16 @@
         "stations": 11,
         "path": "ets2/ml/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ml/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 11,
+        "path": "farming-simulator/ml/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ml/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 12,
+        "path": "garrys-mod/ml-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ml-radio_pls.txt"
       }
     },
     {
@@ -1511,6 +2403,16 @@
         "stations": 8,
         "path": "ets2/mt/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mt/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 10,
+        "path": "farming-simulator/mt/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mt/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 11,
+        "path": "garrys-mod/mt-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mt-radio_pls.txt"
       }
     },
     {
@@ -1527,6 +2429,16 @@
         "stations": 9,
         "path": "ets2/mq/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mq/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 11,
+        "path": "farming-simulator/mq/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mq/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 12,
+        "path": "garrys-mod/mq-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mq-radio_pls.txt"
       }
     },
     {
@@ -1543,6 +2455,16 @@
         "stations": 5,
         "path": "ets2/mu/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mu/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 9,
+        "path": "farming-simulator/mu/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mu/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 9,
+        "path": "garrys-mod/mu-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mu-radio_pls.txt"
       }
     },
     {
@@ -1551,7 +2473,7 @@
       "name": "Mexico",
       "flag": "🇲🇽",
       "stations": 300,
-      "stations_available": 1539,
+      "stations_available": 1541,
       "path": "countries/mx.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/mx.m3u",
       "page_72fm": "https://72fm.com/radio/mx",
@@ -1559,6 +2481,16 @@
         "stations": 100,
         "path": "ets2/mx/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mx/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/mx/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mx/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/mx-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mx-radio_pls.txt"
       }
     },
     {
@@ -1575,6 +2507,16 @@
         "stations": 21,
         "path": "ets2/md/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/md/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 26,
+        "path": "farming-simulator/md/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/md/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 66,
+        "path": "garrys-mod/md-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/md-radio_pls.txt"
       }
     },
     {
@@ -1591,6 +2533,16 @@
         "stations": 5,
         "path": "ets2/mc/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mc/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/mc/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mc/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 6,
+        "path": "garrys-mod/mc-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mc-radio_pls.txt"
       }
     },
     {
@@ -1607,6 +2559,16 @@
         "stations": 6,
         "path": "ets2/mn/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mn/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 7,
+        "path": "farming-simulator/mn/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mn/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 7,
+        "path": "garrys-mod/mn-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mn-radio_pls.txt"
       }
     },
     {
@@ -1623,6 +2585,16 @@
         "stations": 25,
         "path": "ets2/me/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/me/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 34,
+        "path": "farming-simulator/me/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/me/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 34,
+        "path": "garrys-mod/me-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/me-radio_pls.txt"
       }
     },
     {
@@ -1639,6 +2611,16 @@
         "stations": 39,
         "path": "ets2/ma/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ma/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 46,
+        "path": "farming-simulator/ma/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ma/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 48,
+        "path": "garrys-mod/ma-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ma-radio_pls.txt"
       }
     },
     {
@@ -1655,6 +2637,16 @@
         "stations": 8,
         "path": "ets2/mz/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mz/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 11,
+        "path": "farming-simulator/mz/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mz/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 12,
+        "path": "garrys-mod/mz-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mz-radio_pls.txt"
       }
     },
     {
@@ -1666,15 +2658,20 @@
       "stations_available": 13,
       "path": "countries/na.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/na.m3u",
-      "page_72fm": "https://72fm.com/radio/na"
+      "page_72fm": "https://72fm.com/radio/na",
+      "garrys_mod": {
+        "stations": 10,
+        "path": "garrys-mod/na-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/na-radio_pls.txt"
+      }
     },
     {
       "type": "country",
       "id": "np",
       "name": "Nepal",
       "flag": "🇳🇵",
-      "stations": 148,
-      "stations_available": 148,
+      "stations": 147,
+      "stations_available": 147,
       "path": "countries/np.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/np.m3u",
       "page_72fm": "https://72fm.com/radio/np",
@@ -1682,6 +2679,16 @@
         "stations": 100,
         "path": "ets2/np/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/np/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/np/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/np/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/np-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/np-radio_pls.txt"
       }
     },
     {
@@ -1698,6 +2705,16 @@
         "stations": 100,
         "path": "ets2/nl/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/nl/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/nl/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/nl/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/nl-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/nl-radio_pls.txt"
       }
     },
     {
@@ -1709,7 +2726,12 @@
       "stations_available": 7,
       "path": "countries/nc.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/nc.m3u",
-      "page_72fm": "https://72fm.com/radio/nc"
+      "page_72fm": "https://72fm.com/radio/nc",
+      "garrys_mod": {
+        "stations": 7,
+        "path": "garrys-mod/nc-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/nc-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -1725,6 +2747,16 @@
         "stations": 81,
         "path": "ets2/nz/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/nz/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 88,
+        "path": "farming-simulator/nz/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/nz/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/nz-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/nz-radio_pls.txt"
       }
     },
     {
@@ -1741,6 +2773,16 @@
         "stations": 13,
         "path": "ets2/ni/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ni/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 18,
+        "path": "farming-simulator/ni/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ni/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 20,
+        "path": "garrys-mod/ni-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ni-radio_pls.txt"
       }
     },
     {
@@ -1757,6 +2799,16 @@
         "stations": 45,
         "path": "ets2/ng/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ng/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 57,
+        "path": "farming-simulator/ng/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ng/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 63,
+        "path": "garrys-mod/ng-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ng-radio_pls.txt"
       }
     },
     {
@@ -1773,6 +2825,16 @@
         "stations": 5,
         "path": "ets2/kp/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/kp/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/kp/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/kp/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/kp-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/kp-radio_pls.txt"
       }
     },
     {
@@ -1789,6 +2851,16 @@
         "stations": 27,
         "path": "ets2/mk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mk/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 33,
+        "path": "farming-simulator/mk/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mk/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 33,
+        "path": "garrys-mod/mk-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mk-radio_pls.txt"
       }
     },
     {
@@ -1805,6 +2877,16 @@
         "stations": 83,
         "path": "ets2/no/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/no/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 85,
+        "path": "farming-simulator/no/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/no/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 99,
+        "path": "garrys-mod/no-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/no-radio_pls.txt"
       }
     },
     {
@@ -1821,6 +2903,16 @@
         "stations": 5,
         "path": "ets2/om/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/om/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/om/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/om/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/om-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/om-radio_pls.txt"
       }
     },
     {
@@ -1837,6 +2929,16 @@
         "stations": 24,
         "path": "ets2/pk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/pk/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 53,
+        "path": "farming-simulator/pk/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/pk/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 55,
+        "path": "garrys-mod/pk-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/pk-radio_pls.txt"
       }
     },
     {
@@ -1853,6 +2955,16 @@
         "stations": 6,
         "path": "ets2/ps/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ps/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 8,
+        "path": "farming-simulator/ps/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ps/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 9,
+        "path": "garrys-mod/ps-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ps-radio_pls.txt"
       }
     },
     {
@@ -1869,6 +2981,16 @@
         "stations": 8,
         "path": "ets2/pa/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/pa/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 12,
+        "path": "farming-simulator/pa/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/pa/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 17,
+        "path": "garrys-mod/pa-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/pa-radio_pls.txt"
       }
     },
     {
@@ -1876,8 +2998,8 @@
       "id": "py",
       "name": "Paraguay",
       "flag": "🇵🇾",
-      "stations": 62,
-      "stations_available": 62,
+      "stations": 61,
+      "stations_available": 61,
       "path": "countries/py.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/py.m3u",
       "page_72fm": "https://72fm.com/radio/py",
@@ -1885,6 +3007,16 @@
         "stations": 12,
         "path": "ets2/py/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/py/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 15,
+        "path": "farming-simulator/py/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/py/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 20,
+        "path": "garrys-mod/py-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/py-radio_pls.txt"
       }
     },
     {
@@ -1892,15 +3024,25 @@
       "id": "pe",
       "name": "Peru",
       "flag": "🇵🇪",
-      "stations": 254,
-      "stations_available": 254,
+      "stations": 252,
+      "stations_available": 252,
       "path": "countries/pe.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pe.m3u",
       "page_72fm": "https://72fm.com/radio/pe",
       "ets2": {
-        "stations": 95,
+        "stations": 94,
         "path": "ets2/pe/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/pe/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/pe/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/pe/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/pe-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/pe-radio_pls.txt"
       }
     },
     {
@@ -1909,7 +3051,7 @@
       "name": "Philippines",
       "flag": "🇵🇭",
       "stations": 300,
-      "stations_available": 637,
+      "stations_available": 630,
       "path": "countries/ph.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ph.m3u",
       "page_72fm": "https://72fm.com/radio/ph",
@@ -1917,6 +3059,16 @@
         "stations": 100,
         "path": "ets2/ph/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ph/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ph/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ph/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ph-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ph-radio_pls.txt"
       }
     },
     {
@@ -1933,6 +3085,16 @@
         "stations": 100,
         "path": "ets2/pl/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/pl/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/pl/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/pl/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/pl-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/pl-radio_pls.txt"
       }
     },
     {
@@ -1941,7 +3103,7 @@
       "name": "Portugal",
       "flag": "🇵🇹",
       "stations": 300,
-      "stations_available": 333,
+      "stations_available": 332,
       "path": "countries/pt.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pt.m3u",
       "page_72fm": "https://72fm.com/radio/pt",
@@ -1949,6 +3111,16 @@
         "stations": 100,
         "path": "ets2/pt/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/pt/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/pt/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/pt/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/pt-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/pt-radio_pls.txt"
       }
     },
     {
@@ -1965,6 +3137,16 @@
         "stations": 29,
         "path": "ets2/pr/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/pr/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 35,
+        "path": "farming-simulator/pr/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/pr/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 39,
+        "path": "garrys-mod/pr-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/pr-radio_pls.txt"
       }
     },
     {
@@ -1992,6 +3174,16 @@
         "stations": 26,
         "path": "ets2/re/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/re/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 29,
+        "path": "farming-simulator/re/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/re/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 30,
+        "path": "garrys-mod/re-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/re-radio_pls.txt"
       }
     },
     {
@@ -2000,7 +3192,7 @@
       "name": "Romania",
       "flag": "🇷🇴",
       "stations": 300,
-      "stations_available": 838,
+      "stations_available": 835,
       "path": "countries/ro.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ro.m3u",
       "page_72fm": "https://72fm.com/radio/ro",
@@ -2008,6 +3200,16 @@
         "stations": 100,
         "path": "ets2/ro/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ro/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ro/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ro/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ro-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ro-radio_pls.txt"
       }
     },
     {
@@ -2016,7 +3218,7 @@
       "name": "Russia",
       "flag": "🇷🇺",
       "stations": 300,
-      "stations_available": 2326,
+      "stations_available": 2328,
       "path": "countries/ru.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ru.m3u",
       "page_72fm": "https://72fm.com/radio/ru",
@@ -2024,6 +3226,16 @@
         "stations": 100,
         "path": "ets2/ru/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ru/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ru/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ru/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ru-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ru-radio_pls.txt"
       }
     },
     {
@@ -2040,6 +3252,16 @@
         "stations": 6,
         "path": "ets2/rw/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/rw/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 7,
+        "path": "farming-simulator/rw/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/rw/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 7,
+        "path": "garrys-mod/rw-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/rw-radio_pls.txt"
       }
     },
     {
@@ -2067,6 +3289,16 @@
         "stations": 35,
         "path": "ets2/sa/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/sa/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 40,
+        "path": "farming-simulator/sa/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/sa/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 43,
+        "path": "garrys-mod/sa-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/sa-radio_pls.txt"
       }
     },
     {
@@ -2083,6 +3315,16 @@
         "stations": 28,
         "path": "ets2/sn/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/sn/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 30,
+        "path": "farming-simulator/sn/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/sn/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 31,
+        "path": "garrys-mod/sn-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/sn-radio_pls.txt"
       }
     },
     {
@@ -2099,6 +3341,16 @@
         "stations": 100,
         "path": "ets2/rs/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/rs/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/rs/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/rs/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/rs-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/rs-radio_pls.txt"
       }
     },
     {
@@ -2115,6 +3367,16 @@
         "stations": 14,
         "path": "ets2/sg/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/sg/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 14,
+        "path": "farming-simulator/sg/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/sg/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 15,
+        "path": "garrys-mod/sg-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/sg-radio_pls.txt"
       }
     },
     {
@@ -2131,6 +3393,16 @@
         "stations": 97,
         "path": "ets2/sk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/sk/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/sk/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/sk/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/sk-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/sk-radio_pls.txt"
       }
     },
     {
@@ -2147,6 +3419,16 @@
         "stations": 97,
         "path": "ets2/si/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/si/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 99,
+        "path": "farming-simulator/si/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/si/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/si-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/si-radio_pls.txt"
       }
     },
     {
@@ -2163,6 +3445,16 @@
         "stations": 81,
         "path": "ets2/za/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/za/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/za/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/za/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/za-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/za-radio_pls.txt"
       }
     },
     {
@@ -2170,8 +3462,8 @@
       "id": "kr",
       "name": "South Korea",
       "flag": "🇰🇷",
-      "stations": 103,
-      "stations_available": 103,
+      "stations": 105,
+      "stations_available": 105,
       "path": "countries/kr.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/kr.m3u",
       "page_72fm": "https://72fm.com/radio/kr",
@@ -2179,6 +3471,16 @@
         "stations": 19,
         "path": "ets2/kr/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/kr/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 17,
+        "path": "farming-simulator/kr/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/kr/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 23,
+        "path": "garrys-mod/kr-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/kr-radio_pls.txt"
       }
     },
     {
@@ -2187,7 +3489,7 @@
       "name": "Spain",
       "flag": "🇪🇸",
       "stations": 300,
-      "stations_available": 1140,
+      "stations_available": 1143,
       "path": "countries/es.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/es.m3u",
       "page_72fm": "https://72fm.com/radio/es",
@@ -2195,6 +3497,16 @@
         "stations": 100,
         "path": "ets2/es/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/es/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/es/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/es/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/es-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/es-radio_pls.txt"
       }
     },
     {
@@ -2211,6 +3523,16 @@
         "stations": 40,
         "path": "ets2/lk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/lk/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 49,
+        "path": "farming-simulator/lk/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/lk/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 51,
+        "path": "garrys-mod/lk-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/lk-radio_pls.txt"
       }
     },
     {
@@ -2227,6 +3549,16 @@
         "stations": 12,
         "path": "ets2/lc/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/lc/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 12,
+        "path": "farming-simulator/lc/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/lc/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 13,
+        "path": "garrys-mod/lc-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/lc-radio_pls.txt"
       }
     },
     {
@@ -2243,6 +3575,16 @@
         "stations": 8,
         "path": "ets2/vc/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/vc/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 11,
+        "path": "farming-simulator/vc/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/vc/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 12,
+        "path": "garrys-mod/vc-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/vc-radio_pls.txt"
       }
     },
     {
@@ -2270,6 +3612,16 @@
         "stations": 100,
         "path": "ets2/se/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/se/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/se/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/se/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/se-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/se-radio_pls.txt"
       }
     },
     {
@@ -2286,6 +3638,16 @@
         "stations": 100,
         "path": "ets2/ch/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ch/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ch/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ch/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ch-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ch-radio_pls.txt"
       }
     },
     {
@@ -2302,6 +3664,16 @@
         "stations": 18,
         "path": "ets2/sy/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/sy/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 20,
+        "path": "farming-simulator/sy/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/sy/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 21,
+        "path": "garrys-mod/sy-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/sy-radio_pls.txt"
       }
     },
     {
@@ -2318,6 +3690,16 @@
         "stations": 91,
         "path": "ets2/tw/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/tw/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 93,
+        "path": "farming-simulator/tw/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/tw/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/tw-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/tw-radio_pls.txt"
       }
     },
     {
@@ -2334,6 +3716,16 @@
         "stations": 12,
         "path": "ets2/tz/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/tz/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 13,
+        "path": "farming-simulator/tz/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/tz/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 14,
+        "path": "garrys-mod/tz-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/tz-radio_pls.txt"
       }
     },
     {
@@ -2350,6 +3742,16 @@
         "stations": 54,
         "path": "ets2/th/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/th/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 59,
+        "path": "farming-simulator/th/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/th/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 62,
+        "path": "garrys-mod/th-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/th-radio_pls.txt"
       }
     },
     {
@@ -2366,6 +3768,16 @@
         "stations": 5,
         "path": "ets2/tg/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/tg/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 5,
+        "path": "farming-simulator/tg/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/tg/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/tg-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/tg-radio_pls.txt"
       }
     },
     {
@@ -2382,6 +3794,16 @@
         "stations": 11,
         "path": "ets2/tt/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/tt/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 15,
+        "path": "farming-simulator/tt/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/tt/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 19,
+        "path": "garrys-mod/tt-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/tt-radio_pls.txt"
       }
     },
     {
@@ -2398,6 +3820,16 @@
         "stations": 44,
         "path": "ets2/tn/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/tn/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 47,
+        "path": "farming-simulator/tn/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/tn/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 47,
+        "path": "garrys-mod/tn-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/tn-radio_pls.txt"
       }
     },
     {
@@ -2414,6 +3846,16 @@
         "stations": 100,
         "path": "ets2/tr/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/tr/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/tr/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/tr/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/tr-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/tr-radio_pls.txt"
       }
     },
     {
@@ -2425,11 +3867,21 @@
       "stations_available": 25,
       "path": "countries/um.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/um.m3u",
-      "page_72fm": "https://72fm.com/radio/um",
+      "page_72fm": null,
       "ets2": {
         "stations": 12,
         "path": "ets2/um/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/um/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 12,
+        "path": "farming-simulator/um/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/um/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 13,
+        "path": "garrys-mod/um-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/um-radio_pls.txt"
       }
     },
     {
@@ -2441,7 +3893,12 @@
       "stations_available": 7,
       "path": "countries/vi.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/vi.m3u",
-      "page_72fm": "https://72fm.com/radio/vi"
+      "page_72fm": "https://72fm.com/radio/vi",
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/vi-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/vi-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -2457,6 +3914,16 @@
         "stations": 92,
         "path": "ets2/ug/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ug/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ug/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ug/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ug-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ug-radio_pls.txt"
       }
     },
     {
@@ -2473,6 +3940,16 @@
         "stations": 100,
         "path": "ets2/ua/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ua/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ua/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ua/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ua-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ua-radio_pls.txt"
       }
     },
     {
@@ -2481,7 +3958,7 @@
       "name": "United Arab Emirates",
       "flag": "🇦🇪",
       "stations": 300,
-      "stations_available": 628,
+      "stations_available": 624,
       "path": "countries/ae.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ae.m3u",
       "page_72fm": "https://72fm.com/radio/ae",
@@ -2489,6 +3966,16 @@
         "stations": 100,
         "path": "ets2/ae/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ae/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/ae/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ae/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ae-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ae-radio_pls.txt"
       }
     },
     {
@@ -2497,7 +3984,7 @@
       "name": "United Kingdom",
       "flag": "🇬🇧",
       "stations": 300,
-      "stations_available": 1915,
+      "stations_available": 1913,
       "path": "countries/gb.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/gb.m3u",
       "page_72fm": "https://72fm.com/radio/gb",
@@ -2505,6 +3992,16 @@
         "stations": 100,
         "path": "ets2/gb/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/gb/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/gb/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gb/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/gb-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gb-radio_pls.txt"
       }
     },
     {
@@ -2513,7 +4010,7 @@
       "name": "United States",
       "flag": "🇺🇸",
       "stations": 300,
-      "stations_available": 6359,
+      "stations_available": 6352,
       "path": "countries/us.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/us.m3u",
       "page_72fm": "https://72fm.com/radio/us",
@@ -2521,6 +4018,16 @@
         "stations": 100,
         "path": "ets2/us/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/us/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 100,
+        "path": "farming-simulator/us/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/us/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/us-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/us-radio_pls.txt"
       }
     },
     {
@@ -2537,6 +4044,16 @@
         "stations": 66,
         "path": "ets2/uy/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/uy/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 86,
+        "path": "farming-simulator/uy/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/uy/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 99,
+        "path": "garrys-mod/uy-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/uy-radio_pls.txt"
       }
     },
     {
@@ -2548,7 +4065,12 @@
       "stations_available": 10,
       "path": "countries/uz.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/uz.m3u",
-      "page_72fm": "https://72fm.com/radio/uz"
+      "page_72fm": "https://72fm.com/radio/uz",
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/uz-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/uz-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -2564,6 +4086,16 @@
         "stations": 13,
         "path": "ets2/va/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/va/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 13,
+        "path": "farming-simulator/va/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/va/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 13,
+        "path": "garrys-mod/va-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/va-radio_pls.txt"
       }
     },
     {
@@ -2580,6 +4112,16 @@
         "stations": 55,
         "path": "ets2/ve/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ve/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 69,
+        "path": "farming-simulator/ve/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ve/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 100,
+        "path": "garrys-mod/ve-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ve-radio_pls.txt"
       }
     },
     {
@@ -2596,6 +4138,16 @@
         "stations": 15,
         "path": "ets2/vn/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/vn/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 16,
+        "path": "farming-simulator/vn/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/vn/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 16,
+        "path": "garrys-mod/vn-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/vn-radio_pls.txt"
       }
     },
     {
@@ -2612,6 +4164,16 @@
         "stations": 10,
         "path": "ets2/ye/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ye/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 12,
+        "path": "farming-simulator/ye/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ye/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 13,
+        "path": "garrys-mod/ye-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ye-radio_pls.txt"
       }
     },
     {
@@ -2628,6 +4190,16 @@
         "stations": 62,
         "path": "ets2/zm/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/zm/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 75,
+        "path": "farming-simulator/zm/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/zm/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 76,
+        "path": "garrys-mod/zm-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/zm-radio_pls.txt"
       }
     },
     {
@@ -2644,6 +4216,16 @@
         "stations": 10,
         "path": "ets2/zw/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/zw/live_streams.sii"
+      },
+      "farming_simulator": {
+        "stations": 14,
+        "path": "farming-simulator/zw/streamingInternetRadios.xml",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/zw/streamingInternetRadios.xml"
+      },
+      "garrys_mod": {
+        "stations": 21,
+        "path": "garrys-mod/zw-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/zw-radio_pls.txt"
       }
     },
     {
@@ -2651,7 +4233,7 @@
       "id": "2000s",
       "name": "2000s",
       "stations": 300,
-      "stations_available": 347,
+      "stations_available": 346,
       "path": "genres/2000s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/2000s.m3u",
       "page_72fm": null
@@ -2660,8 +4242,8 @@
       "type": "genre",
       "id": "60s",
       "name": "60s",
-      "stations": 291,
-      "stations_available": 291,
+      "stations": 290,
+      "stations_available": 290,
       "path": "genres/60s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/60s.m3u",
       "page_72fm": "https://72fm.com/genre/60s"
@@ -2671,7 +4253,7 @@
       "id": "70s",
       "name": "70s",
       "stations": 300,
-      "stations_available": 583,
+      "stations_available": 581,
       "path": "genres/70s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/70s.m3u",
       "page_72fm": "https://72fm.com/genre/70s"
@@ -2681,7 +4263,7 @@
       "id": "80s",
       "name": "80s",
       "stations": 300,
-      "stations_available": 1195,
+      "stations_available": 1194,
       "path": "genres/80s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/80s.m3u",
       "page_72fm": "https://72fm.com/genre/80s"
@@ -2691,7 +4273,7 @@
       "id": "90s",
       "name": "90s",
       "stations": 300,
-      "stations_available": 921,
+      "stations_available": 922,
       "path": "genres/90s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/90s.m3u",
       "page_72fm": "https://72fm.com/genre/90s"
@@ -2701,7 +4283,7 @@
       "id": "adult-contemporary",
       "name": "Adult Contemporary",
       "stations": 300,
-      "stations_available": 851,
+      "stations_available": 850,
       "path": "genres/adult-contemporary.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/adult-contemporary.m3u",
       "page_72fm": null
@@ -2721,7 +4303,7 @@
       "id": "ambient",
       "name": "Ambient",
       "stations": 300,
-      "stations_available": 334,
+      "stations_available": 333,
       "path": "genres/ambient.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/ambient.m3u",
       "page_72fm": "https://72fm.com/genre/ambient"
@@ -2741,7 +4323,7 @@
       "id": "chill",
       "name": "Chill & Relax",
       "stations": 300,
-      "stations_available": 370,
+      "stations_available": 371,
       "path": "genres/chill.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/chill.m3u",
       "page_72fm": "https://72fm.com/genre/chill"
@@ -2770,8 +4352,8 @@
       "type": "genre",
       "id": "christmas",
       "name": "Christmas",
-      "stations": 235,
-      "stations_available": 235,
+      "stations": 234,
+      "stations_available": 234,
       "path": "genres/christmas.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/christmas.m3u",
       "page_72fm": null
@@ -2781,7 +4363,7 @@
       "id": "classic-hits",
       "name": "Classic Hits",
       "stations": 300,
-      "stations_available": 626,
+      "stations_available": 624,
       "path": "genres/classic-hits.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/classic-hits.m3u",
       "page_72fm": null
@@ -2801,7 +4383,7 @@
       "id": "classical",
       "name": "Classical",
       "stations": 300,
-      "stations_available": 1208,
+      "stations_available": 1207,
       "path": "genres/classical.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/classical.m3u",
       "page_72fm": "https://72fm.com/genre/classical"
@@ -2811,7 +4393,7 @@
       "id": "country",
       "name": "Country",
       "stations": 300,
-      "stations_available": 644,
+      "stations_available": 641,
       "path": "genres/country.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/country.m3u",
       "page_72fm": "https://72fm.com/genre/country"
@@ -2820,8 +4402,8 @@
       "type": "genre",
       "id": "cumbia",
       "name": "Cumbia",
-      "stations": 143,
-      "stations_available": 143,
+      "stations": 142,
+      "stations_available": 142,
       "path": "genres/cumbia.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/cumbia.m3u",
       "page_72fm": "https://72fm.com/genre/cumbia"
@@ -2831,7 +4413,7 @@
       "id": "dance",
       "name": "Dance",
       "stations": 300,
-      "stations_available": 1347,
+      "stations_available": 1344,
       "path": "genres/dance.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/dance.m3u",
       "page_72fm": "https://72fm.com/genre/dance"
@@ -2860,8 +4442,8 @@
       "type": "genre",
       "id": "drum-and-bass",
       "name": "Drum and Bass",
-      "stations": 132,
-      "stations_available": 132,
+      "stations": 131,
+      "stations_available": 131,
       "path": "genres/drum-and-bass.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/drum-and-bass.m3u",
       "page_72fm": "https://72fm.com/genre/drum-and-bass"
@@ -2880,8 +4462,8 @@
       "type": "genre",
       "id": "edm",
       "name": "EDM",
-      "stations": 203,
-      "stations_available": 203,
+      "stations": 204,
+      "stations_available": 204,
       "path": "genres/edm.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/edm.m3u",
       "page_72fm": "https://72fm.com/genre/edm"
@@ -2891,7 +4473,7 @@
       "id": "electronic",
       "name": "Electronic",
       "stations": 300,
-      "stations_available": 1106,
+      "stations_available": 1107,
       "path": "genres/electronic.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/electronic.m3u",
       "page_72fm": "https://72fm.com/genre/electronic"
@@ -2901,7 +4483,7 @@
       "id": "folk",
       "name": "Folk",
       "stations": 300,
-      "stations_available": 651,
+      "stations_available": 650,
       "path": "genres/folk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/folk.m3u",
       "page_72fm": "https://72fm.com/genre/folk"
@@ -2930,8 +4512,8 @@
       "type": "genre",
       "id": "hard-rock",
       "name": "Hard Rock",
-      "stations": 209,
-      "stations_available": 209,
+      "stations": 208,
+      "stations_available": 208,
       "path": "genres/hard-rock.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/hard-rock.m3u",
       "page_72fm": "https://72fm.com/genre/hard-rock"
@@ -2951,7 +4533,7 @@
       "id": "house",
       "name": "House",
       "stations": 300,
-      "stations_available": 619,
+      "stations_available": 618,
       "path": "genres/house.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/house.m3u",
       "page_72fm": "https://72fm.com/genre/house"
@@ -2961,7 +4543,7 @@
       "id": "indie",
       "name": "Indie",
       "stations": 300,
-      "stations_available": 452,
+      "stations_available": 451,
       "path": "genres/indie.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/indie.m3u",
       "page_72fm": "https://72fm.com/genre/indie"
@@ -2981,7 +4563,7 @@
       "id": "jazz",
       "name": "Jazz",
       "stations": 300,
-      "stations_available": 997,
+      "stations_available": 998,
       "path": "genres/jazz.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/jazz.m3u",
       "page_72fm": "https://72fm.com/genre/jazz"
@@ -3021,7 +4603,7 @@
       "id": "metal",
       "name": "Metal",
       "stations": 300,
-      "stations_available": 466,
+      "stations_available": 464,
       "path": "genres/metal.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/metal.m3u",
       "page_72fm": "https://72fm.com/genre/metal"
@@ -3041,7 +4623,7 @@
       "id": "oldies",
       "name": "Oldies",
       "stations": 300,
-      "stations_available": 1084,
+      "stations_available": 1083,
       "path": "genres/oldies.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/oldies.m3u",
       "page_72fm": "https://72fm.com/genre/oldies"
@@ -3051,7 +4633,7 @@
       "id": "pop",
       "name": "Pop",
       "stations": 300,
-      "stations_available": 5005,
+      "stations_available": 5000,
       "path": "genres/pop.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/pop.m3u",
       "page_72fm": "https://72fm.com/genre/pop"
@@ -3060,8 +4642,8 @@
       "type": "genre",
       "id": "punk",
       "name": "Punk",
-      "stations": 178,
-      "stations_available": 178,
+      "stations": 177,
+      "stations_available": 177,
       "path": "genres/punk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/punk.m3u",
       "page_72fm": "https://72fm.com/genre/punk"
@@ -3090,8 +4672,8 @@
       "type": "genre",
       "id": "reggae",
       "name": "Reggae",
-      "stations": 221,
-      "stations_available": 221,
+      "stations": 219,
+      "stations_available": 219,
       "path": "genres/reggae.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/reggae.m3u",
       "page_72fm": "https://72fm.com/genre/reggae"
@@ -3131,7 +4713,7 @@
       "id": "rock",
       "name": "Rock",
       "stations": 300,
-      "stations_available": 2518,
+      "stations_available": 2517,
       "path": "genres/rock.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/rock.m3u",
       "page_72fm": "https://72fm.com/genre/rock"
@@ -3160,8 +4742,8 @@
       "type": "genre",
       "id": "smooth-jazz",
       "name": "Smooth Jazz",
-      "stations": 214,
-      "stations_available": 214,
+      "stations": 215,
+      "stations_available": 215,
       "path": "genres/smooth-jazz.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/smooth-jazz.m3u",
       "page_72fm": "https://72fm.com/genre/smooth-jazz"
@@ -3171,7 +4753,7 @@
       "id": "soul",
       "name": "Soul",
       "stations": 300,
-      "stations_available": 390,
+      "stations_available": 389,
       "path": "genres/soul.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/soul.m3u",
       "page_72fm": "https://72fm.com/genre/soul"
@@ -3181,7 +4763,7 @@
       "id": "sports",
       "name": "Sports",
       "stations": 300,
-      "stations_available": 536,
+      "stations_available": 535,
       "path": "genres/sports.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/sports.m3u",
       "page_72fm": null
@@ -3191,7 +4773,7 @@
       "id": "talk",
       "name": "Talk",
       "stations": 300,
-      "stations_available": 1919,
+      "stations_available": 1918,
       "path": "genres/talk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/talk.m3u",
       "page_72fm": "https://72fm.com/genre/talk"
@@ -3230,8 +4812,8 @@
       "type": "genre",
       "id": "tropical",
       "name": "Tropical",
-      "stations": 157,
-      "stations_available": 157,
+      "stations": 158,
+      "stations_available": 158,
       "path": "genres/tropical.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/tropical.m3u",
       "page_72fm": null
@@ -3251,7 +4833,7 @@
       "id": "top-500",
       "name": "Top 500 by votes",
       "stations": 500,
-      "stations_available": 50493,
+      "stations_available": 50456,
       "path": "top/top-500.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/top/top-500.m3u",
       "page_72fm": "https://72fm.com"

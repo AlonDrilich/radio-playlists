@@ -369,7 +369,7 @@ http://iis.ge:8000/radiotbilisi.mp3
 http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/96192d12-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="News" radio="true",702 Johannesburg
-http://25503.live.streamtheworld.com:3690/FM702_SC
+http://22333.live.streamtheworld.com/FM702_SC
 # 72FM: https://72fm.com/station/96b88cb2-76a4-43fb-9257-e791103f5fa8?source=m3u
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2021/09/radio-taipei-93.1-fm-220x108.jpg" group-title="News" radio="true",臺北電台
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
@@ -408,7 +408,7 @@ http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bb
 https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
 # 72FM: https://72fm.com/station/9644c8f4-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="News" radio="true",CTV News Audio Channel
-http://29324.live.streamtheworld.com:3690/TV_CTV_NEWSAAC_SC
+http://26103.live.streamtheworld.com/TV_CTV_NEWSAAC_SC
 # 72FM: https://72fm.com/station/960b1670-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png" group-title="News" radio="true",RNZ National MP3
 http://radionz-ice.streamguys.com/national.mp3
@@ -790,12 +790,12 @@ http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_so
 # 72FM: https://72fm.com/station/744d4afd-05c2-4c84-b8e9-a64f66bf08fc?source=m3u
 #EXTINF:-1 group-title="News" radio="true",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-# 72FM: https://72fm.com/station/9614750c-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="News" radio="true",Радио России (Radio Russia)
-http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 # 72FM: https://72fm.com/station/8ca28b1f-8f5d-4039-a322-52a13630159d?source=m3u
 #EXTINF:-1 group-title="News" radio="true",美国中文电台-旧金山
 http://radiokest.serverroom.us:6670/;?type=http&nocache=3295
+# 72FM: https://72fm.com/station/9614750c-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="News" radio="true",Радио России (Radio Russia)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 # 72FM: https://72fm.com/station/68aba27b-fe79-4f35-a7e1-8520dd4b55a7?source=m3u
 #EXTINF:-1 group-title="News" radio="true",XEB La B grande de Mexico 1220 AM / 94.5 HD2 'Con la Música de México' IMER
 https://s2.mexside.net/8024/stream
@@ -814,12 +814,12 @@ https://edge.iono.fm/xice/88_high.mp3
 # 72FM: https://72fm.com/station/04e50d31-07d9-4e6a-927a-b22fb034eb3c?source=m3u
 #EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/favicon.png" group-title="News" radio="true",Cadena SER - Ràdio Barcelona
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
-# 72FM: https://72fm.com/station/f5c095e7-6517-4175-9203-5b9e907fb821?source=m3u
-#EXTINF:-1 tvg-logo="https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png" group-title="News" radio="true",AIR News 24/7
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
 # 72FM: https://72fm.com/station/b3a2b935-fa76-4086-9db3-22da3bb1ee9c?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YjB73sNAHd.png" group-title="News" radio="true",BandNews FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC_SC
+# 72FM: https://72fm.com/station/f5c095e7-6517-4175-9203-5b9e907fb821?source=m3u
+#EXTINF:-1 tvg-logo="https://liveradios.in/wp-content/uploads/output-onlinepngtools-1-150x150.png" group-title="News" radio="true",AIR News 24/7
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
 # 72FM: https://72fm.com/station/f34ae431-42cd-4ef1-8a24-f4eca8a70cc1?source=m3u
 #EXTINF:-1 tvg-logo="https://media.wnyc.org/i/300/300/c/80/1/wnyc_square_logo.png" group-title="News" radio="true",WNYC 93.9 FM
 http://fm939.wnyc.org/wnycfm.aac
@@ -879,7 +879,7 @@ http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.n
 http://80.232.162.149:8000/swh96mp3
 # 72FM: https://72fm.com/station/962263bc-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="News" radio="true",WCSP 90.1 'C-SPAN Radio' Washington, DC
-http://17813.live.streamtheworld.com/CSPANRADIO_SC
+http://17813.live.streamtheworld.com:3690/CSPANRADIO_SC
 # 72FM: https://72fm.com/station/d4a4ca27-d864-4f0c-ac3a-4dd9d273cbb9?source=m3u
 #EXTINF:-1 group-title="News" radio="true",AXR Hong Kong
 http://hongkongstream.axr.online/

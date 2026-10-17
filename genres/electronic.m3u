@@ -63,7 +63,7 @@ http://live.deejay.hr:7002/;
 http://wma08.fluidstream.net:5010/;stream.aac
 # 72FM: https://72fm.com/station/960c154f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Electronic" radio="true",XHEXA 'Exa FM' 104.9 FM Mexico City, DF
-http://18303.live.streamtheworld.com/XHEXA_SC
+http://17573.live.streamtheworld.com:3690/XHEXA_SC
 # 72FM: https://72fm.com/station/bc8d535a-2514-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Electronic" radio="true",Costa del Mar - Deep House
 http://stream.cdm-chillout.com:8012/stream-mp3-Deep
@@ -247,12 +247,12 @@ https://www.happyhardcore.com/livestreams/p/u9/
 # 72FM: https://72fm.com/station/41282747-3723-11e8-bb9b-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Electronic" radio="true",European Hit Radio - Party Service
 http://stream.europeanhitradio.com:8000/Stream_12.aac
-# 72FM: https://72fm.com/station/a7955208-a64e-4430-b41c-62de37b14562?source=m3u
-#EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Dub Techno [2]
-http://79.120.39.202:8000/dubtechno
 # 72FM: https://72fm.com/station/5f7cdd03-86fc-4d13-89c1-2f9a0b92fc23?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Electronic" radio="true",__CLUB__ by rautemusik (rm.fm)
 https://club-high.rautemusik.fm/?ref=radiobrowser
+# 72FM: https://72fm.com/station/a7955208-a64e-4430-b41c-62de37b14562?source=m3u
+#EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Dub Techno [2]
+http://79.120.39.202:8000/dubtechno
 # 72FM: https://72fm.com/station/9e1377e3-623c-4b8f-a162-4da9c1fcdbf1?source=m3u
 #EXTINF:-1 group-title="Electronic" radio="true",chilltrax
 https://streamssl.chilltrax.com/
@@ -679,12 +679,12 @@ http://fluxfm.streamabc.net/flx-soundofberlin-mp3-320-9689589?sABC=6nq3261r%230%
 # 72FM: https://72fm.com/station/da2f84d6-edd1-4a87-b83d-39f6b6b3aa55?source=m3u
 #EXTINF:-1 tvg-logo="https://www.chilltrax.com/images/apple-icon-120x120.png" group-title="Electronic" radio="true",Chilltrax (USA) HQ 128k AAC+
 http://streams.electronicmusicradiogroup.org:9050/
-# 72FM: https://72fm.com/station/9638a8de-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Electronic" radio="true",181.FM - The Vibe of Vegas
-http://listen.181fm.com/181-vibe_128k.mp3
 # 72FM: https://72fm.com/station/6c4f7ec4-7ab4-4c98-901a-27a530df628f?source=m3u
 #EXTINF:-1 group-title="Electronic" radio="true",BreakZ HipHop & House
 https://breakz-high.rautemusik.fm/?ref=radio-browser-info
+# 72FM: https://72fm.com/station/9638a8de-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Electronic" radio="true",181.FM - The Vibe of Vegas
+http://listen.181fm.com/181-vibe_128k.mp3
 # 72FM: https://72fm.com/station/bd7135e8-5d0d-4e74-922c-0deb8f315587?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Electronic" radio="true",__TOP40__ by rautemusik (rm.fm)
 https://top40-high.rautemusik.fm/?ref=radiobrowser
@@ -721,15 +721,15 @@ http://ice5.somafm.com/brfm-128-mp3
 # 72FM: https://72fm.com/station/f567f131-c8dc-4ea2-9cd4-defc9a1ce0e1?source=m3u
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Downtempo / Downbeat [3]
 http://79.120.77.11:8004/downtempo
-# 72FM: https://72fm.com/station/876788ce-0639-4118-b67f-d5d8050a4b03?source=m3u
-#EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Traditional Electronic
-http://79.111.14.76:8002/tradelectronic
 # 72FM: https://72fm.com/station/1c8fa4a8-ea2a-477d-9bc1-ce6fa9489193?source=m3u
 #EXTINF:-1 tvg-logo="https://cadenacuscatlan.com.sv/assets/img/logo.png" group-title="Electronic" radio="true",Cuscatlán 98.5 FM
 http://icecasthd.net:8298/;
 # 72FM: https://72fm.com/station/963fbb20-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Electronic" radio="true",LCLHST R1
 http://s1.radio.lclhst.net:1437/r1
+# 72FM: https://72fm.com/station/876788ce-0639-4118-b67f-d5d8050a4b03?source=m3u
+#EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Traditional Electronic
+http://79.111.14.76:8002/tradelectronic
 # 72FM: https://72fm.com/station/8918ea01-ae78-4cf7-a906-d033ffea75d1?source=m3u
 #EXTINF:-1 group-title="Electronic" radio="true",Radio Caprice - Russian Club Dance Music [3]
 http://79.120.77.11:8004/clubru
@@ -789,7 +789,7 @@ http://79.120.39.202:8002/deephouse
 http://traxx002.ice.infomaniak.ch/traxx002-low.mp3
 # 72FM: https://72fm.com/station/a807ecc5-8410-4704-bac4-aed64ba76742?source=m3u
 #EXTINF:-1 group-title="Electronic" radio="true",SomaFM Deep Space One (128k MP3)
-https://ice5.somafm.com/deepspaceone-128-mp3
+https://ice2.somafm.com/deepspaceone-128-mp3
 # 72FM: https://72fm.com/station/b0354088-057b-4b65-8dd4-3470d08369fe?source=m3u
 #EXTINF:-1 tvg-logo="https://www.urbanrevolution.es/wp-content/uploads/2022/10/urban-positivo-cuadrado-512x512-1.png" group-title="Electronic" radio="true",Urban Revolution
 https://st1.urbanrevolution.es:8443/zonaelectronica

@@ -160,12 +160,12 @@ https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 # 72FM: https://72fm.com/station/5f9d9e6b-20ff-4901-98bc-fd42bcbee477?source=m3u
 #EXTINF:-1 group-title="Israel" radio="true",Kan Tarbut
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist
-# 72FM: https://72fm.com/station/08993f63-44f2-4fa0-8541-99194d5fd838?source=m3u
-#EXTINF:-1 tvg-logo="https://102fm.co.il/img/images/logo-top-menu.jpg" group-title="Israel" radio="true",Tel Aviv 102FM רדיו תל אביב
-https://102.livecdn.biz/102fm_aac
 # 72FM: https://72fm.com/station/e673a4df-e224-4787-a8ec-52c391992bb6?source=m3u
 #EXTINF:-1 tvg-logo="https://1015.radiodarom.co.il/Upload/Media/RadioStationLogo/radioStation_6_Logo_27072021180024.png" group-title="Israel" radio="true",101.5fm נותנים למוזיקה לדבר רדיו דרום
 https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio
+# 72FM: https://72fm.com/station/08993f63-44f2-4fa0-8541-99194d5fd838?source=m3u
+#EXTINF:-1 tvg-logo="https://102fm.co.il/img/images/logo-top-menu.jpg" group-title="Israel" radio="true",Tel Aviv 102FM רדיו תל אביב
+https://102.livecdn.biz/102fm_aac
 # 72FM: https://72fm.com/station/91929581-befa-4f52-bb5b-07cb376906d5?source=m3u
 #EXTINF:-1 tvg-logo="https://odsv.org/wp-content/uploads/2020/03/%D7%A8%D7%93%D7%99%D7%95-%D7%93%D7%A8%D7%95%D7%9D-1.png" group-title="Israel" radio="true",radio darom 95.8fm 97fm
 https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
@@ -211,12 +211,12 @@ https://play.radioking.io/rak-musica/670240
 # 72FM: https://72fm.com/station/20818139-130d-4179-abba-a8020933ab19?source=m3u
 #EXTINF:-1 group-title="Israel" radio="true",כאן רקע Kan Reka
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions
-# 72FM: https://72fm.com/station/353e22a8-1026-4b8e-bef4-5b94b91f049d?source=m3u
-#EXTINF:-1 tvg-logo="https://radiofranceisrael.com/uploads/user-music/1811/site-logo/sitelogo_91_1787912087_6825f8.jpg" group-title="Israel" radio="true",Radio France Israël
-https://stream10.vestaradio.com/Radio-France-Israel
 # 72FM: https://72fm.com/station/dd08fbb3-277e-4a49-9866-7fd6c21bb124?source=m3u
 #EXTINF:-1 tvg-logo="https://eco99fm.maariv.co.il/" group-title="Israel" radio="true",Eco 99fm
 https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a
+# 72FM: https://72fm.com/station/353e22a8-1026-4b8e-bef4-5b94b91f049d?source=m3u
+#EXTINF:-1 tvg-logo="https://radiofranceisrael.com/uploads/user-music/1811/site-logo/sitelogo_91_1787912087_6825f8.jpg" group-title="Israel" radio="true",Radio France Israël
+https://stream10.vestaradio.com/Radio-France-Israel
 # 72FM: https://72fm.com/station/37e8f5fa-23b1-4e8f-ba02-5323e5ead172?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio-yasoo.com/index.files/image009.jpg" group-title="Israel" radio="true",Radio Yasoo
 http://radio-yasoo.ath.cx:7500/;
@@ -238,15 +238,15 @@ https://live.toker.fm:6060/
 # 72FM: https://72fm.com/station/b07e5a4b-6bcf-4f15-a4f2-7bb98b96c1e5?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-mizrachit.png" group-title="Israel" radio="true",Radios 100FM - 100% Mizrachit (מזרחי)
 https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio
+# 72FM: https://72fm.com/station/0f0442d1-c903-4967-a961-bde7b475d083?source=m3u
+#EXTINF:-1 group-title="Israel" radio="true",Kan Bet 64K
+https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?bitrate=64000&audioId=1&lang=pol&renditions
 # 72FM: https://72fm.com/station/34407a8b-65b1-4b1e-9eb9-8fa2a4c14e08?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-country.png" group-title="Israel" radio="true",Radios 100FM - 100% Country
 https://gb25.streamgates.net/radios-audio/100Country/playlist.m3u8
 # 72FM: https://72fm.com/station/0c071206-7e91-46f2-8f2e-0bac6d8afcfa?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-top40.png" group-title="Israel" radio="true",Radios 100FM - 100% Top40
 https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio
-# 72FM: https://72fm.com/station/0f0442d1-c903-4967-a961-bde7b475d083?source=m3u
-#EXTINF:-1 group-title="Israel" radio="true",Kan Bet 64K
-https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?bitrate=64000&audioId=1&lang=pol&renditions
 # 72FM: https://72fm.com/station/38c81bbc-f8c3-4447-ae0e-ff8880017e04?source=m3u
 #EXTINF:-1 tvg-logo="https://breslevforyou.co.il/assets/favicon/favicon-152x152.png" group-title="Israel" radio="true",ברסלב פוריו: תורה וזימרה
 https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3
@@ -259,24 +259,18 @@ https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio
 # 72FM: https://72fm.com/station/76130e40-61d6-472b-bcc4-bad64a539a3d?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-movies.png" group-title="Israel" radio="true",Radios 100FM - 100% Movies
 https://gb25.streamgates.net/radios-audio/100Movies/playlist.m3u8
-# 72FM: https://72fm.com/station/c01d6ea8-e039-4973-8971-19419be39b0d?source=m3u
-#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-workout.png" group-title="Israel" radio="true",Radios 100FM - 100% Workout
-https://gb25.streamgates.net/radios-audio/100Workout/playlist.m3u8
 # 72FM: https://72fm.com/station/5bc37db7-b7a8-4b25-ac10-e671169ed5de?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-retro.png" group-title="Israel" radio="true",Radios 100FM - 100% Retro
 https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio
+# 72FM: https://72fm.com/station/c01d6ea8-e039-4973-8971-19419be39b0d?source=m3u
+#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-workout.png" group-title="Israel" radio="true",Radios 100FM - 100% Workout
+https://gb25.streamgates.net/radios-audio/100Workout/playlist.m3u8
 # 72FM: https://72fm.com/station/29632b43-283d-4156-8210-596b439c554c?source=m3u
 #EXTINF:-1 tvg-logo="https://breslevforyou.co.il/assets/favicon/favicon-152x152.png" group-title="Israel" radio="true",ברסלב פוריו: הלכות ודף יומי
 https://cast.breslevforyou.co.il/listen/halachot/radio.mp3
 # 72FM: https://72fm.com/station/25d7d098-ff20-4568-ad8a-c8e23e2ac18a?source=m3u
 #EXTINF:-1 tvg-logo="https://breslevforyou.co.il/assets/favicon/favicon-152x152.png" group-title="Israel" radio="true",ברסלב פוריו: קצר וקולע
 https://cast.breslevforyou.co.il/listen/shorts/radio.mp3
-# 72FM: https://72fm.com/station/c0c35a84-b5f4-4783-b27e-ab348c3f7e42?source=m3u
-#EXTINF:-1 tvg-logo="https://ystream.live/assets/img/icon-512.png" group-title="Israel" radio="true",yStream
-https://ystream.live/ystream-mp3
-# 72FM: https://72fm.com/station/beea8de9-e9cf-4453-bd00-28808b7358c1?source=m3u
-#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png" group-title="Israel" radio="true",Radios 100FM - 100% Blues
-https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8
 # 72FM: https://72fm.com/station/b483dae4-b4fd-4381-af9a-d175522a0369?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-club.png" group-title="Israel" radio="true",Radios 100FM - 100% Club
 https://gb25.streamgates.net/radios-audio/100Club/icecast.audio
@@ -286,9 +280,21 @@ https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio
 # 72FM: https://72fm.com/station/5f6f5879-d17d-4245-95e7-7594ff65ed4a?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-yehudi.png" group-title="Israel" radio="true",Radios 100FM - 100% Yehudi (יהודי)
 https://gb25.streamgates.net/radios-audio/100yehudi/playlist.m3u8
+# 72FM: https://72fm.com/station/beea8de9-e9cf-4453-bd00-28808b7358c1?source=m3u
+#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png" group-title="Israel" radio="true",Radios 100FM - 100% Blues
+https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8
 # 72FM: https://72fm.com/station/afb162fd-98c6-41a9-a12c-2a3366439506?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-love.png" group-title="Israel" radio="true",Radios 100FM - 100% Love
 https://gb25.streamgates.net/radios-audio/100Love/playlist.m3u8
+# 72FM: https://72fm.com/station/c0929697-50c6-4865-bc14-58e1a48ea20c?source=m3u
+#EXTINF:-1 tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/Up2Dance-Radio-01-01-768x742.png" group-title="Israel" radio="true",Up2Dance Radio
+https://icecast.live/up2dance
+# 72FM: https://72fm.com/station/c0c35a84-b5f4-4783-b27e-ab348c3f7e42?source=m3u
+#EXTINF:-1 tvg-logo="https://ystream.live/assets/img/icon-512.png" group-title="Israel" radio="true",yStream
+https://ystream.live/ystream-mp3
+# 72FM: https://72fm.com/station/567c0d2b-e276-4db4-b4e1-0b0904c3d491?source=m3u
+#EXTINF:-1 tvg-logo="https://breslevforyou.co.il/assets/favicon/favicon-152x152.png" group-title="Israel" radio="true",ברסלב פוריו: ספרי ברסלב
+https://cast.breslevforyou.co.il/listen/books/radio.mp3
 # 72FM: https://72fm.com/station/e7230036-0803-4aea-aa87-938db8b2d4eb?source=m3u
 #EXTINF:-1 group-title="Israel" radio="true",ELI NISMAN
 http://listen6.myradio24.com:9000/25715
@@ -301,21 +307,9 @@ https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio
 # 72FM: https://72fm.com/station/73a1c99b-67b4-49d0-b7df-7493dcc31873?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-world.png" group-title="Israel" radio="true",Radios 100FM - 100% World Music
 https://gb25.streamgates.net/radios-audio/100World/playlist.m3u8
-# 72FM: https://72fm.com/station/c0929697-50c6-4865-bc14-58e1a48ea20c?source=m3u
-#EXTINF:-1 tvg-logo="https://up2dance.com/wp-content/uploads/2021/01/Up2Dance-Radio-01-01-768x742.png" group-title="Israel" radio="true",Up2Dance Radio
-https://icecast.live/up2dance
-# 72FM: https://72fm.com/station/567c0d2b-e276-4db4-b4e1-0b0904c3d491?source=m3u
-#EXTINF:-1 tvg-logo="https://breslevforyou.co.il/assets/favicon/favicon-152x152.png" group-title="Israel" radio="true",ברסלב פוריו: ספרי ברסלב
-https://cast.breslevforyou.co.il/listen/books/radio.mp3
 # 72FM: https://72fm.com/station/263e7078-2beb-4bdb-8a46-17dbeb08bab2?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-covers.png" group-title="Israel" radio="true",Radios 100FM - 100% Covers
 https://gb25.streamgates.net/radios-audio/100Covers/playlist.m3u8
-# 72FM: https://72fm.com/station/87c879a3-fa7b-4dbc-8f27-b3ae7d770ef0?source=m3u
-#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-latin.png" group-title="Israel" radio="true",Radios 100FM - 100% Latin
-https://gb25.streamgates.net/radios-audio/100Latin/playlist.m3u8
-# 72FM: https://72fm.com/station/80f92cbc-ebc7-4325-ba5e-0803bcbf5c02?source=m3u
-#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-relax.png" group-title="Israel" radio="true",Radios 100FM - 100% Relax
-https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio
 # 72FM: https://72fm.com/station/68ada8ff-e09b-4c6e-ad48-cdd009d97c70?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tiktok.png" group-title="Israel" radio="true",Radios 100FM - 100% Tiktok
 https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio
@@ -331,6 +325,12 @@ https://gb25.streamgates.net/radios-audio/100Hits/playlist.m3u8
 # 72FM: https://72fm.com/station/029c330c-922e-421c-a321-5031c82c355b?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-jazz.png" group-title="Israel" radio="true",Radios 100FM - 100% Jazz
 https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio
+# 72FM: https://72fm.com/station/87c879a3-fa7b-4dbc-8f27-b3ae7d770ef0?source=m3u
+#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-latin.png" group-title="Israel" radio="true",Radios 100FM - 100% Latin
+https://gb25.streamgates.net/radios-audio/100Latin/playlist.m3u8
+# 72FM: https://72fm.com/station/80f92cbc-ebc7-4325-ba5e-0803bcbf5c02?source=m3u
+#EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-relax.png" group-title="Israel" radio="true",Radios 100FM - 100% Relax
+https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio
 # 72FM: https://72fm.com/station/2f278549-4fb8-4d0d-8c85-f9243c35b119?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-rock.png" group-title="Israel" radio="true",Radios 100FM - 100% Rock
 https://gb25.streamgates.net/radios-audio/100Rock/playlist.m3u8
@@ -340,12 +340,12 @@ https://radio.betteradio.live/listen/better_radio/live
 # 72FM: https://72fm.com/station/a67789d0-acdd-406f-9c9b-9a7be43acd27?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-britpop.png" group-title="Israel" radio="true",Radios 100FM - 100% Britpop
 https://gb25.streamgates.net/radios-audio/100Britpop/playlist.m3u8
-# 72FM: https://72fm.com/station/03a782b9-13b8-462a-9da5-0a19a7f44a0f?source=m3u
-#EXTINF:-1 tvg-logo="https://radiolove.co.il/favicon.ico" group-title="Israel" radio="true",Radio Love Soft Romantic
-https://liveradio.co.il:9000/stream
 # 72FM: https://72fm.com/station/c6d2c435-0e91-4c63-b56f-919edebc93fd?source=m3u
 #EXTINF:-1 tvg-logo="https://radioangelika.com/wp-content/themes/angelika/assets/img/logo-300.png" group-title="Israel" radio="true",Radio Angelika
 https://radioangelika.com/stream
+# 72FM: https://72fm.com/station/03a782b9-13b8-462a-9da5-0a19a7f44a0f?source=m3u
+#EXTINF:-1 tvg-logo="https://radiolove.co.il/favicon.ico" group-title="Israel" radio="true",Radio Love Soft Romantic
+https://liveradio.co.il:9000/stream
 # 72FM: https://72fm.com/station/99d7bfb6-1220-4488-a614-b2ebeffdc9f6?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-legends.png" group-title="Israel" radio="true",Radios 100FM - 100% Legends
 https://gb25.streamgates.net/radios-audio/100Legends/playlist.m3u8
@@ -373,9 +373,9 @@ https://gb25.streamgates.net/radios-audio/100Special/playlist.m3u8
 # 72FM: https://72fm.com/station/1d81506a-fcd3-46a6-a14e-b3656c3736e0?source=m3u
 #EXTINF:-1 tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-selfie.png" group-title="Israel" radio="true",Radios 100FM - 100% Selfie
 https://gb25.streamgates.net/radios-audio/100Selfie/playlist.m3u8
-# 72FM: https://72fm.com/station/7ded7fe1-a2b5-4de4-b906-a1a4bd1c3c99?source=m3u
-#EXTINF:-1 group-title="Israel" radio="true",KAN Kol HaMusica כאן קול המוזיקה
-https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3
 # 72FM: https://72fm.com/station/e616624f-4df0-4a84-abb9-1f176e2b4ff8?source=m3u
 #EXTINF:-1 group-title="Israel" radio="true",גלגלצ עשורים
 https://glzwizzlv.bynetcdn.com/glglz_alt_mp3
+# 72FM: https://72fm.com/station/7ded7fe1-a2b5-4de4-b906-a1a4bd1c3c99?source=m3u
+#EXTINF:-1 group-title="Israel" radio="true",KAN Kol HaMusica כאן קול המוזיקה
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3

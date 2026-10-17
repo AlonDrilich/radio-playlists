@@ -73,12 +73,12 @@ http://radiolatina.info:7094/
 # 72FM: https://72fm.com/station/60e35568-feb7-43b8-9d0e-b6c69d2445a2?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wordpress.rcnradio.com/elsol/favicon/apple-touch-icon.png" group-title="Colombia" radio="true",El Sol (Medellín) 107.9 FM
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9d30aa9ace684913b853
-# 72FM: https://72fm.com/station/026accc4-313a-11e9-8f31-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Colombia" radio="true",Super Clásica
-http://77.73.69.238:8000/stream
 # 72FM: https://72fm.com/station/961fb1b8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://estrellacolombia.com/wp-content/uploads/2017/01/cropped-estrella_estereo-01-180x180.png" group-title="Colombia" radio="true",Estrella Estéreo (HJTD 104.3 MHz, La Estrella/Medellín, Antioquia)
 http://68.233.236.92:8006/;
+# 72FM: https://72fm.com/station/026accc4-313a-11e9-8f31-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Colombia" radio="true",Super Clásica
+http://77.73.69.238:8000/stream
 # 72FM: https://72fm.com/station/b54c8143-811a-4d8f-983a-82c0cf629a5f?source=m3u
 #EXTINF:-1 group-title="Colombia" radio="true",Romántica Stereo 88.1 FM Pasto
 http://radiolatina.info:7096/stream?type=http&nocache=24848
@@ -165,7 +165,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_A
 https://onlineradiobox.com/json/co/lax/play?platform=web
 # 72FM: https://72fm.com/station/e37f18e3-d58a-42c7-a452-4839b35d0442?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="Colombia" radio="true",La voz de Jesús
-https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1UbW1WVTdDU0syTnI0R3h2X182QXciLCJpYXQiOjE3OTE4MzEzNzksImV4cCI6MTc5MTgzMTQzOX0.9-klxsYSitkjAcJT56CmLlH4yC-7DfFHvMbdoYVepuU
+https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1CbWtHQnZoUXQydFRJT0MtbFVJWkEiLCJpYXQiOjE3OTIyNjg3MTgsImV4cCI6MTc5MjI2ODc3OH0.xQSGwYP2EIThKKMUtybNEc-kKLAGd818oYbZS4WozZk
 # 72FM: https://72fm.com/station/5e765c83-c916-4734-a5eb-7282281dd7eb?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/5J_wBpDSaikw0Pnx7exAbgO6EBQ3kUwiB9zEWIVVz4I/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFE1X204bVFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3d1WlRjMGdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTczNTM2MDUwODAwMA.webp" group-title="Colombia" radio="true",6.90 RADIO ROMANTICAS
 https://stream.zeno.fm/wdg5vb9hwy8uv
@@ -439,12 +439,12 @@ http://stream.laut.fm/durisimaradio
 # 72FM: https://72fm.com/station/190fdaae-d871-48d3-81c3-17aa887cd0d9?source=m3u
 #EXTINF:-1 group-title="Colombia" radio="true",Musical Stereo
 https://sonic.paulatina.co/8156/stream
-# 72FM: https://72fm.com/station/838c3e4b-7df6-4e35-b8bf-77f745b1ae7d?source=m3u
-#EXTINF:-1 tvg-logo="https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png" group-title="Colombia" radio="true",Bésame 93.7 FM Pereira
-https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_PEREIRA_FMAAC.aac
 # 72FM: https://72fm.com/station/aed33022-0f94-4260-90a8-13e9914ea12a?source=m3u
 #EXTINF:-1 group-title="Colombia" radio="true",Viejitas pero Bonitas Radio
 https://stream.zeno.fm/fpzw6c6ootzvv
+# 72FM: https://72fm.com/station/838c3e4b-7df6-4e35-b8bf-77f745b1ae7d?source=m3u
+#EXTINF:-1 tvg-logo="https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png" group-title="Colombia" radio="true",Bésame 93.7 FM Pereira
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_PEREIRA_FMAAC.aac
 # 72FM: https://72fm.com/station/73b46344-beb7-42f0-a2ff-e9068172e17f?source=m3u
 #EXTINF:-1 tvg-logo="https://ctbstereoradio.blogspot.com/favicon.ico" group-title="Colombia" radio="true",Ctb stereo
 http://stream.zeno.fm/r4t5dkavfzzuv
@@ -772,12 +772,12 @@ https://stream.zeno.fm/2rdvb6tuwchvv
 # 72FM: https://72fm.com/station/3bbee59f-66f3-4edc-8afc-bb84586937a6?source=m3u
 #EXTINF:-1 tvg-logo="https://i0.wp.com/frecuenciabolivariana.com.co/wp-content/uploads/2023/01/Logo-Frecuencia-Bolivariana-2023.png?fit=2642%2C1088&ssl=1" group-title="Colombia" radio="true",Frecuencia Bolivariana 1160 AM
 https://radiolatina.info/9326/stream
-# 72FM: https://72fm.com/station/da7cfc8a-11dc-4898-9048-242e086c556c?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/56382.v13.png" group-title="Colombia" radio="true",Balboa Stereo 88.4 FM
-http://stream.integracionvirtual.com:8010/live
 # 72FM: https://72fm.com/station/5022c429-723d-41b8-8fb9-040edd02fad9?source=m3u
 #EXTINF:-1 tvg-logo="https://www.fiestafm.com.co/images/logo-repro.png" group-title="Colombia" radio="true",Fiesta 102.7 FM
 https://server1.intermediacolombia.com:8008/stream
+# 72FM: https://72fm.com/station/da7cfc8a-11dc-4898-9048-242e086c556c?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/56382.v13.png" group-title="Colombia" radio="true",Balboa Stereo 88.4 FM
+http://stream.integracionvirtual.com:8010/live
 # 72FM: https://72fm.com/station/71b51cfd-7c61-4056-98cc-0eb566c992f5?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/FwhMCIhoQeWwsUT8pygSdgfBtXQY5paB8hpPov8JxUg/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNjhjNzUzNDYtZTllZS00MTIzLTkwNjktMTUxMDBjNzc2ZGJlL2ltYWdlLz91PTE3NDE5MTQxMjYwMDA.webp" group-title="Colombia" radio="true",La Max Vallenata
 https://stream.zeno.fm/nbcpokz3q3wvv
@@ -787,12 +787,12 @@ https://master.letio.com/io/?gs=9102&type=live.mp3
 # 72FM: https://72fm.com/station/7446613d-458d-4e0a-b14f-b51d1a7c1380?source=m3u
 #EXTINF:-1 group-title="Colombia" radio="true",W Radio
 http://27343.live.streamtheworld.com/WRADIO_SC
-# 72FM: https://72fm.com/station/01adca16-4e86-4735-9510-65ab9f34c334?source=m3u
-#EXTINF:-1 tvg-logo="https://cerroazulfm.com/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-13-at-2.47.51-PM.jpeg" group-title="Colombia" radio="true",Cerro Azul Stereo 107.4 FM
-http://radiolatina.info:9025/;
 # 72FM: https://72fm.com/station/7e145fb7-49ea-4d8b-890f-562d6c06003a?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/WKP3REpSyGmC9LW3Ef63jzVrkcUSKujUuzFGGKX9PqI/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNWY0OTZlMzItNDEzYi00YjYyLThkNTEtMjA4NmE2YjRmYzQwL2ltYWdlLz91PTE3MjM1NjYwMzcwMDA.webp" group-title="Colombia" radio="true",Verdad y Vida Radio 870AM
 https://stream.zeno.fm/zznllllp06cuv
+# 72FM: https://72fm.com/station/01adca16-4e86-4735-9510-65ab9f34c334?source=m3u
+#EXTINF:-1 tvg-logo="https://cerroazulfm.com/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-13-at-2.47.51-PM.jpeg" group-title="Colombia" radio="true",Cerro Azul Stereo 107.4 FM
+http://radiolatina.info:9025/;
 # 72FM: https://72fm.com/station/35a61920-d63b-4dad-8845-7c307ad01be3?source=m3u
 #EXTINF:-1 tvg-logo="https://bacatastereo.com/wp-content/uploads/2021/12/LOGO-BACATA-ST_2-300x88.png" group-title="Colombia" radio="true",Bacatá Stereo 94.4 FM
 http://radio25.virtualtronics.com:8356/;
@@ -805,12 +805,12 @@ http://radiolatina.info:7084/;
 # 72FM: https://72fm.com/station/5c5fe2c0-cc96-48b0-b5ce-addbcd5dce5c?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/rTrDI9FZXBDkjVGA2OLz-McEdq2qtJcuWWnXE6g9kSg/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFEtdkh6dlFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFwcWk0eFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg0NTQxNzAwMA.webp" group-title="Colombia" radio="true",BBC 80s
 https://18093.live.streamtheworld.com/SAM03AAC226_SC?Bravo?Bogota?Colombia&80s
-# 72FM: https://72fm.com/station/7a1a8546-9445-4a25-a731-a0f649223d85?source=m3u
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6b/11/6b11b6cd278f6b6b3a6f3a487cf5ab16.png" group-title="Colombia" radio="true",El Café del Mundo
-https://cloudstream2030.conectarhosting.com/8184/stream
 # 72FM: https://72fm.com/station/da2ead9d-faec-45ed-a455-a19ce4e7ec9b?source=m3u
 #EXTINF:-1 tvg-logo="https://104florencia.co/wp-content/uploads/2021/09/104.1-sede-curiplaya-2048x996.jpg" group-title="Colombia" radio="true",104.1 Emisora Comunitaria - La Radio de Todos
 https://streamyes.alsolnet.com/comunitariafm/live/chunklist_w7037173.m3u8
+# 72FM: https://72fm.com/station/7a1a8546-9445-4a25-a731-a0f649223d85?source=m3u
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6b/11/6b11b6cd278f6b6b3a6f3a487cf5ab16.png" group-title="Colombia" radio="true",El Café del Mundo
+https://cloudstream2030.conectarhosting.com/8184/stream
 # 72FM: https://72fm.com/station/2678b554-6649-4d42-af23-763fdeb201a3?source=m3u
 #EXTINF:-1 tvg-logo="https://bethelradiocolombia.com/demo_files/capital1.jpg" group-title="Colombia" radio="true",Impacto Radio
 https://radiolatina.info/8080/stream
@@ -823,9 +823,6 @@ https://stream.zenolive.com/qren9t8qd6quv.aac
 # 72FM: https://72fm.com/station/d8b39dda-444f-47a4-9a74-8ced75a2887a?source=m3u
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/32/2c/322ca3fdd5965afdfca9136fd2e2b112.png" group-title="Colombia" radio="true",Radio tropical cristiano
 https://stream.zeno.fm/vwqjwmcm8cfuv
-# 72FM: https://72fm.com/station/65560c38-63c4-42ab-a86c-c93b2c509d7f?source=m3u
-#EXTINF:-1 group-title="Colombia" radio="true",Radio Bolivariana AM 1110 kHz
-https://streaming.codigoe-marketing.co:8620/test.mp3
 # 72FM: https://72fm.com/station/4e25343e-d43c-4fcd-a23f-28e5135de9d2?source=m3u
 #EXTINF:-1 group-title="Colombia" radio="true",Marandua Stereo
 http://radiolatina.info/9430/stream
@@ -835,6 +832,9 @@ http://stream-179.surfernetwork.com/virlugnz0nmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdH
 # 72FM: https://72fm.com/station/5719e4de-8806-4493-8851-5747ee21f18c?source=m3u
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBFosvcqT2wA0t9CyxUq60Go0PSZCi0xpBcgymBYG57TKIer6N-T70LyMCis3zpj7ofec2SdMQ9kAyy9dlRris2DU4kveyasmyYZfeio5yrWISd7l1wrnOFyIfdpxropxd-bmOVmjm/s1600/fondo+Pereira+Empieza+tu+dia.jpg" group-title="Colombia" radio="true",Pereira Stereo
 https://stream.zeno.fm/anv472sq0wzuv?1745577773388
+# 72FM: https://72fm.com/station/65560c38-63c4-42ab-a86c-c93b2c509d7f?source=m3u
+#EXTINF:-1 group-title="Colombia" radio="true",Radio Bolivariana AM 1110 kHz
+https://streaming.codigoe-marketing.co:8620/test.mp3
 # 72FM: https://72fm.com/station/d2fb7640-61f7-4e68-b8e1-7bf31509fe31?source=m3u
 #EXTINF:-1 tvg-logo="https://vilmarfm.com/wp-content/uploads/2024/11/cropped-NUEVO-3.png" group-title="Colombia" radio="true",VILMAR STEREO 91.4 FM
 https://stream.zeno.fm/pfrwo2fzcbktv
@@ -865,6 +865,9 @@ https://radiolatina.info/9322/;
 # 72FM: https://72fm.com/station/390a353d-68ec-4611-831c-7692b748d556?source=m3u
 #EXTINF:-1 tvg-logo="https://emisoranuevaepoca.com.co/wp-content/uploads/2024/12/cropped-1000074395-removebg-preview-1-180x180.png" group-title="Colombia" radio="true",Emisora nueva época
 https://stream-156.zeno.fm/c1knbfegny8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMWtuYmZlZ255OHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikx4b3RrbWszVGNLeVVsaWZVaFhUYWciLCJpYXQiOjE3MTg5NDY0NTcsImV4cCI6MTcxODk0NjUxN30.nYHJlP_XBqv_MAdINMhqgdWukUxGoKRsqlTTqCgAuUU
+# 72FM: https://72fm.com/station/add56711-c52a-49fa-b800-f2a748fcbc49?source=m3u
+#EXTINF:-1 group-title="Colombia" radio="true",Fiesta Stereo 88.1 FM
+https://streaming.radiosenlinea.com.ar/8800/stream
 # 72FM: https://72fm.com/station/9ff82fdf-e903-4622-88ba-d892b0ae54f4?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/dmc7fw2cIV029Lt-ukhfNkv1YO2ROQ8s1AyHUiGF7Io/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZGQ1ZTZmNmMtODA0MC00NDFhLWJhOGQtYmEzN2U1NDliZmZhL2ltYWdlLz91PTE2OTM2OTY0MDgwMDA.webp" group-title="Colombia" radio="true",Alfa y Omega.
 https://stream.zeno.fm/ebsnme8phdovv
@@ -874,9 +877,6 @@ https://impactodigitalcol.com/8018/stream
 # 72FM: https://72fm.com/station/200c4ad3-67ce-452a-9151-939388e7ed7c?source=m3u
 #EXTINF:-1 tvg-logo="https://cacicastereo.com/img/decor_1.png" group-title="Colombia" radio="true",Cacica Stereo 89.7 FM
 http://sonic.paulatina.co:7062/;
-# 72FM: https://72fm.com/station/add56711-c52a-49fa-b800-f2a748fcbc49?source=m3u
-#EXTINF:-1 group-title="Colombia" radio="true",Fiesta Stereo 88.1 FM
-https://streaming.radiosenlinea.com.ar/8800/stream
 # 72FM: https://72fm.com/station/b5388f21-864b-4f03-8519-3b3e7ba3738c?source=m3u
 #EXTINF:-1 group-title="Colombia" radio="true",la Voz del Tao 6
 http://mediacp15.rootservers.co:18136/stream
@@ -889,18 +889,18 @@ https://stream-283.surfernetwork.com/x7bboxazwdytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 # 72FM: https://72fm.com/station/a80de61b-5141-42a9-8f27-5b0f71eeec45?source=m3u
 #EXTINF:-1 tvg-logo="https://milemisoras.com/timthumb.php?src=/img/channel/b86b4290af18ea2d7ec5e40c4501f48a.jpg&h=100&w=100&zc=1" group-title="Colombia" radio="true",Omega Digital Sterio Hispania 107.4 FM
 https://stream.zeno.fm/bb7ctrzeyy8uv
-# 72FM: https://72fm.com/station/55f5637d-8f55-4a54-9f2a-12aba0a7390b?source=m3u
-#EXTINF:-1 tvg-logo="https://www.masrocknpop.com/img/logo.png" group-title="Colombia" radio="true",Radio Mas RocknPop
-https://streaming.masrocknpop.com/8188/stream
 # 72FM: https://72fm.com/station/d47247b2-6638-48dc-8b53-fc6621fce9d2?source=m3u
 #EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2023/11/logo-candela-header.webp" group-title="Colombia" radio="true",Candela Casanare 94.7 Fm
 https://cloudoledgo.com:8026/stream
-# 72FM: https://72fm.com/station/d09fe6f7-ce7c-4285-be64-720570d488e3?source=m3u
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=997x10000:format=jpg/path/s7e3862eba0303db7/image/iec9cc7ee957118be/version/1679705615/image.jpg" group-title="Colombia" radio="true",EMISORA FARALLONES DIGITAL FM STEREO 95.4
-http://radio45.virtualtronics.com:8112/;
+# 72FM: https://72fm.com/station/a5f26a88-9d12-4983-a0a2-1b8e8915b662?source=m3u
+#EXTINF:-1 tvg-logo="https://www.brsradio.co/wp-content/uploads/2024/11/LA-SONORA-100.6A-560x560.jpg" group-title="Colombia" radio="true",La Sonora 100.6 Valle de Tenza
+https://sonic.paulatina.co/8088/stream
+# 72FM: https://72fm.com/station/55f5637d-8f55-4a54-9f2a-12aba0a7390b?source=m3u
+#EXTINF:-1 tvg-logo="https://www.masrocknpop.com/img/logo.png" group-title="Colombia" radio="true",Radio Mas RocknPop
+https://streaming.masrocknpop.com/8188/stream
 # 72FM: https://72fm.com/station/24fd0795-9da2-4f90-9b31-a25b8c03e8ea?source=m3u
 #EXTINF:-1 tvg-logo="https://radioverdadyvida.com/images/logovyv.png" group-title="Colombia" radio="true",Verdad y Vida Radio 100.1 FM
 https://stream.zeno.fm/vvon5xkmvhwvv
-# 72FM: https://72fm.com/station/4ea35c3f-8bbb-4beb-9a00-c1cbd6b7e3ff?source=m3u
-#EXTINF:-1 tvg-logo="https://vilmarfm.com/wp-content/uploads/2024/11/cropped-NUEVO-3.png" group-title="Colombia" radio="true",Vilmar Stereo
-https://stream.zeno.fm/pfrwo2fzcbktv?zt=
+# 72FM: https://72fm.com/station/d09fe6f7-ce7c-4285-be64-720570d488e3?source=m3u
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=997x10000:format=jpg/path/s7e3862eba0303db7/image/iec9cc7ee957118be/version/1679705615/image.jpg" group-title="Colombia" radio="true",EMISORA FARALLONES DIGITAL FM STEREO 95.4
+http://radio45.virtualtronics.com:8112/;

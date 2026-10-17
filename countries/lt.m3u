@@ -91,12 +91,12 @@ http://stream.manofm.lt/listen?
 # 72FM: https://72fm.com/station/bc9a5610-6706-472e-a815-1d97c3fa3176?source=m3u
 #EXTINF:-1 tvg-logo="https://goldfm.lt/wp-content/uploads/2020/12/Gold_pilnas-300x136.png" group-title="Lithuania" radio="true",Gold FM
 http://stream.goldfm.lt/goldfm.aac
-# 72FM: https://72fm.com/station/36cb9fb3-c1cf-405b-a21b-8c1ef49aae53?source=m3u
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png" group-title="Lithuania" radio="true",Pulsas
-https://pulsas.lt/stream
 # 72FM: https://72fm.com/station/e828da35-4677-45b4-ae9a-36f52a788f21?source=m3u
 #EXTINF:-1 tvg-logo="https://www.laluna.lt/favicon.ico" group-title="Lithuania" radio="true",Radio stotis Laluna
 https://radio.m-1.fm/laluna/mp3
+# 72FM: https://72fm.com/station/36cb9fb3-c1cf-405b-a21b-8c1ef49aae53?source=m3u
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png" group-title="Lithuania" radio="true",Pulsas
+https://pulsas.lt/stream
 # 72FM: https://72fm.com/station/370189e7-3883-499d-bf89-701906716c65?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",NeringaFM
 http://185.11.24.72:8000/neringafm
@@ -238,87 +238,90 @@ https://transliacija.audiomastering.lt/pure
 # 72FM: https://72fm.com/station/00f8e948-44c2-43e6-af1b-b9a66ef5bcdf?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Радио Лента
 https://stream1.unknownclient.com/radio-lenta.mp3
+# 72FM: https://72fm.com/station/0a501a04-78cd-4e27-8a75-603e808fb465?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",MRPL
+https://mrpl.babrai.com/stream.mp3
 # 72FM: https://72fm.com/station/c8bc598e-5783-4e43-9aaa-6ae4153b490d?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Radijo stotis M-1
 https://stream.m-1.fm/m1/aacp64
-# 72FM: https://72fm.com/station/f807f4e0-303b-4631-a263-e7840d529522?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Truckers Rave
-https://myradio24.org/eugenijus
 # 72FM: https://72fm.com/station/72e03db3-3f67-4f92-ac76-0d74d099da52?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Truckers Rave
 http://live.eugenijus.lt:9000/eugenijus
+# 72FM: https://72fm.com/station/f807f4e0-303b-4631-a263-e7840d529522?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Truckers Rave
+https://myradio24.org/eugenijus
 # 72FM: https://72fm.com/station/1bfb11ef-ff8d-4059-a604-21b3d47703d2?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Relax FM
 https://stream4.radijas.lt/relaxfm
+# 72FM: https://72fm.com/station/5e52cd96-968f-4b50-a515-00ace92a0bee?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Upso Radijas
+https://klausyk.upsoradijas.lt/upsas_320
+# 72FM: https://72fm.com/station/d469d86b-e0a7-45ac-aa94-6be76329ab82?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Haze Pub Radio
+https://live.leproradio.com/rocks.ogg
+# 72FM: https://72fm.com/station/94cba4aa-593c-433f-ba1f-9fade393f8ad?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",MRPL
+https://mrpl.babrai.com/stream
 # 72FM: https://72fm.com/station/46e7396c-cdfd-4890-adc8-5497ad6b25d1?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",RADIOR ENERGY
 https://klausyk.radijas.lt/listen/energy/live
+# 72FM: https://72fm.com/station/3ab136cd-2298-42ec-b9f4-18167718ec8e?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",COOL RADIO
+https://c34.radioboss.fm:9058/stream
+# 72FM: https://72fm.com/station/bd2ce58d-da96-443a-94d2-1b1451102f21?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Draugystės radijas
+http://213.226.189.174:8000/radio.mp3
 # 72FM: https://72fm.com/station/5f413f81-6d51-4dfd-841f-9e50eedd248d?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Jazz FM
 https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/547b5600-53b8-4327-ae5d-c9a40b2163c4?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Radijo Stotis Kelyje
 https://solid55.streamupsolutions.com/proxy/opcubjpd/stream
-# 72FM: https://72fm.com/station/5e52cd96-968f-4b50-a515-00ace92a0bee?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Upso Radijas
-https://klausyk.upsoradijas.lt/upsas_320
-# 72FM: https://72fm.com/station/3ab136cd-2298-42ec-b9f4-18167718ec8e?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",COOL RADIO
-https://c34.radioboss.fm:9058/stream
-# 72FM: https://72fm.com/station/d469d86b-e0a7-45ac-aa94-6be76329ab82?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Haze Pub Radio
-https://live.leproradio.com/rocks.ogg
 # 72FM: https://72fm.com/station/f8013022-16e4-49b1-b9e4-c1563dcbd91d?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Radio Vilnius
 https://transliacija.audiomastering.lt/radiovilnius-mp3
-# 72FM: https://72fm.com/station/46b49b2d-d36a-4704-b462-f063dac7fe75?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Christmas Radio
-https://stream.zeno.fm/xevy5qiypbqvv
-# 72FM: https://72fm.com/station/e13f29cb-3308-45f0-800e-25b370a5fc13?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Radijo stotis FM99
-https://securestream.casthost.net:8617/fm99
-# 72FM: https://72fm.com/station/abe35b9f-25c0-4aa1-85fd-34c82cad3624?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Radijo stotis Radio3
-https://stream.rcs.revma.com/8cwskd80zxcwv
 # 72FM: https://72fm.com/station/690f0f04-2f41-4c5c-b3d8-0b5fb0a923b0?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Taktas FM
 https://c20.radioboss.fm:8752/stream
-# 72FM: https://72fm.com/station/b3fc8944-1a27-46ec-a446-ca960d88a13a?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",zzz-rock-zzz
-https://play.radioking.io/zzz-rock-zzz
 # 72FM: https://72fm.com/station/32951730-60a5-41c2-ad77-96f1c4167b5a?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",BEVEIK RADIJAS
 https://halo.streamerr.co/listen/beveikradijas/radio.mp3
+# 72FM: https://72fm.com/station/46b49b2d-d36a-4704-b462-f063dac7fe75?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Christmas Radio
+https://stream.zeno.fm/xevy5qiypbqvv
 # 72FM: https://72fm.com/station/ca2f44c2-a48e-465f-a555-e6bab9ed4c24?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Criminal Tribe
 https://live.leproradio.com/criminal.ogg
-# 72FM: https://72fm.com/station/bd2ce58d-da96-443a-94d2-1b1451102f21?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Draugystės radijas
-http://213.226.189.174:8000/radio.mp3
-# 72FM: https://72fm.com/station/e1dbda3b-a3e9-4342-96e6-f9add105fb6f?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Life Chill Music
-https://usa6.fastcast4u.com/proxy/wsjfhd?mp=/1
 # 72FM: https://72fm.com/station/74b5fceb-7023-4c47-b1f9-4ef15a17f398?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Mantra Radio
 https://whsh4u-panel.com/proxy/gsedemag?mp=/stream
-# 72FM: https://72fm.com/station/9e77daff-0a92-4f5c-bb4c-c64d2aac739f?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Radijo Klubas
-http://didzdvaris.vinlita.lt:8009/stream.aac
+# 72FM: https://72fm.com/station/e13f29cb-3308-45f0-800e-25b370a5fc13?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Radijo stotis FM99
+https://securestream.casthost.net:8617/fm99
 # 72FM: https://72fm.com/station/a49d5aa5-cae2-474e-bdcb-cc000c2b9568?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Radijo Stotis Kelyje
 https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream
+# 72FM: https://72fm.com/station/abe35b9f-25c0-4aa1-85fd-34c82cad3624?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Radijo stotis Radio3
+https://stream.rcs.revma.com/8cwskd80zxcwv
+# 72FM: https://72fm.com/station/b3fc8944-1a27-46ec-a446-ca960d88a13a?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",zzz-rock-zzz
+https://play.radioking.io/zzz-rock-zzz
+# 72FM: https://72fm.com/station/e1dbda3b-a3e9-4342-96e6-f9add105fb6f?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Life Chill Music
+https://usa6.fastcast4u.com/proxy/wsjfhd?mp=/1
 # 72FM: https://72fm.com/station/66d03809-4c18-4c01-b1df-ca2d499effde?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Monsters FM
 https://stream.zeno.fm/cwnt2qyr2zhvv
-# 72FM: https://72fm.com/station/35162bfe-068b-47c4-a247-a50d4aa19625?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Revo Banga Rock
-http://sigi2kas.asuscomm.com:8000/stream
-# 72FM: https://72fm.com/station/94cba4aa-593c-433f-ba1f-9fade393f8ad?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",MRPL
-https://mrpl.babrai.com/stream
+# 72FM: https://72fm.com/station/9e77daff-0a92-4f5c-bb4c-c64d2aac739f?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Radijo Klubas
+http://didzdvaris.vinlita.lt:8009/stream.aac
 # 72FM: https://72fm.com/station/14f48e52-335d-488a-9e8c-e872a7edd026?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Patejago Radijas
 https://radio.patejago.lt/stream
 # 72FM: https://72fm.com/station/caa33a39-080b-4997-9a32-b5189e1391b7?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",PMR.lt
 https://stream.pmr.lt/pmr.mp3
+# 72FM: https://72fm.com/station/35162bfe-068b-47c4-a247-a50d4aa19625?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Revo Banga Rock
+http://sigi2kas.asuscomm.com:8000/stream

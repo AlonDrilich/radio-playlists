@@ -325,12 +325,12 @@ http://icecast-choi.rncm.ca/choi.aac
 # 72FM: https://72fm.com/station/30820d12-0409-44b7-b5e8-edc594910d92?source=m3u
 #EXTINF:-1 tvg-logo="https://seva.ru/radio/radio.png" group-title="Talk" radio="true",Радио Сева (Radio Seva Novgorodsev)
 https://seva.ru/radio/stream
-# 72FM: https://72fm.com/station/bcfe2aae-33fa-494a-a571-c3bbc8715c7d?source=m3u
-#EXTINF:-1 tvg-logo="https://nasradio.fm/images/logo.png" group-title="Talk" radio="true",راديو الناس
-https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio
 # 72FM: https://72fm.com/station/c8f270d9-4836-448b-83e0-773aab6f5440?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Metropolis 95.5
 http://metropolis.live24.gr/metropolis955thess
+# 72FM: https://72fm.com/station/bcfe2aae-33fa-494a-a571-c3bbc8715c7d?source=m3u
+#EXTINF:-1 tvg-logo="https://nasradio.fm/images/logo.png" group-title="Talk" radio="true",راديو الناس
+https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio
 # 72FM: https://72fm.com/station/960b6384-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Capital FM Moscow
 http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
@@ -835,12 +835,12 @@ https://stream.zenolive.com/gxdq0awu30duv.aac
 # 72FM: https://72fm.com/station/d97e2054-1835-4e45-a088-608a65e063c6?source=m3u
 #EXTINF:-1 tvg-logo="https://plugmedia.co/play/wp-content/uploads/2021/01/Logo_Guayana.png" group-title="Talk" radio="true",Rumba 98.1 FM
 https://cast20.plugstreaming.com:2020/stream/r981/;
-# 72FM: https://72fm.com/station/cf2150a2-1cee-479f-a948-be7cd70c420e?source=m3u
-#EXTINF:-1 tvg-logo="https://www.985fm.ca/favicon.ico" group-title="Talk" radio="true",CHMP 985 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
 # 72FM: https://72fm.com/station/66041a35-1f6f-4579-95bd-97eebe7b60a1?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",FM +
 http://193.108.24.21:8000/fmplus
+# 72FM: https://72fm.com/station/cf2150a2-1cee-479f-a948-be7cd70c420e?source=m3u
+#EXTINF:-1 tvg-logo="https://www.985fm.ca/favicon.ico" group-title="Talk" radio="true",CHMP 985 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
 # 72FM: https://72fm.com/station/d41cd653-89f0-4ca9-b849-70ce516e8a99?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1200px-France_Inter_logo_2021.svg.png" group-title="Talk" radio="true",France Inter
 https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8

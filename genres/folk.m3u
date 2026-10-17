@@ -607,12 +607,12 @@ http://rdst.win:7060/stream
 # 72FM: https://72fm.com/station/963ad064-579c-4c56-978e-0f97e178db08?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Campus BXL 92.1 [Ogg HQ]
 https://www.radiocampus.be/stream/stream_hi.ogg
-# 72FM: https://72fm.com/station/054d33b7-3d8a-48dd-a7dd-e1e3bb039177?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Exclusively Joan Baez
-https://streaming.exclusive.radio/er/joanbaez/icecast.audio
 # 72FM: https://72fm.com/station/d0e64479-1481-48a9-b1f5-0980b4fd1005?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",87.6 Studio 1
 http://s3.onweb.gr:8872/;
+# 72FM: https://72fm.com/station/054d33b7-3d8a-48dd-a7dd-e1e3bb039177?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Exclusively Joan Baez
+https://streaming.exclusive.radio/er/joanbaez/icecast.audio
 # 72FM: https://72fm.com/station/59bc8af2-3f68-11e9-aa55-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Күңел радиосы
 http://live.kunelradio.ru:8000/128.mp3
@@ -634,12 +634,12 @@ http://cklb.streamon.fm:8000/CKLB-24k.aac
 # 72FM: https://72fm.com/station/e771586c-72b0-4c95-8799-18d886b32cca?source=m3u
 #EXTINF:-1 tvg-logo="https://www.wuky.org/favicon.ico" group-title="Folk" radio="true",WUKY - NPR Rocks
 https://wuky.streamguys1.com/wuky
-# 72FM: https://72fm.com/station/1d86737b-bf6f-41f2-bd52-cd29d4a73688?source=m3u
-#EXTINF:-1 tvg-logo="https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-ico-beta.ico" group-title="Folk" radio="true",CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
-https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
 # 72FM: https://72fm.com/station/c5ee5c7b-78eb-4485-94f5-83ca2d1ba8eb?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Exclusively Linda Ronstadt
 http://2.mystreaming.net/er/lindaronstadt/icecast.audio
+# 72FM: https://72fm.com/station/1d86737b-bf6f-41f2-bd52-cd29d4a73688?source=m3u
+#EXTINF:-1 tvg-logo="https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-ico-beta.ico" group-title="Folk" radio="true",CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
 # 72FM: https://72fm.com/station/9c39439d-86a1-49d7-ad4e-638dd3e6ee25?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Kosmos 100
 http://s1.onweb.gr:8856/;
@@ -721,12 +721,12 @@ https://stream.cambridge105.co.uk:8443/105-radioplayer-high
 # 72FM: https://72fm.com/station/588a1856-12bd-11e9-a80b-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Национальное Радио Чувашии / Chuvash National Radio
 http://icecast.ntrk21.ru:8000/nacradio
-# 72FM: https://72fm.com/station/73f64034-fc07-446c-983d-1a23a139b1f9?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",RADIO BOB - Chillout Unplugged Songs [mp3 | 192 kbps]
-https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/
 # 72FM: https://72fm.com/station/5aaf6603-7a01-461a-9b41-643ff0794a86?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Ελληνικό Παραδοσιακό Ραδιόφωνο
 http://i2.streams.ovh:7058/stream1
+# 72FM: https://72fm.com/station/73f64034-fc07-446c-983d-1a23a139b1f9?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",RADIO BOB - Chillout Unplugged Songs [mp3 | 192 kbps]
+https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/
 # 72FM: https://72fm.com/station/57f91dff-0d23-4406-9a58-5f86456edaeb?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Fränkisch Spoken
 http://fraenkisch-spoken.stream.laut.fm/fraenkisch-spoken?t302=2026-10-17_00-52-54&uuid=df570f6a-19cb-1be4-548a-7b9f0841ca63
@@ -817,15 +817,15 @@ https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
 # 72FM: https://72fm.com/station/5356b62f-8011-4634-baa5-d2064f2c63b3?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Λαϊκός 105.7
 http://sp2.streams.ovh:8106/stream?type=http&nocache=540
+# 72FM: https://72fm.com/station/5705e8c2-6208-41c9-8ad1-3fb780405548?source=m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLDxX33r/Kiwi-Folk.jpg" group-title="Folk" radio="true",Kiwi Folk Radio
+https://streamer.radio.co/sde527a41e/listen
 # 72FM: https://72fm.com/station/1fcd6315-becc-4ffd-8216-f0eb63130bd4?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Πήλιο 93.4
 http://s3.myradiostream.com:4060/;
 # 72FM: https://72fm.com/station/20c2d803-b952-46ef-aab8-05313b1e286a?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",CBFM.ca Gaelic College - St. Ann's, NS
 https://s4.radio.co/s6f58ddb4f/listen
-# 72FM: https://72fm.com/station/5705e8c2-6208-41c9-8ad1-3fb780405548?source=m3u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLDxX33r/Kiwi-Folk.jpg" group-title="Folk" radio="true",Kiwi Folk Radio
-https://streamer.radio.co/sde527a41e/listen
 # 72FM: https://72fm.com/station/c3d14461-df38-4f37-bee6-a74ec17aa32d?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Max 93.4
 http://n06.radiojar.com/qt9gf4hhdwzuv?rj-ttl=5&rj-tok=AAABePC4w-8AswP_xFbknsZD6g
@@ -871,12 +871,12 @@ https://2.mystreaming.net/er/evacassidy/icecast.audio
 # 72FM: https://72fm.com/station/a586d665-294e-4492-ba60-0e942339f550?source=m3u
 #EXTINF:-1 tvg-logo="https://chanove.com/templates/beez_20/images/plus.png" group-title="Folk" radio="true",Radio Chanove
 http://radio.chanove.com:8000/stream
-# 72FM: https://72fm.com/station/8fde1523-ce7d-41d0-86bd-3b70de784973?source=m3u
-#EXTINF:-1 tvg-logo="https://radioregenboog.nl/favicon.ico" group-title="Folk" radio="true",Radio Regenboog
-https://server-28.stream-server.nl:18828/stream
 # 72FM: https://72fm.com/station/c21d3998-f91b-48e4-9bb1-74fa12ffb9e5?source=m3u
 #EXTINF:-1 tvg-logo="https://www.kentfm955.com.tr/icons/radyokent_logo_tunein_512.png" group-title="Folk" radio="true",Radyo Kent
 https://kentfm955.ozelip.com/9306/stream
+# 72FM: https://72fm.com/station/8fde1523-ce7d-41d0-86bd-3b70de784973?source=m3u
+#EXTINF:-1 tvg-logo="https://radioregenboog.nl/favicon.ico" group-title="Folk" radio="true",Radio Regenboog
+https://server-28.stream-server.nl:18828/stream
 # 72FM: https://72fm.com/station/2a1f0041-1d6f-4ac0-a12a-1d0b8ffe77af?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Chekhov Kometa Fm
 http://online.kometa.fm:8000/live

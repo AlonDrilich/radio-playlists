@@ -577,12 +577,12 @@ https://str01.fluidstream.net/anni60.mp3
 # 72FM: https://72fm.com/station/962d8b5f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Italy" radio="true",MUSIC STAR Pino Daniele
 http://icy.unitedradio.it/Daniele.mp3
-# 72FM: https://72fm.com/station/c8cfe002-c6db-4ead-bfc4-69f1ba058a95?source=m3u
-#EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Rockstar: AC/DC
-http://icy.unitedradio.it/um1026.mp3
 # 72FM: https://72fm.com/station/467ec5d2-ea2a-4f7c-839a-69db2c365409?source=m3u
 #EXTINF:-1 tvg-logo="https://www.fm-world.it/wp-content/uploads/2019/04/liferadio.png" group-title="Italy" radio="true",LifeGate Radio
 https://router.xdevel.com/audio0s975809-345/stream/icecast.audio
+# 72FM: https://72fm.com/station/c8cfe002-c6db-4ead-bfc4-69f1ba058a95?source=m3u
+#EXTINF:-1 group-title="Italy" radio="true",Virgin Radio Rockstar: AC/DC
+http://icy.unitedradio.it/um1026.mp3
 # 72FM: https://72fm.com/station/9626282c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Italy" radio="true",Rai Radio Live
 http://icestreaming.rai.it/10.mp3
@@ -733,18 +733,18 @@ http://shoutcast.countrypowerstation.net:8000/stream
 # 72FM: https://72fm.com/station/e98dc9e0-c582-4a8e-a90c-e14add53ed0f?source=m3u
 #EXTINF:-1 group-title="Italy" radio="true",DeeGay Pop & Dance
 https://stream.deegay.fm/deegay1.mp3
-# 72FM: https://72fm.com/station/cdbe6306-c69f-420a-9a43-137e5b9c16ad?source=m3u
-#EXTINF:-1 group-title="Italy" radio="true",Radio Popolare
-https://livex.radiopopolare.it/radiopop2
 # 72FM: https://72fm.com/station/5a96524a-5cde-11ea-be63-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.tmwradio.com/template/tmwradio.com/default/favicon/favicon144.png" group-title="Italy" radio="true",TMW Radio
 https://stream.tmwradio.com/tmw.aac
-# 72FM: https://72fm.com/station/f03eb972-1ff7-4b98-9095-f7fcb135a7be?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/25/0f/117624/1/c300.png" group-title="Italy" radio="true",Dimensione Suono Soft
-https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8
+# 72FM: https://72fm.com/station/cdbe6306-c69f-420a-9a43-137e5b9c16ad?source=m3u
+#EXTINF:-1 group-title="Italy" radio="true",Radio Popolare
+https://livex.radiopopolare.it/radiopop2
 # 72FM: https://72fm.com/station/5cf3bd5f-760e-11ea-b1cf-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Italy" radio="true",ITALIA Rock Italiano
 https://icy.unitedradio.it/um076.mp3
+# 72FM: https://72fm.com/station/f03eb972-1ff7-4b98-9095-f7fcb135a7be?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/25/0f/117624/1/c300.png" group-title="Italy" radio="true",Dimensione Suono Soft
+https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8
 # 72FM: https://72fm.com/station/336779d5-ee59-4860-958d-b51884ae1c6a?source=m3u
 #EXTINF:-1 group-title="Italy" radio="true",RADIO NOSTALGIA LIGURIA
 http://rn1.fluidstream.eu/nostalgia_li.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3

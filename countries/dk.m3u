@@ -418,6 +418,9 @@ http://player.radiomidt.dk/broadwave.mp3
 # 72FM: https://72fm.com/station/e8dd0971-1d03-4058-a5b4-44f48cea5e16?source=m3u
 #EXTINF:-1 tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark" radio="true",DR P4 Midt/Vest
 http://live-icy.gss.dr.dk/A/A09H.mp3
+# 72FM: https://72fm.com/station/847172ba-fa7d-476c-8ad1-3a62044e8a56?source=m3u
+#EXTINF:-1 tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark" radio="true",DR P5 Esbjerg
+https://live-icy.dr.dk/A/A26H.mp3
 # 72FM: https://72fm.com/station/ee0997ac-c188-4d59-b9e6-ae73b72d497e?source=m3u
 #EXTINF:-1 group-title="Denmark" radio="true",Jazzkanalen
 http://ca6.rcast.net:4058/;stream
@@ -427,9 +430,6 @@ https://media.limfjordnetradio.dk/limfjord128
 # 72FM: https://72fm.com/station/eeebcd94-6b72-4cbd-9e52-b3fd8154cbcc?source=m3u
 #EXTINF:-1 tvg-logo="https://www.902fm.com/____impro/1/onewebmedia/800p%20kun902%20VT2___serialized3.png?etag=W%2F%22c3d20-633d44e5%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=440%2B440" group-title="Denmark" radio="true",902 FM
 http://s38.myradiostream.com:8598/.mp3
-# 72FM: https://72fm.com/station/847172ba-fa7d-476c-8ad1-3a62044e8a56?source=m3u
-#EXTINF:-1 tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark" radio="true",DR P5 Esbjerg
-https://live-icy.dr.dk/A/A26H.mp3
 # 72FM: https://72fm.com/station/b69d7997-fec2-419b-b33d-d01f7ebba8b8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark" radio="true",DR P5 Østjylland
 https://live-icy.dr.dk/A/A24H.mp3
@@ -460,12 +460,12 @@ https://radi-panini.radiocult.fm/stream
 # 72FM: https://72fm.com/station/3ae1555a-cc61-478d-a092-2b73af5b431b?source=m3u
 #EXTINF:-1 tvg-logo="https://radioplayback.dk/wp-content/uploads/2020/02/RPB-logo-e1581174186741.png" group-title="Denmark" radio="true",Radio Playback
 https://stream02.radioplayback.dk/stream
-# 72FM: https://72fm.com/station/0143de39-f5a8-4cdd-9f10-e2af5c3682da?source=m3u
-#EXTINF:-1 group-title="Denmark" radio="true",DR P5 Trekanten
-http://live-icy.dr.dk/A/A23H.mp3
 # 72FM: https://72fm.com/station/21b4d1bd-3119-4215-b8f7-87dc38fbf783?source=m3u
 #EXTINF:-1 tvg-logo="https://alfa.side-walk.dk/logos/xEEssAXlAQ8G3lsJEBO21sOH2bkrz0SoiG1ZroEs.png" group-title="Denmark" radio="true",Radio Alfa Midtjylland
 https://radioserver.dk/alfamidt
+# 72FM: https://72fm.com/station/0143de39-f5a8-4cdd-9f10-e2af5c3682da?source=m3u
+#EXTINF:-1 group-title="Denmark" radio="true",DR P5 Trekanten
+http://live-icy.dr.dk/A/A23H.mp3
 # 72FM: https://72fm.com/station/6e40e7fd-e80c-4409-910f-ed20d903d1f8?source=m3u
 #EXTINF:-1 tvg-logo="https://humleborg.dk/templates/yootheme/packages/theme-joomla/assets/images/favicon.png" group-title="Denmark" radio="true",Radio Humleborg
 http://media.wlmm.dk/humleborg.m3u
@@ -514,15 +514,15 @@ https://radioserver.dk/alfasilk
 # 72FM: https://72fm.com/station/d20c9c7c-3787-4e67-abf6-7486b57c78a9?source=m3u
 #EXTINF:-1 tvg-logo="https://skagafm.dk/skagafm/wp-content/uploads/2024/08/cropped-Skaermbillede-2024-08-29-kl.-14.20.49-180x180.png" group-title="Denmark" radio="true",SkagaFM
 https://stream.probroadcast.dk/skagafm
-# 72FM: https://72fm.com/station/4b8833e9-a4d2-4458-9b7d-826bec0980be?source=m3u
-#EXTINF:-1 tvg-logo="https://www.mjazzradio.com/wp-content/uploads/2026/04/MJazzRadio-Cropped.png" group-title="Denmark" radio="true",M-Jazz Radio
-https://fra-pioneer01.dedicateware.com:1465/stream
 # 72FM: https://72fm.com/station/d3b4142e-efd3-4cd2-af83-432dcd428848?source=m3u
 #EXTINF:-1 tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark" radio="true",DR P4 Esbjerg
 http://live-icy.gss.dr.dk/A/A15H.mp3
 # 72FM: https://72fm.com/station/1d8e56d5-b3d7-478a-a439-d1678b3d7edf?source=m3u
 #EXTINF:-1 tvg-logo="https://globusguld.dk/favicon.ico" group-title="Denmark" radio="true",Globus Guld Country
 https://stream.probroadcast.dk/guldcountrymp3
+# 72FM: https://72fm.com/station/4b8833e9-a4d2-4458-9b7d-826bec0980be?source=m3u
+#EXTINF:-1 tvg-logo="https://www.mjazzradio.com/wp-content/uploads/2026/04/MJazzRadio-Cropped.png" group-title="Denmark" radio="true",M-Jazz Radio
+https://fra-pioneer01.dedicateware.com:1465/stream
 # 72FM: https://72fm.com/station/87e811be-33a3-4236-a348-6e23d53b2c76?source=m3u
 #EXTINF:-1 tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark" radio="true",DR P4 Esbjerg (AAC)
 https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8
@@ -565,6 +565,9 @@ http://radio1.jfmtech.dk/diablo.aac
 # 72FM: https://72fm.com/station/6c8287a6-64a8-4144-a960-c14d88ea832c?source=m3u
 #EXTINF:-1 tvg-logo="https://r8dio.dk/favicon.ico" group-title="Denmark" radio="true",r8Dio
 https://s3.radio.co/s7cd1ffe2f/listen
+# 72FM: https://72fm.com/station/adca3071-8636-4114-a18e-2d458054ed58?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s361016/images/logod.jpg?t=639246983870000000" group-title="Denmark" radio="true",Historyradio.org low bandwidth
+https://cast1.asurahosting.com/proxy/historyr/stream.mp3
 # 72FM: https://72fm.com/station/a14c1c19-6722-495a-b57e-5c825277d19a?source=m3u
 #EXTINF:-1 tvg-logo="https://charlie.nu/" group-title="Denmark" radio="true",Charlie Classical
 https://ec6.yesstreaming.net:4365/stream
@@ -574,42 +577,39 @@ http://stream2.radiosolutions.dk/radioaadalen
 # 72FM: https://72fm.com/station/8dbeb94e-3497-4798-a8a7-9623902cd007?source=m3u
 #EXTINF:-1 tvg-logo="https://netradio.dk/img/rs.png" group-title="Denmark" radio="true",Radio Sydhavsoerne Lolland
 https://radio1.jfmtech.dk/sydhavlolland
-# 72FM: https://72fm.com/station/adca3071-8636-4114-a18e-2d458054ed58?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s361016/images/logod.jpg?t=639246983870000000" group-title="Denmark" radio="true",Historyradio.org low bandwidth
-https://cast1.asurahosting.com/proxy/historyr/stream.mp3
 # 72FM: https://72fm.com/station/df2f6bd2-73c2-4398-ae78-3222fdba454a?source=m3u
 #EXTINF:-1 group-title="Denmark" radio="true",Radio FLR
 https://faxe.jtw.dk/stream
 # 72FM: https://72fm.com/station/316067bd-5d69-43de-a762-1604f7c27bbc?source=m3u
 #EXTINF:-1 group-title="Denmark" radio="true",Music for Dreams Radio
 http://s2.radio.co/s0f2948883/listen
-# 72FM: https://72fm.com/station/2940d3e6-770a-4073-9168-c814dcdc3f42?source=m3u
-#EXTINF:-1 tvg-logo="https://charlie.nu/" group-title="Denmark" radio="true",Charlie Tourist (Sydvest)
-https://ec6.yesstreaming.net:4385/stream
 # 72FM: https://72fm.com/station/3a9dcc21-c638-488e-ba54-9c72febbfef7?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWvtFr-XA9EV4Ca7g0LgobSq355ZOHKyWVo8i0WkQ8Q&s" group-title="Denmark" radio="true",Kalaallit Nunaata Radioa
 https://knr.gl/radiolivestream
 # 72FM: https://72fm.com/station/642d66e8-38ea-4950-861e-d711f891ea47?source=m3u
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/039/partyradiopro.5b79037f.png" group-title="Denmark" radio="true",Partyradio.pro
 https://stream.partyradio.pro/listen/partyradio/stream
-# 72FM: https://72fm.com/station/b1f473f9-a522-49e2-a6cd-4a85ef5c4b6f?source=m3u
-#EXTINF:-1 tvg-logo="https://www.plantlandradio.com/favicon.png" group-title="Denmark" radio="true",Plantland Radio
-https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3
+# 72FM: https://72fm.com/station/2940d3e6-770a-4073-9168-c814dcdc3f42?source=m3u
+#EXTINF:-1 tvg-logo="https://charlie.nu/" group-title="Denmark" radio="true",Charlie Tourist (Sydvest)
+https://ec6.yesstreaming.net:4385/stream
 # 72FM: https://72fm.com/station/d407c4b5-2131-464f-bcc4-c0dad44813d8?source=m3u
 #EXTINF:-1 group-title="Denmark" radio="true",Country 108
 https://icepool.silvacast.com/COUNTRY108.mp3
 # 72FM: https://72fm.com/station/dccebad1-7e2a-4289-9cd0-a79d24d2d21e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.dr.dk/lyd/_next/static/media/p8jazz.3748d702.svg" group-title="Denmark" radio="true",DR P8 Jazz (AAC)
 https://drliveradio2.akamaized.net/hls/live/2118698/p8/playlist-320000.m3u8
+# 72FM: https://72fm.com/station/b1f473f9-a522-49e2-a6cd-4a85ef5c4b6f?source=m3u
+#EXTINF:-1 tvg-logo="https://www.plantlandradio.com/favicon.png" group-title="Denmark" radio="true",Plantland Radio
+https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3
 # 72FM: https://72fm.com/station/c076addc-ad49-4b3d-8fc9-8c8db787e4fa?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_y-rKrhgLZlQQVkl_54LtwGcYktgPfmZyis3ZFzlcsQh00QJjQFKPDWXn&s=10" group-title="Denmark" radio="true",The Lake Radio
 http://hyades.shoutca.st:8627/stream
-# 72FM: https://72fm.com/station/aad7a29e-aba5-4b2d-8a18-57ca150cbb65?source=m3u
-#EXTINF:-1 tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark" radio="true",DR P4 Esbjerg (AAC)
-https://drliveradio2.akamaized.net/hls/live/2118698/p4esbjerg/playlist-320000.m3u8
 # 72FM: https://72fm.com/station/81bf3e45-f353-4bc0-9dab-0432d7a9d9e9?source=m3u
 #EXTINF:-1 group-title="Denmark" radio="true",Radio 7 Ravensburg
 https://streams.radio7.de/rv/mp3-192/web/
+# 72FM: https://72fm.com/station/aad7a29e-aba5-4b2d-8a18-57ca150cbb65?source=m3u
+#EXTINF:-1 tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark" radio="true",DR P4 Esbjerg (AAC)
+https://drliveradio2.akamaized.net/hls/live/2118698/p4esbjerg/playlist-320000.m3u8
 # 72FM: https://72fm.com/station/66f4f367-07b4-46c2-b564-319260f97122?source=m3u
 #EXTINF:-1 group-title="Denmark" radio="true",dr p5 sjælland
 http://live-icy.dr.dk/A19H_master2.mp3

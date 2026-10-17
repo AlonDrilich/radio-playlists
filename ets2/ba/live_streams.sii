@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 84
+ stream_data: 83
  stream_data[0]: "http://server1.tnt.ba:8010/|Narodni Radio - Sarajevo|Bih|BOS|128|0"
  stream_data[1]: "http://stream.rtvbn.com:8522/;.mp3|Radio BN|Folk|BOS|192|0"
  stream_data[2]: "http://188.40.62.20:8070/;|Nes Radio|Information|BOS|192|0"
@@ -74,18 +74,17 @@ live_stream_def : .live_streams {
  stream_data[69]: "https://kadushi.westream.cloud/listen/alfafm/xstream|Alpha 93.1 FM Riscado|Dance|BON|100|0"
  stream_data[70]: "http://s2.myradiostream.com:5584/|Radio Novi Grad|Folk|BA|128|0"
  stream_data[71]: "http://studiod.omerovic.info:8018/;|Radio Studio D|Folk|BOS|128|0"
- stream_data[72]: "https://radiousk2.radioca.st/;|Radio USK 2|Various|BOS|128|0"
- stream_data[73]: "https://443-1.autopo.st/45?type=http|Radio Sarajevo 90.2|Pop|BOS|192|0"
- stream_data[74]: "http://stream.iradio.pro:8034/;*.mp3|Radio Magic Milici|Folk music|SER|96|0"
- stream_data[75]: "http://77.78.198.84:8000/|Yes Radio|Exyu|BOS|128|0"
- stream_data[76]: "https://patrisamato.com/listen/live/radio.mp3|Patrisamato Radio|80s synth|ENG|128|0"
- stream_data[77]: "https://cast1.asurahosting.com/proxy/betradio/stream|Radio Bet|Folk|BOS|128|0"
- stream_data[78]: "http://cast2.name.ba:8081/|Radio Carsija|Folk|BOS|128|0"
- stream_data[79]: "https://radiousk.radioca.st/stream/|Radio USK 1|Various|BOS|24|0"
- stream_data[80]: "http://cast2.name.ba:8085/stream|Radio Das Extra|Various|BA|128|0"
- stream_data[81]: "https://stream-175.surfernetwork.com/qggihjl4mgcvv|Radio Begov Han|Various|BA|128|0"
- stream_data[82]: "https://stream.rcast.net/70602|Radio Postaja Odzak|Classic rock|BOS|128|0"
- stream_data[83]: "http://live.radiosrebrenik.ba:7600/;|Radio Srebrenik|Various|BA|256|0"
+ stream_data[72]: "https://443-1.autopo.st/45?type=http|Radio Sarajevo 90.2|Pop|BOS|192|0"
+ stream_data[73]: "http://stream.iradio.pro:8034/;*.mp3|Radio Magic Milici|Folk music|SER|96|0"
+ stream_data[74]: "http://77.78.198.84:8000/|Yes Radio|Exyu|BOS|128|0"
+ stream_data[75]: "https://patrisamato.com/listen/live/radio.mp3|Patrisamato Radio|80s synth|ENG|128|0"
+ stream_data[76]: "https://cast1.asurahosting.com/proxy/betradio/stream|Radio Bet|Folk|BOS|128|0"
+ stream_data[77]: "http://cast2.name.ba:8081/|Radio Carsija|Folk|BOS|128|0"
+ stream_data[78]: "https://radiousk.radioca.st/stream/|Radio USK 1|Various|BOS|24|0"
+ stream_data[79]: "http://cast2.name.ba:8085/stream|Radio Das Extra|Various|BA|128|0"
+ stream_data[80]: "https://stream-175.surfernetwork.com/qggihjl4mgcvv|Radio Begov Han|Various|BA|128|0"
+ stream_data[81]: "https://stream.rcast.net/70602|Radio Postaja Odzak|Classic rock|BOS|128|0"
+ stream_data[82]: "http://live.radiosrebrenik.ba:7600/;|Radio Srebrenik|Various|BA|256|0"
 }
 
 }

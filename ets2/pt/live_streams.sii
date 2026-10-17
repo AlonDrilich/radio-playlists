@@ -69,7 +69,7 @@ live_stream_def : .live_streams {
  stream_data[64]: "http://centova.radio.com.pt:8407/;|Radio Ondas do Lima|Local music|POR|128|0"
  stream_data[65]: "https://stream-icy.bauermedia.pt/m80.mp3|M 80 Radio|Classic hits|ENG|128|0"
  stream_data[66]: "http://radiocast.rtp.pt/antena2opera80a.mp3|Antenna 2 Opera|Opera|POR|128|0"
- stream_data[67]: "http://cast.redewt.net:9141/live|VFM 94.6|Various|PT|96|0"
+ stream_data[67]: "http://cast.redewt.net:9141/live|VFM 94.6|Various|PT|128|0"
  stream_data[68]: "http://centova.radio.com.pt:8565/stream/1/|Radio Antena Nove|Hits|POR|128|0"
  stream_data[69]: "http://centova.radio.com.pt:8471/;|Radio Popular Afifense|Adult contemporary|POR|128|0"
  stream_data[70]: "https://s2.radio.co/s0ddea4a53/listen|Radio Freguesia de Belem|Local news|POR|192|0"
@@ -99,8 +99,8 @@ live_stream_def : .live_streams {
  stream_data[94]: "http://185.32.188.17:8003/stream|FOQO|Electro|POR|128|0"
  stream_data[95]: "https://stream.zeno.fm/rwmao7mxxt8vv|Porao da nau radio|Classic hits|ENG|128|0"
  stream_data[96]: "http://centova.radio.com.pt:8419/;|Radio Ansiaes|Community radio|POR|128|0"
- stream_data[97]: "https://radiocast.rtp.pt/rdpint80a.mp3|RDP Internacional - Main|Various|PT|128|0"
- stream_data[98]: "https://audio.serv.pt/8018/stream.mp3|Radio Popular Madeira (101.0 FM)|Pop|POR|192|0"
+ stream_data[97]: "https://audio.serv.pt/8018/stream.mp3|Radio Popular Madeira (101.0 FM)|Pop|POR|192|0"
+ stream_data[98]: "https://radiocast.rtp.pt/rdpint80a.mp3|RDP Internacional - Main|Various|PT|128|0"
  stream_data[99]: "http://hyades.shoutca.st:8270/stream/1/|SFTD RADIO|Alternative rock|POR|192|0"
 }
 
