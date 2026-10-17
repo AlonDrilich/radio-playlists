@@ -48,7 +48,7 @@ https://stream.zeno.fm/dwxw3p9vea0uv
 http://nidaa.fm:8811/stream.mp3
 # 72FM: https://72fm.com/station/96475698-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Lebanon" radio="true",Light FM 90.5 & 90.7 Beirut
-http://25643.live.streamtheworld.com/LIGHTFMAAC_SC
+http://25643.live.streamtheworld.com:3690/LIGHTFMAAC_SC
 # 72FM: https://72fm.com/station/9637bb37-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Lebanon" radio="true",Byblos Radio
 http://byblosnights.com:8000/byblosaac
@@ -67,12 +67,12 @@ http://byblosnights.com:8360/
 # 72FM: https://72fm.com/station/15abccc1-cf25-491f-a3fa-5124ecf1331c?source=m3u
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/5b/0b/5b0ba54725c027b287edc36674016065.jpg" group-title="Lebanon" radio="true",Sawt El Ghad - FM 96.7
 https://l3.itworkscdn.net/itwaudio/9030/stream/
-# 72FM: https://72fm.com/station/c12e5230-974f-4dc3-8627-cde2df2c2ac6?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radionaim.com/favicon.ico" group-title="Lebanon" radio="true",Naim Halawe
-https://streamer.radio.co/sf2fa6ce9d/listen
 # 72FM: https://72fm.com/station/4a116b98-e289-4630-9b62-b93a67159c7e?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ujF6XWh2xUPiqk5XUeFxA0r0VLCmqZky9KBhIco2xjWBIKcpwsp1G7Fbsn0ONc5YamKj=w240-h480-rw" group-title="Lebanon" radio="true",Anghamy
 https://radio.avazfarsi.com:8010/radio.mp3
+# 72FM: https://72fm.com/station/c12e5230-974f-4dc3-8627-cde2df2c2ac6?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radionaim.com/favicon.ico" group-title="Lebanon" radio="true",Naim Halawe
+https://streamer.radio.co/sf2fa6ce9d/listen
 # 72FM: https://72fm.com/station/7defb860-5ce0-481d-a827-1330c6611686?source=m3u
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7e/ac/df/7eacdf46-e659-b98b-7811-74c0ef4f2aed/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/540x540bb.jpg" group-title="Lebanon" radio="true",Tripoli FM Lebanon
 https://cast4.my-control-panel.com/proxy/tripolifm/stream
@@ -151,9 +151,6 @@ https://a12.my-control-panel.com:7530/radio.mp3
 # 72FM: https://72fm.com/station/5f75aae0-3d4a-4f87-978c-eebbb1da8e33?source=m3u
 #EXTINF:-1 group-title="Lebanon" radio="true",sancta maria radio
 http://streaming.radio.co/sa7e0251a2/listen
-# 72FM: https://72fm.com/station/c930b4f7-0f98-4490-9477-02cc61229e9d?source=m3u
-#EXTINF:-1 tvg-logo="https://fr.radioliban.gov.lb/media/0p2iyzcn/logo.svg" group-title="Lebanon" radio="true",Radio Liban 96.2FM
-https://media2.streambrothers.com:8202/stream
 # 72FM: https://72fm.com/station/0f99b5e6-c281-4d7c-bdcd-65b131795cf9?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xsv5XHJ/pic-180-172.jpg" group-title="Lebanon" radio="true",3j Radio
 https://de1.streamingpulse.com/ssl/9085
@@ -169,9 +166,9 @@ https://vovan.s3ming.com/vovan.aac
 # 72FM: https://72fm.com/station/54bfa49a-44ed-4e82-8f58-572b3df53743?source=m3u
 #EXTINF:-1 group-title="Lebanon" radio="true",Yeridasartoutian Tsayne
 http://65.108.98.93:8123/stream
-# 72FM: https://72fm.com/station/797a3f43-9ff0-4173-8071-6f3f21e664ed?source=m3u
-#EXTINF:-1 tvg-logo="https://www.voiceofvan.net/backend/uploads/setting/1723180428.png" group-title="Lebanon" radio="true",Radio Voice of Van
-https://vovan.s3ming.com/vovan.mp3
 # 72FM: https://72fm.com/station/60dc8f64-b7a6-4ab8-92d5-e6d33d13ff57?source=m3u
 #EXTINF:-1 group-title="Lebanon" radio="true",البشائر | Al Bachaer
 https://l3.itworkscdn.net/itwaudio/9014/stream
+# 72FM: https://72fm.com/station/797a3f43-9ff0-4173-8071-6f3f21e664ed?source=m3u
+#EXTINF:-1 tvg-logo="https://www.voiceofvan.net/backend/uploads/setting/1723180428.png" group-title="Lebanon" radio="true",Radio Voice of Van
+https://vovan.s3ming.com/vovan.mp3

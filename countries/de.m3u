@@ -57,7 +57,7 @@ http://mp3channels.webradio.antenne.de/chillout
 http://streams.90s90s.de/eurodance/mp3-192/radiode/
 # 72FM: https://72fm.com/station/960553a5-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Radio Eins
-http://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KZEwnzQyfopenlu6yQmeFDQQpH&token=6UiS1TUqdBvbGvYBSoCLLK33x9JKx9jsfjiBc5utgrY&tvf=tzCxkRSt3RhkMTIxLnJuZGZuay5jb20
+http://f131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KnSnWiSw6mfEyYtIyhWmkXWca3&token=bPO4Y-B8A2inVn3kqUseFO7dWODyPt7IPYwLEG5HUkc&tvf=IyBpZcc43xhmMTMxLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/960b77af-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Inforadio
 http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
@@ -84,7 +84,7 @@ https://0n-80s.radionetz.de/0n-80s.mp3
 http://tuner.country108.com/;
 # 72FM: https://72fm.com/station/962e5ddc-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.br.de/favicon.ico" group-title="Germany" radio="true",B5 aktuell
-http://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+http://streams.br.de/b5aktuell_2.m3u
 # 72FM: https://72fm.com/station/960ebc25-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png" group-title="Germany" radio="true",Reggae Radio Rastamusic.com
 http://origin-rastamusic.streamguys1.com/rastamusic.mp3
@@ -93,7 +93,7 @@ http://origin-rastamusic.streamguys1.com/rastamusic.mp3
 http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/9c3f1676-9445-4d72-b4da-d3a1c4847b91?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Deutschrap
-http://deutschrap.stream.laut.fm/deutschrap?uuid=737e6a70-909a-0cd5-31a9-6da8c8867df8&t302=2026-10-11_23-38-09
+http://deutschrap.stream.laut.fm/deutschrap?t302=2026-10-17_00-27-00&uuid=b4cac1c2-779b-8eb9-56af-a983b4f47dd4
 # 72FM: https://72fm.com/station/96056147-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ffh.de/android-icon.png" group-title="Germany" radio="true",Hit Radio FFH
 http://mp3.ffh.de/radioffh/hqlivestream.mp3
@@ -102,7 +102,7 @@ http://mp3.ffh.de/radioffh/hqlivestream.mp3
 http://stream.sunshine-live.de/classics/mp3-192/stream.sunshine-live.de/
 # 72FM: https://72fm.com/station/1b762b21-2ec6-412a-a231-fa34a96f4f99?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="Germany" radio="true",80s80s Radio
-http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6npp93s8%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1791792120
+http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nq36rn3%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792241315
 # 72FM: https://72fm.com/station/9615dc04-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Antenne Bayern - Classic Rock Live (MP3)
 http://mp3channels.webradio.antenne.de/classic-rock-live
@@ -135,7 +135,7 @@ https://0n-90s.radionetz.de/0n-90s.mp3
 http://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/
 # 72FM: https://72fm.com/station/5b48d259-27f5-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="Germany" radio="true",i love radio - hip hop turnup
-http://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkxNzY0Mzc5JmQ9MDNiYjgwNWQ5YmZjYzc0MzQ1ZDE
+http://ilm.stream27.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkyMjE1MjM2JmQ9NzQzZTJmZDk1NjNiZTRkMGEyYmQ
 # 72FM: https://72fm.com/station/cc0fdbe3-a2fb-4f0a-b67d-b47acd6354c7?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Technolovers DEEP HOUSE
 https://stream.technolovers.fm/deep-house?ref=radiobrowser
@@ -234,7 +234,7 @@ http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/
 http://stream.sunshine-live.de/edm/mp3-192/stream.sunshine-live.de/
 # 72FM: https://72fm.com/station/257fb845-167f-4b66-9d63-f1f3b553b76f?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",deutschrap
-http://deutschrap.stream.laut.fm/deutschrap?uuid=adf9e0f0-f81b-3a3f-0878-07b0e24d737f&t302=2026-10-12_00-59-25
+http://deutschrap.stream.laut.fm/deutschrap?t302=2026-10-17_01-11-16&uuid=d751af89-d6fa-9b05-675d-dccd0879945e
 # 72FM: https://72fm.com/station/36a6d57a-4d8a-45e3-aad9-7931c6e43c56?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio.at/images/broadcasts/07/41/2273/2/c300.png" group-title="Germany" radio="true",SWR1 BW
 https://liveradio.swr.de/sw282p3/swr1bw/play.mp3
@@ -337,24 +337,24 @@ http://stream.sunshine-live.de/sp8/mp3-192/stream.sunshine-live.de/
 # 72FM: https://72fm.com/station/ae209b3a-d20a-48f2-b303-22d68e385bf4?source=m3u
 #EXTINF:-1 tvg-logo="https://absolutradio.de/images/stations/229_relax.png" group-title="Germany" radio="true",Absolut Relax
 https://absolut-relax.live-sm.absolutradio.de/absolut-relax?__cb=130270101023249
-# 72FM: https://72fm.com/station/9612d85e-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png" group-title="Germany" radio="true",MDR Kultur
-http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
 # 72FM: https://72fm.com/station/960a37a2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",the wave - relaxing radio
 http://stream.thewaveradio.de/wave-live/mp3-128/radio-browser.info/
+# 72FM: https://72fm.com/station/9612d85e-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png" group-title="Germany" radio="true",MDR Kultur
+http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
 # 72FM: https://72fm.com/station/4a9cd8e0-1b0d-4c87-91bf-d227e06b23eb?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/44061.v2.png" group-title="Germany" radio="true",Italo Disco
 https://italo-disco.stream.laut.fm/italo-disco
 # 72FM: https://72fm.com/station/efe59d93-2fe4-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Sunshine Live - Tech House
 http://stream.sunshine-live.de/sp4/mp3-192/stream.sunshine-live.de/
-# 72FM: https://72fm.com/station/d449a2a6-013e-11e9-a1be-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",Top 100 Station
-http://streamhq.top100station.com/top100station-high.mp3
 # 72FM: https://72fm.com/station/44ee797f-b7c4-4f94-8853-ce9a9c8731ed?source=m3u
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/wdr4/wdrvier_logo104~_v-ARDAustauschformat.jpg" group-title="Germany" radio="true",WDR4
 https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/d449a2a6-013e-11e9-a1be-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",Top 100 Station
+http://streamhq.top100station.com/top100station-high.mp3
 # 72FM: https://72fm.com/station/09998555-2654-4aa2-8a1e-1ea7a4fed978?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",54 Funk Soul Dance (laut.fm)
 http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance
@@ -363,7 +363,7 @@ http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance
 https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer
 # 72FM: https://72fm.com/station/7997cf34-9131-11e9-a6c6-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="Germany" radio="true",i love radio - US Only Rap&HipHop Radio
-https://ilm.stream27.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkxNzYxNjEyJmQ9YzNkMzMwNzQ2MDdhYmY5OGM1NzY
+https://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMTk0MTU5JmQ9NjhiMTg5NDBiYmM1ZjczZDNhNTQ
 # 72FM: https://72fm.com/station/96054dc3-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Hit Radio FFH - Top 40
 http://mp3.ffh.de/ffhchannels/hqtop40.mp3
@@ -394,15 +394,15 @@ http://regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440?sABC=6
 # 72FM: https://72fm.com/station/efcd88c5-cd6f-11e8-a54a-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.byte.fm/static/favicon/favicon-96x96.png?v=2023.10.27.3186-f0a9d83" group-title="Germany" radio="true",ByteFM (192k)
 https://bytefm.cast.addradio.de/bytefm/main/high/stream
-# 72FM: https://72fm.com/station/306e9bec-a532-11e8-abb8-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://static-assets.iamrad.io/klassikradio/1647251836219/icons/icon_64.a00w80w0000.png" group-title="Germany" radio="true",Klassikradio - Pure Bach
-http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
 # 72FM: https://72fm.com/station/7a49c017-1391-4e18-a4d8-a9bab58516e6?source=m3u
 #EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512" group-title="Germany" radio="true",Bayern 1 Oberbayern
 https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
 # 72FM: https://72fm.com/station/40819a21-3b7e-11ea-8dd7-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://images.90s90s.de/files/2019-03/90s90s_grunge_1920x1080.png?h=&w=625" group-title="Germany" radio="true",90s90s Grunge
 http://streams.90s90s.de/grunge/mp3-192/
+# 72FM: https://72fm.com/station/306e9bec-a532-11e8-abb8-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://static-assets.iamrad.io/klassikradio/1647251836219/icons/icon_64.a00w80w0000.png" group-title="Germany" radio="true",Klassikradio - Pure Bach
+http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
 # 72FM: https://72fm.com/station/96120d31-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.deltaradio.de/production/static/1718010612769/icons/icon_64.800a00w0080.png" group-title="Germany" radio="true",delta radio Indie
 http://streams.deltaradio.de/delta-indie/mp3-192/mediaplayer
@@ -414,19 +414,19 @@ http://stream.rockantenne.de/alternative
 https://webstream.schlagerparadies.de/schlager30842
 # 72FM: https://72fm.com/station/822191e8-d29d-4031-8cc0-bc6af89fb8af?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",sunshine live - Vocal Trance
-https://sunsl.streamabc.net/sunsl-vocaltrance-mp3-192-5826863?sABC=6npp2579%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1791763833
+https://sunsl.streamabc.net/sunsl-vocaltrance-mp3-192-5826863?sABC=6nq2pq13%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1792199955
 # 72FM: https://72fm.com/station/9642530a-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",1A Fitness Hits
 http://stream.1a-webradio.de/saw-fitness/mp3-128/radio-browser-1a/stream.mp3
 # 72FM: https://72fm.com/station/10b15833-b29c-11e8-afe1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",NDR2
 http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
-# 72FM: https://72fm.com/station/5a6946a2-f02f-4fd1-a16b-558c90150041?source=m3u
-#EXTINF:-1 tvg-logo="https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png" group-title="Germany" radio="true",Deutschlandfunk | DLF | OPUS 24k
-https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus?aggregator=web
 # 72FM: https://72fm.com/station/c0646941-d526-44c2-ad99-dbb793678055?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hr3.de/favicon.png?v=3.85.2" group-title="Germany" radio="true",HR3
 http://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/5a6946a2-f02f-4fd1-a16b-558c90150041?source=m3u
+#EXTINF:-1 tvg-logo="https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png" group-title="Germany" radio="true",Deutschlandfunk | DLF | OPUS 24k
+https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus?aggregator=web
 # 72FM: https://72fm.com/station/962abd5c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Ultra Dark Radio
 http://stream.laut.fm/ultradarkradio
@@ -444,7 +444,7 @@ http://mp3channels.webradio.antenne.de/hitmix
 http://stream.laut.fm/oldschool-hiphop
 # 72FM: https://72fm.com/station/9f899cb2-8dd7-11e8-aa66-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Radioeins
-http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KaCZ6SITRJ2je2F4FlKm4iTGhL&token=AfwQazqHOz7Hq8hMxg3rlM1eiJCe9KujIKcALz-pPS4&tvf=JTQZBNXH3RhmMTExLnJuZGZuay5jb20
+http://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KozWk07f1yvNVTwGV8gofxSDxM&token=4inenNbPpMeSaFW11CcJ948ud7C59Ql4mGHetwoaqFA&tvf=lUlcEklj3xhkMTMxLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/900a7450-c2fb-4896-a38f-99a2e6dc0c6e?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s307738/images/logog.png?t=155074" group-title="Germany" radio="true",80s80s Italo Disco
 http://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150?sABC=654902n3%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699283619
@@ -463,12 +463,12 @@ http://club-high.rautemusik.fm/
 # 72FM: https://72fm.com/station/e94afa1a-0f96-4a57-8b97-112bb5cd348d?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="Germany" radio="true",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, ED
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
-# 72FM: https://72fm.com/station/960591fc-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",Energy Bremen (NRJ)
-http://stream.ffn.de/energybremen/mp3-192/livestream.mp3
 # 72FM: https://72fm.com/station/df1045ec-c8ef-410f-b800-9a81cdf0d252?source=m3u
 #EXTINF:-1 tvg-logo="https://absolutradio.de/apple-touch-icon.png" group-title="Germany" radio="true",Absolut bella
 https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
+# 72FM: https://72fm.com/station/960591fc-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",Energy Bremen (NRJ)
+http://stream.ffn.de/energybremen/mp3-192/livestream.mp3
 # 72FM: https://72fm.com/station/597d4cfc-93c4-11e9-a605-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Energy Top 40
 http://nrj.de/germanytop40
@@ -522,7 +522,7 @@ https://stream.bigfm.de/tomorrowland/mp3-128/radiobrowser
 https://0n-electro.radionetz.de/0n-electro.mp3
 # 72FM: https://72fm.com/station/961266af-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png" group-title="Germany" radio="true",MDR Thüringen
-http://f111.rndfnk.com/ard/mdr/284300/0/mp3/128/stream.mp3?cid=01FBQ0VVNFY9PE18EJE73MJAYC&sid=3KahWlgtyLbqs2uGb2Oy6XtbYXN&token=PRchVKSyadq6xR6Qz9xC3gRZ0-ujZj2MznBKBBUCvyI&tvf=vOZhmbnV3RhmMTExLnJuZGZuay5jb20
+http://f131.rndfnk.com/ard/mdr/284300/0/mp3/128/stream.mp3?cid=01FBQ0VVNFY9PE18EJE73MJAYC&sid=3KorLyy8csdM9UbfOhXlgSCdMRJ&token=oo3kj7u7UzT77vQnHLi7kQ7FLr_WXUmG9oAyKle4m_g&tvf=T2fwGp5f3xhmMTMxLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/563b5435-61d9-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Hip Hop Forever
 https://stream.laut.fm/hiphop-forever
@@ -532,12 +532,12 @@ https://stream.nightride.fm/spacesynth.mp3
 # 72FM: https://72fm.com/station/96318345-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",harmony.fm
 http://mp3.harmonyfm.de/harmonyfm/livestream.aac
-# 72FM: https://72fm.com/station/4c0118e7-97d9-4657-9bb8-427758a4aa85?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",Epic Lounge - SLEEP & MEDITATION
-https://stream.epic-lounge.com/sleep-meditation?ref=radiobrowser
 # 72FM: https://72fm.com/station/f28460cb-9f0d-4602-9a46-be8c49975a16?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Beats Radio
 http://live.streams.klassikradio.de/beats-radio/stream/mp3
+# 72FM: https://72fm.com/station/4c0118e7-97d9-4657-9bb8-427758a4aa85?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",Epic Lounge - SLEEP & MEDITATION
+https://stream.epic-lounge.com/sleep-meditation?ref=radiobrowser
 # 72FM: https://72fm.com/station/962c0432-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Sunshine Live - Drum 'N' Bass
 http://stream.sunshine-live.de/dnb/mp3-192/stream.sunshine-live.de/
@@ -559,12 +559,12 @@ http://stream.laut.fm/deep-house-sounds
 # 72FM: https://72fm.com/station/963b0409-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",laut.fm Sound
 http://stream.laut.fm/sound
-# 72FM: https://72fm.com/station/9646971f-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",R.SA Beatles Radio
-http://streams.rsa-sachsen.de/rsa-beatles/mp3-192/mediaplayerrsa
 # 72FM: https://72fm.com/station/9da83f97-bc76-4782-8a9b-ad2ed5d44fff?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hr4.de/favicon.png?v=3.85.2" group-title="Germany" radio="true",hr4
 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/high
+# 72FM: https://72fm.com/station/9646971f-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",R.SA Beatles Radio
+http://streams.rsa-sachsen.de/rsa-beatles/mp3-192/mediaplayerrsa
 # 72FM: https://72fm.com/station/4b473070-a3c2-41bd-8d98-c2db5f5954bc?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="Germany" radio="true",Rock Antenne Heavy Metal
 https://stream.rockantenne.de/heavy-metal/stream/aacp
@@ -619,21 +619,21 @@ http://stream.laut.fm/bluesrockcafe
 # 72FM: https://72fm.com/station/b591d01a-e72b-4030-a640-a8da10ed73f6?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bdF482/REMIX-PARTYNBREAKS-LOGO-1.png" group-title="Germany" radio="true",# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
 https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
-# 72FM: https://72fm.com/station/960dd421-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",Hit Radio FFH - Soundtrack
-http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3
 # 72FM: https://72fm.com/station/9641191e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Dark Ambient Radio (96k AAC+)
 http://s3.viastreaming.net:8835/
+# 72FM: https://72fm.com/station/960dd421-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",Hit Radio FFH - Soundtrack
+http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3
 # 72FM: https://72fm.com/station/9067dc39-4bf4-4364-bd6b-8020cff3e15d?source=m3u
 #EXTINF:-1 tvg-logo="https://nightride.fm/thumbnail.png" group-title="Germany" radio="true",Nightride FM - Chillsynth
 https://stream.nightride.fm/chillsynth.mp3
-# 72FM: https://72fm.com/station/96477f0c-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",Laut.FM jazzrockfusion
-http://stream.laut.fm/jazzrockfusion
 # 72FM: https://72fm.com/station/2ed4195c-73a1-46ab-b6cb-e1afe68ea82a?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",ROCK ANTENNE Hair Metal
 https://stream.rockantenne.de/hair-metal/stream/aacp
+# 72FM: https://72fm.com/station/96477f0c-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",Laut.FM jazzrockfusion
+http://stream.laut.fm/jazzrockfusion
 # 72FM: https://72fm.com/station/717e3749-b9e8-4497-bd6a-61ccec935922?source=m3u
 #EXTINF:-1 tvg-logo="https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png" group-title="Germany" radio="true",Deutschlandfunk | DLF | AAC 192k
 https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
@@ -642,7 +642,7 @@ https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
 https://s35.derstream.net/lounge.mp3
 # 72FM: https://72fm.com/station/9643c506-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",FluxFM - Techno Underground
-http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=6nppqo60%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1791810400
+http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=6nq3or64%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1792261732
 # 72FM: https://72fm.com/station/5f729860-a726-4468-bf41-67986e60bdef?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Radio BOB Progressive Rock
 https://streams.radiobob.de/progrock/mp3-192/
@@ -691,33 +691,33 @@ https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web
 # 72FM: https://72fm.com/station/9645e567-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",M1.FM - Schlagerparty
 http://tuner.m1.fm/schlagerparty.mp3
-# 72FM: https://72fm.com/station/9629f6c9-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",Jam FM - Black Label
-http://stream.jam.fm/jamfm-bl/mp3-128/radio-browser.info/
 # 72FM: https://72fm.com/station/bc0fc480-9229-4d6a-85b8-b91f38191f43?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Epic Lounge - IBIZA CHILLOUT LOUNGE
 https://stream.epic-lounge.com/ibiza-chillout-lounge?ref=radiobrowser
+# 72FM: https://72fm.com/station/9629f6c9-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",Jam FM - Black Label
+http://stream.jam.fm/jamfm-bl/mp3-128/radio-browser.info/
 # 72FM: https://72fm.com/station/036b5a3c-5418-4c26-ba35-25995cb872a8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="Germany" radio="true",RBB Radio Eins
-http://f131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KaFGxJ8IVXR6bjiqCQJEH7JEV2&token=LNuttGAJrkdxKXoFQPiOGT0bzdQhFG8sP-ZdUARUuOI&tvf=E4I6ywvJ3RhmMTMxLnJuZGZuay5jb20
-# 72FM: https://72fm.com/station/c52f22bd-7bc4-4fd2-ab2b-c3c7f031a530?source=m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sQNvYtT/sex.jpg" group-title="Germany" radio="true",__SEX__ by rautemusik (rm.fm)
-https://sex-high.rautemusik.fm/?ref=radiobrowser
+http://d111.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KojDiWDfHdPcTgD8LvQfogumGx&token=IwDRdKxbsRj2FSyWquvN8lxL3_kO0VzuEthynZ93HPk&tvf=8nNs0fdb3xhkMTExLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/5143bb9a-3c5e-4c53-a6ec-0108435caf5a?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",CHILLOUT PIANO by Epic Piano
 https://stream.epic-piano.com/chillout-piano?ref=radiobrowser
 # 72FM: https://72fm.com/station/962a1121-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Jam FM
 http://stream.jam.fm/jamfm-live/mp3-128/radio-browser.info/
+# 72FM: https://72fm.com/station/c52f22bd-7bc4-4fd2-ab2b-c3c7f031a530?source=m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQNvYtT/sex.jpg" group-title="Germany" radio="true",__SEX__ by rautemusik (rm.fm)
+https://sex-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/960df2cd-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Antenne Bayern - Lovesongs
 http://stream.antenne.de/lovesongs
-# 72FM: https://72fm.com/station/960e4255-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png" group-title="Germany" radio="true",NDR Blue
-http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/1f3700b5-4875-4bdf-986d-1dcaa4e8dfbe?source=m3u
 #EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:5d72d15e88d309ec?w=512" group-title="Germany" radio="true",Bayern 2
 https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
+# 72FM: https://72fm.com/station/960e4255-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png" group-title="Germany" radio="true",NDR Blue
+http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/2100610c-13c2-4536-879f-6a88ccb07dc8?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScwBQ49/TECHNO-TL.jpg" group-title="Germany" radio="true",Technolovers - TECHNO
 https://stream.technolovers.fm/techno?ref=radiobrowser
@@ -745,27 +745,27 @@ https://stream.rockantenne.de/blues-rock/stream/mp3
 # 72FM: https://72fm.com/station/06f59caa-a243-4383-be08-2f6d3ceefdb2?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Schwany 5 Oberkrain
 https://schwany5oberkrain.hoamatwelle.de/
-# 72FM: https://72fm.com/station/e5ef8210-7cea-49e5-b2ef-13db01df225f?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",RADIO BOB! BOB's metalcore
-http://streams.radiobob.de/metalcore/mp3-192/streams.radiobob.de/
 # 72FM: https://72fm.com/station/fad19829-939d-45de-83a4-8b7fd7dc88e1?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",90s90s Hits | aac 64k
 http://streams.90s90s.de/pop/aac-64/streams.90s90s.de/
+# 72FM: https://72fm.com/station/e5ef8210-7cea-49e5-b2ef-13db01df225f?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",RADIO BOB! BOB's metalcore
+http://streams.radiobob.de/metalcore/mp3-192/streams.radiobob.de/
 # 72FM: https://72fm.com/station/a4c3f7e9-4b16-4566-8dc5-7f9b45faaca1?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",90s90s Black & RnB HQ
 http://streams.90s90s.de/rnb/mp3-192/
 # 72FM: https://72fm.com/station/8b596ce2-3a96-11e9-9b4e-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg" group-title="Germany" radio="true",- 0 N - Dance on Radio
 https://0n-dance.radionetz.de/0n-dance.mp3
+# 72FM: https://72fm.com/station/01fa3ef0-acf6-4e63-8777-f5bb4957b5ec?source=m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LncDTYz/MINIMAL-TL.jpg" group-title="Germany" radio="true",Technolovers - MINIMAL
+https://stream.technolovers.fm/minimal?ref=radiobrowser
 # 72FM: https://72fm.com/station/961f3c53-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Klassik Radio - Nature
 http://stream.klassikradio.de/nature/mp3-128/www.klassikradio.de/
 # 72FM: https://72fm.com/station/9646b5ee-4b98-11e8-a4d1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",RADIO BOB! BOBs Gothic Rock
 http://streams.radiobob.de/gothic/mp3-192/streams.radiobob.de/
-# 72FM: https://72fm.com/station/01fa3ef0-acf6-4e63-8777-f5bb4957b5ec?source=m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LncDTYz/MINIMAL-TL.jpg" group-title="Germany" radio="true",Technolovers - MINIMAL
-https://stream.technolovers.fm/minimal?ref=radiobrowser
 # 72FM: https://72fm.com/station/612c3e91-9cf6-451d-a2da-2543646db344?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Hirschmilch Radio - Chilllout
 http://hirschmilch.de:7000/chillout.mp3
@@ -802,15 +802,15 @@ http://wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/e6822dac-209c-4ea2-b565-643cf1b31ce1?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Bremen Eins
 https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=surfmusik-de
+# 72FM: https://72fm.com/station/a2774eb5-924c-49af-897f-b3899a7f9777?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="Germany" radio="true",RadioEins [High Quality]
+http://d111.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3Koj6rOJOgkAyG6q7ioIjpbJ3V5&token=2NdOqRzidhxYj5YNDWVgvCCzoErJFRicaqGO_nzCop4&tvf=1y1qT-tb3xhkMTExLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/b459c352-9639-11e8-a767-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.animeradio.de/img/favicon.png" group-title="Germany" radio="true",AnimeRadio.de
 http://stream.animeradio.de/animeradio.mp3
 # 72FM: https://72fm.com/station/960dffa2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",LOHRO - Lokalradio Rostock
 http://stream.lohro.de:8000/lohro128.mp3
-# 72FM: https://72fm.com/station/a2774eb5-924c-49af-897f-b3899a7f9777?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="Germany" radio="true",RadioEins [High Quality]
-http://d141.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KaEJKR2QRiDXa394Fhg5Z5Qgw8&token=EdCiV0gNjsqokTx-6z9il6BCks1BrjSu4HzChlAgODc&tvf=9zwygp3I3RhkMTQxLnJuZGZuay5jb20
 # 72FM: https://72fm.com/station/c87339e0-c556-4ed5-9ef2-4dd176cabbb0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Germany" radio="true",__90S__ by rautemusik (rm.fm)
 https://90s-high.rautemusik.fm/?ref=radiobrowser
@@ -832,18 +832,18 @@ http://streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de/
 # 72FM: https://72fm.com/station/f4ebd0d3-ee82-46ed-b6df-0da93098d012?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",sunshine live - Melodic Techno
 https://stream.sunshine-live.de/melodic-techno/mp3-128/stream.sunshine-live.de/
-# 72FM: https://72fm.com/station/960e4719-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",105'5 Spreeradio
-http://stream.spreeradio.de/spree-live/mp3-192/radio-browser.info/
-# 72FM: https://72fm.com/station/5dd6437a-3a93-11e9-9b4e-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-country_600x600.jpg" group-title="Germany" radio="true",- 0 N - Country on Radio
-https://0n-country.radionetz.de/0n-country.mp3
-# 72FM: https://72fm.com/station/9615dee7-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",Antenne Bayern - 90er
-http://mp3channels.webradio.antenne.de/90er-hits
 # 72FM: https://72fm.com/station/54e4b1de-0156-4972-a14e-580111522b44?source=m3u
 #EXTINF:-1 tvg-logo="https://www.swr.de/assets/swr/swr4/apple-touch-icon-180x180.png" group-title="Germany" radio="true",SWR4 BW [48 aac]
 https://liveradio.swr.de/sw890cl/swr4bw/
+# 72FM: https://72fm.com/station/5dd6437a-3a93-11e9-9b4e-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-country_600x600.jpg" group-title="Germany" radio="true",- 0 N - Country on Radio
+https://0n-country.radionetz.de/0n-country.mp3
+# 72FM: https://72fm.com/station/960e4719-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",105'5 Spreeradio
+http://stream.spreeradio.de/spree-live/mp3-192/radio-browser.info/
+# 72FM: https://72fm.com/station/9615dee7-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",Antenne Bayern - 90er
+http://mp3channels.webradio.antenne.de/90er-hits
 # 72FM: https://72fm.com/station/5f20d10f-732b-11e8-83fa-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",egoFM
 http://cast.egofm.de/egofm.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
@@ -859,12 +859,12 @@ http://streams.90s90s.de/main/mp3-192/streams.90s90s.de/
 # 72FM: https://72fm.com/station/09431245-155d-11ea-a87e-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png" group-title="Germany" radio="true",Rock Antenne - Melodic Rock
 http://stream.rockantenne.de/melodic-rock
-# 72FM: https://72fm.com/station/5dc97c2f-566f-47df-8236-021db5906dde?source=m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1CQpDf/BACH-NEW.jpg" group-title="Germany" radio="true",0nlineradio BACH
-https://stream.0nlineradio.com/bach?ref=radiobrowser
 # 72FM: https://72fm.com/station/960563e3-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.dieneue1077.de/production/static/1693298631006/icons/icon_64.ax1w460g800.png" group-title="Germany" radio="true",DIE NEUE 107.7 Rock & Pop
 http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
+# 72FM: https://72fm.com/station/5dc97c2f-566f-47df-8236-021db5906dde?source=m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1CQpDf/BACH-NEW.jpg" group-title="Germany" radio="true",0nlineradio BACH
+https://stream.0nlineradio.com/bach?ref=radiobrowser
 # 72FM: https://72fm.com/station/963d047f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Klassik Radio - Pure Beethoven
 http://stream.klassikradio.de/beethoven/mp3-128/
@@ -873,25 +873,25 @@ http://stream.klassikradio.de/beethoven/mp3-128/
 https://dw.audiostream.io/dw/1027/mp3/64/dw08
 # 72FM: https://72fm.com/station/23a4e727-bfcc-42ae-901e-53b003ccf66f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.inforadio.de/content/dam/rbb/rbb/logos/touch/inf-128.png" group-title="Germany" radio="true",Inforadio vom rbb
-https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid?aggregator=tunein
+https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/low?aggregator=tunein
 # 72FM: https://72fm.com/station/213abeab-b8d2-4057-b570-5a6143607b2c?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",Radio Seefunk
 https://webradio.radio-seefunk.de/
 # 72FM: https://72fm.com/station/29010f42-faef-4a9e-b15c-3ad1613b45cb?source=m3u
 #EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512" group-title="Germany" radio="true",BR-Klassik
 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
-# 72FM: https://72fm.com/station/9620239f-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://webradio.ffh.de/android-icon.png" group-title="Germany" radio="true",Hit Radio FFH - Party
-http://mp3.ffh.de/ffhchannels/hqparty.mp3?aw_0_req.gdpr=true
 # 72FM: https://72fm.com/station/8070272f-99fd-4ba0-8540-defb2d087398?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",SR3 Saarlandwelle 128k
 http://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3?aggregator=custom1
-# 72FM: https://72fm.com/station/96451b5b-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Germany" radio="true",FluxFM - FluxLounge
-http://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851?sABC=6npp2410%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1791763472
+# 72FM: https://72fm.com/station/9620239f-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://webradio.ffh.de/android-icon.png" group-title="Germany" radio="true",Hit Radio FFH - Party
+http://mp3.ffh.de/ffhchannels/hqparty.mp3?aw_0_req.gdpr=true
 # 72FM: https://72fm.com/station/8a96884d-d002-11e9-a861-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",NDR 90,3
 http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/96451b5b-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Germany" radio="true",FluxFM - FluxLounge
+http://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851?sABC=6nq2po64%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1792199524
 # 72FM: https://72fm.com/station/96287b40-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Germany" radio="true",DWG Radio German
 http://server23644.streamplus.de/;

@@ -117,7 +117,7 @@ https://0n-gothic.radionetz.de/0n-gothic.aac
 http://79.120.39.202:9123/
 # 72FM: https://72fm.com/station/85864736-a73e-11e8-abb8-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Path through the Forest
-http://paththroughtheforest.stream.laut.fm/path_through_the_forest?uuid=9089961d-581f-d8d1-c987-b258eb3a0a11&t302=2026-10-12_18-47-57
+http://paththroughtheforest.stream.laut.fm/path_through_the_forest?uuid=23d314d2-d045-89f2-87e4-1ad5867083e8&t302=2026-10-17_20-00-27
 # 72FM: https://72fm.com/station/962e7288-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Radio Caprice - Punk
 http://79.120.77.11:9045/
@@ -160,18 +160,18 @@ https://radio.athensnoise.rocks/listen/athensnoise.rocks/radio.mp3
 # 72FM: https://72fm.com/station/9610c965-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",RauteMusik Rock
 http://rock-high.rautemusik.fm/
+# 72FM: https://72fm.com/station/2a1ead75-319e-43e1-891a-e8f32fa144b4?source=m3u
+#EXTINF:-1 tvg-logo="https://www.proradios.net/themes/default/images/radios/logo-mx-reactor.jpg" group-title="Punk" radio="true",Reactor 105.7 FM XHOF
+https://securestreams7.autopo.st/?uri=http://184.164.75.138:8002/stream
 # 72FM: https://72fm.com/station/47f4b8f2-a516-4763-b597-36622e573838?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",RADIO BOB - 70er Rock [aac | 64 kbps]
 https://streams.radiobob.de/70errock/aac-64/streams.radiobob.de/
 # 72FM: https://72fm.com/station/9636938e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300" group-title="Punk" radio="true",Laut.FM Raus
 http://stream.laut.fm/raus
-# 72FM: https://72fm.com/station/2a1ead75-319e-43e1-891a-e8f32fa144b4?source=m3u
-#EXTINF:-1 tvg-logo="https://www.proradios.net/themes/default/images/radios/logo-mx-reactor.jpg" group-title="Punk" radio="true",Reactor 105.7 FM XHOF
-https://securestreams7.autopo.st/?uri=http://184.164.75.138:8002/stream
 # 72FM: https://72fm.com/station/814ff1ae-7f10-46d8-8784-d60be8a43365?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",DJ 666 Geordieblackcore
-http://dj666geordieblackcore.stream.laut.fm/dj666geordieblackcore?t302=2026-10-12_09-57-59&uuid=01a64504-3f56-6039-11bd-983101908244
+http://dj666geordieblackcore.stream.laut.fm/dj666geordieblackcore?uuid=b066e84c-025e-1dc0-9a47-ee76b722aa1a&t302=2026-10-17_10-12-22
 # 72FM: https://72fm.com/station/96145443-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",idobi Radio
 http://idobiradio.idobi.com/;stream.mp3
@@ -193,12 +193,12 @@ http://stream.laut.fm/todamax
 # 72FM: https://72fm.com/station/6754605b-0bc9-11ea-a87e-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Subculture 69 Radio (new)
 http://144.76.32.5:8000/sbc69r
-# 72FM: https://72fm.com/station/cb4d6207-c66f-4d8f-ae93-778eea40ad36?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/117051.v5.png" group-title="Punk" radio="true",Scream Radio
-https://stream.zeno.fm/us9zu5w8zxhvv
 # 72FM: https://72fm.com/station/ef65c41c-fabc-49ae-b0cd-48b9c7a3db8e?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",+Exclusively Green Day
 https://streaming.exclusive.radio/er-app/greenday/icecast.audio
+# 72FM: https://72fm.com/station/cb4d6207-c66f-4d8f-ae93-778eea40ad36?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/117051.v5.png" group-title="Punk" radio="true",Scream Radio
+https://stream.zeno.fm/us9zu5w8zxhvv
 # 72FM: https://72fm.com/station/32955656-5a38-40c0-ab1f-e059496bfda6?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",RadCap - Russian Punk Rock
 http://79.120.77.11:9045/;
@@ -222,52 +222,55 @@ https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/
 https://stream3.radiogoose.ru/listen/rock/play
 # 72FM: https://72fm.com/station/6208aaaa-7aea-4300-ac6b-b99b1cf6bd19?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Radio Endstation
-https://funkturm.radio-endstation.de/hls/radio-endstation/live.m3u8
+https://funkturm.radio-endstation.de/listen/radio-endstation/64
+# 72FM: https://72fm.com/station/795e1e3f-8b5a-414a-bb28-a53164c27c71?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",RadCap - Post Punk
+http://79.120.39.202:9071/;
 # 72FM: https://72fm.com/station/5643cfdf-047a-4408-9f7b-f9ba49e38283?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Exclusively Billy Idol
 http://2.mystreaming.net/er/billyidol/icecast.audio
 # 72FM: https://72fm.com/station/6b6aa41b-06d3-4bed-98ee-b80c2cb15a76?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Droogies
 http://www.droogies.org:8000/stream
-# 72FM: https://72fm.com/station/795e1e3f-8b5a-414a-bb28-a53164c27c71?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",RadCap - Post Punk
-http://79.120.39.202:9071/;
 # 72FM: https://72fm.com/station/dc389c56-2871-4d12-b581-19a69e6a02f1?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/87633.v5.png" group-title="Punk" radio="true",Teenage Kicks Radio
 https://evcast.mediacp.eu:1165/stream
-# 72FM: https://72fm.com/station/32ba51d9-090c-11ea-a87e-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",KXSF
-http://stream.kxsf.fm:8000/kxsf
 # 72FM: https://72fm.com/station/8860e388-d794-4d93-abdd-7c5f84bd01b6?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",0nlineradio ROCK
 https://stream.0nlineradio.com/rock?ref=radiobrowser
+# 72FM: https://72fm.com/station/32ba51d9-090c-11ea-a87e-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",KXSF
+http://stream.kxsf.fm:8000/kxsf
+# 72FM: https://72fm.com/station/32bac5f0-58bc-445a-8e54-8ce9ba7f48df?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",RadCap - Ska Punk
+http://79.111.119.111:9039/;
 # 72FM: https://72fm.com/station/4a912d4e-00b0-49e7-87db-cf4ccd0d1269?source=m3u
 #EXTINF:-1 tvg-logo="https://play.google.com/favicon.ico" group-title="Punk" radio="true",Scream Radio
 https://stream.zeno.fm/c3z135w8zxhvv.mp3
-# 72FM: https://72fm.com/station/4680060f-16ea-4b6a-8b2e-8a34be37e0c3?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",Exclusively The Stranglers
-https://2.mystreaming.net/er/thestranglers/icecast.audio
 # 72FM: https://72fm.com/station/44088288-7ad1-44a7-8ec5-d8c210099c12?source=m3u
 #EXTINF:-1 tvg-logo="https://streamd.de/wp-content/uploads/2020/03/cropped-favicon-180x180.png" group-title="Punk" radio="true",3Chords allez Ist Punk
 http://stream.laut.fm/3chords
+# 72FM: https://72fm.com/station/4680060f-16ea-4b6a-8b2e-8a34be37e0c3?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",Exclusively The Stranglers
+https://2.mystreaming.net/er/thestranglers/icecast.audio
 # 72FM: https://72fm.com/station/b16f049c-6297-11e8-b15b-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2863bb_72d4cf4e78b2463f83067887ac0743b2%7Emv2.png" group-title="Punk" radio="true",WRPS 88.3 FM
 http://www.ophanim.net:9690/stream/1/
-# 72FM: https://72fm.com/station/0dd2ff1b-23bf-448d-b1f0-2c4045d1f586?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",Radio Lux
-http://5.39.71.39:8004/stream
-# 72FM: https://72fm.com/station/101148c7-c51d-4fa2-aaa6-0938e0d90115?source=m3u
-#EXTINF:-1 tvg-logo="https://radio.social.net.ua/static/favicon.png" group-title="Punk" radio="true",Radio Social.net.ua
-https://radio.social.net.ua/live.mp3
 # 72FM: https://72fm.com/station/2199c9e0-c2e9-4368-ac41-0d748e3dc90c?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.zameknadaje.pl/wp-content/uploads/2021/12/logo-zameknadaje-rev2-black1024px-transparent.png" group-title="Punk" radio="true",Zamek Nadaje
 http://uksoutha.streaming.broadcast.radio:15190/zameknadaje
-# 72FM: https://72fm.com/station/3ade0f6c-dc3b-40d2-9eef-0417ae127c2a?source=m3u
-#EXTINF:-1 tvg-logo="https://rcv-lille.radio-website.com/upload/5db063f7699121.01150875.ico" group-title="Punk" radio="true",RCV 99 fm
-https://listen.radioking.com/radio/3086/stream/9476
+# 72FM: https://72fm.com/station/101148c7-c51d-4fa2-aaa6-0938e0d90115?source=m3u
+#EXTINF:-1 tvg-logo="https://radio.social.net.ua/static/favicon.png" group-title="Punk" radio="true",Radio Social.net.ua
+https://radio.social.net.ua/live.mp3
+# 72FM: https://72fm.com/station/0dd2ff1b-23bf-448d-b1f0-2c4045d1f586?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",Radio Lux
+http://5.39.71.39:8004/stream
 # 72FM: https://72fm.com/station/e4fc3a81-354d-420c-b204-affc7e307891?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Big R Radio - 80s Punk Rock
 https://bigrradio.cdnstream1.com/5218_128
+# 72FM: https://72fm.com/station/3ade0f6c-dc3b-40d2-9eef-0417ae127c2a?source=m3u
+#EXTINF:-1 tvg-logo="https://rcv-lille.radio-website.com/upload/5db063f7699121.01150875.ico" group-title="Punk" radio="true",RCV 99 fm
+https://listen.radioking.com/radio/3086/stream/9476
 # 72FM: https://72fm.com/station/4dd3fc15-bc84-48e5-92bd-ba1dc495f918?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Radio Caprice - Punk Rock
 http://79.120.77.11:8002/punk
@@ -280,12 +283,12 @@ https://streams.radiobob.de/bob-chillout/aac-64/streams.radiobob.de/
 # 72FM: https://72fm.com/station/05412426-3d22-4e8e-bee0-92b71dac20ff?source=m3u
 #EXTINF:-1 tvg-logo="https://nocofm.s3.amazonaws.com/image/large/Show-Punk_Rock_Demonstration.jpg" group-title="Punk" radio="true",Punk Rock Demonstration
 https://radio.punkrockdemo.com/listen.pls
-# 72FM: https://72fm.com/station/0cfedc3a-c6f1-44d3-a4d2-ee37ea6a4487?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",Radio Gugelhopf
-http://uk3.internet-radio.com:8113/stream
 # 72FM: https://72fm.com/station/e48ec5f2-18eb-4b49-8b9c-e2533c390ae3?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",RadCap - Punk 1
 http://79.120.77.11:9043/;
+# 72FM: https://72fm.com/station/0cfedc3a-c6f1-44d3-a4d2-ee37ea6a4487?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",Radio Gugelhopf
+http://uk3.internet-radio.com:8113/stream
 # 72FM: https://72fm.com/station/a6464432-710b-4f8a-948e-b9c1278dff77?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",RadCap - Pop Punk
 http://79.111.14.76:9035/;
@@ -307,12 +310,12 @@ http://213.141.131.10:8004/folkpunk
 # 72FM: https://72fm.com/station/f75228b3-dd11-47d2-bcce-45f954d13e2b?source=m3u
 #EXTINF:-1 tvg-logo="https://u.jimcdn.com/cms/o/s336eac0e5d31340b/img/favicon.bmp?t=1492628725" group-title="Punk" radio="true",Black Tapes On Air
 http://stream.laut.fm/black-tapes-on-air
-# 72FM: https://72fm.com/station/00033833-88e0-4d4c-bde6-3e7856f03eb8?source=m3u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDGmXHD2/Midnite-Radio.png" group-title="Punk" radio="true",Midnite Radio - The Original?
-https://a7.asurahosting.com:7510/radio.mp3
 # 72FM: https://72fm.com/station/a46b9381-f9d3-434f-be79-ea9a027ca87d?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Australian Digital Radio Network - Punk and Metal Mix (MP3)
 http://abm21.com.au:8000/CONTAINER18
+# 72FM: https://72fm.com/station/00033833-88e0-4d4c-bde6-3e7856f03eb8?source=m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDGmXHD2/Midnite-Radio.png" group-title="Punk" radio="true",Midnite Radio - The Original?
+https://a7.asurahosting.com:7510/radio.mp3
 # 72FM: https://72fm.com/station/51408d80-4b67-40e0-9617-671759799c2b?source=m3u
 #EXTINF:-1 tvg-logo="https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png" group-title="Punk" radio="true",Badrock Hard & Heavy
 https://streams.badrockradio.net/hard-heavy
@@ -334,15 +337,18 @@ https://radio.tandj-homelab.dev/listen/t_and_js_radio/HQradio.mp3
 # 72FM: https://72fm.com/station/2fa3f9b1-c3b9-4a4b-a8f4-241a4cf3243b?source=m3u
 #EXTINF:-1 tvg-logo="https://streams.egofm.de/img/alexa/egoFM%20Riff-256x256.png" group-title="Punk" radio="true",egoFM Riff [LQ]
 https://cast.egofm.de/egoriff.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
-# 72FM: https://72fm.com/station/7ff895f3-1b00-48b3-9c2f-4bc576568b75?source=m3u
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20220923_223554634.png?alt=media&token=b0543e7b-d4d1-478d-b305-6120a41b0692" group-title="Punk" radio="true",Onda Wantuki
-https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ
 # 72FM: https://72fm.com/station/f210dca4-1171-43cb-b12f-1a40fcfbbc81?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Australian Digital Radio Network - Punk (MP3)
 http://abm21.com.au:8000/CONTAINER19
 # 72FM: https://72fm.com/station/dd6de0cd-2c23-4f7a-a1d5-7bbe672e701e?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2763374/600/600/mqamluta.png" group-title="Punk" radio="true",NITRO.LAUT Radio
 https://stream.rtlradio.de/nitrolaut/mp3-192/
+# 72FM: https://72fm.com/station/7ff895f3-1b00-48b3-9c2f-4bc576568b75?source=m3u
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20220923_223554634.png?alt=media&token=b0543e7b-d4d1-478d-b305-6120a41b0692" group-title="Punk" radio="true",Onda Wantuki
+https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ
+# 72FM: https://72fm.com/station/2e151b7e-5b8d-4a12-b901-c21890113e99?source=m3u
+#EXTINF:-1 tvg-logo="https://whrw.fm/wp-content/uploads/2019/09/WHRW_logo.png" group-title="Punk" radio="true",WHRW Binghamton 90.5 FM
+http://stream.whrwfm.org/new
 # 72FM: https://72fm.com/station/9d1b673a-7a6b-4e0a-82b6-e0edfabfcb28?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Punk" radio="true",Punk Classics
 https://mml2.prostream.se/listen/punk_classics/radio.mp3
@@ -352,24 +358,21 @@ https://stream.rockland-digital.de/rockland/mp3-192/
 # 72FM: https://72fm.com/station/a74911ec-f39c-46df-966b-cc0c6a049f94?source=m3u
 #EXTINF:-1 tvg-logo="https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtUm9ja0hpdHMtMTU4ODA2MjY3Mjg0NXBuZy12aXJnaW5fcm9ja19oaXRzLnBuZw/-/0/0?r=9bd5a6e3dea22935cfeb30b2b1cc537e" group-title="Punk" radio="true",Virgin Radio Rock Hits
 https://icy.unitedradio.it/VirginRockHits.mp3
-# 72FM: https://72fm.com/station/2e151b7e-5b8d-4a12-b901-c21890113e99?source=m3u
-#EXTINF:-1 tvg-logo="https://whrw.fm/wp-content/uploads/2019/09/WHRW_logo.png" group-title="Punk" radio="true",WHRW Binghamton 90.5 FM
-http://stream.whrwfm.org/new
 # 72FM: https://72fm.com/station/a978a096-5b89-4212-a751-b825e50ee6c1?source=m3u
 #EXTINF:-1 tvg-logo="https://pihota.fm/imgs/default-cover.png" group-title="Punk" radio="true",РАДІОПІХОТА
 https://online.pihota.fm/listen/radio/aac64
 # 72FM: https://72fm.com/station/c5f3acc5-6cd6-4094-b2f2-d5d54d632884?source=m3u
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2025-04/festival-radio-600x600.jpg" group-title="Punk" radio="true",FESTIVAL RADIO
 https://stream.regenbogen2.de/festivalradio/mp3-128/radio-browser
+# 72FM: https://72fm.com/station/39eb53ab-7e7c-4ed5-aa80-3999c2a8a1ed?source=m3u
+#EXTINF:-1 tvg-logo="https://105fm.espivblogs.net/files/2021/03/cropped-12743964_703014563171709_2224467389008393465_n-e1510166020583.png" group-title="Punk" radio="true",105FM
+https://105fm.espiv.net/listen/105fm/stream.mp3
 # 72FM: https://72fm.com/station/221e04bb-6d8a-4e13-a9b6-621561fc07f8?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",RadCap - Crust Punk
 http://79.120.39.202:8004/crust
 # 72FM: https://72fm.com/station/ea537888-17c8-461b-b41b-5e9cee913e44?source=m3u
 #EXTINF:-1 tvg-logo="https://substrateradio.com/wp-content/uploads/2017/01/Logo2.png" group-title="Punk" radio="true",Substrate Radio
 https://cast4.asurahosting.com/proxy/jason126/stream
-# 72FM: https://72fm.com/station/39eb53ab-7e7c-4ed5-aa80-3999c2a8a1ed?source=m3u
-#EXTINF:-1 tvg-logo="https://105fm.espivblogs.net/files/2021/03/cropped-12743964_703014563171709_2224467389008393465_n-e1510166020583.png" group-title="Punk" radio="true",105FM
-https://105fm.espiv.net/listen/105fm/stream.mp3
 # 72FM: https://72fm.com/station/53cf8dd0-be8f-4186-96d2-767e751459a4?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Punk4Punks Radio
 http://209.133.221.250:8288/stream
@@ -400,105 +403,111 @@ https://cheetah.streemlion.com:2825/stream
 # 72FM: https://72fm.com/station/517b189e-46eb-4156-bf93-905f7934c838?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",RadCap - Dance Punk
 http://213.141.131.10:8004/dancepunk
-# 72FM: https://72fm.com/station/c3da35f6-3817-49b4-92ef-4e543c12fb2e?source=m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbmtlVJ6eChGQhCWGcNAkHdgMCmmuD9d4qA&s" group-title="Punk" radio="true",Classic Alternative.. VillageRadio.Net
-https://streaming.live365.com/a73319_2
-# 72FM: https://72fm.com/station/a7f6d31d-b4bc-4b6c-a29c-d9275c02fb32?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",WFNGR696.com
-http://149.56.155.73:8016/stream
 # 72FM: https://72fm.com/station/7a7d4983-a650-4653-8b00-e9f705731ae2?source=m3u
 #EXTINF:-1 tvg-logo="https://maximusrockfm.com/wp-content/uploads/2026/01/512x512.png" group-title="Punk" radio="true",MaximusRockFM
 https://stream.laut.fm/maximusrockfm
+# 72FM: https://72fm.com/station/c3da35f6-3817-49b4-92ef-4e543c12fb2e?source=m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbmtlVJ6eChGQhCWGcNAkHdgMCmmuD9d4qA&s" group-title="Punk" radio="true",Classic Alternative.. VillageRadio.Net
+https://streaming.live365.com/a73319_2
 # 72FM: https://72fm.com/station/19023659-256a-434a-ab97-8a5ec3142b9e?source=m3u
 #EXTINF:-1 tvg-logo="https://playbackonline.ca/wp/wp-content/uploads/2018/12/5826456105_8b8c4d0a14_z-623x350.jpg" group-title="Punk" radio="true",Radio Autómata
 https://giss.tv:667/radio_automata.ogg
+# 72FM: https://72fm.com/station/a7f6d31d-b4bc-4b6c-a29c-d9275c02fb32?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",WFNGR696.com
+http://149.56.155.73:8016/stream
 # 72FM: https://72fm.com/station/3618029d-4a05-4094-9097-3649255d265f?source=m3u
 #EXTINF:-1 tvg-logo="https://burgstudio.co.za/wp-content/uploads/2020/11/default_logo_dark_200.webp" group-title="Punk" radio="true",BurgStudio
 https://radio.burgstudio.co.za:8000/radio.mp3
-# 72FM: https://72fm.com/station/f0d23660-7d98-4c01-a85f-966fc1ab7962?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",Psychographics
-https://stream.laut.fm/psychographics
 # 72FM: https://72fm.com/station/11ebd6e7-4b9f-4c93-afcd-bca082bb82a6?source=m3u
 #EXTINF:-1 tvg-logo="https://image.live365.com/download/25fd9921-b598-4acc-9bdb-904ee77d1a9d.png/400/image.webp" group-title="Punk" radio="true",Church Punks
 https://streaming.live365.com/a56263
+# 72FM: https://72fm.com/station/f0d23660-7d98-4c01-a85f-966fc1ab7962?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",Psychographics
+https://stream.laut.fm/psychographics
 # 72FM: https://72fm.com/station/8c047842-d874-4094-b4e4-2c5280216cce?source=m3u
 #EXTINF:-1 tvg-logo="https://radio-diabolus.dk/site/devil.ico" group-title="Punk" radio="true",Radio Diabolus
 https://dunkelhost.com:7800/stream
-# 72FM: https://72fm.com/station/4a0c1aeb-8d9a-4b1f-828c-d8673804ad98?source=m3u
-#EXTINF:-1 tvg-logo="https://iraklisradio.gr/ira_radio_logo.png" group-title="Punk" radio="true",Iraklis Radio
-https://centova.gr-net.gr/proxy/iraklisradio/stream
+# 72FM: https://72fm.com/station/6428477b-5226-419a-bb63-086d9c9f8219?source=m3u
+#EXTINF:-1 tvg-logo="https://lancerradioclc.com/assets/Logo1.png" group-title="Punk" radio="true",Lancer Radio @ College of Lake County
+http://seahorse.juststreamwith.us:8018/stream
 # 72FM: https://72fm.com/station/94b4f765-7656-45c0-821b-a565a8212370?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/c9d34f68910f68e0e088fe7995495163?t=_120x120" group-title="Punk" radio="true",Klang Ruinen
 https://stream.laut.fm/klangruinen
-# 72FM: https://72fm.com/station/67ad22a5-c2bb-4d40-943a-b39094fd7445?source=m3u
-#EXTINF:-1 tvg-logo="https://app.player-webservic.com/site4/ajax/icon.php?h=a939845ced8847dea00c2f0aae3aeb91&s=96" group-title="Punk" radio="true",Urbania Underground
-https://s11.w3bserver.com/listen/urbaniaunderground_a93984/radio.mp3
+# 72FM: https://72fm.com/station/478b586b-2cad-4d8b-9dc6-b7bf496a131c?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",Radio Free Fargo KRFF 95.5
+https://mtl9.hnux.com/144.217.233.87:8166
+# 72FM: https://72fm.com/station/4a0c1aeb-8d9a-4b1f-828c-d8673804ad98?source=m3u
+#EXTINF:-1 tvg-logo="https://iraklisradio.gr/ira_radio_logo.png" group-title="Punk" radio="true",Iraklis Radio
+https://centova.gr-net.gr/proxy/iraklisradio/stream
 # 72FM: https://72fm.com/station/158e6a48-d1f0-4952-9d78-cd6e0afaa21d?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",la conquista del pan
 https://giss.tv:666/lcdpan.mp3
 # 72FM: https://72fm.com/station/c47be8fb-6000-4ed3-9ce6-4103b86c4357?source=m3u
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/59264bb4bf629abedee7263a/2b4d6c56-e3cd-4562-9984-f21695c02472/512+x+512+px+RED+Google+Play+store.png" group-title="Punk" radio="true",poww radio
 http://global.citrus3.com:8132/stream
-# 72FM: https://72fm.com/station/478b586b-2cad-4d8b-9dc6-b7bf496a131c?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",Radio Free Fargo KRFF 95.5
-https://mtl9.hnux.com/144.217.233.87:8166
+# 72FM: https://72fm.com/station/67ad22a5-c2bb-4d40-943a-b39094fd7445?source=m3u
+#EXTINF:-1 tvg-logo="https://app.player-webservic.com/site4/ajax/icon.php?h=a939845ced8847dea00c2f0aae3aeb91&s=96" group-title="Punk" radio="true",Urbania Underground
+https://s11.w3bserver.com/listen/urbaniaunderground_a93984/radio.mp3
 # 72FM: https://72fm.com/station/27b7273f-95f8-4cc0-a81c-943e89710fcf?source=m3u
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/6421a8562608d1fa904eec86" group-title="Punk" radio="true",Radio 94.4 - The Temecula Valley's Only Alternative
 https://stream.revma.ihrhls.com/zc333/hls.m3u8
-# 72FM: https://72fm.com/station/745c9886-e240-4d1f-aa88-8c752000ce99?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-rock-en-mp3.jpg" group-title="Punk" radio="true",Hotmix Rock
-https://streaming.hotmixradio.com/hotmix-rock-en-mp3?provider=radiobrowser
 # 72FM: https://72fm.com/station/211d6377-141d-46f7-8045-73b88d96b10b?source=m3u
 #EXTINF:-1 tvg-logo="https://radio-diabolus.dk/site/devil.ico" group-title="Punk" radio="true",Radio Diabolus
 https://dunkelhost.com:7800/isdn
+# 72FM: https://72fm.com/station/745c9886-e240-4d1f-aa88-8c752000ce99?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-rock-en-mp3.jpg" group-title="Punk" radio="true",Hotmix Rock
+https://streaming.hotmixradio.com/hotmix-rock-en-mp3?provider=radiobrowser
 # 72FM: https://72fm.com/station/1dc15558-d46d-4a70-bebc-d83631a53c0b?source=m3u
 #EXTINF:-1 tvg-logo="https://locomotiva-cooperativa.org/wp-content/uploads/2018/06/logo360.jpg" group-title="Punk" radio="true",Radio Locomotiva
 https://whsh4u-panel.com/proxy/zukqpfqm?mp=/stream
 # 72FM: https://72fm.com/station/6d678190-8659-40f4-9e15-d2b3ef5187f6?source=m3u
 #EXTINF:-1 tvg-logo="https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/86970785_108025277452220_6505182501885968384_n.jpg?_nc_ohc=YML4NReJxJ0AX-sIF_a&_nc_ht=scontent-ber1-1.xx&oh=00_AfBrBUHlcVxiVf566NyOHz1OS9nI1o5nlmXdKu-s1wflSQ&oe=65F33FDC" group-title="Punk" radio="true",SLM 102.7 UHD
 http://116.203.69.202/radiot_64.mp3
-# 72FM: https://72fm.com/station/782ddb56-6e35-4e77-8178-362bcfd8ec55?source=m3u
-#EXTINF:-1 tvg-logo="https://rf.broadcast.radio/api/image/a47741f3-6103-40c4-9e21-0453a30fc67e.png?g=center&w=600&h=600&f=png" group-title="Punk" radio="true",Rock.Scot
-http://uksoutha.streaming.broadcast.radio:16641/caledonia-tx-ltd
-# 72FM: https://72fm.com/station/f40c5137-2113-4782-a285-a0427c6a99bc?source=m3u
-#EXTINF:-1 tvg-logo="https://radio.nt00.xyz/favicon-32x32.png" group-title="Punk" radio="true",Nt00 Radio
-https://nt00.xyz/listen/escape_the_algorithm/radio.mp3
 # 72FM: https://72fm.com/station/4fc1018e-ed2b-454a-a2ca-d1fa5c3ebe23?source=m3u
 #EXTINF:-1 tvg-logo="https://www.1431am.org/wp-content/uploads/2021/12/logo-full-gr-white-site.png" group-title="Punk" radio="true",1431AM
 https://www.1431am.org:8001/1431high
+# 72FM: https://72fm.com/station/f40c5137-2113-4782-a285-a0427c6a99bc?source=m3u
+#EXTINF:-1 tvg-logo="https://radio.nt00.xyz/favicon-32x32.png" group-title="Punk" radio="true",Nt00 Radio
+https://nt00.xyz/listen/escape_the_algorithm/radio.mp3
+# 72FM: https://72fm.com/station/40694d2e-2fd1-435f-b672-299a8587a49f?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",Hoodoo Radio
+https://s4.radio.co/s76f8b99fc/listen
 # 72FM: https://72fm.com/station/4f30ac19-4a41-40cb-8999-2ca19b34711e?source=m3u
 #EXTINF:-1 tvg-logo="https://radioboomerang.com/wp-content/uploads/2020/02/logo.png" group-title="Punk" radio="true",Radio Boomerang
 https://stream.radioboomerang.com:8970/streamboomerang
+# 72FM: https://72fm.com/station/7a30b1de-88ab-48ef-a797-1f9b3c80dd5d?source=m3u
+#EXTINF:-1 tvg-logo="https://radio.tjenamors.se/static/uploads/tjenamors_radio/album_art.1781430542.jpg" group-title="Punk" radio="true",Tjenamors Radio!
+https://radio.tjenamors.se/listen/tjenamors_radio/radio.mp3
 # 72FM: https://72fm.com/station/1b411ee9-a859-40ed-9781-ae1fd1aa67e0?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",4FUN ROCK
 https://sonic-us.arkeo.cl/8358/stream
 # 72FM: https://72fm.com/station/dd5dae31-c4ca-41c5-b943-8d8e7cb8c0e4?source=m3u
 #EXTINF:-1 tvg-logo="https://flatlinesradio.de/favicon.ico" group-title="Punk" radio="true",Flatlines Radio Punk
 https://stream.laut.fm/punk
-# 72FM: https://72fm.com/station/7a30b1de-88ab-48ef-a797-1f9b3c80dd5d?source=m3u
-#EXTINF:-1 tvg-logo="https://radio.tjenamors.se/static/uploads/tjenamors_radio/album_art.1781430542.jpg" group-title="Punk" radio="true",Tjenamors Radio!
-https://radio.tjenamors.se/listen/tjenamors_radio/radio.mp3
-# 72FM: https://72fm.com/station/40694d2e-2fd1-435f-b672-299a8587a49f?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",Hoodoo Radio
-https://s4.radio.co/s76f8b99fc/listen
 # 72FM: https://72fm.com/station/2542347b-888c-4814-a310-9abec2aa7c32?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",KESJ Joetown 107.5
 https://prod-3-84-209-199.amperwave.net/eagleradio-kesjammp3-ibc4?session-id=e524c1d5da595256b7a4abe9ad80add9
 # 72FM: https://72fm.com/station/c43b2ad3-ee5d-4628-8109-2cf896aafcbb?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Ondaradikal
 https://stream.laut.fm/ondaradikal
+# 72FM: https://72fm.com/station/782ddb56-6e35-4e77-8178-362bcfd8ec55?source=m3u
+#EXTINF:-1 tvg-logo="https://rf.broadcast.radio/api/image/a47741f3-6103-40c4-9e21-0453a30fc67e.png?g=center&w=600&h=600&f=png" group-title="Punk" radio="true",Rock.Scot
+http://uksoutha.streaming.broadcast.radio:16641/caledonia-tx-ltd
+# 72FM: https://72fm.com/station/158a3876-cbad-406c-b69e-edac38ae71d6?source=m3u
+#EXTINF:-1 tvg-logo="https://knonnow.org/wp-content/uploads/2024/02/cropped-Web-logo.jpg" group-title="Punk" radio="true",KNON Now - Dallas
+https://cupcake.citrus3.com:8416/stream
 # 72FM: https://72fm.com/station/bc8c4889-0888-451c-9abb-bbaa3e46b372?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/17fb986f13c59739829a644e8ba13866?t=_120x120" group-title="Punk" radio="true",Atlantic Radio
 https://stream.laut.fm/arc
-# 72FM: https://72fm.com/station/5b8a7ecb-3755-4f3a-b4d0-e68a0fdeb065?source=m3u
-#EXTINF:-1 tvg-logo="https://www.nexusxiv.fr/media/radio/logos/87.7_Magenta_Station.webp" group-title="Punk" radio="true",Magenta Station 87.7
-http://82.65.103.36:8000/magenta-station
-# 72FM: https://72fm.com/station/5b675cce-a92f-4076-b61b-ca3880e3b81e?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",laut.fm/oh-subs-tapes
-http://www.laut.fm/oh-subs-tapes?autoplay=1
 # 72FM: https://72fm.com/station/da7d7480-3616-4ba6-bf43-e086deb71d1a?source=m3u
 #EXTINF:-1 tvg-logo="https://realrockradio.co.uk/images/0/24448175/newlogonoback-tbpfStE5mODn1BrennfC0w.png" group-title="Punk" radio="true",Real Rock Radio
 https://eu10.fastcast4u.com/rrr1
+# 72FM: https://72fm.com/station/5b675cce-a92f-4076-b61b-ca3880e3b81e?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",laut.fm/oh-subs-tapes
+http://www.laut.fm/oh-subs-tapes?autoplay=1
+# 72FM: https://72fm.com/station/5b8a7ecb-3755-4f3a-b4d0-e68a0fdeb065?source=m3u
+#EXTINF:-1 tvg-logo="https://www.nexusxiv.fr/media/radio/logos/87.7_Magenta_Station.webp" group-title="Punk" radio="true",Magenta Station 87.7
+http://82.65.103.36:8000/magenta-station
 # 72FM: https://72fm.com/station/54a71ddd-f509-40a5-98d8-0a1c9879fb4d?source=m3u
 #EXTINF:-1 tvg-logo="https://rock.scot/assets/images/logo.webp" group-title="Punk" radio="true",Rock.Scot
 https://uksoutha.streaming.broadcast.radio/caledonia-tx-ltd
@@ -508,24 +517,24 @@ https://s32.myradiostream.com/9204/listen.mp3
 # 72FM: https://72fm.com/station/d469d86b-e0a7-45ac-aa94-6be76329ab82?source=m3u
 #EXTINF:-1 group-title="Punk" radio="true",Haze Pub Radio
 https://live.leproradio.com/rocks.ogg
-# 72FM: https://72fm.com/station/bb46c050-ad81-46f0-a946-fe00535aae4e?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",ALT+ Radio
-http://109.196.164.84:8090/live.mp3
-# 72FM: https://72fm.com/station/dccda812-d94d-4619-89d5-81ec9f5d75d0?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",PUNK FM
-https://sapircast.caster.fm:11309/OsZpV
+# 72FM: https://72fm.com/station/4e3c3bc3-7d48-4a20-84cc-509d3e2cea14?source=m3u
+#EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Freies_Radio_Fratz184x184.png" group-title="Punk" radio="true",Freies Radio FRATZ - Flensburg
+https://stream.radio-fratz.de/stream.mp3
 # 72FM: https://72fm.com/station/035ed365-f6dc-46a2-901d-7ac97880e875?source=m3u
 #EXTINF:-1 tvg-logo="https://airwave.dogma19811981.workers.dev/icon-512.png" group-title="Punk" radio="true",AIRWAVE
 https://airwave.dogma19811981.workers.dev/stream.mp3
 # 72FM: https://72fm.com/station/59a3411a-e5bc-4ff9-9341-bb949f09a230?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.dogmazic.net/favicon.ico" group-title="Punk" radio="true",Dogmazic Radio
 http://radio.dogmazic.net:8000/stream.mp3
-# 72FM: https://72fm.com/station/e9e6dfa7-6a4d-48b6-9f33-c1543eec4b5f?source=m3u
-#EXTINF:-1 group-title="Punk" radio="true",Radio Cowabunga
-https://hello.citrus3.com:2020/stream/radiocowabunga
-# 72FM: https://72fm.com/station/913fc253-fd99-4f0e-a215-f7751bbed27a?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiorockcorner.de/index-Dateien/image707.png" group-title="Punk" radio="true",Rockcorner
-https://stream.laut.fm/rockcorner
 # 72FM: https://72fm.com/station/c86d8ca4-f1b4-43c7-b62c-e8462f40bdc5?source=m3u
 #EXTINF:-1 tvg-logo="https://jecarchive.ru/favicon.png" group-title="Punk" radio="true",Дигравиль ФМ
 https://jecarchive.ru/radio.mp3
+# 72FM: https://72fm.com/station/bb46c050-ad81-46f0-a946-fe00535aae4e?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",ALT+ Radio
+http://109.196.164.84:8090/live.mp3
+# 72FM: https://72fm.com/station/dccda812-d94d-4619-89d5-81ec9f5d75d0?source=m3u
+#EXTINF:-1 group-title="Punk" radio="true",PUNK FM
+https://sapircast.caster.fm:11309/OsZpV
+# 72FM: https://72fm.com/station/913fc253-fd99-4f0e-a215-f7751bbed27a?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiorockcorner.de/index-Dateien/image707.png" group-title="Punk" radio="true",Rockcorner
+https://stream.laut.fm/rockcorner

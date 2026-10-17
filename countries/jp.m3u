@@ -74,7 +74,7 @@ https://listen.moe/fallback
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995g.png" group-title="Japan" radio="true",J-POP Powerplay
 https://kathy.torontocast.com:3560/
 # 72FM: https://72fm.com/station/3ab8903d-117f-4f25-802e-d048dcdd0675?source=m3u
-#EXTINF:-1 group-title="Japan" radio="true",OnlyHits Japan
+#EXTINF:-1 tvg-logo="https://cdn.onlyhitsradio.net/logo/japan.png" group-title="Japan" radio="true",Only Hits Japan
 https://j.onlyhit.us/play
 # 72FM: https://72fm.com/station/51f0066d-6de7-40b5-83a0-f264727f30a4?source=m3u
 #EXTINF:-1 group-title="Japan" radio="true",J-Rock Powerplay(Asia DREAM Radio)
@@ -109,12 +109,12 @@ https://kathy.torontocast.com:3060/;
 # 72FM: https://72fm.com/station/deff64de-b1f4-442e-832c-1180917ac894?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hitsujikai-radio.com/favicon.ico" group-title="Japan" radio="true",Hitsujikai Radio
 http://streaming.radio.co/se4a8e6a93/listen
-# 72FM: https://72fm.com/station/f96b2ae2-fe8c-4248-a92d-3c86ebc8f50c?source=m3u
-#EXTINF:-1 group-title="Japan" radio="true",yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)
-http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3
 # 72FM: https://72fm.com/station/e0f2f4cb-d4c3-48ee-8668-333329e158e0?source=m3u
 #EXTINF:-1 tvg-logo="https://moremalc.com/japanhits188.jpg" group-title="Japan" radio="true",Japan Hits - asia DREAM radio
 http://quincy.torontocast.com:2020/stream.mp3
+# 72FM: https://72fm.com/station/f96b2ae2-fe8c-4248-a92d-3c86ebc8f50c?source=m3u
+#EXTINF:-1 group-title="Japan" radio="true",yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)
+http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3
 # 72FM: https://72fm.com/station/987dffac-52d9-4ca7-98c9-e5ac1088e1df?source=m3u
 #EXTINF:-1 group-title="Japan" radio="true",WVVV V96.9
 https://ice5.securenetsystems.net/WVVVFM
@@ -124,12 +124,12 @@ http://stream.zeno.fm/tza2ayy47qruv
 # 72FM: https://72fm.com/station/907271e6-0c55-4342-b344-468206e831f2?source=m3u
 #EXTINF:-1 group-title="Japan" radio="true",tilderadio
 https://tilderadio.org/listen
-# 72FM: https://72fm.com/station/df402746-9d27-4b53-8d07-ab4634ac8b66?source=m3u
-#EXTINF:-1 group-title="Japan" radio="true",大富ラジオ
-https://stream.zeno.fm/oaxp6mswcqltv
 # 72FM: https://72fm.com/station/f10bb488-9f8d-40da-9f7d-f4fa63191c68?source=m3u
 #EXTINF:-1 tvg-logo="https://afngo.net/favicon.ico" group-title="Japan" radio="true",AFN GO TOKYO
 http://17633.live.streamtheworld.com:3690/AFNP_TKO_SC
+# 72FM: https://72fm.com/station/df402746-9d27-4b53-8d07-ab4634ac8b66?source=m3u
+#EXTINF:-1 group-title="Japan" radio="true",大富ラジオ
+https://stream.zeno.fm/oaxp6mswcqltv
 # 72FM: https://72fm.com/station/a36cb1a5-f9b5-4739-a86a-987d256b7d0e?source=m3u
 #EXTINF:-1 group-title="Japan" radio="true",J-Club Club Bandstand
 https://cast1.torontocast.com:2060/;.mp3
@@ -153,7 +153,7 @@ http://65.21.170.149:8000/stream
 https://radio.gotanno.love/;
 # 72FM: https://72fm.com/station/9d4aa07b-f080-4d6c-87e8-15c080c72dd2?source=m3u
 #EXTINF:-1 tvg-logo="https://miku.fm/static/uploads/browser_icon/60.1740888865.png" group-title="Japan" radio="true",Miku Radio
-https://miku.fm/listen/miku/aac-320
+https://miku.fm/listen/miku/mp3-320
 # 72FM: https://72fm.com/station/0347b46a-91c7-4fe3-943d-a9eb02cdd9b9?source=m3u
 #EXTINF:-1 group-title="Japan" radio="true",Rainwave All
 https://relay.rainwave.cc/all.mp3?1:MF0d8GHw2d
@@ -256,12 +256,12 @@ http://radio.plaza.one/hls
 # 72FM: https://72fm.com/station/49439c31-b641-4251-b3b0-ab979ab514d2?source=m3u
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO 7
 https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8
-# 72FM: https://72fm.com/station/149b595b-9490-4cf9-9e25-8bc46806d75a?source=m3u
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg" group-title="Japan" radio="true",NFRS Radio
-https://securestreams.autopo.st:2592/stream?t=1769818665235
 # 72FM: https://72fm.com/station/e93b7f21-b06d-4c2a-a3dc-cf87dbee0408?source=m3u
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png" group-title="Japan" radio="true",NHK WORLD RADIO 9
 https://master.nhkworld.jp/nhkworld-radio/playlist/rs4/live.m3u8
+# 72FM: https://72fm.com/station/149b595b-9490-4cf9-9e25-8bc46806d75a?source=m3u
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg" group-title="Japan" radio="true",NFRS Radio
+https://securestreams.autopo.st:2592/stream?t=1769818665235
 # 72FM: https://72fm.com/station/3e112758-54c7-483b-8c1b-73b3e41aae1e?source=m3u
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/11/Animenfo-Radio.jpg" group-title="Japan" radio="true",Animenfo
 https://stream.zenolive.com/xwa8ckz7mzzuv.aac
@@ -273,16 +273,16 @@ https://master.nhkworld.jp/nhkworld-radio/playlist/sin/live.m3u8
 https://justplay.stream.laut.fm/justplay
 # 72FM: https://72fm.com/station/f224c900-8796-4063-8aca-0bb3afd8507f?source=m3u
 #EXTINF:-1 tvg-logo="https://hkradio.myaddr.io/api/station/new_radio/art/a6ea0df6141aff3b0519c707-1744450585.jpg" group-title="Japan" radio="true",A Radio for ACG & others
-https://hkradio.myaddr.io/listen/new_radio/radio.mp3
+https://hkradio.myaddr.io/listen/new_radio/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 # 72FM: https://72fm.com/station/fc7ccfdf-6e00-4d68-bb57-c8bf881510a0?source=m3u
 #EXTINF:-1 group-title="Japan" radio="true",SHMUPRADIO
 https://stream.shmupradio.com/320
-# 72FM: https://72fm.com/station/64039cf5-d820-456c-9c12-7b5bdefc76ac?source=m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR7cP5IK-Znc_XP1IzQQmLE0eQFSfpLKTanmC9NqZ-bRenKauIZvw6lQ&s=10" group-title="Japan" radio="true",XWave Radio
-http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3
 # 72FM: https://72fm.com/station/90c96d5f-8c72-49fb-8f47-3c07cb636264?source=m3u
 #EXTINF:-1 tvg-logo="https://booth.pximg.net/1b3b1730-3c83-47fb-bb90-5043af605d63/i/8135483/4636d6a4-f95b-45b3-abd8-cad490173211_base_resized.jpg" group-title="Japan" radio="true",MILCpod
 https://radio.milradio.info:9000/milcpod.m3u8
+# 72FM: https://72fm.com/station/64039cf5-d820-456c-9c12-7b5bdefc76ac?source=m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR7cP5IK-Znc_XP1IzQQmLE0eQFSfpLKTanmC9NqZ-bRenKauIZvw6lQ&s=10" group-title="Japan" radio="true",XWave Radio
+http://vps-260b74e9.vps.ovh.net:8000/;stream.mp3
 # 72FM: https://72fm.com/station/a9034ee4-f44a-4d55-b2bc-18b854434fa7?source=m3u
 #EXTINF:-1 group-title="Japan" radio="true",RadiCro (レディクロ)
 https://radicrojapan.out.airtime.pro/radicrojapan_a
@@ -292,42 +292,60 @@ https://radicrojapan.out.airtime.pro/radicrojapan_b
 # 72FM: https://72fm.com/station/0fd7abf3-e2c7-48c5-bb93-ab868fb3edb4?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3gzybhgwj45v.png" group-title="Japan" radio="true",Radio Hayama
 https://server10.reliastream.com/proxy/radiohayama
+# 72FM: https://72fm.com/station/d7fc828c-4305-4fa0-8ca5-2131e26c312f?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.comic.studio/avatars/37112.3f07b3e0a35911883b8180c5658acbe0.png" group-title="Japan" radio="true",Chiafuru
+https://chiafuru.fun/stream/nanahira-releases@128
 # 72FM: https://72fm.com/station/7ea8bc67-c0b9-4cc6-b1bd-f3e1770fad74?source=m3u
 #EXTINF:-1 tvg-logo="https://moremalc.com/jc512.jpeg" group-title="Japan" radio="true",J-Pop Christmas
 https://cast3.torontocast.com:1170/;
 # 72FM: https://72fm.com/station/50a6d113-5dde-4e2f-beb2-404c6e7cabd6?source=m3u
 #EXTINF:-1 group-title="Japan" radio="true",VRC放送局
 https://vrc.gate.vrtv.jp/live?p=g&u=d
-# 72FM: https://72fm.com/station/d7fc828c-4305-4fa0-8ca5-2131e26c312f?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.comic.studio/avatars/37112.3f07b3e0a35911883b8180c5658acbe0.png" group-title="Japan" radio="true",Chiafuru
-https://chiafuru.fun/stream/nanahira-releases@128
 # 72FM: https://72fm.com/station/d30c1427-e1b4-4b3e-b816-1bc618c630fd?source=m3u
 #EXTINF:-1 group-title="Japan" radio="true",タコヤリイカラジオ
 https://tekitouradio.onrender.com/radio
-# 72FM: https://72fm.com/station/10bad67d-8ada-4430-8a45-a92dfd4bfc87?source=m3u
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/DLSVIBWBYKpUn-nz7V1aA5IAtvvjzpPVVSeAH04VGHU/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNjY0NzU4MTQtYWJiMy00NWFhLThjZWUtMDk3YzIzOTIyOTQ0L2ltYWdlLz91PTE2NzcxNTExNDEwMDA" group-title="Japan" radio="true",City Poppers
-https://stream.zeno.fm/ricmeoweux2uv
 # 72FM: https://72fm.com/station/c3567819-a747-4d38-9cdc-a97d601cd5fd?source=m3u
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO-3
 https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media12/index.m3u8
+# 72FM: https://72fm.com/station/10bad67d-8ada-4430-8a45-a92dfd4bfc87?source=m3u
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/DLSVIBWBYKpUn-nz7V1aA5IAtvvjzpPVVSeAH04VGHU/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNjY0NzU4MTQtYWJiMy00NWFhLThjZWUtMDk3YzIzOTIyOTQ0L2ltYWdlLz91PTE2NzcxNTExNDEwMDA" group-title="Japan" radio="true",City Poppers
+https://stream.zeno.fm/ricmeoweux2uv
 # 72FM: https://72fm.com/station/3b1b2706-069d-44a9-a1a7-34e8699ab5a8?source=m3u
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO-2
 https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media11/index.m3u8
-# 72FM: https://72fm.com/station/8cbc1e1e-d478-43f3-a39a-f1eaa8b44664?source=m3u
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1613873763149283329/mfOYmC0L_400x400.jpg" group-title="Japan" radio="true",City Pop One
-http://65.21.61.215:8000/citypopone
 # 72FM: https://72fm.com/station/9a6855fe-1c7f-422b-a4bc-f15af3b347ff?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPOhkWJfkm-FcT4agmxooYSDpQbvXjMkbygX7ELFiIag&s=10" group-title="Japan" radio="true",NHK World Radio (Korean)
 https://master.nhkworld.jp/nhkworld-radio/playlist/rs1/live.m3u8
-# 72FM: https://72fm.com/station/1516904a-7c53-4443-82b2-e710eb814be4?source=m3u
-#EXTINF:-1 group-title="Japan" radio="true",VR Soundscape TV
-https://stream.vrstv.jp/
-# 72FM: https://72fm.com/station/054efc50-2a18-43ae-8226-5bed835d78d5?source=m3u
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&dl=0" group-title="Japan" radio="true",Oreo Chii
-https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&raw=1
+# 72FM: https://72fm.com/station/8cbc1e1e-d478-43f3-a39a-f1eaa8b44664?source=m3u
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1613873763149283329/mfOYmC0L_400x400.jpg" group-title="Japan" radio="true",City Pop One
+http://65.21.61.215:8000/citypopone
 # 72FM: https://72fm.com/station/b031573d-4d75-4b3b-beef-57724438e63d?source=m3u
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO-4
 https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media13/index.m3u8
+# 72FM: https://72fm.com/station/054efc50-2a18-43ae-8226-5bed835d78d5?source=m3u
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&dl=0" group-title="Japan" radio="true",Oreo Chii
+https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&raw=1
+# 72FM: https://72fm.com/station/1516904a-7c53-4443-82b2-e710eb814be4?source=m3u
+#EXTINF:-1 group-title="Japan" radio="true",VR Soundscape TV
+https://stream.vrstv.jp/
 # 72FM: https://72fm.com/station/ff0d02bb-1922-407b-9ae7-3b2c86c86725?source=m3u
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan" radio="true",NHK WORLD RADIO-5
 https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media3/index.m3u8
+# 72FM: https://72fm.com/station/a3923012-3b2c-4930-87b2-00058121709c?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/japan/beethoven-piano-sonatas.webp?v=1791194402" group-title="Japan" radio="true",Beethoven Piano Sonatas
+https://mpc1.mediacp.eu/stream/globaltopcharts
+# 72FM: https://72fm.com/station/f12f63d5-fe51-4515-b7bf-898bdc9b2dde?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/japan/all-classical-new-releases.webp?v=1791194402" group-title="Japan" radio="true",All Classical New Releases
+https://mpc1.mediacp.eu:8038/stream
+# 72FM: https://72fm.com/station/6d9a1b35-7898-44d6-bb42-cb1b5cc70239?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/japan/all-classical-piano-chamber-works-and-concertos.webp?v=1791194402" group-title="Japan" radio="true",All Classical Piano Chamber Works and Concertos
+https://mpc1.mediacp.eu:8040/stream
+# 72FM: https://72fm.com/station/08f17b3c-6072-4cb9-8c42-5e5edd51bcda?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/japan/an-opera-celebration.webp?v=1791194402" group-title="Japan" radio="true",An Opera Celebration
+https://mpc1.mediacp.eu/stream/beethoveninsequence
+# 72FM: https://72fm.com/station/b2805728-e405-406a-882a-021e76972b53?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/japan/radio-shiga.webp?v=1791194402" group-title="Japan" radio="true",Radio Shiga
+https://sv10.hdradios.net:21920/stream
+# 72FM: https://72fm.com/station/e06ae684-fbb4-43d0-ad17-4b9870703e6b?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/jpradio-jp/fmyy.png" group-title="Japan" radio="true",神戸長田FMわぃわぃ (Radio FMYY)
+https://tcc117.jp/fmyy/asx/simulbroadcast.mp3

@@ -64,9 +64,6 @@ http://stream-bg-01.radiotangra.com:8000/Tangra-high
 # 72FM: https://72fm.com/station/96423ff1-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",1 Rock Bulgaria
 http://31.13.223.148:8000/1_rock.mp3
-# 72FM: https://72fm.com/station/2091bc8a-ced6-43cd-8f38-5b05d62ce3c5?source=m3u
-#EXTINF:-1 tvg-logo="https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp" group-title="Bulgaria" radio="true",BadRock Hard & Heavy
-https://play-radio0.jump.bg:7049/live
 # 72FM: https://72fm.com/station/9619f87b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Ultra Sandanski
 http://88.80.96.25:8000/
@@ -154,9 +151,6 @@ http://stream.bnr.bg:8036/radio-vidin.aac
 # 72FM: https://72fm.com/station/7b432a9d-8421-4cef-bf63-d24b11b6830b?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/radioveronika.png" group-title="Bulgaria" radio="true",Radio Veronika
 http://play.global.audio/veronikahi.aac
-# 72FM: https://72fm.com/station/6a52f8f9-4ff1-4443-b501-4507d6070dbb?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",BadRock Classic Rock
-https://play-radio0.jump.bg:7489/live
 # 72FM: https://72fm.com/station/964a7ab6-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://nstatic.nova.bg/files/nova/images/apple-touch-icon.png" group-title="Bulgaria" radio="true",Nova News
 http://149.13.0.80/novanews.mp4
@@ -232,12 +226,12 @@ https://cdn.bweb.bg/radio/btv-radio.mp3
 # 72FM: https://72fm.com/station/6866b413-18de-4eff-92d2-2405598a43a7?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Metro Love 90s Plus
 https://eu1.reliastream.com/proxy/love80?mp=/MLR90S
-# 72FM: https://72fm.com/station/bd8a6b13-7a0e-4a07-b4bb-ed6c18aab910?source=m3u
-#EXTINF:-1 tvg-logo="https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg" group-title="Bulgaria" radio="true",Tangra Mega Rock
-http://stream-bg-01.radiotangra.com:8000/Tangra.ogg
 # 72FM: https://72fm.com/station/d994df65-5c71-48ec-b675-96b8d14bd4e9?source=m3u
 #EXTINF:-1 tvg-logo="https://sweetradio.online/wp-content/uploads/cropped-sweet-1a.png" group-title="Bulgaria" radio="true",SWEET RADIO - BULGARIA
 https://stream.sweetradio.online:8001/HD
+# 72FM: https://72fm.com/station/bd8a6b13-7a0e-4a07-b4bb-ed6c18aab910?source=m3u
+#EXTINF:-1 tvg-logo="https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg" group-title="Bulgaria" radio="true",Tangra Mega Rock
+http://stream-bg-01.radiotangra.com:8000/Tangra.ogg
 # 72FM: https://72fm.com/station/5b360510-c4fd-4c57-9875-36fcaabeca1e?source=m3u
 #EXTINF:-1 tvg-logo="https://hothitsfm.com/hhfm-290.png" group-title="Bulgaria" radio="true",Hot Hits FM
 https://live.hothitsfm.com/stream
@@ -319,12 +313,12 @@ https://cdn.bweb.bg/radio/jazz-fm.mp3
 # 72FM: https://72fm.com/station/8493fd40-59a6-11e8-b0ce-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Мая
 http://www.rnmediagroup.com:9000/
-# 72FM: https://72fm.com/station/8fc1369b-c2fa-4cba-8563-548110540b12?source=m3u
-#EXTINF:-1 tvg-logo="https://radiofolkmix.com/wp-content/uploads/2024/01/cropped-radiofolkmix-180x180.png" group-title="Bulgaria" radio="true",folk mix
-https://listen.radiofolkmix.com/folkmixios
 # 72FM: https://72fm.com/station/971e9589-29d4-4db3-872b-542e3562b3c3?source=m3u
 #EXTINF:-1 tvg-logo="https://radiomaxxfm.com/wp-content/uploads/2021/09/deluxe.png" group-title="Bulgaria" radio="true",Deluxe Radio Bulgaria | HQ
 https://play.radiomaxxfm.com/deluxe-high
+# 72FM: https://72fm.com/station/8fc1369b-c2fa-4cba-8563-548110540b12?source=m3u
+#EXTINF:-1 tvg-logo="https://radiofolkmix.com/wp-content/uploads/2024/01/cropped-radiofolkmix-180x180.png" group-title="Bulgaria" radio="true",folk mix
+https://listen.radiofolkmix.com/folkmixios
 # 72FM: https://72fm.com/station/027dee86-fee1-4e0e-8a8d-bddbb9e396a8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/radiocity.png" group-title="Bulgaria" radio="true",City Radio
 http://play.global.audio/cityhi.aac
@@ -340,18 +334,15 @@ https://play.radiomaxxfm.com/maxx-high
 # 72FM: https://72fm.com/station/280a4ae0-6946-4db7-8f5f-9cf122cfca1c?source=m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdVgYPdj/logo600.jpg" group-title="Bulgaria" radio="true",EILO Techno Radio
 https://eilo.org/streamer.php?ch=techno
-# 72FM: https://72fm.com/station/8dc17c0b-d06b-4cdc-8218-9847696c4d01?source=m3u
-#EXTINF:-1 tvg-logo="https://pozdravite.net/images/favicon.png" group-title="Bulgaria" radio="true",Radio Party Mix
-https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3
 # 72FM: https://72fm.com/station/8dbb2c0c-7068-4eb5-a65f-435b06225150?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Melodia Silistra
 http://g5.turbohost.eu:8010/stream128
+# 72FM: https://72fm.com/station/8dc17c0b-d06b-4cdc-8218-9847696c4d01?source=m3u
+#EXTINF:-1 tvg-logo="https://pozdravite.net/images/favicon.png" group-title="Bulgaria" radio="true",Radio Party Mix
+https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3
 # 72FM: https://72fm.com/station/7c1f1bff-d7d3-41b3-b640-8ce2757b2f4a?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Sunny Beach Radio
 https://sunny-beachradio.stream.laut.fm/sunny-beachradio
-# 72FM: https://72fm.com/station/010265c7-9bf7-401b-8cf1-6dd124efc916?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Bad Rock Radio-Hard & Heavy Rock
-https://radio.jump.bg:7049/live
 # 72FM: https://72fm.com/station/845fdeb3-e744-4b8d-ba4d-749597a692b5?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Strimonika
 https://play-radio0.jump.bg:7666/stream
@@ -373,21 +364,21 @@ http://149.13.0.80/energy-90s
 # 72FM: https://72fm.com/station/685133a7-f3df-428c-aca7-e24ffd649049?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Darik
 https://a12.asurahosting.com/listen/darik_radio/radio.mp3
-# 72FM: https://72fm.com/station/3e71f3bc-b950-4b32-8e56-ada2ce0da600?source=m3u
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_104839446.jpg?alt=media&token=aa505737-c1ae-4e42-8996-c73e0d8c575f" group-title="Bulgaria" radio="true",Радио Зиг Заг - Най-яките парчета
-https://radyo.yayin.com.tr:4474/stream
 # 72FM: https://72fm.com/station/457d3934-12d7-43fe-99df-80cd377dcbe7?source=m3u
 #EXTINF:-1 tvg-logo="https://bnrnews.bg/favicon.ico" group-title="Bulgaria" radio="true",Радио БНР програма Хоризонт Русе 103.0 FM
 https://lb-hls.cdn.bg/2032/fls/Horizont.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/3e71f3bc-b950-4b32-8e56-ada2ce0da600?source=m3u
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_104839446.jpg?alt=media&token=aa505737-c1ae-4e42-8996-c73e0d8c575f" group-title="Bulgaria" radio="true",Радио Зиг Заг - Най-яките парчета
+https://radyo.yayin.com.tr:4474/stream
 # 72FM: https://72fm.com/station/d14b51b2-f045-4a10-a46b-86536e747963?source=m3u
 #EXTINF:-1 tvg-logo="https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png" group-title="Bulgaria" radio="true",Badrock Golden Era
 https://streams.badrockradio.net/golden-era
-# 72FM: https://72fm.com/station/68db2b22-56ab-4f8e-96a6-e50012884f65?source=m3u
-#EXTINF:-1 tvg-logo="https://badrockradio.net/wp-content/uploads/2025/01/max1-2.png" group-title="Bulgaria" radio="true",BadRock Radio National
-https://radiocp.jump.bg/proxy/stan1?mp=/live
 # 72FM: https://72fm.com/station/d112f1ff-0501-4449-82c9-3d5935fc1a90?source=m3u
 #EXTINF:-1 tvg-logo="https://dwr.radio/wp-content/uploads/2023/10/cropped-favicon.png" group-title="Bulgaria" radio="true",Dark Wave Radomir
 https://dwrstream.eu/
+# 72FM: https://72fm.com/station/68db2b22-56ab-4f8e-96a6-e50012884f65?source=m3u
+#EXTINF:-1 tvg-logo="https://badrockradio.net/wp-content/uploads/2025/01/max1-2.png" group-title="Bulgaria" radio="true",BadRock Radio National
+https://radiocp.jump.bg/proxy/stan1?mp=/live
 # 72FM: https://72fm.com/station/3932d1ea-0aea-451f-9508-62a6d003f795?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Ultra Pernik
 http://88.80.96.25:8020/;
@@ -421,9 +412,6 @@ http://149.13.0.80/radio1128
 # 72FM: https://72fm.com/station/c7b0ec29-d191-41bd-8294-6086902b4166?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",EILO Trance Radio
 https://eilo.org/streamer.php?ch=trance
-# 72FM: https://72fm.com/station/33b4fadb-b0ed-4db9-99d3-af347a1141f0?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Bad Rock Radio-Classic Rock
-https://radio.jump.bg:7489/live
 # 72FM: https://72fm.com/station/bb8fb5d5-022b-45cb-a68b-45e0f40ad431?source=m3u
 #EXTINF:-1 tvg-logo="https://kef.fm/keffm.png" group-title="Bulgaria" radio="true",kef.fm
 http://91.227.77.124/keffm
@@ -448,12 +436,12 @@ https://listen.radioking.com/radio/490082/stream/546899
 # 72FM: https://72fm.com/station/6dae7585-bf43-4c4f-a3dd-6a6b44354c64?source=m3u
 #EXTINF:-1 tvg-logo="https://deephouseradio.co/img/deephouseradio.png" group-title="Bulgaria" radio="true",Deep House Radio
 https://home.radionrg.com/hls/deephouse/live.m3u8
-# 72FM: https://72fm.com/station/8677e3a3-291f-4608-9c50-5a9f50e91b0e?source=m3u
-#EXTINF:-1 tvg-logo="https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg" group-title="Bulgaria" radio="true",Tangra Mega Rock
-http://stream-bg-01.radiotangra.com/Tangra-high.aac
 # 72FM: https://72fm.com/station/087bbce7-9fc7-48f3-9f8b-1b1109852108?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Радио „Епархийски глас“
 https://radio.mitropolia-sofia.org:7610/stream
+# 72FM: https://72fm.com/station/8677e3a3-291f-4608-9c50-5a9f50e91b0e?source=m3u
+#EXTINF:-1 tvg-logo="https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg" group-title="Bulgaria" radio="true",Tangra Mega Rock
+http://stream-bg-01.radiotangra.com/Tangra-high.aac
 # 72FM: https://72fm.com/station/adc3d8e1-abab-478f-9730-852e749f9504?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",XRaydio 1 – Your Kaleidoscope Of Sounds
 https://xraydio.ddns.net/live
@@ -469,12 +457,12 @@ https://cdn.bweb.bg/radio/classic-fm.mp3
 # 72FM: https://72fm.com/station/61f28b98-91ee-476b-9863-099b2aa58d10?source=m3u
 #EXTINF:-1 tvg-logo="https://balkanradio.com/img/Icon.png" group-title="Bulgaria" radio="true",Balkan Radio
 https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl
-# 72FM: https://72fm.com/station/a586d665-294e-4492-ba60-0e942339f550?source=m3u
-#EXTINF:-1 tvg-logo="https://chanove.com/templates/beez_20/images/plus.png" group-title="Bulgaria" radio="true",Radio Chanove
-http://radio.chanove.com:8000/stream
 # 72FM: https://72fm.com/station/70176545-10de-4ea3-9073-e8f06ec04261?source=m3u
 #EXTINF:-1 tvg-logo="https://metrocast.top/wp-content/uploads/2023/03/COUNTRY-ROCK-HD-LOGO-FINAL.png" group-title="Bulgaria" radio="true",Metro Country Rock HD
 https://radio.jump.bg/proxy/feed104?mp=/MSRR
+# 72FM: https://72fm.com/station/a586d665-294e-4492-ba60-0e942339f550?source=m3u
+#EXTINF:-1 tvg-logo="https://chanove.com/templates/beez_20/images/plus.png" group-title="Bulgaria" radio="true",Radio Chanove
+http://radio.chanove.com:8000/stream
 # 72FM: https://72fm.com/station/37658307-90a1-49cb-b9f0-0db9ea974494?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio El Shada
 https://stream-40.zeno.fm/hku46gxdexquv?zs=d8gnzJrzS0GpfjuXp_Lx_Q
@@ -490,21 +478,21 @@ https://eu1.reliastream.com/proxy/service?mp=/service
 # 72FM: https://72fm.com/station/aaea8fca-00f1-423f-a2f9-5f80ebc8ff5f?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Metro Virtuoso
 https://eu1.reliastream.com/proxy/mvr?mp=/MVR
+# 72FM: https://72fm.com/station/ce25fa5c-92b1-483b-b088-a72e5f3dca5d?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Vocal Mix Radio
+http://79.98.108.170:8015/autodj
 # 72FM: https://72fm.com/station/0affe3d8-31d1-49a8-aa4e-6087255b1951?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Cherveniat Papagal
 https://stream-64.zeno.fm/80qzq207rm0uv?zs=_xFVUn2nS3qDiPZ-lCCmIQ
 # 72FM: https://72fm.com/station/aaef5864-6913-43d3-94a7-6b958f46251b?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Stream House Radio
 http://79.98.108.170:8018/autodj
-# 72FM: https://72fm.com/station/ce25fa5c-92b1-483b-b088-a72e5f3dca5d?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Vocal Mix Radio
-http://79.98.108.170:8015/autodj
-# 72FM: https://72fm.com/station/0d7f58db-2dd1-4842-a4e5-2e2aa7d3fded?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Helikon
-http://87.121.90.229:9000/live_128
 # 72FM: https://72fm.com/station/8c1988a3-9a4a-4399-8c63-8a673a6f1dcb?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Zetra
 http://79.98.108.170:8092/;
+# 72FM: https://72fm.com/station/0d7f58db-2dd1-4842-a4e5-2e2aa7d3fded?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Helikon
+http://87.121.90.229:9000/live_128
 # 72FM: https://72fm.com/station/70e92bcc-69e6-4d22-9015-37e5dbf5a464?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Music BG
 http://79.98.108.170:8243/stream
@@ -519,7 +507,7 @@ https://s10.webradio-hosting.com/proxy/fredradiobg/stream
 http://play-radio11.jump.bg:8000/stream64_autodj
 # 72FM: https://72fm.com/station/01ced4c6-781e-419c-ba05-06d4d3ea49bc?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Eilo Radio - Progressive Radio
-https://eilo.org/streamer.php?ch=progressive
+http://eilo.org:8000/progressive
 # 72FM: https://72fm.com/station/e0b8a6b7-5a4b-4aff-8b33-77f0fb63089d?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Vega Plus
 http://88.80.96.25:40070/vega.mp3
@@ -529,30 +517,30 @@ https://play.global.audio/radio1-koleda.aac
 # 72FM: https://72fm.com/station/f8ae5806-6b08-49a4-a03b-7173e2b3450e?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Turbo Lounge
 http://79.98.108.170:8115/autodj
-# 72FM: https://72fm.com/station/55829f8a-368b-493c-85fe-baa9065412a8?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Metro Love 00s
-https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K
 # 72FM: https://72fm.com/station/5f656882-cc1b-4d17-a1d7-2e99964c18a4?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",folklor.fm
 http://91.227.77.124/folklorfm
+# 72FM: https://72fm.com/station/55829f8a-368b-493c-85fe-baa9065412a8?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Metro Love 00s
+https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K
 # 72FM: https://72fm.com/station/862b1105-8980-41eb-88b5-df2285afb385?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio ORV
 http://radio.orvmedia.com:8005/stream
-# 72FM: https://72fm.com/station/a45aa41a-f49a-4e41-983c-964e3dcf6c57?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Slavianska Parodia
-http://79.98.108.170:8033/autodj
 # 72FM: https://72fm.com/station/996ec8cf-4ed8-4ee4-84e5-b843d0fbcdcc?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Vidin
 http://89.106.110.85:8000/
+# 72FM: https://72fm.com/station/a45aa41a-f49a-4e41-983c-964e3dcf6c57?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Slavianska Parodia
+http://79.98.108.170:8033/autodj
 # 72FM: https://72fm.com/station/cd595c7d-41a1-4c09-b3ba-88d4bbc3de01?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Beatport
 http://79.98.108.170:8014/autodj
-# 72FM: https://72fm.com/station/6f211e4a-43b1-4e51-a8d0-edc7334074b2?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Bar Friends Pernik
-http://79.98.108.170:8278/autodj
 # 72FM: https://72fm.com/station/19f5080a-9a9b-463b-afa5-a659c8ed445a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.bumerangfm.net/images/logo.jpg" group-title="Bulgaria" radio="true",Bumerang FM
 http://185.20.88.1:8010/
+# 72FM: https://72fm.com/station/6f211e4a-43b1-4e51-a8d0-edc7334074b2?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Bar Friends Pernik
+http://79.98.108.170:8278/autodj
 # 72FM: https://72fm.com/station/51408d80-4b67-40e0-9617-671759799c2b?source=m3u
 #EXTINF:-1 tvg-logo="https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png" group-title="Bulgaria" radio="true",Badrock Hard & Heavy
 https://streams.badrockradio.net/hard-heavy
@@ -565,12 +553,12 @@ https://play.radiomaxxfm.com/victoriafm
 # 72FM: https://72fm.com/station/624be6bb-ab3c-4a0f-952e-0c45e980b162?source=m3u
 #EXTINF:-1 tvg-logo="https://muzaica.fm/wp-content/uploads/2021/01/player-logo-256.png" group-title="Bulgaria" radio="true",Muzaica Radio
 https://radio.muzaica.fm:9000/stream
-# 72FM: https://72fm.com/station/58974ea0-4459-4fc7-992e-945c85c64bb7?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Evangelie
-http://79.98.108.170:8078/autodj
 # 72FM: https://72fm.com/station/74d18aef-ef52-4a7d-bdc5-d2f7c8b59d64?source=m3u
 #EXTINF:-1 tvg-logo="https://top.fm/topfm.png" group-title="Bulgaria" radio="true",top.fm
 http://91.227.77.124/topfm
+# 72FM: https://72fm.com/station/58974ea0-4459-4fc7-992e-945c85c64bb7?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Evangelie
+http://79.98.108.170:8078/autodj
 # 72FM: https://72fm.com/station/e60ba523-c593-4c1f-9cb2-5bdce0155c67?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",ARHEA ORG
 http://stream.zeno.fm/na6nbx6qqwzuv
@@ -583,14 +571,14 @@ https://radio.jump.bg/proxy/predp?mp=/MDR
 # 72FM: https://72fm.com/station/37b93230-d0a7-4187-ac7e-e79cdbcf1876?source=m3u
 #EXTINF:-1 tvg-logo="https://radiovega.bg/wp-content/uploads/2022/05/logo.png" group-title="Bulgaria" radio="true",Radio Vega +
 http://88.80.96.25:3050/;?1705023133784
-# 72FM: https://72fm.com/station/7f092679-197b-4503-acd5-9c13f5b75b7c?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Fresh
-http://31.13.223.148:8000/fresh.ogg
 # 72FM: https://72fm.com/station/39f9ca5e-242b-48fc-96b8-f36eb2e8f865?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Globe
 http://79.98.108.170:8019/autodj
-# 72FM: https://72fm.com/station/1d0d2f74-a818-4ae8-ab51-1458c70d69bb?source=m3u
-#EXTINF:-1 tvg-logo="https://shorturl.at/jfGEP" group-title="Bulgaria" radio="true",Radio FM+
+# 72FM: https://72fm.com/station/7f092679-197b-4503-acd5-9c13f5b75b7c?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Fresh
+http://31.13.223.148:8000/fresh.ogg
+# 72FM: https://72fm.com/station/506ab128-67ec-4b81-9a98-51f113a3028a?source=m3u
+#EXTINF:-1 tvg-logo="https://shorturl.at/jfGEP" group-title="Bulgaria" radio="true",&#1056;&#1072;&#1076;&#1080;&#1086; FM+
 http://31.13.223.148:8000/fmplus.ogg
 # 72FM: https://72fm.com/station/0c5c526f-d09f-49d7-89c6-4e82fe55b470?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Braille FM
@@ -604,18 +592,18 @@ http://79.98.108.170:8010/autodj
 # 72FM: https://72fm.com/station/4013f4a9-6767-4b20-919b-9f3c8bf2fc9d?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Tomeko
 http://79.98.108.170:8024/live
-# 72FM: https://72fm.com/station/4cd7c5b3-4b5e-41aa-a93e-cdfd46e71a1d?source=m3u
+# 72FM: https://72fm.com/station/eeab63e3-9d8c-4b8e-8139-44412206400a?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Easy Radio BG
 https://live.easyradio.bg/192?type=.mp3
 # 72FM: https://72fm.com/station/d5fccd5d-0c7c-4f03-98cc-f873541e7dfd?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio K2
 http://stream.radiok2.bg:8000/rk2
-# 72FM: https://72fm.com/station/6692cbbd-d238-49be-b953-92872584ef2c?source=m3u
-#EXTINF:-1 tvg-logo="https://njsradio.com/assets/img/logo.png" group-title="Bulgaria" radio="true",NJS Radio - New Jack Swing
-https://stream.njsradio.com/njs
 # 72FM: https://72fm.com/station/1148dc77-cc7d-4452-bb3e-baaf9d62c62b?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio City (Bulgaria)
 http://play.global.audio/city_low.ogg
+# 72FM: https://72fm.com/station/6692cbbd-d238-49be-b953-92872584ef2c?source=m3u
+#EXTINF:-1 tvg-logo="https://njsradio.com/assets/img/logo.png" group-title="Bulgaria" radio="true",NJS Radio - New Jack Swing
+https://stream.njsradio.com/njs
 # 72FM: https://72fm.com/station/4c26f1be-9a28-4967-bcfd-06afbbf97d13?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Fusion7
 https://radio.palamarka.com/listen/fusion7/radio.mp3
@@ -625,6 +613,9 @@ https://radio.vidinlan.com/mp3
 # 72FM: https://72fm.com/station/3ca1fac2-47b7-4140-8d5b-81a90bfee743?source=m3u
 #EXTINF:-1 tvg-logo="https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png" group-title="Bulgaria" radio="true",Badrock National
 https://streams.badrockradio.net/national
+# 72FM: https://72fm.com/station/649b43ec-52b0-47dc-b974-c7077f07cf31?source=m3u
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/bgonair-new3.png" group-title="Bulgaria" radio="true",Радио Bulgaria ON AIR Русе 103.9 FM
+https://live.radio.bgonair.bg/RadioBOA
 # 72FM: https://72fm.com/station/23fb1a39-d9ff-4e16-87d6-efa964dbaffc?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio AXE Project
 http://79.98.108.170:8004/autodj
@@ -637,45 +628,42 @@ https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/chunklist.m3u8
 # 72FM: https://72fm.com/station/06b00648-7a02-4a6c-855f-423c008f3185?source=m3u
 #EXTINF:-1 tvg-logo="https://nbg-img.fite.tv/img/611098_980x551.jpg" group-title="Bulgaria" radio="true",Veselina Retro
 https://nova-radio.neterra.tv/veselinaretro
+# 72FM: https://72fm.com/station/c0404432-079d-41c3-b492-2ca708c4e35d?source=m3u
+#EXTINF:-1 tvg-logo="https://housemusic.co/img/housemusic.png" group-title="Bulgaria" radio="true",House Music Radio
+https://home.radionrg.com/hls/housemusic/live.m3u8
 # 72FM: https://72fm.com/station/8035abbd-9c9a-4a00-a789-cd76449687c4?source=m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sLgGC6/radio-default-banner.jpg" group-title="Bulgaria" radio="true",Radio Nova
 https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac
-# 72FM: https://72fm.com/station/649b43ec-52b0-47dc-b974-c7077f07cf31?source=m3u
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/bgonair-new3.png" group-title="Bulgaria" radio="true",Радио Bulgaria ON AIR Русе 103.9 FM
-https://live.radio.bgonair.bg/RadioBOA
 # 72FM: https://72fm.com/station/ca6ac624-77cd-4f39-9871-883cb7857337?source=m3u
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/veronika.png" group-title="Bulgaria" radio="true",Радио Вероника Русе 99.0 FM
 https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac
 # 72FM: https://72fm.com/station/7ecdb771-42cf-4c84-9bad-6854367149ad?source=m3u
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-Veselina.png" group-title="Bulgaria" radio="true",Радио Веселина Русе 93.1 FM
 https://bss1.neterra.tv/veselina/stream_0.m3u8
-# 72FM: https://72fm.com/station/c0404432-079d-41c3-b492-2ca708c4e35d?source=m3u
-#EXTINF:-1 tvg-logo="https://housemusic.co/img/housemusic.png" group-title="Bulgaria" radio="true",House Music Radio
-https://home.radionrg.com/hls/housemusic/live.m3u8
-# 72FM: https://72fm.com/station/d6b9b2c1-dfc6-4ae2-8e0e-dbaed9c88896?source=m3u
-#EXTINF:-1 tvg-logo="https://bnrnews.bg/cms/media?Name=bnr-logo&Size=default&v=1761045061564" group-title="Bulgaria" radio="true",BNR - Hristo Botev
-https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/4316e3c1-2512-4b7b-ad2b-51947ab7056a?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TM3LMLN9/wp.png" group-title="Bulgaria" radio="true",ALMA MATER
 http://a1.vizitec.com:8000/almamater
 # 72FM: https://72fm.com/station/00b25a94-7836-410c-8296-81376627833e?source=m3u
 #EXTINF:-1 tvg-logo="https://folkbg.net/wp-content/uploads/2020/02/logo.png" group-title="Bulgaria" radio="true",FolkBG
 http://listen.folkbg.net:8002/folkbg
+# 72FM: https://72fm.com/station/d6b9b2c1-dfc6-4ae2-8e0e-dbaed9c88896?source=m3u
+#EXTINF:-1 tvg-logo="https://bnrnews.bg/cms/media?Name=bnr-logo&Size=default&v=1761045061564" group-title="Bulgaria" radio="true",BNR - Hristo Botev
+https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/5e76d031-7a10-48de-b9ff-0043246c5e9c?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Lele Male
 http://79.98.108.170:8332/
-# 72FM: https://72fm.com/station/36968279-b491-4b4f-a0bd-8fd5e5ea18ce?source=m3u
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/focusbg.png" group-title="Bulgaria" radio="true",Радио Фокус Русе 99.7 FM
-https://focusradio.dataserv.cc/1
 # 72FM: https://72fm.com/station/4f52c805-c794-4bca-9b1b-722fa0208e57?source=m3u
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio1bg.jpg" group-title="Bulgaria" radio="true",Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM
 https://28933.live.streamtheworld.com/RADIO_1AAC_H.aac
-# 72FM: https://72fm.com/station/bb5a3144-402f-4f7c-a1c6-2c5e80170d19?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Mixx Bulgaria
-http://83.97.65.98:9000/;
+# 72FM: https://72fm.com/station/36968279-b491-4b4f-a0bd-8fd5e5ea18ce?source=m3u
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/focusbg.png" group-title="Bulgaria" radio="true",Радио Фокус Русе 99.7 FM
+https://focusradio.dataserv.cc/1
 # 72FM: https://72fm.com/station/8fe94e98-282a-45a8-8406-ed34bf31945a?source=m3u
 #EXTINF:-1 tvg-logo="https://radioenergy.bg/theme_assets/radioenergy/images/logo.png?v=3" group-title="Bulgaria" radio="true",Energy 90s
 https://play.global.audio/energy-90s
+# 72FM: https://72fm.com/station/bb5a3144-402f-4f7c-a1c6-2c5e80170d19?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Mixx Bulgaria
+http://83.97.65.98:9000/;
 # 72FM: https://72fm.com/station/3e8a13ea-20a4-4c57-b771-5cd8631aa994?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Easy Radio FLAC
 https://c30.radioboss.fm:8758/autodj
@@ -691,24 +679,27 @@ https://29103.live.streamtheworld.com/RADIO_ENERGYAAC_H.aac
 # 72FM: https://72fm.com/station/4a72719d-2fcd-4791-87e0-3883c56290b9?source=m3u
 #EXTINF:-1 tvg-logo="https://radiofmplus.bg/i/logo.png" group-title="Bulgaria" radio="true",Радио FM+ Русе 94.4 FM
 https://pulsar.atlantis.bg:8443/fmplusnew
-# 72FM: https://72fm.com/station/9fdee52c-3959-49c3-8220-27e24bab7f6f?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Euronews Bulgaria
-https://play.euronews.bg/euronews-high
-# 72FM: https://72fm.com/station/7d5f038b-2f8a-42ca-bd0b-b58d0232222a?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",БНР Хоризонт
-https://play.global.audio/testbhi.aac
 # 72FM: https://72fm.com/station/87b2d880-4792-4fe6-a5c4-4aba7bc79040?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",City K-Pop
 https://play.global.audio/citykpophi.aac
-# 72FM: https://72fm.com/station/3c30a055-aaf9-438a-98c3-5d32a02bd1e5?source=m3u
-#EXTINF:-1 tvg-logo="https://media.metacast.eu/pictures/02_2023/Aud5WKLJ6ZOzqVThrMmU-84388.png" group-title="Bulgaria" radio="true",Energy NRJ Bulgaria 00s Only (AAC 128)
-https://play.global.audio/energy-00shi.aac
 # 72FM: https://72fm.com/station/39b3b4eb-9a6a-4cab-9b84-141b519ea9d7?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiozara.bg/logo.png" group-title="Bulgaria" radio="true",Radio ZARA
 https://www.radiozara.bg/play
+# 72FM: https://72fm.com/station/7d5f038b-2f8a-42ca-bd0b-b58d0232222a?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",БНР Хоризонт
+https://play.global.audio/testbhi.aac
 # 72FM: https://72fm.com/station/b48e97eb-10db-4caf-8dcb-02e0ae583299?source=m3u
 #EXTINF:-1 tvg-logo="https://folkbg.net/wp-content/uploads/2020/02/logo.png" group-title="Bulgaria" radio="true",FolkBG Player 2
 http://folkbg.ombadmin.com:8001/folkbg
+# 72FM: https://72fm.com/station/9fdee52c-3959-49c3-8220-27e24bab7f6f?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Euronews Bulgaria
+https://play.euronews.bg/euronews-high
+# 72FM: https://72fm.com/station/cd3d8bc2-ed9d-4027-9e01-b1e7028fe200?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radioxaschove
+http://79.98.108.173:8006/
+# 72FM: https://72fm.com/station/3c30a055-aaf9-438a-98c3-5d32a02bd1e5?source=m3u
+#EXTINF:-1 tvg-logo="https://media.metacast.eu/pictures/02_2023/Aud5WKLJ6ZOzqVThrMmU-84388.png" group-title="Bulgaria" radio="true",Energy NRJ Bulgaria 00s Only (AAC 128)
+https://play.global.audio/energy-00shi.aac
 # 72FM: https://72fm.com/station/df9d72d6-cef9-4d06-bbf1-cc35b57ed400?source=m3u
 #EXTINF:-1 tvg-logo="https://katrafm.com/wp-content/uploads/2025/09/kfm-170x170.webp" group-title="Bulgaria" radio="true",KATRA FM
 https://live.katrafm.com/
@@ -718,189 +709,198 @@ http://stream.radioextra-bg.net:8000/viva-eurodance
 # 72FM: https://72fm.com/station/0bdfeaf3-3d5b-42d8-af96-a04c4f929882?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",RADIO ZETRA
 https://radio.jump.bg/proxy/etzetrap/;stream/1
-# 72FM: https://72fm.com/station/cd3d8bc2-ed9d-4027-9e01-b1e7028fe200?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radioxaschove
-http://79.98.108.173:8006/
 # 72FM: https://72fm.com/station/cc8fb7fa-e821-46c8-a4b3-8a846493b03e?source=m3u
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/njoy.png" group-title="Bulgaria" radio="true",Радио N-JOY Русе 101.6 FM
 https://cdn.btv.bg/radio/njoy.mp3
-# 72FM: https://72fm.com/station/9e415d73-38d5-412d-8c17-e667844717db?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Focus
-http://213.91.195.242:2524/stream
 # 72FM: https://72fm.com/station/f10d046c-ca54-4df6-96d1-68b6597456b5?source=m3u
 #EXTINF:-1 tvg-logo="https://play.nova.bg/_next/image?url=https%3A%2F%2Fnbg-img.fite.tv%2Fimg%2F611102_460x260.jpg&w=1080&q=85" group-title="Bulgaria" radio="true",KISS LOUNGE RADIO
 https://nova-radio.neterra.tv/kiss
+# 72FM: https://72fm.com/station/9e415d73-38d5-412d-8c17-e667844717db?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Focus
+http://213.91.195.242:2524/stream
 # 72FM: https://72fm.com/station/7e457e0d-f15f-4039-8f2e-22800c0908c9?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Hashove
 http://79.98.108.173:8006/radioxashove
 # 72FM: https://72fm.com/station/7d25b50d-ba63-45db-8c96-0b9c55ccd8bd?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Radio Mega Hit
 http://sunaer-stream.com:7824/
+# 72FM: https://72fm.com/station/bc30d1a6-a29f-4306-a1bb-04c864b6802a?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Folk Radio Nazdrave
+http://78.83.177.106:8000/;
+# 72FM: https://72fm.com/station/8aab8f31-c81c-4372-9ee6-869e5bc20d3f?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",DJ ZONE HOUSE RADIO 24/7
+https://stream.djzone.mobi/djzone
+# 72FM: https://72fm.com/station/af0ece30-92bf-4578-81bb-e206ef44e59a?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Lozenets Radio
+https://c18.radioboss.fm/stream/784
+# 72FM: https://72fm.com/station/96f0bf7e-8f2e-4231-81f2-4235eebcc41a?source=m3u
+#EXTINF:-1 tvg-logo="https://radiodolcevita.bg/i/dolcevita.png" group-title="Bulgaria" radio="true",Radio Dolce Vita
+https://streamer2.atlantis.bg:8443/dolcevita
+# 72FM: https://72fm.com/station/f85fa234-ffbf-4e36-b3f5-7115128c9ebb?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",БНР – Радио Кърджали
+https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/51e64141-bc08-4269-8d86-0686983ca710?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",БНР – Радио Пловдив
+https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/930c6825-0da4-41ca-beb9-b53ef7368754?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",БНР – Радио София
 https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/20b56eb1-e7c7-4de3-aa09-ecf652c31e2a?source=m3u
 #EXTINF:-1 tvg-logo="https://btvradio.bg/static/bg/microsites/btvradio/img/new/logo.svg" group-title="Bulgaria" radio="true",bTV Radio Русе 89.9 FM
 https://cdn.btv.bg/radio/btv-radio.mp3
-# 72FM: https://72fm.com/station/af0ece30-92bf-4578-81bb-e206ef44e59a?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Lozenets Radio
-https://c18.radioboss.fm/stream/784
-# 72FM: https://72fm.com/station/51e64141-bc08-4269-8d86-0686983ca710?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",БНР – Радио Пловдив
-https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/8aab8f31-c81c-4372-9ee6-869e5bc20d3f?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",DJ ZONE HOUSE RADIO 24/7
-https://stream.djzone.mobi/djzone
-# 72FM: https://72fm.com/station/a0966b4b-7144-4297-a425-9d27ee44b729?source=m3u
-#EXTINF:-1 tvg-logo="https://radio.eternalnetworktm.com/images/favicon.png" group-title="Bulgaria" radio="true",Eternal Radio
-http://79.98.108.170:8217/stream
-# 72FM: https://72fm.com/station/fea0c23d-7252-460c-a8dd-2db957c128b0?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radio1rock.bg/theme_assets/radio1rock/images/logo.png" group-title="Bulgaria" radio="true",Radio 1 Rock (AAC 128)
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_H.aac
-# 72FM: https://72fm.com/station/b99a9c2f-373c-44ce-a4be-b9e36df17823?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",The Voice of Bulgaria
-https://nova-radio.neterra.tv/voiceofbg
-# 72FM: https://72fm.com/station/0dde101e-5225-4abb-860f-7a94902fdc6a?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Veselina Folk
-https://nova-radio.neterra.tv/veselinafolk
-# 72FM: https://72fm.com/station/3fd7d3ef-3102-4b99-8aed-96b615bb9453?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",EILO Ambient & Chill Radio
-https://eilo.org/streamer.php?ch=ambient
 # 72FM: https://72fm.com/station/f67c41ac-86a2-4f7b-9308-42db17e56e8d?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",EILO Earth & Beat Radio
 https://eilo.org/streamer.php?ch=earthbeat
-# 72FM: https://72fm.com/station/594154dd-a4f6-4dea-9173-52f85f4589d4?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",EILO House Radio
-https://eilo.org/streamer.php?ch=house
+# 72FM: https://72fm.com/station/a0966b4b-7144-4297-a425-9d27ee44b729?source=m3u
+#EXTINF:-1 tvg-logo="https://radio.eternalnetworktm.com/images/favicon.png" group-title="Bulgaria" radio="true",Eternal Radio
+http://79.98.108.170:8217/stream
 # 72FM: https://72fm.com/station/105e5e91-67bd-4638-80d5-004124e50cce?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Extreme Deep House Radio
 https://stream1.rcast.net/72921
-# 72FM: https://72fm.com/station/bc30d1a6-a29f-4306-a1bb-04c864b6802a?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Folk Radio Nazdrave
-http://78.83.177.106:8000/;
 # 72FM: https://72fm.com/station/dc699a1f-9d20-4993-b42d-70d28e444a87?source=m3u
 #EXTINF:-1 tvg-logo="https://mht.hopto.org/MHTRadio/mht-radio-icon.png" group-title="Bulgaria" radio="true",MHT Radio Petrich
 https://mht.hopto.org:8444/stream/1
-# 72FM: https://72fm.com/station/c2c261e1-90f9-40b1-a7f6-811b8493f93d?source=m3u
-#EXTINF:-1 tvg-logo="https://www.city.bg/theme_assets/city/images/logo.png?v=2" group-title="Bulgaria" radio="true",Radio City
-http://play.global.audio/city128
 # 72FM: https://72fm.com/station/72ff9fb6-7458-4fe6-878e-0cd608718ab3?source=m3u
 #EXTINF:-1 tvg-logo="https://radiofresh.bg/i/logo.png" group-title="Bulgaria" radio="true",Radio Fresh -Ruse 93,6 FM
 https://streamer2.atlantis.bg:8443/fresh
-# 72FM: https://72fm.com/station/8330cee2-ade3-476b-af0c-831f29c426a8?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Helikon
-http://radio.helikon.bg:9000/live_128
 # 72FM: https://72fm.com/station/03aebcd3-e672-438d-9192-4ba7b7c3852b?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",radio kesarevo
 https://ssl22.radyotelekom.com/8136/stream
-# 72FM: https://72fm.com/station/8bfc8432-1918-4945-a138-403155a9e18c?source=m3u
-#EXTINF:-1 tvg-logo="https://share.google/KA2Q5J6Vfv6tHoIwD" group-title="Bulgaria" radio="true",Radio Nova
-https://25453.live.streamtheworld.com/RADIO_NOVAAAC_L.aac
 # 72FM: https://72fm.com/station/468594ff-048f-46c9-9069-824a31fc1600?source=m3u
 #EXTINF:-1 tvg-logo="https://radioviva.at.ua/.s/t/1241/slide.jpg" group-title="Bulgaria" radio="true",Radio Viva - Ruse (MP3 192)
 http://stream.radioextra-bg.net:8000/viva
-# 72FM: https://72fm.com/station/f85fa234-ffbf-4e36-b3f5-7115128c9ebb?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",БНР – Радио Кърджали
-https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/96edd915-6c99-4ae4-a979-013905c84946?source=m3u
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/bnr.png" group-title="Bulgaria" radio="true",БНР Радио Русе 98.6 FM
 https://e106-ts.cdn.bg/regstations/fls/Shumen.stream/chunklist.m3u8
 # 72FM: https://72fm.com/station/4260ea98-dfe5-4ad4-a88e-a62aeccb6691?source=m3u
 #EXTINF:-1 tvg-logo="https://www.bgradio.bg/theme_assets/bgradio/images/hb_bgradio_logo.png" group-title="Bulgaria" radio="true",Радио БГ Русе 97.4 FM
 https://27913.live.streamtheworld.com/BG_RADIOAAC_H.aac
+# 72FM: https://72fm.com/station/3fd7d3ef-3102-4b99-8aed-96b615bb9453?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",EILO Ambient & Chill Radio
+https://eilo.org/streamer.php?ch=ambient
+# 72FM: https://72fm.com/station/594154dd-a4f6-4dea-9173-52f85f4589d4?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",EILO House Radio
+https://eilo.org/streamer.php?ch=house
+# 72FM: https://72fm.com/station/fea0c23d-7252-460c-a8dd-2db957c128b0?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radio1rock.bg/theme_assets/radio1rock/images/logo.png" group-title="Bulgaria" radio="true",Radio 1 Rock (AAC 128)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_H.aac
+# 72FM: https://72fm.com/station/c2c261e1-90f9-40b1-a7f6-811b8493f93d?source=m3u
+#EXTINF:-1 tvg-logo="https://www.city.bg/theme_assets/city/images/logo.png?v=2" group-title="Bulgaria" radio="true",Radio City
+http://play.global.audio/city128
+# 72FM: https://72fm.com/station/8330cee2-ade3-476b-af0c-831f29c426a8?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Helikon
+http://radio.helikon.bg:9000/live_128
+# 72FM: https://72fm.com/station/8bfc8432-1918-4945-a138-403155a9e18c?source=m3u
+#EXTINF:-1 tvg-logo="https://share.google/KA2Q5J6Vfv6tHoIwD" group-title="Bulgaria" radio="true",Radio Nova
+https://25453.live.streamtheworld.com/RADIO_NOVAAAC_L.aac
+# 72FM: https://72fm.com/station/b99a9c2f-373c-44ce-a4be-b9e36df17823?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",The Voice of Bulgaria
+https://nova-radio.neterra.tv/voiceofbg
+# 72FM: https://72fm.com/station/0dde101e-5225-4abb-860f-7a94902fdc6a?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Veselina Folk
+https://nova-radio.neterra.tv/veselinafolk
 # 72FM: https://72fm.com/station/5b31706a-87f1-465e-a28d-86daa4d4000c?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Радио Фолк 91.5
 https://radio.comnet.bg:12301/radio-folk.mp3
+# 72FM: https://72fm.com/station/1aeb3ebb-3720-45da-a48e-92470ea275c8?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",EILO Drum & Bass Radio
+https://eilo.org/streamer.php?ch=drum
+# 72FM: https://72fm.com/station/e06fb182-e1fe-4920-ab98-0c7b1e3b7d4a?source=m3u
+#EXTINF:-1 tvg-logo="https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png" group-title="Bulgaria" radio="true",Energy NRJ Bulgaria 90s Only (AAC 128)
+https://play.global.audio/energy-90shi.aac
+# 72FM: https://72fm.com/station/3d2a080a-d977-4d8c-9d3e-78e1af851dd2?source=m3u
+#EXTINF:-1 tvg-logo="https://petipolk.com/wp-content/uploads/2026/01/cropped-mLogo-Clean-192x192.png" group-title="Bulgaria" radio="true",PetiPolk Radio
+https://cast4.my-control-panel.com/proxy/anatoli1/stream
+# 72FM: https://72fm.com/station/5390d1c8-2fca-4d56-b72d-44819485e1de?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",БНР – Радио Шумен
+https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/6ebedbdc-cf68-43a0-846c-49728c635531?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",BG Voice Hit Mix
+https://stream.radio.co/s53f1b7497/listen
+# 72FM: https://72fm.com/station/b986ba13-d4ed-44c4-8068-b6b14aee3477?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",EILO Hard Techno Radio
+https://eilo.org/streamer.php?ch=hard
+# 72FM: https://72fm.com/station/a19682bb-87dc-45ce-b0e5-c0827f2084d4?source=m3u
+#EXTINF:-1 tvg-logo="https://hitfmbg.com/wp-content/uploads/2022/02/258722985_656534952441912_2844578166020211988_n.png" group-title="Bulgaria" radio="true",Hit FM Bulgaria
+https://play.hitfmbg.com/hitfm-high
 # 72FM: https://72fm.com/station/fb30ac4a-3077-4aa3-bd15-9ee99da9106f?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",MAGIC PARTY
 https://nova-radio.neterra.tv/magicparty
-# 72FM: https://72fm.com/station/31b00ae5-cb3f-4b05-855d-5034f0af5af2?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",��� � ����� �����
-https://lb-hls.cdn.bg/2032/fls/Vidin.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/1b3d46bf-610e-424c-bae9-403c00fec6ef?source=m3u
+#EXTINF:-1 tvg-logo="https://radio1rock.bg/theme_assets/radio1rock/images/logo.png?v=3" group-title="Bulgaria" radio="true",RADIO 1 ROCK
+http://play.global.audio/radio1rock.ogg
+# 72FM: https://72fm.com/station/f9216b30-3657-47cb-b0f7-1102022522a5?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Atlantic
+https://c32.radioboss.fm:8853/stream
+# 72FM: https://72fm.com/station/5ec4fcae-ea20-49e9-8609-1b153c869905?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Balkanika
+https://ssl120.radyotelekom.com.tr/8122/stream
+# 72FM: https://72fm.com/station/9e48333a-7d99-4a4b-a5fe-9b413da8dbca?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Bella
+https://online.radiobella.com/listen/radio.bella/radio.mp3
+# 72FM: https://72fm.com/station/06c0897c-572b-46a4-b227-b66f2fb11cfa?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",��� � ����� �����������
+https://lb-hls.cdn.bg/2032/fls/Blagoevgrad.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/4b44f4fe-ba82-4c06-a6ec-5847ef4da937?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",����� ����������� ����
+http://radio.mitropolia-sofia.org:8610/stream
+# 72FM: https://72fm.com/station/897c3fc5-fcba-417f-b981-b49cbabaa2af?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",������ �������
+https://play-radio0.jump.bg:7146/;stream
+# 72FM: https://72fm.com/station/7c555751-1cd2-46b3-94e4-2678966b8251?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",�������� ����� �������
+http://stream.radioextra-bg.net:8000/razgrad
+# 72FM: https://72fm.com/station/961209d7-4aa1-4955-b9d7-7befd6c8037e?source=m3u
+#EXTINF:-1 tvg-logo="https://www.briefley.com/images/logo_only_black.png" group-title="Bulgaria" radio="true",Briefley Radio
+https://listen.radioking.com/radio/772229/stream/839543
 # 72FM: https://72fm.com/station/b77487e0-b941-4feb-8b23-d5f6a43c10b2?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Coda Radio
 https://radio.jump.bg/proxy/feed82?mp=/coda
-# 72FM: https://72fm.com/station/413f8cb1-81d9-46b2-a329-18c97075d705?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Easy Radio
-https://live.easyradio.bg/flac
 # 72FM: https://72fm.com/station/298371df-ecf9-46b3-90ac-b46fe5af7f61?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",EILO Dubstep Radio
 https://eilo.org/streamer.php?ch=dubstep
 # 72FM: https://72fm.com/station/6a3015a8-9310-43d1-9b2f-32f4b7339ad1?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",EILO Jazz, Funk & Soul Radio
 https://eilo.org/streamer.php?ch=jazzfunksoul
-# 72FM: https://72fm.com/station/a19682bb-87dc-45ce-b0e5-c0827f2084d4?source=m3u
-#EXTINF:-1 tvg-logo="https://hitfmbg.com/wp-content/uploads/2022/02/258722985_656534952441912_2844578166020211988_n.png" group-title="Bulgaria" radio="true",Hit FM Bulgaria
-https://play.hitfmbg.com/hitfm-high
-# 72FM: https://72fm.com/station/27e4db4c-c8dd-4050-b146-6b0530551eba?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Hot FM Vratsa
-http://77.76.184.254:8000/cch256
-# 72FM: https://72fm.com/station/c5e62114-111f-4a27-889a-cc8a327aad4a?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",MIXX
-https://radio.comnet.bg:12301/radio-mixx.mp3
-# 72FM: https://72fm.com/station/3d2a080a-d977-4d8c-9d3e-78e1af851dd2?source=m3u
-#EXTINF:-1 tvg-logo="https://petipolk.com/wp-content/uploads/2026/01/cropped-mLogo-Clean-192x192.png" group-title="Bulgaria" radio="true",PetiPolk Radio
-https://cast4.my-control-panel.com/proxy/anatoli1/stream
-# 72FM: https://72fm.com/station/1b3d46bf-610e-424c-bae9-403c00fec6ef?source=m3u
-#EXTINF:-1 tvg-logo="https://radio1rock.bg/theme_assets/radio1rock/images/logo.png?v=3" group-title="Bulgaria" radio="true",RADIO 1 ROCK
-http://play.global.audio/radio1rock.ogg
-# 72FM: https://72fm.com/station/9e48333a-7d99-4a4b-a5fe-9b413da8dbca?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Bella
-https://online.radiobella.com/listen/radio.bella/radio.mp3
-# 72FM: https://72fm.com/station/3dd2d494-32df-40a1-ac44-b70316bf3e9c?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Retro Samokov
-https://radio.jump.bg/proxy/stanimi1/radioRETRO
-# 72FM: https://72fm.com/station/ee1a4265-5a2e-492a-a37c-fc32d12cc937?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Tuturutka 97.4 Evropa
-https://stream.zeno.fm/uc2rmbyhvd5uv
-# 72FM: https://72fm.com/station/fee1db26-b255-4ca2-bf06-0b99f69bda1c?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",The Vibe Radio
-https://stream.thevibe.tv/hls/the_vibe_balkan/aac_hifi.m3u8
-# 72FM: https://72fm.com/station/3f675794-db36-455c-9976-ad332e529071?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",��� � ����� �����
-https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/06c0897c-572b-46a4-b227-b66f2fb11cfa?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",��� � ����� �����������
-https://lb-hls.cdn.bg/2032/fls/Blagoevgrad.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/7c555751-1cd2-46b3-94e4-2678966b8251?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",�������� ����� �������
-http://stream.radioextra-bg.net:8000/razgrad
-# 72FM: https://72fm.com/station/97d97922-b388-4821-b8e4-c3371aad454a?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/bgestrada.png" group-title="Bulgaria" radio="true",BG Estrada
-https://play.global.audio/bgestradahi.aac
-# 72FM: https://72fm.com/station/6ebedbdc-cf68-43a0-846c-49728c635531?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",BG Voice Hit Mix
-https://stream.radio.co/s53f1b7497/listen
-# 72FM: https://72fm.com/station/2f33e0ca-89f1-48c8-a115-bf50f6a1109b?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Braille FM
-http://play-radio0.jump.bg:8181/live
-# 72FM: https://72fm.com/station/961209d7-4aa1-4955-b9d7-7befd6c8037e?source=m3u
-#EXTINF:-1 tvg-logo="https://www.briefley.com/images/logo_only_black.png" group-title="Bulgaria" radio="true",Briefley Radio
-https://listen.radioking.com/radio/772229/stream/839543
-# 72FM: https://72fm.com/station/1aeb3ebb-3720-45da-a48e-92470ea275c8?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",EILO Drum & Bass Radio
-https://eilo.org/streamer.php?ch=drum
-# 72FM: https://72fm.com/station/b986ba13-d4ed-44c4-8068-b6b14aee3477?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",EILO Hard Techno Radio
-https://eilo.org/streamer.php?ch=hard
-# 72FM: https://72fm.com/station/3f95a663-c532-4112-8977-05fe5642bb82?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",EILO Mixotic Radio
-https://eilo.org/streamer.php?ch=mixotic
 # 72FM: https://72fm.com/station/66489c0f-ce9b-4918-8e80-f69a1aa35b2c?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",EILO Psychedelic Radio
 https://eilo.org/streamer.php?ch=psychedelic
-# 72FM: https://72fm.com/station/e06fb182-e1fe-4920-ab98-0c7b1e3b7d4a?source=m3u
-#EXTINF:-1 tvg-logo="https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png" group-title="Bulgaria" radio="true",Energy NRJ Bulgaria 90s Only (AAC 128)
-https://play.global.audio/energy-90shi.aac
 # 72FM: https://72fm.com/station/ac215183-915b-48a9-93b6-3261b4f5a9ad?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",ExtraHIT Folk
 https://extrahitfolk.com:8080/aac
 # 72FM: https://72fm.com/station/5df71484-7818-4c6e-8c5a-948af4a4fcbd?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Gold Radio
 http://78.83.177.106:8020/;
-# 72FM: https://72fm.com/station/19d08589-62dc-48da-bb84-e0e88a443952?source=m3u
-#EXTINF:-1 group-title="Bulgaria" radio="true",Hot FM Vratsa
-http://77.76.184.254:8000/tx320
 # 72FM: https://72fm.com/station/4d4286a7-9c6b-4936-8059-673a016d30f1?source=m3u
 #EXTINF:-1 group-title="Bulgaria" radio="true",Internacional 1
 https://play-radio0.jump.bg:7598/;
+# 72FM: https://72fm.com/station/dcb676b4-5e9a-468d-8641-f887b6c54b5b?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Nova News (AAC 128)
+https://play.global.audio/novanewshi.aac
+# 72FM: https://72fm.com/station/1093be0c-28cb-4622-ba7d-079b5737aec4?source=m3u
+#EXTINF:-1 tvg-logo="https://radiobizonio.com/images/152x152/20845598/Logo-h5xaEmKq3AFQq1yy02vy5w-LKUtvUEy37k0j26CfyToEw.png" group-title="Bulgaria" radio="true",Radio Bizonio
+https://a13.asurahosting.com/listen/radio_bizonio_2/radio.mp3
+# 72FM: https://72fm.com/station/c8400901-d83e-4528-8d32-fd258b45f9eb?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Dance With Me (MP3 320)
+http://g5.turbohost.eu:8002/stream320
+# 72FM: https://72fm.com/station/0cfa5145-2260-4451-8750-a091326b2787?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio NET
+https://icecast.haskovo.net:9443/
+# 72FM: https://72fm.com/station/57dd6d42-0b59-433e-9beb-efd4d42ff628?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio OxFM
+https://mpc.my-control-panel.eu:8002/stream
+# 72FM: https://72fm.com/station/d178afeb-0739-48da-aba8-0e802b6b5572?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Romantic
+https://g5.turbohost.eu/proxy/romantic/stream
+# 72FM: https://72fm.com/station/ee1a4265-5a2e-492a-a37c-fc32d12cc937?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radio Tuturutka 97.4 Evropa
+https://stream.zeno.fm/uc2rmbyhvd5uv
+# 72FM: https://72fm.com/station/3d62571d-a9aa-4df6-87ec-b3d6fec750c2?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",RadioAdrenalina
+https://ssl22.radyotelekom.com/8386/stream
+# 72FM: https://72fm.com/station/01ac466c-e368-4692-b41e-164ccb1c4a25?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Radioto.bg
+https://radio.jump.bg/proxy/radiotobg2?mp=/stream
+# 72FM: https://72fm.com/station/4a69b39d-7a20-48a5-b4e7-7ce6e8c49e73?source=m3u
+#EXTINF:-1 group-title="Bulgaria" radio="true",Smooth One Radio
+https://radio.jump.bg/proxy/servicech1?mp=/SMOOTHONE

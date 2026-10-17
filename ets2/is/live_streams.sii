@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 13
+ stream_data: 12
  stream_data[0]: "http://ice-11.spilarinn.is/80flashback|80 s Flash Back|80 s pop|IS|128|0"
  stream_data[1]: "http://live.trolli.is:8200/;|Trolli FM 103.7 Siglufjordu|Adult contemporary|ICE|256|0"
  stream_data[2]: "https://ice-11.spilarinn.is/60flashback|Flashback 60s|Various|IS|128|0"
@@ -10,11 +10,10 @@ live_stream_def : .live_streams {
  stream_data[5]: "http://ice-11.spilarinn.is/retromobile|Restro 89,5|Various|ICE|170|0"
  stream_data[6]: "https://ice-11.spilarinn.is/kaninnmobile|K 100|Various|IS|170|0"
  stream_data[7]: "https://s10.webradio-hosting.com/proxy/fredradiois/stream|Fred Film Radio-26 Islenska|Film|ICE|128|0"
- stream_data[8]: "https://ice-11.spilarinn.is/xsudurlandfm|Su\xc3\xb0urland FM|Country|ICE|128|0"
- stream_data[9]: "http://netradio.ruv.is/ras2.mp3|RUV Ras 2|Culture|IS|128|0"
- stream_data[10]: "https://ice-11.spilarinn.is/retromobile|Retro|Oldies|IS|170|0"
- stream_data[11]: "https://kast.aki.is/radio|RADIO AKI ASGEIRSSON : Tonlist / Music by Aki Asgeirsson|Composer|IS|128|0"
- stream_data[12]: "https://seyisfjorur-community-radio.radiocult.fm/stream|Sey\xc3\xb0isfjor\xc3\xb0ur Community Radio|Various|IS|256|0"
+ stream_data[8]: "http://netradio.ruv.is/ras2.mp3|RUV Ras 2|Culture|IS|128|0"
+ stream_data[9]: "https://ice-11.spilarinn.is/retromobile|Retro|Oldies|IS|170|0"
+ stream_data[10]: "https://kast.aki.is/radio|RADIO AKI ASGEIRSSON : Tonlist / Music by Aki Asgeirsson|Composer|IS|128|0"
+ stream_data[11]: "https://seyisfjorur-community-radio.radiocult.fm/stream|Sey\xc3\xb0isfjor\xc3\xb0ur Community Radio|Various|IS|256|0"
 }
 
 }

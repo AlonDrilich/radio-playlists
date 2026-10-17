@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 11
+ stream_data: 12
  stream_data[0]: "http://rdj966.net:8000/rdj966.mp3|Radio des jeunes (RDJ)|Antananarivo|MAL|128|0"
  stream_data[1]: "http://onair15.xdevel.com:9248/;|Radio Don Bosco|Catholic|ENG|128|0"
  stream_data[2]: "http://drs-live-rna.gasy-internet.info:9001/;|RNA Madagascar|Various|MG|128|0"
@@ -13,6 +13,7 @@ live_stream_def : .live_streams {
  stream_data[8]: "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3|ESDES Radio|Educational|FRE|128|0"
  stream_data[9]: "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3|Radio Oasis|Christian|MG|96|0"
  stream_data[10]: "https://listen.radioking.com/radio/52108/stream/89122|Radio HIFI|Various|MG|128|0"
+ stream_data[11]: "https://s12.myradiostream.com/20048/listen.mp3|RADIO RFA ANDAPA|Fampitambaovao|MG|128|0"
 }
 
 }

@@ -262,12 +262,12 @@ http://radios.rtbf.be/classic21-128.mp3
 # 72FM: https://72fm.com/station/962c560d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Radio Suisse Classique
 http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
-# 72FM: https://72fm.com/station/961c8b8a-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",France Musique | Concerts Radio France
-http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
 # 72FM: https://72fm.com/station/1c5674b0-2cfe-48e2-b859-2f3718c74598?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioswissclassic.ch/favicon.ico" group-title="Classical" radio="true",Radio Swiss Classic
 http://stream.srg-ssr.ch/m/rsc_it/mp3_128
+# 72FM: https://72fm.com/station/961c8b8a-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",France Musique | Concerts Radio France
+http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
 # 72FM: https://72fm.com/station/6c800ca2-7e1e-4020-a026-57f55de88e74?source=m3u
 #EXTINF:-1 tvg-logo="https://radiointernetowe.online/wp-content/uploads/2021/06/rmf-classic.png" group-title="Classical" radio="true",RMF Classic
 http://rmfstream1.interia.pl:8000/rmf_classic
@@ -349,12 +349,12 @@ https://drive.uber.radio/uber/crmozart/icecast.audio
 # 72FM: https://72fm.com/station/cde57b4c-11d1-49a0-b7e3-98f5f943653f?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",ghetto kenya
 https://stream.zeno.fm/kvudezx1h2zuv
-# 72FM: https://72fm.com/station/961e366e-bf77-11e9-8502-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Organlive - Organ Music
-http://play.organlive.com:7000/192
 # 72FM: https://72fm.com/station/54e4b1de-0156-4972-a14e-580111522b44?source=m3u
 #EXTINF:-1 tvg-logo="https://www.swr.de/assets/swr/swr4/apple-touch-icon-180x180.png" group-title="Classical" radio="true",SWR4 BW [48 aac]
 https://liveradio.swr.de/sw890cl/swr4bw/
+# 72FM: https://72fm.com/station/961e366e-bf77-11e9-8502-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Organlive - Organ Music
+http://play.organlive.com:7000/192
 # 72FM: https://72fm.com/station/fa055899-0cc7-41a5-beeb-5276f5d39851?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",RTVS
 http://icecast.stv.livebox.sk/slovensko_128.mp3
@@ -381,7 +381,7 @@ http://stream.radiojar.com/3by7s8eg65quv
 http://s1.streamaudio.de:8000/forest-green
 # 72FM: https://72fm.com/station/e3d4515f-eb35-40e2-aeb9-dc48e9ba910c?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",KBS Classic FM
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE5MzIzNzJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=d-NgzfdgYAhRnqcV6MslqraHyU8Uzz~DIMNIhviX5vFgGLNJEYnLl~SsMLG1KIV0H~Gxfg7uKMJO64d7d0EdYydF31AkYC6wOafUTYw53TeNTHj0lZ-OJs2xU6iueKb8-rH4WzkMR7XqKaC5zaCrfHi6p24L9oCowGZmM3uKnLogntna9VH0yOq6zA1NTc95LLzhplnTtkZUev3Qt9j1Osa79qZoKMBKWOal1mpShP2fmRv3hP-BwTLgR9rsiudwWnGs720AOpfxzilXVBRFJnXc5pYJ-UvHSgUafhHxLr0H8RfyKyxZRwmiJ4a9XAZu4u8GYNR6Ipd8XjpeecDwgw__
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTIzNjQzODR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Kkix6ZSaSAVuHFzOJqemd6wqcvIovUB6cD9E8PB8k9xJu4KkkCds61X2QK56KEyzNpkecWi5~QHO0lYCkcG~WdESNITWe1O433ANxCMZN5o4APMYfq0UXlxniQ7rmqpqS0aI9hxVFEWde1t~NsOGugfhB24zbx3oFSBIkkzUuipFW0jtFdSxscqZ~qGbAIVY2pYGQilnDcKnQR-8niia1NEOEd0hPtJ4cvIIp0J4Kq0rhySR3k5wx3nibE6dkxZWezoF6VzTON8~IpE~if5c~swrnr7WXa3sJ792i9YLk3lAq3f6-1e3F2XA~K44nLo27Fq4I4nKa3G4yvt5ScCULQ__
 # 72FM: https://72fm.com/station/ea2b53c6-00c3-478c-b0d8-4732e6a0ff69?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",London Telugu Radio
 https://c8.radioboss.fm/stream/33
@@ -418,27 +418,27 @@ https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12
 # 72FM: https://72fm.com/station/5444eb2d-f989-4c1c-a482-ecb8d8f389b2?source=m3u
 #EXTINF:-1 tvg-logo="https://www.swr.de/assets/swr/swrkultur/apple-touch-icon.png" group-title="Classical" radio="true",SWR2
 https://f111.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&sid=28ew6Usq6cch83eglcsXwLlNRS3&token=Ip5bwQ_T81Lq_mqKc3HUjnxrk94ek2bDcfNyNHuqRGk&tvf=XFsRgyq06xZmMTExLnJuZGZuay5jb20
-# 72FM: https://72fm.com/station/960c1c0e-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Kulturradio
-http://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high
 # 72FM: https://72fm.com/station/315f16b5-041b-4d95-8b58-74b13e393f20?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",GHETTOO KENYA
 http://stream.zeno.fm/cs4q33arb2zuv
 # 72FM: https://72fm.com/station/7ab25d55-40ef-4dcc-8e85-1dd99650d830?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Halk Radyo
 https://anadolu.liderhost.com.tr:10876/;
+# 72FM: https://72fm.com/station/960c1c0e-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Kulturradio
+http://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high
 # 72FM: https://72fm.com/station/962ec7c6-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="Classical" radio="true",Calm Radio - Johann Strauss II
 http://streams.calmradio.com:8328/stream
 # 72FM: https://72fm.com/station/96153188-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",WQXR New York Public Radio 'Operavore' Stream
 http://opera-stream.wqxr.org/operavore-tunein
-# 72FM: https://72fm.com/station/9612e85d-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",NPO Radio 4 - Concerten
-http://icecast.omroep.nl/radio4-eigentijds-mp3
 # 72FM: https://72fm.com/station/4eaf7c6f-8fb0-46a5-858f-2e9337aa2046?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Radio Diblu
 https://streamingecuador.net:9002/stream
+# 72FM: https://72fm.com/station/9612e85d-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",NPO Radio 4 - Concerten
+http://icecast.omroep.nl/radio4-eigentijds-mp3
 # 72FM: https://72fm.com/station/41c8a217-ef9d-4f8f-83ab-8b8d730a1209?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Jordan Radio (Main)
 https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8
@@ -463,24 +463,24 @@ http://wshu.streamguys.org/wshu-baroque
 # 72FM: https://72fm.com/station/960a3d21-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.yourclassical.org/apple-touch-icon.png" group-title="Classical" radio="true",Your Classical - Choral
 http://choral.stream.publicradio.org/choral.mp3
-# 72FM: https://72fm.com/station/80b438a6-537d-468f-b365-1e376289247b?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Prensa Latina
-https://cdn4.onstream.audio:9267/stream
 # 72FM: https://72fm.com/station/f37ed4e9-b930-4ff3-a7c6-a44a96c5877e?source=m3u
 #EXTINF:-1 tvg-logo="https://easy.radio/static/assets/img/apple-icon-120x120.png" group-title="Classical" radio="true",Easy Classical
 https://streaming.exclusive.radio/uber/easyclassical/icecast.audio
+# 72FM: https://72fm.com/station/80b438a6-537d-468f-b365-1e376289247b?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Prensa Latina
+https://cdn4.onstream.audio:9267/stream
 # 72FM: https://72fm.com/station/e6f08fdb-dd41-4dac-a01d-47a3d5c5ac35?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Chinese Music World
 https://radio.chinesemusicworld.com/chinesemusic.ogg
 # 72FM: https://72fm.com/station/0915063c-cb95-49bb-97a2-5ffd35849213?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Radio Caprice - Saxophone
 http://79.120.77.11:8000/saxophone?
-# 72FM: https://72fm.com/station/96263fb7-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Radio Bolivariana FM (HJA94, 92.4 MHz FM, Medellín) Universidad Pontificia Bolivariana
-http://streaming.radiobolivarianavirtual.com:7630/
 # 72FM: https://72fm.com/station/1909f412-f4d4-4edd-9ea2-50a288183ba0?source=m3u
 #EXTINF:-1 tvg-logo="https://ottava.jp/img/common/touch_icon.png" group-title="Classical" radio="true",Ottava
 http://ottava2.out.airtime.pro:8000/ottava2_a
+# 72FM: https://72fm.com/station/96263fb7-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Radio Bolivariana FM (HJA94, 92.4 MHz FM, Medellín) Universidad Pontificia Bolivariana
+http://streaming.radiobolivarianavirtual.com:7630/
 # 72FM: https://72fm.com/station/960fc643-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raars/icons/apple-touch-icon.png" group-title="Classical" radio="true",Ars
 http://mp3.rtvslo.si/ars
@@ -547,24 +547,24 @@ http://stream.rusyn.fm/rusyny-low.mp3
 # 72FM: https://72fm.com/station/faa8e98f-cb42-4e46-9148-71d2ca6e7537?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Erzincan Cem Radyo
 https://erzincan.80.yayin.com.tr/stream
-# 72FM: https://72fm.com/station/fe532813-c79a-4c5d-9dfc-4e8c3f097cee?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",পাকিস্তান
-https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
-# 72FM: https://72fm.com/station/69a0e4de-491e-4481-893f-9a79e1afce67?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",tch
-http://node-01.zeno.fm/bwrw9xcgqeruv
-# 72FM: https://72fm.com/station/ccfd28c8-9f0a-11e9-a787-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Borusan Klasik
-http://22653.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC
-# 72FM: https://72fm.com/station/c3a2ea0a-85ee-4b98-81fd-b75169da9ebd?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Yle Radio1HIFI 256 Kb/s
-http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio
-# 72FM: https://72fm.com/station/7084ad06-e4bc-4088-b6fb-06a77645adc0?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",.Quran radio
-https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
 # 72FM: https://72fm.com/station/2babf29a-811c-4a51-93c3-9f3531ef2e97?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Classic FM Calm
 https://media-ice.musicradio.com/ClassicFMCalmMP3
+# 72FM: https://72fm.com/station/69a0e4de-491e-4481-893f-9a79e1afce67?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",tch
+http://node-01.zeno.fm/bwrw9xcgqeruv
+# 72FM: https://72fm.com/station/fe532813-c79a-4c5d-9dfc-4e8c3f097cee?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",পাকিস্তান
+https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
+# 72FM: https://72fm.com/station/c3a2ea0a-85ee-4b98-81fd-b75169da9ebd?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Yle Radio1HIFI 256 Kb/s
+http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio
+# 72FM: https://72fm.com/station/ccfd28c8-9f0a-11e9-a787-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Borusan Klasik
+http://22653.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC
+# 72FM: https://72fm.com/station/7084ad06-e4bc-4088-b6fb-06a77645adc0?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",.Quran radio
+https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
 # 72FM: https://72fm.com/station/0f49923b-f244-43f7-b451-6be86a1621d5?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allclassical.org/wp-content/themes/acp-theme/img/acp_logo_600x600.jpg" group-title="Classical" radio="true",All Classical Portland
 https://allclassical.streamguys1.com/ac96k
@@ -592,12 +592,12 @@ http://streams.greenhost.nl:8080/gregoriaans
 # 72FM: https://72fm.com/station/209340db-4929-11e8-b1b0-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Radio Suisse Classique
 https://stream.srg-ssr.ch/m/rsc_fr/mp3_128
-# 72FM: https://72fm.com/station/860d8dd4-a532-11e8-abb8-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Klassikradio - Barock
-http://stream.klassikradio.de/barock/mp3-192/www.klassikradio.de/
 # 72FM: https://72fm.com/station/203048eb-cb0c-4f34-b5e8-088ebac3adb1?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w360/q70/12467462.jpeg" group-title="Classical" radio="true",TRT3
 http://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+# 72FM: https://72fm.com/station/860d8dd4-a532-11e8-abb8-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Klassikradio - Barock
+http://stream.klassikradio.de/barock/mp3-192/www.klassikradio.de/
 # 72FM: https://72fm.com/station/9638b3e6-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",181.FM - Classical Music
 https://listen.181fm.com/181-classical_128k.mp3
@@ -607,12 +607,12 @@ http://radyopiryolu.canliyayinda.com:8165/
 # 72FM: https://72fm.com/station/6816e8cd-8b06-4d68-b61f-4d9f54015f95?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",CHOPIN by Epic Piano
 https://stream.epic-piano.com/chopin?ref=radiobrowser
-# 72FM: https://72fm.com/station/69b884ff-8b52-4d18-a3d1-5e6b52b5864a?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Radio Motel
-https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
 # 72FM: https://72fm.com/station/d68b12f5-f510-41f0-ab2c-24f0e1fca577?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",香港电台第一台
 https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+# 72FM: https://72fm.com/station/69b884ff-8b52-4d18-a3d1-5e6b52b5864a?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Radio Motel
+https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
 # 72FM: https://72fm.com/station/0c7c0c0c-5981-440f-bc8a-98530962c191?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKNTfSQ/VIVALDI-NEW.jpg" group-title="Classical" radio="true",0nlineradio VIVALDI
 https://stream.0nlineradio.com/vivaldi?ref=radiobrowser
@@ -688,27 +688,27 @@ http://a5.radioheart.ru:8012/nonstop
 # 72FM: https://72fm.com/station/03fd2da8-fd23-4361-a2f4-b23957fcb2c8?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Zaman al wasl
 http://zamanalwaslradio.out.airtime.pro:8000/zamanalwaslradio_b
-# 72FM: https://72fm.com/station/7627033e-6f42-11e9-af37-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Hi On Line Radio - Classical
-http://mediaserv30.live-streams.nl:8088/live
-# 72FM: https://72fm.com/station/7a27042e-94ef-46aa-835d-dfa408bcca04?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",佳音經典音樂網
-https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8
-# 72FM: https://72fm.com/station/750cbe31-150e-4cd2-8ec5-a6a8a9a7c8b2?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",EPIC CLASSICAL - Classical Piano
-https://stream.epic-classical.com/classical-piano
 # 72FM: https://72fm.com/station/6e1c761e-7446-4243-aa0a-617f11ac4589?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",天籁之音 - 国风
 http://play-radio-stream3.hndt.com/now/UzPxbRaT/chunklist.m3u8
+# 72FM: https://72fm.com/station/7627033e-6f42-11e9-af37-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Hi On Line Radio - Classical
+http://mediaserv30.live-streams.nl:8088/live
+# 72FM: https://72fm.com/station/750cbe31-150e-4cd2-8ec5-a6a8a9a7c8b2?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",EPIC CLASSICAL - Classical Piano
+https://stream.epic-classical.com/classical-piano
+# 72FM: https://72fm.com/station/7a27042e-94ef-46aa-835d-dfa408bcca04?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",佳音經典音樂網
+https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8
 # 72FM: https://72fm.com/station/672e9a6b-d60a-4345-818c-e11ca7ba0f2a?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",KDFC Classical California Ultimate Playlist
 https://16643.live.streamtheworld.com/CC1_S01AAC_96_SC
-# 72FM: https://72fm.com/station/14e9b3f0-748d-417f-8373-b94844c5df38?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",IRIE FM JAMAICA
-http://stream.zeno.fm/6zszyw9tarzuv
 # 72FM: https://72fm.com/station/9d2d1d5c-7cbf-4a15-956f-69f4316f1ec6?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",الإختيارات الفقهية لإبن باز
 https://qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz
+# 72FM: https://72fm.com/station/14e9b3f0-748d-417f-8373-b94844c5df38?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",IRIE FM JAMAICA
+http://stream.zeno.fm/6zszyw9tarzuv
 # 72FM: https://72fm.com/station/9609e140-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300" group-title="Classical" radio="true",Laut.FM Chillharmonie
 https://chillharmonie.stream.laut.fm/chillharmonie
@@ -730,12 +730,12 @@ http://streams.calmradio.com:7528/stream
 # 72FM: https://72fm.com/station/07e6c4b7-b1b5-430b-a7a8-166260a775ee?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8Pcv7T/HA-NDEL-NEW.jpg" group-title="Classical" radio="true",0nlineradio HÄNDEL
 https://stream.0nlineradio.com/haendel?ref=radiobrowser
-# 72FM: https://72fm.com/station/d3639208-37c3-418e-b71b-ffbd0ec512c1?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",EPIC CLASSICAL - Classical Coffee Bar
-https://stream.epic-classical.com/classical-coffee-bar
 # 72FM: https://72fm.com/station/8f3e8cb4-fdc7-4aeb-a17c-2a3a174d09f7?source=m3u
 #EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="Classical" radio="true",Classical Radio - André Rieu
 https://drive.uber.radio/uber/crandrerieu/icecast.audio
+# 72FM: https://72fm.com/station/d3639208-37c3-418e-b71b-ffbd0ec512c1?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",EPIC CLASSICAL - Classical Coffee Bar
+https://stream.epic-classical.com/classical-coffee-bar
 # 72FM: https://72fm.com/station/b6202b76-06b4-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Radio Swiss Classic Italian
 http://stream.srg-ssr.ch/srgssr/rsc_it/aac/96
@@ -769,12 +769,12 @@ http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
 # 72FM: https://72fm.com/station/93e96cb6-a7e5-41e9-bb78-12ba76f222f8?source=m3u
 #EXTINF:-1 tvg-logo="https://theclassicalstation.org/wp-content/themes/nmc_classicalstation/favicon.png" group-title="Classical" radio="true",WCPE TheClassicalStation
 http://audio-ice1.ibiblio.org:8000/wcpe128.aac
-# 72FM: https://72fm.com/station/78571cf1-1aa9-4e65-a456-3cfaffe20a55?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",GHETTOKE KENYA
-http://stream-47.zeno.fm/gf58b0pt5x8uv?zs=9Rb0nsM4TlCJ9aggk8nWAg
 # 72FM: https://72fm.com/station/c1e42f7b-b285-477f-b225-0b070b561822?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Radyo Spor
 https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
+# 72FM: https://72fm.com/station/78571cf1-1aa9-4e65-a456-3cfaffe20a55?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",GHETTOKE KENYA
+http://stream-47.zeno.fm/gf58b0pt5x8uv?zs=9Rb0nsM4TlCJ9aggk8nWAg
 # 72FM: https://72fm.com/station/a0bac84d-1fc3-453e-866c-5a4a864193d9?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Alnas FM
 http://stream.zeno.fm/yawenmfp64zuv
@@ -796,12 +796,12 @@ http://stream.klassikradio.de/tillbroenner/mp3-128/
 # 72FM: https://72fm.com/station/5364572f-d596-4b29-b9f7-db2313f4ff65?source=m3u
 #EXTINF:-1 tvg-logo="https://www.atheer-radio.com/assets/images/atheer-logo.svg" group-title="Classical" radio="true",Sodais
 https://backup.qurango.net/radio/abdulrahman_alsudaes
-# 72FM: https://72fm.com/station/3a2a6c82-76ff-4be6-8628-825d7a0f3296?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",Beat FM
-https://securestreams2.autopo.st:1242/live
 # 72FM: https://72fm.com/station/98b9743e-33a7-435b-9838-17e0bbbd233a?source=m3u
 #EXTINF:-1 tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="Classical" radio="true",Classical Radio - Chicago Symphony Orchestra
 https://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio
+# 72FM: https://72fm.com/station/3a2a6c82-76ff-4be6-8628-825d7a0f3296?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",Beat FM
+https://securestreams2.autopo.st:1242/live
 # 72FM: https://72fm.com/station/b15fcb97-ae3c-11e8-aa67-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Radio Art - Guitar
 http://air-tunein.radioart.com/fGuitar.mp3
@@ -895,12 +895,12 @@ http://live-icy.dr.dk/A/A04H.mp3
 # 72FM: https://72fm.com/station/a2f2b549-d7ab-4aa7-a138-8ba37a62b343?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",Adagio Radio HD
 https://stream.tunerplay.com/radio/8010/adagioradioHD.mp3
-# 72FM: https://72fm.com/station/960ab1c6-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Classical" radio="true",WFMT 98.7 Chicago, IL (MP3)
-http://stream.wfmt.com/main-mp3
 # 72FM: https://72fm.com/station/e847f0b7-4694-4d96-a56a-3bc9543c5705?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/a1/f8/126083/1/c300.png" group-title="Classical" radio="true",Classic FM Essential Classical
 https://icecast.thisisdax.com/ClassicFM-M-Essential
+# 72FM: https://72fm.com/station/960ab1c6-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Classical" radio="true",WFMT 98.7 Chicago, IL (MP3)
+http://stream.wfmt.com/main-mp3
 # 72FM: https://72fm.com/station/c3989383-e624-11e8-a9cc-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Classical" radio="true",ERR Klassikaraadio
 http://icecast.err.ee/klassikaraadio.mp3

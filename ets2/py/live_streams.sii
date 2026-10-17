@@ -1,9 +1,9 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 13
+ stream_data: 12
  stream_data[0]: "http://stream.zeno.fm/z07vyxbqz8quv|RADIO VALLENATOS CLASICOS|Various|SPA|320|0"
- stream_data[1]: "http://sc.abc.com.py:8000/stream|Radio ABC Cardinal 730 AM|News|SPA|32|0"
+ stream_data[1]: "http://sc.abc.com.py:8000/stream|Radio ABC Cardinal 730 AM|News|SPA|128|0"
  stream_data[2]: "http://stream.zeno.fm/hvnh6d5uebruv|RADIO EXITOS DE AYER|Various|ENG|128|0"
  stream_data[3]: "http://audio.radionacional.gov.py:8085/920|Radio Nacional del Paraguay 920 AM|Full service|GUA|128|0"
  stream_data[4]: "http://dreamsiteradiocp.com:8090/stream|RADIO MARIA PARAGUAY|Catholic|PY|128|0"
@@ -11,10 +11,9 @@ live_stream_def : .live_streams {
  stream_data[6]: "http://rps1.radiopop.com.py:8000/stream|Radio Pop 93.3 FM|Latino|ENC|128|0"
  stream_data[7]: "http://200.3.249.91:8000/abcradio/fm.mp3|Radio ABC FM 98.5|Pop|ASU|128|0"
  stream_data[8]: "https://s17.ssl-stream.com/proxy/obedira?mp=/live|Radio OBEDIRA Online|Various|PY|128|0"
- stream_data[9]: "http://media.streambrothers.com:18342/stream|ABC Cardinal 730AM|News|SPA|64|0"
- stream_data[10]: "http://135.181.103.10:8018/stream|Radio Cerro Cora 91.5 FM|Dance|SPA|128|0"
- stream_data[11]: "https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9|Radio Arasuncion|Ai radio|PY|320|0"
- stream_data[12]: "https://stream.zeno.fm/9wxcnjd0dievv|Golden Classic Radio PY|Various|SPA|128|0"
+ stream_data[9]: "http://135.181.103.10:8018/stream|Radio Cerro Cora 91.5 FM|Dance|SPA|128|0"
+ stream_data[10]: "https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9|Radio Arasuncion|Ai radio|PY|320|0"
+ stream_data[11]: "https://stream.zeno.fm/9wxcnjd0dievv|Golden Classic Radio PY|Various|SPA|128|0"
 }
 
 }

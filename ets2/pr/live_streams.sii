@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 28
+ stream_data: 29
  stream_data[0]: "http://68.235.35.243:9027/;stream.mp3|WUNO 630 'Noti Uno' San Juan|Information|SPA|64|0"
  stream_data[1]: "http://s1.voscast.com:9906/;stream1523840050300/1|Radio Casa Pueblo|Community news|SPA|48|0"
  stream_data[2]: "https://server7.servistreaming.com/proxy/hot?mp=%2Fstream%3Ftype%3D.mp3&_=1|Hot 102|Mainstream|ENG|96|0"
@@ -17,7 +17,7 @@ live_stream_def : .live_streams {
  stream_data[12]: "https://cast.miradio.in/proxy/radiotropical/stream|RADIO TROPICAL PR|Various|PR|128|0"
  stream_data[13]: "https://cast4.my-control-panel.com/proxy/elpozosalsa/;|Radio Pozo de la Salsa|Various|PR|128|0"
  stream_data[14]: "https://radioatenas-webctgena.radioca.st/stream|Radio Atenas 1500 AM|Various|SPA|128|0"
- stream_data[15]: "https://15113.live.streamtheworld.com/SAM05AAC459_SC|WRPG-DB Pura Gracia|Cristiana|ESP|128|0"
+ stream_data[15]: "https://26343.live.streamtheworld.com/SAM05AAC459_SC|WRPG-DB Pura Gracia|Cristiana|ESP|128|0"
  stream_data[16]: "https://sp.unoredcdn.net/8158/stream|Cumbre 1470 AM - 106.3 FM|Entretenimiento|SPA|128|0"
  stream_data[17]: "http://s3.voscast.com:7720/;stream1726930102886/1|Vid 90|Various|PR|128|0"
  stream_data[18]: "https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3|OldiVille|70 80 hits|AME|128|0"
@@ -26,10 +26,11 @@ live_stream_def : .live_streams {
  stream_data[21]: "https://server7.servistreaming.com/proxy/fidelity?_=1&mp=/stream?type=.mp3|Fidelity 95.7|Various|PR|128|0"
  stream_data[22]: "https://listen.radioking.com/radio/418162/stream/471250?n=1|Isla Rock|Rock en espanol|SPA|128|0"
  stream_data[23]: "https://server7.servistreaming.com/proxy/radioisla?mp=/stream?type=.mp3&_=1|Radio Isla 1320 AM (WSKN 1320 AM)|Various|PR|128|0"
- stream_data[24]: "https://das-edge62-live365-dal03.cdnstream.com/a59816|Caribe Clasico|Various|PR|128|0"
- stream_data[25]: "http://panel.laondatropikal.com/listen/la_onda_caribe_jazz/radio.mp3|La Onda Caribe Jazz|Various|PR|192|0"
- stream_data[26]: "https://streams.proftsc.com/listen/woro/woro.mp3|PR Radio Oro|Various|PR|128|0"
- stream_data[27]: "https://wrtustream.uprrp.edu/listen.mp3|PR - Radio Universidad UPR Rio Piedras|Various|ESP|96|0"
+ stream_data[24]: "https://15113.live.streamtheworld.com/SAM05AAC459_SC|Pura Gracia Radio WRPG-DB|Christian music|SPA|128|0"
+ stream_data[25]: "https://das-edge62-live365-dal03.cdnstream.com/a59816|Caribe Clasico|Various|PR|128|0"
+ stream_data[26]: "http://panel.laondatropikal.com/listen/la_onda_caribe_jazz/radio.mp3|La Onda Caribe Jazz|Various|PR|192|0"
+ stream_data[27]: "https://streams.proftsc.com/listen/woro/woro.mp3|PR Radio Oro|Various|PR|128|0"
+ stream_data[28]: "https://wrtustream.uprrp.edu/listen.mp3|PR - Radio Universidad UPR Rio Piedras|Various|ESP|96|0"
 }
 
 }

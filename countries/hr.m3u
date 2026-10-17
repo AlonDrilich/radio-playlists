@@ -66,7 +66,7 @@ http://shoutcast.pondi.hr:8002/;*.mp3
 http://c5.hostingcentar.com:8275/stream
 # 72FM: https://72fm.com/station/961e9c8c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT Radio Sljeme
-http://27753.live.streamtheworld.com/SLJEMEAAC_SC
+http://25443.live.streamtheworld.com:3690/SLJEMEAAC_SC
 # 72FM: https://72fm.com/station/e1c36a3b-608a-4141-a03b-53edb7d6ba5d?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",..:: CLUB MUSIC RADIO ::....:: 70s 80s 90s ::..
 http://cmr-hosting.com:8030/stream?type=http&nocache=773949
@@ -87,7 +87,7 @@ http://naxidigital-house128.streaming.rs:8000/
 http://live.radio101.hr:9531/stream.mp3
 # 72FM: https://72fm.com/station/964939e3-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT HR 1 - Prvi program
-http://28513.live.streamtheworld.com/PROGRAM1_SC
+http://28503.live.streamtheworld.com:3690/PROGRAM1_SC
 # 72FM: https://72fm.com/station/2b9512c9-375c-46ab-b28f-ef7c83c69ea3?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ" group-title="Croatia" radio="true",bravo!
 http://c5.hostingcentar.com:8059/stream?4960
@@ -105,7 +105,7 @@ https://stream.otvoreni.hr/stream48
 http://s8.iqstreaming.com:8066/stream
 # 72FM: https://72fm.com/station/961d03f2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT Radio Rijeka
-http://25643.live.streamtheworld.com:3690/RIJEKAAAC_SC
+http://27943.live.streamtheworld.com:3690/RIJEKAAAC_SC
 # 72FM: https://72fm.com/station/961bd30f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT HR 3 - Treći program
 http://22183.live.streamtheworld.com:3690/PROGRAM3AAC_SC
@@ -126,22 +126,22 @@ https://s8.iqstreaming.com:2020/stream/zagorski/stream
 http://stream.zeno.fm/yetzdv442k8uv
 # 72FM: https://72fm.com/station/960e8b7b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT Radio Split
-http://25603.live.streamtheworld.com:3690/SPLITAAC_SC
+http://25443.live.streamtheworld.com:3690/SPLITAAC_SC
 # 72FM: https://72fm.com/station/9625ab4e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Antena Zagreb Hit
 http://live.antenazagreb.hr:8011/
-# 72FM: https://72fm.com/station/ea27ccc6-affb-4264-a54f-e7b791f31088?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Slavonski Radio
-https://ec2s.crolive.com.hr:8035/stream
-# 72FM: https://72fm.com/station/08edf6a5-e15a-11e8-a9cc-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Radio Slavonija
-http://s8.iqstreaming.com:8026/stream
 # 72FM: https://72fm.com/station/d2f49a4a-54e3-4059-8f5c-2120962ae81e?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Otvoreni Radio - Fitness
 https://stream.otvoreni.hr/fitness
+# 72FM: https://72fm.com/station/08edf6a5-e15a-11e8-a9cc-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Radio Slavonija
+http://s8.iqstreaming.com:8026/stream
+# 72FM: https://72fm.com/station/ea27ccc6-affb-4264-a54f-e7b791f31088?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Slavonski Radio
+https://ec2s.crolive.com.hr:8035/stream
 # 72FM: https://72fm.com/station/961f670f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT Radio Pula
-http://25693.live.streamtheworld.com/PULAAAC_SC
+http://25703.live.streamtheworld.com:3690/PULAAAC_SC
 # 72FM: https://72fm.com/station/a9254884-ff90-11e8-a1be-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Gold FM
 http://live.goldfm.hr:8068/
@@ -196,12 +196,12 @@ http://c5.hostingcentar.com:8000/streams/topradio/
 # 72FM: https://72fm.com/station/e5a8ffd5-58c7-453a-b286-1197a6b317ad?source=m3u
 #EXTINF:-1 tvg-logo="https://radiomax.hr/wp-content/uploads/2025/02/cropped-logo350x100-protizrni-768x256.png" group-title="Croatia" radio="true",Radio Max
 https://azuracast.novi-net.net/radio/8010/radiomax.aac
-# 72FM: https://72fm.com/station/baceda46-01d3-485e-8026-cbbc3c4687b2?source=m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Narodni_Logo_2.png" group-title="Croatia" radio="true",Narodni - Uživo
-http://c5.hostingcentar.com:8059/;
 # 72FM: https://72fm.com/station/94ec1212-bbd5-45fe-ae26-3f107c5c18c0?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KEAX5uaryr.png" group-title="Croatia" radio="true",Folk Radio Kneginec
 https://stream.zeno.fm/yetzdv442k8uv
+# 72FM: https://72fm.com/station/baceda46-01d3-485e-8026-cbbc3c4687b2?source=m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Narodni_Logo_2.png" group-title="Croatia" radio="true",Narodni - Uživo
+http://c5.hostingcentar.com:8059/;
 # 72FM: https://72fm.com/station/761a166b-0350-48f0-a503-edb1a227233f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.folkyton.com/index_htm_files/292@2x.png" group-title="Croatia" radio="true",FolkyTon Radio
 https://ec2s.crolive.com.hr:6035/stream
@@ -216,7 +216,7 @@ http://stream.otvoreni.hr/fitness
 http://live.antenazagreb.hr:8015/
 # 72FM: https://72fm.com/station/961d3c6b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT Radio Dubrovnik
-http://29053.live.streamtheworld.com/DUBROVNIKAAC_SC
+http://29344.live.streamtheworld.com:3690/DUBROVNIKAAC_SC
 # 72FM: https://72fm.com/station/07d9f25e-b643-459b-a816-65b788628f96?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Radio Sova
 http://evcast.mediacp.eu:1960/stream
@@ -235,27 +235,27 @@ http://stream2.otvoreni.hr/fitness
 # 72FM: https://72fm.com/station/2cd4de45-a896-47a4-9443-7553405c353b?source=m3u
 #EXTINF:-1 tvg-logo="https://clubmusic-1.com/favicon.ico" group-title="Croatia" radio="true",..:: CLUB MUSIC RADIO ::....:: CRO HITS ::..
 http://cmr-hosting.com:8060/stream?type=http&nocache=823456
-# 72FM: https://72fm.com/station/b233072c-f994-403f-84ff-11cc258b2f19?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Radio Istra
-http://uk1.streamingpulse.com:7117/stream
 # 72FM: https://72fm.com/station/38dba53f-b60a-4dac-bf3a-40c2f5878847?source=m3u
 #EXTINF:-1 tvg-logo="https://zfm.hr/wp-content/uploads/2020/01/LOGO-2019-MINI.png" group-title="Croatia" radio="true",ZFM
 https://ec2s.crolive.com.hr:7015/stream
+# 72FM: https://72fm.com/station/b233072c-f994-403f-84ff-11cc258b2f19?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Radio Istra
+http://uk1.streamingpulse.com:7117/stream
 # 72FM: https://72fm.com/station/2efbb8fa-330c-403b-aa71-90f64fe175ec?source=m3u
 #EXTINF:-1 tvg-logo="https://radio101.hr/favicon.ico" group-title="Croatia" radio="true",Radio 101 Rock
 https://live.radio101.hr:8010/
 # 72FM: https://72fm.com/station/261be74b-ec3c-4327-bba1-01ac505d556e?source=m3u
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radio.rojc.eu/wp-content/uploads/2023/08/radio-rojc-frekvencija-logo-4-1-3.png" group-title="Croatia" radio="true",Radio Rojc
 https://cf.widecastcdn.live/Z07ww1NUNl/live.m3u8
+# 72FM: https://72fm.com/station/1e945232-2289-4e1b-9e31-79f21ec3d466?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",TOP ROCK
+http://116.202.235.114:8408/
 # 72FM: https://72fm.com/station/cce535eb-a691-43a2-8e0f-094b6dad73b8?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",..:: CLUB MUSIC RADIO ::....:: Folk ::..
 http://cmr-hosting.com:8010/stream?type=http&nocache=401572
 # 72FM: https://72fm.com/station/0d387023-d6cf-4478-9566-c166f4d3a29d?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiomarija.hr/templates/t3_bs3_blank/favicon.ico" group-title="Croatia" radio="true",Radio Marija Hrvatska
 https://dreamsiteradiocp2.com/proxy/rmcroatia?mp=/stream
-# 72FM: https://72fm.com/station/1e945232-2289-4e1b-9e31-79f21ec3d466?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",TOP ROCK
-http://116.202.235.114:8408/
 # 72FM: https://72fm.com/station/72b0ac2f-7ca0-4499-9935-42f8e9a9e699?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",KLFM.org
 https://klfmorgborg.radioca.st/stream?type=http&nocache=1089
@@ -300,25 +300,25 @@ http://cmr-hosting.com:8070/stream?type=http&nocache=646624
 http://c5.hostingcentar.com:8390/
 # 72FM: https://72fm.com/station/961da4c8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT Radio Osijek
-http://23613.live.streamtheworld.com/OSIJEKAAC_SC
-# 72FM: https://72fm.com/station/e099c756-d6e5-4970-8277-d0071f6e65d7?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Radio DJ Grga
-http://cmr-hosting.com:8430/stream?type=http&nocache=343
+http://25453.live.streamtheworld.com:3690/OSIJEKAAC_SC
 # 72FM: https://72fm.com/station/4ed94922-94cf-4d28-87b9-2f13c1d40548?source=m3u
 #EXTINF:-1 tvg-logo="https://www.zgportal.com/wp-content/uploads/2022/11/happy-fm-radio-sa-srcem-i-tijelom-2022.jpg" group-title="Croatia" radio="true",Happy FM Klape
 http://c5.hostingcentar.com:8384/stream?8802
+# 72FM: https://72fm.com/station/e099c756-d6e5-4970-8277-d0071f6e65d7?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Radio DJ Grga
+http://cmr-hosting.com:8430/stream?type=http&nocache=343
 # 72FM: https://72fm.com/station/96183c5c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT Glas Hrvatske
-http://23543.live.streamtheworld.com/VOICEOFCROATIAAAC_SC
+http://29341.live.streamtheworld.com:3690/VOICEOFCROATIAAAC_SC
+# 72FM: https://72fm.com/station/8ca1441f-fe5d-4d96-89fb-02caf1fa4f78?source=m3u
+#EXTINF:-1 tvg-logo="https://extrafm.hr/sw-content/themes/sw/img/extrafm-2.png" group-title="Croatia" radio="true",EXTRA FM
+http://streams.extrafm.hr:8110/stream?2701
 # 72FM: https://72fm.com/station/bd003058-619d-443e-ade2-4e95d191dab3?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Club Music Radio - ITALO DISCO
 https://cmr-hosting.com:7005/;stream/1
 # 72FM: https://72fm.com/station/08d2313f-5550-4e51-8179-bd2c066d7e2e?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Club Music Radio - 70's 80's 90's
 https://cmr-hosting.com:7003/;stream/1
-# 72FM: https://72fm.com/station/8ca1441f-fe5d-4d96-89fb-02caf1fa4f78?source=m3u
-#EXTINF:-1 tvg-logo="https://extrafm.hr/sw-content/themes/sw/img/extrafm-2.png" group-title="Croatia" radio="true",EXTRA FM
-http://streams.extrafm.hr:8110/stream?2701
 # 72FM: https://72fm.com/station/9626f758-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Antena Zagreb Love
 http://live.antenazagreb.hr:8007/
@@ -340,21 +340,21 @@ http://s8.iqstreaming.com:8054/stream
 # 72FM: https://72fm.com/station/0aa9f85f-436b-11e9-aa55-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HKR
 http://stream.hkr.hr:8000/hkr.mp3
-# 72FM: https://72fm.com/station/9baa9e63-acb8-414d-a833-74b2cbbd75e8?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Rovinj FM
-http://rovinj.fm:8000/
 # 72FM: https://72fm.com/station/bc725fa2-d147-4786-a518-6a0c1624c907?source=m3u
 #EXTINF:-1 tvg-logo="https://topradio.hr/favicon.ico" group-title="Croatia" radio="true",Top Radio Yugo
 https://audio.social3.hr/listen/top_exyu/stream?8298
-# 72FM: https://72fm.com/station/3eba933a-a037-447b-b3ca-ffeb8ca90b08?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Radio Križevci
-https://s8.iqstreaming.com:8048/stream
+# 72FM: https://72fm.com/station/9baa9e63-acb8-414d-a833-74b2cbbd75e8?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Rovinj FM
+http://rovinj.fm:8000/
 # 72FM: https://72fm.com/station/b2d03353-d3c5-41fc-9b88-b64c971e46f2?source=m3u
 #EXTINF:-1 tvg-logo="https://happyfm.hr/apple-touch-icon.png" group-title="Croatia" radio="true",Happy FM - Legenda
 http://c5.hostingcentar.com:8396/
+# 72FM: https://72fm.com/station/3eba933a-a037-447b-b3ca-ffeb8ca90b08?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Radio Križevci
+https://s8.iqstreaming.com:8048/stream
 # 72FM: https://72fm.com/station/b19f2749-9c66-48ac-b3ae-a6bfd05030ae?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/klasik.jpg" group-title="Croatia" radio="true",Hrvatski radio - Klasik
-http://22653.live.streamtheworld.com/HR_CLASSICS_SC
+http://27783.live.streamtheworld.com:3690/HR_CLASSICS_SC
 # 72FM: https://72fm.com/station/a9d9f810-295b-4f59-826b-b64fe08086c2?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Happy FM - Tambura
 http://c5.hostingcentar.com:8378/
@@ -421,18 +421,18 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
 # 72FM: https://72fm.com/station/087085f9-49cb-4c69-abd3-3fd670cca1dd?source=m3u
 #EXTINF:-1 tvg-logo="https://karlovacki.hr/wp-content/uploads/2022/11/cropped-favicon-180x180.png" group-title="Croatia" radio="true",Hrvatski radio Karlovac
 http://s8.iqstreaming.com:8002/
-# 72FM: https://72fm.com/station/792910cd-b27d-4e4c-9991-a6094d4c6c1a?source=m3u
-#EXTINF:-1 tvg-logo="https://www.zgportal.com/wp-content/uploads/2022/11/happy-fm-radio-sa-srcem-i-tijelom-2022.jpg" group-title="Croatia" radio="true",Happy FM Legenda
-http://c5.hostingcentar.com:8396/stream?8550
 # 72FM: https://72fm.com/station/db69a045-828c-4b1c-ba78-5382933a9c52?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",TOP GOLD
 http://116.202.235.114:8414/
-# 72FM: https://72fm.com/station/961f5517-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",HRT Radio Knin
-http://25553.live.streamtheworld.com:3690/KNINAAC_SC
+# 72FM: https://72fm.com/station/792910cd-b27d-4e4c-9991-a6094d4c6c1a?source=m3u
+#EXTINF:-1 tvg-logo="https://www.zgportal.com/wp-content/uploads/2022/11/happy-fm-radio-sa-srcem-i-tijelom-2022.jpg" group-title="Croatia" radio="true",Happy FM Legenda
+http://c5.hostingcentar.com:8396/stream?8550
 # 72FM: https://72fm.com/station/76ca4ca5-20aa-4015-9825-7fd035dfb077?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Top Radio Rock
 https://audio.social3.hr/listen/top_radio_rock/stream?7435
+# 72FM: https://72fm.com/station/961f5517-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",HRT Radio Knin
+http://21633.live.streamtheworld.com:3690/KNINAAC_SC
 # 72FM: https://72fm.com/station/e79c20d6-1207-4fe8-9f0d-83f0411a48b0?source=m3u
 #EXTINF:-1 tvg-logo="https://radiong.hr/wp-content/uploads/2015/10/cropped-logo-180x180.png" group-title="Croatia" radio="true",Radio Nova Gradiška
 http://comet.shoutca.st:8050/
@@ -451,15 +451,15 @@ https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=167676657470
 # 72FM: https://72fm.com/station/d19ffbcd-0e72-4d25-a2e4-b4de50883e1d?source=m3u
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Croatia" radio="true",Radio Vinkovci
 https://onlineradiobox.com/json/hr/vinkovci/play?platform=web
-# 72FM: https://72fm.com/station/20e1f99e-8090-4f51-bc57-42752922a10a?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiodalmacija.hr/favicon.ico" group-title="Croatia" radio="true",Radio Dalmacija - Hajdučke
-http://c5.hostingcentar.com:8221/stream
 # 72FM: https://72fm.com/station/297d7c8c-caaf-4630-8869-2d8070ae76d5?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.cmc.com.hr/favicon.ico" group-title="Croatia" radio="true",CMC Radio
 https://radio-stream.cmc.com.hr:9011/live
 # 72FM: https://72fm.com/station/46323be7-02f1-49e0-899a-2177046fcdb3?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Top Radio Gold
 https://audio.social3.hr/listen/top_radio_gold/stream?7802
+# 72FM: https://72fm.com/station/20e1f99e-8090-4f51-bc57-42752922a10a?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiodalmacija.hr/favicon.ico" group-title="Croatia" radio="true",Radio Dalmacija - Hajdučke
+http://c5.hostingcentar.com:8221/stream
 # 72FM: https://72fm.com/station/1a1451d5-ffb0-4cc5-92d4-62023d19f3e5?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8" group-title="Croatia" radio="true",Otvoreni Love
 https://stream2.otvoreni.hr/love
@@ -520,39 +520,39 @@ http://c5.hostingcentar.com:8354/;
 # 72FM: https://72fm.com/station/59789869-2545-49c2-bb06-5e6f3246fe39?source=m3u
 #EXTINF:-1 tvg-logo="https://www.pomorskiradio.hr/wp-content/uploads/2021/12/prb_novi_logo_horiz-1-scaled-e1639421254142-1024x243.jpg" group-title="Croatia" radio="true",Pomorski Radio Bakar
 http://matrix-server.hr:8010/live.mp3
-# 72FM: https://72fm.com/station/157bb662-814f-462d-8ab5-a6bef938dde2?source=m3u
-#EXTINF:-1 tvg-logo="https://takenupload.com/faviconjutawan" group-title="Croatia" radio="true",Radio Orahovica
-https://ec2s.crolive.com.hr:2595/stream
 # 72FM: https://72fm.com/station/0641ad9b-6935-4a1b-a406-d34971a09565?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="Croatia" radio="true",Radio Otocac
 http://s8.iqstreaming.com:8024/stream
+# 72FM: https://72fm.com/station/157bb662-814f-462d-8ab5-a6bef938dde2?source=m3u
+#EXTINF:-1 tvg-logo="https://takenupload.com/faviconjutawan" group-title="Croatia" radio="true",Radio Orahovica
+https://ec2s.crolive.com.hr:2595/stream
 # 72FM: https://72fm.com/station/12ebc143-6d72-42db-89b4-3610f97c9409?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Radio Marija Bistrica
 http://178.218.163.171:8024/stream
 # 72FM: https://72fm.com/station/b5a95956-8349-42cc-8b07-d73b5f8d4122?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.hrt.hr/static/pop.jpg" group-title="Croatia" radio="true",Hrvatski radio - Pop glazba
-http://22653.live.streamtheworld.com:3690/HR_POP_SC
+http://29339.live.streamtheworld.com/HR_POP_SC
 # 72FM: https://72fm.com/station/96194660-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Radio Quirinus 91.7
 http://s8.iqstreaming.com:8064/stream
+# 72FM: https://72fm.com/station/ae9f57bd-2efd-43ed-95ec-89b4c7aafbe8?source=m3u
+#EXTINF:-1 tvg-logo="https://aviion-frontcdn.aviion.tv/epg/Rockradio.jpg" group-title="Croatia" radio="true",Hrvatski radio - Rock
+http://23623.live.streamtheworld.com:3690/HR_ROCK_SC
 # 72FM: https://72fm.com/station/e2fa4b5e-6cff-4970-a80b-2bed74e08876?source=m3u
 #EXTINF:-1 tvg-logo="https://www.italo-disco.net/Pictures/JPG/Hearticon.jpg" group-title="Croatia" radio="true",Radio Italo Disco Net
 http://65.21.202.84:8356/stream
-# 72FM: https://72fm.com/station/ae9f57bd-2efd-43ed-95ec-89b4c7aafbe8?source=m3u
-#EXTINF:-1 tvg-logo="https://aviion-frontcdn.aviion.tv/epg/Rockradio.jpg" group-title="Croatia" radio="true",Hrvatski radio - Rock
-http://23623.live.streamtheworld.com/HR_ROCK_SC
 # 72FM: https://72fm.com/station/96242d53-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Krugoval
 http://144.76.172.23:7043/
 # 72FM: https://72fm.com/station/96235f09-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Obiteljski Radio Ivanić
 http://s8.iqstreaming.com:8080/stream
-# 72FM: https://72fm.com/station/08a81254-0bf7-40c2-844b-304f22717236?source=m3u
-#EXTINF:-1 tvg-logo="https://images.keepone.net/1725392485-2024-09-03.png" group-title="Croatia" radio="true",Drama radio Dubrovnik
-https://listen.radioking.com/radio/626884/stream/689500
 # 72FM: https://72fm.com/station/8fdb8b17-026d-44c9-9252-315e7797e5c5?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Happy FM - Fest
 http://c5.hostingcentar.com:8372/
+# 72FM: https://72fm.com/station/08a81254-0bf7-40c2-844b-304f22717236?source=m3u
+#EXTINF:-1 tvg-logo="https://images.keepone.net/1725392485-2024-09-03.png" group-title="Croatia" radio="true",Drama radio Dubrovnik
+https://listen.radioking.com/radio/626884/stream/689500
 # 72FM: https://72fm.com/station/0fa73e1e-18bc-4a56-9a04-794676e2ea05?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/ios_favicon.png" group-title="Croatia" radio="true",Radio Media Servis
 http://live.mediaservis.hr:8084/stream?type=http&nocache=557757
@@ -571,30 +571,30 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3
 # 72FM: https://72fm.com/station/7ff9de35-24c2-4af8-b29e-94773d9c44b2?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/47297.v2.png" group-title="Croatia" radio="true",Radio 92 FM
 https://onlineradiobox.com/json/hr/92fm/play?platform=web
-# 72FM: https://72fm.com/station/727f41c0-b68b-4b8c-9384-b35854eac4ef?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Radio Prkos
-http://eu7.fastcast4u.com:6124/stream
-# 72FM: https://72fm.com/station/519f97cd-4cc9-4f19-ad77-654bc0676821?source=m3u
-#EXTINF:-1 tvg-logo="https://www.poslovnifm.com/favicon.ico" group-title="Croatia" radio="true",Poslovni FM
-https://ec2s.crolive.com.hr:2665/stream
 # 72FM: https://72fm.com/station/cf16320d-d519-431e-b972-93e691cce9ab?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Tamburaški radio
 https://listen.radioking.com/radio/552965/stream/612287
+# 72FM: https://72fm.com/station/519f97cd-4cc9-4f19-ad77-654bc0676821?source=m3u
+#EXTINF:-1 tvg-logo="https://www.poslovnifm.com/favicon.ico" group-title="Croatia" radio="true",Poslovni FM
+https://ec2s.crolive.com.hr:2665/stream
+# 72FM: https://72fm.com/station/727f41c0-b68b-4b8c-9384-b35854eac4ef?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Radio Prkos
+http://eu7.fastcast4u.com:6124/stream
 # 72FM: https://72fm.com/station/a4918d66-9b48-468f-909b-aec802d25032?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8=w240-h480-rw" group-title="Croatia" radio="true",Otvoreni Radio
 http://stream2.otvoreni.hr/otvoreni
 # 72FM: https://72fm.com/station/08a24a45-2901-4c8e-89ee-c5f88d504643?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Cro International DJ Radio
 http://stream.zeno.fm/t47dykadrchvv
-# 72FM: https://72fm.com/station/3981699f-44b0-41cd-88c8-5dbaf0a2f831?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",https://clubmusic-1.com/
-http://cmr-hosting.com:8050/stream?type=http&nocache=5796
-# 72FM: https://72fm.com/station/311b357a-fd6a-483e-969d-cc8985e05413?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Hrvatski Radio Čakovec d.o.o. Stream
-http://live.radio-cakovec.hr:7020/stream
 # 72FM: https://72fm.com/station/5e2c1b37-c1f2-4931-8c0d-53cc7fdd09d8?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",RADIO KASTAV
 http://proxima.shoutca.st:8559/stream
+# 72FM: https://72fm.com/station/311b357a-fd6a-483e-969d-cc8985e05413?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Hrvatski Radio Čakovec d.o.o. Stream
+http://live.radio-cakovec.hr:7020/stream
+# 72FM: https://72fm.com/station/3981699f-44b0-41cd-88c8-5dbaf0a2f831?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",https://clubmusic-1.com/
+http://cmr-hosting.com:8050/stream?type=http&nocache=5796
 # 72FM: https://72fm.com/station/90d73285-1813-43e2-bbf4-7e1607217f85?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Club Music Radio - TAMBURA
 https://cmr-hosting.com:7007/;stream/1
@@ -616,18 +616,18 @@ https://chopin.bizmusic.net/radio/8030/radio.mp3
 # 72FM: https://72fm.com/station/c5dce470-a681-4130-86fd-66e000dc120e?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Radio Baranja
 https://s8.iqstreaming.com:2020/stream/radio_baranja/stream
-# 72FM: https://72fm.com/station/7f7b7a79-b12e-4f38-8935-33da6580cf58?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Radio Korčula 107,5FM
-http://shoutcast.pondi.hr:8005/;
 # 72FM: https://72fm.com/station/09415945-dad1-45e2-94e1-f20049c9804d?source=m3u
 #EXTINF:-1 tvg-logo="https://demo.superdsgn.com/radio-centar/img/logo2.png" group-title="Croatia" radio="true",Radio Centar - Studio Poreč
 http://radiocentar.hr:8282/stream.aac
-# 72FM: https://72fm.com/station/059ac536-2d21-45d1-8342-506c5a6d0326?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Radio Krka
-http://cmr-hosting.com/9700/stream
+# 72FM: https://72fm.com/station/7f7b7a79-b12e-4f38-8935-33da6580cf58?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Radio Korčula 107,5FM
+http://shoutcast.pondi.hr:8005/;
 # 72FM: https://72fm.com/station/695f181f-f20d-444c-b4c2-7a1edfc6fb63?source=m3u
 #EXTINF:-1 tvg-logo="https://radiosibenik.hr/wp-content/uploads/2019/08/radio_sibenik_logo_2a-mali.png" group-title="Croatia" radio="true",Županijski Radio Šibenik
 http://144.76.219.22:8215/stream.mp3
+# 72FM: https://72fm.com/station/059ac536-2d21-45d1-8342-506c5a6d0326?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Radio Krka
+http://cmr-hosting.com/9700/stream
 # 72FM: https://72fm.com/station/46400731-47b8-4e4b-853e-bd8fabb06b87?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Karlovac Grill Mix radio
 http://s8.iqstreaming.com:8006/stream
@@ -679,30 +679,33 @@ http://sky.doscast.com:8331/stream?
 # 72FM: https://72fm.com/station/c64c83f7-49f8-4c84-8323-288c6fbcf007?source=m3u
 #EXTINF:-1 tvg-logo="https://prolaznik.com/radio/wp-content/uploads/2026/01/cropped-Ploca-515-32x32.png%22" group-title="Croatia" radio="true",Prolaznik Evergreen Lepoglava
 https://s8.ssl-stream.com/prolaznik
-# 72FM: https://72fm.com/station/f5657e54-282b-4b3f-943f-347127108768?source=m3u
-#EXTINF:-1 tvg-logo="https://radiomax.hr/wp-content/uploads/2025/02/cropped-logo350x100-protizrni-768x256.png" group-title="Croatia" radio="true",Radio Max
-https://azuracast.novi-net.net/listen/radiomax/radiomax.mp3
 # 72FM: https://72fm.com/station/e50ad827-fc7b-4230-84f5-46c9298347c0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hrv89.hr/images/logo.png" group-title="Croatia" radio="true",HRVATSKI RADIO VALPOVŠTINA
 http://s8.iqstreaming.com:8068/stream
+# 72FM: https://72fm.com/station/f5657e54-282b-4b3f-943f-347127108768?source=m3u
+#EXTINF:-1 tvg-logo="https://radiomax.hr/wp-content/uploads/2025/02/cropped-logo350x100-protizrni-768x256.png" group-title="Croatia" radio="true",Radio Max
+https://azuracast.novi-net.net/listen/radiomax/radiomax.mp3
 # 72FM: https://72fm.com/station/f430b56d-3b8c-4e15-bfc9-89ee06dbcfc0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.unist.hr/img/favicon/favicon-16x16.png" group-title="Croatia" radio="true",Radio Kampus
 https://audio.alter-media.hr:7016/stream
 # 72FM: https://72fm.com/station/ad0e86a3-bc0b-4edb-b836-131840f99c5e?source=m3u
 #EXTINF:-1 tvg-logo="https://radio-slunj.hr/wp-content/uploads/2025/01/logo1.png" group-title="Croatia" radio="true",Radio Slunj
 http://s8.iqstreaming.com:8070/
-# 72FM: https://72fm.com/station/c65436db-e6b8-425f-b925-0396b056ea89?source=m3u
-#EXTINF:-1 tvg-logo="https://radio.hrt.hr/hrt-180x180.png" group-title="Croatia" radio="true",Hrvatski radio - Klasik (HRT)
-http://28933.live.streamtheworld.com:3690/HR_CLASSICSAAC_SC
 # 72FM: https://72fm.com/station/39cbaf46-82a7-41e0-8406-4d54ecb79146?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Radio Student
 http://stream.radiostudent.hr/audio
-# 72FM: https://72fm.com/station/60ba0181-cb84-4337-b1bb-d07fbf046da3?source=m3u
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/sc9q8tdgn64n.jpg" group-title="Croatia" radio="true",CITY RADIO
-http://s8.iqstreaming.com:8058/stream
+# 72FM: https://72fm.com/station/c65436db-e6b8-425f-b925-0396b056ea89?source=m3u
+#EXTINF:-1 tvg-logo="https://radio.hrt.hr/hrt-180x180.png" group-title="Croatia" radio="true",Hrvatski radio - Klasik (HRT)
+http://28513.live.streamtheworld.com:3690/HR_CLASSICSAAC_SC
 # 72FM: https://72fm.com/station/6a79b8c7-92be-4b26-95f2-939f2af00d95?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Happy FM
 http://c5.hostingcentar.com:8072/
+# 72FM: https://72fm.com/station/60ba0181-cb84-4337-b1bb-d07fbf046da3?source=m3u
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/sc9q8tdgn64n.jpg" group-title="Croatia" radio="true",CITY RADIO
+http://s8.iqstreaming.com:8058/stream
+# 72FM: https://72fm.com/station/684e0b7e-bd37-4176-9d6d-bae63e3fc1ae?source=m3u
+#EXTINF:-1 tvg-logo="https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-HR.png" group-title="Croatia" radio="true",REPLAY NEWS - Hrvatski Radio informacija svakih 5 minuta
+https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3
 # 72FM: https://72fm.com/station/7b2f0603-0d3b-42a2-ae29-5fd89bc1fe80?source=m3u
 #EXTINF:-1 tvg-logo="https://www.zabavni.hr/wp-content/uploads/2019/07/favicon.png" group-title="Croatia" radio="true",Zabavni Radio
 http://radiocentar.hr:8585/stream.aac
@@ -712,57 +715,51 @@ https://cmr-hosting.com:7013/;
 # 72FM: https://72fm.com/station/2beeeeea-fe3a-4a3d-b8f6-fb6aeab2e594?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Radio Roža
 http://stream.radio-roza.org/live.ogg
-# 72FM: https://72fm.com/station/684e0b7e-bd37-4176-9d6d-bae63e3fc1ae?source=m3u
-#EXTINF:-1 tvg-logo="https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-HR.png" group-title="Croatia" radio="true",REPLAY NEWS - Hrvatski Radio informacija svakih 5 minuta
-https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3
+# 72FM: https://72fm.com/station/ec4801d4-e0bd-46a1-831e-838dd239c4d4?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Yammat FM Romantic Rebels & Pop Waves
+https://stream.yammat.fm/listen/romantic_rebels__pop_waves/radio.mp3
 # 72FM: https://72fm.com/station/03695c36-2798-45dd-8ac3-ae112d242ed5?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Happy Fest
 https://audio.social3.hr/listen/happy_fest/stream?9763
 # 72FM: https://72fm.com/station/bb43fe72-f056-4148-855e-5c033018095c?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Podravski Radio
 https://streaming.podravskiradio.hr/live
-# 72FM: https://72fm.com/station/ec4801d4-e0bd-46a1-831e-838dd239c4d4?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Yammat FM Romantic Rebels & Pop Waves
-https://stream.yammat.fm/listen/romantic_rebels__pop_waves/radio.mp3
-# 72FM: https://72fm.com/station/7d7f2c9b-d0be-4b43-8153-6917a67e8420?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Radio Daruvar
-https://mcp1.mydataknox.com:8020/live.mp3
 # 72FM: https://72fm.com/station/741629f8-5195-4684-ac01-82b03c7a45f7?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Radio Županja
 https://audio.alter-media.hr:7019/stream
-# 72FM: https://72fm.com/station/5ef1014d-d0e9-4d58-9ace-df3581bb0d19?source=m3u
-#EXTINF:-1 tvg-logo="https://radio.gamerzinn.com:1320/media/CACHE/images/djs/logo/20e3697337de33cec38284f24bc660ce.png" group-title="Croatia" radio="true",Gamerz Inn - Jamz
-https://radio.gamerzinn.com:1385/stream
-# 72FM: https://72fm.com/station/a73e6138-6284-4712-ac4c-ba1ba7ac7ca0?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/75514.v18.png" group-title="Croatia" radio="true",Room FM
-http://65.108.198.245:8856/;
-# 72FM: https://72fm.com/station/6153764f-fb00-4496-a66c-4de307603d97?source=m3u
-#EXTINF:-1 tvg-logo="https://dvb.digital/favicon_io/apple-touch-icon.png" group-title="Croatia" radio="true",dvb.digital
-https://radio.dvb.digital/listen/dvb.digital/hq.mp3
+# 72FM: https://72fm.com/station/7d7f2c9b-d0be-4b43-8153-6917a67e8420?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Radio Daruvar
+https://mcp1.mydataknox.com:8020/live.mp3
 # 72FM: https://72fm.com/station/f639d138-0adc-4883-a24a-096e3493e7f5?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",HRT Drugi program
 https://25453.live.streamtheworld.com/PROGRAM2AAC.aac
+# 72FM: https://72fm.com/station/9c69cb1d-af21-482b-ae08-b56c23fc2278?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Domoljubne pjesme
+http://radiostream.optiklink.com:8200/live.mp3
+# 72FM: https://72fm.com/station/6153764f-fb00-4496-a66c-4de307603d97?source=m3u
+#EXTINF:-1 tvg-logo="https://dvb.digital/favicon_io/apple-touch-icon.png" group-title="Croatia" radio="true",dvb.digital
+https://radio.dvb.digital/listen/dvb.digital/hq.mp3
+# 72FM: https://72fm.com/station/2ced10e8-9982-4e60-9ae2-4b4b36cf9f36?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",Yammat FM Soul Sayer
+https://stream.yammat.fm/listen/soul_sayer/radio.mp3
 # 72FM: https://72fm.com/station/f6e3e196-dcab-42ae-8baf-cf3524a914a9?source=m3u
 #EXTINF:-1 tvg-logo="https://nu.net.hr/wp-content/uploads/2023/03/Logo-radio-nu.png" group-title="Croatia" radio="true",Radio NU
 https://slusaj.hr:10445/stream?type=http&nocache=634
 # 72FM: https://72fm.com/station/d7a711c5-3bcd-4e21-8713-52d2e1d59b59?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Radio Velika Gorica
 https://s8.iqstreaming.com:2020/stream/rvg
-# 72FM: https://72fm.com/station/9c69cb1d-af21-482b-ae08-b56c23fc2278?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Domoljubne pjesme
-http://radiostream.optiklink.com:8200/live.mp3
-# 72FM: https://72fm.com/station/2ced10e8-9982-4e60-9ae2-4b4b36cf9f36?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",Yammat FM Soul Sayer
-https://stream.yammat.fm/listen/soul_sayer/radio.mp3
-# 72FM: https://72fm.com/station/170cfe25-bbdc-43ec-9c1a-c1273ffbc234?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",HRT Prvi program
-https://27743.live.streamtheworld.com/PROGRAM1AAC.aac
-# 72FM: https://72fm.com/station/21592e39-f867-481f-aacb-1365ea5fe359?source=m3u
-#EXTINF:-1 group-title="Croatia" radio="true",TheRoom FM
-http://65.108.198.245:8856/
+# 72FM: https://72fm.com/station/a73e6138-6284-4712-ac4c-ba1ba7ac7ca0?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/75514.v18.png" group-title="Croatia" radio="true",Room FM
+http://65.108.198.245:8856/;
 # 72FM: https://72fm.com/station/264d35f0-b7f6-42c7-89e4-926b75911a71?source=m3u
 #EXTINF:-1 tvg-logo="https://extrafm.hr/sw-content/themes/sw/img/extrafm-2.png" group-title="Croatia" radio="true",Extra FM
 https://relay2.social3.hr/radio/8190/radio.mp3?&_ic2=1?8707
+# 72FM: https://72fm.com/station/170cfe25-bbdc-43ec-9c1a-c1273ffbc234?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",HRT Prvi program
+https://27743.live.streamtheworld.com/PROGRAM1AAC.aac
 # 72FM: https://72fm.com/station/6b2a640d-adbd-4836-9b75-4a7e58d46e09?source=m3u
 #EXTINF:-1 group-title="Croatia" radio="true",Yammat FM Street Spitta
 https://stream.yammat.fm/listen/street_spitta/radio.mp3
+# 72FM: https://72fm.com/station/21592e39-f867-481f-aacb-1365ea5fe359?source=m3u
+#EXTINF:-1 group-title="Croatia" radio="true",TheRoom FM
+http://65.108.198.245:8856/

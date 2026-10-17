@@ -9,10 +9,10 @@
 https://radiopanther.radiolebowski.com/play
 # 72FM: https://72fm.com/station/961b7325-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",.977 80s
-http://29318.live.streamtheworld.com:3690/977_80_SC
+http://26433.live.streamtheworld.com:3690/977_80_SC
 # 72FM: https://72fm.com/station/961dbb40-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",.977 The Mix
-http://15113.live.streamtheworld.com/977_MIX_SC
+http://15113.live.streamtheworld.com:3690/977_MIX_SC
 # 72FM: https://72fm.com/station/96274cbb-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Big R Radio - 80s Metal FM
 http://bigrradio.cdnstream1.com/5186_128
@@ -33,7 +33,7 @@ http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/
 http://shoutcast3.streamingmedia.it:3162/
 # 72FM: https://72fm.com/station/9614b5e5-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="80s" radio="true",SomaFM Underground 80s (128k MP3)
-https://ice2.somafm.com/u80s-128-mp3
+https://ice6.somafm.com/u80s-128-mp3
 # 72FM: https://72fm.com/station/1fdc8bd2-a8a9-11e8-a907-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",1000 HITS 80s
 http://c2.auracast.net:8048/stream
@@ -96,7 +96,7 @@ https://0n-80s.radionetz.de/0n-80s.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
 # 72FM: https://72fm.com/station/1b762b21-2ec6-412a-a231-fa34a96f4f99?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="80s" radio="true",80s80s Radio
-http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6npp93s8%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1791792120
+http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nq36rn3%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792241315
 # 72FM: https://72fm.com/station/960f6b39-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",RMF 80s
 http://195.150.20.9/80S
@@ -118,12 +118,12 @@ https://icecast.omroep.nl/radio5-bb-mp3
 # 72FM: https://72fm.com/station/9635bbe8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",80s80s Love
 http://streams.80s80s.de/love/mp3-192/streams.80s80s.de/
-# 72FM: https://72fm.com/station/702da7ed-b420-46ee-a962-6e59348fbe6e?source=m3u
-#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="80s" radio="true",Hala Sabratha
-http://stream.zeno.fm/1dy2395z3k8uv
 # 72FM: https://72fm.com/station/8383c13f-1dd5-4f33-a2dc-33e911b17048?source=m3u
 #EXTINF:-1 tvg-logo="https://100hitz.com/favicon.ico" group-title="80s" radio="true",100hitz The Mix - 80s 90s & Today's Hits
 http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1Nzc4NCwiaXNzIjoidGlzcnYifQ.pcgS3hF5YBvvbD9rJO3OMBWPgEGE037nPVwPu4hamPY%22
+# 72FM: https://72fm.com/station/702da7ed-b420-46ee-a962-6e59348fbe6e?source=m3u
+#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="80s" radio="true",Hala Sabratha
+http://stream.zeno.fm/1dy2395z3k8uv
 # 72FM: https://72fm.com/station/743889d5-5472-4e9f-ac61-5f0f04e7efa8?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",KISS FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
@@ -216,7 +216,7 @@ https://stream.zenolive.com/1sgzkhhm8ueuv
 https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer
 # 72FM: https://72fm.com/station/96450d28-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Stereo Ceiba 99.9 - La Ceiba
-http://27403.live.streamtheworld.com/RADIO_CEIBAAAC_SC
+http://27443.live.streamtheworld.com/RADIO_CEIBAAAC_SC
 # 72FM: https://72fm.com/station/d95c1da9-838c-4684-a009-44fc73608279?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",80's New Wave Radio
 https://puma.streemlion.com:2910/stream
@@ -226,18 +226,18 @@ https://premium.shoutcastsolutions.com/radio/8050/256.mp3
 # 72FM: https://72fm.com/station/962abd5c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Ultra Dark Radio
 http://stream.laut.fm/ultradarkradio
-# 72FM: https://72fm.com/station/4889d4ef-a405-11e8-abb8-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s302357/images/logoq.png" group-title="80s" radio="true",Easy 80s
-http://procyon.shoutca.st:8032/;
 # 72FM: https://72fm.com/station/585600d9-bdc4-4a2e-93c5-2421041cc55c?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Radyo 45lik yeni
 https://stream.radyo45lik.com:4545/
-# 72FM: https://72fm.com/station/96499a6c-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",94 SU FM 94.1 Tegucigalpa
-http://ice42.securenetsystems.net/94SUFM
+# 72FM: https://72fm.com/station/4889d4ef-a405-11e8-abb8-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s302357/images/logoq.png" group-title="80s" radio="true",Easy 80s
+http://procyon.shoutca.st:8032/;
 # 72FM: https://72fm.com/station/fd684dc5-fd22-4815-8f9e-a2901d0ef87f?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Kiss FM
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es
+# 72FM: https://72fm.com/station/96499a6c-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",94 SU FM 94.1 Tegucigalpa
+http://ice42.securenetsystems.net/94SUFM
 # 72FM: https://72fm.com/station/026accc4-313a-11e9-8f31-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Super Clásica
 http://77.73.69.238:8000/stream
@@ -303,7 +303,7 @@ https://discofunk.streamingmedia.it/play
 http://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
 # 72FM: https://72fm.com/station/9638a109-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",181.FM - Lite 80's
-https://listen.181fm.com/181-lite80s_128k.mp3
+http://listen.181fm.com/181-lite80s_128k.mp3
 # 72FM: https://72fm.com/station/b8e70464-2f37-45cb-8069-512206b6d7f7?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-greatest-hits_600x600.jpg" group-title="80s" radio="true",- 0 N - Greatest Hits on Radio
 https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3
@@ -331,12 +331,12 @@ http://stream.laut.fm/80sexitos
 # 72FM: https://72fm.com/station/88b3a415-2b06-4d21-8c80-dfdba0dd5029?source=m3u
 #EXTINF:-1 tvg-logo="https://sun9-27.userapi.com/impf/c841322/v841322516/5f256/VE9h-yZqVmE.jpg?size=478x477&quality=96&sign=7e93962ff9959abc16c587e11ff34a34&type=album" group-title="80s" radio="true",Радио Ностальжи Россия
 https://listen7.myradio24.com/alexx333
-# 72FM: https://72fm.com/station/ed1fb9a0-6416-11e9-a622-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="80s" radio="true",SomaFM Underground 80s (256k MP3)
-https://ice6.somafm.com/u80s-256-mp3
 # 72FM: https://72fm.com/station/cdf1baaf-ed22-41c5-8c9e-90b4133fda8f?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/x7fzbddfxjqy.jpg" group-title="80s" radio="true",Joe 80's & 90's
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3
+# 72FM: https://72fm.com/station/ed1fb9a0-6416-11e9-a622-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="80s" radio="true",SomaFM Underground 80s (256k MP3)
+https://ice2.somafm.com/u80s-256-mp3
 # 72FM: https://72fm.com/station/961f7778-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="80s" radio="true",Radio New York Live
 https://streaming.radiostreamlive.com/radionylive_devices
@@ -442,21 +442,21 @@ http://strm112.1.fm/magic80_mobile_mp3
 # 72FM: https://72fm.com/station/96233f54-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",105'5 Spreeradio 80er
 http://stream.spreeradio.de/spree-80er/mp3-128/radio-browser.info/
-# 72FM: https://72fm.com/station/65f5549e-a554-4386-9249-7f9651fd40f6?source=m3u
-#EXTINF:-1 tvg-logo="https://schwarzwaldradio.com/apple-touch-icon.png" group-title="80s" radio="true",Schwarzwaldradio
-https://edge20.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3
-# 72FM: https://72fm.com/station/960dd1cb-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",CHBM 'Boom 97.3' Toronto, ON
-http://newcap.leanstream.co/CHBMFM
 # 72FM: https://72fm.com/station/664e0f96-cdaa-4aa2-a362-1543e2dd2c36?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Snq1MMW/NIUS-LOGO.png" group-title="80s" radio="true",NIUS
 http://radio.nius.de/live?ref=radiobrowser
+# 72FM: https://72fm.com/station/65f5549e-a554-4386-9249-7f9651fd40f6?source=m3u
+#EXTINF:-1 tvg-logo="https://schwarzwaldradio.com/apple-touch-icon.png" group-title="80s" radio="true",Schwarzwaldradio
+https://edge70.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3
+# 72FM: https://72fm.com/station/960dd1cb-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",CHBM 'Boom 97.3' Toronto, ON
+http://newcap.leanstream.co/CHBMFM
 # 72FM: https://72fm.com/station/974d15ea-33a8-4190-8436-1b9a184f82e3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ethioldies.com/static/uploads/browser_icon/192.1732350958.png" group-title="80s" radio="true",Ethio Oldies
 https://www.ethioldies.com/listen/ethioldies/radio.mp3
 # 72FM: https://72fm.com/station/96417708-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",FluxFM - 80s - Der 80er Channel
-http://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=6npp0925%230%23r30o443r1929r059s085628511796n57%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1791756581
+http://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=6nq2os14%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792196372
 # 72FM: https://72fm.com/station/77c0b127-4805-4c8c-ac78-859ab4fadf17?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Italo Disco USA
 http://broadcast.miami/proxy/italodisco?mp=/stream/;
@@ -511,15 +511,15 @@ https://live1.sr.se/p4plus-aac-320
 # 72FM: https://72fm.com/station/8f00a42a-c4e3-4138-8f21-551896a29065?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-newwave_600x600.jpg" group-title="80s" radio="true",- 0 N - New Wave on Radio
 https://0n-newwave.radionetz.de/0n-newwave.mp3
+# 72FM: https://72fm.com/station/96496f03-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",NDR 2 (Hamburg)
+http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/56c00295-cb2c-41e5-a237-10ff8804c7db?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Sfliny 70's and 80's Hits
 http://ec4.yesstreaming.net:2210/
 # 72FM: https://72fm.com/station/2e5ada4b-45c7-43c7-8adb-9570e349d129?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Radio Maximum - Heavy 80s
 https://maximum80.hostingradio.ru/max8096.aacp
-# 72FM: https://72fm.com/station/96496f03-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",NDR 2 (Hamburg)
-http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/9d8e4e91-107a-4771-bf0f-e73786b5c2e6?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rtbf.be/favicon.ico" group-title="80s" radio="true",Classic 21 80's New Wave
 https://radio.rtbf.be/c21-80nw/mp3-128/me
@@ -546,7 +546,7 @@ http://onair15.xdevel.com:8838/;stream.mp3
 https://sp.dattavolt.com/8052/stream
 # 72FM: https://72fm.com/station/9fed3ce4-117f-4884-a91d-ecbe6aa5295b?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",80s80s In The Mix Low Quality
-http://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713?sABC=6npp4s4n%230%23r30o443r1929r059s085628511796n57%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1791774538
+http://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713?sABC=6nq2ros4%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1792207860
 # 72FM: https://72fm.com/station/b25e0078-9931-4fe0-aa75-e8db63726e0e?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s310070/images/bannerx.jpg" group-title="80s" radio="true",80s80s DEUTSCH
 http://streams.80s80s.de/deutsch/mp3-192/streams.80s80s.de/
@@ -556,12 +556,12 @@ http://onair15.xdevel.com:9120/;stream.mp3
 # 72FM: https://72fm.com/station/1ac20829-1ca7-4abe-bd7f-b8dcd835b29b?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",M80 Rádio – 60s
 https://stream-icy.bauermedia.pt/m8060.aac
+# 72FM: https://72fm.com/station/3046ced9-d322-4098-a8cd-e3c38f60cccb?source=m3u
+#EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="80s" radio="true",KINK80s
+http://22663.live.streamtheworld.com/KINK_DNA_SC
 # 72FM: https://72fm.com/station/34ca644e-4aa2-4bf0-b0fe-9122e7f97629?source=m3u
 #EXTINF:-1 tvg-logo="https://www.choiceclassicrock.com/images/favicon.ico" group-title="80s" radio="true",Choice Classic Rock
 https://streamer.radio.co/s66f2626b4/listen
-# 72FM: https://72fm.com/station/3046ced9-d322-4098-a8cd-e3c38f60cccb?source=m3u
-#EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="80s" radio="true",KINK80s
-http://22333.live.streamtheworld.com/KINK_DNA_SC
 # 72FM: https://72fm.com/station/961b450e-0561-47f9-ae88-8150358cae3b?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",BB FM rádio
 http://stream.bbfm.sk/bbfm128.mp3
@@ -589,12 +589,12 @@ http://80s-lynxradio.radioca.st/stream
 # 72FM: https://72fm.com/station/b843da8a-7308-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Olympia Classics
 http://streams.olympia-classics.nl/classics
-# 72FM: https://72fm.com/station/df56ca27-8782-439f-bc91-806800aae834?source=m3u
-#EXTINF:-1 tvg-logo="https://chiliradio.asia/wp-content/uploads/2021/01/apple-icon-120x120-1.png" group-title="80s" radio="true",Chili Radio Thailand
-https://stream.chiliradio.app/chiliclassics
 # 72FM: https://72fm.com/station/76205995-be2b-431f-86dc-5ccd808978a3?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Radio Disco-Dance
 https://radiodd.cloud/radio/8000/radio.mp3
+# 72FM: https://72fm.com/station/df56ca27-8782-439f-bc91-806800aae834?source=m3u
+#EXTINF:-1 tvg-logo="https://chiliradio.asia/wp-content/uploads/2021/01/apple-icon-120x120-1.png" group-title="80s" radio="true",Chili Radio Thailand
+https://stream.chiliradio.app/chiliclassics
 # 72FM: https://72fm.com/station/8b5cb940-02bf-46d9-bbe1-c92e0c4b97e7?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Radio Retro Online
 https://sonic.streamingchilenos.com/8138/stream
@@ -622,30 +622,30 @@ https://stream1.themediasite.co.uk:7009/stream
 # 72FM: https://72fm.com/station/864f2e75-bf9c-11e9-8502-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-classic-rock_600x600.jpg" group-title="80s" radio="true",- 1 A - Classic Rock von 1A Radio
 https://1a-classicrock.radionetz.de/1a-classicrock.mp3
+# 72FM: https://72fm.com/station/9629351f-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radioimmagine.it/wp-content/uploads/2022/06/cropped-favico_i_gialla-180x180.png" group-title="80s" radio="true",Radio Latina
+http://nr8.newradio.it:9097/;
 # 72FM: https://72fm.com/station/ae0354a3-a57c-477d-8dc9-8bd4464aedbd?source=m3u
 #EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="80s" radio="true",Deejay 80
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8
 # 72FM: https://72fm.com/station/52b80cd2-f52a-47b6-b293-9d666489c36e?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn2.101.ru/proxy/vardata/modules/channel/dynamics/personal/178/1785788.jpg?w=300&h=300&pos=center&t=1681310271" group-title="80s" radio="true",ABBA Radio
 https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788
-# 72FM: https://72fm.com/station/9629351f-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioimmagine.it/wp-content/uploads/2022/06/cropped-favico_i_gialla-180x180.png" group-title="80s" radio="true",Radio Latina
-http://nr8.newradio.it:9097/;
 # 72FM: https://72fm.com/station/659cfb96-86e3-4abf-a256-6fe30ebde19a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.80s80s.de/radios/romantic-rock" group-title="80s" radio="true",80s80s ROMANTIC ROCK
 https://regiocast.streamabc.net/regc-80s80sromanticrock-mp3-192-9217287?sABC=67s4p4p0%231%233rpo65p39o4340pqn62q3pr54r85qn01%23ubzrcntr&mode=preroll&aw_0_1st.skey=1744094400&cb=136753649&listenerid=3ecb65c39b4340cda62d3ce54e85da01&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1744094400
-# 72FM: https://72fm.com/station/a7342ac8-5f7c-4592-b173-37486d19338d?source=m3u
-#EXTINF:-1 tvg-logo="https://rsefreestyleradio.com/images/RSEFreestyleRadioLogo1000x1000.jpg" group-title="80s" radio="true",RSE Freestyle Radio
-http://s9.citrus3.com:8054/stream
 # 72FM: https://72fm.com/station/9637a01c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",80s80s Prince
 http://streams.80s80s.de/100/mp3-192/streams.80s80s.de/
-# 72FM: https://72fm.com/station/0cf68d28-6917-11e9-af37-52543be04c81?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",RPR1 Best 80s
-https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-0
 # 72FM: https://72fm.com/station/92d157ae-2a18-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Radio Zodiac Ireland
 http://www.radioking.com/play/radio-zodiac-ireland
+# 72FM: https://72fm.com/station/a7342ac8-5f7c-4592-b173-37486d19338d?source=m3u
+#EXTINF:-1 tvg-logo="https://rsefreestyleradio.com/images/RSEFreestyleRadioLogo1000x1000.jpg" group-title="80s" radio="true",RSE Freestyle Radio
+http://s9.citrus3.com:8054/stream
+# 72FM: https://72fm.com/station/0cf68d28-6917-11e9-af37-52543be04c81?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",RPR1 Best 80s
+https://streams.rpr1.de/rpr-80er-128-mp3?usid=0-0-H-M-D-0
 # 72FM: https://72fm.com/station/960f1491-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",radio SAW - 80er
 http://stream.saw-musikwelt.de/saw-80er/mp3-128/radio-browser/stream.mp3
@@ -670,12 +670,12 @@ https://1000oldies.stream.laut.fm/1000oldies
 # 72FM: https://72fm.com/station/671e40e6-2459-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="80s" radio="true",Allzic Radio Disco
 http://allzic36.ice.infomaniak.ch/allzic36.mp3
-# 72FM: https://72fm.com/station/296651b2-aed2-432a-ae07-6555d36eae08?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s104489/images/logog.png?t=152102" group-title="80s" radio="true",KX Classics
-https://mcp-1.streampanel.nl:8020/kxclassics_mp3
 # 72FM: https://72fm.com/station/e81cf293-174e-4936-b3cb-db62decedacd?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio708090.it/wp-content/uploads/2021/10/708090-160-150x150.png" group-title="80s" radio="true",70 80 90
 https://rblive.it:8170/radio.mp3
+# 72FM: https://72fm.com/station/296651b2-aed2-432a-ae07-6555d36eae08?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s104489/images/logog.png?t=152102" group-title="80s" radio="true",KX Classics
+https://mcp-1.streampanel.nl:8020/kxclassics_mp3
 # 72FM: https://72fm.com/station/5ef48ad1-682c-4f17-9650-69f79a2ced05?source=m3u
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="80s" radio="true",RadioMiX
 https://video.mediawebchile.com:2000/stream/radiomixsc/stream
@@ -691,12 +691,12 @@ http://190.5.147.67:8000/radiosonora
 # 72FM: https://72fm.com/station/8c45fcc8-a9fe-4e07-9a53-67b6a2a1fc76?source=m3u
 #EXTINF:-1 tvg-logo="https://80s.intamixx.uk/images/imc8090.jpg" group-title="80s" radio="true",Intamixx 80s 90s Radio UK
 https://radio.intamixx.uk:8443/radio2
-# 72FM: https://72fm.com/station/f87d214d-8606-4dc2-81dd-e391ceb643df?source=m3u
-#EXTINF:-1 tvg-logo="https://www.fresh80s.de/wp-content/uploads/2018/01/cropped-1500x800_transparent-2-180x180.png" group-title="80s" radio="true",Radio fresh80s
-http://213.239.219.50/live.mp3
 # 72FM: https://72fm.com/station/7f4dc126-2a57-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Sunshine Live - Die 80er
 http://stream.sunshine-live.de/80er/mp3-192/stream.sunshine-live.de/
+# 72FM: https://72fm.com/station/f87d214d-8606-4dc2-81dd-e391ceb643df?source=m3u
+#EXTINF:-1 tvg-logo="https://www.fresh80s.de/wp-content/uploads/2018/01/cropped-1500x800_transparent-2-180x180.png" group-title="80s" radio="true",Radio fresh80s
+http://213.239.219.50/live.mp3
 # 72FM: https://72fm.com/station/8d542cbc-bb73-4a4c-ac37-a9573db41868?source=m3u
 #EXTINF:-1 tvg-logo="https://danubiusradio.hu/logo192.png" group-title="80s" radio="true",Danubius Radio
 http://stream.danubiusradio.hu:8091/danubius_HiFi
@@ -712,24 +712,24 @@ https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 # 72FM: https://72fm.com/station/96289092-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Big R Radio - 80s FM
 http://bigrradio-edge1.cdnstream.com/5184_128
+# 72FM: https://72fm.com/station/c311142f-fde8-4708-80ab-0b778a2e86b8?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",R.SA 80er Italo Disco Hits
+http://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471?sABC=6nq31399%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1792218009
 # 72FM: https://72fm.com/station/f927b6f0-a041-4505-9cdd-3da91ff12ecc?source=m3u
 #EXTINF:-1 tvg-logo="https://www.mgtradio.net/favicon.ico" group-title="80s" radio="true",MGT ANOS 80
 https://cast.mgtradio.net/radio/8100/aac
-# 72FM: https://72fm.com/station/c311142f-fde8-4708-80ab-0b778a2e86b8?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",R.SA 80er Italo Disco Hits
-http://rsa.streamabc.net/regc-rsasachsenitalo3107586-mp3-192-8734471?sABC=6npp436p%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1791771500
 # 72FM: https://72fm.com/station/65d17a0e-2b11-469c-b08b-7c688ec227e7?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-greatest-hits_600x600.jpg" group-title="80s" radio="true",- 0 N - Greatest Hits on Radio
 https://0n-greatesthits.radionetz.de/0n-greatesthits.aac
 # 72FM: https://72fm.com/station/96391dda-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",R101 '80
 http://icy.unitedradio.it/R10180.aac
-# 72FM: https://72fm.com/station/9625b135-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",Radio Mela
-http://www.shoutcastitalia.com:8016/stream
 # 72FM: https://72fm.com/station/7b9e38ae-51b5-4cc7-a646-c774976c4dd0?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",0nlineradio 70s
 https://stream.0nlineradio.com/70s?ref=radiobrowser
+# 72FM: https://72fm.com/station/9625b135-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",Radio Mela
+http://www.shoutcastitalia.com:8016/stream
 # 72FM: https://72fm.com/station/1cae1891-f771-11e9-bbf2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Feeling Floyd Rock
 http://91.121.59.45:8013/stream
@@ -745,42 +745,42 @@ http://stream.revma.ihrhls.com/zc4439/hls.m3u8
 # 72FM: https://72fm.com/station/aab0149f-9b8c-4098-82bc-0dd1c53bd5d9?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s309248/images/logod.jpg" group-title="80s" radio="true",RFM - 100% New Wave
 http://stream.rfm.fr/rfm-wr12.aac/playlist.m3u8
-# 72FM: https://72fm.com/station/96109543-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",Jack FM - Berlin
-http://icepool.silvacast.com/JACKFM.mp3
 # 72FM: https://72fm.com/station/3ef378fb-01a6-48f2-80e1-f659e7ac3e4d?source=m3u
 #EXTINF:-1 tvg-logo="https://colombiacrossover.com/wp-content/uploads/Logo-colombia-poprock-nueva-1024x1024.png" group-title="80s" radio="true",Colombia Pop Rock
 https://play10.tikast.com/proxy/colpoprock?mp=/stream
+# 72FM: https://72fm.com/station/96109543-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",Jack FM - Berlin
+http://icepool.silvacast.com/JACKFM.mp3
 # 72FM: https://72fm.com/station/3e2ffdbd-573d-11ea-be63-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Coastline
 http://81.169.223.8/
+# 72FM: https://72fm.com/station/33583cf8-054f-4c7b-9f55-6ea03b55f5ff?source=m3u
+#EXTINF:-1 tvg-logo="https://static.harmonyfm.de/fileadmin/templates/harmonyfm.de/images/logo_80er_radio.svg" group-title="80s" radio="true",DEPECHE MODE RADIO
+http://mp3.harmonyfm.de/hrmchannels/hqstars03.mp3?aw_0_req.gdpr=true
+# 72FM: https://72fm.com/station/4ed72eba-d787-40bb-8528-9ade9fd0113a?source=m3u
+#EXTINF:-1 tvg-logo="https://api2.frequence3.net/static/img/stations/horizontal/frequence3gold.png" group-title="80s" radio="true",Frequence 3 Gold FLAC
+https://frequence3.net-radio.fr/frequence3gold.flac
 # 72FM: https://72fm.com/station/514b6fdc-69c3-4c92-bffe-78bd60de3f73?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Radio Moscatel 107.1 FM Axarquía - España
 https://axarquia.emisiononline.es/radio/8040/radio.mp3
 # 72FM: https://72fm.com/station/3c64cfe3-2b28-4ccd-bbd0-037a0d36a509?source=m3u
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e76b6ebedcef.png" group-title="80s" radio="true",J1 GOLD
 https://jenny.torontocast.com:2000/stream/J1GOLD
-# 72FM: https://72fm.com/station/33583cf8-054f-4c7b-9f55-6ea03b55f5ff?source=m3u
-#EXTINF:-1 tvg-logo="https://static.harmonyfm.de/fileadmin/templates/harmonyfm.de/images/logo_80er_radio.svg" group-title="80s" radio="true",DEPECHE MODE RADIO
-http://mp3.harmonyfm.de/hrmchannels/hqstars03.mp3?aw_0_req.gdpr=true
 # 72FM: https://72fm.com/station/960e3c23-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",KX Classics
 http://stream.kxclassikx.nl/
-# 72FM: https://72fm.com/station/4ed72eba-d787-40bb-8528-9ade9fd0113a?source=m3u
-#EXTINF:-1 tvg-logo="https://api2.frequence3.net/static/img/stations/horizontal/frequence3gold.png" group-title="80s" radio="true",Frequence 3 Gold FLAC
-https://frequence3.net-radio.fr/frequence3gold.flac
 # 72FM: https://72fm.com/station/96104c66-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Antenne Niedersachsen Oldies
 http://stream.antenne.com/oldies/mp3-192/linux/
 # 72FM: https://72fm.com/station/9621c453-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Mason Dixon Generation 80's
 http://cc.net2streams.com:8260/stream
-# 72FM: https://72fm.com/station/ad95696d-c911-4a6c-bddf-d56b79082915?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",RMF 80s + FAKTY
-http://195.150.20.9/80SF
 # 72FM: https://72fm.com/station/79a03ff6-e304-4426-8496-cf8253084f75?source=m3u
 #EXTINF:-1 tvg-logo="https://www.arabella.at/static/base/img/favicon.png" group-title="80s" radio="true",Radio Arabella Oberösterreich
 https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=tunein
+# 72FM: https://72fm.com/station/ad95696d-c911-4a6c-bddf-d56b79082915?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",RMF 80s + FAKTY
+http://195.150.20.9/80SF
 # 72FM: https://72fm.com/station/6d8af92e-3174-472d-8476-6521cb520054?source=m3u
 #EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130" group-title="80s" radio="true",Frekvence 1 - Youradio Osmdesátky
 http://ice.actve.net/web-80
@@ -789,7 +789,7 @@ http://ice.actve.net/web-80
 https://1a-oldies.radionetz.de/1a-oldies.aac
 # 72FM: https://72fm.com/station/960d03f9-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",antenne Thüringen 'live on air'
-https://edge13.streamonkey.net/antthue-mitte?aggregator=rewrite/
+https://edge10.streamonkey.net/antthue-mitte?aggregator=rewrite/
 # 72FM: https://72fm.com/station/2108005f-4085-48c4-a41e-6a6b3d4adfbe?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiovacanta.ro/wp-content/themes/radiovacanta/images/favicons/favicon-96x96.png" group-title="80s" radio="true",Radio Vacanța - Gold
 https://stream4.srr.ro:8443/gold_rv
@@ -799,21 +799,21 @@ https://stream.0nlineradio.com/80s?ref=radiobrowser
 # 72FM: https://72fm.com/station/06481f54-f361-11e8-a471-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="80s" radio="true",- 0 N - Disco on Radio
 https://0n-disco.radionetz.de/0n-disco.aac
-# 72FM: https://72fm.com/station/7c300ed2-8791-11e9-aa30-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/258ff588-4e23-49af-88e1-b0b2afedaa4a.png?w=600&ar=1x1" group-title="80s" radio="true",P9 Retro (MP3 128k)
-https://p9.p4groupaudio.com/P09_MH
 # 72FM: https://72fm.com/station/96057ae4-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Café 80s FM
 http://cafe80s.eu:8100/
+# 72FM: https://72fm.com/station/7c300ed2-8791-11e9-aa30-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/258ff588-4e23-49af-88e1-b0b2afedaa4a.png?w=600&ar=1x1" group-title="80s" radio="true",P9 Retro (MP3 128k)
+https://p9.p4groupaudio.com/P09_MH
 # 72FM: https://72fm.com/station/cbd661ab-1797-47ee-90ff-4dc06b2fabf0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.grooveradio.rf.gd/wp-content/uploads/2024/02/groove-radio-Photoroom.png-Photoroom.png" group-title="80s" radio="true",Groove Radio
 https://cast.magicstreams.gr/ic/grooveradio/stream
-# 72FM: https://72fm.com/station/c0cf2679-0c4c-4bfe-a587-bed26909f705?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",1000 80s Hits
-https://ais-sa9.cdnstream1.com/1898_128
 # 72FM: https://72fm.com/station/728f5651-40ed-11e9-aa55-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-relax_600x600.jpg" group-title="80s" radio="true",- 0 N - Relax on Radio
 https://0n-relax.radionetz.de/0n-relax.aac
+# 72FM: https://72fm.com/station/c0cf2679-0c4c-4bfe-a587-bed26909f705?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",1000 80s Hits
+https://ais-sa9.cdnstream1.com/1898_128
 # 72FM: https://72fm.com/station/962d2ca8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Radio California
 http://onair22.streaming.xdevel.com:10084/;stream.mp3
@@ -826,21 +826,21 @@ https://icecast.omroep.nl/radio5-sb-aac
 # 72FM: https://72fm.com/station/0602f873-4a47-4536-9039-bbbdee1ecc1d?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",M80 Rádio (AAC)
 https://stream-icy.bauermedia.pt/m80.aac
-# 72FM: https://72fm.com/station/9645ea36-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.grupporadioamore.it/images/stories/loghi/radio_amore_i_migliori_anni.jpg" group-title="80s" radio="true",Radio Amore i migliori anni Napoli
-http://onair20.xdevel.com:8204/;stream.mp3
 # 72FM: https://72fm.com/station/961e9f13-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",80's Bylgjan
 http://icecast.365net.is:8000/orb80s.aac
+# 72FM: https://72fm.com/station/9645ea36-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.grupporadioamore.it/images/stories/loghi/radio_amore_i_migliori_anni.jpg" group-title="80s" radio="true",Radio Amore i migliori anni Napoli
+http://onair20.xdevel.com:8204/;stream.mp3
 # 72FM: https://72fm.com/station/3e54b5c3-9ac4-49a9-b9d9-ddf9fa8a201a?source=m3u
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="80s" radio="true",Exclusively Status Quo
 https://streaming.exclusive.radio/er/statusquo/icecast.audio
-# 72FM: https://72fm.com/station/5929ca57-9def-43b8-b884-4cb9af1f0481?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",Radio Mágica 87.7 (Ecuador)
-https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683302387
 # 72FM: https://72fm.com/station/3b1a9cb4-68e8-4c71-b5e3-1355d043dce3?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",80s Forever - We Keep The 80s Alive
 http://azuracast.ssl-stream.com/radio/8050/256.mp3
+# 72FM: https://72fm.com/station/5929ca57-9def-43b8-b884-4cb9af1f0481?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",Radio Mágica 87.7 (Ecuador)
+https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683302387
 # 72FM: https://72fm.com/station/8dd8f884-2db0-4008-9564-8a6b93f0379a?source=m3u
 #EXTINF:-1 tvg-logo="https://media.live365.com/download/402cfd47-e16c-4042-b3f7-e026ef5e1356.jpg" group-title="80s" radio="true",Retro Album Rock
 http://ais-edge104-live365-dal02.cdnstream.com/a89824
@@ -865,12 +865,12 @@ http://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3
 # 72FM: https://72fm.com/station/0d95b482-0e68-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",R.SA Maxis Maximal
 http://streams.rsa-sachsen.de/maxis/mp3-128/streams.rsa-sachsen.de/
-# 72FM: https://72fm.com/station/aa5f5294-8a35-4844-9294-92e4659b13d7?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",FLASHBACK FM
-https://flashback.streambase.ch/001
 # 72FM: https://72fm.com/station/9623357e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",R.SA Ostrock
 http://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/
+# 72FM: https://72fm.com/station/aa5f5294-8a35-4844-9294-92e4659b13d7?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",FLASHBACK FM
+https://flashback.streambase.ch/001
 # 72FM: https://72fm.com/station/a29ea7e1-86d9-429f-8e2b-d5ddfc928071?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Saudi Aramco Studio X 80s and 90s
 https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3
@@ -880,27 +880,27 @@ http://pureplay.cdnstream1.com/6008_128.mp3
 # 72FM: https://72fm.com/station/fa6de722-63b8-443d-a39f-50e3b96e5009?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-# 72FM: https://72fm.com/station/e2bba5e4-671e-4d79-abfc-ea9d80429a6e?source=m3u
-#EXTINF:-1 tvg-logo="https://radioitaliaannisessanta.it/templates/enar/images/favicon/apple-touch-icon-120x120.png" group-title="80s" radio="true",Radio Italia Anni 60 (Emilia-Romagna e Marche)
-https://ice04.fluidstream.net/ria60_bo.mp3
 # 72FM: https://72fm.com/station/b394b97a-bf9c-11e9-8502-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-classic-rock_600x600.jpg" group-title="80s" radio="true",- 1 A - Classic Rock von 1A Radio
 https://1a-classicrock.radionetz.de/1a-classicrock.aac
+# 72FM: https://72fm.com/station/e2bba5e4-671e-4d79-abfc-ea9d80429a6e?source=m3u
+#EXTINF:-1 tvg-logo="https://radioitaliaannisessanta.it/templates/enar/images/favicon/apple-touch-icon-120x120.png" group-title="80s" radio="true",Radio Italia Anni 60 (Emilia-Romagna e Marche)
+https://ice04.fluidstream.net/ria60_bo.mp3
 # 72FM: https://72fm.com/station/0507b8b1-4a4d-42cd-872f-fd6f6c64712f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="80s" radio="true",__80S__ by rautemusik (rm.fm)
 https://80s-high.rautemusik.fm/?ref=radiobrowser
 # 72FM: https://72fm.com/station/a79809ec-449b-4c6c-9ef7-55923f5addd9?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/cAYAY4VWrAqxoDt13dalDUxHgLKiImf4Y2W1suTfTZE/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FsTm5ZcGdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FpdGptM1FrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MzEzMTc4NjAwMA.webp" group-title="80s" radio="true",La Super Estación Online
-https://stream-286.surfernetwork.com/udaw685yezzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZGF3Njg1eWV6enV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImM1NGJ1Y2piUzhXVkNvV3dLUHVxd3ciLCJpYXQiOjE3OTE3NTU2OTcsImV4cCI6MTc5MTc1NTc1N30.x94U2LY7iahTwxhtq_RWElR84JIjVVyKKe2UCXQkA2M
+https://stream-286.surfernetwork.com/udaw685yezzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZGF3Njg1eWV6enV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlZEcUlmNTZ5VFR1ZldyTGt4b1owQXciLCJpYXQiOjE3OTIxODkxNjgsImV4cCI6MTc5MjE4OTIyOH0.scMVBNF5NwfgR2G2MUF5pQ2cXn2sFt1gKVo61q6htk4
 # 72FM: https://72fm.com/station/ef5b93e8-5c46-4f0b-a5cc-9e417ff53685?source=m3u
 #EXTINF:-1 tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/be3d3b3/2147483647/strip/true/crop/315x314+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fbf%2F7e%2F3970272b49a4b5fa943fc505a9d1%2Fblu-radio-logo-2019-rgb.png" group-title="80s" radio="true",Blu Radio - Musica
 https://playerservices.streamtheworld.com/api/livestream-redirect/MUSICABLU.mp3
 # 72FM: https://72fm.com/station/b50fea42-9c22-45c3-a7d5-afc772cab87d?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",M80 Rádio – Pop
 https://stream-icy.bauermedia.pt/m80pop.aac
-# 72FM: https://72fm.com/station/f785408d-b933-4391-bef5-476cfa2dc2b8?source=m3u
-#EXTINF:-1 group-title="80s" radio="true",Radio Nostalgia Spain
-http://streamingv2.shoutcast.com/nostalgiaspain
 # 72FM: https://72fm.com/station/72ea609c-bdcc-4c73-b1c7-8949f35e2a04?source=m3u
 #EXTINF:-1 group-title="80s" radio="true",KLOU 103.3 - STL's Best Variety of the 70s, 80s & 90s
 https://stream.revma.ihrhls.com/zc3463
+# 72FM: https://72fm.com/station/31206c1f-ae75-45c1-824b-5d7d3850f1d0?source=m3u
+#EXTINF:-1 group-title="80s" radio="true",Play Gold
+http://n02.radiojar.com/431m8b6qcm5tv?rj-ttl=5&rj-tok=AAABeMb0Lj0AJxDa01j50hVL0Q

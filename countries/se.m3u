@@ -76,12 +76,12 @@ https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream
 # 72FM: https://72fm.com/station/ec17a150-5a0c-11e8-b0ce-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p1.png" group-title="Sweden" radio="true",SVT P1 192kps
 https://live1.sr.se/p1-mp3-96
-# 72FM: https://72fm.com/station/9642aad0-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif" group-title="Sweden" radio="true",Guldkanalen Malmö/Lund
-http://stream.dbmedia.se/gk96
 # 72FM: https://72fm.com/station/9614fe6c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",SceneSat Radio (MP3)
 https://streams.scenesat.com/main/hq.mp3
+# 72FM: https://72fm.com/station/9642aad0-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif" group-title="Sweden" radio="true",Guldkanalen Malmö/Lund
+http://stream.dbmedia.se/gk96
 # 72FM: https://72fm.com/station/40dfa430-7988-4b02-ae1b-ce5fe8b5aad3?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Bandit Classic Rock
 https://wr11-ice.stream.khz.se/wr11_mp3
@@ -93,7 +93,7 @@ http://fm05-ice.stream.khz.se/fm05_mp3
 http://live.litefm.se:8000/stream_mp3
 # 72FM: https://72fm.com/station/20aee753-cef5-11e8-a54a-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Stockholm FM 88,0 Sweden
-http://radiostreamtwo.mine.nu:18000/
+http://radiostreamfour.mine.nu:18000/
 # 72FM: https://72fm.com/station/101f70e8-15f9-4a1c-b48f-7cbd4a7838f7?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png" group-title="Sweden" radio="true",Go Country
 https://wr14-ice.stream.khz.se/wr14_mp3
@@ -106,12 +106,12 @@ https://wr15-ice.stream.khz.se/wr15_mp3
 # 72FM: https://72fm.com/station/07c6d96f-1d15-4d36-9833-dee758087659?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-default.png" group-title="Sweden" radio="true",Sveriges Radio - P1
 http://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http
-# 72FM: https://72fm.com/station/957584f4-cef4-11e8-a54a-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Stockholm FM 101,1 Sweden
-http://radiostreamthree.mine.nu:18020/
 # 72FM: https://72fm.com/station/003dea75-02eb-40c2-8a92-5150a709b74d?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p4.png" group-title="Sweden" radio="true",Sveriges Radio P4 Göteborg
 https://live1.sr.se/p4gbg-aac-320
+# 72FM: https://72fm.com/station/957584f4-cef4-11e8-a54a-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Stockholm FM 101,1 Sweden
+http://radiostreamfour.mine.nu:18020/
 # 72FM: https://72fm.com/station/78563d75-79f2-4c67-a80d-291891e2fb88?source=m3u
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/bandit_metal2184x184.png" group-title="Sweden" radio="true",Bandit Metal
 https://wr03-ice.stream.khz.se/wr03_mp3
@@ -142,12 +142,12 @@ https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3
 # 72FM: https://72fm.com/station/97b6d543-896d-4361-bc34-5d1c8a19a4bc?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p2.png" group-title="Sweden" radio="true",Sveriges Radio P2 flac
 https://edge1.sr.se/p2-flac
-# 72FM: https://72fm.com/station/962afe61-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Radio Sotenäs
-http://sc1.radiosotenas.se/
 # 72FM: https://72fm.com/station/33aa931b-0e2f-49b9-b8df-8d98c04a286b?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-default.png" group-title="Sweden" radio="true",Sveiges Radio - P4 Malmöhus
 https://sverigesradio.se/topsy/direkt/207-hi.mp3
+# 72FM: https://72fm.com/station/962afe61-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Radio Sotenäs
+http://sc3.radiosotenas.se:8500/
 # 72FM: https://72fm.com/station/5c85225c-75b9-4452-b3e0-998a2bf80532?source=m3u
 #EXTINF:-1 tvg-logo="https://usercontent.one/wp/www.northernmetalradio.com/wp-content/uploads/2023/05/NMR-Extreme-1.png?media=1686508177" group-title="Sweden" radio="true",Northern Metal Radio Extreme
 https://s2.free-shoutcast.com/stream/18092
@@ -208,12 +208,12 @@ https://edge1.sr.se/p3-aac-320
 # 72FM: https://72fm.com/station/5df76756-534f-4af9-879c-268dce9b9b80?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/451.jpg" group-title="Sweden" radio="true",Mix Megapol 104,3
 https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp
-# 72FM: https://72fm.com/station/79930fba-66b9-42cc-8b40-cf766176a38d?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Spinning Seal FM
-https://stream.zeno.fm/9q3ez3k3fchvv
 # 72FM: https://72fm.com/station/678cb641-f43d-456b-8980-cba70cb7c414?source=m3u
 #EXTINF:-1 tvg-logo="https://playnow.se/wp-content/uploads/gk_play.jpg" group-title="Sweden" radio="true",Guldkanalen (80-tal)
 https://stream.dbmedia.se/gk80tal96
+# 72FM: https://72fm.com/station/79930fba-66b9-42cc-8b40-cf766176a38d?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Spinning Seal FM
+https://stream.zeno.fm/9q3ez3k3fchvv
 # 72FM: https://72fm.com/station/5dfe2bf3-0d7b-4df3-a3e3-ce7c465cf115?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",NRJ
 http://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3
@@ -259,12 +259,12 @@ https://stream.dagnysjukebox.se/dagny
 # 72FM: https://72fm.com/station/9ae67291-b1f6-4541-869b-6445b6d07269?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Rocket FM Rock Home of Stockholm
 http://stream.thsradio.se:8000/rocket_hi.mp3
-# 72FM: https://72fm.com/station/3c9f18c4-2d3a-4cc0-ae29-bbb1de69984c?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Radio Laholm
-http://stream.zeno.fm/tf8vczzxrg0uv
 # 72FM: https://72fm.com/station/db511060-495a-4756-95d2-5070bc529f57?source=m3u
 #EXTINF:-1 tvg-logo="https://www.sverigesradio.se/default.aspx?programid=125" group-title="Sweden" radio="true",Sveriges Radio - P4 Väst
 https://live1.sr.se/p4vast-mp3-96
+# 72FM: https://72fm.com/station/3c9f18c4-2d3a-4cc0-ae29-bbb1de69984c?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Radio Laholm
+http://stream.zeno.fm/tf8vczzxrg0uv
 # 72FM: https://72fm.com/station/1497077e-2db2-4579-a911-5f8cddff3529?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p4.png" group-title="Sweden" radio="true",Sveriges Radion P4 Östergötland
 https://live1.sr.se/p4ostg-mp3-96
@@ -274,21 +274,21 @@ http://stream.magicradio.se/magic
 # 72FM: https://72fm.com/station/5dde70fa-c630-4ad5-840c-8af6bddb145a?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",The ERICADE Radio Network
 https://radio.ericade.net/sc/stream/1/
-# 72FM: https://72fm.com/station/67d48eb9-c3b0-459d-b494-ca1ebb5cb766?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiotreby.se/wp-content/uploads/fbrfg/apple-touch-icon.png?v=yyx94lglyx" group-title="Sweden" radio="true",Radio Treby
-http://streaming.943.se/treby878
 # 72FM: https://72fm.com/station/06a92160-00e0-4546-ac0d-44c28f80da6c?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Radio Nostalgi
 https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp
+# 72FM: https://72fm.com/station/67d48eb9-c3b0-459d-b494-ca1ebb5cb766?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiotreby.se/wp-content/uploads/fbrfg/apple-touch-icon.png?v=yyx94lglyx" group-title="Sweden" radio="true",Radio Treby
+http://streaming.943.se/treby878
 # 72FM: https://72fm.com/station/d20a7b4a-4fe6-4f5f-ace5-16c7c9091c80?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Oldies FM
 https://stream3.themediasite.co.uk:8030/
-# 72FM: https://72fm.com/station/3fc2ea83-9ed6-44a5-b6ed-cc0e648c7ee0?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Radio Sandviken
-http://rssand.se:4027/;
 # 72FM: https://72fm.com/station/2a1fa39a-15b6-47d5-9b1f-f1680eebc0d9?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Stockholm FM 101.1 MHz Sweden
 http://live.narradio.se:8030/;stream.mp3
+# 72FM: https://72fm.com/station/3fc2ea83-9ed6-44a5-b6ed-cc0e648c7ee0?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Radio Sandviken
+http://rssand.se:4027/;
 # 72FM: https://72fm.com/station/ee1ef339-1383-4873-bc5f-bb99ce7cf4bd?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s104724d.png" group-title="Sweden" radio="true",Skärgårdsradion
 http://fm06-ice.stream.khz.se/fm06_mp3
@@ -304,12 +304,12 @@ https://mml1.prostream.se/listen/back_to_the_80s/radio.mp3
 # 72FM: https://72fm.com/station/4a5ce51f-7966-11ea-8a3b-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/mp4:tv7-se.stream_720p/playlist.m3u8
-# 72FM: https://72fm.com/station/9611e396-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Göteborgs Närradio 103.1 MHz
-http://lyssna.fnf.nu:8080/gnf103.mp3
 # 72FM: https://72fm.com/station/964340cd-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Göteborgs Närradio 94.9 Mhz
 http://lyssna.fnf.nu:8080/gnf094.mp3
+# 72FM: https://72fm.com/station/9611e396-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Göteborgs Närradio 103.1 MHz
+http://lyssna.fnf.nu:8080/gnf103.mp3
 # 72FM: https://72fm.com/station/67e88c46-a6fe-4355-a6bb-821abd707d66?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Radio 88 Partille - Golden Hits
 https://streaming.943.se/radio88dans
@@ -346,30 +346,30 @@ https://mml2.prostream.se/listen/epic_soundtracks_only/radio.mp3
 # 72FM: https://72fm.com/station/5edaeb8f-63d3-4a73-a684-a153b1cca9a5?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Radio Gbg Sevdah
 https://stream.radiogbg.se:8050/relay4
-# 72FM: https://72fm.com/station/be9cd5b3-570c-410c-ab98-7f99af678b20?source=m3u
-#EXTINF:-1 tvg-logo="https://radioplay.se/tesla/static/favicons/radioplay-se/apple-touch-icon.png" group-title="Sweden" radio="true",Radio Nostalgi SE
-https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3
 # 72FM: https://72fm.com/station/39a437bb-aa17-420b-a748-41b35312d1de?source=m3u
 #EXTINF:-1 tvg-logo="https://static-cdn.sr.se/images/109/b945bd34-5b64-4190-a82f-fd3ac87c5d64.jpg?preset=100x100" group-title="Sweden" radio="true",P4 Västerbotten
 https://live1.sr.se/p4vbtn-mp3-96
+# 72FM: https://72fm.com/station/be9cd5b3-570c-410c-ab98-7f99af678b20?source=m3u
+#EXTINF:-1 tvg-logo="https://radioplay.se/tesla/static/favicons/radioplay-se/apple-touch-icon.png" group-title="Sweden" radio="true",Radio Nostalgi SE
+https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3
 # 72FM: https://72fm.com/station/2411d3f7-3a88-4e9f-b0b7-a1b512890fef?source=m3u
 #EXTINF:-1 tvg-logo="https://radiosydvast.se/wp-content/uploads/2021/05/cropped-rs-icon-w-512-180x180.png" group-title="Sweden" radio="true",Radio Sydväst Närradio Stockholm FM 88.9
 http://radiosydvast.duckdns.org:12932/stream
+# 72FM: https://72fm.com/station/97c34f30-8378-4c76-824c-9e950f008db1?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Kpop
+https://mml2.prostream.se/listen/kpop/radio.mp3
 # 72FM: https://72fm.com/station/f334270f-0a63-4c84-832e-a5291f2b4612?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Helsinborgs närradio
 http://deb.patrikmalmgrenrask.se:8010/
 # 72FM: https://72fm.com/station/5352f351-b5ac-4141-b886-9c44ac446511?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-default.png" group-title="Sweden" radio="true",P4 Kalmar
 https://live1.sr.se/p4kalm-mp3-96
-# 72FM: https://72fm.com/station/97c34f30-8378-4c76-824c-9e950f008db1?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Kpop
-https://mml2.prostream.se/listen/kpop/radio.mp3
-# 72FM: https://72fm.com/station/772ac852-f6e9-4059-bcda-6246e8e6b862?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Radio Orinoco
-https://icecast.radio-orinoco.com/orinoco
 # 72FM: https://72fm.com/station/02443a51-3d95-4bc1-aaf8-6cc3345fc763?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Puls FM Borås
 http://stream.pulsfm.se:8908/stream
+# 72FM: https://72fm.com/station/772ac852-f6e9-4059-bcda-6246e8e6b862?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Radio Orinoco
+https://icecast.radio-orinoco.com/orinoco
 # 72FM: https://72fm.com/station/5baebcb0-15c1-4562-b4f8-4219b32cea5d?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png" group-title="Sweden" radio="true",Radio Rainbow
 https://wr20-ice.stream.khz.se/wr20_mp3?platform=web
@@ -382,30 +382,30 @@ https://live1.sr.se/p4blek-mp3-96
 # 72FM: https://72fm.com/station/2d411ff6-99f8-4cf3-895f-2bbd3ee672ce?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Workout
 https://mml2.prostream.se/listen/workout/radio.mp3
-# 72FM: https://72fm.com/station/9d1b673a-7a6b-4e0a-82b6-e0edfabfcb28?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Punk Classics
-https://mml2.prostream.se/listen/punk_classics/radio.mp3
 # 72FM: https://72fm.com/station/1808e244-4ca2-4a4d-be3a-17babddef88a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio-kullabygden.se/wp-content/uploads/2016/04/hnfloggo_100px.png" group-title="Sweden" radio="true",Höganäs Närradio
 https://deb.patrikmalmgrenrask.se:10443/
-# 72FM: https://72fm.com/station/d4f59b07-4926-478e-8270-6257aa6dc93e?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Radio 163
-https://mml1.prostream.se/listen/radio_163/radio.mp3
+# 72FM: https://72fm.com/station/9d1b673a-7a6b-4e0a-82b6-e0edfabfcb28?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Punk Classics
+https://mml2.prostream.se/listen/punk_classics/radio.mp3
 # 72FM: https://72fm.com/station/cc00eccd-eda8-4901-8e1f-4c2f3e1fcb53?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Bollywood Bangers
 https://mml2.prostream.se/listen/bollywood_bangers/radio.mp3
+# 72FM: https://72fm.com/station/d4f59b07-4926-478e-8270-6257aa6dc93e?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Radio 163
+https://mml1.prostream.se/listen/radio_163/radio.mp3
 # 72FM: https://72fm.com/station/69b90092-2a26-4ed3-acf3-2ca6b142be26?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Best of ericade.radio
 https://radio.ericade.net/sc/stream/2/
 # 72FM: https://72fm.com/station/5cc4f5dc-9693-46c2-91cc-e2f8eb0f215d?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",PopBurst
 https://mml1.prostream.se/listen/popburst/radio.mp3
-# 72FM: https://72fm.com/station/7bc5f4f0-7103-4a14-bd86-eaed014a24db?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",90s Rewind
-https://mml1.prostream.se/listen/90s_rewind/radio.mp3
 # 72FM: https://72fm.com/station/202d6d31-699e-476d-b392-99e238704df8?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Rock
 https://mml1.prostream.se/listen/rock/radio.mp3
+# 72FM: https://72fm.com/station/7bc5f4f0-7103-4a14-bd86-eaed014a24db?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",90s Rewind
+https://mml1.prostream.se/listen/90s_rewind/radio.mp3
 # 72FM: https://72fm.com/station/7ace76fa-d18b-4f18-82f8-73694a86b2aa?source=m3u
 #EXTINF:-1 tvg-logo="https://1fc37794eb.cbaul-cdnwnd.com/2c9019783c06142013565e2eaf54e92d/200000528-42732436c7/samir_logo%5B1%5D-8.png?ph=1fc37794eb" group-title="Sweden" radio="true",Banjalučki Sevdah Radio Šeherčani
 https://stream-172.zeno.fm/wazhcyi9ak5vv?zs=tApDLixiTGuqRhXqTfctZQ&1709234440014
@@ -418,15 +418,18 @@ https://redback.mywire.org/stream.mp3
 # 72FM: https://72fm.com/station/ccfd647b-93da-4275-aa8f-0c39f56feac5?source=m3u
 #EXTINF:-1 tvg-logo="https://popradio.se/data/media/0/0/jrMediaPro_logo.png" group-title="Sweden" radio="true",Pop Radio Stockholm
 http://master.shoutcast.com:8000/popradio-stockholm
-# 72FM: https://72fm.com/station/681d2589-e135-46bd-a11a-272d8d13e8f8?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",American Truckers
-https://mml2.prostream.se/listen/american_truckers/radio.mp3
 # 72FM: https://72fm.com/station/052b8916-ad5d-4ae4-8cb5-1c137e10e4ca?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",ZERGAN RADYO (47an)
 https://sslyayin.netyayin.net/radyozergan/;
+# 72FM: https://72fm.com/station/681d2589-e135-46bd-a11a-272d8d13e8f8?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",American Truckers
+https://mml2.prostream.se/listen/american_truckers/radio.mp3
 # 72FM: https://72fm.com/station/bb4855dc-2835-4974-958b-1a3ca10ddadc?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Radio Skövde
 http://video.webbplay.se:1935/liveradio/narradio/playlist.m3u8
+# 72FM: https://72fm.com/station/a6a09847-6e2e-4076-9b30-773023caf2e7?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Guldkanalen 60-tal
+https://stream.dbmedia.se/gk60tal96
 # 72FM: https://72fm.com/station/d906e09f-49da-469e-9937-5f5273fc9006?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Jazz
 https://mml1.prostream.se/listen/jazz/radio.mp3
@@ -439,204 +442,204 @@ http://s2.radio.co/sfbf5f5b85/listen
 # 72FM: https://72fm.com/station/f897dd08-9a1a-4dd9-9430-a6665ecf835a?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Classical
 https://mml2.prostream.se/listen/classical/radio.mp3
-# 72FM: https://72fm.com/station/a6a09847-6e2e-4076-9b30-773023caf2e7?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Guldkanalen 60-tal
-https://stream.dbmedia.se/gk60tal96
-# 72FM: https://72fm.com/station/53dac0bd-de56-447a-a42c-9f841af15e2e?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Metal Mayhem
-https://mml2.prostream.se/listen/metal_mayhem/radio.mp3
-# 72FM: https://72fm.com/station/a03d0d90-73ec-451d-bb7e-b698f9b3698e?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Blues
-https://mml1.prostream.se/listen/blues/radio.mp3
-# 72FM: https://72fm.com/station/f81a5aa3-d7b5-4c12-85fa-436d081efc73?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",EDM
-https://mml2.prostream.se/listen/edm_/radio.mp3
-# 72FM: https://72fm.com/station/b6886275-1d73-4e71-86ce-483175bd2a80?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",House
-https://mml1.prostream.se/listen/house/radio.mp3
 # 72FM: https://72fm.com/station/2ba48445-fb13-4167-9db8-3f2b4254461b?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Reggae
 https://mml1.prostream.se/listen/reggae/radio.mp3
+# 72FM: https://72fm.com/station/f81a5aa3-d7b5-4c12-85fa-436d081efc73?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",EDM
+https://mml2.prostream.se/listen/edm_/radio.mp3
+# 72FM: https://72fm.com/station/53dac0bd-de56-447a-a42c-9f841af15e2e?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Metal Mayhem
+https://mml2.prostream.se/listen/metal_mayhem/radio.mp3
+# 72FM: https://72fm.com/station/6778fd92-c72b-4be8-a9c6-2b753d207deb?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Guldkanalen (90-tal)
+https://stream.dbmedia.se/gk90tal96
+# 72FM: https://72fm.com/station/b6886275-1d73-4e71-86ce-483175bd2a80?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",House
+https://mml1.prostream.se/listen/house/radio.mp3
+# 72FM: https://72fm.com/station/a03d0d90-73ec-451d-bb7e-b698f9b3698e?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Blues
+https://mml1.prostream.se/listen/blues/radio.mp3
 # 72FM: https://72fm.com/station/9fcf5f38-9bfe-4d2a-a453-a655a1729fde?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Linköpings närradio
 https://stream.linkopingsnarradio.se:8005/radioprogram
 # 72FM: https://72fm.com/station/9c97c1ea-73e3-4013-8b47-13a5936c764b?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Groove Revival Radio
 https://mml2.prostream.se/listen/groove_revival_radio/radio.mp3
-# 72FM: https://72fm.com/station/6778fd92-c72b-4be8-a9c6-2b753d207deb?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Guldkanalen (90-tal)
-https://stream.dbmedia.se/gk90tal96
 # 72FM: https://72fm.com/station/734e8191-c34d-4b78-98fc-0a69dafd323e?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Mad Mix Beats
 https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3
 # 72FM: https://72fm.com/station/754681f3-08c0-4242-9cd0-d873d2ec9da0?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",RadioGodis
 http://radiogodis.org:8004/
+# 72FM: https://72fm.com/station/f75454ef-f163-49c7-b80b-cc707b382f09?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Party 247
+https://mml2.prostream.se/listen/party_247/radio.mp3
 # 72FM: https://72fm.com/station/3a7f738e-a823-4680-ba93-c5de8217e3df?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Retro FM Sverige
 https://stream.rcs.revma.com/25knctp5vepwv
 # 72FM: https://72fm.com/station/48798f54-d904-426b-b9e3-cd75aa5816b2?source=m3u
 #EXTINF:-1 tvg-logo="https://radiosandviken.se/wp-content/uploads/2024/12/rslogotyp2-1.png" group-title="Sweden" radio="true",Radio Sandviken
 https://shout.rs8990.com/;
-# 72FM: https://72fm.com/station/f75454ef-f163-49c7-b80b-cc707b382f09?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Party 247
-https://mml2.prostream.se/listen/party_247/radio.mp3
 # 72FM: https://72fm.com/station/6af22763-e633-41eb-96e4-7bf712c088aa?source=m3u
 #EXTINF:-1 tvg-logo="https://auralis-radio.com/favicon.svg" group-title="Sweden" radio="true",Auralis Radio
 https://auralis-radio.com/radio.mp3
 # 72FM: https://72fm.com/station/b5bd600f-9d41-4a52-8dbb-91eaccfe4ebf?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",P4 Jämtland
 https://live1.sr.se/p4jmtl-aac-320
-# 72FM: https://72fm.com/station/cda260eb-ede7-4417-97f6-55dea02abd80?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiohaninge.se/images/logo/rhdlogo01.png" group-title="Sweden" radio="true",Radio Haninge
-http://213.115.49.175:1157/;
-# 72FM: https://72fm.com/station/70a1dbfb-486b-4f90-b385-eb5837005fec?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Radio 789
-https://mml1.prostream.se/listen/radio_789/radio.mp3
-# 72FM: https://72fm.com/station/271de73b-4fa6-4c19-8132-33397f31bf7c?source=m3u
-#EXTINF:-1 tvg-logo="https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-SE.png" group-title="Sweden" radio="true",REPLAY NEWS - Svenska
-https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
 # 72FM: https://72fm.com/station/478c1254-cd56-472d-8f12-24f110d76d8d?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Sveriges Radio -P4 Stockholm
 https://live1.sr.se/p4sth-aac-32
+# 72FM: https://72fm.com/station/cda260eb-ede7-4417-97f6-55dea02abd80?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiohaninge.se/images/logo/rhdlogo01.png" group-title="Sweden" radio="true",Radio Haninge
+http://213.115.49.175:1157/;
+# 72FM: https://72fm.com/station/271de73b-4fa6-4c19-8132-33397f31bf7c?source=m3u
+#EXTINF:-1 tvg-logo="https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-SE.png" group-title="Sweden" radio="true",REPLAY NEWS - Svenska
+https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
+# 72FM: https://72fm.com/station/70a1dbfb-486b-4f90-b385-eb5837005fec?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Radio 789
+https://mml1.prostream.se/listen/radio_789/radio.mp3
 # 72FM: https://72fm.com/station/2151bfe6-6792-4cbe-8c7c-2d9fe54fdbc0?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Sveriges Radio P4 Dalarna
 https://live1.sr.se/p4dala-aac-320
-# 72FM: https://72fm.com/station/03130c0f-bf62-4fda-bb6a-c99781b28475?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Alt Edge Radio
-https://mml2.prostream.se/listen/alt_edge_radio/radio.mp3
-# 72FM: https://72fm.com/station/8eb64d77-0fc9-43b0-9bd6-ad3209152a4c?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Stars on 45
-https://mml2.prostream.se/listen/stars_on_45/radio.mp3
-# 72FM: https://72fm.com/station/fcc6c03e-5363-4028-9a58-5d63ec913c76?source=m3u
-#EXTINF:-1 tvg-logo="https://www.tyresoradion.se/images/favicon/apple-touch-icon.png" group-title="Sweden" radio="true",Tyresöradion
-https://s5.radio.co/s8ace52d32/listen
 # 72FM: https://72fm.com/station/7317cab6-cef3-44f2-a8ae-9fdee72559cc?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Gen X
 https://mml1.prostream.se/listen/gen_x/radio.mp3
-# 72FM: https://72fm.com/station/6a4f38ed-3c22-45b1-a2f3-5da0c8f47c2d?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Pain
-https://stream.pcradio.ru/Pain-hi
 # 72FM: https://72fm.com/station/4b804728-3074-4697-bd39-ffa6111542e6?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Power Street
 https://wr07-ice.stream.khz.se/wr07_mp3
+# 72FM: https://72fm.com/station/fcc6c03e-5363-4028-9a58-5d63ec913c76?source=m3u
+#EXTINF:-1 tvg-logo="https://www.tyresoradion.se/images/favicon/apple-touch-icon.png" group-title="Sweden" radio="true",Tyresöradion
+https://s5.radio.co/s8ace52d32/listen
+# 72FM: https://72fm.com/station/03130c0f-bf62-4fda-bb6a-c99781b28475?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Alt Edge Radio
+https://mml2.prostream.se/listen/alt_edge_radio/radio.mp3
+# 72FM: https://72fm.com/station/6a4f38ed-3c22-45b1-a2f3-5da0c8f47c2d?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Pain
+https://stream.pcradio.ru/Pain-hi
 # 72FM: https://72fm.com/station/7a275e1c-6730-4048-a064-a7cb3c9dabb8?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Radio 567
 https://mml1.prostream.se/listen/radio_567/radio.mp3
-# 72FM: https://72fm.com/station/ffc8d7d5-7244-4738-bfee-22fcf0340edf?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Harmony Frequencies
-https://mml2.prostream.se/listen/harmony_frequencies_radio/radio.mp3
+# 72FM: https://72fm.com/station/8eb64d77-0fc9-43b0-9bd6-ad3209152a4c?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Stars on 45
+https://mml2.prostream.se/listen/stars_on_45/radio.mp3
+# 72FM: https://72fm.com/station/0d11fc90-1129-4b76-b42d-98fe127c9317?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68299d95b4257010638944e5/6a95f1c5530f9b3492a55af3_sauna-radio-favicon-512.png" group-title="Sweden" radio="true",Sauna Radio
+https://stream.saunaradio.com/live
 # 72FM: https://72fm.com/station/51b2e520-417d-4c91-8bf3-f2a664289c9b?source=m3u
 #EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-default.png" group-title="Sweden" radio="true",P4 Västernorrland
 https://live1.sr.se/p4vnrl-mp3-96
 # 72FM: https://72fm.com/station/b66bf5c5-1630-4d4c-9e7b-5017ca9594cc?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sjJ6efGC0YpjeT2ehVnVuIewLsEyf2SmqGTWr-wIxc12Ch4rJYBtxJnsedvVNLHTkDYYL8pxvoEgtT6vWm5btYo" group-title="Sweden" radio="true",Vinylgodis
 https://fwd.autopo.st/runedervall
+# 72FM: https://72fm.com/station/ffc8d7d5-7244-4738-bfee-22fcf0340edf?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Harmony Frequencies
+https://mml2.prostream.se/listen/harmony_frequencies_radio/radio.mp3
 # 72FM: https://72fm.com/station/e3c2d110-90f6-41e7-a6b8-8f92d646a007?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",P4 Värmland
 https://live1.sr.se/p4vrml-aac-320
-# 72FM: https://72fm.com/station/0d11fc90-1129-4b76-b42d-98fe127c9317?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68299d95b4257010638944e5/6a95f1c5530f9b3492a55af3_sauna-radio-favicon-512.png" group-title="Sweden" radio="true",Sauna Radio
-https://stream.saunaradio.com/live
 # 72FM: https://72fm.com/station/7693f643-ffdd-4865-a16a-0638586a3bbb?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",The ModStation - Amiga ProTracker Modules
 https://broadcast.sonologic.net/modstation.mp3
+# 72FM: https://72fm.com/station/229845c8-bcae-4067-8767-c34114d5b4b3?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",HITCITY
+https://stream.hitcity.se/live.mp3
+# 72FM: https://72fm.com/station/3ac50a5a-2445-4a9c-8e35-75c3529f5242?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Swedish Truckers
+https://mml1.prostream.se/listen/swedish_truckers/radio.mp3
+# 72FM: https://72fm.com/station/1ce736f3-5944-46b9-8143-81b54625b367?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Latin
+https://mml2.prostream.se/listen/latin/radio.mp3
+# 72FM: https://72fm.com/station/73b5026f-40f2-49e8-846d-4d6f77e20d18?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",P4 Västmanland
+https://live1.sr.se/p4vstm-mp3-96
+# 72FM: https://72fm.com/station/d49cfff7-ce57-475d-8ce1-c37d0e150574?source=m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/SR_P4_logo.svg?utm_source=sv.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Sweden" radio="true",SR P4 Jönköping
+https://live1.sr.se/p4jkpg-aac-320
+# 72FM: https://72fm.com/station/d2cdc958-4871-4423-9884-f2a49c3c2445?source=m3u
+#EXTINF:-1 tvg-logo="https://sverigesradio.se/icon.png" group-title="Sweden" radio="true",SR P4 Radio Malmöhus
+https://ljud1-cdn.sr.se/lc/p4malm.m3u8
 # 72FM: https://72fm.com/station/e63482bc-f704-41ec-8890-67ece72578d2?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Sveriges Radio P4 Gävleborg
 https://live1.sr.se/p4gavl-mp3-96
+# 72FM: https://72fm.com/station/376cb244-4116-4ba4-a525-c6cc8283fc9b?source=m3u
+#EXTINF:-1 tvg-logo="https://wolffmradio.se/wp-content/uploads/2026/01/logotype.webp" group-title="Sweden" radio="true",Wolf FM
+https://sstream.ueteknik.se/listen/wolffm/radio.mp3
 # 72FM: https://72fm.com/station/ec0d3919-415f-4c63-9958-0da384b69ab4?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Aftab
 https://mml1.prostream.se/listen/aftab/radio.mp3
 # 72FM: https://72fm.com/station/53ef6c63-7b27-4245-bf7c-420b16f5538a?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Country
 https://mml1.prostream.se/listen/country/radio.mp3
-# 72FM: https://72fm.com/station/229845c8-bcae-4067-8767-c34114d5b4b3?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",HITCITY
-https://stream.hitcity.se/live.mp3
-# 72FM: https://72fm.com/station/c5353b6e-0cdd-427a-b666-f265bc6d4c73?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Radio Nacka
-http://radiostreamone.mine.nu/9990MHz
-# 72FM: https://72fm.com/station/d49cfff7-ce57-475d-8ce1-c37d0e150574?source=m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/SR_P4_logo.svg?utm_source=sv.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Sweden" radio="true",SR P4 Jönköping
-https://live1.sr.se/p4jkpg-aac-320
-# 72FM: https://72fm.com/station/9e1e37f2-ae49-4497-ba91-3dccaf2bd85f?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Sveriges Radio P4 Uppland
-https://live1.sr.se/p4uppl-aac-320
-# 72FM: https://72fm.com/station/3560701c-22a9-4955-a667-fc979b066863?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Urban Flow
-https://mml2.prostream.se/listen/urban_flow/radio.mp3
 # 72FM: https://72fm.com/station/a615437b-ff32-4da2-904e-8390f7ed1052?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Decades
 https://mml1.prostream.se/listen/decades/radio.mp3
 # 72FM: https://72fm.com/station/cd9cad10-788f-44ee-9e35-00a05efe2271?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Ivory Echoes
 https://mml1.prostream.se/listen/ivory_echoes/radio.mp3
-# 72FM: https://72fm.com/station/1ce736f3-5944-46b9-8143-81b54625b367?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Latin
-https://mml2.prostream.se/listen/latin/radio.mp3
 # 72FM: https://72fm.com/station/4b226edb-15be-4563-b74b-372b103091f7?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",P4 Västernorrland
 https://live1.sr.se/p4vnrl-aac-320
-# 72FM: https://72fm.com/station/73b5026f-40f2-49e8-846d-4d6f77e20d18?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",P4 Västmanland
-https://live1.sr.se/p4vstm-mp3-96
 # 72FM: https://72fm.com/station/893636b3-4cd9-4df0-8487-9004f398e0b5?source=m3u
 #EXTINF:-1 tvg-logo="https://impro.usercontent.one/appid/oneComWsb/domain/radiobastad.se/media/radiobastad.se/onewebmedia/256742-314242-gh757dh3xq.png?etag=%2215a98-64edeed2%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=576%2B576&extract=0%2B0%2B576%2B544" group-title="Sweden" radio="true",Radio Båstad
-https://audio-edge-hy4wy.blr.d.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac
-# 72FM: https://72fm.com/station/d2cdc958-4871-4423-9884-f2a49c3c2445?source=m3u
-#EXTINF:-1 tvg-logo="https://sverigesradio.se/icon.png" group-title="Sweden" radio="true",SR P4 Radio Malmöhus
-https://ljud1-cdn.sr.se/lc/p4malm.m3u8
-# 72FM: https://72fm.com/station/3ac50a5a-2445-4a9c-8e35-75c3529f5242?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Swedish Truckers
-https://mml1.prostream.se/listen/swedish_truckers/radio.mp3
-# 72FM: https://72fm.com/station/376cb244-4116-4ba4-a525-c6cc8283fc9b?source=m3u
-#EXTINF:-1 tvg-logo="https://wolffmradio.se/wp-content/uploads/2026/01/logotype.webp" group-title="Sweden" radio="true",Wolf FM
-https://sstream.ueteknik.se/listen/wolffm/radio.mp3
+https://audio-edge-5r6yd.cdg.o.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac
+# 72FM: https://72fm.com/station/c5353b6e-0cdd-427a-b666-f265bc6d4c73?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Radio Nacka
+http://radiostreamone.mine.nu/9990MHz
+# 72FM: https://72fm.com/station/9e1e37f2-ae49-4497-ba91-3dccaf2bd85f?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Sveriges Radio P4 Uppland
+https://live1.sr.se/p4uppl-aac-320
+# 72FM: https://72fm.com/station/3560701c-22a9-4955-a667-fc979b066863?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Urban Flow
+https://mml2.prostream.se/listen/urban_flow/radio.mp3
+# 72FM: https://72fm.com/station/e69f59c2-3a3b-4063-8342-da609245769e?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Radio Gold Sweden
+https://streaming.943.se/radiogold
+# 72FM: https://72fm.com/station/79d17f42-620e-437d-b7e6-ed1c1d26c670?source=m3u
+#EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p4.png" group-title="Sweden" radio="true",Sveriges Radio P4 Halland
+https://live1.sr.se/p4hall-aac-128
 # 72FM: https://72fm.com/station/236f5c02-ac75-4f0f-b4f7-86dcad159765?source=m3u
 #EXTINF:-1 tvg-logo="https://lyssna.bananradion.se/static/uploads/bananradion/background.1740701637.png" group-title="Sweden" radio="true",BANANRADION
 https://lyssna.bananradion.se/listen/bananradion/128aac
+# 72FM: https://72fm.com/station/7cd8a7f7-138e-453b-a3fc-4ced0968f86b?source=m3u
+#EXTINF:-1 tvg-logo="https://dansbandsradio.se/images/dbr2.png" group-title="Sweden" radio="true",DansBandsRadio.se
+https://sc.dansbandsradio.se/dbr64.aac
 # 72FM: https://72fm.com/station/0e575083-8721-446d-a95e-7cbee4acad84?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Hello Africa
 https://mml1.prostream.se/listen/hello_africa/radio.mp3
 # 72FM: https://72fm.com/station/1067bc4c-fed3-459a-b0dd-045d68cc225e?source=m3u
 #EXTINF:-1 tvg-logo="https://hitcity.se/HITCITY_logga.png" group-title="Sweden" radio="true",HITCITY
 https://stream.hitcity.se/live
+# 72FM: https://72fm.com/station/36ec31f7-2b42-4a8f-b73b-dda7b666d8c0?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Melancholy
+https://mml2.prostream.se/listen/melancholy/radio.mp3
 # 72FM: https://72fm.com/station/7a30b1de-88ab-48ef-a797-1f9b3c80dd5d?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.tjenamors.se/static/uploads/tjenamors_radio/album_art.1781430542.jpg" group-title="Sweden" radio="true",Tjenamors Radio!
 https://radio.tjenamors.se/listen/tjenamors_radio/radio.mp3
-# 72FM: https://72fm.com/station/7f69a3e0-bc8f-4552-a1a6-3d6c339f65fa?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",VIBE Radio
-https://streamer.radio.co/s0c62f7351/listen
 # 72FM: https://72fm.com/station/eee524af-4690-4e43-984a-fc62b20b08f4?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",24/7 Continuous Music
 https://securestream.cuelightsmedia.com.au/listen/247_continuous_music/radio.mp3
-# 72FM: https://72fm.com/station/7cd8a7f7-138e-453b-a3fc-4ced0968f86b?source=m3u
-#EXTINF:-1 tvg-logo="https://dansbandsradio.se/images/dbr2.png" group-title="Sweden" radio="true",DansBandsRadio.se
-https://sc.dansbandsradio.se/dbr64.aac
 # 72FM: https://72fm.com/station/d66b22ac-0743-41e5-99d6-affdb54d74c0?source=m3u
 #EXTINF:-1 tvg-logo="https://hitzfm.nu/wp-content/uploads/2022/08/nedladdning-4-170x168.jpeg" group-title="Sweden" radio="true",Hitzfm 97,8 Sommenbygd
 https://s2.stationplaylist.com:7098/listen.mp3
 # 72FM: https://72fm.com/station/34dddabf-0a1e-437d-8801-075e05201844?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Mad Mix Main
 https://mml1.prostream.se/listen/mad_mix_main/radio.mp3
-# 72FM: https://72fm.com/station/e69f59c2-3a3b-4063-8342-da609245769e?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Radio Gold Sweden
-https://streaming.943.se/radiogold
 # 72FM: https://72fm.com/station/39ff7fae-311d-4430-8a9a-51f9f2d59dcd?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Radio Svea
 https://mml2.prostream.se/listen/radio_svea/radio.mp3
-# 72FM: https://72fm.com/station/3a901003-189a-4a40-a754-401b56a131ee?source=m3u
-#EXTINF:-1 tvg-logo="https://image-proxy.clipsource.com/eyJidWNrZXQiOiJjbGlwc291cmNlLXNvdXJjZS1pbWFnZXMtYW5kLWZpbGVzIiwia2V5IjoiNjlhYWJkOWRlNmE5MFwvc3ZlLTY5YWFiZGI3MTgyYjVcLzIwMjZcLzA0XC8xN1wvNjllMjA1OTIyMmZjZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyODAsImhlaWdodCI6bnVsbH19fQ==?format=webp" group-title="Sweden" radio="true",Sveriges Radio P4 Malmöhus
-https://live1.sr.se/p4malm-aac-32
-# 72FM: https://72fm.com/station/8a590500-d643-43de-a1d0-a4be35843b72?source=m3u
-#EXTINF:-1 tvg-logo="https://signal.hackerspaces.org/img/logo.jpg" group-title="Sweden" radio="true",Hackerspace radio
-https://broadcast.sonologic.net/signal.ogg
+# 72FM: https://72fm.com/station/7f69a3e0-bc8f-4552-a1a6-3d6c339f65fa?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",VIBE Radio
+https://streamer.radio.co/s0c62f7351/listen
 # 72FM: https://72fm.com/station/62c45b12-ca7b-440f-a985-ca0c209ff94c?source=m3u
 #EXTINF:-1 tvg-logo="https://hls.aweradio.app/stations/listen/avatar-256.png" group-title="Sweden" radio="true",All Watching Eye - Focus
 http://icy.aweradio.app/listen/focus
-# 72FM: https://72fm.com/station/0268fc68-0dd1-4e98-8087-f5459b014716?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Skärgårdsradion
-https://fm06-ice.stream.khz.se/fm06_mp3
+# 72FM: https://72fm.com/station/8a590500-d643-43de-a1d0-a4be35843b72?source=m3u
+#EXTINF:-1 tvg-logo="https://signal.hackerspaces.org/img/logo.jpg" group-title="Sweden" radio="true",Hackerspace radio
+https://broadcast.sonologic.net/signal.ogg
+# 72FM: https://72fm.com/station/6fbe6280-8425-4673-a740-7e1fa12a2da5?source=m3u
+#EXTINF:-1 tvg-logo="https://radio45.se/webplayer/favicon-96x96.png" group-title="Sweden" radio="true",Radio45 (Dalsland Sweden)
+https://streaming.943.se/radio45
 # 72FM: https://72fm.com/station/af0682ee-3a81-40d6-b474-70e3f2ce5468?source=m3u
 #EXTINF:-1 tvg-logo="https://www.sverigesradio.se/dist/images/apple-touch-icon-p2.png" group-title="Sweden" radio="true",Sveriges Radio P2
 https://live1.sr.se/p2-aac-128
@@ -646,57 +649,54 @@ http://icy.aweradio.app/listen/chill
 # 72FM: https://72fm.com/station/a536d6ff-fe7e-41c4-ac95-378effaee0f6?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Faith Beats Radio
 https://mml2.prostream.se/listen/faith_beats_radio/radio.mp3
-# 72FM: https://72fm.com/station/36ec31f7-2b42-4a8f-b73b-dda7b666d8c0?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Melancholy
-https://mml2.prostream.se/listen/melancholy/radio.mp3
 # 72FM: https://72fm.com/station/e99600f6-2f3b-4aee-af44-00c723cd0a91?source=m3u
 #EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden" radio="true",Midnight Silk Eros
 https://mml1.prostream.se/listen/midnight_silk_eros/radio.mp3
-# 72FM: https://72fm.com/station/6fbe6280-8425-4673-a740-7e1fa12a2da5?source=m3u
-#EXTINF:-1 tvg-logo="https://radio45.se/webplayer/favicon-96x96.png" group-title="Sweden" radio="true",Radio45 (Dalsland Sweden)
-https://streaming.943.se/radio45
+# 72FM: https://72fm.com/station/0268fc68-0dd1-4e98-8087-f5459b014716?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Skärgårdsradion
+https://fm06-ice.stream.khz.se/fm06_mp3
 # 72FM: https://72fm.com/station/e12c31f2-3d73-4af4-b8db-11ad20989c5a?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtosAvN4DU-pQuFNjv-DkYUobGoZnBrfsYdv-ZfWEHw&s" group-title="Sweden" radio="true",Sveriges Radio - P4 Sjuhärad
 https://www.sverigesradio.se/topsy/direkt/srapi/206.mp3
-# 72FM: https://72fm.com/station/79d17f42-620e-437d-b7e6-ed1c1d26c670?source=m3u
-#EXTINF:-1 tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p4.png" group-title="Sweden" radio="true",Sveriges Radio P4 Halland
-https://live1.sr.se/p4hall-aac-128
+# 72FM: https://72fm.com/station/3a901003-189a-4a40-a754-401b56a131ee?source=m3u
+#EXTINF:-1 tvg-logo="https://image-proxy.clipsource.com/eyJidWNrZXQiOiJjbGlwc291cmNlLXNvdXJjZS1pbWFnZXMtYW5kLWZpbGVzIiwia2V5IjoiNjlhYWJkOWRlNmE5MFwvc3ZlLTY5YWFiZGI3MTgyYjVcLzIwMjZcLzA0XC8xN1wvNjllMjA1OTIyMmZjZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyODAsImhlaWdodCI6bnVsbH19fQ==?format=webp" group-title="Sweden" radio="true",Sveriges Radio P4 Malmöhus
+https://live1.sr.se/p4malm-aac-32
 # 72FM: https://72fm.com/station/ac126472-b670-4f55-8fb4-4b3a16a00bc5?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Sveriges Radio P4 Värmland
 https://live1.sr.se/p4vrml-mp3-96
 # 72FM: https://72fm.com/station/c0163cdc-0ae8-4512-8db0-528cfb5dbc25?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Swarm Radio
 https://stream.zeno.fm/d6ozvqgvrvktv
-# 72FM: https://72fm.com/station/6067a78f-6b1a-49f0-b0cc-7dec506552b6?source=m3u
-#EXTINF:-1 tvg-logo="https://radio943.se/Logotype.png" group-title="Sweden" radio="true",Radio 94,3
-https://stream.radio943.se/stream
+# 72FM: https://72fm.com/station/c81bd753-b033-4143-8d24-44efc7142461?source=m3u
+#EXTINF:-1 tvg-logo="https://radio.fablesh.com/favicon.png" group-title="Sweden" radio="true",Radio Fablesh
+https://radio.mediarosenqvist.com/listen/radio-fablesh/radio.mp3
+# 72FM: https://72fm.com/station/80eab0ec-21b5-48fe-a4bc-30d5f993b77e?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Dedication Radio
+https://mml3.prostream.se/listen/radio_testing/radio.mp3
+# 72FM: https://72fm.com/station/78152c41-67ae-420f-8b83-1dfa693ef652?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Redhawks Nation
+https://mml2.prostream.se/listen/redhawks_nation/radio.mp3
+# 72FM: https://72fm.com/station/d271f2e0-6c6f-4446-a580-642928b9cd88?source=m3u
+#EXTINF:-1 group-title="Sweden" radio="true",Saoirse Waves
+https://mml3.prostream.se/listen/saoirse_waves/radio.mp3
 # 72FM: https://72fm.com/station/fa4701b9-034f-45c3-8be2-789bf2dd95cb?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.aiplaylist.io/brand/apr-logo-master.png?v=20260807-1" group-title="Sweden" radio="true",AI Playlist Radio
 https://radio.aiplaylist.io/radio.mp3
 # 72FM: https://72fm.com/station/0ec29ca7-a458-4f36-96e3-0f0436b5554c?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Bakerman Radio
 https://mml2.prostream.se/listen/bakerman_radio/radio.mp3
-# 72FM: https://72fm.com/station/80eab0ec-21b5-48fe-a4bc-30d5f993b77e?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Dedication Radio
-https://mml3.prostream.se/listen/radio_testing/radio.mp3
 # 72FM: https://72fm.com/station/e24fbf0b-a56f-4cec-9557-8300458efcc6?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",KWTF 88.8 STOOPID
 https://mml2.prostream.se/listen/kwtf_88.8_stoopid/radio.mp3
-# 72FM: https://72fm.com/station/c81bd753-b033-4143-8d24-44efc7142461?source=m3u
-#EXTINF:-1 tvg-logo="https://radio.fablesh.com/favicon.png" group-title="Sweden" radio="true",Radio Fablesh
-https://radio.mediarosenqvist.com/listen/radio-fablesh/radio.mp3
+# 72FM: https://72fm.com/station/6067a78f-6b1a-49f0-b0cc-7dec506552b6?source=m3u
+#EXTINF:-1 tvg-logo="https://radio943.se/Logotype.png" group-title="Sweden" radio="true",Radio 94,3
+https://stream.radio943.se/stream
 # 72FM: https://72fm.com/station/2e16a698-2fe8-47eb-8b1d-74fa2bcc9f10?source=m3u
 #EXTINF:-1 tvg-logo="https://radiouppsala.se/favicon.png" group-title="Sweden" radio="true",Radio Uppsala
 https://radio.mediarosenqvist.com/listen/radio-uppsala/radio.mp3
-# 72FM: https://72fm.com/station/78152c41-67ae-420f-8b83-1dfa693ef652?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Redhawks Nation
-https://mml2.prostream.se/listen/redhawks_nation/radio.mp3
 # 72FM: https://72fm.com/station/0acb4fc1-f062-4111-9eff-740c66bd9e44?source=m3u
 #EXTINF:-1 tvg-logo="https://roslagenlive.com/icons/icon-180.png" group-title="Sweden" radio="true",Roslagen Live
 https://radio.mediarosenqvist.com/listen/roslagen-live/radio.mp3
-# 72FM: https://72fm.com/station/d271f2e0-6c6f-4446-a580-642928b9cd88?source=m3u
-#EXTINF:-1 group-title="Sweden" radio="true",Saoirse Waves
-https://mml3.prostream.se/listen/saoirse_waves/radio.mp3
 # 72FM: https://72fm.com/station/56311642-e348-4438-afe9-873a187132d6?source=m3u
 #EXTINF:-1 group-title="Sweden" radio="true",Slacker82Alpha
 https://mml2.prostream.se/listen/slacker82alpha/radio.mp3
