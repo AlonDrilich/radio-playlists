@@ -151,12 +151,12 @@ https://online-radio.nv.ua/radionv.mp3
 # 72FM: https://72fm.com/station/962e5ddc-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.br.de/favicon.ico" group-title="Talk" radio="true",B5 aktuell
 http://streams.br.de/b5aktuell_2.m3u
-# 72FM: https://72fm.com/station/9617fe3b-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",Radio Maria
-http://dreamsiteradiocp.com:8092/;
 # 72FM: https://72fm.com/station/43023b6f-5695-4108-8892-07d22e9b1181?source=m3u
 #EXTINF:-1 tvg-logo="https://www.aljazeera.net/favicon.ico" group-title="Talk" radio="true",Al Jazeera - Arabic
 http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
+# 72FM: https://72fm.com/station/9617fe3b-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",Radio Maria
+http://dreamsiteradiocp.com:8092/;
 # 72FM: https://72fm.com/station/6761a296-5f91-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",RADIO MARIA TOGO
 http://dreamsiteradiocp.com:8050/stream
@@ -295,12 +295,12 @@ http://lr1mp1.latvijasradio.lv:8012/;
 # 72FM: https://72fm.com/station/507c5c7d-00df-4875-b83a-77b7a172687a?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Радио Патриот
 http://radio.mixto.ru:8001/patriot
-# 72FM: https://72fm.com/station/69bc7084-523c-11ea-be63-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://statics.ccma.cat/img/favicons/catinfo-favicon-96x96.png" group-title="Talk" radio="true",Catalunya Informació (Catinfo)
-https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
 # 72FM: https://72fm.com/station/756c4ac1-c020-4139-86c2-57cc4dd12643?source=m3u
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmhpcnVmbS5yZWRyb3NlbWVkaWFfaWNvbl8xNjA0ODM4Njk0XzAyMg/icon.webp?w=280&fakeurl=1&type=.png" group-title="Talk" radio="true",Hiru FM
 https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/
+# 72FM: https://72fm.com/station/69bc7084-523c-11ea-be63-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://statics.ccma.cat/img/favicons/catinfo-favicon-96x96.png" group-title="Talk" radio="true",Catalunya Informació (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
 # 72FM: https://72fm.com/station/38c09fe6-481f-4f49-a52e-ce21adabd16d?source=m3u
 #EXTINF:-1 tvg-logo="https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png" group-title="Talk" radio="true",Jak 101 FM
 http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
@@ -412,12 +412,12 @@ http://amp.cesnet.cz:8000/cro-plus-256.ogg
 # 72FM: https://72fm.com/station/cb74060e-8b0b-45f0-8e6b-e2f8c6c1a152?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Radio Romanista
 https://romanista.newradio.it/stream
-# 72FM: https://72fm.com/station/2087b4c4-820a-4545-9bd7-eaf28792f44a?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",Catalunya Radio
-https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
 # 72FM: https://72fm.com/station/960cc3f3-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.158.1/img/favicon/apple-touch-icon.png" group-title="Talk" radio="true",WDR 2 Ostwestfalen-Lippe
 http://wdr-wdr2-ostwestfalenlippe.icecast.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/2087b4c4-820a-4545-9bd7-eaf28792f44a?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",Catalunya Radio
+https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
 # 72FM: https://72fm.com/station/8f174c53-5547-44d2-bb92-75a985cdb5ef?source=m3u
 #EXTINF:-1 tvg-logo="https://www.parapolitika.gr/favicon.ico" group-title="Talk" radio="true",Parapolitika 90.1
 https://netradio.live24.gr/athinaradio
@@ -439,12 +439,12 @@ http://14203.live.streamtheworld.com/FM947_SC
 # 72FM: https://72fm.com/station/21b074e0-dd20-41cc-9d3d-ad4b9b5b4afe?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Power 98.7
 https://edge.iono.fm/xice/65_medium.aac
-# 72FM: https://72fm.com/station/5af9345a-1bfa-11e8-a334-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",WXLW 950 'Freedom 95' Indianapolis, IN
-http://ice24.securenetsystems.net/WFDM
 # 72FM: https://72fm.com/station/05d6f5d1-827c-4cc4-8845-175bc33af435?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Times Radio
 https://timesradio.wireless.radio/stream
+# 72FM: https://72fm.com/station/5af9345a-1bfa-11e8-a334-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",WXLW 950 'Freedom 95' Indianapolis, IN
+http://ice24.securenetsystems.net/WFDM
 # 72FM: https://72fm.com/station/bafb06c5-1278-444f-81a4-b045dce5e80f?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Tarbiyah Sunnah
 https://radioislamindonesia.com/tarbiyah.mp3
@@ -550,12 +550,12 @@ http://80.232.162.149:8000/swh96mp3
 # 72FM: https://72fm.com/station/9649888d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.deutschlandradio.de/static/img/deutschlandradio/icons/apple-touch-icon-128x128.png" group-title="Talk" radio="true",Deutschlandfunk Dokumente und Debatten | DLF | AAC 96k
 https://st04.sslstream.dlf.de/dlf/04/mid/aac/stream.aac?aggregator=web
-# 72FM: https://72fm.com/station/2d0112ca-5aac-11e9-a622-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",RADIO MARIA PHILIPPINES
-http://dreamsiteradiocp.com:8028/stream
 # 72FM: https://72fm.com/station/962ccb33-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Radio SWH+
 http://80.232.162.149:8000/plus96mp3
+# 72FM: https://72fm.com/station/2d0112ca-5aac-11e9-a622-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",RADIO MARIA PHILIPPINES
+http://dreamsiteradiocp.com:8028/stream
 # 72FM: https://72fm.com/station/e5ec7527-cb54-4632-b5a1-7ee080bb19c0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.a1chineseradio.ca/images/a1_logo_114x114.png" group-title="Talk" radio="true",A1中文电台
 http://s2.voscast.com:9530/
@@ -580,33 +580,33 @@ http://streamingcontrol.com:8500/;
 # 72FM: https://72fm.com/station/69aff725-522c-11e9-a4d7-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Radio Bianconera
 https://stream.tmwradio.com/bianconera.aac
-# 72FM: https://72fm.com/station/67238017-50b9-444b-8f6c-ae17d008f5e4?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="Talk" radio="true",Fing Radio
-https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9
 # 72FM: https://72fm.com/station/960d70aa-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.122.3/img/favicon/apple-touch-icon.png" group-title="Talk" radio="true",WDR 2 Münsterland
 http://wdr-wdr2-muensterland.icecast.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3
+# 72FM: https://72fm.com/station/67238017-50b9-444b-8f6c-ae17d008f5e4?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="Talk" radio="true",Fing Radio
+https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9
 # 72FM: https://72fm.com/station/cfe17287-cabe-4484-b05a-a935e4444d1c?source=m3u
 #EXTINF:-1 tvg-logo="https://mbcradio.tv/sites/default/files/favicon.ico" group-title="Talk" radio="true",MBC Radio Mauritius
 https://radio.mbconline.xyz/hls/radiomauritus.m3u8
 # 72FM: https://72fm.com/station/d2fa3ac2-9e60-4aa1-9b1b-b00e13e4fd36?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png" group-title="Talk" radio="true",Worlvybz radio
 http://stream.zeno.fm/mkg0g0t2td0uv
-# 72FM: https://72fm.com/station/48acbf47-f731-4c22-91b2-385d2fbb76c9?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",MR1 - Kossuth Rádió
-https://mr-stream.connectmedia.hu/4736/mr1.mp3
 # 72FM: https://72fm.com/station/11e420dc-7d26-4a66-83ae-1ec1622119dc?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Радио Сахаров
 https://icecast.correctiv.net/sacharow
+# 72FM: https://72fm.com/station/48acbf47-f731-4c22-91b2-385d2fbb76c9?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",MR1 - Kossuth Rádió
+https://mr-stream.connectmedia.hu/4736/mr1.mp3
 # 72FM: https://72fm.com/station/664e0f96-cdaa-4aa2-a362-1543e2dd2c36?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Snq1MMW/NIUS-LOGO.png" group-title="Talk" radio="true",NIUS
 http://radio.nius.de/live?ref=radiobrowser
-# 72FM: https://72fm.com/station/9d1bb95f-4cc3-4bde-829e-897c7f5db332?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",Liberty News Radio
-http://lin1.san.fast-serv.com:6048/stream.mp3
 # 72FM: https://72fm.com/station/962634a8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",WFYI 90.1 Indianapolis, IN
 http://wfyi-iad.streamguys1.com/live
+# 72FM: https://72fm.com/station/9d1bb95f-4cc3-4bde-829e-897c7f5db332?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",Liberty News Radio
+http://lin1.san.fast-serv.com:6048/stream.mp3
 # 72FM: https://72fm.com/station/a75b2642-a237-4cc5-bf65-784acd358075?source=m3u
 #EXTINF:-1 tvg-logo="https://enperspectiva.uy/logo_radiomundo.jpeg" group-title="Talk" radio="true",Radiomundo
 https://stream1.enperspectiva.net:8443/radio.mp4
@@ -634,12 +634,12 @@ http://wdr-wdr2-aachenundregion.icecast.wdr.de/wdr/wdr2/aachenundregion/mp3/128/
 # 72FM: https://72fm.com/station/39866648-5a87-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Radio María Costa Rica - 100.7 FM
 http://dreamsiteradiocp2.com:8044/stream
-# 72FM: https://72fm.com/station/7659f108-5f8a-11e9-a622-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",Radio Maria Ukraine
-http://dreamsiteradiocp.com:8022/stream
 # 72FM: https://72fm.com/station/da5d71d1-d8cc-4301-9f86-b6abaa1201bd?source=m3u
 #EXTINF:-1 tvg-logo="https://static.bnr.nl/assets/bnr-next/logo.png" group-title="Talk" radio="true",BNR Nieuwsradio
 https://stream.bnr.nl/bnr_mp3_128_20
+# 72FM: https://72fm.com/station/7659f108-5f8a-11e9-a622-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",Radio Maria Ukraine
+http://dreamsiteradiocp.com:8022/stream
 # 72FM: https://72fm.com/station/a66636e2-6edb-443b-b5a0-9b9b400e73b2?source=m3u
 #EXTINF:-1 tvg-logo="https://www.voinews.id/home/img/logo/favicon.png" group-title="Talk" radio="true",RRI Voice Of Indonesia
 https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
@@ -796,12 +796,12 @@ http://ice09.fluidstream.net/fluid0902.aac?FLID=6
 # 72FM: https://72fm.com/station/234398bb-6de7-4f36-a894-23b378fd7c0c?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240705_205115896.jpg?alt=media&token=87ab5341-29e1-4f50-9f7d-7dca873d69e6" group-title="Talk" radio="true",Бизнес ФМ Санкт-Петербург 107.4 FM
 http://bfmreg.hostingradio.ru/spb.bfm128.mp3
-# 72FM: https://72fm.com/station/d6351baa-dcc9-45d3-a251-825c6dbf2c11?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",iHeartPodcast AM 1470
-https://stream.revma.ihrhls.com/zc3348
 # 72FM: https://72fm.com/station/77ff2da8-6fd2-11ea-b1cf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiocavolo.org/wp-content/uploads/2020/10/cropped-radio-cavolo-logo-white-background-300x300-1-180x180.png" group-title="Talk" radio="true",Radio Cavolo
 https://radiocavolo.org/stream
+# 72FM: https://72fm.com/station/d6351baa-dcc9-45d3-a251-825c6dbf2c11?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",iHeartPodcast AM 1470
+https://stream.revma.ihrhls.com/zc3348
 # 72FM: https://72fm.com/station/e1ae13df-5de5-43d2-a95c-92a18cbb3667?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Bío-Bío Concepción 98.1
 https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
@@ -826,27 +826,27 @@ https://stream.radiojar.com/332kkh84xp8uv
 # 72FM: https://72fm.com/station/854a35f1-442b-4982-a7da-febeb8e16e49?source=m3u
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="Talk" radio="true",BBC Radio Scotland (128k)
 http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8
-# 72FM: https://72fm.com/station/4bfa3b18-478b-4057-9bff-90ee4943a0ee?source=m3u
-#EXTINF:-1 tvg-logo="https://www.rfi.fr/apple-touch-icon.png" group-title="Talk" radio="true",RFI Russia
-https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3
 # 72FM: https://72fm.com/station/70fdae0c-8528-11e9-aa30-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Radio Hamrah رادیو همراه
 https://stream.zenolive.com/gxdq0awu30duv.aac
 # 72FM: https://72fm.com/station/d97e2054-1835-4e45-a088-608a65e063c6?source=m3u
 #EXTINF:-1 tvg-logo="https://plugmedia.co/play/wp-content/uploads/2021/01/Logo_Guayana.png" group-title="Talk" radio="true",Rumba 98.1 FM
 https://cast20.plugstreaming.com:2020/stream/r981/;
+# 72FM: https://72fm.com/station/4bfa3b18-478b-4057-9bff-90ee4943a0ee?source=m3u
+#EXTINF:-1 tvg-logo="https://www.rfi.fr/apple-touch-icon.png" group-title="Talk" radio="true",RFI Russia
+https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3
 # 72FM: https://72fm.com/station/66041a35-1f6f-4579-95bd-97eebe7b60a1?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",FM +
 http://193.108.24.21:8000/fmplus
 # 72FM: https://72fm.com/station/cf2150a2-1cee-479f-a948-be7cd70c420e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.985fm.ca/favicon.ico" group-title="Talk" radio="true",CHMP 985 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac
-# 72FM: https://72fm.com/station/d41cd653-89f0-4ca9-b849-70ce516e8a99?source=m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1200px-France_Inter_logo_2021.svg.png" group-title="Talk" radio="true",France Inter
-https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8
 # 72FM: https://72fm.com/station/96151623-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",KOPB 91.5 Oregon Public Broadcasting - Portland, OR
 http://stream1.opb.org/radio.mp3
+# 72FM: https://72fm.com/station/d41cd653-89f0-4ca9-b849-70ce516e8a99?source=m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1200px-France_Inter_logo_2021.svg.png" group-title="Talk" radio="true",France Inter
+https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8
 # 72FM: https://72fm.com/station/d6878d7f-56f9-4cdb-93a6-8b069ef0a51c?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Chennai live
 http://c2.radioboss.fm:8332/stream
@@ -865,12 +865,12 @@ http://streaming01.ib3radio.com:8000/ib3radio_menorca
 # 72FM: https://72fm.com/station/b7f8fa40-7be5-4407-ba9e-df6d984aea53?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",H24 Senegal
 https://listen.senemultimedia.net:8072/stream
-# 72FM: https://72fm.com/station/278f4665-f188-4fdc-bd83-d199e762efb5?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",台中歡喜之聲FM105.5
-http://59.125.41.65:8081/
 # 72FM: https://72fm.com/station/ef2cb53f-3f77-482c-942b-a2826cb324af?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Al Wisal
 http://uk7.internet-radio.com:8067/;
+# 72FM: https://72fm.com/station/278f4665-f188-4fdc-bd83-d199e762efb5?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",台中歡喜之聲FM105.5
+http://59.125.41.65:8081/
 # 72FM: https://72fm.com/station/e5614d86-0593-4cb6-b964-3a0ad346efe3?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Radio Maharani
 https://streamasiacdn.atc-labs.com/radiomaharani.aac
@@ -898,9 +898,9 @@ http://live.talksport.com/channel1m-es
 # 72FM: https://72fm.com/station/94ab6f5f-b684-4ca1-ae5c-c5c868ed20c6?source=m3u
 #EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/themes/3aw/assets/img/favicon/apple-touch-icon.png" group-title="Talk" radio="true",3AW - Melbourne - 693 AM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3
-# 72FM: https://72fm.com/station/9fe7190b-687b-40f2-bdfc-51530c57f0b2?source=m3u
-#EXTINF:-1 group-title="Talk" radio="true",colonia am 550
-https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac
 # 72FM: https://72fm.com/station/0f6e28af-8739-409d-a3aa-20e4c7d0edbb?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.alexjoneslive.com/2026/03/23200745/web-logo.png" group-title="Talk" radio="true",Alex Jones Live - AJN
 https://audio.alexjoneslive.com:8443/alexjonesshow.opus
+# 72FM: https://72fm.com/station/9fe7190b-687b-40f2-bdfc-51530c57f0b2?source=m3u
+#EXTINF:-1 group-title="Talk" radio="true",colonia am 550
+https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac

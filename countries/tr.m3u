@@ -127,21 +127,21 @@ http://yayin1.yayindakiler.com:3156/
 # 72FM: https://72fm.com/station/f17523b9-2e77-46f3-8851-cdd842ca5b8f?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Metro fm turkey
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?
-# 72FM: https://72fm.com/station/14db05f4-b028-40dc-a13f-c53d068d929e?source=m3u
-#EXTINF:-1 tvg-logo="https://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-RADYO_LOGO_Son-180x180.png" group-title="Türkiye" radio="true",Habertürk Radyo
-https://haberturkradyo.radyotvonline.net/haberturkradyo
 # 72FM: https://72fm.com/station/f940cc74-1673-4bc8-adbc-832d5d51a012?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Kurd1 FM
 https://listen.radioking.com/radio/119251/stream/158701
+# 72FM: https://72fm.com/station/14db05f4-b028-40dc-a13f-c53d068d929e?source=m3u
+#EXTINF:-1 tvg-logo="https://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-RADYO_LOGO_Son-180x180.png" group-title="Türkiye" radio="true",Habertürk Radyo
+https://haberturkradyo.radyotvonline.net/haberturkradyo
 # 72FM: https://72fm.com/station/2815bbc7-2cbf-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg" group-title="Türkiye" radio="true",dinamo.fm caffe
 http://channels.dinamo.fm/caffe-mp3
-# 72FM: https://72fm.com/station/dff6fd72-58fe-4eb5-8bf7-c3f76f5375ca?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w768/q70/12467465.jpeg" group-title="Türkiye" radio="true",TRT NAĞME
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 # 72FM: https://72fm.com/station/43061315-2893-46fa-ae1e-96e767d5bce3?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",POWER TÜRK FM
 https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+# 72FM: https://72fm.com/station/dff6fd72-58fe-4eb5-8bf7-c3f76f5375ca?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w768/q70/12467465.jpeg" group-title="Türkiye" radio="true",TRT NAĞME
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 # 72FM: https://72fm.com/station/960e5bb2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo Spor
 http://46.20.4.5:8170/
@@ -163,15 +163,15 @@ http://stream.radyoodtu.com.tr/;
 # 72FM: https://72fm.com/station/4dc09559-aa5c-4ecd-a8cf-4fc450471ae4?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Kafa Radyo
 https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+# 72FM: https://72fm.com/station/0a2c3506-a136-40f2-b008-38daf2b12fd6?source=m3u
+#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png" group-title="Türkiye" radio="true",TRT FM
+https://trt.radyotvonline.net/trtfm
 # 72FM: https://72fm.com/station/775bea1d-8c92-11e9-ad01-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Gözyaşı FM
 http://yayin1.canliyayin.org:8700/;*.mp3
 # 72FM: https://72fm.com/station/c5f0b26b-234e-45de-bd3e-23f7ab177d71?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",FENOMEN KARISIK
 https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8
-# 72FM: https://72fm.com/station/0a2c3506-a136-40f2-b008-38daf2b12fd6?source=m3u
-#EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png" group-title="Türkiye" radio="true",TRT FM
-https://trt.radyotvonline.net/trtfm
 # 72FM: https://72fm.com/station/2871e14f-254c-4b0a-b506-c59bc6175e43?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Park Fm
 http://yayin.netradyom.com:8050/PARKFM/
@@ -282,7 +282,7 @@ https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
 https://erzincan.80.yayin.com.tr/stream
 # 72FM: https://72fm.com/station/ccfd28c8-9f0a-11e9-a787-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Borusan Klasik
-http://22653.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC
+http://25633.live.streamtheworld.com/BORUSAN_KLASIKAAC_SC
 # 72FM: https://72fm.com/station/57d6c252-a148-4e96-9602-39f3d6f22eb1?source=m3u
 #EXTINF:-1 tvg-logo="https://radyo44.com.tr/favicons/favicon-32x32.png" group-title="Türkiye" radio="true",Radio 44
 https://radyo44.80.yayin.com.tr/stream
@@ -316,12 +316,12 @@ http://25643.live.streamtheworld.com:3690/VIRGIN_RADIOAAC_SC
 # 72FM: https://72fm.com/station/474b5f9f-6202-4928-a3c0-0a9068ce040e?source=m3u
 #EXTINF:-1 tvg-logo="https://images.keepone.net/1376-2022-10-17.png" group-title="Türkiye" radio="true",102.1 Arabeskin Merkezi Fm
 http://canli.arabeskinmerkezi.com:9180/stream
-# 72FM: https://72fm.com/station/2c1b76ea-4675-4e64-a282-50bdd4a9a238?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Can Radyo
-http://yayin1.yayindakiler.com:3124/;
 # 72FM: https://72fm.com/station/960e363d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Max Fm 95.8 Maximum Music
 http://live2.radyotvonline.com:8025/
+# 72FM: https://72fm.com/station/2c1b76ea-4675-4e64-a282-50bdd4a9a238?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Can Radyo
+http://yayin1.yayindakiler.com:3124/;
 # 72FM: https://72fm.com/station/e07ce960-0fca-49c5-9f9f-4aa24feb77a8?source=m3u
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSnbp3j7UCOUCra41mcQXEaeuobWPad1G7bwOsZDw=s900-c-k-c0x00ffffff-no-rj" group-title="Türkiye" radio="true",Gundi FM
 http://gundifm.ozelip.com:7830/;
@@ -358,12 +358,12 @@ https://live.radyositesihazir.com:10997/;
 # 72FM: https://72fm.com/station/12151b64-b476-4516-b7db-c1263ae422db?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Danceland turkey
 https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
-# 72FM: https://72fm.com/station/45bb5fc8-84df-4561-b282-935bb5dd7c86?source=m3u
-#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg" group-title="Türkiye" radio="true",dinamo.fm fluent
-http://channels.dinamo.fm/fluent-mp3
 # 72FM: https://72fm.com/station/3cb7e617-ead1-4a88-9239-802050b33a13?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Turkuvaz Musiki
 https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
+# 72FM: https://72fm.com/station/45bb5fc8-84df-4561-b282-935bb5dd7c86?source=m3u
+#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg" group-title="Türkiye" radio="true",dinamo.fm fluent
+http://channels.dinamo.fm/fluent-mp3
 # 72FM: https://72fm.com/station/e053f98a-e195-48f0-b07b-b2143c6e0964?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Cnn Türk Radyo
 https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0
@@ -421,27 +421,27 @@ https://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8
 # 72FM: https://72fm.com/station/a404045e-bd13-4e15-a591-6c81b846b1b8?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Med Radyo
 http://medradyo.kesintisizyayin.com:8062/stream
-# 72FM: https://72fm.com/station/9ea7ed4e-d777-4e94-bd45-23abfaeaf2d6?source=m3u
-#EXTINF:-1 tvg-logo="https://kissapp.com.tr/content/files/IIMG_BE9E7FDE-27B7-466A-BE72-C344A3DCCD4C.jpg" group-title="Türkiye" radio="true",Kiss Türk
-https://kiss.radyotvonline.net/kissturk
 # 72FM: https://72fm.com/station/f34bebba-3a9e-4636-a593-d29538d7ed76?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",radyo mezopotamya
 https://anadolu.liderhost.com.tr/9404/stream
+# 72FM: https://72fm.com/station/9ea7ed4e-d777-4e94-bd45-23abfaeaf2d6?source=m3u
+#EXTINF:-1 tvg-logo="https://kissapp.com.tr/content/files/IIMG_BE9E7FDE-27B7-466A-BE72-C344A3DCCD4C.jpg" group-title="Türkiye" radio="true",Kiss Türk
+https://kiss.radyotvonline.net/kissturk
 # 72FM: https://72fm.com/station/1c4363ac-c53f-43a9-8378-aab79be08aca?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",HOME KLASİK TURKEY
 https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8
-# 72FM: https://72fm.com/station/97519d7f-a93d-49ef-aa6f-47f8cb2e772c?source=m3u
-#EXTINF:-1 tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=843" group-title="Türkiye" radio="true",Powerturk R&B Hip Hop
-https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
 # 72FM: https://72fm.com/station/bf106bfa-4b34-4b50-9955-f7a36d76c0da?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Power Dance
 https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio
-# 72FM: https://72fm.com/station/926a0629-3096-4755-a3b3-031e78bef5c1?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Radio Mydonose
-https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3
+# 72FM: https://72fm.com/station/97519d7f-a93d-49ef-aa6f-47f8cb2e772c?source=m3u
+#EXTINF:-1 tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=843" group-title="Türkiye" radio="true",Powerturk R&B Hip Hop
+https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
 # 72FM: https://72fm.com/station/87c44288-3030-4e9f-b5af-62fc254fa3f9?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo Gol
 https://edge1.radyotvonline.net/shoutcast/play/radyogol
+# 72FM: https://72fm.com/station/926a0629-3096-4755-a3b3-031e78bef5c1?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Radio Mydonose
+https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3
 # 72FM: https://72fm.com/station/ad09398c-3f3d-4311-9344-c76395e46805?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",NTV Radyo
 http://ntvrdwmp.radyotvonline.com/
@@ -502,12 +502,12 @@ https://trt.radyotvonline.net/trthaber
 # 72FM: https://72fm.com/station/b5981132-7fdd-43cf-9433-eaa712b8ee21?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo Taksi
 https://live.radyo.in/8006/stream
-# 72FM: https://72fm.com/station/70d5625c-8c8e-11e9-ad01-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Radyo Gül
-http://yayin2.canliyayin.org:8866/;*.mp3
 # 72FM: https://72fm.com/station/6f239590-bf73-4c14-ba9c-ccedb73fd4d0?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",PowerTürk Dans
 https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8
+# 72FM: https://72fm.com/station/70d5625c-8c8e-11e9-ad01-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Radyo Gül
+http://yayin2.canliyayin.org:8866/;*.mp3
 # 72FM: https://72fm.com/station/2ddf08ec-21fb-4613-9cd4-ec11a9e47f90?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Kent FM
 https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8
@@ -523,12 +523,12 @@ http://yayin.hemdemradyo.com/
 # 72FM: https://72fm.com/station/e97c64f6-04c9-4268-a18f-e77fd6ce1416?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radyoreklamankara.com/wp-content/uploads/2016/05/a%C5%9Fk-fm-300x300.png" group-title="Türkiye" radio="true",Aşk FM
 http://yayin.asymedya.com:8020/;
-# 72FM: https://72fm.com/station/5a6e8de5-c9fc-4182-b651-32ad40c2e1dc?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Fenomen Türk 256
-https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8
 # 72FM: https://72fm.com/station/f0be7682-2aab-45b6-b66a-d4380897a6bc?source=m3u
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg" group-title="Türkiye" radio="true",FG 93.8 (Future Generation) mp3 128k
 https://edge1.radyotvonline.net/shoutcast/play/fg
+# 72FM: https://72fm.com/station/5a6e8de5-c9fc-4182-b651-32ad40c2e1dc?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Fenomen Türk 256
+https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8
 # 72FM: https://72fm.com/station/28b60579-045a-4e06-89b6-e85bee30c228?source=m3u
 #EXTINF:-1 tvg-logo="https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png" group-title="Türkiye" radio="true",TürküRadyo
 https://yayin.turkhosted.com/4591/stream
@@ -556,12 +556,12 @@ http://yayin1.yayindakiler.com:3002/;stream.nsv
 # 72FM: https://72fm.com/station/87f52657-066b-4ffe-b8c5-4cc1f9476b7e?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Dost FM
 http://yayin.dostfm.com:8920/;.mp3?no_dl
-# 72FM: https://72fm.com/station/d2d550a5-167e-47e9-afd1-8c6fe9a01c20?source=m3u
-#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg" group-title="Türkiye" radio="true",dinamo.fm legacy
-http://channels.dinamo.fm/legacy-mp3
 # 72FM: https://72fm.com/station/837f9f9d-dcae-44a9-acc8-9bd6be8de720?source=m3u
 #EXTINF:-1 tvg-logo="https://www.bestfm.com.tr/wp-content/uploads/2024/12/LOGOWHITE-2-1.png" group-title="Türkiye" radio="true",Best FM
 https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/d2d550a5-167e-47e9-afd1-8c6fe9a01c20?source=m3u
+#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-legacy-favicon.jpg" group-title="Türkiye" radio="true",dinamo.fm legacy
+http://channels.dinamo.fm/legacy-mp3
 # 72FM: https://72fm.com/station/f4b4718c-aca0-45dd-bdce-b104dbc0b657?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radyoekin.net/favicon.ico" group-title="Türkiye" radio="true",Radyo Ekin
 https://yayin.turkhosted.com/6006/stream
@@ -574,12 +574,12 @@ https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
 # 72FM: https://72fm.com/station/14797ffb-2fdd-4a54-9748-e96486914dd2?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radyoakdeniz.com/wp-content/uploads/2024/03/cropped-radyoakdeniz-180x180.png" group-title="Türkiye" radio="true",RADYO AKDENIZ
 https://yayin.radyoakdeniz.com/9470/stream
-# 72FM: https://72fm.com/station/963e5f78-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://brtk.net/wp-content/uploads/2024/11/28/cropped-brt-icon-180x180.png?ver=ebc4c4ff24f512d1ba2ae8331bfa527d" group-title="Türkiye" radio="true",BRTK
-http://sc.brtk.net:8000/
 # 72FM: https://72fm.com/station/3acd808a-e801-43bb-bdb3-16a8f4761f0d?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",meteorolojinin sesi
 http://radyomgm.canliyayinda.com/;stream.mp3
+# 72FM: https://72fm.com/station/963e5f78-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://brtk.net/wp-content/uploads/2024/11/28/cropped-brt-icon-180x180.png?ver=ebc4c4ff24f512d1ba2ae8331bfa527d" group-title="Türkiye" radio="true",BRTK
+http://sc.brtk.net:8000/
 # 72FM: https://72fm.com/station/2724a1ac-9f70-40b7-bba9-f75325e56faf?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo Yalova
 https://studio25.radiolize.com/radio/8200/radio.mp3
@@ -625,12 +625,12 @@ https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
 # 72FM: https://72fm.com/station/c745e25e-0af7-431b-a0c2-ee20bd695893?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Küpe FM
 https://icecast.netmedya.net/kupefm
-# 72FM: https://72fm.com/station/cef30f27-1f96-4005-8b7c-e161dba43ccf?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Erkam Radyo
-https://api-tv5.yayin.com.tr:8002/mp3
 # 72FM: https://72fm.com/station/cc84b14e-6f8d-45a1-b144-d7f25242c9d9?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo Voyage
 http://voyagewmp.radyotvonline.com/
+# 72FM: https://72fm.com/station/cef30f27-1f96-4005-8b7c-e161dba43ccf?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Erkam Radyo
+https://api-tv5.yayin.com.tr:8002/mp3
 # 72FM: https://72fm.com/station/1bcee7d4-7c70-4f26-b56d-e2f9095d0e3e?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
@@ -658,45 +658,45 @@ https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 # 72FM: https://72fm.com/station/59c37d82-9848-4f9a-8b4f-1aafce0fed86?source=m3u
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png" group-title="Türkiye" radio="true",TRT Memleketim FM
 https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
-# 72FM: https://72fm.com/station/131f6fc8-1e32-49ab-9a4f-d556db5c7f3e?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Kıyı Caz
-http://caz.radioca.st/
 # 72FM: https://72fm.com/station/8f6ffefd-5371-4216-b503-099c7ce2128b?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo S
 http://icecast.netmedya.net/radyos
+# 72FM: https://72fm.com/station/131f6fc8-1e32-49ab-9a4f-d556db5c7f3e?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Kıyı Caz
+http://caz.radioca.st/
 # 72FM: https://72fm.com/station/4400ded3-62df-40d9-b1fe-9dfe39cadc12?source=m3u
 #EXTINF:-1 tvg-logo="https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png" group-title="Türkiye" radio="true",Loops Radio House Station
 https://loopsdeep.ozelip.com/7806/stream
 # 72FM: https://72fm.com/station/c7ef0cc3-2ce1-4c4d-9506-ff1ca8d27197?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Batı Radyo
 https://sslyayin.netyayin.net:10902/
-# 72FM: https://72fm.com/station/cc06c583-3875-4d75-8b90-383c310f1ba8?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",KIYI Muzik
-https://kiyi.radioca.st/stream
 # 72FM: https://72fm.com/station/963c3c6f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",AFN 360 Incirlik
 http://29333.live.streamtheworld.com:3690/AFNE_ICK_SC
+# 72FM: https://72fm.com/station/cc06c583-3875-4d75-8b90-383c310f1ba8?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",KIYI Muzik
+https://kiyi.radioca.st/stream
 # 72FM: https://72fm.com/station/84d7f5da-b9d2-4092-be3b-1211690bcfdd?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Fenomen Karışık 256
 https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8
 # 72FM: https://72fm.com/station/2a2cb6a8-a0a3-49d9-81e2-987b7edc83a7?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",POWER EARTH
 http://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8
-# 72FM: https://72fm.com/station/d5fb7ff2-4b30-4f0f-a66f-c44a480337ec?source=m3u
-#EXTINF:-1 tvg-logo="https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png" group-title="Türkiye" radio="true",Loops Radio Progressive
-https://progressive.ozelip.com/7670/stream
 # 72FM: https://72fm.com/station/5e5b4c7f-716d-42bb-9231-0209c81037e9?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Süper 2 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3
+# 72FM: https://72fm.com/station/d5fb7ff2-4b30-4f0f-a66f-c44a480337ec?source=m3u
+#EXTINF:-1 tvg-logo="https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png" group-title="Türkiye" radio="true",Loops Radio Progressive
+https://progressive.ozelip.com/7670/stream
 # 72FM: https://72fm.com/station/04ff41d5-b70a-4201-b06e-f39b5d6b9dcc?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Fenomen Clubbin 256
 https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8
-# 72FM: https://72fm.com/station/ddf94722-dd93-4fb5-ac19-ad42649a30e1?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Serhat FM 91.5
-http://yayin.serhatfm.com:9150/stream
 # 72FM: https://72fm.com/station/3579eefa-52d5-40ba-9393-1360740e4bcb?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Discoland
 https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
+# 72FM: https://72fm.com/station/ddf94722-dd93-4fb5-ac19-ad42649a30e1?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Serhat FM 91.5
+http://yayin.serhatfm.com:9150/stream
 # 72FM: https://72fm.com/station/197b21b5-9f89-4f1f-8d68-cfc59ae9ba70?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Haber Türk Radyo
 http://haberturkradyo.radyotvonline.net/haberturkradyo
@@ -706,6 +706,9 @@ https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3
 # 72FM: https://72fm.com/station/25fba87c-ddc8-409a-8474-4ffbac809c59?source=m3u
 #EXTINF:-1 tvg-logo="https://radioglamorize.com/wp-content/uploads/2020/05/cropped-sdiavatar2-180x180.png" group-title="Türkiye" radio="true",Radio Glamorize
 https://live.radioglamorize.com/stream1
+# 72FM: https://72fm.com/station/fc04c24b-1a01-4ec6-b7d3-64eba89e075f?source=m3u
+#EXTINF:-1 tvg-logo="https://kalpfm.com/favicon.ico" group-title="Türkiye" radio="true",Kalp FM
+https://yayin.kalpfm.com:8080/
 # 72FM: https://72fm.com/station/8808a63f-0709-4dfb-83f8-5edd8b666d15?source=m3u
 #EXTINF:-1 tvg-logo="https://www.fakirfm.com/favicon.ico" group-title="Türkiye" radio="true",Fakir Fm
 https://live.radyositesihazir.com/1025/stream/
@@ -718,30 +721,27 @@ https://ssl22.radyotelekom.com/8232/stream
 # 72FM: https://72fm.com/station/f6bed2c2-37b4-4e57-8beb-bbcc9b3bbf11?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo Maranata
 http://medya.radyomaranata.com:8005/live
-# 72FM: https://72fm.com/station/fc04c24b-1a01-4ec6-b7d3-64eba89e075f?source=m3u
-#EXTINF:-1 tvg-logo="https://kalpfm.com/favicon.ico" group-title="Türkiye" radio="true",Kalp FM
-https://yayin.kalpfm.com:8080/
 # 72FM: https://72fm.com/station/98fcbf0c-8bd7-480d-8af3-6ab5dbb1ba9b?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo Mori
 https://amed.ozelip.com/8040/stream
 # 72FM: https://72fm.com/station/106c740c-1852-4b7b-82e1-927656bdf465?source=m3u
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/25a3f157-c5a0-4506-b513-5e63518173bb.png" group-title="Türkiye" radio="true",TRT Antalya
 https://radio-trtantalya.medya.trt.com.tr/master.m3u8
+# 72FM: https://72fm.com/station/7eb0b049-9a60-4acb-9cc0-22074d6aee8a?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 # 72FM: https://72fm.com/station/b4c64aa8-9bf1-4015-bc8d-7e10ff1edce9?source=m3u
 #EXTINF:-1 tvg-logo="https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png" group-title="Türkiye" radio="true",Loops Radio Techno
 https://ip179.ozelip.com/7688//asistan/stream/
 # 72FM: https://72fm.com/station/7225904f-6fd7-404f-b4a7-81e75e301ed4?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Fenomen Dans 256
 https://live.radyofenomen.com/fenomendans/256/chunks.m3u8
-# 72FM: https://72fm.com/station/7eb0b049-9a60-4acb-9cc0-22074d6aee8a?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-# 72FM: https://72fm.com/station/7f4814fc-09f6-4be0-ab7d-6b9320ff3538?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Emek radyo
-http://yayin1.radyohizmeti.com:8585/;
 # 72FM: https://72fm.com/station/f2bce1ef-81b1-41cd-9052-8d3213ae2031?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",TRT Radyo Arabi / عربي
 https://radio-trtarabi.medya.trt.com.tr/master.m3u8
+# 72FM: https://72fm.com/station/7f4814fc-09f6-4be0-ab7d-6b9320ff3538?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Emek radyo
+http://yayin1.radyohizmeti.com:8585/;
 # 72FM: https://72fm.com/station/b0c4da87-e2f4-4057-aa6f-e863779b7a35?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",POP HOME
 https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8
@@ -757,12 +757,12 @@ http://live.radyotvonline.com:9030/;stream.nsv
 # 72FM: https://72fm.com/station/60f46e8b-c57f-4ef0-8aea-be92dddfca43?source=m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnsgHRtW/android-chrome-512x512.png" group-title="Türkiye" radio="true",Mayday Records
 https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3
-# 72FM: https://72fm.com/station/d40a095c-63dd-4c25-ab89-8bc33505786c?source=m3u
-#EXTINF:-1 tvg-logo="https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png" group-title="Türkiye" radio="true",Virgin Radio Türkiye
-http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
 # 72FM: https://72fm.com/station/e211532e-a87f-42d9-907c-f2fa08898348?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",MEGA SİTE
 http://yayin.netradyom.com:7900/;stream.mp3
+# 72FM: https://72fm.com/station/d40a095c-63dd-4c25-ab89-8bc33505786c?source=m3u
+#EXTINF:-1 tvg-logo="https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png" group-title="Türkiye" radio="true",Virgin Radio Türkiye
+http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
 # 72FM: https://72fm.com/station/8e74c7ea-691a-4f48-b0cd-b9321d263ab9?source=m3u
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/60b756f6-d53d-42dd-909b-7e09f2c38d82.png" group-title="Türkiye" radio="true",TRT Erzurum
 https://radio-trterzurum.medya.trt.com.tr/master.m3u8
@@ -781,12 +781,12 @@ http://yayin1.canliyayin.org:9482/stream
 # 72FM: https://72fm.com/station/1fd7925e-09ac-42b3-b560-f4948fa8bfd1?source=m3u
 #EXTINF:-1 tvg-logo="https://maviradyo.net/assets/images/logo2.png" group-title="Türkiye" radio="true",Elazığ Mavi Radyo
 https://yayin.turkhosted.com/6066/stream
-# 72FM: https://72fm.com/station/c5cd0f2d-a8ee-42c6-82b6-df54f04460b8?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",POP LAND
-https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
 # 72FM: https://72fm.com/station/1875f45a-e465-4b0f-88cf-c6ebc305d9cc?source=m3u
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/12de3bf5-2267-4eea-9e1c-22cec7288294.png" group-title="Türkiye" radio="true",TRT Çukurova
 https://radio-trtcukurova.medya.trt.com.tr/master.m3u8
+# 72FM: https://72fm.com/station/c5cd0f2d-a8ee-42c6-82b6-df54f04460b8?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",POP LAND
+https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
 # 72FM: https://72fm.com/station/7f1ef327-ff1c-4027-b679-59e5cf2739c6?source=m3u
 #EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg" group-title="Türkiye" radio="true",Show Radyo
 http://showradyo.radyotvonline.net/showradyoaac/
@@ -799,21 +799,21 @@ http://37.247.98.8/stream/30/
 # 72FM: https://72fm.com/station/a7dc38d4-920a-4de2-8fac-5106abccf69e?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",JoyTürk Akustik
 http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac
-# 72FM: https://72fm.com/station/ec87d8d3-757c-41cd-b7de-c313adbc0f84?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Fırat FM
-https://anadolu.liderhost.com.tr:10912/;
 # 72FM: https://72fm.com/station/2c1d30b7-3fbd-43cb-b956-167d822d276f?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Mega Site .
 http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=
+# 72FM: https://72fm.com/station/ec87d8d3-757c-41cd-b7de-c313adbc0f84?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Fırat FM
+https://anadolu.liderhost.com.tr:10912/;
+# 72FM: https://72fm.com/station/25cf80e1-ccae-4433-8cc3-50a685bae3e2?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716" group-title="Türkiye" radio="true",Power R&B Hip-Hop
+https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8
 # 72FM: https://72fm.com/station/9ae4d719-d27f-455e-9005-9df94718c08f?source=m3u
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/da27e57f-8cc2-4c2b-ad46-a90350e38f14.png" group-title="Türkiye" radio="true",TRT Trabzon
 https://radio-trttrabzon.medya.trt.com.tr/master.m3u8
 # 72FM: https://72fm.com/station/d35ed8b1-871b-47e9-8df0-cfb4a094095b?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo 2000 Erzincan
 https://radyo.yayindakiler.com:3030/stream?/;stream.mp3
-# 72FM: https://72fm.com/station/25cf80e1-ccae-4433-8cc3-50a685bae3e2?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716" group-title="Türkiye" radio="true",Power R&B Hip-Hop
-https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8
 # 72FM: https://72fm.com/station/1020f3df-3507-476a-85ca-152e03cb75ff?source=m3u
 #EXTINF:-1 tvg-logo="https://radyonida.com.tr/dist/img/radyo-nida.jpg?2" group-title="Türkiye" radio="true",Radyo Nida
 https://anadolu.liderhost.com.tr/8106/stream
@@ -838,12 +838,12 @@ https://stream.netradyom.com/listen/megasite/radio.mp3
 # 72FM: https://72fm.com/station/e15a3233-3781-4056-831e-c07dd5fc60be?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Radyo Odtu Easy
 https://stream3.radyoodtu.com.tr:8000/easy
-# 72FM: https://72fm.com/station/c1b41b98-7a4a-4b2f-8d68-3322fdd428e1?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Kıyı Türkçe
-https://kiyiturk.radioca.st/
 # 72FM: https://72fm.com/station/c49bf5c6-810f-40f4-a0b8-45baa006bf63?source=m3u
 #EXTINF:-1 tvg-logo="https://radioline.fm/wp-content/uploads/2020/05/radioline_logo.png" group-title="Türkiye" radio="true",Radio Line
 https://online.radioline.fm:8443/stream
+# 72FM: https://72fm.com/station/c1b41b98-7a4a-4b2f-8d68-3322fdd428e1?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Kıyı Türkçe
+https://kiyiturk.radioca.st/
 # 72FM: https://72fm.com/station/5ce39eb0-54da-4b6c-890b-e83c4a0ca228?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Arkadas Radyo
 http://yayin2.yayindakiler.com:4134/;stream.nsv
@@ -877,30 +877,30 @@ https://edge1.radyotvonline.net/shoutcast/play/showradyo
 # 72FM: https://72fm.com/station/e7028300-4bb5-4a29-a939-48c4362e708c?source=m3u
 #EXTINF:-1 tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/4eee676f-ab62-437e-85ba-38855d7bd904.png" group-title="Türkiye" radio="true",TRT TSR
 https://radio-trttsr.medya.trt.com.tr/master.m3u8
-# 72FM: https://72fm.com/station/721cef53-e6ec-44b0-a900-feed23601518?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Easyland
-https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
 # 72FM: https://72fm.com/station/1c5e50a7-ae07-4aae-b9d8-e167c2c2f5ec?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",radyo megasite
 http://mega.netradyom.com:7900/radio.mp3
+# 72FM: https://72fm.com/station/721cef53-e6ec-44b0-a900-feed23601518?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Easyland
+https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
 # 72FM: https://72fm.com/station/1a830025-a828-47ad-910c-441afca92ce7?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Joy FM Istanbul
 http://21633.live.streamtheworld.com/JOY_FM128AAC.aac
+# 72FM: https://72fm.com/station/4dd16726-deed-45ed-afd5-c5c296a5dded?source=m3u
+#EXTINF:-1 tvg-logo="https://www.istanbulfm.com.tr/assets/logo.png" group-title="Türkiye" radio="true",İstanbul FM
+https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8
 # 72FM: https://72fm.com/station/74accaed-3589-47b5-8190-54d10f9bf5f8?source=m3u
 #EXTINF:-1 tvg-logo="https://apacikradyo.com.tr/logo1024" group-title="Türkiye" radio="true",Apacik Radyo
 http://stream.34bit.net/ar.mp3
 # 72FM: https://72fm.com/station/ef2a39d8-7633-48cf-99ef-a1f00f07d8a7?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Moral FM
 https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50
-# 72FM: https://72fm.com/station/7ea58b1d-e502-4e03-abb1-65b2408bab2d?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Radyo Fıtrat
-http://radyofitrat.radyotvonline.net/
 # 72FM: https://72fm.com/station/29664f25-1649-4725-b88b-89381616b55f?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",Engelliler radyo
 https://stream.zeno.fm/iuqovax9ftsvv
 # 72FM: https://72fm.com/station/a6bdbd5c-6f02-4f14-a56a-c30ff71d82f9?source=m3u
 #EXTINF:-1 group-title="Türkiye" radio="true",power love
 https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
-# 72FM: https://72fm.com/station/d3714737-f527-451f-a93d-a66368e188b0?source=m3u
-#EXTINF:-1 group-title="Türkiye" radio="true",Erzincan Nostalji Radyo
-https://erzincannostalji.ozelip.com/8238/stream
+# 72FM: https://72fm.com/station/7ea58b1d-e502-4e03-abb1-65b2408bab2d?source=m3u
+#EXTINF:-1 group-title="Türkiye" radio="true",Radyo Fıtrat
+http://radyofitrat.radyotvonline.net/

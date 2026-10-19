@@ -85,12 +85,12 @@ https://listen.radioking.com/radio/710810/stream/776366
 # 72FM: https://72fm.com/station/a0357a8d-b426-4e35-8d34-3fdd1f17115b?source=m3u
 #EXTINF:-1 tvg-logo="https://www.facebook.com/photo/?fbid=845651767579735&set=a.451055430372706" group-title="Morocco" radio="true",radio yan plus
 https://stream.zeno.fm/7nqu31p6xg0uv
-# 72FM: https://72fm.com/station/0caedaf7-ecd4-4bd8-96e9-082b79a19d90?source=m3u
-#EXTINF:-1 tvg-logo="https://static.yabiladi.com/images_new/logo_2_yab.png?4" group-title="Morocco" radio="true",Yabiladi Azawan Amazigh
-https://radio.yabiladi.com:9002/;stream.mp3
 # 72FM: https://72fm.com/station/dae1a80a-3fd7-433d-a805-4ede99e568b2?source=m3u
 #EXTINF:-1 tvg-logo="https://static.yabiladi.com/images_new/logo_2_yab.png?4" group-title="Morocco" radio="true",Yabiladi Radio
 https://radio.yabiladi.com:8002/;stream.mp3
+# 72FM: https://72fm.com/station/0caedaf7-ecd4-4bd8-96e9-082b79a19d90?source=m3u
+#EXTINF:-1 tvg-logo="https://static.yabiladi.com/images_new/logo_2_yab.png?4" group-title="Morocco" radio="true",Yabiladi Azawan Amazigh
+https://radio.yabiladi.com:9002/;stream.mp3
 # 72FM: https://72fm.com/station/45fbac1d-4838-4b51-b3eb-7c92fba5ef1a?source=m3u
 #EXTINF:-1 group-title="Morocco" radio="true",Hit Radio (Morocco)
 https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
@@ -139,18 +139,18 @@ https://uradio-aac.ice.infomaniak.ch/uradio.aac
 # 72FM: https://72fm.com/station/3194ab53-148e-482c-b392-6b33ad40d9b1?source=m3u
 #EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/fbd01c81-1f43-4f10-8682-19738ca43aec-w320.webp" group-title="Morocco" radio="true",Medina FM Andalou (128 kbps)
 https://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3
-# 72FM: https://72fm.com/station/1c1de83b-2d27-4ae2-920c-98a56df016b6?source=m3u
-#EXTINF:-1 group-title="Morocco" radio="true",aswatalweb
-http://78.129.252.13:24460/stream
 # 72FM: https://72fm.com/station/9f26b055-db67-447a-81e6-ddb5c8c40dc3?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMreguvYInAS9F80xUJvDuOjjQeeiH46CmBlYl8629A&s" group-title="Morocco" radio="true",Radio Adwaa FM 6
 https://stream.zeno.fm/tvxvud2kpm0uv
-# 72FM: https://72fm.com/station/bde2191e-4736-41b9-bbe7-816521af8662?source=m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yZXms7vyn-1JoEXa_XaHhyojkcilo9qPUC8bl55upA&s=10" group-title="Morocco" radio="true",Radio Azrou Live
-https://stream.zeno.fm/nzdw7gqc0s8uv
+# 72FM: https://72fm.com/station/1c1de83b-2d27-4ae2-920c-98a56df016b6?source=m3u
+#EXTINF:-1 group-title="Morocco" radio="true",aswatalweb
+http://78.129.252.13:24460/stream
 # 72FM: https://72fm.com/station/8ada979f-dc6b-49ca-9dc9-bd3377c99aac?source=m3u
 #EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/43a70411-46cc-40c7-b4bb-7fcb41ce70ea-w320.webp" group-title="Morocco" radio="true",Medina FM Nachat (128 kbps)
 https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3
+# 72FM: https://72fm.com/station/bde2191e-4736-41b9-bbe7-816521af8662?source=m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yZXms7vyn-1JoEXa_XaHhyojkcilo9qPUC8bl55upA&s=10" group-title="Morocco" radio="true",Radio Azrou Live
+https://stream.zeno.fm/nzdw7gqc0s8uv
 # 72FM: https://72fm.com/station/91ec0c03-f58c-4e42-a034-067a22f867d3?source=m3u
 #EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/0a75b43e-0a49-418a-9ca5-b3bcc3428d27-w320.webp" group-title="Morocco" radio="true",Medina FM (128 kbps)
 https://medinafm.ice.infomaniak.ch/medinafm-128.mp3
@@ -161,5 +161,5 @@ https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1UCRLXymEBsuwoJVLF1VSsptvA_spPUeN/view?usp=drivesdk" group-title="Morocco" radio="true",© XGlite™® XGlite Radio FM Web Station
 http://95.154.195.3:33087/
 # 72FM: https://72fm.com/station/79ed8ddf-5e4d-4f4b-92e9-51dfbf899241?source=m3u
-#EXTINF:-1 group-title="Morocco" radio="true",Kabana Rooftop Marrakech
+#EXTINF:-1 tvg-logo="https://stream.vibe-stream.com/vibestream-logo.png" group-title="Morocco" radio="true",Kabana Rooftop Marrakech
 https://stream.vibe-stream.com/kabana-rooftop-marrakech.mp3

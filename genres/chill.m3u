@@ -160,12 +160,12 @@ http://maggie.torontocast.com:8022/stream
 # 72FM: https://72fm.com/station/8e99e319-021a-45ee-b238-876f1ecc60b8?source=m3u
 #EXTINF:-1 tvg-logo="https://d3rt1990lpmkn.cloudfront.net/640/0634887695e4eae902001f7a0043fabf315ca85137b2bc48b0f7bc471027db292203d32bf423475d5d684fa192549c8167a024502282748d7082779ba7e53d4d6ea32ef5b8b2ab1dccd5c8d6b75db291" group-title="Chill & Relax" radio="true",a.m. ambient
 http://radio.stereoscenic.com/ama-h
-# 72FM: https://72fm.com/station/9624ac41-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",Soundstorm Radio
-http://stream.soundstorm-radio.com:8000/
 # 72FM: https://72fm.com/station/a5bffcf2-3924-40a7-998a-221011fb0a20?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="Chill & Relax" radio="true",雨声
 https://stream.zeno.fm/ckptaagp6x8uv
+# 72FM: https://72fm.com/station/9624ac41-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",Soundstorm Radio
+http://stream.soundstorm-radio.com:8000/
 # 72FM: https://72fm.com/station/15a7162c-45a3-4bde-b864-aa7731c6dd87?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Smooth Relax
 https://icecast.thisisdax.com/SmoothRelaxMP3
@@ -184,12 +184,12 @@ http://icecast.vrtcdn.be/stubru_tgs.aac
 # 72FM: https://72fm.com/station/12d5d853-eee0-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",РАДИО КАФЕ - Radio CAFE
 http://cafe.volna.top/Cafe
-# 72FM: https://72fm.com/station/f06ae218-ef40-11e8-a471-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",Play Emotions
-http://91.121.38.216:8054/
 # 72FM: https://72fm.com/station/39151735-6b92-4786-affa-cc92693d83a8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/images/2021channels/100_nature_RadioArt.com.webp" group-title="Chill & Relax" radio="true",Radio Art - Nature
 http://air.radioart.com/fNature.mp3
+# 72FM: https://72fm.com/station/f06ae218-ef40-11e8-a471-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",Play Emotions
+http://91.121.38.216:8054/
 # 72FM: https://72fm.com/station/0b03c88e-42c4-43fc-884b-f2db4421fc92?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiobonton.cz/favicons/apple-touch-icon.png" group-title="Chill & Relax" radio="true",Rádio Bonton
 http://ice.actve.net/fm-bonton-128
@@ -252,7 +252,7 @@ https://listen.reyfm.de/lofi_320kbps.mp3
 http://air.radioart.com/fClassical_relaxation.mp3
 # 72FM: https://72fm.com/station/c1484aa5-b758-47a1-b098-69db58d6fb78?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ilovemusic.de/favicon.ico" group-title="Chill & Relax" radio="true",I Love Music - I Love Chillhop
-https://ilm.stream12.radiohost.de/ilm_ilovechillhop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkxODM1NDc0JmQ9YWE4YmQ5ZmY0MWJmYmM5OGMyYWY
+https://ilm.stream12.radiohost.de/ilm_ilovechillhop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMjc4MzM5JmQ9NmJlNzczMDdiMmIwNGU0OGZmMWY
 # 72FM: https://72fm.com/station/07dd0960-5709-475c-a515-c8a76df2bd14?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.pejpal.cloud/static/uploads/browser_icon/192.1747064544.png" group-title="Chill & Relax" radio="true",Radio pejpal
 https://radio.pejpal.cloud/stream
@@ -322,21 +322,21 @@ https://stream.epic-lounge.com/beach-club-lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/f96b2ae2-fe8c-4248-a92d-3c86ebc8f50c?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)
 http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3
-# 72FM: https://72fm.com/station/7c41800e-9c63-4996-b406-c1758f01e9d1?source=m3u
-#EXTINF:-1 tvg-logo="https://colombiacrossover.com/wp-content/uploads/Logo-Colombia-Lounge-nueva-modified.png" group-title="Chill & Relax" radio="true",Colombia Lounge
-https://play10.tikast.com/proxy/collounge?mp=/stream
 # 72FM: https://72fm.com/station/a1802496-bcf5-11e9-acb2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",RPR1. Acoustic
 http://streams.rpr1.de/rpr-acoustic-128-mp3
+# 72FM: https://72fm.com/station/7c41800e-9c63-4996-b406-c1758f01e9d1?source=m3u
+#EXTINF:-1 tvg-logo="https://colombiacrossover.com/wp-content/uploads/Logo-Colombia-Lounge-nueva-modified.png" group-title="Chill & Relax" radio="true",Colombia Lounge
+https://play10.tikast.com/proxy/collounge?mp=/stream
 # 72FM: https://72fm.com/station/b828a184-3488-48f2-ab60-38a5e435a9fe?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgtLbFs6/Nature-Relax-Sound.png" group-title="Chill & Relax" radio="true",0R - NATURE RELAX || Nature Sounds, Sleep, Relax, Calm, Forest, Ocean, Rain, Ambient, Meditation, Peaceful, Spa, Yoga, G
 https://0nlineradio.radioho.st/lounge-nature-sounds?ref=radio-browser26
-# 72FM: https://72fm.com/station/09c04067-681d-471f-92dc-f7b172664e02?source=m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJByzTs/sax-house-lounge.jpg" group-title="Chill & Relax" radio="true",Epic Lounge - SAX HOUSE LOUNGE
-https://stream.epic-lounge.com/sax-house-lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/251e6b0c-2536-4a15-a948-2f6bbf5fb14b?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s255374/images/logog.png?t=152330" group-title="Chill & Relax" radio="true",Radio Record Lo-Fi
 https://radiorecord.hostingradio.ru/lofi96.aacp
+# 72FM: https://72fm.com/station/09c04067-681d-471f-92dc-f7b172664e02?source=m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJByzTs/sax-house-lounge.jpg" group-title="Chill & Relax" radio="true",Epic Lounge - SAX HOUSE LOUNGE
+https://stream.epic-lounge.com/sax-house-lounge?ref=radiobrowser
 # 72FM: https://72fm.com/station/7ff0e3fe-ab2b-11e9-88f4-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.rpr1.de/sites/all/themes/rpr1/favicon.ico" group-title="Chill & Relax" radio="true",RPR1. Chilloutzone
 http://streams.rpr1.de/rpr-chilloutzone-128-mp3?usid=0-0-H-A-D-30
@@ -367,6 +367,9 @@ https://cast.mediaonline.net.ua/acoustic320
 # 72FM: https://72fm.com/station/bb8d9a2c-2c32-4c8f-bb66-abda0f910e7e?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Sunshine Live - Relax
 http://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/
+# 72FM: https://72fm.com/station/03f081d4-4b70-46b2-b353-b47b502495b2?source=m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMy1KKtY/SPA-LOUNGE.png" group-title="Chill & Relax" radio="true",0R - SPA LOUNGE || Relax, Spa, Calm, Meditation, Nature, Ambient, Soft, Yoga, Peaceful, Instrumental, Chill, Wellness, B
+https://0nlineradio.radioho.st/lounge-spa-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/d7a0a800-b461-44f0-a444-058e10f27e7c?source=m3u
 #EXTINF:-1 tvg-logo="https://favicon-generator.org/favicon-generator/htdocs/favicons/2025-01-13/a46c8e118c24923aa862f46d62f93152.ico.png" group-title="Chill & Relax" radio="true",RADIO DIMENSIONE RELAX
 https://az1.mediacp.eu/listen/radiodimensionerelax/radio.mp3
@@ -376,9 +379,6 @@ https://eu6.fastcast4u.com/proxy/qrm?mp=/stream
 # 72FM: https://72fm.com/station/e063d808-025f-43b4-8ad5-7784a1b781aa?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.smoothradio.com/2020/16/smooth-chill-1587657338-editorial-mid-form-0.jpg" group-title="Chill & Relax" radio="true",Smooth Chill (UK) 48k AAC+
 http://icecast.thisisdax.com/SmoothChill
-# 72FM: https://72fm.com/station/03f081d4-4b70-46b2-b353-b47b502495b2?source=m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMy1KKtY/SPA-LOUNGE.png" group-title="Chill & Relax" radio="true",0R - SPA LOUNGE || Relax, Spa, Calm, Meditation, Nature, Ambient, Soft, Yoga, Peaceful, Instrumental, Chill, Wellness, B
-https://0nlineradio.radioho.st/lounge-spa-lounge?ref=radio-browser26
 # 72FM: https://72fm.com/station/3b9ea753-1779-4437-b87e-ca2c2ce7c224?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",16Bit.FM Cafe
 http://16bitfm.com:8000/cafe_mp3_128
@@ -403,15 +403,15 @@ https://server27166.streamplus.de/stream.mp3?shoutcast
 # 72FM: https://72fm.com/station/f5048c0f-7021-4d67-95dc-ab3108d7b0d7?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/102307.v1.png" group-title="Chill & Relax" radio="true",Chris TDL Radio - ASMR
 https://stream.zeno.fm/mwpb4ea6qs8uv
-# 72FM: https://72fm.com/station/73744ce2-240b-11e9-a80b-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",ChillHop радио
-http://media-the.musicradio.com/ChillMP3
 # 72FM: https://72fm.com/station/ca818265-e55d-4539-99ed-b995104201ca?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Mixadance FM
 https://stream.mixadance.fm/mixadancejazz
 # 72FM: https://72fm.com/station/24c6a745-cc1a-4886-bd5e-fb8fb7b41c77?source=m3u
 #EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_4367c1a121aef5cb0dae701812759a28/logo200.jpg" group-title="Chill & Relax" radio="true",Buddha
 https://legacy.scahw.com.au/2buddha_32
+# 72FM: https://72fm.com/station/73744ce2-240b-11e9-a80b-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",ChillHop радио
+http://media-the.musicradio.com/ChillMP3
 # 72FM: https://72fm.com/station/56e5a8b5-a35c-4199-a1f9-90d37bc1664d?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",COOLFM Chill
 https://mediagw.e-tiger.net/stream/zc24
@@ -430,30 +430,30 @@ https://drive.uber.radio/uber/crcalm/icecast.audio
 # 72FM: https://72fm.com/station/602caba5-6dce-426b-ad57-41688c3d1033?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",sunshine live - Peaceful Beats
 http://stream.sunshine-live.de/winterchill/mp3-192/stream.sunshine-live.de/
-# 72FM: https://72fm.com/station/956ab97c-bba8-4959-b164-4a5657a1951b?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",EPIC CLASSICAL - Classical Restaurant Music
-https://stream.epic-classical.com/classical-restaurant-music
 # 72FM: https://72fm.com/station/a88ea71e-5303-4049-aa74-ae831cfb6ab2?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Epic Lounge - SOUL LOUNGE
 https://stream.epic-lounge.com/soul-lounge?ref=radiobrowser
-# 72FM: https://72fm.com/station/6aa97548-6b7e-4581-a8a8-f2da789f3832?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Chill & Relax" radio="true",Radio Art - Piano & Guitar(2)
-http://air.radioart.com/fPiano_and_guitar.mp3
+# 72FM: https://72fm.com/station/956ab97c-bba8-4959-b164-4a5657a1951b?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",EPIC CLASSICAL - Classical Restaurant Music
+https://stream.epic-classical.com/classical-restaurant-music
 # 72FM: https://72fm.com/station/a93c69b5-3384-41b6-98ee-a18a4ed5211a?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",EPIC CLASSICAL - Classical Lounge
 https://stream.epic-classical.com/classical-lounge
+# 72FM: https://72fm.com/station/6aa97548-6b7e-4581-a8a8-f2da789f3832?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Chill & Relax" radio="true",Radio Art - Piano & Guitar(2)
+http://air.radioart.com/fPiano_and_guitar.mp3
 # 72FM: https://72fm.com/station/6383047e-158e-4bef-83f4-2c983d28978e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Chill & Relax" radio="true",Radio Art - Solo Flute
 http://live.radioart.com/fSolo_flute.mp3
 # 72FM: https://72fm.com/station/8932595e-2fd5-4ba9-b1e9-de0c933152df?source=m3u
 #EXTINF:-1 tvg-logo="https://dfm.ru/uploads/favicon.ico" group-title="Chill & Relax" radio="true",DFM - Chill
 https://dfm-dfmchill.hostingradio.ru/dfmchill96.aacp
-# 72FM: https://72fm.com/station/91db298e-659b-4a4d-94a2-e5b1068d0919?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",Epic Lounge - SUMMER LOUNGE
-https://stream.epic-lounge.com/summer-lounge
 # 72FM: https://72fm.com/station/8b160a9d-5d96-4106-a26e-503b35aaf007?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Epic Lounge - Massage Lounge
 https://stream.epic-lounge.com/massage-lounge
+# 72FM: https://72fm.com/station/91db298e-659b-4a4d-94a2-e5b1068d0919?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",Epic Lounge - SUMMER LOUNGE
+https://stream.epic-lounge.com/summer-lounge
 # 72FM: https://72fm.com/station/db10a9b9-1efa-4e5f-a22f-c24666d0b1bf?source=m3u
 #EXTINF:-1 tvg-logo="https://www.smooth.com.au/assets/smooth/icons/favicon/apple-touch-icon.png" group-title="Chill & Relax" radio="true",Smooth-Relax
 http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac
@@ -466,12 +466,12 @@ https://stream.epic-classical.com/classical-oldies
 # 72FM: https://72fm.com/station/b3426eb5-e6c3-43cd-90fe-ceb36c308238?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Epic Lounge - COCKTAIL LOUNGE
 https://stream.epic-lounge.com/cocktail-lounge?ref=radiobrowser
-# 72FM: https://72fm.com/station/f4928612-ed25-4c21-a852-0600deb0ff1e?source=m3u
-#EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="Chill & Relax" radio="true",Smooth Radio (Suffolk)
-https://media-ssl.musicradio.com/SmoothSuffolk
 # 72FM: https://72fm.com/station/5a957520-9218-491a-a68f-e52de17496b3?source=m3u
 #EXTINF:-1 tvg-logo="https://gfx-player.chillizet.pl/var/player/storage/images/player-chillizet/kanaly-muzyczne/chillizet-ladies/710371-2-pol-PL/Chillizet-Ladies_social_share.jpg" group-title="Chill & Relax" radio="true",Chillizet Ladies -om
 https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01
+# 72FM: https://72fm.com/station/f4928612-ed25-4c21-a852-0600deb0ff1e?source=m3u
+#EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="Chill & Relax" radio="true",Smooth Radio (Suffolk)
+https://media-ssl.musicradio.com/SmoothSuffolk
 # 72FM: https://72fm.com/station/2658d72b-9134-4a96-87b1-7488432c99d0?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",#1 Splash Lounge
 https://ais-sa2.cdnstream1.com/2209_128.mp3
@@ -499,24 +499,24 @@ http://air.radioart.com/fLullaby.mp3
 # 72FM: https://72fm.com/station/1c807b13-e1e3-4425-96bf-00472bf23223?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKZ5J8jt/Restaurant-Lounge.png" group-title="Chill & Relax" radio="true",0R - RESTAURANT LOUNGE || Lounge, Jazz, Chill, Soft Music, Background, Acoustic, Easy Listening, Dinner, Relax, Romantic
 https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
-# 72FM: https://72fm.com/station/bf38a745-ba02-11e9-acb2-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.antenne.de/logos/station-antenne-bayern/apple-touch-icon.png" group-title="Chill & Relax" radio="true",ANTENNEBAYERN Relax (64 kbps AAC)
-http://mp3channels.webradio.antenne.de/relax.aac
 # 72FM: https://72fm.com/station/22b4735f-78fe-41db-bb98-800333352815?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Epic Lounge - WORKDAY LOUNGE
 https://stream.epic-lounge.com/workday-lounge?ref=radiobrowser
+# 72FM: https://72fm.com/station/bf38a745-ba02-11e9-acb2-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.antenne.de/logos/station-antenne-bayern/apple-touch-icon.png" group-title="Chill & Relax" radio="true",ANTENNEBAYERN Relax (64 kbps AAC)
+http://mp3channels.webradio.antenne.de/relax.aac
 # 72FM: https://72fm.com/station/9643245c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",my105 - Chill
 http://stream01.my105.ch/my105chill.mp3
 # 72FM: https://72fm.com/station/bfd98b9f-f9bf-4f0c-ab2e-fc6c6dc951a9?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Brown Noise
 http://uk1.internet-radio.com:8280/listen.pls&t=.m3u
-# 72FM: https://72fm.com/station/81b88161-c3f7-4958-8165-7d408d7689db?source=m3u
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.E65vroGDtTyTMl18lUuGuwHaHa%26pid%3DApi&f=1&ipt=8e1260db0157c0b572b4326122c7511e15bc8c6afb4e0423cd1b9bb620cf57f2&ipo=images" group-title="Chill & Relax" radio="true",Fun Radio Chill
-https://stream.funradio.sk:8000/chill128.mp3
 # 72FM: https://72fm.com/station/5e063320-07d6-4d99-a434-f34e7e2a7431?source=m3u
 #EXTINF:-1 tvg-logo="https://image.radioking.io/radios/701141/logo/6451afd2-e9e2-4738-a826-eea1b1ba0585.jpeg" group-title="Chill & Relax" radio="true",Pescobar Radio
 https://listen.radioking.com/radio/701141/stream/766385
+# 72FM: https://72fm.com/station/81b88161-c3f7-4958-8165-7d408d7689db?source=m3u
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.E65vroGDtTyTMl18lUuGuwHaHa%26pid%3DApi&f=1&ipt=8e1260db0157c0b572b4326122c7511e15bc8c6afb4e0423cd1b9bb620cf57f2&ipo=images" group-title="Chill & Relax" radio="true",Fun Radio Chill
+https://stream.funradio.sk:8000/chill128.mp3
 # 72FM: https://72fm.com/station/28c692bf-3113-401d-896e-e25480d0f93d?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Epic Lounge - POOLSIDE LOUNGE
 https://stream.epic-lounge.com/poolside-lounge?ref=streema
@@ -544,30 +544,30 @@ http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3
 # 72FM: https://72fm.com/station/14b08ca3-94d3-4b5d-a0ff-cb8709d27479?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Chill & Relax" radio="true",Radio Art - Dreamscapes
 http://air.radioart.com/fDreamscapes.mp3
-# 72FM: https://72fm.com/station/655edb47-5ad8-49ea-b8d2-e3fd2100f2b5?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",r2chill
-http://icecast.err.ee/r2chill.opus
 # 72FM: https://72fm.com/station/01487972-88a0-4ed7-91b2-0727aa9f1810?source=m3u
 #EXTINF:-1 tvg-logo="https://radiozora.fm/wp-content/uploads/2024/01/RADIO24-ok-1-640x244.jpg" group-title="Chill & Relax" radio="true",RadiOzora Chill
 https://chill.out.airtime.pro/chill_a
-# 72FM: https://72fm.com/station/108a36e8-75b9-4b4d-8893-1ea2bda3d0fa?source=m3u
-#EXTINF:-1 tvg-logo="https://cloud-4shg5daq1-hack-club-bot.vercel.app/0calm_n_chill_radio_logo.png" group-title="Chill & Relax" radio="true",Calm N Chill Radio
-https://stream.zeno.fm/yvcddifycietv
+# 72FM: https://72fm.com/station/655edb47-5ad8-49ea-b8d2-e3fd2100f2b5?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",r2chill
+http://icecast.err.ee/r2chill.opus
 # 72FM: https://72fm.com/station/50ab0fd5-bd39-4561-89c0-797de8001a16?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8f2aad_aa6143964e8d4a1f80be28d048517260~mv2.png" group-title="Chill & Relax" radio="true",Soft Radio
 https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio
+# 72FM: https://72fm.com/station/108a36e8-75b9-4b4d-8893-1ea2bda3d0fa?source=m3u
+#EXTINF:-1 tvg-logo="https://cloud-4shg5daq1-hack-club-bot.vercel.app/0calm_n_chill_radio_logo.png" group-title="Chill & Relax" radio="true",Calm N Chill Radio
+https://stream.zeno.fm/yvcddifycietv
 # 72FM: https://72fm.com/station/22ed63fd-57bf-469a-9c71-4524834b74d0?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",0nlineradio LO-FI
 https://stream.0nlineradio.com/lo-fi?ref=radiobrowser
 # 72FM: https://72fm.com/station/a5222573-8225-4c31-a988-15f320c64632?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Chill & Relax" radio="true",Radio Art - Zen
 http://air.radioart.com/fZen.mp3
-# 72FM: https://72fm.com/station/96487b12-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",Radio Flemme
-http://str45.streamakaci.com:8014/;*.mp3
 # 72FM: https://72fm.com/station/2e599e0b-10ec-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com//favicon.ico" group-title="Chill & Relax" radio="true",Radio Art - Stress Relief
 http://live.radioart.com/fStress_relief.mp3
+# 72FM: https://72fm.com/station/96487b12-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",Radio Flemme
+http://str45.streamakaci.com:8014/;*.mp3
 # 72FM: https://72fm.com/station/47588e4a-a2d5-4b68-8bb3-1c60234ff404?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",0nlineradio CHILLOUT
 https://stream.0nlineradio.com/chillout?ref=radiobrowser
@@ -580,18 +580,18 @@ http://104.153.209.180:8000/
 # 72FM: https://72fm.com/station/c52e6b55-85d2-4fe8-bcbf-68ed86a56138?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JrNQTzQ/BEETHOVEN-KL.png" group-title="Chill & Relax" radio="true",0R - BEETHOVEN - CLASSICAL || Classical, Orchestra, Symphony, Piano, Strings, Chamber Music, Concertos, Solo Instrument,
 https://0nlineradio.radioho.st/0r-beethoven?ref=radio-browser26
-# 72FM: https://72fm.com/station/ce7a8e91-4ef5-455c-9209-df4702589552?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",Laut.FM Smokespace
-http://stream.laut.fm/smokespace
 # 72FM: https://72fm.com/station/7756f6bc-53f3-11e8-a4d1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Radio Pasja - Relaks 128kb/s
 http://91.232.4.33:8102/stream2
-# 72FM: https://72fm.com/station/9467b580-dd8b-44d6-b99a-6ac688a50786?source=m3u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png" group-title="Chill & Relax" radio="true",ISEKOI Radio | Chill Zone
-https://public.isekoi-radio.com/listen/chill/radio.mp3
+# 72FM: https://72fm.com/station/ce7a8e91-4ef5-455c-9209-df4702589552?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",Laut.FM Smokespace
+http://stream.laut.fm/smokespace
 # 72FM: https://72fm.com/station/df44a7c6-968e-490f-a297-c0c80ac9361e?source=m3u
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/128_aromatherapy-600x400.jpg" group-title="Chill & Relax" radio="true",Radio Art - Aromatherapy
 http://air.radioart.com/fAromatherapy.mp3
+# 72FM: https://72fm.com/station/9467b580-dd8b-44d6-b99a-6ac688a50786?source=m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png" group-title="Chill & Relax" radio="true",ISEKOI Radio | Chill Zone
+https://public.isekoi-radio.com/listen/chill/radio.mp3
 # 72FM: https://72fm.com/station/cfbc1dc9-b8e1-4e7c-8205-efe774f6dbbf?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240422_112734993.jpg?alt=media&token=d63d1ce1-c73e-460b-9104-094181b608e4" group-title="Chill & Relax" radio="true",Radio TMK
 https://a4.radioheart.ru:9036/RH13170
@@ -631,21 +631,21 @@ http://streams.rpr1.de/rpr-chilloutzone-128-aac?usid=0-0-H-A-D-30
 # 72FM: https://72fm.com/station/dee67cb1-58f4-47b2-ac14-260578106550?source=m3u
 #EXTINF:-1 tvg-logo="https://mrg.fm/img/droneradio125.jpg" group-title="Chill & Relax" radio="true",Drone Radio (MRG.fm)
 http://listen.mrg.fm:8070/stream
-# 72FM: https://72fm.com/station/f811c29c-a149-47ec-9565-2093b45771b6?source=m3u
-#EXTINF:-1 tvg-logo="https://www.spacetravelradio.de/images/str_header_logo.png" group-title="Chill & Relax" radio="true",STR - Space Travel Radio
-http://spacetravelradio.de:1701/stream/1/
 # 72FM: https://72fm.com/station/54ec7640-a565-4c54-a30e-70576cca3b19?source=m3u
 #EXTINF:-1 tvg-logo="https://i.1.creatium.io/a8/be/42/bbd2a53d6b33992147e8df1530e31da579/173x103q8/logotip_173h103_na_prozrachnom_fone.png" group-title="Chill & Relax" radio="true",Spokoinoe Radio (RU) 128k mp3
 http://listen9.myradio24.com/6262
+# 72FM: https://72fm.com/station/f811c29c-a149-47ec-9565-2093b45771b6?source=m3u
+#EXTINF:-1 tvg-logo="https://www.spacetravelradio.de/images/str_header_logo.png" group-title="Chill & Relax" radio="true",STR - Space Travel Radio
+http://spacetravelradio.de:1701/stream/1/
+# 72FM: https://72fm.com/station/96683d44-c7f1-47d3-a9c5-f7d0c65d8b66?source=m3u
+#EXTINF:-1 tvg-logo="https://pcradio.ru/images/stations/61b09c6e8cebd.jpg" group-title="Chill & Relax" radio="true",Zaycev.FM Relax
+https://abs.zaycev.fm/relax128k
 # 72FM: https://72fm.com/station/7440fcf1-71da-47bf-bf13-f80c10eab97b?source=m3u
 #EXTINF:-1 tvg-logo="https://classic.nl/images/icons/favicon-96x96.png" group-title="Chill & Relax" radio="true",Classicnl Mind Radio
 https://classic.nl/streams/?s=mindradio
 # 72FM: https://72fm.com/station/f1ead4b5-87f2-4926-af38-7f523a1e6f04?source=m3u
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/004_positivity_RadioArt.com.webp" group-title="Chill & Relax" radio="true",Radio Art - Positivity
 http://air.radioart.com/fPositivity.mp3
-# 72FM: https://72fm.com/station/96683d44-c7f1-47d3-a9c5-f7d0c65d8b66?source=m3u
-#EXTINF:-1 tvg-logo="https://pcradio.ru/images/stations/61b09c6e8cebd.jpg" group-title="Chill & Relax" radio="true",Zaycev.FM Relax
-https://abs.zaycev.fm/relax128k
 # 72FM: https://72fm.com/station/b7733197-1f7d-462e-a804-d49e1b35c09a?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",105'5 Spreeradio - Wellness - Berlin
 https://rtlberlin.streamabc.net/rtlb-wellness-aacplus-64-2835105?sABC=6752ns14%230%23724nsr480r9ps6r95pqn750064rp0o5r%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1733472020
@@ -679,24 +679,24 @@ http://air.radioart.com/fFor_inspiration.mp3
 # 72FM: https://72fm.com/station/4f7ee84f-4f8a-437f-8751-d16e42cd9ab2?source=m3u
 #EXTINF:-1 tvg-logo="https://xrn.com.au/favicon.ico" group-title="Chill & Relax" radio="true",FSJ Radio - XRN Australia
 https://us01.xrn.com.au/listen/fsj/FsjSd
-# 72FM: https://72fm.com/station/8492e24d-7908-4cc4-9ee7-c3d5475c42d7?source=m3u
-#EXTINF:-1 tvg-logo="https://7promeniv.com.ua/images/Seven_Rays_Mix/7RaysRadioLogoNew.jpg" group-title="Chill & Relax" radio="true",7 Rays Radio
-https://7rays.stream.laut.fm/7rays
 # 72FM: https://72fm.com/station/a7760c28-7212-4155-9610-21fea3bcd5e0?source=m3u
 #EXTINF:-1 tvg-logo="https://zaizai-radio.org/favicon.ico" group-title="Chill & Relax" radio="true",Radio Zaï Zaï
 https://listen.radioking.com/radio/204667/stream/247420
+# 72FM: https://72fm.com/station/8492e24d-7908-4cc4-9ee7-c3d5475c42d7?source=m3u
+#EXTINF:-1 tvg-logo="https://7promeniv.com.ua/images/Seven_Rays_Mix/7RaysRadioLogoNew.jpg" group-title="Chill & Relax" radio="true",7 Rays Radio
+https://7rays.stream.laut.fm/7rays
 # 72FM: https://72fm.com/station/cea885c0-ffd0-4876-9a52-66787ace0569?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.radioart.com/images/channels/139_cello_for_s-600x400.jpg" group-title="Chill & Relax" radio="true",Radio Art - Cello for Sleep
 https://air.radioart.online/fCello_for_sleep.mp3
 # 72FM: https://72fm.com/station/4fa95437-eea7-437a-bc31-2dd60a24014a?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Radio Elim Air
 http://91.213.11.102:8011/stream_high
-# 72FM: https://72fm.com/station/964f959c-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",R.SA Hinhörkanal
-http://rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970?sABC=6npq5037%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1791840311
 # 72FM: https://72fm.com/station/b637eea6-bc03-4443-b798-8bd394297565?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiosaw.de/radioplayer/images/webstreams/relax-90x90-1.png" group-title="Chill & Relax" radio="true",Radio SAW - Relax
 https://stream.saw-musikwelt.de/saw-relax/stream.mp3
+# 72FM: https://72fm.com/station/964f959c-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",R.SA Hinhörkanal
+http://rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970?sABC=6nq40856%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1792280662
 # 72FM: https://72fm.com/station/c8cc96b1-918a-4a4f-8e0e-573f253196b0?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Lounge Avenue
 http://arlandria.go.ro:8000/lounge
@@ -709,12 +709,12 @@ http://air.radioart.com/fLounge.mp3
 # 72FM: https://72fm.com/station/a4a3521c-8b61-4fca-8a6d-45e5105e4c02?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jbJkcvt/BREAKZ-FM-LOGO.png" group-title="Chill & Relax" radio="true",DEEJAY-RADIO GERMANY
 https://breakz-high.rautemusik.fm/?ref=radiobrowser26
-# 72FM: https://72fm.com/station/3a0e880e-a46f-4f3f-8af5-69ecf402dd1e?source=m3u
-#EXTINF:-1 tvg-logo="https://mrg.fm/img/loungeradio125.jpg" group-title="Chill & Relax" radio="true",LoungeRadio (MRG.fm)
-http://listen.mrg.fm:8060/stream
 # 72FM: https://72fm.com/station/408e251e-d78f-4fed-9d67-ade5888e8a71?source=m3u
 #EXTINF:-1 tvg-logo="https://www.cozyfm.ro/wordpress/wp-content/uploads/2020/05/cozy_square.jpg" group-title="Chill & Relax" radio="true",Cozy FM
 https://live.cozyfm.ro:8010/live
+# 72FM: https://72fm.com/station/3a0e880e-a46f-4f3f-8af5-69ecf402dd1e?source=m3u
+#EXTINF:-1 tvg-logo="https://mrg.fm/img/loungeradio125.jpg" group-title="Chill & Relax" radio="true",LoungeRadio (MRG.fm)
+http://listen.mrg.fm:8060/stream
 # 72FM: https://72fm.com/station/f80bd68c-5c84-4e2b-9356-f59c1ab212ee?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.rpr1.de/sites/default/files/thumbnails/image/Chillout_agg_1600x1600.jpg" group-title="Chill & Relax" radio="true",RPR1. Chillout
 https://stream.rpr1.de/chillout/mp3-128/radiobrowser
@@ -742,30 +742,27 @@ http://air.radioart.com/fPilates.mp3
 # 72FM: https://72fm.com/station/2f03b344-c9d1-4176-a1c8-9f6f701ae178?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/templates/yootheme/cache/logo-2d9baf0b.png" group-title="Chill & Relax" radio="true",Radio Art - Lute
 http://air.radioart.com/fLute.mp3
+# 72FM: https://72fm.com/station/465e8c27-0340-4e2b-a067-3319f55cdbff?source=m3u
+#EXTINF:-1 tvg-logo="https://palmerablanca.com/cover.png" group-title="Chill & Relax" radio="true",Palmera Blanca radio - Daystream
+https://daystream.palmerablanca.com/daystream-128.mp3
 # 72FM: https://72fm.com/station/3e9993e1-5307-4611-8347-10f227c31eb5?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Radio Emotions
 http://5.39.82.157:8054/stream
 # 72FM: https://72fm.com/station/ccbc88ea-aa31-4f7e-8d8a-be53428ce8a8?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.radiopsr.de/production/static/1713539534799/icons/icon_64.cawac0w0200.png" group-title="Chill & Relax" radio="true",RADIO PSR Relax
 https://regiocast.streamabc.net/regc-psrrelax9917959-mp3-192-7369155?sABC=6nq3n267%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1792254567
-# 72FM: https://72fm.com/station/465e8c27-0340-4e2b-a067-3319f55cdbff?source=m3u
-#EXTINF:-1 tvg-logo="https://palmerablanca.com/cover.png" group-title="Chill & Relax" radio="true",Palmera Blanca radio - Daystream
-https://daystream.palmerablanca.com/daystream-128.mp3
 # 72FM: https://72fm.com/station/0415274f-7dae-4410-8b2a-ed5913ba23fa?source=m3u
 #EXTINF:-1 tvg-logo="https://dnbradio.com/apple-touch-icon.png" group-title="Chill & Relax" radio="true",Plush Recordings - 24/7 Deep, Atmospheric DnB via @plushrecs
 https://azura.drmnbss.org/listen/plushrecs/radio.mp3
-# 72FM: https://72fm.com/station/5b34637e-2dca-491d-a1d8-ee7741c08a6a?source=m3u
-#EXTINF:-1 tvg-logo="https://azura.picados.beer/static/uploads/radio/album_art.1745611419.webp" group-title="Chill & Relax" radio="true",🕷️ Radio Picados - Online - Música 24/7
-https://a10.asurahosting.com:7630/radio.mp3
 # 72FM: https://72fm.com/station/0e7fb616-0c55-4f4e-bb3f-242ab61293a0?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Radio Caprice - New Age
 http://79.120.77.11:8000/newage
-# 72FM: https://72fm.com/station/662a7a0a-4cf3-4278-9526-4c7363bc4f1d?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.rpr1.de/sites/default/files/thumbnails/image/Yoga_Sounds_agg_1600x1600.jpg" group-title="Chill & Relax" radio="true",RPR1. Yoga Sounds
-https://stream.rpr1.de/yogasounds/mp3-128/radiobrowser
 # 72FM: https://72fm.com/station/15f7772e-efc9-4655-9d2b-55914a69e7ed?source=m3u
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/106317201.jpg" group-title="Chill & Relax" radio="true",Calm Smooth
 https://nl4.mystreaming.net/uber/calmsmooth/icecast.audio
+# 72FM: https://72fm.com/station/662a7a0a-4cf3-4278-9526-4c7363bc4f1d?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.rpr1.de/sites/default/files/thumbnails/image/Yoga_Sounds_agg_1600x1600.jpg" group-title="Chill & Relax" radio="true",RPR1. Yoga Sounds
+https://stream.rpr1.de/yogasounds/mp3-128/radiobrowser
 # 72FM: https://72fm.com/station/fc4f4d70-b858-46c5-9698-131cbaf2d1e9?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Downtempo.Radio
 https://listen.downtempo.radio/
@@ -778,24 +775,24 @@ https://s4.ssl-stream.com/listen/oxo_radio/radio.mp3
 # 72FM: https://72fm.com/station/72612036-9d94-46a7-b0ff-7a1061a62867?source=m3u
 #EXTINF:-1 tvg-logo="https://pages.register.radio/uploads/triphop-radio-69d395851f50d.png" group-title="Chill & Relax" radio="true",TripHop.Radio
 https://live.triphop.radio/
-# 72FM: https://72fm.com/station/864b965b-cf12-48ba-acac-3599a3c6d0b7?source=m3u
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CpvRgznUmJ.jpg" group-title="Chill & Relax" radio="true",Gajahmada FM Semarang
-https://server.radioimeldafm.co.id/radio/8040/gajahmadafm
 # 72FM: https://72fm.com/station/578d9dae-2168-40a1-a9a2-cb18e84700b2?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.rtm.gov.my/storage/stations/1777447046-gemini-generated-image-chd08qchd08qchd0.png" group-title="Chill & Relax" radio="true",REDfm
 https://22273.live.streamtheworld.com/RED_FMAAC.aac
+# 72FM: https://72fm.com/station/864b965b-cf12-48ba-acac-3599a3c6d0b7?source=m3u
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CpvRgznUmJ.jpg" group-title="Chill & Relax" radio="true",Gajahmada FM Semarang
+https://server.radioimeldafm.co.id/radio/8040/gajahmadafm
 # 72FM: https://72fm.com/station/024f84fa-c110-40ac-b769-70be5669f779?source=m3u
 #EXTINF:-1 tvg-logo="https://api.magicfm.ro/resized/streams/2024/04/19/magic-relax-1aaaa8_e9f8a9053c9abdfcdc52c9e8e4de9c64.jpg?w=120&h=120&c=1" group-title="Chill & Relax" radio="true",Magic FM Relax
 https://live.kissfm.ro/magic.lite
+# 72FM: https://72fm.com/station/2808c734-6166-4cda-9bbd-d4e05c0c4c32?source=m3u
+#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Chill & Relax" radio="true",Relax & Meditation
+https://mml1.prostream.se/listen/relax_meditation/radio.mp3
 # 72FM: https://72fm.com/station/04c6c260-eafc-419c-b374-f061080bfd81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.247natureradio.com/wp-content/uploads/2021/09/247-Seawaves-Radio.jpg" group-title="Chill & Relax" radio="true",24/7 Seawaves Radio
 https://ec6.yesstreaming.net:1505/stream
 # 72FM: https://72fm.com/station/7d6dcf26-1b55-4916-a2bf-39a583b9fb79?source=m3u
 #EXTINF:-1 tvg-logo="https://radiogoose.ru/res/logo/relax.png" group-title="Chill & Relax" radio="true",ГУСЬ-Релакс
 https://stream4.radiogoose.ru/listen/relax/play
-# 72FM: https://72fm.com/station/2808c734-6166-4cda-9bbd-d4e05c0c4c32?source=m3u
-#EXTINF:-1 tvg-logo="https://madmix.se/images/logo.jpg" group-title="Chill & Relax" radio="true",Relax & Meditation
-https://mml1.prostream.se/listen/relax_meditation/radio.mp3
 # 72FM: https://72fm.com/station/7fd9bc99-71a2-4553-ba57-950977968bd5?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Sublime Sunday Chill
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB23_AAC.aac
@@ -823,21 +820,21 @@ http://server36206.streamplus.de:10308/stream.mp3
 # 72FM: https://72fm.com/station/83dbec6c-ffbc-4a0e-b919-b6714e7f8d44?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RkgqxRWW/Li-STNR-Square-Tile-3000x3000-CHILL-HOUSE.jpg" group-title="Chill & Relax" radio="true",LiSTNR - Chill House (HLS)
 http://sa46.scastream.com.au/live/chill-house.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/6cf9cad4-ef5a-4abc-8802-a2f112ca751d?source=m3u
-#EXTINF:-1 tvg-logo="https://fluxmusic.cdn.radiosphere.io/images/dd0ef982-be00-4eab-bd45-922c00f39deb?type=medium" group-title="Chill & Relax" radio="true",FluxFM Chillout Radio | 320k AAC
-https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=10
 # 72FM: https://72fm.com/station/c6217603-7748-41a1-9ded-f3b3e8ffd630?source=m3u
 #EXTINF:-1 tvg-logo="https://fluxmusic.cdn.radiosphere.io/images/3057f808-131c-4bae-a0f5-d06fb6b15da1?type=medium" group-title="Chill & Relax" radio="true",FluxFM Electronic Chillout | 320k MP3
 https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=10
+# 72FM: https://72fm.com/station/6cf9cad4-ef5a-4abc-8802-a2f112ca751d?source=m3u
+#EXTINF:-1 tvg-logo="https://fluxmusic.cdn.radiosphere.io/images/dd0ef982-be00-4eab-bd45-922c00f39deb?type=medium" group-title="Chill & Relax" radio="true",FluxFM Chillout Radio | 320k AAC
+https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=10
 # 72FM: https://72fm.com/station/7e11cde5-d406-48f2-8c1e-0d6b468343d9?source=m3u
 #EXTINF:-1 tvg-logo="https://radioacid.com/radio-browser/radioacid.png" group-title="Chill & Relax" radio="true",Radio ACID - Everything Chill.
 https://stream.radioacid.com/stream
-# 72FM: https://72fm.com/station/bad4945f-cd86-42be-8ef4-72e0db167b45?source=m3u
-#EXTINF:-1 group-title="Chill & Relax" radio="true",Retro Lofi Chiptune Radio
-https://a5.asurahosting.com:8150/radio.mp3
 # 72FM: https://72fm.com/station/c24d963c-f4b5-4346-8001-ed30af0add6a?source=m3u
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea5bd3c1bd4b07f0727b9e8/85982ce5-159e-45a2-8580-f7f69121326a/favicon.ico" group-title="Chill & Relax" radio="true",Radio Rudina
 https://azuracast.datea.services:8000/radio.mp3
+# 72FM: https://72fm.com/station/bad4945f-cd86-42be-8ef4-72e0db167b45?source=m3u
+#EXTINF:-1 group-title="Chill & Relax" radio="true",Retro Lofi Chiptune Radio
+https://a5.asurahosting.com:8150/radio.mp3
 # 72FM: https://72fm.com/station/b9e27735-b8eb-4a21-9969-4ccd2540785f?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Radio Zwiebel
 https://server7.streamserver24.com:8080/proxy/radiozwiebel?mp=/stream
@@ -853,21 +850,21 @@ https://radio.b3ck.com/listen/b3cks-radio/radio.mp3
 # 72FM: https://72fm.com/station/4039bbfc-ee98-463c-99d2-b0ccf3cd0745?source=m3u
 #EXTINF:-1 tvg-logo="https://www.charivari.com/storage/thumbs/192x192/r:1607078039/47958.png" group-title="Chill & Relax" radio="true",Charivari Relax
 https://play.charivari.com/relax/webmp3/
-# 72FM: https://72fm.com/station/25ca30bb-b994-4d32-bfb6-ac0c392f9af4?source=m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4n65Pmm/Li-STNR-Square-Tile-3000x3000-CHILL-ELECTRONIC.jpg" group-title="Chill & Relax" radio="true",LiSTNR - Chill Electronic (HLS)
-http://sa46.scastream.com.au/live/chill-electronic.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/00741163-70f8-4434-944b-ca4e06e0b628?source=m3u
 #EXTINF:-1 tvg-logo="https://mugenradio.com/cover-mugen-3000.png" group-title="Chill & Relax" radio="true",MUGEN Radio
 https://mugenradio.com/hls/live.m3u8
+# 72FM: https://72fm.com/station/25ca30bb-b994-4d32-bfb6-ac0c392f9af4?source=m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4n65Pmm/Li-STNR-Square-Tile-3000x3000-CHILL-ELECTRONIC.jpg" group-title="Chill & Relax" radio="true",LiSTNR - Chill Electronic (HLS)
+http://sa46.scastream.com.au/live/chill-electronic.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/df4e340a-4aad-48b0-a418-0df0345d9056?source=m3u
+#EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/relax.jpg" group-title="Chill & Relax" radio="true",Clasic Radio_Relax -București
+https://live.radioclasic.com/listen/radio_clasic_relax/live.mp3
 # 72FM: https://72fm.com/station/805e3ada-f6a3-4107-a1ea-3ae1651c441c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.charivari.com/storage/thumbs/192x192/r:1607078039/47958.png" group-title="Chill & Relax" radio="true",Charivari Relax
 https://play.charivari.com/relax/web/
 # 72FM: https://72fm.com/station/aa616fa9-2367-4377-b7b6-89f0d89c97b3?source=m3u
 #EXTINF:-1 tvg-logo="https://laut.fm/assets/touch-icons/favicon-16x16.png?21f4f2f5" group-title="Chill & Relax" radio="true",LOUNGETUNES
 https://stream.laut.fm/loungetunes
-# 72FM: https://72fm.com/station/df4e340a-4aad-48b0-a418-0df0345d9056?source=m3u
-#EXTINF:-1 tvg-logo="https://www.clasicradio.ro/logo/relax.jpg" group-title="Chill & Relax" radio="true",Clasic Radio_Relax -București
-https://live.radioclasic.com/listen/radio_clasic_relax/live.mp3
 # 72FM: https://72fm.com/station/99a2654f-97ae-45d9-a5c9-60f1ba914192?source=m3u
 #EXTINF:-1 tvg-logo="https://slukhay.com/uploads/2026/2/3/0fc2953e-4564-4e15-8368-4600ac738071.png" group-title="Chill & Relax" radio="true",Люкс ФМ – Chill and Relax
 https://lux.radio.tvstitch.com/chill-sd
@@ -880,15 +877,18 @@ http://sa46.scastream.com.au/live/7chillpophits_128.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/3eba571c-a1ac-4632-ae3a-810c659b2cfd?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJrSjYY/chill.png" group-title="Chill & Relax" radio="true",Like Radio - CHILL (MP3)
 http://likeradiostream.com/likechill
+# 72FM: https://72fm.com/station/de2a1b25-612e-448b-af9e-407f8f973b8b?source=m3u
+#EXTINF:-1 tvg-logo="https://images.vrt.be/orig/2025/10/03/Relax_RadioCover.jpg" group-title="Chill & Relax" radio="true",VRT Radio 2 Relax
+http://icecast.vrtcdn.be/radio2_relax.aac
 # 72FM: https://72fm.com/station/e03fd1f9-274f-4fab-a840-0a7eae474fce?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Late Night Jazz
 https://radio.hearme.fm:8710/stream
 # 72FM: https://72fm.com/station/dbd2c4a6-a321-4b9d-92b8-1dc689e0a20b?source=m3u
 #EXTINF:-1 group-title="Chill & Relax" radio="true",Radio Art - Music for Moms
 https://live.radioart.com/fMusic_for_moms.mp3
-# 72FM: https://72fm.com/station/de2a1b25-612e-448b-af9e-407f8f973b8b?source=m3u
-#EXTINF:-1 tvg-logo="https://images.vrt.be/orig/2025/10/03/Relax_RadioCover.jpg" group-title="Chill & Relax" radio="true",VRT Radio 2 Relax
-http://icecast.vrtcdn.be/radio2_relax.aac
+# 72FM: https://72fm.com/station/31860c2a-9939-4cd9-a4ff-12c3a4cdaa12?source=m3u
+#EXTINF:-1 tvg-logo="https://somafm.com/logos/400/gsclassic400.jpg" group-title="Chill & Relax" radio="true",SomaFM - Groove Salad Classic
+https://ice6.somafm.com/gsclassic-128-aac
 # 72FM: https://72fm.com/station/0058eb47-8e0e-490a-b902-d846112c960a?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJrSjYY/chill.png" group-title="Chill & Relax" radio="true",Like Radio - CHILL (AAC+)
 http://likeradiostream.com/likechillaac
@@ -901,6 +901,6 @@ https://auralis-radio.com/radio.mp3
 # 72FM: https://72fm.com/station/eec23a68-22ff-4af0-8f00-b38753bf9b80?source=m3u
 #EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQzsjbxQoMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9HQrQsMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="Chill & Relax" radio="true",Agenda Chill
 https://stream-159.zeno.fm/zanz4xbdtg8uv
-# 72FM: https://72fm.com/station/31860c2a-9939-4cd9-a4ff-12c3a4cdaa12?source=m3u
-#EXTINF:-1 tvg-logo="https://somafm.com/logos/400/gsclassic400.jpg" group-title="Chill & Relax" radio="true",SomaFM - Groove Salad Classic
-https://ice6.somafm.com/gsclassic-128-aac
+# 72FM: https://72fm.com/station/c495e9f2-0ba7-4b33-be25-cb643defddfd?source=m3u
+#EXTINF:-1 tvg-logo="https://fluxmusic.cdn.radiosphere.io/images/3057f808-131c-4bae-a0f5-d06fb6b15da1?type=medium" group-title="Chill & Relax" radio="true",FluxFM Electronic Chillout | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.aac?quality=1

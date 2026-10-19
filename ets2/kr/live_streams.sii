@@ -1,15 +1,15 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 19
+ stream_data: 20
  stream_data[0]: "https://listen.moe/kpop/stream|Listen.moe Kpop|Kpop|KOR|192|0"
  stream_data[1]: "https://antares.dribbcast.com/proxy/kpop?mp=/s|Big B Radio - Kpop|Pop|KOR|192|0"
  stream_data[2]: "http://cast.oldpopcafe.net:7080/|Oldpop Cafe|Oldies|KOR|128|0"
  stream_data[3]: "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3|CBS \xe1\x84\x91\xe1\x85\xa1\xe1\x84\x8b\xe1\x85\xaf\xe1\x84\x85\xe1\x85\xa1\xe1\x84\x83\xe1\x85\xb5\xe1\x84\x8b\xe1\x85\xa9 [Music FM]|Various|KOR|128|0"
  stream_data[4]: "https://s10.webradio-hosting.com/proxy/fredradiokr/stream|Fred Film Radio(\xe1\x84\x92\xe1\x85\xa1\xe1\x86\xab\xe1\x84\x80\xe1\x85\xae\xe1\x86\xa8\xe1\x84\x8b\xe1\x85\xa5)|Culture|KOR|128|0"
  stream_data[5]: "http://115.85.182.39/mapofm?type=.mp3|\xe1\x84\x86\xe1\x85\xa1\xe1\x84\x91\xe1\x85\xa9FM|Talk|KOR|96|0"
- stream_data[6]: "https://listen.moe/kpop/fallback|Listen.moe Kpop (MP3)|Kpop|KOR|192|0"
- stream_data[7]: "http://live07.inlive.co.kr:21110/|Classic Odyssey|Classical music|KOR|192|0"
+ stream_data[6]: "http://live07.inlive.co.kr:21110/|Classic Odyssey|Classical music|KOR|192|0"
+ stream_data[7]: "https://listen.moe/kpop/fallback|Listen.moe Kpop (MP3)|Kpop|KOR|192|0"
  stream_data[8]: "http://radiostream.communityradio.kr/jcfm1|JeonjuFM|Various|KOR|128|0"
  stream_data[9]: "http://wowccm.iptime.org:8000/stream/1/|WOW CCM|Pop|KR|128|0"
  stream_data[10]: "http://1.uicl.co.kr:8000/;|Floyd Server (Rock Ballad...From 09/25/05)|Rock ballads|KOR|64|0"
@@ -20,7 +20,8 @@ live_stream_def : .live_streams {
  stream_data[15]: "http://65.21.61.215:8000/citypoptwo|Korean city pop|Various|KR|128|0"
  stream_data[16]: "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3|REPLAY NEWS - \xe1\x84\x92\xe1\x85\xa1\xe1\x86\xab\xe1\x84\x80\xe1\x85\xae\xe1\x86\xa8\xe1\x84\x8b\xe1\x85\xa5 5\xe1\x84\x87\xe1\x85\xae\xe1\x86\xab\xe1\x84\x86\xe1\x85\xa1\xe1\x84\x83\xe1\x85\xa1 \xe1\x84\x82\xe1\x85\xb2\xe1\x84\x89\xe1\x85\xb3 \xe1\x84\x85\xe1\x85\xa1\xe1\x84\x83\xe1\x85\xb5\xe1\x84\x8b\xe1\x85\xa9|News|KOR|128|0"
  stream_data[17]: "http://onair.mapofm.net/mapofm|MapoFM|Various|KR|96|0"
- stream_data[18]: "https://092007.xyz/radio/soshisubs|Soshi-Subs|Kpop|KOR|128|0"
+ stream_data[18]: "https://stream.yojosuknam.com/live.mp3|yojosuknam Radio|Gugak|ENG|128|0"
+ stream_data[19]: "https://092007.xyz/radio/soshisubs|Soshi-Subs|Kpop|KOR|128|0"
 }
 
 }

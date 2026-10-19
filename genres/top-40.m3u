@@ -133,12 +133,12 @@ http://centova.radio.com.pt:9478/
 # 72FM: https://72fm.com/station/960c1328-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Imagina
 http://26673.live.streamtheworld.com/IMAGINA_SC
-# 72FM: https://72fm.com/station/88ac049f-d017-11e9-a861-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",lbi Radio
-http://andromeda.shoutca.st:8192/;stream.mp3
 # 72FM: https://72fm.com/station/ab05e667-14e1-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",94.7
 http://25703.live.streamtheworld.com:3690/FM947AAC_SC
+# 72FM: https://72fm.com/station/88ac049f-d017-11e9-a861-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",lbi Radio
+http://andromeda.shoutca.st:8192/;stream.mp3
 # 72FM: https://72fm.com/station/604bb4af-ccf6-47bd-819e-7d1accd15e05?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyc_tSPPOg-OsGjJUOSlAcdaEcRFFL3_nKQ&s" group-title="Top 40 & Hits" radio="true",Barangay LS 97.1 Manila
 http://28093.live.streamtheworld.com:3690/MORFM_S01AAC_SC
@@ -181,12 +181,12 @@ https://stream.zeno.fm/iln4upodbvuuv
 # 72FM: https://72fm.com/station/962ad25a-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",XY 90.5 FM Tegucigalpa
 http://ice42.securenetsystems.net/XY905
-# 72FM: https://72fm.com/station/96409a24-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Maya Varna
-http://rnmediagroup.com:10000/;
 # 72FM: https://72fm.com/station/96487106-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Mix Rio 102.1 Rio de Janeiro, RJ
 http://24233.live.streamtheworld.com/MIXRIOAAC_SC
+# 72FM: https://72fm.com/station/96409a24-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Maya Varna
+http://rnmediagroup.com:10000/;
 # 72FM: https://72fm.com/station/960e38b8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.3fm.nl/apple-touch-icon.png" group-title="Top 40 & Hits" radio="true",NPO 3FM Serious Radio
 http://icecast.omroep.nl/3fm-bb-mp3
@@ -205,12 +205,12 @@ http://usa4.fastcast4u.com:5006/;
 # 72FM: https://72fm.com/station/7316c4df-d61f-4ba1-9de4-f92e66b97f03?source=m3u
 #EXTINF:-1 tvg-logo="https://www.lannaradio.com/favicon.ico" group-title="Top 40 & Hits" radio="true",ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก
 https://inter.lannaradio.com/radio/8000/radio.mp3
-# 72FM: https://72fm.com/station/9632c4ae-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Los 40 Principales Chile
-http://27323.live.streamtheworld.com/LOS40_CHILE_SC
 # 72FM: https://72fm.com/station/af809e4a-7ff4-4630-8b7e-9c09ec249679?source=m3u
 #EXTINF:-1 tvg-logo="https://www.skyradio.nl/favicon.ico" group-title="Top 40 & Hits" radio="true",Sky Radio Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA
+# 72FM: https://72fm.com/station/9632c4ae-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Los 40 Principales Chile
+http://27323.live.streamtheworld.com/LOS40_CHILE_SC
 # 72FM: https://72fm.com/station/9628590f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio88.hu/wp-content/uploads/2020/04/cropped-r88logo-180x180.png" group-title="Top 40 & Hits" radio="true",Rádió 88 Retro
 http://stream1.radio88.hu:8300/;stream
@@ -349,18 +349,18 @@ https://choco.hostingradio.ru:10010/fm
 # 72FM: https://72fm.com/station/8b6000a2-0eeb-4eb2-8511-a168de0e9ce9?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Kiss FM Moldova
 https://live.kissfm.md/kissfm.chisinau
-# 72FM: https://72fm.com/station/96300267-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Radio Tambrin 92.7 - Scarborough
-http://ice42.securenetsystems.net/TAMBRIN
 # 72FM: https://72fm.com/station/51092631-e960-477e-8559-c283f73c6105?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Lider FM
 https://icecast.lider-fm.by/liderfm
-# 72FM: https://72fm.com/station/962869c5-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",RMC Great Artists
-http://edge.radiomontecarlo.net/rmcweb007
+# 72FM: https://72fm.com/station/96300267-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Radio Tambrin 92.7 - Scarborough
+http://ice42.securenetsystems.net/TAMBRIN
 # 72FM: https://72fm.com/station/4a81cd8d-4d78-4711-a351-5ccd5bd02d68?source=m3u
 #EXTINF:-1 tvg-logo="https://denger.in/logo.png" group-title="Top 40 & Hits" radio="true",DENGERIN MUSIK INDONESIA
 https://stream.denger.in/
+# 72FM: https://72fm.com/station/962869c5-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",RMC Great Artists
+http://edge.radiomontecarlo.net/rmcweb007
 # 72FM: https://72fm.com/station/140203eb-525f-11ea-be63-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://mm.aiircdn.com/157/58de62950e8e5.jpg" group-title="Top 40 & Hits" radio="true",Red FM Cork
 https://edge.audioxi.com/RED
@@ -400,18 +400,18 @@ http://play.sas-media.ru/play_256
 # 72FM: https://72fm.com/station/4abe67bd-cd14-418e-88c3-284f1ef8c487?source=m3u
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2017/02/Forest-Green-Radio-100x47.jpg" group-title="Top 40 & Hits" radio="true",Forest Green Radio
 http://s1.streamaudio.de:8000/forest-green
-# 72FM: https://72fm.com/station/961f47f0-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Radio Pico
-http://onair11.xdevel.com:8064/
 # 72FM: https://72fm.com/station/bd0b7f45-2ff6-4318-84b6-77a3490723f7?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNxSg2H/schlageroldies.jpg" group-title="Top 40 & Hits" radio="true",__SCHLAGER OLDIES__ by rautemusik (rm.fm)
 https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser
-# 72FM: https://72fm.com/station/69fa2999-e208-42eb-9a4a-d40bc9b2efef?source=m3u
-#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/logo192.png" group-title="Top 40 & Hits" radio="true",Oxygen Music
-https://oxygenmusic.hu:8443/oxygenmusic_192
+# 72FM: https://72fm.com/station/961f47f0-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Radio Pico
+http://onair11.xdevel.com:8064/
 # 72FM: https://72fm.com/station/f38b4a57-5667-11ea-be63-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Енерджи (opus)
 http://stream.radioreklama.bg/nrj.opus
+# 72FM: https://72fm.com/station/69fa2999-e208-42eb-9a4a-d40bc9b2efef?source=m3u
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/logo192.png" group-title="Top 40 & Hits" radio="true",Oxygen Music
+https://oxygenmusic.hu:8443/oxygenmusic_192
 # 72FM: https://72fm.com/station/92602eb8-2cc7-4839-a739-b9132aeed6a5?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Top 40 & Hits" radio="true",__DEUTSCHRAP CHARTS__ by rautemusik (rm.fm)
 https://deutschrap-charts-high.rautemusik.fm/?ref=radiobrowser
@@ -514,12 +514,12 @@ http://stream.revma.ihrhls.com/zc5060/hls.m3u8
 # 72FM: https://72fm.com/station/9641af72-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Radio Delta 1
 http://onair15.xdevel.com:8942/;stream.mp3
-# 72FM: https://72fm.com/station/8407749b-aa65-4aee-b503-bd6e196bea9d?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Galgalatz 91.8 FM
-https://glzicylv01.bynetcdn.com/glglz_mp3
 # 72FM: https://72fm.com/station/96432cb3-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s122234q.png" group-title="Top 40 & Hits" radio="true",JAMM FM
 http://stream.jammfm.nl:8221/
+# 72FM: https://72fm.com/station/8407749b-aa65-4aee-b503-bd6e196bea9d?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Galgalatz 91.8 FM
+https://glzicylv01.bynetcdn.com/glglz_mp3
 # 72FM: https://72fm.com/station/e58e609b-3712-4136-86cf-5ac872192918?source=m3u
 #EXTINF:-1 tvg-logo="https://www.eurodance.at/images/logo.png" group-title="Top 40 & Hits" radio="true",Eurodance-X-Press
 https://secureonair.krone.at/eurodance.aac
@@ -556,21 +556,21 @@ http://stream.revma.ihrhls.com/zc4802/hls.m3u8
 # 72FM: https://72fm.com/station/9a05abfa-5013-4a9b-aa21-befce068cbcf?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",100.3 KISS FM
 https://stream.revma.ihrhls.com/zc1629
-# 72FM: https://72fm.com/station/a88e23e7-34c7-4ef6-9c83-2b932e16cc7f?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",COOLFM YouTube HOT HITS!
-https://mediagw.e-tiger.net/stream/zc22
 # 72FM: https://72fm.com/station/96442024-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",RTL Radio
 http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192/vtuner
+# 72FM: https://72fm.com/station/a88e23e7-34c7-4ef6-9c83-2b932e16cc7f?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",COOLFM YouTube HOT HITS!
+https://mediagw.e-tiger.net/stream/zc22
 # 72FM: https://72fm.com/station/39a9c317-2511-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Nexus Radio
 http://stream1.nexusradio.fm/nexusdance.mp3
-# 72FM: https://72fm.com/station/57d6c252-a148-4e96-9602-39f3d6f22eb1?source=m3u
-#EXTINF:-1 tvg-logo="https://radyo44.com.tr/favicons/favicon-32x32.png" group-title="Top 40 & Hits" radio="true",Radio 44
-https://radyo44.80.yayin.com.tr/stream
 # 72FM: https://72fm.com/station/5b74f9f4-5d24-4069-9167-618465315661?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Radio Studentus
 http://radiolive.studentus.md:8000/live
+# 72FM: https://72fm.com/station/57d6c252-a148-4e96-9602-39f3d6f22eb1?source=m3u
+#EXTINF:-1 tvg-logo="https://radyo44.com.tr/favicons/favicon-32x32.png" group-title="Top 40 & Hits" radio="true",Radio 44
+https://radyo44.80.yayin.com.tr/stream
 # 72FM: https://72fm.com/station/173bbec6-f089-4fed-a7df-6732416b06c7?source=m3u
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/69d4c30d-96a8-4ee1-9134-03a69d048519.png" group-title="Top 40 & Hits" radio="true",Positively Good Morning -om
 https://streaming.positivity.radio/pr/goodmorning/icecast.audio
@@ -742,24 +742,24 @@ http://45.79.186.124/proxy/vyberadio?mp=/stream
 # 72FM: https://72fm.com/station/b9660eb9-34f9-11e9-8f31-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",One Dance Ticino
 https://ice15.fluidstream.net/onedancech.aac
-# 72FM: https://72fm.com/station/9608e82f-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Antenna 1 Roma (107.1 MHz FM)
-http://s3.mediastreaming.it:7568/;
 # 72FM: https://72fm.com/station/0ef85225-d189-4e3b-badd-562459341a87?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Urban Radio - Gospel Hits
 http://hydra.cdnstream.com/1535_128
+# 72FM: https://72fm.com/station/9608e82f-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",Antenna 1 Roma (107.1 MHz FM)
+http://s3.mediastreaming.it:7568/;
 # 72FM: https://72fm.com/station/6e6bb4a4-f2c3-11e8-a471-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-hits_600x600.jpg" group-title="Top 40 & Hits" radio="true",- 0 N - Hits on Radio
 https://0n-hits.radionetz.de/0n-hits.mp3
 # 72FM: https://72fm.com/station/4f5d2b6c-6664-49e4-8e83-793d69adb3bc?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Nova 91.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac
-# 72FM: https://72fm.com/station/05aadea1-245a-11e8-91bf-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="Top 40 & Hits" radio="true",Allzic Radio Top 50
-http://allzic55.ice.infomaniak.ch/allzic55.mp3
 # 72FM: https://72fm.com/station/96396413-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",Kiss Dance Radio
 http://s1.nexuscast.com:8131/;
+# 72FM: https://72fm.com/station/05aadea1-245a-11e8-91bf-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="Top 40 & Hits" radio="true",Allzic Radio Top 50
+http://allzic55.ice.infomaniak.ch/allzic55.mp3
 # 72FM: https://72fm.com/station/9627f201-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",DANCEable Radio
 http://s9.myradiostream.com:35944/;
@@ -787,12 +787,12 @@ http://stream.zeno.fm/a5h7vfret68uv
 # 72FM: https://72fm.com/station/bd7135e8-5d0d-4e74-922c-0deb8f315587?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Top 40 & Hits" radio="true",__TOP40__ by rautemusik (rm.fm)
 https://top40-high.rautemusik.fm/?ref=radiobrowser
-# 72FM: https://72fm.com/station/bd06bffb-7cd9-4d12-9100-e9471b67f25a?source=m3u
-#EXTINF:-1 tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-310-150.png?v54" group-title="Top 40 & Hits" radio="true",Radio San Marino Classic
-https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8
 # 72FM: https://72fm.com/station/0cd29540-0bf9-45c5-a049-b0c9e8d0dd1b?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",ЦЕНТР FM
 https://stream2.datacenter.by/stream
+# 72FM: https://72fm.com/station/bd06bffb-7cd9-4d12-9100-e9471b67f25a?source=m3u
+#EXTINF:-1 tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-310-150.png?v54" group-title="Top 40 & Hits" radio="true",Radio San Marino Classic
+https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8
 # 72FM: https://72fm.com/station/4c7cca1d-5d9c-4676-8393-c3ad622ec471?source=m3u
 #EXTINF:-1 tvg-logo="https://www.sunshinefm.hu/favicon/apple-touch-icon.png" group-title="Top 40 & Hits" radio="true",Sunshine FM
 http://195.56.193.129:8100/;stream/1?icy=http
@@ -832,12 +832,12 @@ https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
 # 72FM: https://72fm.com/station/8b79bb3f-54f3-49a8-b428-87971f9592e2?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwIFRZHu0NNH_WMStgQ4YqD6jSgnwQnMbP65ZbEMU8RSF6A1hsBTNbmc&s=10" group-title="Top 40 & Hits" radio="true",FFM
 http://167.114.131.90:5968/ffm
-# 72FM: https://72fm.com/station/e8485a8b-d8c7-11e9-a861-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Top 40 & Hits" radio="true",COOLFM Goldies
-http://mediagw.e-tiger.net:8000/stream/goldtin
 # 72FM: https://72fm.com/station/bb66a2d9-d231-460c-9c93-a5a38bdd028f?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",La Clave 92.9FM
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+# 72FM: https://72fm.com/station/e8485a8b-d8c7-11e9-a861-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Top 40 & Hits" radio="true",COOLFM Goldies
+http://mediagw.e-tiger.net:8000/stream/goldtin
 # 72FM: https://72fm.com/station/847ab878-67d8-49c1-9587-4098f3da3515?source=m3u
 #EXTINF:-1 group-title="Top 40 & Hits" radio="true",__BIGCITYBEATS.FM__ by rautemusik (rm.fm)
 https://stream.bigcitybeats.de/bcb-radio/mp3-192/radiobrowser
@@ -901,6 +901,6 @@ http://le301.euddn.net/0aab89e0d60ff8d3f6e2bbc532edbd3ad068911dc8d3d3c4cce04f8ff
 # 72FM: https://72fm.com/station/0c8410d4-1cbf-472d-8722-a67c928e22e4?source=m3u
 #EXTINF:-1 tvg-logo="https://avtoradio.bg/ar_logo.f88b409f.png" group-title="Top 40 & Hits" radio="true",Авто Радио
 http://stream80.metacast.eu/avtoradiohi.aac
-# 72FM: https://72fm.com/station/0ea5c74b-3d4c-4d4d-aea9-d63e4a7019ee?source=m3u
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="Top 40 & Hits" radio="true",__STUDY__ by rautemusik (rm.fm)
-https://study-high.rautemusik.fm/?ref=radiobrowser
+# 72FM: https://72fm.com/station/d3d4cb0a-3f9f-4281-9fe4-9d9cf3da0ab7?source=m3u
+#EXTINF:-1 tvg-logo="https://winradioph.net/favicon.ico" group-title="Top 40 & Hits" radio="true",Win Radio Davao
+https://stream-42.zeno.fm/1noxhem5qpkuv
