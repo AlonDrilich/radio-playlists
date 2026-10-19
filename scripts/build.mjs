@@ -968,6 +968,7 @@ Streams go offline or move between checks, so some entries will not play.</p>
 <li>Last updated ${esc(generated)}</li>
 <li>Every playlist with its raw URL, for scripts: <a href="${RAW_BASE}/index.json">index.json</a> · source code: <a href="${REPO_URL}">GitHub</a></li>
 <li>Looking for one station rather than a list? <a href="${SITE}/radio-stream-url-finder">Search any station's stream URL on 72FM</a></li>
+<li>Want your own mix of stations? <a href="${SITE}/radio-m3u-playlist-maker">Make your own M3U playlist on 72FM</a></li>
 </ul>
 <h2>How to use</h2>
 <p><strong>VLC:</strong> Media → Open Network Stream, paste a playlist link (the “Download .m3u” links below), or download the file and open it.</p>
@@ -1094,6 +1095,7 @@ Listen in the browser, no install: **https://72fm.com**
 - [internet-radio-mcp](https://github.com/AlonDrilich/internet-radio-mcp): lets Claude, Cursor and other AI assistants search the same directory and return stream URLs.
 - [radio-player-72fm](https://github.com/AlonDrilich/radio-player-72fm): a WordPress plugin that puts a station's player on any post or page.
 - [Radio stream URL finder](https://72fm.com/radio-stream-url-finder): type a station's name, get the address of its stream to copy or download as a one-station .m3u.
+- [Radio M3U playlist maker](https://72fm.com/radio-m3u-playlist-maker): pick your own stations by country, genre or name and download them as one .m3u.
 - [72FM radio widget](https://72fm.com/radio-widget): copy-and-paste player for any website. All tools: [72fm.com/developers](https://72fm.com/developers).
 
 ## Euro Truck Simulator 2 and American Truck Simulator
