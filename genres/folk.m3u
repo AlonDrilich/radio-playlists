@@ -490,12 +490,12 @@ http://stream.laut.fm/monacensis
 # 72FM: https://72fm.com/station/1b52f3a0-2920-4f17-a549-73c85713385f?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s9967/images/logog.png" group-title="Folk" radio="true",Kakanj, Radio Kakanj
 http://cast2.name.ba:8067/
-# 72FM: https://72fm.com/station/9baa9e63-acb8-414d-a833-74b2cbbd75e8?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",Rovinj FM
-http://rovinj.fm:8000/
 # 72FM: https://72fm.com/station/d660e4c5-f676-422d-b535-b12691cc56b6?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Fabulous 103
 https://fabulous.thailandstreaming.net/fabulous.mp3
+# 72FM: https://72fm.com/station/9baa9e63-acb8-414d-a833-74b2cbbd75e8?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",Rovinj FM
+http://rovinj.fm:8000/
 # 72FM: https://72fm.com/station/96653f00-59ed-4ecb-9682-bc5fd55f8b92?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",安徽戏曲广播
 https://lhttp.qtfm.cn/live/1952/64k.mp3
@@ -607,12 +607,12 @@ http://sr10.inmystream.info:8073/;
 # 72FM: https://72fm.com/station/963ad064-579c-4c56-978e-0f97e178db08?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Campus BXL 92.1 [Ogg HQ]
 https://www.radiocampus.be/stream/stream_hi.ogg
-# 72FM: https://72fm.com/station/d0e64479-1481-48a9-b1f5-0980b4fd1005?source=m3u
-#EXTINF:-1 group-title="Folk" radio="true",87.6 Studio 1
-http://s3.onweb.gr:8872/;
 # 72FM: https://72fm.com/station/054d33b7-3d8a-48dd-a7dd-e1e3bb039177?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Exclusively Joan Baez
 https://streaming.exclusive.radio/er/joanbaez/icecast.audio
+# 72FM: https://72fm.com/station/d0e64479-1481-48a9-b1f5-0980b4fd1005?source=m3u
+#EXTINF:-1 group-title="Folk" radio="true",87.6 Studio 1
+http://s3.onweb.gr:8872/;
 # 72FM: https://72fm.com/station/e30883d9-2a3d-4c5b-8518-a472646f5a4a?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Irish Pub Radio
 http://solid24.streamupsolutions.com:8026/live
@@ -886,21 +886,21 @@ http://online.kometa.fm:8000/live
 # 72FM: https://72fm.com/station/12ebc143-6d72-42db-89b4-3610f97c9409?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Marija Bistrica
 http://178.218.163.171:8024/stream
-# 72FM: https://72fm.com/station/8ce91694-1fcd-4ead-baf3-51200af4e25c?source=m3u
-#EXTINF:-1 tvg-logo="https://imgur.com/totzCmb" group-title="Folk" radio="true",Radio Rashi
-https://s2.free-shoutcast.com/stream/18214
 # 72FM: https://72fm.com/station/cc386af2-e9ea-4594-a8d0-f72b3dff0d8c?source=m3u
 #EXTINF:-1 tvg-logo="https://naszhajmat.eu/images/favicon.ico" group-title="Folk" radio="true",Nasz Hajmat
 https://s3.slotex.pl:7126/stream
+# 72FM: https://72fm.com/station/8ce91694-1fcd-4ead-baf3-51200af4e25c?source=m3u
+#EXTINF:-1 tvg-logo="https://imgur.com/totzCmb" group-title="Folk" radio="true",Radio Rashi
+https://s2.free-shoutcast.com/stream/18214
 # 72FM: https://72fm.com/station/775abd5d-0369-47f9-8e43-bd40513d2440?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Zusamstream
 http://stream.laut.fm/zusamstream
-# 72FM: https://72fm.com/station/cd3c305e-7058-482f-97f0-f3362a60972d?source=m3u
-#EXTINF:-1 tvg-logo="https://radiopuls.lu/wp-content/uploads/2016/02/cropped-original_radio_puls_logo_3d_png_1000px-180x180.png" group-title="Folk" radio="true",Radio Puls Luxembourg
-https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream
 # 72FM: https://72fm.com/station/9622c787-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Folk" radio="true",Radio Grüne Welle
 http://94.23.66.155:9196/rgwhigh
+# 72FM: https://72fm.com/station/cd3c305e-7058-482f-97f0-f3362a60972d?source=m3u
+#EXTINF:-1 tvg-logo="https://radiopuls.lu/wp-content/uploads/2016/02/cropped-original_radio_puls_logo_3d_png_1000px-180x180.png" group-title="Folk" radio="true",Radio Puls Luxembourg
+https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream
 # 72FM: https://72fm.com/station/daceff3e-9406-4f48-8099-6f56fb59ed33?source=m3u
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="Folk" radio="true",Θαλασσόλυκος 102.1
 http://sc2.streamwithq.com:8130/;

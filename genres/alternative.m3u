@@ -259,12 +259,12 @@ http://stream.radioparadise.com/rock-128
 # 72FM: https://72fm.com/station/8f00a42a-c4e3-4138-8f21-551896a29065?source=m3u
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-newwave_600x600.jpg" group-title="Alternative" radio="true",- 0 N - New Wave on Radio
 https://0n-newwave.radionetz.de/0n-newwave.mp3
-# 72FM: https://72fm.com/station/3904e33b-d230-43da-8114-e1ea97485ace?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/114200.v4.png" group-title="Alternative" radio="true",95.7 That Station
-https://ais-sa8.cdnstream1.com/2749_64.aac
 # 72FM: https://72fm.com/station/550f4b47-a545-4b1d-8c08-3b520c4db329?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg" group-title="Alternative" radio="true",Studio Brussel
 http://icecast.vrtcdn.be/stubru-high.mp3
+# 72FM: https://72fm.com/station/3904e33b-d230-43da-8114-e1ea97485ace?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/114200.v4.png" group-title="Alternative" radio="true",95.7 That Station
+https://ais-sa8.cdnstream1.com/2749_64.aac
 # 72FM: https://72fm.com/station/96152e10-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Alternative" radio="true",Kanal 103
 http://radiostream.neotel.mk/kanal103
@@ -526,12 +526,12 @@ http://212.129.27.101:8000/voixdulat_ogg
 # 72FM: https://72fm.com/station/ba4a59be-3ba1-4461-b9de-f489d605c7ac?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1rcQ9sr/1-143718101410.webp" group-title="Alternative" radio="true",Antena 3 (Portugal)
 https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR
-# 72FM: https://72fm.com/station/96451466-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Alternative" radio="true",AlternativeFM
-http://alternativefm.cast.addradio.de/alternativefm/simulcast/high/stream.mp3
 # 72FM: https://72fm.com/station/af7ec589-f36f-11e8-a471-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-ndw_600x600.jpg" group-title="Alternative" radio="true",- 1 A - NDW (Neue Deutsche Welle) von 1A Radio
 https://1a-ndw.radionetz.de/1a-ndw.aac
+# 72FM: https://72fm.com/station/96451466-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Alternative" radio="true",AlternativeFM
+http://alternativefm.cast.addradio.de/alternativefm/simulcast/high/stream.mp3
 # 72FM: https://72fm.com/station/8754a1df-772e-4a63-a878-fae915d0f132?source=m3u
 #EXTINF:-1 tvg-logo="https://kink.nl/_next/image?url=https%3A%2F%2Fapi.kink.nl%2Fcache%2Fi%2F4000%2Fimages%2F4414.w1600.b80bbb6.c013fc6.q90.jpg&w=1920&q=75" group-title="Alternative" radio="true",Kink 90's
 https://22663.live.streamtheworld.com/KINK_90S_SC
@@ -826,12 +826,12 @@ https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
 # 72FM: https://72fm.com/station/0df7ff35-422f-4599-be5d-b9d84599e0cb?source=m3u
 #EXTINF:-1 tvg-logo="https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png" group-title="Alternative" radio="true",95bFM - 256Kbps MP3
 https://streams.95bfm.com/stream95
-# 72FM: https://72fm.com/station/35732d95-d390-4097-94c5-017385c081ca?source=m3u
-#EXTINF:-1 group-title="Alternative" radio="true",Radioactive.FM 88.6
-https://radio123-gecko.radioca.st/radioactivefm
 # 72FM: https://72fm.com/station/962df583-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Alternative" radio="true",FM90 Campus Rádió
 http://stream.fm90.hu:8000/;
+# 72FM: https://72fm.com/station/35732d95-d390-4097-94c5-017385c081ca?source=m3u
+#EXTINF:-1 group-title="Alternative" radio="true",Radioactive.FM 88.6
+https://radio123-gecko.radioca.st/radioactivefm
 # 72FM: https://72fm.com/station/30851723-f2ae-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Alternative" radio="true",JUKA Radio
 http://stream.laut.fm/juka-radio

@@ -262,12 +262,12 @@ https://acp2.lorini.net:36050/stream
 # 72FM: https://72fm.com/station/3d522215-ada8-4701-ab5c-4c4d33f41e17?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s282344/images/logod.jpg?t=637553924160000000" group-title="Tropical" radio="true",Buenisima Stereo - Barranquilla
 https://centova.hostingelectrica.net/proxy/buenisim?mp=/stream
-# 72FM: https://72fm.com/station/e3fd8ca6-a69d-42a2-8277-c6664a2ebcae?source=m3u
-#EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/fmeclipse905.png" group-title="Tropical" radio="true",FM Eclipse 90.5
-https://streaming2.locucionar.com/proxy/fmeclipse905?mp=/stream
 # 72FM: https://72fm.com/station/31cd811e-82d5-4bbd-8c46-9b5e47f3ff7a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ecostereo.com/wp-content/uploads/2023/05/eco-stereo-300x300.png" group-title="Tropical" radio="true",Eco Stereo
 http://149.56.22.27:8022/stream
+# 72FM: https://72fm.com/station/e3fd8ca6-a69d-42a2-8277-c6664a2ebcae?source=m3u
+#EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/fmeclipse905.png" group-title="Tropical" radio="true",FM Eclipse 90.5
+https://streaming2.locucionar.com/proxy/fmeclipse905?mp=/stream
 # 72FM: https://72fm.com/station/8336650b-5916-4cd8-96c1-72f5fa76f79e?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="Tropical" radio="true",Star Radio
 https://stream.zeno.fm/sowa6evoo9kvv
@@ -412,6 +412,9 @@ https://sonic.paulatina.co:10887/stream
 # 72FM: https://72fm.com/station/5c45bfc7-97ef-48b9-95d8-6eae380b1d8d?source=m3u
 #EXTINF:-1 group-title="Tropical" radio="true",caracol radio sevilla 1530 am
 https://panel1.intermediahost.co:8050/stream
+# 72FM: https://72fm.com/station/8c69b1f8-2e32-4d5e-bb46-aaf25b648869?source=m3u
+#EXTINF:-1 group-title="Tropical" radio="true",cristal boyacá 98.3 fm
+https://impactodigitalcol.com/8020/stream
 # 72FM: https://72fm.com/station/4ee7b801-c140-4acf-8e05-904326ada81c?source=m3u
 #EXTINF:-1 group-title="Tropical" radio="true",crv radio Vida latina
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIDA_LATINA_S01AAC.aac
@@ -421,6 +424,9 @@ https://tunercloud.online/stream/la-mia
 # 72FM: https://72fm.com/station/e30b60a4-884e-4d34-a248-39ee30b19c42?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiokebuena.pe/panel/update/img/logo.webp" group-title="Tropical" radio="true",Radio Kebuena
 https://panel.innovatestream.pe:10970/stream
+# 72FM: https://72fm.com/station/7764ac98-981d-4b72-a487-bc6d51838aac?source=m3u
+#EXTINF:-1 group-title="Tropical" radio="true",Tiki Man Radio
+http://ice64.securenetsystems.net/TIKIMAN
 # 72FM: https://72fm.com/station/ea4df68f-5d85-4185-884c-9fbaf1e1fdc9?source=m3u
 #EXTINF:-1 tvg-logo="https://usercontent.one/wp/www.yourlatinradio.com/wp-content/uploads/2020/06/cropped-Mockup-AppIcon-512px-192x192.png" group-title="Tropical" radio="true",Your Latin Radio
 https://radio.yourlatinradio.com/listen/ylr/radio.mp3
@@ -433,9 +439,6 @@ https://radiohd.streaminghd.co:7502/stream
 # 72FM: https://72fm.com/station/7960670a-1ca1-4ec4-9564-fe7910e52930?source=m3u
 #EXTINF:-1 group-title="Tropical" radio="true",carmen stereo 89.0 el carmen de bolívar
 https://streaming.radiosenlinea.com.ar:10893/;
-# 72FM: https://72fm.com/station/8c69b1f8-2e32-4d5e-bb46-aaf25b648869?source=m3u
-#EXTINF:-1 group-title="Tropical" radio="true",cristal boyacá 98.3 fm
-https://impactodigitalcol.com/8020/stream
 # 72FM: https://72fm.com/station/38bd4b33-901c-4710-a6e4-7b55e8d4b908?source=m3u
 #EXTINF:-1 group-title="Tropical" radio="true",emisora punto 5 1490 am bogotá
 https://usest-sp1.golivestream.net/8012/stream
@@ -475,9 +478,6 @@ https://mdstrm.com/audio/632cb7f6b70c350af5bc2903/live.m3u8
 # 72FM: https://72fm.com/station/9d398d54-38bb-4e63-9208-149679ee026f?source=m3u
 #EXTINF:-1 group-title="Tropical" radio="true",sonora stereo 96.7 cimitarra
 https://radios.miservidor.cloud:8108/stream?nocache=1791681245059
-# 72FM: https://72fm.com/station/7764ac98-981d-4b72-a487-bc6d51838aac?source=m3u
-#EXTINF:-1 group-title="Tropical" radio="true",Tiki Man Radio
-http://ice64.securenetsystems.net/TIKIMAN
 # 72FM: https://72fm.com/station/f906341c-a1f0-493e-ad0d-3e8008566016?source=m3u
 #EXTINF:-1 group-title="Tropical" radio="true",uniguajira stereo 89.3 riohacha
 https://play8.tikast.com/proxy/uniguajirafm?mp=/stream

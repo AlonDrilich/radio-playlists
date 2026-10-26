@@ -568,12 +568,12 @@ https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac
 # 72FM: https://72fm.com/station/53ef1268-a1f2-4d6f-beaf-6cec98b8fac8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.ruc.pt/apple-icon.png" group-title="Portugal" radio="true",RUC Rádio Universidade de Coimbra
 http://stream.ruc.pt/high
-# 72FM: https://72fm.com/station/fc276c08-822a-46aa-b71a-afb9e15f9580?source=m3u
-#EXTINF:-1 group-title="Portugal" radio="true",97fm Rádio Clube de Pombal
-https://centova.radios.com.pt/proxy/410?mp=/stream
 # 72FM: https://72fm.com/station/c4768f86-1489-4eff-8871-59f38164a315?source=m3u
 #EXTINF:-1 tvg-logo="https://radarlisboa.fm/wp-content/uploads/2016/02/logo_abril-1.png" group-title="Portugal" radio="true",Radar
 http://proic1.redeaudio.com/radar_aac
+# 72FM: https://72fm.com/station/fc276c08-822a-46aa-b71a-afb9e15f9580?source=m3u
+#EXTINF:-1 group-title="Portugal" radio="true",97fm Rádio Clube de Pombal
+https://centova.radios.com.pt/proxy/410?mp=/stream
 # 72FM: https://72fm.com/station/9619974c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Portugal" radio="true",Rádio Limite
 http://centova.radio.com.pt:9408/;
@@ -757,24 +757,24 @@ https://play.radioregional.pt/stream/1/
 # 72FM: https://72fm.com/station/17022766-6ebe-469e-aa46-19f9293cc6ba?source=m3u
 #EXTINF:-1 tvg-logo="https://radiosudoeste.pt/favicon.ico" group-title="Portugal" radio="true",Rádio Sudoeste
 https://centova.radios.pt/proxy/495?mp=/stream
+# 72FM: https://72fm.com/station/99267ca2-a280-4342-b8bb-4e78d8a9dae0?source=m3u
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal" radio="true",RFM Rocks
+https://25583.live.streamtheworld.com/RFMONTHEROCKAAC.aac
 # 72FM: https://72fm.com/station/b77d4a10-8634-4f76-a579-8421c9131dde?source=m3u
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9l5hioJHnb99wLMAOD7sai10WTa6YpW1JfW5GvSJWGE8C_r0KfPieC4gCYPJtRgLOhcBjihgMoOQ3KvTNAB3iaO5T3LRSmrvjE-3-WA3u0HZa_3jIk1Gpq2buERY8F8IxpWBPcVsn5dbSOk0dUiYncOOCweTZ-e0UP3VyJWeSPtp208W3i_YJkwRWG3-A/s1080/PCIMG_2026-03-19_10-06-56.JPG" group-title="Portugal" radio="true",porão da nau 2
 http://uk20freenew.listen2myradio.com:5382/;
 # 72FM: https://72fm.com/station/c636dc32-376e-4bcc-8ba4-76aa264458e2?source=m3u
 #EXTINF:-1 tvg-logo="https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png" group-title="Portugal" radio="true",Rádio Regional - Mirandela
 https://play.radioregional.pt/stream/4/
-# 72FM: https://72fm.com/station/99267ca2-a280-4342-b8bb-4e78d8a9dae0?source=m3u
-#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal" radio="true",RFM Rocks
-https://25583.live.streamtheworld.com/RFMONTHEROCKAAC.aac
 # 72FM: https://72fm.com/station/d4310c4c-714e-458a-b987-3a5bb6386463?source=m3u
 #EXTINF:-1 group-title="Portugal" radio="true",Wave Vibes
 https://a6.asurahosting.com/listen/wave_vibes/radio.mp3
-# 72FM: https://72fm.com/station/56df79b0-51f6-46cd-99a1-11d51bb3359b?source=m3u
-#EXTINF:-1 tvg-logo="https://batida.fm/images/fbcover.jpg" group-title="Portugal" radio="true",Batida FM
-https://stream-icy.rayo.pt/batidafm.mp3?direct=true
 # 72FM: https://72fm.com/station/be802b5d-d62c-4ca7-ad17-7115ad12b81b?source=m3u
 #EXTINF:-1 group-title="Portugal" radio="true",Deep Mix Radio
 https://stream-new.deepmix.net/deep-mix-radio-320.mp3
+# 72FM: https://72fm.com/station/56df79b0-51f6-46cd-99a1-11d51bb3359b?source=m3u
+#EXTINF:-1 tvg-logo="https://batida.fm/images/fbcover.jpg" group-title="Portugal" radio="true",Batida FM
+https://stream-icy.rayo.pt/batidafm.mp3?direct=true
 # 72FM: https://72fm.com/station/e1630f99-1069-4555-b28a-cedcd17e6d0a?source=m3u
 #EXTINF:-1 tvg-logo="https://meiodomato.com/static/img/logo.png" group-title="Portugal" radio="true",Radio Meio Do Mato
 https://radio.meiodomato.com/stream
@@ -874,6 +874,9 @@ https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u
 # 72FM: https://72fm.com/station/04e5765a-fc96-48dd-a5f4-ae2234a1a8ab?source=m3u
 #EXTINF:-1 group-title="Portugal" radio="true",2000 Comercial Online Lisboa Portugal
 https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8
+# 72FM: https://72fm.com/station/4bb7ec54-51ee-4edd-9c5f-d1513e756b4e?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/portugal/afrobeat-radio.webp" group-title="Portugal" radio="true",AfroBeat Radio
+https://smartmedia.stmxp.net:8068/stream
 # 72FM: https://72fm.com/station/100e3f42-c43d-49e3-93e0-6d6d4e60642b?source=m3u
 #EXTINF:-1 group-title="Portugal" radio="true",Cool FM Albufeira
 https://cool-fm.link/listen/stream/live.mp3
@@ -901,6 +904,3 @@ https://cast1.redeaudio.com/proxy/radiotransforma/stream
 # 72FM: https://72fm.com/station/d522956d-d0fb-4a07-abdb-650b2ff0d9f0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.recordfm.pt/player_m_algarve.htm" group-title="Portugal" radio="true",Record FM 91,8 Algarve
 https://nl.digitalrm.pt:8020/stream
-# 72FM: https://72fm.com/station/4bb7ec54-51ee-4edd-9c5f-d1513e756b4e?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/portugal/afrobeat-radio.webp" group-title="Portugal" radio="true",AfroBeat Radio
-https://smartmedia.stmxp.net:8068/stream

@@ -190,12 +190,12 @@ http://stream.europeanhitradio.com:8000/Stream_24.mp3
 # 72FM: https://72fm.com/station/ebe13afc-9ede-4596-a313-e8db4b2b0f16?source=m3u
 #EXTINF:-1 group-title="Latvia" radio="true",Njoyradio
 https://live.njoyradio.lv/02
-# 72FM: https://72fm.com/station/08c28678-83d8-4363-8c09-ca8ce8cfbbcf?source=m3u
-#EXTINF:-1 tvg-logo="https://tv3cdn.lv/tv3/images/logos/tv3-starfm.svg?ver=3" group-title="Latvia" radio="true",StarFM
-https://live.advailo.com/audio/mp3/icecast.audio
 # 72FM: https://72fm.com/station/ec9d93fe-a161-4c97-ad39-858afd229ca7?source=m3u
 #EXTINF:-1 tvg-logo="https://retrofm.lv/files/logo_02.png" group-title="Latvia" radio="true",Retro FM Disco
 https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3
+# 72FM: https://72fm.com/station/08c28678-83d8-4363-8c09-ca8ce8cfbbcf?source=m3u
+#EXTINF:-1 tvg-logo="https://tv3cdn.lv/tv3/images/logos/tv3-starfm.svg?ver=3" group-title="Latvia" radio="true",StarFM
+https://live.advailo.com/audio/mp3/icecast.audio
 # 72FM: https://72fm.com/station/23cc41c2-3667-474f-a247-2da5092d786b?source=m3u
 #EXTINF:-1 tvg-logo="https://skontotev.lv/uploads/LOGO/Saraksta%20skata%20kart%C4%ABte/straumes_1a_kartite_chillax%20FM.png" group-title="Latvia" radio="true",Chillax FM
 https://streams.chillaxfm.lv/chillaxfm
@@ -343,9 +343,6 @@ http://radio.kuums.lv:5555/;stream.mp3
 # 72FM: https://72fm.com/station/1ce0e88c-8d26-41a4-bc66-8b72133daf43?source=m3u
 #EXTINF:-1 group-title="Latvia" radio="true",LOUNGE PRIVATE
 https://streams.radioskonto.lv:8443/lounge-private
-# 72FM: https://72fm.com/station/f1068bf7-0e81-4134-80e8-6ec79c1f47fa?source=m3u
-#EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - C&C Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_IDEAL_MUSICAAC.aac
 # 72FM: https://72fm.com/station/cd2fa629-3ea1-4fcd-839c-9c1f58e21388?source=m3u
 #EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - LMT Straume
 https://28993.live.streamtheworld.com/EHR_LMT_STRAUMEAAC.aac
@@ -358,9 +355,6 @@ https://streams.radioskonto.lv:8443/chill
 # 72FM: https://72fm.com/station/3ef1104f-2563-4aed-b97b-3453d89dc02b?source=m3u
 #EXTINF:-1 group-title="Latvia" radio="true",Retro FM 90's
 https://playerservices.streamtheworld.com/api/livestream-redirect/RETRO_LATVIJA_FM_70_80_90SAAC.aac
-# 72FM: https://72fm.com/station/4bc5baba-1954-4910-aea7-8ae371f039b4?source=m3u
-#EXTINF:-1 group-title="Latvia" radio="true",Xradio
-https://radio.xradio.vip/stream
 # 72FM: https://72fm.com/station/664d779d-df72-4c64-a237-10bcff9617a3?source=m3u
 #EXTINF:-1 group-title="Latvia" radio="true",Cave Lounge
 https://stream.zeno.fm/geuwghjjyjjtv
@@ -370,6 +364,9 @@ https://myradio24.org/97045
 # 72FM: https://72fm.com/station/1807baf8-5f76-4404-8f63-e17ed32a11c5?source=m3u
 #EXTINF:-1 group-title="Latvia" radio="true",EUROPA+
 https://live-radioliepaja.lv/listen/europa/radio
+# 72FM: https://72fm.com/station/f1068bf7-0e81-4134-80e8-6ec79c1f47fa?source=m3u
+#EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - C&C Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_IDEAL_MUSICAAC.aac
 # 72FM: https://72fm.com/station/89832063-5184-4490-8487-2f0c03bfdc6e?source=m3u
 #EXTINF:-1 group-title="Latvia" radio="true",European Hit Radio - Fitness
 https://stream.ehrhiti.lv:8000/Stream_14.aac
@@ -454,6 +451,9 @@ https://streams.radioskonto.lv:8443/skonto-hiti
 # 72FM: https://72fm.com/station/20df90df-af39-4e66-9c32-72fe9df06249?source=m3u
 #EXTINF:-1 group-title="Latvia" radio="true",SKONTONS
 https://streams.radioskonto.lv:8443/skonto-juniors
+# 72FM: https://72fm.com/station/4bc5baba-1954-4910-aea7-8ae371f039b4?source=m3u
+#EXTINF:-1 group-title="Latvia" radio="true",Xradio
+https://radio.xradio.vip/stream
 # 72FM: https://72fm.com/station/56f934e9-a539-475b-b28a-499882f8da0c?source=m3u
 #EXTINF:-1 group-title="Latvia" radio="true",Авторадио для тех, кто в пути
 https://my.radioprocessor.com:8100/avtoradiolv-forthoseonthego-48.aac

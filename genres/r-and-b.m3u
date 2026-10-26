@@ -556,15 +556,15 @@ https://2.mystreaming.net/er/dionnewarwick/icecast.audio
 # 72FM: https://72fm.com/station/4d8c78c0-a08d-481b-979a-ec1295af876e?source=m3u
 #EXTINF:-1 group-title="R&B" radio="true",SD Radio
 https://mystation.micast.media/radio/8020/radio.mp3
-# 72FM: https://72fm.com/station/23687a64-3d15-44ab-a45c-e0114719b277?source=m3u
-#EXTINF:-1 tvg-logo="https://www.ujimaradio.com/favicon.ico" group-title="R&B" radio="true",Ujima Radio
-https://radio.canstream.co.uk:8037/live.mp3
 # 72FM: https://72fm.com/station/2930222c-7216-4115-a46a-0c26a56a11b0?source=m3u
 #EXTINF:-1 tvg-logo="https://scontent-mty2-1.xx.fbcdn.net/v/t39.30808-6/475450305_594017990055290_4591500008743388319_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=Mu6SJyDo4t0Q7kNvgHfBg_v&_nc_oc=Adj9R7tSc5BBPlH57UC62f-Cnh86xgf2TC6UTQ0HAy3M6wn8uV-mZHL8kf1JEWZYuGc&_nc_zt=23&_nc_ht=scontent-mty2-1.xx&_nc_gid=AnMUs15mvAfbM0p04F0wfae&oh=00_AYE0WOGyxLt7E42lVR-Qhx_Bu3GZi9uvSA5m13PRKBmw_g&oe=67D3CA98" group-title="R&B" radio="true",Jazz Crusader
 https://stream.laut.fm/jazzcrusader
 # 72FM: https://72fm.com/station/8de91b56-079b-443b-94e5-d1a363b67299?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.m40radio.fr/wp-content/uploads/radio-m40-rnb-370x370.webp" group-title="R&B" radio="true",M40 Rnb
 https://live.m40radio.fr/listen/m40-rnb/m40-rnb-128.mp3
+# 72FM: https://72fm.com/station/23687a64-3d15-44ab-a45c-e0114719b277?source=m3u
+#EXTINF:-1 tvg-logo="https://www.ujimaradio.com/favicon.ico" group-title="R&B" radio="true",Ujima Radio
+https://radio.canstream.co.uk:8037/live.mp3
 # 72FM: https://72fm.com/station/d2b34ded-eb3e-47e0-8d6e-de27122537e2?source=m3u
 #EXTINF:-1 group-title="R&B" radio="true",MRS 90.5 Stockholm
 http://radiostreamone.mine.nu/MRS9050one
@@ -775,12 +775,12 @@ https://s30.radiolize.com/radio/8100/radio.mp3
 # 72FM: https://72fm.com/station/6b640433-b72e-4eae-aa2d-f1ee19a9374d?source=m3u
 #EXTINF:-1 tvg-logo="https://90s3nergy.com/wp-content/uploads/2025/07/cropped-K9VggvrHMS-192x192.png" group-title="R&B" radio="true",90s 3nergy
 https://s11.ssl-stream.com:8807/stream
-# 72FM: https://72fm.com/station/2193e96b-8dc9-4171-acc3-0cbe15fea9c8?source=m3u
-#EXTINF:-1 group-title="R&B" radio="true",Extreme Exposure Radio
-https://stream.zeno.fm/1tv2wfr01zquv
 # 72FM: https://72fm.com/station/dc7b0afe-7753-4756-bb6f-6ccca98a65c6?source=m3u
 #EXTINF:-1 tvg-logo="https://digitaldoperadio.com/wp-content/uploads/2025/04/DigitalDopeRADIO.png" group-title="R&B" radio="true",DigitalDopeRadio.com
 http://streaming.thevolumecontrol.com/listen/digital_dope_radio/radio.mp3
+# 72FM: https://72fm.com/station/2193e96b-8dc9-4171-acc3-0cbe15fea9c8?source=m3u
+#EXTINF:-1 group-title="R&B" radio="true",Extreme Exposure Radio
+https://stream.zeno.fm/1tv2wfr01zquv
 # 72FM: https://72fm.com/station/d2bc25b9-1d5c-4f6b-8379-916d36678ea9?source=m3u
 #EXTINF:-1 group-title="R&B" radio="true",Smooth Gulf Coast Radio
 https://serv2657.doscast.com/listen/smooth_gulfcoast_radio/radio.mp3
@@ -823,9 +823,6 @@ https://stream.surfernetwork.com/2d25a155409tv
 # 72FM: https://72fm.com/station/6b3685d0-860d-4692-ae4d-db3d5f1e4f9d?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/8888f003f2345e45661e62d5fe35b95b?t=_120x120" group-title="R&B" radio="true",Bugle Call
 https://buglecallradio.stream.laut.fm/buglecallradio
-# 72FM: https://72fm.com/station/ac2ee663-a16a-4827-8f18-5a3782eb62c6?source=m3u
-#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/595921/logo/c6d9e041-453e-4591-9dcc-f6477112c510.jpeg" group-title="R&B" radio="true",Music For Everyone
-https://listen.radioking.com/radio/595921/stream/656902
 # 72FM: https://72fm.com/station/c147d29a-aaaf-4c47-8deb-dae5453071a2?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R44WbgqJ/Brand-Tile-Jamz.webp" group-title="R&B" radio="true",Nova Jamz (AAC+ 320k)
 http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ_AAC320.aac
@@ -844,6 +841,9 @@ https://cast1.torontocast.com:1440/stream
 # 72FM: https://72fm.com/station/1705311d-59ec-46c5-9210-d924fffb6515?source=m3u
 #EXTINF:-1 tvg-logo="https://mixstream.info/favicon-512x512.png" group-title="R&B" radio="true",MixStream Radio - R&B
 https://radio.mixstream.nl/rnb.mp3
+# 72FM: https://72fm.com/station/ac2ee663-a16a-4827-8f18-5a3782eb62c6?source=m3u
+#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/595921/logo/c6d9e041-453e-4591-9dcc-f6477112c510.jpeg" group-title="R&B" radio="true",Music For Everyone
+https://listen.radioking.com/radio/595921/stream/656902
 # 72FM: https://72fm.com/station/d0c0b2c4-8851-479c-9135-11fd15933c57?source=m3u
 #EXTINF:-1 group-title="R&B" radio="true",NRJ RNB Old School
 https://streaming.nrjaudio.fm/ou5z8wirv93h
@@ -856,6 +856,9 @@ https://play.radioking.io/wodspunnchradio
 # 72FM: https://72fm.com/station/2fb51dfd-7e8c-41bc-a0c9-fea8a321e8a1?source=m3u
 #EXTINF:-1 tvg-logo="https://radiocafe.it/wp-content/uploads/2020/06/LOGO.png" group-title="R&B" radio="true",Radio Cafè
 https://geminione.it/proxy/test/;
+# 72FM: https://72fm.com/station/82018398-3e60-4792-9bd4-bc354e2526e6?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiolaser.fr/assets/images/radiolaser.png" group-title="R&B" radio="true",Radio Laser
+https://stream.radios.bzh/listen/radiolaser/radio.mp3
 # 72FM: https://72fm.com/station/88826e12-8552-4969-9b1b-16abc6593d2c?source=m3u
 #EXTINF:-1 tvg-logo="https://a.favicon.im/wdkx.com" group-title="R&B" radio="true",103.9 WDKX
 https://live.amperwave.net/manifest/monroecounty-wdkxfmaac-ibc1
@@ -865,9 +868,6 @@ http://ice42.securenetsystems.net/WRNE
 # 72FM: https://72fm.com/station/ca7625f4-3f93-4537-872f-2121bf2e5350?source=m3u
 #EXTINF:-1 group-title="R&B" radio="true",NRJ RNB
 https://streaming.nrjaudio.fm/ouamhfw2dqao
-# 72FM: https://72fm.com/station/82018398-3e60-4792-9bd4-bc354e2526e6?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiolaser.fr/assets/images/radiolaser.png" group-title="R&B" radio="true",Radio Laser
-https://stream.radios.bzh/listen/radiolaser/radio.mp3
 # 72FM: https://72fm.com/station/fdba580d-80a5-4c14-975f-37c120bd195e?source=m3u
 #EXTINF:-1 tvg-logo="https://platform-upload.cdn-brlogic.com/250481/logo/9d4dd92985687537c9598e369bda542b.png" group-title="R&B" radio="true",WDBP 'Mix 106.7' Rocky Mount, North Carolina
 https://servidor28-4.brlogic.com:7074/live

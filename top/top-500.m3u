@@ -400,12 +400,12 @@ http://stream-mp3.infowars.com/
 # 72FM: https://72fm.com/station/96136071-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Classic Jazz
 http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
-# 72FM: https://72fm.com/station/2067334b-59e7-11e8-b0ce-52543be04c81?source=m3u
-#EXTINF:-1 group-title="India" radio="true",Radio BollyFm
-http://stream.radiobollyfm.in:8201/hd?t=1526570335
 # 72FM: https://72fm.com/station/83dcfac4-b3c3-4731-afc1-a80dd271dffa?source=m3u
 #EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="Italy" radio="true",Radio Armisa
 https://onair.armisa.it/listen/armisa/radio.mp3
+# 72FM: https://72fm.com/station/2067334b-59e7-11e8-b0ce-52543be04c81?source=m3u
+#EXTINF:-1 group-title="India" radio="true",Radio BollyFm
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
 # 72FM: https://72fm.com/station/ad7f5a16-d660-4587-ba38-871e89419e2a?source=m3u
 #EXTINF:-1 group-title="Yemen" radio="true",Sana’a Radio راديو صنعاء
 https://dc5.serverse.com/proxy/pbmhbvxs/stream
@@ -955,12 +955,12 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
 # 72FM: https://72fm.com/station/501e4f18-fd92-441e-b4c6-4bd4a8435672?source=m3u
 #EXTINF:-1 group-title="United Arab Emirates" radio="true",Exclusively Pink Floyd
 https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
-# 72FM: https://72fm.com/station/d00d02b5-16cc-11e9-a80b-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://chocolatefm.com/radio-browser.png" group-title="Spain" radio="true",Chocolate FM [calidad móvil-low bandwidth]
-http://streaming5.elitecomunicacion.es:8082/live32.aac
 # 72FM: https://72fm.com/station/964c0c26-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Serbia" radio="true",Cool Radio
 http://176.9.30.66/cool64
+# 72FM: https://72fm.com/station/d00d02b5-16cc-11e9-a80b-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://chocolatefm.com/radio-browser.png" group-title="Spain" radio="true",Chocolate FM [calidad móvil-low bandwidth]
+http://streaming5.elitecomunicacion.es:8082/live32.aac
 # 72FM: https://72fm.com/station/960efe59-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Slovakia" radio="true",Fun Radio
 http://stream.funradio.sk:8000/fun128.mp3
@@ -1327,15 +1327,15 @@ https://streaming.softnep.net:10828/stream
 # 72FM: https://72fm.com/station/91b14aa0-321e-4abc-9410-a40abb606330?source=m3u
 #EXTINF:-1 tvg-logo="https://topradio.mobi/screen/1651641776_qalbim_navosi_tashkent_uzbekistan.jpg" group-title="Uzbekistan" radio="true",Qalbim navosi
 http://213.230.109.7:9000/alo_low
+# 72FM: https://72fm.com/station/3c807031-f9f0-4d60-b696-1482249cb74c?source=m3u
+#EXTINF:-1 group-title="Iran" radio="true",Radio Faaz
+https://free.rcast.net/230792
 # 72FM: https://72fm.com/station/9617c327-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Faroe Islands" radio="true",Kringvarp Føroya (KVF)
 http://netvarp.kringvarp.fo:443/uvhm
 # 72FM: https://72fm.com/station/a9e20c5b-0758-46e6-8f70-fa2ab481b72d?source=m3u
 #EXTINF:-1 group-title="Iran" radio="true",hamsafar
 http://n11.radiojar.com/pyea7q9h5ehvv
-# 72FM: https://72fm.com/station/3c807031-f9f0-4d60-b696-1482249cb74c?source=m3u
-#EXTINF:-1 group-title="Iran" radio="true",Radio Faaz
-https://free.rcast.net/230792
 # 72FM: https://72fm.com/station/9610a72f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Only Women
 http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3

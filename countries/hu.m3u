@@ -574,12 +574,12 @@ http://live.taskaradio.com:7070/;stream.nsv#.mp3
 # 72FM: https://72fm.com/station/058a8aa4-ce4b-421c-abb9-7e7edf0f5f9a?source=m3u
 #EXTINF:-1 group-title="Hungary" radio="true",Oxygen Black Music
 https://oxygenmusic.hu:8443/blackmusic_128
-# 72FM: https://72fm.com/station/6c65bafc-752e-462f-a6e2-d2fdba5e0ce0?source=m3u
-#EXTINF:-1 tvg-logo="https://v2.vrapro.hu/beta/api/radio/83c97f1b02c9d67c01c89fb8bcd0e62e/img/avatar/1732382531.png" group-title="Hungary" radio="true",DFM Rádió
-https://s03.diazol.hu:7042/stream
 # 72FM: https://72fm.com/station/59d532c2-fddf-4f17-8a3d-50bf632ae553?source=m3u
 #EXTINF:-1 group-title="Hungary" radio="true",Nemzeti Sportrádió
 https://icast.connectmedia.hu/4657/mr11.mp3
+# 72FM: https://72fm.com/station/6c65bafc-752e-462f-a6e2-d2fdba5e0ce0?source=m3u
+#EXTINF:-1 tvg-logo="https://v2.vrapro.hu/beta/api/radio/83c97f1b02c9d67c01c89fb8bcd0e62e/img/avatar/1732382531.png" group-title="Hungary" radio="true",DFM Rádió
+https://s03.diazol.hu:7042/stream
 # 72FM: https://72fm.com/station/fc56733d-47f7-4dca-b2e5-47eddce0e200?source=m3u
 #EXTINF:-1 tvg-logo="https://www.balatonica.hu/img/logo_color.png" group-title="Hungary" radio="true",Balatonica
 http://balatonica.hu:8000/stream_low
@@ -859,15 +859,15 @@ https://a3.asurahosting.com/listen/all-star_radio_80s_disco/radio.mp3
 # 72FM: https://72fm.com/station/96f4105b-3286-4ab3-93bc-43f3ce63627e?source=m3u
 #EXTINF:-1 group-title="Hungary" radio="true",Röhej rádió
 https://listen.radioking.com/radio/641950/stream/704998
-# 72FM: https://72fm.com/station/bd834d92-ca29-4254-9213-da51a308c4c0?source=m3u
-#EXTINF:-1 group-title="Hungary" radio="true",Szabadkai Magyar Radio
-http://stream2.nmih.hu:4110/live.mp3
 # 72FM: https://72fm.com/station/93d9e19c-c8ce-487e-a57b-a3b62fc922f9?source=m3u
 #EXTINF:-1 group-title="Hungary" radio="true",Lahmacun radio
 https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3
 # 72FM: https://72fm.com/station/63c29edb-72df-4981-9b5a-b22cdc5edd1b?source=m3u
 #EXTINF:-1 tvg-logo="https://only1.hu/assets/img/fav/favicon-196x196.png" group-title="Hungary" radio="true",ONLY1 - Electro
 https://stream.only1.hu/electro
+# 72FM: https://72fm.com/station/bd834d92-ca29-4254-9213-da51a308c4c0?source=m3u
+#EXTINF:-1 group-title="Hungary" radio="true",Szabadkai Magyar Radio
+http://stream2.nmih.hu:4110/live.mp3
 # 72FM: https://72fm.com/station/4eff4dda-3869-4362-9c92-104179ace2ef?source=m3u
 #EXTINF:-1 tvg-logo="https://szentkoronaradio.com/wp-content/uploads/2024/06/cropped-szkrlogo-270x270.png" group-title="Hungary" radio="true",Szent Korona Rádió
 https://szkrcast.ddns.net/radio/8000/radio.mp3
@@ -880,6 +880,9 @@ https://radiopod.top/radio.mp3
 # 72FM: https://72fm.com/station/4d3c1e3e-7c7e-41d1-935a-3cfbee690d5a?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/88031.v14.png" group-title="Hungary" radio="true",TelStar
 http://79.139.60.24:8000/telstar
+# 72FM: https://72fm.com/station/8a0a8063-9101-4329-bb1d-f9d1d346a465?source=m3u
+#EXTINF:-1 group-title="Hungary" radio="true",Sola Rádió
+http://188.165.11.30:7000/
 # 72FM: https://72fm.com/station/75485bb3-9649-45a3-ba9f-78c36996d4fa?source=m3u
 #EXTINF:-1 group-title="Hungary" radio="true",SuperDJ Rádió - Magyar
 https://s03.diazol.hu:35152/stream3
@@ -889,9 +892,6 @@ https://s41.radiolize.com/radio/8140/radio.mp3
 # 72FM: https://72fm.com/station/c79721da-8b68-4e09-b89d-f676681d87bb?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioice.hu/wp-content/uploads/2024/09/cropped-cropped-logo_circle-3-1-300x300.png" group-title="Hungary" radio="true",Rádió ICE
 https://streaming4u.synology.me:8444/ice
-# 72FM: https://72fm.com/station/8a0a8063-9101-4329-bb1d-f9d1d346a465?source=m3u
-#EXTINF:-1 group-title="Hungary" radio="true",Sola Rádió
-http://188.165.11.30:7000/
 # 72FM: https://72fm.com/station/222192f6-a202-43e3-9933-d108b9413f9b?source=m3u
 #EXTINF:-1 tvg-logo="https://kephost.net/p/MjM0MjAxNw.jpg" group-title="Hungary" radio="true",StreamX Radio
 https://radio.streamxradio.live/listen/streamx_radio/radio.mp3

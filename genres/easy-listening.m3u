@@ -661,12 +661,12 @@ http://abm21.com.au:8000/CONTAINER121
 # 72FM: https://72fm.com/station/4a1111a1-1f2a-4ede-8ef1-0c78caa0d142?source=m3u
 #EXTINF:-1 tvg-logo="https://usercontent.one/wp/www.247onlineradio.com/wp-content/uploads/2020/02/247-Online-Radio-Station-Logo.jpg" group-title="Easy Listening" radio="true",24/7 Online Radio
 https://ec3.yesstreaming.net:3585/stream
-# 72FM: https://72fm.com/station/75ce97d9-0381-4343-a85c-8577368493b5?source=m3u
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6506a91eb05bc240e3aae2d0" group-title="Easy Listening" radio="true",2CHR - Cessnock - 96.5 FM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/2CHR.mp3
 # 72FM: https://72fm.com/station/f1573cf2-4e00-43dc-8784-652745719189?source=m3u
 #EXTINF:-1 group-title="Easy Listening" radio="true",Radio Caprice - PIANO
 http://79.120.77.11:8000/piano
+# 72FM: https://72fm.com/station/75ce97d9-0381-4343-a85c-8577368493b5?source=m3u
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6506a91eb05bc240e3aae2d0" group-title="Easy Listening" radio="true",2CHR - Cessnock - 96.5 FM (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/2CHR.mp3
 # 72FM: https://72fm.com/station/b38089b2-8e60-483e-be41-2e1e35b5e370?source=m3u
 #EXTINF:-1 group-title="Easy Listening" radio="true",2WCR - Warrumbungle Community Radio - Coonabarabran - 99.5 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/2WCR.mp3
@@ -727,18 +727,21 @@ https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
 # 72FM: https://72fm.com/station/d999294b-368a-40a8-b564-3c0035711eb1?source=m3u
 #EXTINF:-1 tvg-logo="https://yachtrock.radio/wp-content/uploads/2023/01/Designer-15.avif" group-title="Easy Listening" radio="true",Yacht Rock Radio
 https://digitalaudiobroadcasting.net:1045/stream
-# 72FM: https://72fm.com/station/03da9f37-8637-4c04-91ac-1180569d2a43?source=m3u
-#EXTINF:-1 tvg-logo="https://www.pembinavalleyonline.com/assets/pembinavalley/apple-icon-120x120-77936dc241735282db8ef97db14139877612a7baedf342b6b6d89672549f9043.png" group-title="Easy Listening" radio="true",CFAM 950 Altona, MB
-https://goldenwest.leanstream.co/goldenwest/CFAMAM.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/51a279e4-7553-410f-85ea-375735211560?source=m3u
 #EXTINF:-1 group-title="Easy Listening" radio="true",MyZen Radio
 https://stream.rcs.revma.com/gnn6u7czd8uvv
 # 72FM: https://72fm.com/station/80952345-4448-4988-8372-9f4623864bf4?source=m3u
 #EXTINF:-1 tvg-logo="https://943litefm.com/favicon.png" group-title="Easy Listening" radio="true",94.3 Lite FM
 https://live.amperwave.net/direct/townsquare-wkxpfmmp3-ibc3.mp3
+# 72FM: https://72fm.com/station/03da9f37-8637-4c04-91ac-1180569d2a43?source=m3u
+#EXTINF:-1 tvg-logo="https://www.pembinavalleyonline.com/assets/pembinavalley/apple-icon-120x120-77936dc241735282db8ef97db14139877612a7baedf342b6b6d89672549f9043.png" group-title="Easy Listening" radio="true",CFAM 950 Altona, MB
+https://goldenwest.leanstream.co/goldenwest/CFAMAM.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/0ede2ef5-6053-487d-8213-8d444a7bd550?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pX3NxKf/2020-3-9-3-HHH-1500px.webp" group-title="Easy Listening" radio="true",Triple H - Horsham - 96.5 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/3HHH.mp3
+# 72FM: https://72fm.com/station/da2ecfd9-4e07-45c3-be0a-999e01487e54?source=m3u
+#EXTINF:-1 group-title="Easy Listening" radio="true",Smooth Tyne & Wear
+https://media-ice.musicradio.com/SmoothNorthEastNMP3
 # 72FM: https://72fm.com/station/c5fa9d16-838c-4562-a251-dc7b8bdfd242?source=m3u
 #EXTINF:-1 tvg-logo="https://d2bs.nl/images/D2BS.png" group-title="Easy Listening" radio="true",D2BS
 http://solid1.streamupsolutions.com:8041/d2bs
@@ -751,9 +754,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE
 # 72FM: https://72fm.com/station/1c9de645-4164-4457-9661-fde07e70070e?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4sf2VtL/300351188-127081350061367-3496605637001018922-n.jpg" group-title="Easy Listening" radio="true",Smooth FM Brisbane (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE.mp3
-# 72FM: https://72fm.com/station/da2ecfd9-4e07-45c3-be0a-999e01487e54?source=m3u
-#EXTINF:-1 group-title="Easy Listening" radio="true",Smooth Tyne & Wear
-https://media-ice.musicradio.com/SmoothNorthEastNMP3
 # 72FM: https://72fm.com/station/3cee6f51-ec71-49e3-b29a-365d5fbd438b?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sQZJkL/622afb382c11ab8ba9319c8e.webp" group-title="Easy Listening" radio="true",Gem FM - Bowen - 95.1 FM (AAC+)
 http://playerservices.streamtheworld.com/api/livestream-redirect/4GEMAAC.aac
@@ -823,18 +823,21 @@ http://radio.canstream.co.uk:8117/live.mp3
 # 72FM: https://72fm.com/station/29fb0aed-5f0c-4ea0-8bc0-14f456594a75?source=m3u
 #EXTINF:-1 tvg-logo="https://www.magicfm.ro/apple-touch-icon.png" group-title="Easy Listening" radio="true",Magic De Pahar
 https://dc.digi.live.kissfm.ro/magicdepahar
-# 72FM: https://72fm.com/station/80e956ef-7f53-4f7d-a61f-cd5496a4327e?source=m3u
-#EXTINF:-1 tvg-logo="https://mediafm.az/wp-content/uploads/2026/03/Media_Reax_309x309.png" group-title="Easy Listening" radio="true",Media FM Relax
-http://icecast.livetv.az/mediarelax
 # 72FM: https://72fm.com/station/e81f0f35-1aa0-41d4-b9c0-84736f9f307a?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.usm.cl/wp-content/uploads/2021/11/logo.png" group-title="Easy Listening" radio="true",Radio USM
 https://stream99.usastreams.com:8012/stream
 # 72FM: https://72fm.com/station/1b1aaa1e-e48b-4675-b054-405106b3243f?source=m3u
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfSFdPUgOQPWnLLhC5SsPtLDcEDCiNZLespPXErAvblmsjhI7h3O1qxlWgsC2d2suoUPpq4ABJLkkhG44ciGNBrj3wN4I0JNL17MA8NopnHZW2AcngKhRX9jjknDxDcapKyLIjPoQPnzpsxbVZutKMOtPudzlCTKMNJEA8VubGAkqu_bQzElA7iYCc/s500/Placeholder%20teks.png" group-title="Easy Listening" radio="true",Fress FM
 http://162.244.80.106:11185/stream
+# 72FM: https://72fm.com/station/80e956ef-7f53-4f7d-a61f-cd5496a4327e?source=m3u
+#EXTINF:-1 tvg-logo="https://mediafm.az/wp-content/uploads/2026/03/Media_Reax_309x309.png" group-title="Easy Listening" radio="true",Media FM Relax
+http://icecast.livetv.az/mediarelax
 # 72FM: https://72fm.com/station/97465df2-d2ed-4ea9-b40f-861545e70867?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhSr5Vs/4-SDB-2546771-config-station-logo-image-1659310492.png" group-title="Easy Listening" radio="true",Rose City FM - Warwick - 89.3 FM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/4SDB.mp3
+# 72FM: https://72fm.com/station/848ee788-c7ef-446a-9e29-66c92e6df228?source=m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8n7BdYBN/Breeze-Gloucester-97-7-300x78-1.png" group-title="Easy Listening" radio="true",The Breeze - Gloucester - 97.7 FM (AAC)
+https://s8.yesstreaming.net:17065/BrzMNC
 # 72FM: https://72fm.com/station/37a5b415-f4fb-4ed4-b427-131c71f331ad?source=m3u
 #EXTINF:-1 tvg-logo="https://16bitfm.com/images/logo.png" group-title="Easy Listening" radio="true",16Bit.FM EXB.1
 http://16bitfm.com:8000/exb1_mp3
@@ -850,9 +853,6 @@ https://cento02.mipanelradio.com/proxy/loungeki?mp=/stream
 # 72FM: https://72fm.com/station/26db92f7-6eb5-44f1-a5a6-8e90244e54a4?source=m3u
 #EXTINF:-1 tvg-logo="https://stream.radiowavenz.com/logo.jpeg" group-title="Easy Listening" radio="true",Radiowave NZ
 https://stream.radiowavenz.com/stream
-# 72FM: https://72fm.com/station/848ee788-c7ef-446a-9e29-66c92e6df228?source=m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8n7BdYBN/Breeze-Gloucester-97-7-300x78-1.png" group-title="Easy Listening" radio="true",The Breeze - Gloucester - 97.7 FM (AAC)
-https://s8.yesstreaming.net:17065/BrzMNC
 # 72FM: https://72fm.com/station/636b3b2a-1fcb-48ea-841e-fce1f9ddc827?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWHYdgcy/Breeze-Kooralbyn103-3-300x78-1.png" group-title="Easy Listening" radio="true",The Breeze - Kooralbyn - 103.3 FM (AAC)
 https://s8.yesstreaming.net:17065/BrzLgn
@@ -886,12 +886,12 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/2WET.mp3
 # 72FM: https://72fm.com/station/d73327bb-116a-4b6b-a11f-9bfcde8a9954?source=m3u
 #EXTINF:-1 tvg-logo="https://www.lighthouse.radio/wp-content/themes/lighthouse-christian-radio/assets/images/lighthouse-logo-20261006.webp" group-title="Easy Listening" radio="true",Lighthouse Christian Radio - Instrumentals
 https://lighthouseradio.network/proxy/instrumental/stream
-# 72FM: https://72fm.com/station/6fb224b3-5b66-4cf6-99da-809f45412532?source=m3u
-#EXTINF:-1 tvg-logo="https://media.live365.com/download/7acad13a-ce18-49a4-9b4e-85a0618f0733.png" group-title="Easy Listening" radio="true",WQJZ 103.9 Murfreesboro, Tennessee
-https://streaming.live365.com/a20262
 # 72FM: https://72fm.com/station/100def71-6d8e-4c0f-8028-78664a7c6865?source=m3u
 #EXTINF:-1 tvg-logo="https://infusion.dulcet.cloud/icons/stations/infusion-2200.png" group-title="Easy Listening" radio="true",Infusion Radio
 https://stream.dulcet.cloud/infusion
+# 72FM: https://72fm.com/station/6fb224b3-5b66-4cf6-99da-809f45412532?source=m3u
+#EXTINF:-1 tvg-logo="https://media.live365.com/download/7acad13a-ce18-49a4-9b4e-85a0618f0733.png" group-title="Easy Listening" radio="true",WQJZ 103.9 Murfreesboro, Tennessee
+https://streaming.live365.com/a20262
 # 72FM: https://72fm.com/station/bfdc1399-3ec4-46fc-8958-0d9d381685a1?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jotform.com/uploads/wjabradio/form_files/8502.68ffdbc6139cc2.08529816.jpg" group-title="Easy Listening" radio="true",Alabama's Beautiful
 https://stream-02.surfernetwork.com/jxkatldtljduv

@@ -571,12 +571,12 @@ http://79.8.227.117:8000/8
 # 72FM: https://72fm.com/station/81b88161-c3f7-4958-8165-7d408d7689db?source=m3u
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.E65vroGDtTyTMl18lUuGuwHaHa%26pid%3DApi&f=1&ipt=8e1260db0157c0b572b4326122c7511e15bc8c6afb4e0423cd1b9bb620cf57f2&ipo=images" group-title="Chillout" radio="true",Fun Radio Chill
 https://stream.funradio.sk:8000/chill128.mp3
-# 72FM: https://72fm.com/station/5c9bdd27-dc89-41f3-9ce0-1b775e489394?source=m3u
-#EXTINF:-1 group-title="Chillout" radio="true",egofm Chillout
-https://cast.egofm.de/egofmchillout.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
 # 72FM: https://72fm.com/station/28c692bf-3113-401d-896e-e25480d0f93d?source=m3u
 #EXTINF:-1 group-title="Chillout" radio="true",Epic Lounge - POOLSIDE LOUNGE
 https://stream.epic-lounge.com/poolside-lounge?ref=streema
+# 72FM: https://72fm.com/station/5c9bdd27-dc89-41f3-9ce0-1b775e489394?source=m3u
+#EXTINF:-1 group-title="Chillout" radio="true",egofm Chillout
+https://cast.egofm.de/egofmchillout.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
 # 72FM: https://72fm.com/station/964e6afd-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Chillout" radio="true",Radio Pasja - Chillout
 http://91.232.4.33:8108/
@@ -832,12 +832,12 @@ https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=
 # 72FM: https://72fm.com/station/c46d0c88-c69d-4b6e-82a3-6c9e67b517a1?source=m3u
 #EXTINF:-1 tvg-logo="https://fluxmusic.cdn.radiosphere.io/images/1de23b18-eaf1-40d2-888d-de2b894ad2c6?type=medium" group-title="Chillout" radio="true",FluxFM Yoga Sounds | 64k AAC
 https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.aac?quality=1
-# 72FM: https://72fm.com/station/7f4c78dd-1eaf-47c3-a5de-bbb7ae389d67?source=m3u
-#EXTINF:-1 tvg-logo="https://www.chillout.de/media/cache/3/version/176938/chillout-antenne-logo-digital-quadrat-ohne-outline-2026-1000px-v1.png/8207b63a449f95a3.webp" group-title="Chillout" radio="true",CHILLOUT ANTENNE Bayern
-https://stream.chillout.de/chillout-antenne-bayern/stream/aacp
 # 72FM: https://72fm.com/station/cec943ac-b310-4fad-a958-4392843bd343?source=m3u
 #EXTINF:-1 tvg-logo="https://www.chillout.de/logos/station-chillout-antenne/apple-touch-icon.png" group-title="Chillout" radio="true",CHILLOUT ANTENNE
 https://stream.chillout.de/chillout/stream/aacp
+# 72FM: https://72fm.com/station/7f4c78dd-1eaf-47c3-a5de-bbb7ae389d67?source=m3u
+#EXTINF:-1 tvg-logo="https://www.chillout.de/media/cache/3/version/176938/chillout-antenne-logo-digital-quadrat-ohne-outline-2026-1000px-v1.png/8207b63a449f95a3.webp" group-title="Chillout" radio="true",CHILLOUT ANTENNE Bayern
+https://stream.chillout.de/chillout-antenne-bayern/stream/aacp
 # 72FM: https://72fm.com/station/85329749-f9f0-437f-a4d4-8d1e772f8485?source=m3u
 #EXTINF:-1 tvg-logo="https://newageradio.gr/Greek_New_Age_1200x1200.png" group-title="Chillout" radio="true",1st Greek New Age FLAC Radio (FLAC stream)
 https://stream.newageradio.gr/listen/hq/radio.flac

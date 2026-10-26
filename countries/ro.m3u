@@ -283,12 +283,12 @@ https://radio.sonicpanel.ro:9300/
 # 72FM: https://72fm.com/station/dca40689-5260-430c-8aec-8172f7dcd661?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioexpert.net/radio-logo/romania/radio-doza-manele-245-bucure%C8%99ti-romania-320.jpg" group-title="Romania" radio="true",Radio Doza Manele
 http://manele.radiodoza.eu:8100/stream
-# 72FM: https://72fm.com/station/984b6f74-113a-11ea-a87e-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Romania" radio="true",Radio Romania Targu Mures
-http://streaming.radiomures.ro:8302/listen.pls;/stream
 # 72FM: https://72fm.com/station/53903241-34a0-46a2-a877-edb06080f384?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Paprika Rádió
 http://stream1.paprikaradio.ro:8000/;stream
+# 72FM: https://72fm.com/station/984b6f74-113a-11ea-a87e-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Romania" radio="true",Radio Romania Targu Mures
+http://streaming.radiomures.ro:8302/listen.pls;/stream
 # 72FM: https://72fm.com/station/2108005f-4085-48c4-a41e-6a6b3d4adfbe?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiovacanta.ro/wp-content/themes/radiovacanta/images/favicons/favicon-96x96.png" group-title="Romania" radio="true",Radio Vacanța - Gold
 https://stream4.srr.ro:8443/gold_rv
@@ -433,12 +433,12 @@ http://stream.voxfm.ro:8000/stream/1
 # 72FM: https://72fm.com/station/701c9821-4869-47b9-9eef-9d25553b0940?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Etno Vest Timisoara
 http://ssl.radios.show:8020/;
-# 72FM: https://72fm.com/station/e22dc75a-f902-11e9-bbf2-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioresita.ro/wp-content/themes/radioresita/images/favicons/favicon-96x96.png" group-title="Romania" radio="true",Radio Resita
-http://89.238.227.6:8344/
 # 72FM: https://72fm.com/station/39ad3c71-df68-4b64-a7de-23370c5bbcec?source=m3u
 #EXTINF:-1 tvg-logo="https://app.radio.com.ro/v5/images/17365_radio.webp" group-title="Romania" radio="true",Stil Mix -Radio Manele
 https://stream.zeno.fm/87sktrysmuqtv
+# 72FM: https://72fm.com/station/e22dc75a-f902-11e9-bbf2-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radioresita.ro/wp-content/themes/radioresita/images/favicons/favicon-96x96.png" group-title="Romania" radio="true",Radio Resita
+http://89.238.227.6:8344/
 # 72FM: https://72fm.com/station/830086b4-8d1a-44b9-8610-792225db7f36?source=m3u
 #EXTINF:-1 tvg-logo="https://pluszfm.ro/images/plusz/touch-icon.png" group-title="Romania" radio="true",Plusz FM - Nagyvarad
 https://stream2.radiotransilvania.ro/Nagyvarad
@@ -901,6 +901,6 @@ http://streaming.radiomures.ro:8322/
 # 72FM: https://72fm.com/station/bec48ae2-b043-4252-af7b-583a1b7f3331?source=m3u
 #EXTINF:-1 group-title="Romania" radio="true",Radio Stres
 http://live.radiostres.com:8402/;
-# 72FM: https://72fm.com/station/024f84fa-c110-40ac-b769-70be5669f779?source=m3u
-#EXTINF:-1 tvg-logo="https://api.magicfm.ro/resized/streams/2024/04/19/magic-relax-1aaaa8_e9f8a9053c9abdfcdc52c9e8e4de9c64.jpg?w=120&h=120&c=1" group-title="Romania" radio="true",Magic FM Relax
-https://live.kissfm.ro/magic.lite
+# 72FM: https://72fm.com/station/f7b86492-e83d-48df-858b-f0eace7fd637?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/romania/balcan-radio-manele.webp?v=1776790801" group-title="Romania" radio="true",Balcan Radio Manele -Brăila
+https://radio.sonicpanel.ro/8112/stream

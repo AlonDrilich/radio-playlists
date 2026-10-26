@@ -445,12 +445,12 @@ https://stream.radio2000.it/
 # 72FM: https://72fm.com/station/a3bda8fd-55c8-47fd-9488-b3dfd2d36501?source=m3u
 #EXTINF:-1 group-title="Schlager" radio="true",RadioSilesia
 https://s1.slotex.pl/shoutcast/7350/stream
-# 72FM: https://72fm.com/station/91210f8c-3975-4f18-a282-ef3f3da2108b?source=m3u
-#EXTINF:-1 tvg-logo="https://www.friesenradio.de/wp-content/uploads/2021/04/apple-icon-120x120-1.png" group-title="Schlager" radio="true",FriesenRadio
-http://friesenradio.stream.laut.fm/friesenradio
 # 72FM: https://72fm.com/station/67b35a86-615f-4eda-9736-44bc0c3bb1da?source=m3u
 #EXTINF:-1 group-title="Schlager" radio="true",EASTSIDE FM
 https://laut.fm/eastside_fm
+# 72FM: https://72fm.com/station/91210f8c-3975-4f18-a282-ef3f3da2108b?source=m3u
+#EXTINF:-1 tvg-logo="https://www.friesenradio.de/wp-content/uploads/2021/04/apple-icon-120x120-1.png" group-title="Schlager" radio="true",FriesenRadio
+http://friesenradio.stream.laut.fm/friesenradio
 # 72FM: https://72fm.com/station/c661e257-804a-4eda-8388-b30f9cbf34e9?source=m3u
 #EXTINF:-1 group-title="Schlager" radio="true",Radio Schlagergarage
 http://stream.laut.fm/schlagergarage
@@ -607,9 +607,6 @@ https://wdr-radio.ard-mcdn.de/wdr/radio/wdr4ruhrgb/hls/master.m3u8
 # 72FM: https://72fm.com/station/a8404d57-3803-4ab0-8053-cec963abb7ae?source=m3u
 #EXTINF:-1 tvg-logo="https://alpenmelodie.de/img/am-180x180.png" group-title="Schlager" radio="true",Radio Alpenmelodie
 https://radio.alpenmelodie.de/
-# 72FM: https://72fm.com/station/ba3499b8-c01c-479d-907e-35667cd18a89?source=m3u
-#EXTINF:-1 tvg-logo="https://radiosr24.de/wp-content/uploads/2024/05/cropped-ms-icon-310x310-1-1.png" group-title="Schlager" radio="true",radiosr24 - Twoje Radio Internetowe
-http://51.255.8.139:13790/stream
 # 72FM: https://72fm.com/station/e185025b-f21d-4cbd-84b7-95dfd030bd5d?source=m3u
 #EXTINF:-1 group-title="Schlager" radio="true",De Muziek Gigant
 https://streaming1.djpaneel.com:5378/stream
@@ -619,18 +616,21 @@ https://mixtape.cast.addradio.de/mixtape/schlager/high/stream.mp3
 # 72FM: https://72fm.com/station/ab0ab15c-0ce3-4efa-a733-937d68bc7e40?source=m3u
 #EXTINF:-1 group-title="Schlager" radio="true",Radio Surfstaion
 https://stream.radio-surfstation.com:11152/stream
+# 72FM: https://72fm.com/station/9ae5104f-6fe2-4ea3-9514-1db4a33b1da9?source=m3u
+#EXTINF:-1 tvg-logo="https://radiosr24.de/wp-content/uploads/2024/05/cropped-ms-icon-310x310-1-1.png" group-title="Schlager" radio="true",radiosr24
+http://51.255.8.139:13790/stream
 # 72FM: https://72fm.com/station/36210604-96f2-4f04-bd8e-666a68e0961c?source=m3u
 #EXTINF:-1 group-title="Schlager" radio="true",Antenne Sachsen Chemnitz
 https://web.radio.antennesachsen.de/antsa-chemnitz/stream/mp3?aggregator=direktlink
 # 72FM: https://72fm.com/station/0e189a61-c128-4e9e-926f-6d2222183102?source=m3u
 #EXTINF:-1 tvg-logo="https://www.tipfm.nl/wp-content/uploads/2020/05/TIPfm-logo-Funcky.png" group-title="Schlager" radio="true",TIPfm
 https://s5.radio.co/sf0581b682/listen
-# 72FM: https://72fm.com/station/d57332f1-550a-441b-99c1-4db187e90154?source=m3u
-#EXTINF:-1 tvg-logo="https://www.antennebrandenburg.de/content/dam/rbb/ant/layout/antennebrandenburg.svg.svg/img.svg" group-title="Schlager" radio="true",Antenne Brandenburg Frankfurt Oder (AAC)
-https://antbrb-frankfurt.akamaized.net/hls/live/2017000-b/rbb_antbrb-frankfurt/192/seglist.m3u8
 # 72FM: https://72fm.com/station/7adc4fcf-b7c1-44a7-a7ac-3bdf42aaecb9?source=m3u
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr4_logo_claim.svg" group-title="Schlager" radio="true",WDR4 Rheinland
 https://wdr-radio.ard-mcdn.de/wdr/radio/wdr4rhld/hls/master.m3u8
+# 72FM: https://72fm.com/station/d57332f1-550a-441b-99c1-4db187e90154?source=m3u
+#EXTINF:-1 tvg-logo="https://www.antennebrandenburg.de/content/dam/rbb/ant/layout/antennebrandenburg.svg.svg/img.svg" group-title="Schlager" radio="true",Antenne Brandenburg Frankfurt Oder (AAC)
+https://antbrb-frankfurt.akamaized.net/hls/live/2017000-b/rbb_antbrb-frankfurt/192/seglist.m3u8
 # 72FM: https://72fm.com/station/bf2e499d-f4b2-466b-add2-dee95aeac971?source=m3u
 #EXTINF:-1 group-title="Schlager" radio="true",Boutersem On Air
 https://135.125.183.109/listen/boutersemonair/radio.mp3

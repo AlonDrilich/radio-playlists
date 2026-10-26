@@ -244,12 +244,12 @@ https://sc.cyberstacja.pl:8000/radio.mp3
 # 72FM: https://72fm.com/station/6dc71790-65af-4557-a940-d8864eb439e6?source=m3u
 #EXTINF:-1 group-title="Trance" radio="true",PsyStream
 http://radio.psymusic.co.uk:8040/radio1_192k.mp3
-# 72FM: https://72fm.com/station/f0be7682-2aab-45b6-b66a-d4380897a6bc?source=m3u
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg" group-title="Trance" radio="true",FG 93.8 (Future Generation) mp3 128k
-https://edge1.radyotvonline.net/shoutcast/play/fg
 # 72FM: https://72fm.com/station/f9f1e392-ef72-458d-9c7f-799505228cd1?source=m3u
 #EXTINF:-1 group-title="Trance" radio="true",Exclusively Moby
 https://streaming.exclusive.radio/er/moby/icecast.audio
+# 72FM: https://72fm.com/station/f0be7682-2aab-45b6-b66a-d4380897a6bc?source=m3u
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg" group-title="Trance" radio="true",FG 93.8 (Future Generation) mp3 128k
+https://edge1.radyotvonline.net/shoutcast/play/fg
 # 72FM: https://72fm.com/station/447ad370-b609-46ed-9352-510659855a5c?source=m3u
 #EXTINF:-1 group-title="Trance" radio="true",AfterHours FM (ah.fm) 192k MP3
 http://fr.ah.fm:8000/;
@@ -367,12 +367,12 @@ https://radiorecord.hostingradio.ru/armin96.aacp
 # 72FM: https://72fm.com/station/e674f88d-c73f-45b8-a7d5-e08a821e1cf8?source=m3u
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.pnghttps://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="Trance" radio="true",Frisky Classics
 https://stream.classics.friskyradio.com/classics_mp3_high
-# 72FM: https://72fm.com/station/bf10cd09-d594-413e-85e0-b27e3cdb01d0?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radio.pl/300/pulsradiotrance.png?version=5f8e49ae10ab7623baa67f8f41b5507c535057d6" group-title="Trance" radio="true",Puls Radio - Trance
-https://icecastlb.pulsradio.com/pulstranceHD.mp3
 # 72FM: https://72fm.com/station/b64686da-19c2-419b-8371-6d4aeb3b5e9e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.mix4.me/favicon.ico" group-title="Trance" radio="true",Mix4.me uplifitng trance web radio
 http://142.132.213.6:8497/stream
+# 72FM: https://72fm.com/station/bf10cd09-d594-413e-85e0-b27e3cdb01d0?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radio.pl/300/pulsradiotrance.png?version=5f8e49ae10ab7623baa67f8f41b5507c535057d6" group-title="Trance" radio="true",Puls Radio - Trance
+https://icecastlb.pulsradio.com/pulstranceHD.mp3
 # 72FM: https://72fm.com/station/9758c3f4-32f9-435e-b10e-ece990adf705?source=m3u
 #EXTINF:-1 group-title="Trance" radio="true",BEST Radio (64Kbps)
 http://stream.radiobest.eu:8000/64
@@ -553,12 +553,12 @@ http://65.108.105.26:7709/stream
 # 72FM: https://72fm.com/station/33c742b0-2567-4723-a4e4-26d5ab3549db?source=m3u
 #EXTINF:-1 group-title="Trance" radio="true",Fresh 92.7 (192kbps)
 https://live.fresh927.com.au/freshmp3
-# 72FM: https://72fm.com/station/00f47d7b-876c-463d-b457-b5bca2e1edba?source=m3u
-#EXTINF:-1 tvg-logo="https://radioplay.ro/wp-content/uploads/2019/04/rpmare-180x180.png" group-title="Trance" radio="true",RadioPlay Trance Romania -Cluj Napoca
-https://mscp1.gazduireradio.ro:1220/stream
 # 72FM: https://72fm.com/station/58f9364b-f797-4294-b0a8-336a5551f542?source=m3u
 #EXTINF:-1 tvg-logo="https://exporadio.net/wp-content/uploads/2023/10/logo-v3-1080x512-1-311x147.png" group-title="Trance" radio="true",Expo Radio FM 94.3
 https://radios.tecnosoul.com.ar:8001/exporadio
+# 72FM: https://72fm.com/station/00f47d7b-876c-463d-b457-b5bca2e1edba?source=m3u
+#EXTINF:-1 tvg-logo="https://radioplay.ro/wp-content/uploads/2019/04/rpmare-180x180.png" group-title="Trance" radio="true",RadioPlay Trance Romania -Cluj Napoca
+https://mscp1.gazduireradio.ro:1220/stream
 # 72FM: https://72fm.com/station/331d0b05-69dc-4a8c-a6b8-a2d5353ef2d4?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0tGXnLV/IMG-20260228-153259.png" group-title="Trance" radio="true",Khaos FM
 https://streaming0103.sonicpanelradio.com:8050/stream
@@ -622,6 +622,9 @@ https://j-nation.stream.laut.fm/j-nation
 # 72FM: https://72fm.com/station/352c141e-4547-4141-8ff7-9b6ed3668150?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.sonicpanel.ro/cp/musiclibrary/nowplay_delfinulcuplete1165.png" group-title="Trance" radio="true",RADIO OK -Cluj Napoca
 https://radio.sonicpanel.ro/8058/stream
+# 72FM: https://72fm.com/station/fadd9ee1-bedc-45cb-92ba-f49d9bf8ba63?source=m3u
+#EXTINF:-1 tvg-logo="https://radioenergyfm.com/sitepad-data/uploads/2026/07/cropped-icon-192x192.png" group-title="Trance" radio="true",Trance Energy
+https://fra-pioneer01.dedicateware.com:3400/stream
 # 72FM: https://72fm.com/station/18cdb820-727c-4e73-93cf-3b52e108f3d0?source=m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/469051279486906368/QLjkWvWr.jpeg" group-title="Trance" radio="true",FluxFM Sachsen
 https://streams.fluxfm.de/fallback-simulcast/mp3-320
@@ -631,9 +634,6 @@ https://stream.laut.fm/sothitsradio
 # 72FM: https://72fm.com/station/67059f58-9ce8-43bd-a0e2-9f304017508d?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.serrebiradio.com/static/uploads/logo.png" group-title="Trance" radio="true",SerrebiRadio
 https://radio.serrebiradio.com/listen/serrebiradio/low
-# 72FM: https://72fm.com/station/fadd9ee1-bedc-45cb-92ba-f49d9bf8ba63?source=m3u
-#EXTINF:-1 tvg-logo="https://radioenergyfm.com/sitepad-data/uploads/2026/07/cropped-icon-192x192.png" group-title="Trance" radio="true",Trance Energy
-https://fra-pioneer01.dedicateware.com:3400/stream
 # 72FM: https://72fm.com/station/ae3bf2c4-16bd-45cf-b2cb-804ca470b5a1?source=m3u
 #EXTINF:-1 group-title="Trance" radio="true",Radio Divjaka HD
 https://stream.zeno.fm/brc5btguqg8uv

@@ -265,12 +265,12 @@ http://icecast.err.ee/raadiotallinn.mp3
 # 72FM: https://72fm.com/station/27a69f19-4001-4bf4-b602-92511bc1e682?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hpsbassline.club/favicon.ico" group-title="Estonia" radio="true",HPS Bassline
 https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3
-# 72FM: https://72fm.com/station/14c78c59-d759-4a50-ae53-7c1c5271382d?source=m3u
-#EXTINF:-1 tvg-logo="https://sky.ee/storage/radio-stations/2025/12/Super-Radio-logo.svg" group-title="Estonia" radio="true",Super радио
-https://edge04.cdn.bitflip.ee:8888/RR_AAC?_i=b2d6fa6f
 # 72FM: https://72fm.com/station/f62e23d6-8104-44e4-a994-5007428289d6?source=m3u
 #EXTINF:-1 tvg-logo="https://jumorfm.ee/wp-content/uploads/superpwa-splashIcons/super_splash_screens/icon_640x1136.png" group-title="Estonia" radio="true",Jumor FM Estonia
 https://a10.asurahosting.com:7640/radio.mp3
+# 72FM: https://72fm.com/station/14c78c59-d759-4a50-ae53-7c1c5271382d?source=m3u
+#EXTINF:-1 tvg-logo="https://sky.ee/storage/radio-stations/2025/12/Super-Radio-logo.svg" group-title="Estonia" radio="true",Super радио
+https://edge04.cdn.bitflip.ee:8888/RR_AAC?_i=b2d6fa6f
 # 72FM: https://72fm.com/station/394136ea-c672-49d8-b98a-fdd3c5b9c4a0?source=m3u
 #EXTINF:-1 tvg-logo="https://pcr.fm/favicon.png" group-title="Estonia" radio="true",PCR.fm (Parnu Club Radio)
 https://pcrfm.radiocult.fm/stream
@@ -313,9 +313,6 @@ https://le301.euddn.net/c7510c5fabc16682bb64e3734b840f2860ec6675735ecdddee270047
 # 72FM: https://72fm.com/station/d12b1da7-33ca-42a3-bfd3-6d5fc7da5c21?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",NRJ DnB
 https://stream.skymedia.ee/live/NRJdnb
-# 72FM: https://72fm.com/station/50db1f55-91da-45e8-9e5c-06a7e18ba890?source=m3u
-#EXTINF:-1 group-title="Estonia" radio="true",R2Extra - Rap
-http://icecast.err.ee/r2pkorge.mp3
 # 72FM: https://72fm.com/station/36fdf13a-63f4-48cf-8bf2-721067f607fa?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Retro FM Eestikas
 https://stream.skymedia.ee/live/retro2.mp3
@@ -325,9 +322,9 @@ https://radio.vlevelscdn.net/radio/kaguraadio.stream/chunklist_w936127105.m3u8
 # 72FM: https://72fm.com/station/8cca3d09-a483-4709-af7e-482eb0f62b37?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",MyHits Dance
 https://le305.euddn.net/aa0f7d5d0d91aedebb64537a46b6f235e1374e98dee2446ce2ee75c7e9e4a85b863861d1b85a0c675a01ce4a8e56aae7fc27f38880073635a0a2d6074cae887ac761b3e16b6a977403828578918690942361afed45372f2861895cd16a638269e6df6a0d3719acbaf55c61c16830dfe6c96d49a2f97b42435a73435cf007546f8af475becf62934c70322ccc09d42f9807579bbd8f280b5d54e91aaa135e83fe670c240e8987328c76a8192c7bc79c4a/md_mhdance.aac
-# 72FM: https://72fm.com/station/92804b55-2a5e-47bb-8b4e-b6d12bc620a5?source=m3u
-#EXTINF:-1 group-title="Estonia" radio="true",Raadio REMIX
-https://stream.hostbee.nl:5740/stream
+# 72FM: https://72fm.com/station/50db1f55-91da-45e8-9e5c-06a7e18ba890?source=m3u
+#EXTINF:-1 group-title="Estonia" radio="true",R2Extra - Rap
+http://icecast.err.ee/r2pkorge.mp3
 # 72FM: https://72fm.com/station/fc9112ee-bf38-4c12-b18a-96fb5a268edf?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Rahvaraadio
 http://streamer.tt.ee:8000/rahvaraadio
@@ -364,6 +361,9 @@ https://sb.err.ee/live/r2rock.m3u8
 # 72FM: https://72fm.com/station/c5aca242-c975-4c74-9cfa-0f027066e8c9?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",R2Extra Pop
 https://live.err.ee/live/r2pop.m3u8?short=true
+# 72FM: https://72fm.com/station/92804b55-2a5e-47bb-8b4e-b6d12bc620a5?source=m3u
+#EXTINF:-1 group-title="Estonia" radio="true",Raadio REMIX
+https://stream.hostbee.nl:5740/stream
 # 72FM: https://72fm.com/station/8c877ce7-0f67-4806-960d-8805664b16bd?source=m3u
 #EXTINF:-1 group-title="Estonia" radio="true",Radio Maximum
 https://stream.radiomaximum.ee/stream

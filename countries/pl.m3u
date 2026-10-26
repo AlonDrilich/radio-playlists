@@ -733,15 +733,15 @@ http://195.150.20.5/npp_rmf_on
 # 72FM: https://72fm.com/station/23f3f5c1-15f1-4480-83fa-916b1cf8a31b?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Śląskie Radio
 https://stream10.hosterion.pl:7032/;?v=63125/;type=mp3
+# 72FM: https://72fm.com/station/fb50e3c6-14a6-43fd-bd68-afb1d26f54ef?source=m3u
+#EXTINF:-1 group-title="Poland" radio="true",RMF Gold
+http://195.150.20.3/rmf_gold
 # 72FM: https://72fm.com/station/cceb76f6-b605-4358-b0d9-2f9dc9365fef?source=m3u
 #EXTINF:-1 tvg-logo="https://twojeradio.fm/twojeradio2018/pliki/2020/02/twojeradio-logo.png" group-title="Poland" radio="true",Twoje Radio Szczecin
 http://51.77.59.65:8000/stream.ogg
 # 72FM: https://72fm.com/station/d47882bc-f58e-4fab-ac51-264169d1cebc?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Hitradio
 http://51.255.8.139:9090/stream
-# 72FM: https://72fm.com/station/fb50e3c6-14a6-43fd-bd68-afb1d26f54ef?source=m3u
-#EXTINF:-1 group-title="Poland" radio="true",RMF Gold
-http://195.150.20.3/rmf_gold
 # 72FM: https://72fm.com/station/96242ecf-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Poland" radio="true",Radio Jedynka
 http://mp3.polskieradio.pl:8950/
@@ -856,12 +856,12 @@ http://stream2.technologicznie.net/konin.fm
 # 72FM: https://72fm.com/station/40114c00-90ca-4c7d-a5b2-2f91616cacae?source=m3u
 #EXTINF:-1 tvg-logo="https://gfx.chillizet.pl/extension/chillizet/design/standard/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",Chilli ZET
 https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx
-# 72FM: https://72fm.com/station/f11d134a-f198-415a-86a4-cb518c57127d?source=m3u
-#EXTINF:-1 group-title="Poland" radio="true",ZET Po Polsku
-https://zt.cdn.eurozet.pl/ZETPL1.mp3
 # 72FM: https://72fm.com/station/405285f7-d4b3-4cfb-a2f7-120a6876d7ae?source=m3u
 #EXTINF:-1 tvg-logo="https://gfx-player.radiozet.pl/design/player_radiozet/images/favicon/apple-touch-icon.png" group-title="Poland" radio="true",Zet 90s
 https://zt02.cdn.eurozet.pl/ZET090.mp3
+# 72FM: https://72fm.com/station/f11d134a-f198-415a-86a4-cb518c57127d?source=m3u
+#EXTINF:-1 group-title="Poland" radio="true",ZET Po Polsku
+https://zt.cdn.eurozet.pl/ZETPL1.mp3
 # 72FM: https://72fm.com/station/a79ce643-387f-4b32-a956-c857d47fa39e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioplus.pl/favicon.ico" group-title="Poland" radio="true",Radio Plus Koszalin
 http://ic1.smcdn.pl/4270-1.aac

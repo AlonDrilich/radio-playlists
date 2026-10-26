@@ -397,12 +397,12 @@ https://stream.sigile.net/5mbs-64-aac
 # 72FM: https://72fm.com/station/96197824-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="World Music" radio="true",Rádio Cister
 http://centova.radio.com.pt:8453/;
-# 72FM: https://72fm.com/station/f7a2089d-9944-433c-aaf9-f34ff0d7ce29?source=m3u
-#EXTINF:-1 group-title="World Music" radio="true",RMC Planet
-http://edge.radiomontecarlo.net/rmcweb026
 # 72FM: https://72fm.com/station/850be23c-3c26-4dbf-955a-02b139d39a5f?source=m3u
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/53d6c3efe4b07a1cdbbae414/1520288879144-STBAF8R3I9C523AUA4LS/favicon.ico?format=100w" group-title="World Music" radio="true",Rocket Radio 1
 https://stream.radiojar.com/nvvyes7gud5tv
+# 72FM: https://72fm.com/station/f7a2089d-9944-433c-aaf9-f34ff0d7ce29?source=m3u
+#EXTINF:-1 group-title="World Music" radio="true",RMC Planet
+http://edge.radiomontecarlo.net/rmcweb026
 # 72FM: https://72fm.com/station/13f7e33d-2b28-4c73-9634-e49ee2c0ae99?source=m3u
 #EXTINF:-1 tvg-logo="https://radioazawan.ma/redio/azawan.svg" group-title="World Music" radio="true",Radio Azawan
 https://az-maroc.ice.infomaniak.ch/az-maroc-64.aac
@@ -580,15 +580,15 @@ https://stream4.vestaradio.com/RadioUnivers
 # 72FM: https://72fm.com/station/22d76400-aab6-4bdc-a2dc-09a34c6c793a?source=m3u
 #EXTINF:-1 group-title="World Music" radio="true",Radio Universidad de Guanajuato
 http://148.214.155.119:8000/
+# 72FM: https://72fm.com/station/dfd4d310-2e15-4fe7-9604-45b2fff2bef5?source=m3u
+#EXTINF:-1 group-title="World Music" radio="true",Frequence Luz
+https://stream-ssl.radios-arra.fr:8443/frequenceluz
 # 72FM: https://72fm.com/station/d502a4f0-738a-45e1-b13b-113a505609fe?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.org/724/724505/600/600/kywx5mfr.png" group-title="World Music" radio="true",[REE] Radio Exterior de España
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_720.m3u8
 # 72FM: https://72fm.com/station/50fc26c7-b7fc-44af-bc4d-d107b7bdddfe?source=m3u
 #EXTINF:-1 tvg-logo="https://soundsofmacarthur.org.au/wp-content/uploads/2023/10/cropped-309270845_532506612211750_519226750394612052_n-removebg-preview-180x180.png" group-title="World Music" radio="true",2MCR 100.3 - Sounds of Macarthur - Macarthur Community Radio
 https://cast4.my-control-panel.com/proxy/tim1/som
-# 72FM: https://72fm.com/station/dfd4d310-2e15-4fe7-9604-45b2fff2bef5?source=m3u
-#EXTINF:-1 group-title="World Music" radio="true",Frequence Luz
-https://stream-ssl.radios-arra.fr:8443/frequenceluz
 # 72FM: https://72fm.com/station/20962e0f-7040-4b18-9b48-7fc5d01fc680?source=m3u
 #EXTINF:-1 group-title="World Music" radio="true",The Artist
 http://theartist.stream.laut.fm/theartist
@@ -607,12 +607,12 @@ https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8
 # 72FM: https://72fm.com/station/29330e29-0a70-414d-973a-a69a5b2e4258?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/6dddvp8f7qcb.png" group-title="World Music" radio="true",Tranzistor
 https://ec2s.crolive.com.hr/tranzistor
-# 72FM: https://72fm.com/station/8fb48975-d64f-4d36-b2b8-d27b877cb317?source=m3u
-#EXTINF:-1 tvg-logo="https://gaiafm.stationplaylist.com/logo.gif" group-title="World Music" radio="true",Gaia FM (New Zealand)
-https://s2.stationplaylist.com:9000/gaiafm.aac
 # 72FM: https://72fm.com/station/7f103ff9-6562-46f0-bbb7-9dbb68734944?source=m3u
 #EXTINF:-1 tvg-logo="https://radioacs.radio-website.com/upload/design/63ca6b9be24252.73424119.png" group-title="World Music" radio="true",Radio AC'S
 https://listen.radioking.com/radio/33824/stream/199675
+# 72FM: https://72fm.com/station/8fb48975-d64f-4d36-b2b8-d27b877cb317?source=m3u
+#EXTINF:-1 tvg-logo="https://gaiafm.stationplaylist.com/logo.gif" group-title="World Music" radio="true",Gaia FM (New Zealand)
+https://s2.stationplaylist.com:9000/gaiafm.aac
 # 72FM: https://72fm.com/station/137f6575-0743-4e54-915c-26b42a67093a?source=m3u
 #EXTINF:-1 group-title="World Music" radio="true",World Music Radio - J-Pop
 https://streaming.exclusive.radio/er/jpop/icecast.audio
@@ -814,9 +814,6 @@ https://radio.alpenmelodie.de/
 # 72FM: https://72fm.com/station/264e4976-9863-40ea-95ff-3ad4eaf0a107?source=m3u
 #EXTINF:-1 tvg-logo="https://onbouge.eu/images/pictos/png/256/radio.png" group-title="World Music" radio="true",Radio OnBouge
 https://onbouge.eu/flux/onbouge.mp3
-# 72FM: https://72fm.com/station/489989fe-8d0f-49c1-b286-588ffb2584b7?source=m3u
-#EXTINF:-1 group-title="World Music" radio="true",HyeVibes
-https://stream.hyevibes.com/listen/hyevibes/radio.mp3
 # 72FM: https://72fm.com/station/b444dadd-28b2-4dcb-84f2-3e2b73094f24?source=m3u
 #EXTINF:-1 tvg-logo="https://wa3.live/wa3-logo-assets/wa3-icon-512.png" group-title="World Music" radio="true",Radio Wa3 (راديو وع)
 https://stream.wa3.live/wa3.mp3
@@ -826,6 +823,9 @@ https://eilo.org/streamer.php?ch=earthbeat
 # 72FM: https://72fm.com/station/83115e02-dec3-4330-9e75-615e0a0afdbd?source=m3u
 #EXTINF:-1 group-title="World Music" radio="true",Good Radio
 https://streaming2.locucionar.com/proxy/goodradio?mp=/stream
+# 72FM: https://72fm.com/station/489989fe-8d0f-49c1-b286-588ffb2584b7?source=m3u
+#EXTINF:-1 group-title="World Music" radio="true",HyeVibes
+https://stream.hyevibes.com/listen/hyevibes/radio.mp3
 # 72FM: https://72fm.com/station/168ed17c-0bd7-43f2-9bfc-ce3164ad54b7?source=m3u
 #EXTINF:-1 group-title="World Music" radio="true",Turkuaz FM 107.8 Seraing, be
 http://stream.lfmradio.be/turkuaz

@@ -565,12 +565,12 @@ https://streaming.live365.com/a77923
 # 72FM: https://72fm.com/station/f061d40f-584f-4425-b7af-a6227ed4ccd5?source=m3u
 #EXTINF:-1 tvg-logo="https://mixstream.info/favicon-512x512.png" group-title="EDM" radio="true",MixStream Radio - Hardstyle
 https://radio.mixstream.nl/hardstyle.mp3
-# 72FM: https://72fm.com/station/c1bc441f-576d-4a7a-8de8-b3d91a6dc774?source=m3u
-#EXTINF:-1 tvg-logo="https://www.bizwebradio.com/wp-content/uploads/2020/09/base_logo_white_background.png" group-title="EDM" radio="true",Biz WebRadio
-https://icecast.bizwebradio.com/listen/biz/radio.aac
 # 72FM: https://72fm.com/station/cf5377b2-8c7a-45b2-bc2d-0d6254dc3220?source=m3u
 #EXTINF:-1 group-title="EDM" radio="true",DFM
 https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
+# 72FM: https://72fm.com/station/c1bc441f-576d-4a7a-8de8-b3d91a6dc774?source=m3u
+#EXTINF:-1 tvg-logo="https://www.bizwebradio.com/wp-content/uploads/2020/09/base_logo_white_background.png" group-title="EDM" radio="true",Biz WebRadio
+https://icecast.bizwebradio.com/listen/biz/radio.aac
 # 72FM: https://72fm.com/station/47aa17cf-8d90-48f7-a878-bb7a16d03d01?source=m3u
 #EXTINF:-1 group-title="EDM" radio="true",Radio Surprise The Live DJ Radio
 https://a12.asurahosting.com/listen/radio_surprise/radio.mp3
@@ -595,9 +595,15 @@ https://rqstream.radioq.de/stream/192.mp3
 # 72FM: https://72fm.com/station/9850c239-fce3-4c0d-aa7e-b58592dd0d13?source=m3u
 #EXTINF:-1 group-title="EDM" radio="true",Club Hits 2000s
 https://radio.retrolan.party:8000/radio.mp3
+# 72FM: https://72fm.com/station/417e5aa3-5ad0-457f-9c21-f8365629ba7a?source=m3u
+#EXTINF:-1 tvg-logo="https://webradio.azur7.pro/assets/a7-speaker.png" group-title="EDM" radio="true",AZUR7 Pulse
+https://webradio.azur7.pro/pulse
 # 72FM: https://72fm.com/station/e51155c3-7d5a-4343-bbd4-9e0b24fa07f1?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.brill.city/public-api/stations/2381e4ba-0117-4693-b103-8347a62d7cc0/logo" group-title="EDM" radio="true",Brill Radio / 2381e4ba-0117-4693-b103-8347a62d7cc0
 https://radio.brill.city/stations/2381e4ba-0117-4693-b103-8347a62d7cc0/stream.mp3
+# 72FM: https://72fm.com/station/ce93d13a-8de9-450a-bbb1-a955f6dd7241?source=m3u
+#EXTINF:-1 tvg-logo="https://the-dance-factory.djtonyfresh1200.workers.dev/df-logo.jpg" group-title="EDM" radio="true",The Dance Factory
+https://ice41.securenetsystems.net/95FL2
 # 72FM: https://72fm.com/station/38a3142f-a0d6-45b4-9f6e-7b94be0b59a1?source=m3u
 #EXTINF:-1 tvg-logo="https://energy905fm.com/wp-content/uploads/2021/11/ENERGYLOGO3.png" group-title="EDM" radio="true",WCGD 'Energy 90.5' Edgar, Nebraska
 https://a2.asurahosting.com:7520/radio.mp3
@@ -607,15 +613,9 @@ https://halo.streamerr.co/listen/alexpepperlive/105.aac
 # 72FM: https://72fm.com/station/41660c82-d479-4e59-a64c-dc616927c237?source=m3u
 #EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="EDM" radio="true",Jujube Radio Dance Hits
 https://jujuberadio.com/dance
-# 72FM: https://72fm.com/station/ce93d13a-8de9-450a-bbb1-a955f6dd7241?source=m3u
-#EXTINF:-1 tvg-logo="https://the-dance-factory.djtonyfresh1200.workers.dev/df-logo.jpg" group-title="EDM" radio="true",The Dance Factory
-https://ice41.securenetsystems.net/95FL2
 # 72FM: https://72fm.com/station/d4c7ea8a-771d-4ff2-a33a-23e4f844a13e?source=m3u
 #EXTINF:-1 tvg-logo="https://ai-onair.com/wp-content/uploads/2026/06/cropped-AI-OnAirLogo-192x192.png" group-title="EDM" radio="true",AI.OnAir
 https://stream.novaporta.de/listen/ai.onair/radio.mp3
-# 72FM: https://72fm.com/station/417e5aa3-5ad0-457f-9c21-f8365629ba7a?source=m3u
-#EXTINF:-1 tvg-logo="https://webradio.azur7.pro/assets/a7-speaker.png" group-title="EDM" radio="true",AZUR7 Pulse
-https://webradio.azur7.pro/pulse
 # 72FM: https://72fm.com/station/b0f4061c-00cc-4e12-8b43-a1296bb83d70?source=m3u
 #EXTINF:-1 tvg-logo="https://1doperadio.com/hcgi/platform/api/files/pbc_1792246063/dt5nt4pu4qxih9c/untitled_1_b9d9uytagp.png" group-title="EDM" radio="true",D.OP.E. Dance Radio
 https://s70.radiolize.com/radio/8020/radio.mp3

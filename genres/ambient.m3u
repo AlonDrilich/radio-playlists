@@ -595,12 +595,12 @@ http://141.164.38.238/listen/ara_fm/radio.mp3
 # 72FM: https://72fm.com/station/0ce16ad0-f478-408e-b4ef-1fd6af54f9a4?source=m3u
 #EXTINF:-1 group-title="Ambient" radio="true",Epic. Lounge - POOLSIDE LOUNGE
 https://stream.epic-lounge.com/poolside-lounge?ref=radiobrowser
-# 72FM: https://72fm.com/station/c8cc96b1-918a-4a4f-8e0e-573f253196b0?source=m3u
-#EXTINF:-1 group-title="Ambient" radio="true",Lounge Avenue
-http://arlandria.go.ro:8000/lounge
 # 72FM: https://72fm.com/station/3f5ff4e6-3fd8-4fcf-9daa-dcbbef3504bf?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="Ambient" radio="true",Radio Art - Healing(2)
 http://air.radioart.com/fHealing.mp3
+# 72FM: https://72fm.com/station/c8cc96b1-918a-4a4f-8e0e-573f253196b0?source=m3u
+#EXTINF:-1 group-title="Ambient" radio="true",Lounge Avenue
+http://arlandria.go.ro:8000/lounge
 # 72FM: https://72fm.com/station/58699ab0-dbf8-4b0a-a19c-6affb883844a?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rmc2.net/wp-content/uploads/2020/08/08_CdM_1200px.jpg" group-title="Ambient" radio="true",MC2 Cafè Del Mar Collection
 https://n13a-eu.rcs.revma.com/a2n83wxayk3vv?rj-ttl=5&rj-tok=AAABndIfXksAiTXrqw2SmfAauA
@@ -637,12 +637,12 @@ http://air.radioart.com/fAura.mp3
 # 72FM: https://72fm.com/station/65f5e7e1-633e-49b6-a26e-6b20844f29e0?source=m3u
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/da60976c-6fa6-48b4-b616-97214481ff98.png" group-title="Ambient" radio="true",Positively Pain Relief 174Hz -om
 https://streaming.positivity.radio/pr/painrelief/icecast.audio
-# 72FM: https://72fm.com/station/a0fc627f-f17e-4778-b108-0dadae8e3a1c?source=m3u
-#EXTINF:-1 group-title="Ambient" radio="true",MoyChay
-https://r.moychay.ru/radio.m3u8
 # 72FM: https://72fm.com/station/8b6f97fd-a134-4eb7-9a1b-c338d10d187c?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.regenbogen.de/sites/default/files/scald/image/SoftAndLazy_AG_600x600.jpg" group-title="Ambient" radio="true",Radio Regenbogen Soft & Lazy
 https://stream.regenbogen.de/softlazy/mp3-128/radiobrowser
+# 72FM: https://72fm.com/station/a0fc627f-f17e-4778-b108-0dadae8e3a1c?source=m3u
+#EXTINF:-1 group-title="Ambient" radio="true",MoyChay
+https://r.moychay.ru/radio.m3u8
 # 72FM: https://72fm.com/station/90e838c6-b16c-11e9-acb2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Ambient" radio="true",FMRausch: FM Rausch Radio
 https://fmrausch.stream.laut.fm/fmrausch
@@ -874,15 +874,18 @@ https://mml1.prostream.se/listen/ivory_echoes/radio.mp3
 # 72FM: https://72fm.com/station/797e732d-eba2-4843-89a9-b2eefccc0ec4?source=m3u
 #EXTINF:-1 group-title="Ambient" radio="true",WorldTree
 https://stream.rcast.net/1018259
-# 72FM: https://72fm.com/station/4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa?source=m3u
-#EXTINF:-1 tvg-logo="https://radioff.com/assets/img/icon/favicon-512.png" group-title="Ambient" radio="true",radiOFF
-https://stream.radioff.com/stream.mp3
 # 72FM: https://72fm.com/station/550f80dd-53b8-4139-939b-7e95f9e78b4b?source=m3u
 #EXTINF:-1 tvg-logo="https://mana.bzh/favicon.png" group-title="Ambient" radio="true",MANARADIO
 https://radio.mana.bzh/listen/mana/radio.mp3
+# 72FM: https://72fm.com/station/4b0a5f79-b1c5-4c24-963e-0c36ddb8d1aa?source=m3u
+#EXTINF:-1 tvg-logo="https://radioff.com/assets/img/icon/favicon-512.png" group-title="Ambient" radio="true",radiOFF
+https://stream.radioff.com/stream.mp3
 # 72FM: https://72fm.com/station/c19e39ff-a86f-4d55-a4c1-55e9d791f59a?source=m3u
 #EXTINF:-1 group-title="Ambient" radio="true",MDK Space Radio
 https://radio.mdkband.com/stream.mp3
+# 72FM: https://72fm.com/station/0b8640cc-f0f2-4867-b55d-f06a7d8776d6?source=m3u
+#EXTINF:-1 tvg-logo="https://robotariis.com/static/icon.png" group-title="Ambient" radio="true",ROBOTARIIS RADIO
+https://subwave.robotariis.com/stream.mp3
 # 72FM: https://72fm.com/station/759f46ed-7a0f-4ae1-9e1e-949fad8eaffe?source=m3u
 #EXTINF:-1 tvg-logo="https://drdio.studio/static/channel_avatar.png" group-title="Ambient" radio="true",Dr.DIO Radio
 https://drdio.studio/stream/live.mp3
@@ -892,9 +895,6 @@ https://radio.musicradio.ai/listen/music_radio_zen/radio.mp3
 # 72FM: https://72fm.com/station/7f75a1c7-1bfe-4794-8886-63a0e15948d3?source=m3u
 #EXTINF:-1 tvg-logo="https://radioaurastorage2.blob.core.windows.net/music-files/station-branding/radyoaura/logo.jpg" group-title="Ambient" radio="true",RadyoAura
 https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c
-# 72FM: https://72fm.com/station/0b8640cc-f0f2-4867-b55d-f06a7d8776d6?source=m3u
-#EXTINF:-1 tvg-logo="https://robotariis.com/static/icon.png" group-title="Ambient" radio="true",ROBOTARIIS RADIO
-https://subwave.robotariis.com/stream.mp3
 # 72FM: https://72fm.com/station/a7752214-82bb-4dbe-89db-878e1b4e5096?source=m3u
 #EXTINF:-1 group-title="Ambient" radio="true",Vis de Taină
 http://89.39.189.44:8000/;

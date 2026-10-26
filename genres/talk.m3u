@@ -649,12 +649,12 @@ https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
 # 72FM: https://72fm.com/station/651c4c9a-e639-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",France Culture
 http://icecast.radiofrance.fr/franceculture-midfi.mp3
-# 72FM: https://72fm.com/station/961c19d4-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/mbSvb2pszUx49gNzpgO6kE_U9xmG1gCm5s6ZiVBdiaTTo0v4r2kkQNXoAuJ7wJ-c8w=w300" group-title="Talk" radio="true",Радонеж
-http://icecast.radonezh.cdnvideo.ru:8000/rad
 # 72FM: https://72fm.com/station/ca6de309-f3fc-4e52-80e7-eacb885dd318?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",RTÉ Radio 1
 https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
+# 72FM: https://72fm.com/station/961c19d4-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/mbSvb2pszUx49gNzpgO6kE_U9xmG1gCm5s6ZiVBdiaTTo0v4r2kkQNXoAuJ7wJ-c8w=w300" group-title="Talk" radio="true",Радонеж
+http://icecast.radonezh.cdnvideo.ru:8000/rad
 # 72FM: https://72fm.com/station/962321ad-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2100/2020/10/12160146/wbal-favicon-150x150.png" group-title="Talk" radio="true",WBAL 'News Radio1090' Baltimore, MD
 http://26103.live.streamtheworld.com/WBALAMAAC_SC
@@ -763,12 +763,12 @@ https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/8e108edc-22e3-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://ibero909.fm/favicon.ico" group-title="Talk" radio="true",XHUIA-FM Ibero 90.9.1 (90.9 MHz FM, Ciudad de México) Universidad Iberoamericana
 http://noasrv.caster.fm:10182/live
-# 72FM: https://72fm.com/station/fe852cc8-1a27-4dcd-8465-917ec32d8b64?source=m3u
-#EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/7ee8a275df331791ce3b86c17aef1d50" group-title="Talk" radio="true",ABC Radio Sydney
-https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
 # 72FM: https://72fm.com/station/961d3ec2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Talk" radio="true",Bylgjan 98.9 Reykjavik
 http://icecast.365net.is:8000/orbbylgjan.aac
+# 72FM: https://72fm.com/station/fe852cc8-1a27-4dcd-8465-917ec32d8b64?source=m3u
+#EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/7ee8a275df331791ce3b86c17aef1d50" group-title="Talk" radio="true",ABC Radio Sydney
+https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
 # 72FM: https://72fm.com/station/4324525e-7cd0-4f02-bb03-947f5a23f0ce?source=m3u
 #EXTINF:-1 tvg-logo="https://albaciudad.org/favicon.ico" group-title="Talk" radio="true",Alba Ciudad Radio 93.6 FM16k
 https://envivo.albaciudad.org/alba16.mp3

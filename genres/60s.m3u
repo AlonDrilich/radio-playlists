@@ -820,9 +820,6 @@ https://stupidpotato.com/boomer-mix/live
 # 72FM: https://72fm.com/station/348bdea7-b0ad-4aa6-a258-30cb2e600d2c?source=m3u
 #EXTINF:-1 tvg-logo="https://stream.rubostudio.es/static/img/station_logos/e315dfe2fab64ac3b550ea4ffa2c9a88.jpg" group-title="60s" radio="true",Fórmula Classics
 https://stream.rubostudio.es/listen/classics/radio.mp3
-# 72FM: https://72fm.com/station/fe4dc8a9-b2a0-4660-8aa4-c66428854c5c?source=m3u
-#EXTINF:-1 tvg-logo="https://i1.wp.com/popgoldradio.com/wp-content/uploads/2015/04/pgr-logo.png" group-title="60s" radio="true",Pop Gold Radio
-https://popgoldradio-libstrm.radioca.st/;
 # 72FM: https://72fm.com/station/63425ed4-5a34-4edb-b8a6-09db4e7292a4?source=m3u
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/366/6a4a6eb629fcb6f6b1f.png" group-title="60s" radio="true",Wyvern Gold
 http://stream.aiir.com/4nrmrub7cznvv
@@ -832,6 +829,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/FOREVER_CLASSIC
 # 72FM: https://72fm.com/station/c88d0da7-f4be-4030-94fc-1ef37f7341b5?source=m3u
 #EXTINF:-1 tvg-logo="https://www.kqrz.org/_nuxt/img/kqrz-bg-2022.6cdef76.jpg" group-title="60s" radio="true",KQRZ-LP 100.7 FM - Hillsboro, OR
 https://ice24.securenetsystems.net:80/KQRZ
+# 72FM: https://72fm.com/station/fe4dc8a9-b2a0-4660-8aa4-c66428854c5c?source=m3u
+#EXTINF:-1 tvg-logo="https://i1.wp.com/popgoldradio.com/wp-content/uploads/2015/04/pgr-logo.png" group-title="60s" radio="true",Pop Gold Radio
+https://popgoldradio-libstrm.radioca.st/;
 # 72FM: https://72fm.com/station/4dca42c7-eb1e-4471-a886-0f8c51a9806c?source=m3u
 #EXTINF:-1 tvg-logo="https://revolution6.org/favicon-revolution-6.png" group-title="60s" radio="true",Revolution 6
 https://streams.loudspeaker.org/listen/revolution-6/rev6
@@ -853,12 +853,12 @@ https://cast1.asurahosting.com/proxy/john1240/stream
 # 72FM: https://72fm.com/station/12269406-cac0-4da8-8d44-681402fda18c?source=m3u
 #EXTINF:-1 group-title="60s" radio="true",WGAG 93.1 'Little Buddy Radio' - Princeton, West Virginia
 https://streaming.live365.com/a11348
-# 72FM: https://72fm.com/station/d715f7b8-44cf-495d-a91b-b84b0e2d61ca?source=m3u
-#EXTINF:-1 group-title="60s" radio="true",WPGF-LD Right On Radio 87.7 - Memphis, TN
-http://securenetg.com:8300/tower877.aac?&_ic2=1
 # 72FM: https://72fm.com/station/bf3a865d-ba29-4b09-ad4f-e5a4f4932b25?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDfjgKK1/A4-98-X98-2.png" group-title="60s" radio="true",ANTENNA4
 https://antenna4.radioca.st/stream
+# 72FM: https://72fm.com/station/d715f7b8-44cf-495d-a91b-b84b0e2d61ca?source=m3u
+#EXTINF:-1 group-title="60s" radio="true",WPGF-LD Right On Radio 87.7 - Memphis, TN
+http://securenetg.com:8300/tower877.aac?&_ic2=1
 # 72FM: https://72fm.com/station/bb8ea981-7731-4ef1-af2a-2da4b8003e73?source=m3u
 #EXTINF:-1 group-title="60s" radio="true",KTEH - Telehack Radio
 https://telehack.com/radio

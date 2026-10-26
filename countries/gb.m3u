@@ -436,15 +436,15 @@ http://antares.dribbcast.com:4361/stream
 # 72FM: https://72fm.com/station/c8c5c4c4-a27e-4ad5-9339-e5ce38c38aa9?source=m3u
 #EXTINF:-1 group-title="United Kingdom" radio="true",60 NORTH RADIO - FLAC
 http://r5.zetcast.net/flac
+# 72FM: https://72fm.com/station/45afe60a-8bda-4b4b-a2b7-e9fab765b028?source=m3u
+#EXTINF:-1 group-title="United Kingdom" radio="true",Redroad FM 102.4
+http://s45.myradiostream.com:13784/;
 # 72FM: https://72fm.com/station/fe6cd053-2fef-43e3-88af-8fac82591868?source=m3u
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="United Kingdom" radio="true",Naim Jazz [flac]
 https://mscp3.live-streams.nl:8342/jazz-flac.flac
 # 72FM: https://72fm.com/station/dd4e349c-77df-43da-a97d-34234ab08a2f?source=m3u
 #EXTINF:-1 group-title="United Kingdom" radio="true",Nation 60s
 https://listen-nation.sharp-stream.com/nation60s.mp3
-# 72FM: https://72fm.com/station/45afe60a-8bda-4b4b-a2b7-e9fab765b028?source=m3u
-#EXTINF:-1 group-title="United Kingdom" radio="true",Redroad FM 102.4
-http://s45.myradiostream.com:13784/;
 # 72FM: https://72fm.com/station/7202a916-7f90-4e7f-8470-155a36d97681?source=m3u
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="United Kingdom" radio="true",BBC Radio London (128k)
 http://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8
@@ -589,12 +589,12 @@ http://s2.xrad.io:8058/stream
 # 72FM: https://72fm.com/station/61bdc00f-5a55-4e0b-a841-7747d66fa7dd?source=m3u
 #EXTINF:-1 tvg-logo="https://londonmusicradio.com/wp-content/uploads/2017/04/thumbnail_Logo2-2-copyY-copy-black-e1519168864488.jpg" group-title="United Kingdom" radio="true",London Music Radio
 https://radiobossrelay.radioca.st/stream
-# 72FM: https://72fm.com/station/00a8642f-98b2-4cd7-86f9-53f6dfaba63c?source=m3u
-#EXTINF:-1 group-title="United Kingdom" radio="true",Virgin Radio
-https://radio.virginradio.co.uk/stream?aw_0_1st.platform=vr-web
 # 72FM: https://72fm.com/station/a7180d12-5a8c-46f9-a27f-be73889c3db5?source=m3u
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="United Kingdom" radio="true",BBC World Service (128k)
 http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d128000.norewind.m3u8
+# 72FM: https://72fm.com/station/00a8642f-98b2-4cd7-86f9-53f6dfaba63c?source=m3u
+#EXTINF:-1 group-title="United Kingdom" radio="true",Virgin Radio
+https://radio.virginradio.co.uk/stream?aw_0_1st.platform=vr-web
 # 72FM: https://72fm.com/station/81001fc1-72fd-483c-91f7-8475bdc8bbc4?source=m3u
 #EXTINF:-1 group-title="United Kingdom" radio="true",Surf Rock Radio
 http://139.162.89.191:8020/radio.mp3
@@ -811,12 +811,12 @@ https://radio.hearme.fm:9040/stream
 # 72FM: https://72fm.com/station/96231b55-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="United Kingdom" radio="true",Heart Torbay 96.4
 http://media-sov.musicradio.com/HeartTorbay
-# 72FM: https://72fm.com/station/79a3cd9e-6205-40c4-aefe-8369bdd4649a?source=m3u
-#EXTINF:-1 group-title="United Kingdom" radio="true",Soul Central Radio
-http://65.21.202.84:8519/stream/
 # 72FM: https://72fm.com/station/87bf3c96-9fac-49fa-9e24-994665ac1d8b?source=m3u
 #EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_ulster/colour_default.svg" group-title="United Kingdom" radio="true",BBC Radio Ulster
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8
+# 72FM: https://72fm.com/station/79a3cd9e-6205-40c4-aefe-8369bdd4649a?source=m3u
+#EXTINF:-1 group-title="United Kingdom" radio="true",Soul Central Radio
+http://65.21.202.84:8519/stream/
 # 72FM: https://72fm.com/station/9546168f-d92f-406a-92a1-5f34f45b62a1?source=m3u
 #EXTINF:-1 group-title="United Kingdom" radio="true",Joy Hits Flac
 http://joyhits.online/joyhits.flac.ogg

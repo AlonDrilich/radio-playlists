@@ -532,12 +532,12 @@ http://icecast6.play.cz/seejay128.mp3
 # 72FM: https://72fm.com/station/2f6e1b51-69d4-4280-ab8d-ab9f8dc75530?source=m3u
 #EXTINF:-1 tvg-logo="https://junior.rozhlas.cz/sites/default/files/favicon.ico" group-title="Czechia" radio="true",Rádio Junior
 http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg
-# 72FM: https://72fm.com/station/917790a4-3209-4d61-84b7-b2356ae78b61?source=m3u
-#EXTINF:-1 group-title="Czechia" radio="true",ČRo Plus
-https://rozhlas.stream/plus_low.aac
 # 72FM: https://72fm.com/station/4bd6e6c3-6284-4a83-9d30-edbc7666265f?source=m3u
 #EXTINF:-1 tvg-logo="https://radiosazava.cz/porady/sazava_logo_vlnka.png" group-title="Czechia" radio="true",Rádio Sázava
 https://icecast8.play.cz/sazava192.mp3
+# 72FM: https://72fm.com/station/917790a4-3209-4d61-84b7-b2356ae78b61?source=m3u
+#EXTINF:-1 group-title="Czechia" radio="true",ČRo Plus
+https://rozhlas.stream/plus_low.aac
 # 72FM: https://72fm.com/station/65beccff-268e-401e-8dda-d8147a398c5a?source=m3u
 #EXTINF:-1 group-title="Czechia" radio="true",Radio Otava
 https://radiootava.trefcon.cz:8889/radio.mp3
@@ -724,6 +724,9 @@ http://icecast9.play.cz/slowdown.mp3
 # 72FM: https://72fm.com/station/192e541a-dc73-405b-9a00-c3a4f0505a30?source=m3u
 #EXTINF:-1 group-title="Czechia" radio="true",Radia.cz - Train
 https://ice2.radia.cz/relax-train64.aac
+# 72FM: https://72fm.com/station/28c96823-53d0-46b4-bc3d-eb29350db6f5?source=m3u
+#EXTINF:-1 group-title="Czechia" radio="true",Rádio 1
+https://stream.rcs.revma.com/stk8hrvb938uv
 # 72FM: https://72fm.com/station/3f524350-ef10-498d-a2a9-cf17af19adc8?source=m3u
 #EXTINF:-1 tvg-logo="https://cdb.radia.cz/design/img/thumbnails/no-artwork-image(image200).png" group-title="Czechia" radio="true",Rádio Pohádka
 https://ice3.radia.cz/pohadka128.mp3
@@ -733,9 +736,6 @@ https://stream.airevival.eu/radio.mp3
 # 72FM: https://72fm.com/station/02c6e041-e8fb-4734-92fb-f22250073044?source=m3u
 #EXTINF:-1 tvg-logo="https://api.play.cz/static/radio_logo/t200/croddur.png" group-title="Czechia" radio="true",ČRo D-dur
 https://rozhlas.stream/ddur.mp3
-# 72FM: https://72fm.com/station/28c96823-53d0-46b4-bc3d-eb29350db6f5?source=m3u
-#EXTINF:-1 group-title="Czechia" radio="true",Rádio 1
-https://stream.rcs.revma.com/stk8hrvb938uv
 # 72FM: https://72fm.com/station/d062112c-fffb-4eea-95d6-0f02ea8673af?source=m3u
 #EXTINF:-1 tvg-logo="https://api.play.cz/static/radio_logo/t200/crojazz.png" group-title="Czechia" radio="true",ČRo Jazz
 https://rozhlas.stream/jazz.mp3

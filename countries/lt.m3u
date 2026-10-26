@@ -232,12 +232,12 @@ http://212.95.39.164:8074/stream
 # 72FM: https://72fm.com/station/4210734f-cb64-411a-b947-972ac97f99f4?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Radio 3
 https://n23-eu.rcs.revma.com/8cwskd80zxcwv?rj-ttl=5&rj-tok=AAABoLM9aPsAjNpxlJ9phX3bxg
-# 72FM: https://72fm.com/station/482b510c-3a44-4f6c-a809-6c6a43d3b4dd?source=m3u
-#EXTINF:-1 tvg-logo="https://m-1.15min.lt/content/themes/m-1/mlogo.png" group-title="Lithuania" radio="true",M-1 Radio
-https://stream.m-1.fm/m1/mp3
 # 72FM: https://72fm.com/station/c8bc598e-5783-4e43-9aaa-6ae4153b490d?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Radijo stotis M-1
 https://stream.m-1.fm/m1/aacp64
+# 72FM: https://72fm.com/station/482b510c-3a44-4f6c-a809-6c6a43d3b4dd?source=m3u
+#EXTINF:-1 tvg-logo="https://m-1.15min.lt/content/themes/m-1/mlogo.png" group-title="Lithuania" radio="true",M-1 Radio
+https://stream.m-1.fm/m1/mp3
 # 72FM: https://72fm.com/station/19e82bcc-896d-4d49-b1a2-9b2bbbd929e0?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.audiomastering.lt/favicon.ico" group-title="Lithuania" radio="true",radio.audiomastering.lt
 https://transliacija.audiomastering.lt/pure
@@ -253,6 +253,9 @@ https://solid55.streamupsolutions.com/proxy/opcubjpd/stream
 # 72FM: https://72fm.com/station/72e03db3-3f67-4f92-ac76-0d74d099da52?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Truckers Rave
 http://live.eugenijus.lt:9000/eugenijus
+# 72FM: https://72fm.com/station/f807f4e0-303b-4631-a263-e7840d529522?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",Truckers Rave
+https://myradio24.org/eugenijus
 # 72FM: https://72fm.com/station/32951730-60a5-41c2-ad77-96f1c4167b5a?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",BEVEIK RADIJAS
 https://halo.streamerr.co/listen/beveikradijas/radio.mp3
@@ -262,9 +265,6 @@ https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream
 # 72FM: https://72fm.com/station/35162bfe-068b-47c4-a247-a50d4aa19625?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Revo Banga Rock
 http://sigi2kas.asuscomm.com:8000/stream
-# 72FM: https://72fm.com/station/f807f4e0-303b-4631-a263-e7840d529522?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",Truckers Rave
-https://myradio24.org/eugenijus
 # 72FM: https://72fm.com/station/5f413f81-6d51-4dfd-841f-9e50eedd248d?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Jazz FM
 https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8
@@ -277,6 +277,9 @@ https://whsh4u-panel.com/proxy/gsedemag?mp=/stream
 # 72FM: https://72fm.com/station/94cba4aa-593c-433f-ba1f-9fade393f8ad?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",MRPL
 https://mrpl.babrai.com/stream
+# 72FM: https://72fm.com/station/caa33a39-080b-4997-9a32-b5189e1391b7?source=m3u
+#EXTINF:-1 group-title="Lithuania" radio="true",PMR.lt
+https://stream.pmr.lt/pmr.mp3
 # 72FM: https://72fm.com/station/690f0f04-2f41-4c5c-b3d8-0b5fb0a923b0?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Taktas FM
 https://c20.radioboss.fm:8752/stream
@@ -298,9 +301,6 @@ http://213.226.189.174:8000/radio.mp3
 # 72FM: https://72fm.com/station/14f48e52-335d-488a-9e8c-e872a7edd026?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Patejago Radijas
 https://radio.patejago.lt/stream
-# 72FM: https://72fm.com/station/caa33a39-080b-4997-9a32-b5189e1391b7?source=m3u
-#EXTINF:-1 group-title="Lithuania" radio="true",PMR.lt
-https://stream.pmr.lt/pmr.mp3
 # 72FM: https://72fm.com/station/9e77daff-0a92-4f5c-bb4c-c64d2aac739f?source=m3u
 #EXTINF:-1 group-title="Lithuania" radio="true",Radijo Klubas
 http://didzdvaris.vinlita.lt:8009/stream.aac
