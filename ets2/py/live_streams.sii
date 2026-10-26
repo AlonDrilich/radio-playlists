@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 12
+ stream_data: 13
  stream_data[0]: "http://stream.zeno.fm/z07vyxbqz8quv|RADIO VALLENATOS CLASICOS|Various|SPA|320|0"
  stream_data[1]: "http://sc.abc.com.py:8000/stream|Radio ABC Cardinal 730 AM|News|SPA|128|0"
  stream_data[2]: "http://stream.zeno.fm/hvnh6d5uebruv|RADIO EXITOS DE AYER|Various|ENG|128|0"
@@ -14,6 +14,7 @@ live_stream_def : .live_streams {
  stream_data[9]: "http://135.181.103.10:8018/stream|Radio Cerro Cora 91.5 FM|Dance|SPA|128|0"
  stream_data[10]: "https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9|Radio Arasuncion|Ai radio|PY|320|0"
  stream_data[11]: "https://stream.zeno.fm/9wxcnjd0dievv|Golden Classic Radio PY|Various|SPA|128|0"
+ stream_data[12]: "http://212.84.160.3:6265/|Electrolevel Radiomix|Various|ENG|320|0"
 }
 
 }

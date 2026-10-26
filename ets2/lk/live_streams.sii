@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 40
+ stream_data: 41
  stream_data[0]: "http://s2.voscast.com:12084/;stream1619441439791/1|Tube Tamil FM Radio \xe0\xae\x9f\xe0\xae\xbf\xe0\xae\xaf\xe0\xaf\x82\xe0\xae\xaa\xe0\xaf\x8d \xe0\xae\xa4\xe0\xae\xae\xe0\xae\xbf\xe0\xae\xb4\xe0\xaf\x8d \xe0\xae\x8e\xe0\xae\x83\xe0\xae\xaa\xe0\xaf\x8d.\xe0\xae\x8e\xe0\xae\xae\xe0\xaf\x8d \xe0\xae\xaa\xe0\xae\xa3\xe0\xaf\x8d\xe0\xae\xaa\xe0\xae\xb2\xe0\xaf\x88 \xe0\xae\xb0\xe0\xaf\x87\xe0\xae\x9f\xe0\xae\xbf\xe0\xae\xaf\xe0\xaf\x87\xe0\xae\xbe|Indian music|TAM|64|0"
  stream_data[1]: "https://stream-32.zeno.fm/xekhrn4zetzuv?zs=KXT1gTNYSemcxyslV6-vdA|SLBC Tamil National Service|Various|LK|128|0"
  stream_data[2]: "http://220.247.227.20:8000/RSLstream|SLBC -Radio Sri Lanka|Entertainment|SIN|128|0"
@@ -15,7 +15,7 @@ live_stream_def : .live_streams {
  stream_data[10]: "http://stream.zeno.fm/c6mgmtfg8e9uv|\xe0\xae\xa4\xe0\xae\xae\xe0\xae\xbf\xe0\xae\xb4\xe0\xaf\x80\xe0\xae\xb4 \xe0\xae\xb5\xe0\xae\xbe\xe0\xae\xa9\xe0\xaf\x86\xe0\xae\xbe\xe0\xae\xb2\xe0\xae\xbf - Tamil Eelam Radio (North & East)|Classical|LK|128|0"
  stream_data[11]: "https://stream-49.zeno.fm/1tcs4fbw7rquv?zs=uMl9BSttRSuqxlf3fWqc8g|freefm.lk|Various|SIN|128|0"
  stream_data[12]: "https://rangiri.radioca.st/stream|Rangiri Sri Lanka|Various|SIN|128|0"
- stream_data[13]: "http://media2.lankasri.fm/;stream.mp3|Lankasri fm|Tamil music|TAM|192|0"
+ stream_data[13]: "http://media2.lankasri.fm/;stream.mp3|Lankasri fm|Tamil music|TAM|128|0"
  stream_data[14]: "https://srv01.onlineradio.voaplus.com/siyathafm|Siyatha Fm|Various|SIN|128|0"
  stream_data[15]: "http://streams.radio.co/sea5dddd6b/listen|bestcoast.fm|Various|LK|128|0"
  stream_data[16]: "https://cp12.serverse.com/proxy/itnfm?mp=/stream|Lakhanda|Documentaries|SIN|128|0"
@@ -28,20 +28,21 @@ live_stream_def : .live_streams {
  stream_data[23]: "http://142.132.250.174:7673/stream|FOX 91.4 FM|Entertainment|COL|128|0"
  stream_data[24]: "https://altair.streamerr.co/stream/8054|Radio Plus Hitz|Entertainment|SIN|320|0"
  stream_data[25]: "https://srv02.onlineradio.voaplus.com/realfm|Real Radio Sri Lanka 97.1|Dance|COL|128|0"
- stream_data[26]: "https://srv02.onlineradio.voaplus.com/lite878|Life 87.8 Sri Lanka|Dance|DUT|128|0"
- stream_data[27]: "https://lite878.com/wp-content/uploads/2020/12/spotifydown.com-Better-Place-From-TROLLS-Band-Together.mp3|Lite 87.8|Various|LK|128|0"
+ stream_data[26]: "https://lite878.com/wp-content/uploads/2020/12/spotifydown.com-Better-Place-From-TROLLS-Band-Together.mp3|Lite 87.8|Various|LK|128|0"
+ stream_data[27]: "https://srv02.onlineradio.voaplus.com/lite878|Life 87.8 Sri Lanka|Dance|DUT|128|0"
  stream_data[28]: "http://220.247.227.20:8000/Threndralstream|SLBC Thendral FM|Various|LK|128|0"
  stream_data[29]: "https://wellonradio.out.airtime.pro/wellonradio_a|Wellon Radio Cafe|Various|LK|128|0"
- stream_data[30]: "https://srv02.onlineradio.voaplus.com/kissfm|Kiss FM Sri Lanka|English|ENG|128|0"
- stream_data[31]: "https://a3.asurahosting.com/listen/ranfm/radio.mp3|Ran FM|Entertainment|SIN|320|0"
- stream_data[32]: "https://radio-station.hadawatha.lk/listen/jothi-fm/radio.mp3|Jothi FM|Various|ENG|128|0"
- stream_data[33]: "http://220.247.234.207:8000/piraistream|Pirai FM|Slbc mazhayaga fm|TAM|128|0"
+ stream_data[30]: "https://a3.asurahosting.com/listen/ranfm/radio.mp3|Ran FM|Entertainment|SIN|320|0"
+ stream_data[31]: "https://srv02.onlineradio.voaplus.com/kissfm|Kiss FM Sri Lanka|English|ENG|128|0"
+ stream_data[32]: "http://220.247.234.207:8000/piraistream|Pirai FM|Slbc mazhayaga fm|TAM|128|0"
+ stream_data[33]: "https://radio-station.hadawatha.lk/listen/jothi-fm/radio.mp3|Jothi FM|Various|ENG|128|0"
  stream_data[34]: "https://stream.zeno.fm/jiylwkly3ufvv|Gee FM|Various|LK|128|0"
  stream_data[35]: "https://radio-station.hadawatha.lk/listen/dreamzlanka-fm/radio.mp3|DreamzLanka FM|Various|LK|128|0"
- stream_data[36]: "https://radio-station.hadawatha.lk/listen/hadawatha-fm/radio.mp3|Hadawatha FM|Various|LK|128|0"
- stream_data[37]: "https://stream.zeno.fm/n86me57rzv8uv|Radioeka|Various|LK|128|0"
+ stream_data[36]: "https://stream.tamilocean.com/isailive/|Isai FM Tamil|Various|LK|96|0"
+ stream_data[37]: "https://radio-station.hadawatha.lk/listen/hadawatha-fm/radio.mp3|Hadawatha FM|Various|LK|128|0"
  stream_data[38]: "http://220.247.227.20:8000/kandystream|Kandurata Sevaya Kandy|Various|LK|128|0"
- stream_data[39]: "https://stream.tamilocean.com/isailive/|Isai FM Tamil|Various|LK|96|0"
+ stream_data[39]: "https://stream.zeno.fm/n86me57rzv8uv|Radioeka|Various|LK|128|0"
+ stream_data[40]: "http://220.247.227.6:8000/Asiastream|SLBC Asia Service|Various|LK|128|0"
 }
 
 }

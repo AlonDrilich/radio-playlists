@@ -45,7 +45,7 @@ http://iandonov.radioca.st/;stream/1
 https://securestreams4.autopo.st:1668/stream
 # 72FM: https://72fm.com/station/1bb7e1c0-267e-4030-b42c-4322954cd407?source=m3u
 #EXTINF:-1 tvg-logo="https://skyradio.com.mk/favicon-32x32.png?v=gAepAyvLkw" group-title="North Macedonia" radio="true",Скај Радио
-http://s1.skyradio.com.mk:8000/
+http://s1.skyradio.com.mk:8002/
 # 72FM: https://72fm.com/station/76498941-8bcb-46a1-92f3-03dd42432581?source=m3u
 #EXTINF:-1 group-title="North Macedonia" radio="true",Time FM Gevgelija
 https://s2.free-shoutcast.com/stream/18058
@@ -106,9 +106,6 @@ https://visual.shoutca.st:8122/stream
 # 72FM: https://72fm.com/station/34f253c7-9c10-4327-b87c-8525d1e6b438?source=m3u
 #EXTINF:-1 group-title="North Macedonia" radio="true",Star Radio (World Hits) Skopje, Macedonia
 https://radiostar.pro/stream/worldretro.php
-# 72FM: https://72fm.com/station/1e764559-cb2b-43a5-b732-ba7340ab12bf?source=m3u
-#EXTINF:-1 tvg-logo="https://skyradio.com.mk/img/logo.png" group-title="North Macedonia" radio="true",Sky Radio 102.5 FM Macedonia (MP3 128 kbps)
-http://s1.skyradio.com.mk:8002/
 # 72FM: https://72fm.com/station/e2d37a2e-41d5-4800-b1cd-0dc76eb57b00?source=m3u
 #EXTINF:-1 tvg-logo="https://radiostar.pro/wp-content/uploads/2023/08/PLUS-300x300.png" group-title="North Macedonia" radio="true",Star Radio (Plus) Skopje, Macedonia
 https://radiostar.pro/stream/starplus.php
@@ -130,12 +127,12 @@ https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8
 # 72FM: https://72fm.com/station/9328b039-eae7-4bbd-8bbd-3d17502e73fd?source=m3u
 #EXTINF:-1 group-title="North Macedonia" radio="true",radio 22
 https://radio.server14.kariha.net:8008/
-# 72FM: https://72fm.com/station/a8afa77b-a18e-4e7b-b794-d5116bdb68c3?source=m3u
-#EXTINF:-1 group-title="North Macedonia" radio="true",Radio VMRO 1
-https://radiovmro.radioca.st/;*.mp3
 # 72FM: https://72fm.com/station/5361807e-7732-42b9-8788-2bb33f57819a?source=m3u
 #EXTINF:-1 group-title="North Macedonia" radio="true",Radio 105 Bombarder
 https://radio105bombarder.com:21010/
+# 72FM: https://72fm.com/station/a8afa77b-a18e-4e7b-b794-d5116bdb68c3?source=m3u
+#EXTINF:-1 group-title="North Macedonia" radio="true",Radio VMRO 1
+https://radiovmro.radioca.st/;*.mp3
 # 72FM: https://72fm.com/station/705a1de4-ec97-4d6f-b94e-882e87a87420?source=m3u
 #EXTINF:-1 group-title="North Macedonia" radio="true",Club FM Macedonia
 http://176.9.117.123:9996/;

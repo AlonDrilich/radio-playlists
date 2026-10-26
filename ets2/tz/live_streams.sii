@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 12
+ stream_data: 13
  stream_data[0]: "http://eu6.fastcast4u.com:5306/;|Clouds FM|Pop|SWA|128|0"
  stream_data[1]: "https://eatv.radioca.st/stream|East Africa Radio FM|African music|SWA|64|0"
  stream_data[2]: "https://radioonetanzania.radioca.st/stream|Radio One Stereo|Various|TZ|192|0"
@@ -14,6 +14,7 @@ live_stream_def : .live_streams {
  stream_data[9]: "https://uk4-vn.mixstream.net/:8052/;listen.mp3|Radio Kwizera|Various|TZ|96|0"
  stream_data[10]: "https://eu8.fastcast4u.com/proxy/nehestratfm?mp=/1|Nehestrat FM|Various|TZ|96|0"
  stream_data[11]: "https://stream.zeno.fm/xnamppblrnlvv|Glorious Online Radio|Various|TZ|128|0"
+ stream_data[12]: "https://eu4.fastcast4u.com/proxy/makiemaxradio?mp=/1|Makie Max Radio|Entertainment|KIS|96|0"
 }
 
 }

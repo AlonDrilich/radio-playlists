@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 97
+ stream_data: 98
  stream_data[0]: "http://195.95.158.131:9080/|Radio Aktual|Dalmatia|SLO|128|0"
  stream_data[1]: "http://live.radio.si/Radio1|Radio 1|Entertainment|SLO|128|0"
  stream_data[2]: "http://195.95.158.131:9060/|Radio Veseljak|Folk|SLO|128|0"
@@ -68,9 +68,9 @@ live_stream_def : .live_streams {
  stream_data[63]: "http://82.149.22.34:8000/CityMp3128.mp3|Radio City MB|Various|SI|128|0"
  stream_data[64]: "http://93.103.130.12:8080/tomi.mp3|Radio Tomi|Classic hits|ENG|128|0"
  stream_data[65]: "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;|Rock Radio|Rock|SLO|128|0"
- stream_data[66]: "https://zvok.ragla.si/gr|Retro Radio|Oldies|SLO|192|0"
- stream_data[67]: "http://stream2.radiocenter.si:8058/stream|Hitradio Center|Various|SI|128|0"
- stream_data[68]: "http://77.38.12.198:8000/radio94|Radio 94|Various|SLO|128|0"
+ stream_data[66]: "http://stream2.radiocenter.si:8058/stream|Hitradio Center|Various|SI|128|0"
+ stream_data[67]: "http://77.38.12.198:8000/radio94|Radio 94|Various|SLO|128|0"
+ stream_data[68]: "https://zvok.ragla.si/gr|Retro Radio|Oldies|SLO|192|0"
  stream_data[69]: "https://stream.rgl.si/Celje|Radio Celje|Various|SLO|128|0"
  stream_data[70]: "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream|Rock Radio Hard & Heavy SLO|Hard rock|SLO|128|0"
  stream_data[71]: "https://live.radio.si/Toti?t=1722581297315|Toti Radio|Various|SI|128|0"
@@ -87,18 +87,19 @@ live_stream_def : .live_streams {
  stream_data[82]: "https://live.radio.si/RockMB?t=1732114443550|Rock Maribor|Various|SI|128|0"
  stream_data[83]: "https://live.radio.si/Radio1Rock?t=1776880155210|Radio 1 Rock|Rock|SLO|320|0"
  stream_data[84]: "https://live.radio.si/Ptuj|Radio Ptuj|Various|SI|128|0"
- stream_data[85]: "https://live.radio.si/Maxi|Toti Maxi|Various|SI|128|0"
- stream_data[86]: "http://145.14.14.93:8016/stream/1/|Radio Ekspres SI|Various|SI|128|0"
+ stream_data[85]: "http://145.14.14.93:8016/stream/1/|Radio Ekspres SI|Various|SI|128|0"
+ stream_data[86]: "https://live.radio.si/Maxi|Toti Maxi|Various|SI|128|0"
  stream_data[87]: "http://live.radio1.si/Radio80|Radio 1 80-a|Various|SLO|320|0"
  stream_data[88]: "https://live.radio.si/Koroski|Koroski radio|Various|SLO|128|0"
  stream_data[89]: "https://live.radio1.si/Radio1KOR|Radio 1 Koroska|Commercial|SI|128|0"
- stream_data[90]: "http://live.capitalradio.sl/|Capital Radio SL|Various|SI|128|0"
- stream_data[91]: "https://radio.ambiland.space/live.mp3?src=radio-browser|Ambiland|Ambient|SI|128|0"
- stream_data[92]: "https://stream.exit.si/CLUB|Radio Capris Club|Various|SI|128|0"
- stream_data[93]: "http://stream02.exit.si:8000/NO1?|Radio Capris Number 1's|Various|SLO|128|0"
- stream_data[94]: "https://radio.ambiland.space/spatial.mp3?src=radio-browser|Ambiland Spatial|Ambient|SI|128|0"
- stream_data[95]: "https://stream.kaef.fun/stream|Kaef FM|Dance|ENG|128|0"
- stream_data[96]: "https://stream.radiometeor.si/listen/meteor/live.mp3|Radio METEOR .si|Pop|SLO|192|0"
+ stream_data[90]: "https://radio.ambiland.space/live.mp3?src=radio-browser|Ambiland|Ambient|SI|128|0"
+ stream_data[91]: "https://radio.ambiland.space/spatial.mp3?src=radio-browser|Ambiland Spatial|Ambient|SI|128|0"
+ stream_data[92]: "https://stream.kaef.fun/stream|Kaef FM|Dance|ENG|128|0"
+ stream_data[93]: "https://live.radio.si/Aktual|Radio Aktual|Balkan|CRO|128|0"
+ stream_data[94]: "http://stream02.exit.si:8000/NO1?|Radio Capris Number 1's|Various|SLO|128|0"
+ stream_data[95]: "http://live.capitalradio.sl/|Capital Radio SL|Various|SI|128|0"
+ stream_data[96]: "https://stream.exit.si/CLUB|Radio Capris Club|Various|SI|128|0"
+ stream_data[97]: "https://stream.radiometeor.si/listen/meteor/live.mp3|Radio METEOR .si|Pop|SLO|192|0"
 }
 
 }

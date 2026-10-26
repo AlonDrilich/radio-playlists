@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 61
+ stream_data: 62
  stream_data[0]: "https://cdn.cybercdn.live/103FM/Live/icecast.audio|Radio 103FM|Various|IL|128|0"
  stream_data[1]: "http://glzwizzlv.bynetcdn.com/glz_mp3|Galei Zahal|Various|HEB|128|0"
  stream_data[2]: "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE|Glglz|Various|HEB|128|0"
@@ -27,13 +27,13 @@ live_stream_def : .live_streams {
  stream_data[22]: "http://icecast.kab.tv/live1-heb-574bcfd5.mp3|\xd7\xa7\xd7\x91\xd7\x9c\xd7\x94 \xd7\x9c\xd7\xa2\xd7\x9d \xd7\xa2\xd7\x91\xd7\xa8\xd7\x99\xd7\xaa - Kabbalah heb|Ilstations|HEB|128|0"
  stream_data[23]: "http://icecast.kab.tv/live1-fre-574bcfd5.mp3|\xd7\xa7\xd7\x91\xd7\x9c\xd7\x94 \xd7\x9c\xd7\xa2\xd7\x9d \xd7\xa6\xd7\xa8\xd7\xa4\xd7\xaa\xd7\x99\xd7\xaa - Kabbalah fre|Ilstations|FRE|128|0"
  stream_data[24]: "http://s3.yesstreaming.net:7049/stream|RadioPlus|Various|IL|128|0"
- stream_data[25]: "https://icecast.live/proxy/zerock/zerock|Ze Rock Radio|Indy|ENG|128|0"
- stream_data[26]: "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz|\xd7\x92\xd7\x9c\xd7\xa6|Local music|HEB|128|0"
+ stream_data[25]: "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz|\xd7\x92\xd7\x9c\xd7\xa6|Local music|HEB|128|0"
+ stream_data[26]: "https://icecast.live/proxy/zerock/zerock|Ze Rock Radio|Indy|ENG|128|0"
  stream_data[27]: "https://www.radioking.com/play/radio-qualita|Radio Qualita|Various|FRE|128|0"
  stream_data[28]: "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3|KAN Gimel \xd7\x9b\xd7\x90\xd7\x9f \xd7\x92\xd7\x99\xd7\x9e\xd7\x9c|Various|HEB|192|0"
  stream_data[29]: "https://29073.live.streamtheworld.com/KAN_88.mp3|88 FM|Various|IL|192|0"
- stream_data[30]: "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio|Kol Rega \xd7\xa7\xd7\x95\xd7\x9c \xd7\xa8\xd7\x92\xd7\xa2 91.5/96|News|HEB|128|0"
- stream_data[31]: "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect&1737047133|Kan Bet|News|HEB|128|0"
+ stream_data[30]: "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect&1737047133|Kan Bet|News|HEB|128|0"
+ stream_data[31]: "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio|Kol Rega \xd7\xa7\xd7\x95\xd7\x9c \xd7\xa8\xd7\x92\xd7\xa2 91.5/96|News|HEB|128|0"
  stream_data[32]: "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio|radio lev hamedina|News|HEB|128|0"
  stream_data[33]: "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz|Galgalatz|Various|ENG|128|0"
  stream_data[34]: "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio|kzradio|Various|IL|128|0"
@@ -45,8 +45,8 @@ live_stream_def : .live_streams {
  stream_data[40]: "https://streaming.radio.co/sa06221901/listen|Ivri 6|Various|HEB|128|0"
  stream_data[41]: "http://rs.mizrahit.fm:7777/arabellavie|Mizrahit FM Best|Various|HEB|128|0"
  stream_data[42]: "https://listen7.myradio24.com/orenu|\xd0\x9c\xd0\xb5\xd1\x81\xd1\x81\xd0\xb8\xd0\xb0\xd0\xbd\xd1\x81\xd0\xba\xd0\xbe\xd0\xb5 \xd1\x80\xd0\xb0\xd0\xb4\xd0\xb8\xd0\xbe \xd0\x9e\xd1\x80\xd1\x8d\xd0\xbd\xd1\x83|Christian|RUS|128|0"
- stream_data[43]: "https://1062onair.runi.ac.il/idc123.mp3|AudioVersity|Various|IL|128|0"
- stream_data[44]: "https://stream10.vestaradio.com/Radio-France-Israel|Radio France Israel|Various|FRE|192|0"
+ stream_data[43]: "https://stream10.vestaradio.com/Radio-France-Israel|Radio France Israel|Various|FRE|192|0"
+ stream_data[44]: "https://1062onair.runi.ac.il/idc123.mp3|AudioVersity|Various|IL|128|0"
  stream_data[45]: "http://radio-yasoo.ath.cx:7500/;|Radio Yasoo|Greek folk|GRE|128|0"
  stream_data[46]: "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio|Radios Nostalgia 96.3FM (\xd7\xa8\xd7\x93\xd7\x99\xd7\x95\xd7\xa1 \xd7\xa0\xd7\x95\xd7\xa1\xd7\x98\xd7\x9c\xd7\x92\xd7\x99)|Various|IL|128|0"
  stream_data[47]: "https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio|Radios 100FM - 100% Mizrachit (\xd7\x9e\xd7\x96\xd7\xa8\xd7\x97\xd7\x99)|Mizrachit|IL|128|0"
@@ -54,15 +54,16 @@ live_stream_def : .live_streams {
  stream_data[49]: "https://ystream.live/ystream-mp3|yStream|Adult contemporary|IL|128|0"
  stream_data[50]: "http://listen6.myradio24.com:9000/25715|ELI NISMAN|Various|IL|128|0"
  stream_data[51]: "https://cast.breslevforyou.co.il/listen/books/radio.mp3|\xd7\x91\xd7\xa8\xd7\xa1\xd7\x9c\xd7\x91 \xd7\xa4\xd7\x95\xd7\xa8\xd7\x99\xd7\x95: \xd7\xa1\xd7\xa4\xd7\xa8\xd7\x99 \xd7\x91\xd7\xa8\xd7\xa1\xd7\x9c\xd7\x91|Books|HEB|128|0"
- stream_data[52]: "https://listen6.myradio24.com/25715|Eli Nisman Radio|Various|IL|128|0"
- stream_data[53]: "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3|Glglz - \xd7\xa8\xd7\x92\xd7\x95\xd7\xa2 (\xd7\xa1\xd7\x95\xd7\xa4\xd7\xa9\xd7\x91\xd7\x95\xd7\xa2)|Relax|IL|128|0"
- stream_data[54]: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=tunein|KAN TARBUT|Various|IL|128|0"
- stream_data[55]: "https://radio.betteradio.live/listen/better_radio/live|TIMBR Radio|Various|IL|320|0"
+ stream_data[52]: "https://radio.betteradio.live/listen/better_radio/live|TIMBR Radio|Various|IL|320|0"
+ stream_data[53]: "https://listen6.myradio24.com/25715|Eli Nisman Radio|Various|IL|128|0"
+ stream_data[54]: "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3|Glglz - \xd7\xa8\xd7\x92\xd7\x95\xd7\xa2 (\xd7\xa1\xd7\x95\xd7\xa4\xd7\xa9\xd7\x91\xd7\x95\xd7\xa2)|Relax|IL|128|0"
+ stream_data[55]: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=tunein|KAN TARBUT|Various|IL|128|0"
  stream_data[56]: "https://live.ecast.co.il/stream/khz|KHZ - \xd7\xa8\xd7\x93\xd7\x99\xd7\x95 \xd7\xa7\xd7\x95\xd7\x9c \xd7\x94\xd7\xa6\xd7\xa4\xd7\x95\xd7\x9f|Various|IL|128|0"
  stream_data[57]: "https://glzwizzlv.bynetcdn.com/glglz_rock_mp3|Glglz - Rock|Rock|IL|128|0"
- stream_data[58]: "https://radioangelika.com/stream|Radio Angelika|Greek music|HEB|128|0"
- stream_data[59]: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3|KAN Kol HaMusica \xd7\x9b\xd7\x90\xd7\x9f \xd7\xa7\xd7\x95\xd7\x9c \xd7\x94\xd7\x9e\xd7\x95\xd7\x96\xd7\x99\xd7\xa7\xd7\x94|Classical|HEB|192|0"
+ stream_data[58]: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3|KAN Kol HaMusica \xd7\x9b\xd7\x90\xd7\x9f \xd7\xa7\xd7\x95\xd7\x9c \xd7\x94\xd7\x9e\xd7\x95\xd7\x96\xd7\x99\xd7\xa7\xd7\x94|Classical|HEB|192|0"
+ stream_data[59]: "https://radioangelika.com/stream|Radio Angelika|Greek music|HEB|128|0"
  stream_data[60]: "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3|\xd7\x92\xd7\x9c\xd7\x92\xd7\x9c\xd7\xa6 \xd7\xa2\xd7\xa9\xd7\x95\xd7\xa8\xd7\x99\xd7\x9d|Various|IL|128|0"
+ stream_data[61]: "https://www.kavkazportal.com/live|\xd0\x94\xd1\x83\xd1\x88\xd0\xb0 \xd0\x9a\xd0\xb0\xd0\xb2\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0|Various|IL|128|0"
 }
 
 }

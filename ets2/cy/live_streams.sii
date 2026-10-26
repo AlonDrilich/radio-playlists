@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 37
+ stream_data: 43
  stream_data[0]: "http://r1.phileradio.com:8193/89FM|Kiss fm Cyprus 89.0|Pop|GRE|128|0"
  stream_data[1]: "http://r1.cloudskep.com/radio/diesi/icecast.audio|Diesi Cyprus 101.1|Ballads|GRE|56|0"
  stream_data[2]: "http://live3.istoikona.net:8372/stream/2/Title1=Kanali|Kanali6 (106.00 98.6 107.00 106.9) Lemesos Cyprus|Various|GRE|128|0"
@@ -21,11 +21,11 @@ live_stream_def : .live_streams {
  stream_data[16]: "https://live.enerjiplay.com/stream/dancefm|Dance FM|Various|CY|128|0"
  stream_data[17]: "https://live.vblcast.com/proxy/russianradio/stream/|\xd0\xa0\xd0\xa3\xd0\xa1\xd0\xa1\xd0\x9a\xd0\x9e\xd0\x95 \xd0\xa0\xd0\x90\xd0\x94\xd0\x98\xd0\x9e \xd0\x9a\xd0\x98\xd0\x9f\xd0\xa0|Various|ENG|128|0"
  stream_data[18]: "http://142.132.213.6:8497/stream|Mix4.me uplifitng trance web radio|Progressive trance|ENG|128|0"
- stream_data[19]: "http://93.109.209.123:9080/stream.mp3|\xce\x99.\xce\x9c. \xce\x9b\xce\xb5\xce\xbc\xce\xb5\xcf\x83\xce\xbf\xcf\x85|Christian|GRE|64|0"
- stream_data[20]: "https://radio.feelgood.fm/mp3|FEELGOOD.FM|Various|ENG|192|0"
+ stream_data[19]: "https://radio.feelgood.fm/mp3|FEELGOOD.FM|Various|ENG|192|0"
+ stream_data[20]: "http://93.109.209.123:9080/stream.mp3|\xce\x99.\xce\x9c. \xce\x9b\xce\xb5\xce\xbc\xce\xb5\xcf\x83\xce\xbf\xcf\x85|Christian|GRE|128|0"
  stream_data[21]: "http://live3.istoikona.net/proxy/cooleradio/stream|Cool Radio 91.6|Various|CY|128|0"
- stream_data[22]: "https://cdn.istoikona.com/politis/live/icecast.audio|Politis 107.6 FM|Various|CY|128|0"
- stream_data[23]: "https://stream.radiojar.com/mg7kftnzka3vv|NJOY Radio|Various|CY|128|0"
+ stream_data[22]: "https://stream.radiojar.com/mg7kftnzka3vv|NJOY Radio|Various|CY|128|0"
+ stream_data[23]: "https://cdn.istoikona.com/politis/live/icecast.audio|Politis 107.6 FM|Various|CY|128|0"
  stream_data[24]: "http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio|\xce\x9f \xce\x91\xce\xbb\xce\xb7\xce\xb8\xce\xb9\xce\xbd\xce\xbf\xcf\x82 \xce\x9b\xce\xbf\xce\xb3\xce\xbf\xcf\x82 93.3 \xce\x9b\xce\xb5\xcf\x85\xce\xba\xcf\x89\xcf\x83\xce\xb9\xce\xb1 - \xce\x99\xce\xb5\xcf\x81\xce\xb1 \xce\x91\xcf\x81\xcf\x87\xce\xb9\xce\xb5\xcf\x80\xce\xb9\xcf\x83\xce\xba\xce\xbf\xcf\x80\xce\xb7 \xce\x9a\xcf\x85\xcf\x80\xcf\x81\xce\xbf\xcf\x85|Christian|GRE|56|0"
  stream_data[25]: "https://stream1.themediasite.co.uk/8060/stream|VIVA FM 104.3|Various|CY|128|0"
  stream_data[26]: "https://radio-navagio.com/stream|\xce\x9d\xce\xb1\xcf\x85\xce\xb1\xce\xb3\xce\xb9\xce\xbf|Greek music|GRE|128|0"
@@ -35,10 +35,16 @@ live_stream_def : .live_streams {
  stream_data[30]: "http://194.154.128.242:9090/stream.mp3|\xce\x99.\xce\x9c.\xce\x9b\xce\xb5\xce\xbc\xce\xb5\xcf\x83\xce\xbf\xcf\x85|Various|CY|128|0"
  stream_data[31]: "https://radioturbo21.com/radio/stream|Radio Turbo21|Pop|CY|192|0"
  stream_data[32]: "https://live3.istoikona.net/proxy/radiotoa/stream|Radio T.O.A|Various|CY|128|0"
- stream_data[33]: "https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3|Greek Laika Nonstop Radio|Classic hits|GRE|192|0"
- stream_data[34]: "https://radyo1.radyo-dinle.tc/8256/stream|Capital Radio|Kktc|ENG|128|0"
- stream_data[35]: "https://radyo.playfm.com.tr/listen/playfm/playfm.mp3|Play FM|Kktc|TUR|128|0"
- stream_data[36]: "https://live.enerjiplay.com/stream/radyosim|Radyo Sim|Kktc|TUR|128|0"
+ stream_data[33]: "https://jujuberadio.com/chinese|Jujube Radio Chinese Classics|Cantopop|CHI|192|0"
+ stream_data[34]: "https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3|Greek Laika Nonstop Radio|Classic hits|GRE|192|0"
+ stream_data[35]: "https://jujuberadio.com/live|Jujube Radio Hits|Various|ENG|192|0"
+ stream_data[36]: "https://radyo1.radyo-dinle.tc/8256/stream|Capital Radio|Kktc|ENG|128|0"
+ stream_data[37]: "https://jujuberadio.com/classicrock|Jujube Radio Classic Rock|Classic rock|ENG|192|0"
+ stream_data[38]: "https://jujuberadio.com/dance|Jujube Radio Dance Hits|Club|ENG|192|0"
+ stream_data[39]: "https://jujuberadio.com/love|Jujube Radio Love Songs|Ballads|ENG|192|0"
+ stream_data[40]: "https://jujuberadio.com/partyclassics|Jujube Radio Party Classics|Disco|ENG|192|0"
+ stream_data[41]: "https://radyo.playfm.com.tr/listen/playfm/playfm.mp3|Play FM|Kktc|TUR|128|0"
+ stream_data[42]: "https://live.enerjiplay.com/stream/radyosim|Radyo Sim|Kktc|TUR|128|0"
 }
 
 }

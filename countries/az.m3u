@@ -70,12 +70,12 @@ https://stream.antiradio.net/listen/anti_radio/mp3
 # 72FM: https://72fm.com/station/fe74e26c-96c5-4682-9078-dbde6796a919?source=m3u
 #EXTINF:-1 group-title="Azerbaijan" radio="true",Radio Enerji 101.1 FM
 https://icecast.livetv.az/antennfm
-# 72FM: https://72fm.com/station/3a98b5ca-516e-400f-ba72-fb40e036944f?source=m3u
-#EXTINF:-1 group-title="Azerbaijan" radio="true",Azerbaycan Radiosu 105.0 FM
-http://str.yodacdn.net/radio_respublica/video.m3u8
 # 72FM: https://72fm.com/station/89dc1620-c572-4fb8-a16e-8506dab2a648?source=m3u
 #EXTINF:-1 group-title="Azerbaijan" radio="true",DalğaFM 92.5
 https://live.dinle.az/dalgafm
+# 72FM: https://72fm.com/station/3a98b5ca-516e-400f-ba72-fb40e036944f?source=m3u
+#EXTINF:-1 group-title="Azerbaijan" radio="true",Azerbaycan Radiosu 105.0 FM
+http://str.yodacdn.net/radio_respublica/video.m3u8
 # 72FM: https://72fm.com/station/6b353f38-5b59-4569-8b1e-c2ed52b7d9be?source=m3u
 #EXTINF:-1 group-title="Azerbaijan" radio="true",PlanetFM 88.7
 https://live.dinle.az/planetfm
@@ -94,12 +94,12 @@ http://icecast.livetv.az/mediamugam
 # 72FM: https://72fm.com/station/857b97de-f97e-4c08-9d19-54b108e021be?source=m3u
 #EXTINF:-1 tvg-logo="https://yurdfm.az/logo.png" group-title="Azerbaijan" radio="true",Yurd fm
 http://icecast.livetv.az/yurdfm
-# 72FM: https://72fm.com/station/8348b60b-a3a6-43e8-a83b-4e612db52fc6?source=m3u
-#EXTINF:-1 group-title="Azerbaijan" radio="true",Media fm jazz
-http://icecast.livetv.az/mediajazz
 # 72FM: https://72fm.com/station/590a06ad-56cb-4fde-b533-3b3f0c97f781?source=m3u
 #EXTINF:-1 tvg-logo="https://streamurl.link/logos/uFZrTYg4pHL.webp?t=8gWg0kVY3FJrekgVUv5NUw&e=1790020800" group-title="Azerbaijan" radio="true",Vintage Radio Azerbaijan
 https://trucker.autoliferadio.com:1045/stream
+# 72FM: https://72fm.com/station/8348b60b-a3a6-43e8-a83b-4e612db52fc6?source=m3u
+#EXTINF:-1 group-title="Azerbaijan" radio="true",Media fm jazz
+http://icecast.livetv.az/mediajazz
 # 72FM: https://72fm.com/station/d14fcc68-df6b-41a5-a3be-83731395a5bb?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s354857/images/logod.jpg?t=639109095420000000" group-title="Azerbaijan" radio="true",Baku Jazz Radio
 https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3
@@ -115,3 +115,6 @@ https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 # 72FM: https://72fm.com/station/cc427fef-7204-4c95-82ed-5362fbe6e04e?source=m3u
 #EXTINF:-1 group-title="Azerbaijan" radio="true",Balakən FM
 http://uk23freenew.listen2myradio.com:36668/;
+# 72FM: https://72fm.com/station/eaf183cb-7011-4f58-88e7-ffeee53184b5?source=m3u
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQFXVzaA2YrWHw/company-logo_200_200/B4DZ1dwTk2IoAI-/0/1775394438234?e=2147483647&v=beta&t=xfU5k86JcUVLsDsDV-OjKEay9YuvLONyb6QcPHo50mk" group-title="Azerbaijan" radio="true",Max tv Azerbaycan
+https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8
