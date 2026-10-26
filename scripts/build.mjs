@@ -874,21 +874,21 @@ ${footerHtml(generated)}`;
 function gameBlock(p) {
   const parts = [];
   if (p.ets2) {
-    parts.push(`<h3>Euro Truck Simulator 2 and American Truck Simulator</h3>
+    parts.push(`<h3><a href="../../ets2/">Euro Truck Simulator 2 and American Truck Simulator</a></h3>
 <p>A <code>live_streams.sii</code> with the ${fmtInt(p.ets2.stations)} most-voted stations from ${esc(p.name)} that the games can play (MP3 and Ogg).
 Rename the file already in your <code>Documents/Euro Truck Simulator 2</code> (or <code>American Truck Simulator</code>) folder and put this one in its place.</p>
 <div class="actions"><a class="btn" href="${esc(p.ets2.url)}">Download live_streams.sii</a>
 <a class="cta" href="${SITE}/ets2-ats-radio-stations">Pick your own stations on 72FM →</a></div>`);
   }
   if (p.farming_simulator) {
-    parts.push(`<h3>Farming Simulator 25 and 22</h3>
+    parts.push(`<h3><a href="../../farming-simulator/">Farming Simulator 25 and 22</a></h3>
 <p>A <code>streamingInternetRadios.xml</code> with ${fmtInt(p.farming_simulator.stations)} MP3 stations from ${esc(p.name)}. It goes in
 <code>Documents/My Games/FarmingSimulator2025/music</code> (<code>FarmingSimulator2022</code> for Farming Simulator 22); keep a copy of the file already there.</p>
 <div class="actions"><a class="btn" href="${esc(p.farming_simulator.url)}">Download streamingInternetRadios.xml</a>
 <a class="cta" href="${SITE}/farming-simulator-radio-stations">Pick your own stations on 72FM →</a></div>`);
   }
   if (p.garrys_mod) {
-    parts.push(`<h3>Garry's Mod (3D Stream Radio)</h3>
+    parts.push(`<h3><a href="../../garrys-mod/">Garry's Mod (3D Stream Radio)</a></h3>
 <p>A playlist with ${fmtInt(p.garrys_mod.stations)} stations from ${esc(p.name)} for a server's <code>garrysmod/data/streamradio/playlists</code> folder; keep the
 <code>_pls.txt</code> ending. On a multiplayer server the radio plays only addresses in these playlists, so the file also whitelists the stations
 (run <code>sv_streamradio_url_whitelist_reload</code> after adding it).</p>
@@ -977,7 +977,7 @@ Streams go offline or move between checks, so some entries will not play.</p>
 <p><strong>Command line download:</strong></p>
 <pre><code>curl -LO ${esc(RAW_BASE)}/genres/jazz.m3u</code></pre>
 <p><strong>WiiM:</strong> in the WiiM Home app, Browse → Open Network Stream → Import Streams takes a downloaded <code>.m3u</code> file as a list of stations (<a href="${SITE}/guide/wiim-add-radio-station">step by step</a>).</p>
-<p><strong>Games:</strong> each country page also has ready-made radio files for Euro Truck Simulator 2 and American Truck Simulator (<code>live_streams.sii</code>), Farming Simulator 25 and 22 (<code>streamingInternetRadios.xml</code>) and Garry's Mod's 3D Stream Radio (a <code>_pls.txt</code> playlist), each with only stations the game can play. To choose your own stations, use 72FM's builders for <a href="${SITE}/ets2-ats-radio-stations">ETS2 and ATS</a>, <a href="${SITE}/farming-simulator-radio-stations">Farming Simulator</a> and <a href="${SITE}/garrys-mod-radio-stations">Garry's Mod</a>.</p>
+<p><strong>Games:</strong> radio files by country for <a href="ets2/">Euro Truck Simulator 2 and American Truck Simulator</a>, <a href="farming-simulator/">Farming Simulator</a> and <a href="garrys-mod/">Garry's Mod</a>. Each country page also has ready-made radio files for Euro Truck Simulator 2 and American Truck Simulator (<code>live_streams.sii</code>), Farming Simulator 25 and 22 (<code>streamingInternetRadios.xml</code>) and Garry's Mod's 3D Stream Radio (a <code>_pls.txt</code> playlist), each with only stations the game can play. To choose your own stations, use 72FM's builders for <a href="${SITE}/ets2-ats-radio-stations">ETS2 and ATS</a>, <a href="${SITE}/farming-simulator-radio-stations">Farming Simulator</a> and <a href="${SITE}/garrys-mod-radio-stations">Garry's Mod</a>.</p>
 <p>More player notes (pyradio, Home Assistant, ESP32 and Raspberry Pi) are in the <a href="${REPO_URL}#how-to-use">README</a>.</p>
 <h2 id="genres">Genres</h2>
 <p class="muted">“300 of 1,234” means the playlist holds the ${PER_FILE_CAP} most-voted of that many matching stations.</p>
@@ -1017,6 +1017,70 @@ ${footerHtml(generated)}`;
   return htmlPage({ title, description, canonical: PAGES_BASE, body, jsonLd });
 }
 
+/**
+ * One page per game listing every country's ready-made file — the place a player searching for
+ * "ETS2 radio stations list" or "Farming Simulator 25 radio stations" can take their country's file
+ * from, and find the 72FM builder for a list of their own.
+ */
+const GAME_HUBS = [
+  {
+    key: 'ets2', path: 'ets2/',
+    title: 'ETS2 and ATS radio stations by country — live_streams.sii downloads',
+    h1: 'Euro Truck Simulator 2 and American Truck Simulator radio stations by country',
+    description: (n) => `Ready-made live_streams.sii radio lists for Euro Truck Simulator 2 and American Truck Simulator, one for each of ${n} countries, with only MP3 and Ogg stations the games can play. Updated weekly.`,
+    intro: (n) => `Euro Truck Simulator 2 and American Truck Simulator read their internet radio from one file, <code>live_streams.sii</code>. Below is a ready-made file for each of ${fmtInt(n)} countries, holding up to 100 of its most-voted stations that the games can play: MP3 and Ogg streams, from the public-domain <a href="https://www.radio-browser.info">Radio Browser</a> directory, rebuilt every week.`,
+    install: 'Close the game, rename the <code>live_streams.sii</code> already in your <code>Documents/Euro Truck Simulator 2</code> folder (or <code>American Truck Simulator</code>), put the downloaded file in its place under the same name, and start the game.',
+    builder: { href: `${SITE}/ets2-ats-radio-stations`, label: 'Build your own list from several countries on 72FM' },
+    field: 'ets2', fileLabel: 'live_streams.sii',
+  },
+  {
+    key: 'farming-simulator', path: 'farming-simulator/',
+    title: 'Farming Simulator 25 radio stations by country — streamingInternetRadios.xml',
+    h1: 'Farming Simulator 25 and 22 radio stations by country',
+    description: (n) => `Ready-made streamingInternetRadios.xml files for Farming Simulator 25 and 22, one for each of ${n} countries, with up to 100 MP3 stations each. Updated weekly.`,
+    intro: (n) => `Farming Simulator 25 plays internet radio from a list in <code>streamingInternetRadios.xml</code>. Below is a ready-made file for each of ${fmtInt(n)} countries, with up to 100 of its most-voted MP3 stations, from the public-domain <a href="https://www.radio-browser.info">Radio Browser</a> directory, rebuilt every week. It works for Farming Simulator 22 too.`,
+    install: 'Close the game and put the file in <code>Documents/My Games/FarmingSimulator2025/music</code> (<code>FarmingSimulator2022</code> for Farming Simulator 22), keeping a copy of the file already there. The name has to stay <code>streamingInternetRadios.xml</code>.',
+    builder: { href: `${SITE}/farming-simulator-radio-stations`, label: 'Pick your own stations on 72FM' },
+    field: 'farming_simulator', fileLabel: 'streamingInternetRadios.xml',
+  },
+  {
+    key: 'garrys-mod', path: 'garrys-mod/',
+    title: "Garry's Mod 3D Stream Radio playlists by country — radio stations",
+    h1: "Garry's Mod radio stations by country — 3D Stream Radio playlists",
+    description: (n) => `Ready-made 3D Stream Radio playlists for Garry's Mod servers, one for each of ${n} countries, that add and whitelist real radio stations. Updated weekly.`,
+    intro: (n) => `On a multiplayer server, Garry's Mod's 3D Stream Radio plays only addresses found in the server's playlist files. Below is a ready-made playlist for each of ${fmtInt(n)} countries, with up to 100 of its most-voted stations in formats the radio lists (MP3, OGG, AAC, FLAC), from the public-domain <a href="https://www.radio-browser.info">Radio Browser</a> directory, rebuilt every week.`,
+    install: 'Put the file in <code>garrysmod/data/streamradio/playlists</code> on your server, keeping the <code>_pls.txt</code> ending, then run <code>sv_streamradio_url_whitelist_reload</code> (or restart the server). The stations then appear in the radio\'s playlist browser.',
+    builder: { href: `${SITE}/garrys-mod-radio-stations`, label: 'Pick your own stations on 72FM' },
+    field: 'garrys_mod', fileLabel: 'playlist',
+  },
+];
+
+function gameHubPage(hub, index) {
+  const rows = index.playlists.filter((p) => p.type === 'country' && p[hub.field]);
+  const n = rows.length;
+  const table = rows
+    .map((p) => `<tr><td>${p.flag}</td><td class="name"><a href="../country/${esc(p.id)}/">${esc(p.name)}</a></td><td class="num">${fmtInt(p[hub.field].stations)}</td>` +
+      `<td class="nw"><a href="${esc(p[hub.field].url)}">Download ${esc(hub.fileLabel)}</a></td></tr>`)
+    .join('\n');
+  const others = GAME_HUBS.filter((h) => h.key !== hub.key).map((h) => `<a href="../${h.path}">${esc(h.h1.split(' radio stations')[0])}</a>`).join(' · ');
+  const body = `<p class="crumbs"><a href="../">All playlists</a> › ${esc(hub.h1.split(' radio stations')[0])}</p>
+<h1>${esc(hub.h1)}</h1>
+<p>${hub.intro(n)}</p>
+<p><strong>How to install:</strong> ${hub.install}</p>
+<p class="actions"><a class="cta" href="${esc(hub.builder.href)}">${esc(hub.builder.label)} →</a></p>
+<p class="muted">Streams belong to their stations and go offline or move from time to time, so a few entries may not play. 72FM is not connected with the games' makers.</p>
+<h2>Files by country (${fmtInt(n)})</h2>
+<div class="tw"><table>
+<thead><tr><th></th><th>Country</th><th class="num">Stations</th><th>File</th></tr></thead>
+<tbody>
+${table}
+</tbody>
+</table></div>
+<p>Radio files for other games: ${others}</p>
+${footerHtml(index.generated)}`;
+  return { path: hub.path, html: htmlPage({ title: hub.title, description: hub.description(n), canonical: PAGES_BASE + hub.path, body }) };
+}
+
 async function writeSite(index, entriesOf) {
   const files = [['index.html', indexPage(index)]];
   for (const p of index.playlists) {
@@ -1027,6 +1091,11 @@ async function writeSite(index, entriesOf) {
   const topList = index.playlists.find((p) => p.type === 'top');
   if (topList) {
     const page = topPage(topList, entriesOf.get(`top:${topList.id}`) ?? [], index.generated);
+    files.push([`${page.path}index.html`, page.html]);
+  }
+  for (const hub of GAME_HUBS) {
+    if (!index.playlists.some((p) => p.type === 'country' && p[hub.field])) continue;
+    const page = gameHubPage(hub, index);
     files.push([`${page.path}index.html`, page.html]);
   }
   const urls = files.map(([f]) => PAGES_BASE + f.replace(/index\.html$/, ''));
@@ -1107,10 +1176,11 @@ Rename the \`live_streams.sii\` in your \`Documents/Euro Truck Simulator 2\` (or
 \`American Truck Simulator\`) folder, put the downloaded one in its place, and start the game.
 The **ETS2 / ATS** column in the country table below links each file. To pick your own stations from
 several countries, use the [ETS2 and ATS radio list builder](https://72fm.com/ets2-ats-radio-stations).
+All countries on one page: [ETS2 and ATS radio stations by country](${PAGES_BASE}ets2/).
 
 ## Farming Simulator and Garry's Mod
 
-The same weekly build also writes, per country:
+The same weekly build also writes, per country: (all countries on one page: [Farming Simulator](${PAGES_BASE}farming-simulator/) · [Garry's Mod](${PAGES_BASE}garrys-mod/))
 
 - [\`farming-simulator/<country>/streamingInternetRadios.xml\`](farming-simulator/): up to ${GAME_CAP} MP3 stations for
   Farming Simulator 25 and 22. Put it in \`Documents/My Games/FarmingSimulator2025/music\` (keep a copy of the file
