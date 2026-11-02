@@ -4,18 +4,12 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/1dc3ae71-b19a-46bc-8ad5-54d6defda867?source=m3u
-#EXTINF:-1 group-title="Rwanda" radio="true",Radio 1
-http://80.241.215.175:5000/;
 # 72FM: https://72fm.com/station/8ff1237e-5f8e-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Rwanda" radio="true",RADIO MARIA RWANDA
 http://dreamsiteradiocp.com:8044/stream
 # 72FM: https://72fm.com/station/f2f65d44-2101-4742-9c93-314f124dedbf?source=m3u
 #EXTINF:-1 group-title="Rwanda" radio="true",Magic FM
 http://listen.rba.co.rw:8080/
-# 72FM: https://72fm.com/station/78b3baa9-bdc4-422a-821a-63a917de1321?source=m3u
-#EXTINF:-1 group-title="Rwanda" radio="true",Heaven FM Radio Rwanda
-http://stream.zeno.fm/eequgfw72hhvv
 # 72FM: https://72fm.com/station/78602731-7afd-4e17-b418-b38f2f222add?source=m3u
 #EXTINF:-1 group-title="Rwanda" radio="true",90.7 Magic FM
 http://listen.rba.co.rw:8080/;
@@ -28,3 +22,6 @@ https://stream.zeno.fm/k5rq7qwkggauv
 # 72FM: https://72fm.com/station/c3fc59e5-c064-44a4-be84-e414e4b3343e?source=m3u
 #EXTINF:-1 tvg-logo="https://travelradio.live/wp-content/uploads/2021/10/cropped-travel-radio-logo-original-1-192x192.png" group-title="Rwanda" radio="true",Travel Radio Live
 https://travel-radio-live.radiocult.fm/stream
+# 72FM: https://72fm.com/station/37c113d8-52c3-4988-95d2-196943bfaa82?source=m3u
+#EXTINF:-1 group-title="Rwanda" radio="true",KISS FM 102.3
+https://kissfm-atunwadigital.streamguys1.com/kissfm

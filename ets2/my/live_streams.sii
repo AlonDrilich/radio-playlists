@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 31
+ stream_data: 32
  stream_data[0]: "http://eu8.fastcast4u.com:5068/;|Jazz Lounge|Classic jazz|ENG|320|0"
  stream_data[1]: "https://stream.zeno.fm/hiut6cwfoneuv|Slow Rock 90'|Classic rock|MAL|128|0"
  stream_data[2]: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3|Klasik FM 101,1 MHz|Various|MAL|96|0"
@@ -33,6 +33,7 @@ live_stream_def : .live_streams {
  stream_data[28]: "https://stream.zeno.fm/zqxbxkviipcvv|Music Vault FM|Oldies|ENG|128|0"
  stream_data[29]: "https://stream.zeno.fm/z53ycf1iwhnvv|FAKHRULNOIR FM|Various|MY|128|0"
  stream_data[30]: "https://a.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3|BIGCOWFM\xe5\xa4\xa7\xe7\x89\x9b\xe7\xbd\x91\xe7\xbb\x9c\xe7\x94\xb5\xe5\x8f\xb0 \xe9\xa9\xac\xe6\x9d\xa5\xe8\xa5\xbf\xe4\xba\x9a\xe4\xb8\xad\xe6\x96\x87\xe7\xbd\x91\xe7\xbb\x9c\xe7\x94\xb5\xe5\x8f\xb0|Ai music|CHI|128|0"
+ stream_data[31]: "https://22253.live.streamtheworld.com/BFM_SC|BFM 89.9 Malaysia|Business news|ENG|96|0"
 }
 
 }

@@ -6,12 +6,12 @@
     <streamingInternetRadio href="http://icy.unitedradio.it/VirginRockClassics.mp3" />
     <!-- Radio 24 il sole 24 ore -->
     <streamingInternetRadio href="http://shoutcast2.radio24.it:8000/;" />
+    <!-- Radio Armisa -->
+    <streamingInternetRadio href="https://onair.armisa.it/listen/armisa/radio.mp3" />
     <!-- Radio 105 Network -->
     <streamingInternetRadio href="http://icecast.unitedradio.it/Radio105.mp3" />
     <!-- Rai Radio 2 -->
     <streamingInternetRadio href="http://icestreaming.rai.it/2.mp3" />
-    <!-- Radio Armisa -->
-    <streamingInternetRadio href="https://onair.armisa.it/listen/armisa/radio.mp3" />
     <!-- Rai Radio 3 -->
     <streamingInternetRadio href="http://icestreaming.rai.it/3.mp3" />
     <!-- RMC Radio Monte Carlo -->
@@ -61,7 +61,7 @@
     <!-- RMC Buddha-Bar -->
     <streamingInternetRadio href="http://edge.radiomontecarlo.net/rmcweb002" />
     <!-- Radio Kiss Kiss -->
-    <streamingInternetRadio href="http://wma07.fluidstream.net:4610/" />
+    <streamingInternetRadio href="http://wma08.fluidstream.net:4610/" />
     <!-- Rai Isoradio -->
     <streamingInternetRadio href="http://icestreaming.rai.it/6.mp3" />
     <!-- Rai Radio Classica Filodiffusione -->
@@ -70,8 +70,6 @@
     <streamingInternetRadio href="https://icy.unitedradio.it/um016.mp3" />
     <!-- Radio 105 - Zoo Radio -->
     <streamingInternetRadio href="http://icy.unitedradio.it/105Zoo.mp3" />
-    <!-- NEW HITS RADIO Italia -->
-    <streamingInternetRadio href="https://newhitsradio.streamingmedia.it/play" />
     <!-- MUSIC STAR Roger Waters - Pink Floyd -->
     <streamingInternetRadio href="http://icy.unitedradio.it/VirginRogerWaters.mp3" />
     <!-- RDS relax -->
@@ -136,14 +134,12 @@
     <streamingInternetRadio href="http://edge.radiomontecarlo.net/rmcweb015" />
     <!-- RMC Marine -->
     <streamingInternetRadio href="http://edge.radiomontecarlo.net/rmcweb010" />
-    <!-- RMC Party -->
-    <streamingInternetRadio href="http://edge.radiomontecarlo.net/rmcweb018" />
     <!-- RTR 99 Canale Pooh -->
     <streamingInternetRadio href="https://rtr99.fluidstream.eu/rtr99_pooh.mp3" />
+    <!-- RMC Party -->
+    <streamingInternetRadio href="http://edge.radiomontecarlo.net/rmcweb018" />
     <!-- RADIO NOSTALGIA PIEMONTE -->
     <streamingInternetRadio href="http://rn1.fluidstream.eu/nostalgia_pv.mp3?FLID=1&amp;aw_0_req.gdpr=true&amp;type=.mp3" />
-    <!-- Radio Balla Balla -->
-    <streamingInternetRadio href="http://ice09.fluidstream.net/ballaballa.mp3?FLID=6" />
     <!-- Virgin Radio Rock Alternative -->
     <streamingInternetRadio href="http://icy.unitedradio.it/VirginRockAlternative.mp3" />
     <!-- Radio Marconi 2 'Musica Clasica' -->
@@ -172,10 +168,10 @@
     <streamingInternetRadio href="http://edge.radiomontecarlo.net/rmcweb011" />
     <!-- Rai Radio Kids -->
     <streamingInternetRadio href="http://icestreaming.rai.it/11.mp3" />
-    <!-- MUSIC STAR Queen -->
-    <streamingInternetRadio href="http://icecast.unitedradio.it/Virgin_05.mp3" />
     <!-- Radio 80 Afro -->
     <streamingInternetRadio href="https://sphera.fluidstream.eu/r80_afro.mp3" />
+    <!-- MUSIC STAR Queen -->
+    <streamingInternetRadio href="http://icecast.unitedradio.it/Virgin_05.mp3" />
     <!-- Radio 70 80 90 Marche -->
     <streamingInternetRadio href="https://rblive.it:8020/radio.mp3" />
     <!-- Love FM -->
@@ -196,8 +192,12 @@
     <streamingInternetRadio href="https://radiorossini.stream.laut.fm/radiorossini" />
     <!-- Radio Amore One Dance Catania -->
     <streamingInternetRadio href="http://onair22.streaming.xdevel.com:10010/;stream.mp3" />
-    <!-- Radio Nostalgia Liguria -->
-    <streamingInternetRadio href="http://wma08.fluidstream.net:8000/listen.pls" />
     <!-- RMC Voyage Voyage -->
     <streamingInternetRadio href="http://edge.radiomontecarlo.net/rmcweb022" />
+    <!-- Radio Nostalgia Liguria -->
+    <streamingInternetRadio href="http://wma08.fluidstream.net:8000/listen.pls" />
+    <!-- Radio Nuova San Giorgio -->
+    <streamingInternetRadio href="http://eu1.fastcast4u.com:10942/stream" />
+    <!-- Radio Studio Più - The Dance Station -->
+    <streamingInternetRadio href="http://77.241.4.100:8010/;" />
 </streamingInternetRadios>

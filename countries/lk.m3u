@@ -22,9 +22,6 @@ https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/
 # 72FM: https://72fm.com/station/508ca6eb-e001-11e8-a9cc-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Sri Lanka" radio="true",SLBC -Radio Sri Lanka
 http://220.247.227.20:8000/RSLstream
-# 72FM: https://72fm.com/station/5ad9ac86-e034-11e8-a9cc-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Sri Lanka" radio="true",Sitha FM
-http://shaincast.caster.fm:48148/listen.mp3
 # 72FM: https://72fm.com/station/d63b555f-e000-11e8-a9cc-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Sri Lanka" radio="true",SLBC -Welanda Sewaya
 http://220.247.227.6:8000/Scomstream
@@ -64,12 +61,12 @@ https://rangiri.radioca.st/stream
 # 72FM: https://72fm.com/station/81efb1d0-b644-4398-a26f-edd0c5dda269?source=m3u
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/rl/img/ico/apple-touch-icon-120x120.png" group-title="Sri Lanka" radio="true",Lankasri fm
 http://media2.lankasri.fm/;stream.mp3
-# 72FM: https://72fm.com/station/cbf5edde-190d-4bfd-a246-2e6ac81c0b62?source=m3u
-#EXTINF:-1 group-title="Sri Lanka" radio="true",Classic Radio
-https://cp11.serverse.com/proxy/classic/stream
 # 72FM: https://72fm.com/station/310bf19d-4ac8-4549-904c-891909b9bc00?source=m3u
 #EXTINF:-1 group-title="Sri Lanka" radio="true",Siyatha Fm
 https://srv01.onlineradio.voaplus.com/siyathafm
+# 72FM: https://72fm.com/station/cbf5edde-190d-4bfd-a246-2e6ac81c0b62?source=m3u
+#EXTINF:-1 group-title="Sri Lanka" radio="true",Classic Radio
+https://cp11.serverse.com/proxy/classic/stream
 # 72FM: https://72fm.com/station/ae628010-757c-4b08-8be6-1c04581f7021?source=m3u
 #EXTINF:-1 group-title="Sri Lanka" radio="true",bestcoast.fm
 http://streams.radio.co/sea5dddd6b/listen
@@ -157,9 +154,6 @@ https://a3.asurahosting.com/listen/ranfm/radio.mp3
 # 72FM: https://72fm.com/station/19c6399f-7321-4206-a424-62ac1508cb61?source=m3u
 #EXTINF:-1 tvg-logo="https://kissfm.lk/kisslogo.png" group-title="Sri Lanka" radio="true",Kiss FM Sri Lanka
 https://srv02.onlineradio.voaplus.com/kissfm
-# 72FM: https://72fm.com/station/bdfa6f41-ddce-47d2-934d-244a9628d82e?source=m3u
-#EXTINF:-1 group-title="Sri Lanka" radio="true",Pirai FM
-http://220.247.234.207:8000/piraistream
 # 72FM: https://72fm.com/station/eec9aee1-4bd0-4ad7-8c75-add44bc92ef7?source=m3u
 #EXTINF:-1 group-title="Sri Lanka" radio="true",Jothi FM
 https://radio-station.hadawatha.lk/listen/jothi-fm/radio.mp3
@@ -181,12 +175,15 @@ https://stream.tamilocean.com/isailive/
 # 72FM: https://72fm.com/station/bf2ce310-ffa1-4fac-92d2-87421d61b7f8?source=m3u
 #EXTINF:-1 group-title="Sri Lanka" radio="true",Hadawatha FM
 https://radio-station.hadawatha.lk/listen/hadawatha-fm/radio.mp3
-# 72FM: https://72fm.com/station/0fdd499c-9a1b-4d20-ae11-925fb159f1aa?source=m3u
-#EXTINF:-1 group-title="Sri Lanka" radio="true",Kandurata Sevaya Kandy
-http://220.247.227.20:8000/kandystream
 # 72FM: https://72fm.com/station/75a51de4-c83b-4b3c-b5ee-0fe9b3b40853?source=m3u
 #EXTINF:-1 group-title="Sri Lanka" radio="true",Radioeka
 https://stream.zeno.fm/n86me57rzv8uv
+# 72FM: https://72fm.com/station/0fdd499c-9a1b-4d20-ae11-925fb159f1aa?source=m3u
+#EXTINF:-1 group-title="Sri Lanka" radio="true",Kandurata Sevaya Kandy
+http://220.247.227.20:8000/kandystream
+# 72FM: https://72fm.com/station/14521739-9697-46b1-95cb-8985b3766857?source=m3u
+#EXTINF:-1 group-title="Sri Lanka" radio="true",Shaa FM
+https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden
 # 72FM: https://72fm.com/station/425e8c93-790d-4100-9868-f107923af220?source=m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RWR11qb.png" group-title="Sri Lanka" radio="true",Radio.lk
 https://stream.zeno.fm/fz1quc2fzacuv

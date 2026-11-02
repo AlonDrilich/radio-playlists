@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 8
+ stream_data: 9
  stream_data[0]: "http://dreamsiteradiocp.com:8082/stream|RADIO MARIA PANAMA|Catholic|PA|64|0"
  stream_data[1]: "http://rosetta.shoutca.st:9264/stream|AM Original 1180 Veraguas|Folkloric|SPA|96|0"
  stream_data[2]: "http://rosetta.shoutca.st:8931/;|Original Stereo 90.7 FM|Cumbia|SPA|192|0"
@@ -10,6 +10,7 @@ live_stream_def : .live_streams {
  stream_data[5]: "https://server.laradio.online/proxy/edwin_chacon?mp=/stream|AL TOPE RADIO|Various|PA|320|0"
  stream_data[6]: "https://original.radioca.st/;|Original Stereo 90.7 FM|Various|PA|192|0"
  stream_data[7]: "https://icy.cloudrad.io/5b3fc6b1|Okey 96.3 FM|Various|SPA|128|0"
+ stream_data[8]: "https://mediastreamm.com/8254/stream|Radio Onda Exitos Panama|Musica latina|ESP|192|0"
 }
 
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 19
+ stream_data: 21
  stream_data[0]: "https://listen1.myradio24.com/5967|Radio 90s Eurodance|Eurodance|KZ|192|0"
  stream_data[1]: "http://91.201.214.229:8000/zhulduz|Zhulduz Radio|Classic hits|KAZ|128|0"
  stream_data[2]: "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio|Qazaq radiosy|Etnic|KAZ|64|0"
@@ -21,6 +21,8 @@ live_stream_def : .live_streams {
  stream_data[16]: "https://streams.svetilo.online/listen/svetilo.online/radio.mp3|SVETILO.ONLINE - \xd0\xb4\xd1\x83\xd1\x85\xd0\xbe\xd0\xb2\xd0\xbd\xd0\xbe - \xd0\xbe\xd1\x81\xd0\xbe\xd0\xb7\xd0\xbd\xd0\xb0\xd0\xbd\xd0\xbd\xd0\xbe\xd0\xb5|Various|KZ|192|0"
  stream_data[17]: "https://listen2.myradio24.com/8334|\xd0\xa0\xd0\xb0\xd0\xb4\xd0\xb8\xd0\xbe 7 \xd0\xa1\xd0\xb5\xd0\xbc\xd0\xb5\xd0\xb8|Various|KZ|128|0"
  stream_data[18]: "https://stream4.rcast.net/74046|MUZZONE RADIO|Various|KZ|128|0"
+ stream_data[19]: "http://89.219.34.117:8008/NEWENERGY|Energy FM 102.2 Almaty|Dance|RUS|128|0"
+ stream_data[20]: "https://service.luxfm.kz/bc/live|Lux FM Kazakhstan|Culture|RUS|128|0"
 }
 
 }

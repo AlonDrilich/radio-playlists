@@ -4,12 +4,12 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/67025f0b-0c27-4996-8846-388b49744c3d?source=m3u
-#EXTINF:-1 group-title="Vatican City" radio="true",Radio Vaticana Italia
-https://radio.vaticannews.va/stream-it
 # 72FM: https://72fm.com/station/5e5546ea-e811-4351-bb90-1cef3ed5be71?source=m3u
 #EXTINF:-1 tvg-logo="https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/2021.02.09-Logo-Radio-Vaticana.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1000.563.jpeg" group-title="Vatican City" radio="true",Radio Vaticana English
 https://radio.vaticannews.va/stream-en
+# 72FM: https://72fm.com/station/67025f0b-0c27-4996-8846-388b49744c3d?source=m3u
+#EXTINF:-1 group-title="Vatican City" radio="true",Radio Vaticana Italia
+https://radio.vaticannews.va/stream-it
 # 72FM: https://72fm.com/station/2fac88af-0312-404f-b7bd-cd59bdda0540?source=m3u
 #EXTINF:-1 tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png" group-title="Vatican City" radio="true",Radio Vaticana Deutsch
 https://radio.vaticannews.va/stream-de

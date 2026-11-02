@@ -1,13 +1,13 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 35
- stream_data[0]: "http://stream.zeno.fm/pnwpbyfambruv|Radio Panamericana|Cultura|SPA|112|0"
+ stream_data: 36
+ stream_data[0]: "http://stream.zeno.fm/pnwpbyfambruv|Radio Panamericana|Cultura|SPA|192|0"
  stream_data[1]: "https://emiteradio.com/proxy/cumbia90s?mp=/stream|Radio Cumbia 90s|Bailable|SPA|128|0"
  stream_data[2]: "https://cast6.asurahosting.com/proxy/irfradio/stream|Radio Chacaltaya|Various|BO|128|0"
- stream_data[3]: "http://149.56.175.167:5654/;|Radio Fides Cbba|Fides|SPA|96|0"
+ stream_data[3]: "http://149.56.175.167:5654/;|Radio Fides Cbba|Fides|SPA|56|0"
  stream_data[4]: "https://emiteradio.com/proxy/uyuni2?mp=/stream|Red Uyuni: Radio Recuerdos|Latina|SPA|128|0"
- stream_data[5]: "https://usa14.fastcast4u.com/proxy/gfloresc?mp=/1|Radio Fides Cochabamba|Musica|SPA|96|0"
+ stream_data[5]: "https://usa14.fastcast4u.com/proxy/gfloresc?mp=/1|Radio Fides Cochabamba|Musica|SPA|56|0"
  stream_data[6]: "https://emiteradio.com/proxy/uyuni?mp=/stream|Radio Folklorica Uyuni|Bolivia|CAS|128|0"
  stream_data[7]: "http://dreamsiteradiocp4.com:8022/stream|RADIO MARIA BOLIVIA|Catholic|BO|64|0"
  stream_data[8]: "https://spanel.gcomstreaming.com/8018/stream|Fm La Paz 96.7|Musica|SPA|128|0"
@@ -16,7 +16,7 @@ live_stream_def : .live_streams {
  stream_data[11]: "https://cast6.my-control-panel.com/proxy/radiostr/;|Radio Exito (Bolivia)|Various|SPA|128|0"
  stream_data[12]: "https://cast6.asurahosting.com/proxy/radiost4/stream|Radio Qhana FM98.5|Various|SPA|128|0"
  stream_data[13]: "https://sp5.servidorrprivado.com/8789/stream|Eres Radio 98.5 FM|Baladas en espanol|ENG|128|0"
- stream_data[14]: "http://usa14.fastcast4u.com:5654/stream|Radio Fides Cochabamba 94.9 FM|Clasicos|SPA|96|0"
+ stream_data[14]: "http://usa14.fastcast4u.com:5654/stream|Radio Fides Cochabamba 94.9 FM|Clasicos|SPA|56|0"
  stream_data[15]: "http://sc10.conectarhosting.com/proxy/derribadorradio/;|El Derribador Radio|Futbol|SPA|96|0"
  stream_data[16]: "https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3|Radio Estrella 93.1 FM|Alternative rock|ENG|128|0"
  stream_data[17]: "https://cesarradio.realserver.es/listen/diana_d_/radio.mp3|Diana D 102.1 FM|Classic hits|ENG|128|0"
@@ -34,9 +34,10 @@ live_stream_def : .live_streams {
  stream_data[29]: "https://server1.fex.red/letanias/stream|Radio GAM Viacha|Institucional|SPA|128|0"
  stream_data[30]: "https://radio.yoemito.net/listen/centrofm/stream|radio centro cochabamba|Various|ESP|128|0"
  stream_data[31]: "https://usa13.fastcast4u.com/proxy/fideslapaz?mp=/1|Radio Fides La Paz|Musica y noticias|SPA|96|0"
- stream_data[32]: "https://stream.zeno.fm/dinhdjwdjeltv|Radio Oueblo|Various|ESP|128|0"
- stream_data[33]: "https://radio.zetaxworld.xyz/stream.mp3|ZetaxWorld Radio|Adult contemporary|ESP|128|0"
+ stream_data[32]: "https://stream.zeno.fm/dinhdjwdjeltv|Radio Pueblo|Various|ESP|128|0"
+ stream_data[33]: "https://live.turadiotv.com/8030/stream|Radio Mega Rurrenabaque|Various|BO|112|0"
  stream_data[34]: "https://stream.zeno.fm/uhw8478m208uv|Radio Pueblo Bolivia|Various|BO|128|0"
+ stream_data[35]: "https://radio.zetaxworld.xyz/stream.mp3|ZetaxWorld Radio|Adult contemporary|ESP|128|0"
 }
 
 }

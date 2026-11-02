@@ -4,6 +4,8 @@
     <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA.mp3" />
     <!-- La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina -->
     <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3" />
+    <!-- El Destape Radio -->
+    <streamingInternetRadio href="https://ipanel.instream.audio/8004/stream" />
     <!-- Radio Nacional Folklorica 98.7 -->
     <streamingInternetRadio href="http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38" />
     <!-- Radio Nacional Rock 93.7 -->
@@ -14,6 +16,8 @@
     <streamingInternetRadio href="http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1" />
     <!-- Cadena 3 Cordoba -->
     <streamingInternetRadio href="https://liveradio.mediainbox.net/radio3.mp3" />
+    <!-- AM 530 Somos radio -->
+    <streamingInternetRadio href="https://ipanel.instream.audio:7000/stream" />
     <!-- The Musical Box Radio -->
     <streamingInternetRadio href="http://albireo.shoutca.st:9740/stream" />
     <!-- Radio Disney Argentina 94.3. Ciudad de Buenos Aires -->
@@ -47,17 +51,17 @@
     <!-- LRA1 Radio Nacional Argentina -->
     <streamingInternetRadio href="https://sa.mp3.icecast.magma.edge-access.net/sc_rad1" />
     <!-- D Sports Radio -->
-    <streamingInternetRadio href="http://27383.live.streamtheworld.com:3690/DSPORTSRADIO_SC" />
+    <streamingInternetRadio href="http://26483.live.streamtheworld.com:3690/DSPORTSRADIO_SC" />
     <!-- Radio Saint Germain -->
     <streamingInternetRadio href="http://173.255.205.241:8200/" />
     <!-- Radio Cadena 3 -->
     <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO3_SC" />
     <!-- Radio DeeJay 92.5 -->
     <streamingInternetRadio href="http://streaming.radiosenlinea.com.ar:9640/" />
-    <!-- Milenium 94.1 FM -->
-    <streamingInternetRadio href="http://23.111.184.195:8020/mileniumrosario.mp3" />
     <!-- Bar de Blues Radio -->
     <streamingInternetRadio href="https://streamingraddios.online/proxy/bardeblues?mp=/stream" />
+    <!-- Milenium 94.1 FM -->
+    <streamingInternetRadio href="http://23.111.184.195:8020/mileniumrosario.mp3" />
     <!-- FM UTN Mendoza -->
     <streamingInternetRadio href="http://streaming.fmutn.com.ar:8000/FMUTN#;.mp3" />
     <!-- LT8 AM830 -->
@@ -72,10 +76,10 @@
     <streamingInternetRadio href="https://ssl.radiosnethosting.com/index.php?port=9072" />
     <!-- Radio 5: Mitre AM790 -->
     <streamingInternetRadio href="https://radio.eduneu.eu:8040/radio.mp3" />
-    <!-- Radio 2 -->
-    <streamingInternetRadio href="https://cdn.instream.audio/:9056/stream?_=1680ada412b" />
     <!-- Cadena Heat -->
     <streamingInternetRadio href="https://liveradio.mediainbox.net/fmcordoba.mp3" />
+    <!-- Radio 2 -->
+    <streamingInternetRadio href="https://cdn.instream.audio/:9056/stream?_=1680ada412b" />
     <!-- Radio Boing 97.3 Rosario -->
     <streamingInternetRadio href="https://streaming.redboing.com/radio/8000/radio.aac" />
     <!-- Radio Dos Corrientes FM 99.3. Ciudad de Corrientes -->
@@ -94,12 +98,10 @@
     <streamingInternetRadio href="https://fm.uncu.edu.ar/" />
     <!-- FM Universidad 107.5 UNLP -->
     <streamingInternetRadio href="http://163.10.186.71:8001/broadwavehigh.mp3" />
-    <!-- Si 98.9 FM -->
-    <streamingInternetRadio href="http://server.laradio.online:8202/;" />
-    <!-- Continental 590 AM. Bs. As. Version 3 -->
-    <streamingInternetRadio href="https://frontend.radiohdvivo.com/continental/live" />
     <!-- planeta cuarteto, Villa Carlos Paz 100.3 FM -->
     <streamingInternetRadio href="https://streaming.radiosenlinea.com.ar:10763/live" />
+    <!-- Continental 590 AM. Bs. As. Version 3 -->
+    <streamingInternetRadio href="https://frontend.radiohdvivo.com/continental/live" />
     <!-- Fisherton -->
     <streamingInternetRadio href="http://23.111.184.195:8140/radio.mp3" />
     <!-- Fm 94.1 Onda Horizonte -->
@@ -116,10 +118,10 @@
     <streamingInternetRadio href="http://23.111.184.195:8050/fmmeridiano.mp3" />
     <!-- LT14 Nacional Gral. Urquiza AM 1260 - Paraná -->
     <streamingInternetRadio href="http://ea.mp3.icecast.magma.edge-access.net:7200/sc_rad44" />
-    <!-- La Popu 92.3 -->
-    <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu.mp3?dist=c3-web" />
     <!-- Lalala Radio La música de Luis Alberto Spinetta -->
     <streamingInternetRadio href="http://server.laradio.online:25311/live" />
+    <!-- La Popu 92.3 -->
+    <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu.mp3?dist=c3-web" />
     <!-- Cosquín Rock 95.5 -->
     <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp3" />
     <!-- AM 830 LT8 Rosario -->
@@ -128,56 +130,58 @@
     <streamingInternetRadio href="http://radio13.servidorderadio.net:8110/api/v3/widgetsview?id=100&amp;option=big&amp;ssl=1&amp;auto=0" />
     <!-- Comunidad Fan FM 105.1 Rosario -->
     <streamingInternetRadio href="https://radio02.ferozo.com/proxy/ra02001326?mp=/stream" />
-    <!-- Hollywood 101.3 -->
-    <streamingInternetRadio href="https://radio02.ferozo.com/proxy/ra02001328?mp=/stream" />
-    <!-- Radio Nacional Córdoba - LRA7 AM750 -->
-    <streamingInternetRadio href="http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7" />
-    <!-- Nacional Perito Moreno - LRA56 AM860 -->
-    <streamingInternetRadio href="http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad34" />
     <!-- Radio Forra -->
     <streamingInternetRadio href="https://stream.zeno.fm/aknjqpmy0xtuv" />
+    <!-- Radio Nacional Córdoba - LRA7 AM750 -->
+    <streamingInternetRadio href="http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7" />
+    <!-- Hollywood 101.3 -->
+    <streamingInternetRadio href="https://radio02.ferozo.com/proxy/ra02001328?mp=/stream" />
+    <!-- Nacional Perito Moreno - LRA56 AM860 -->
+    <streamingInternetRadio href="http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad34" />
     <!-- Radio de Clásicos 106.9 FM - Saladillo -->
     <streamingInternetRadio href="http://streamconex.com:8118/stream" />
-    <!-- Nacional Rock FM 93.7 -->
-    <streamingInternetRadio href="https://sa.mp3.icecast.magma.edge-access.net/sc_rad39" />
+    <!-- Radio NOW 97.9 -->
+    <streamingInternetRadio href="https://ipanel.instream.audio:7002/stream?_=18fea7232d5" />
     <!-- Cristal FM -->
     <streamingInternetRadio href="https://radio02.ferozo.com/proxy/ra02001330?mp=/stream" />
-    <!-- Frecuencia Patagonia FM 99.3 -->
-    <streamingInternetRadio href="http://server.laradio.online:9188/live" />
+    <!-- Nacional Rock FM 93.7 -->
+    <streamingInternetRadio href="https://sa.mp3.icecast.magma.edge-access.net/sc_rad39" />
     <!-- Radio Brisas 98.5 -->
     <streamingInternetRadio href="https://radio.ecolan.com:8443/stream.mp3" />
-    <!-- Cadena 3 Cordoba -->
-    <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3" />
+    <!-- Frecuencia Patagonia FM 99.3 -->
+    <streamingInternetRadio href="http://server.laradio.online:9188/live" />
     <!-- Acqua FM 100.1 -->
     <streamingInternetRadio href="https://strcdn.klm99.com:10985/acquavillagesell" />
-    <!-- FM Cristo Rey 105.1 -->
-    <streamingInternetRadio href="https://stream.zeno.fm/ujs4w68jh93uv" />
+    <!-- Cadena 3 Cordoba -->
+    <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/radio3.mp3" />
     <!-- Radio Nacional Folklórica FM 98.7 -->
     <streamingInternetRadio href="https://sa.mp3.icecast.magma.edge-access.net/sc_rad38" />
+    <!-- FM Cristo Rey 105.1 -->
+    <streamingInternetRadio href="https://stream.zeno.fm/ujs4w68jh93uv" />
     <!-- Universidad Claf 103.7 Mhz -->
     <streamingInternetRadio href="http://cdn.instream.audio:9032/stream" />
     <!-- Radio UTN Bahia Blanca - FM 93.5 -->
     <streamingInternetRadio href="https://sonic.cloudstreaming.eu:10986/;" />
     <!-- Radio Espiritu Santo -->
     <streamingInternetRadio href="http://01.solumedia.com.ar:7802/;" />
-    <!-- RADIO CENTRO -->
-    <streamingInternetRadio href="https://sonicpanel.hostradios.com/8710/stream" />
     <!-- FM Blackie 89.1 -->
     <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/BLACKIE_89_1.mp3" />
+    <!-- RADIO CENTRO -->
+    <streamingInternetRadio href="https://sonicpanel.hostradios.com/8710/stream" />
     <!-- Radio Provincia - AM1270 -->
     <streamingInternetRadio href="https://streaming.provinciaradio.com.ar:7008/am" />
     <!-- Radio Más -->
     <streamingInternetRadio href="http://nvradios.com:9384/;" />
-    <!-- Radio Mitre Patagonia - FM 90.5 -->
-    <streamingInternetRadio href="https://sc.host-live.com:10810/stream" />
     <!-- radio Gráfica -->
     <streamingInternetRadio href="http://radio13.servidorderadio.net:8110/" />
+    <!-- Radio Mitre Patagonia - FM 90.5 -->
+    <streamingInternetRadio href="https://sc.host-live.com:10810/stream" />
     <!-- FMI TUCUMAN -->
     <streamingInternetRadio href="https://ssl.radiosnethosting.com/index.php?port=9808" />
-    <!-- Radio Universidad CALF Neuquén -->
-    <streamingInternetRadio href="https://cdn.instream.audio/:9032/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988" />
     <!-- La Retro -->
     <streamingInternetRadio href="https://stream-164.zeno.fm/0m2cjioahwjuv?" />
+    <!-- Radio Universidad CALF Neuquén -->
+    <streamingInternetRadio href="https://cdn.instream.audio/:9032/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988" />
     <!-- Rio FM 96.9 Rosario -->
     <streamingInternetRadio href="https://streaming.redboing.com/radio/8070/radio.mp3" />
     <!-- LU22 Radio Tandil AM1140 -->
@@ -188,16 +192,12 @@
     <streamingInternetRadio href="https://cdn.instream.audio/:9061/stream?in_device_id=wp-5270c502-0535-444e-975b-d49592d1d988" />
     <!-- Rock RA -->
     <streamingInternetRadio href="http://stream.zeno.fm/mbketaeaqhguv" />
-    <!-- Radio 4: Rock & Pop Argentino -->
-    <streamingInternetRadio href="https://radio.eduneu.eu:8030/radio.mp3" />
     <!-- Radio Kermés Comunitaria -->
     <streamingInternetRadio href="http://server.laradio.online:8599/;" />
-    <!-- Nuestra FM La Adela FM 107.5 -->
-    <streamingInternetRadio href="http://server1.veemesoft.com.ar:10147/;" />
+    <!-- Radio 4: Rock & Pop Argentino -->
+    <streamingInternetRadio href="https://radio.eduneu.eu:8030/radio.mp3" />
     <!-- Radio Rio Cuarto -->
     <streamingInternetRadio href="https://server6.hostradios.com/8552/stream/;/;type=mp3" />
-    <!-- Planet Music Mar del PLata 101.1 -->
-    <streamingInternetRadio href="https://strcdn.klm99.com:10991/planetmdp" />
-    <!-- Kiss FM 95.1 Rosario -->
-    <streamingInternetRadio href="https://streaming.redboing.com/radio/8060/radio.mp3" />
+    <!-- Nuestra FM La Adela FM 107.5 -->
+    <streamingInternetRadio href="http://server1.veemesoft.com.ar:10147/;" />
 </streamingInternetRadios>

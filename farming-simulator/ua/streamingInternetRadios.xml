@@ -26,10 +26,10 @@
     <streamingInternetRadio href="http://91.218.212.67:8000/stream" />
     <!-- Kiss FM Ukrainian -->
     <streamingInternetRadio href="https://online.kissfm.ua/KissFM_Ukr" />
-    <!-- Львівська хвиля (32 кбіт/с) -->
-    <streamingInternetRadio href="http://onair.lviv.fm:8000/lviv32.fm" />
     <!-- Радіо НВ 96.0 -->
     <streamingInternetRadio href="https://online-radio.nv.ua/radionv.mp3" />
+    <!-- Львівська хвиля (32 кбіт/с) -->
+    <streamingInternetRadio href="http://onair.lviv.fm:8000/lviv32.fm" />
     <!-- TRANCE IS STAR RADIO -->
     <streamingInternetRadio href="https://myradio24.org/tisradio" />
     <!-- Радіо Relax 101.5 -->
@@ -86,8 +86,6 @@
     <streamingInternetRadio href="https://online.radiorelax.ua/RadioRelax" />
     <!-- Radio ROCKS Kyiv 103.6FM HD -->
     <streamingInternetRadio href="https://online.radioroks.ua/RadioROKS_HD" />
-    <!-- Перець FM -->
-    <streamingInternetRadio href="https://radio.perec.fm/radio-stilnoe" />
     <!-- Radio ROCKS Новий Рок 103.6FM HD -->
     <streamingInternetRadio href="https://online.radioroks.ua/RadioROKS_NewRock_HD" />
     <!-- Radio Skovoroda -->
@@ -120,10 +118,10 @@
     <streamingInternetRadio href="https://online.nasheradio.ua/NasheRadio_HD" />
     <!-- Holos.FM -->
     <streamingInternetRadio href="http://holos.fm:8000/holos" />
-    <!-- Zakarpattya FM 101.9 -->
-    <streamingInternetRadio href="http://195.234.148.51:8000/stream" />
     <!-- DJFM.UA [MP3 256k] -->
     <streamingInternetRadio href="https://cast.fex.net/djfm_x" />
+    <!-- Zakarpattya FM 101.9 -->
+    <streamingInternetRadio href="http://195.234.148.51:8000/stream" />
     <!-- FM Disco Melody -->
     <streamingInternetRadio href="https://online.melodiafm.ua/MelodiaFM_Disco" />
     <!-- Sevastopol 102.0 FM -->
@@ -136,26 +134,26 @@
     <streamingInternetRadio href="https://online.kissfm.ua/KissFM_Digital" />
     <!-- 1] Авторадіо -->
     <streamingInternetRadio href="https://cast.mediaonline.net.ua/avtoradio" />
-    <!-- relax int -->
-    <streamingInternetRadio href="https://online.radiorelax.ua/RadioRelax_Int" />
     <!-- Прямий FM -->
     <streamingInternetRadio href="https://cast.mediaonline.net.ua/prmfm320" />
-    <!-- Канал Благодаті -->
-    <streamingInternetRadio href="http://noasrv.caster.fm:10001/live" />
+    <!-- relax int -->
+    <streamingInternetRadio href="https://online.radiorelax.ua/RadioRelax_Int" />
     <!-- MFM STATION -->
     <streamingInternetRadio href="https://radio.mfm.ua/online128" />
+    <!-- Канал Благодаті -->
+    <streamingInternetRadio href="http://noasrv.caster.fm:10001/live" />
     <!-- Гуляй Радіо -->
     <streamingInternetRadio href="https://online.radioplayer.ua/GuliayRadio" />
     <!-- Армия FM -->
     <streamingInternetRadio href="https://icecast.armyfm.com.ua:8443/ArmyFM" />
     <!-- Megapolis FM 105.2 Kryvyi Rih -->
     <streamingInternetRadio href="https://cast.megapolis.fm/listen/kryvyi_rih/radio.mp3" />
-    <!-- Радіо Байрактар -->
-    <streamingInternetRadio href="https://online.radiobayraktar.ua/RadioBayraktar_HD" />
-    <!-- Garmonia Mira -->
-    <streamingInternetRadio href="https://garmonia-stream.fakel.com.ua/1" />
     <!-- Авторадіо -->
     <streamingInternetRadio href="https://cast.mediaonline.net.ua/avtoradio320" />
+    <!-- Garmonia Mira -->
+    <streamingInternetRadio href="https://garmonia-stream.fakel.com.ua/1" />
+    <!-- Радіо Байрактар -->
+    <streamingInternetRadio href="https://online.radiobayraktar.ua/RadioBayraktar_HD" />
     <!-- Lounge FM Acoustic -->
     <streamingInternetRadio href="https://cast.mediaonline.net.ua/acoustic320" />
     <!-- Радіо ПТРК -->
@@ -194,10 +192,12 @@
     <streamingInternetRadio href="https://cast.megapolis.fm/listen/kamyanske/radio.mp3" />
     <!-- PowerFM -->
     <streamingInternetRadio href="https://cast.brg.ua/powerfm_main_public_mp3_hq" />
-    <!-- Play FM Луганск 105.5ФМ -->
-    <streamingInternetRadio href="https://radio.play-fm.ru:8001/playfm" />
     <!-- 109FM -->
     <streamingInternetRadio href="https://solid48.streamupsolutions.com/proxy/cfujtbgw/109fm" />
+    <!-- Play FM Луганск 105.5ФМ -->
+    <streamingInternetRadio href="https://radio.play-fm.ru:8001/playfm" />
     <!-- Фреш FM (Стрий, 104.8 FM) -->
     <streamingInternetRadio href="http://radio.telelan.com.ua:8000/fresh-fm_mp3" />
+    <!-- Radio Shanson -->
+    <streamingInternetRadio href="https://cast.brg.ua/newshanson_main_public_mp3_hq" />
 </streamingInternetRadios>

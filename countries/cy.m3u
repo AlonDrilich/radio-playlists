@@ -115,12 +115,12 @@ https://stream1.themediasite.co.uk/8060/stream
 # 72FM: https://72fm.com/station/a217bafc-5165-46cf-9d78-142809f9efe8?source=m3u
 #EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/c69cf970-f33b-4c0e-ac4e-5a5ab8d17c81.png" group-title="Cyprus" radio="true",Ναυάγιο
 https://radio-navagio.com/stream
-# 72FM: https://72fm.com/station/83f965c4-a71d-439e-949b-45621908dd8b?source=m3u
-#EXTINF:-1 tvg-logo="https://rockfmcyprus.com/wp-content/uploads/2019/06/rock-fm-cyprus-logo-gold-retina.webp" group-title="Cyprus" radio="true",Rock FM Cyprus
-https://live3.istoikona.net/proxy/rockfm/stream
 # 72FM: https://72fm.com/station/4ca94892-4423-4e82-80c9-e9170f6f582d?source=m3u
 #EXTINF:-1 group-title="Cyprus" radio="true",Lugaradio
 http://91.200.41.23:8000/192.mp3
+# 72FM: https://72fm.com/station/83f965c4-a71d-439e-949b-45621908dd8b?source=m3u
+#EXTINF:-1 tvg-logo="https://rockfmcyprus.com/wp-content/uploads/2019/06/rock-fm-cyprus-logo-gold-retina.webp" group-title="Cyprus" radio="true",Rock FM Cyprus
+https://live3.istoikona.net/proxy/rockfm/stream
 # 72FM: https://72fm.com/station/90a9493d-1735-45a4-bf6b-4d85eac05066?source=m3u
 #EXTINF:-1 group-title="Cyprus" radio="true",Enerji
 https://live.enerjiplay.com/stream/enerji
@@ -136,21 +136,30 @@ https://server.streamcasthd.com:7092/;
 # 72FM: https://72fm.com/station/2e1501dc-dbb8-47d2-bca6-e848107d22c4?source=m3u
 #EXTINF:-1 tvg-logo="https://radioturbo21.com/favicon.ico" group-title="Cyprus" radio="true",Radio Turbo21
 https://radioturbo21.com/radio/stream
-# 72FM: https://72fm.com/station/1064b224-2700-4d55-979f-b1a570211289?source=m3u
-#EXTINF:-1 group-title="Cyprus" radio="true",Radio T.O.A
-https://live3.istoikona.net/proxy/radiotoa/stream
-# 72FM: https://72fm.com/station/97e7c7c1-713e-4998-9f91-66e83460c803?source=m3u
-#EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="Cyprus" radio="true",Jujube Radio Chinese Classics
-https://jujuberadio.com/chinese
 # 72FM: https://72fm.com/station/7e738aa1-e7af-4e4f-81f4-c1bcd0668e22?source=m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvF4MK0D/20260919-231600.jpg" group-title="Cyprus" radio="true",Greek Laika Nonstop Radio
 https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3
+# 72FM: https://72fm.com/station/1064b224-2700-4d55-979f-b1a570211289?source=m3u
+#EXTINF:-1 group-title="Cyprus" radio="true",Radio T.O.A
+https://live3.istoikona.net/proxy/radiotoa/stream
+# 72FM: https://72fm.com/station/8b7436cc-4503-4de5-8db1-d6368eb23a7e?source=m3u
+#EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="Cyprus" radio="true",Jujube Radio Classic Rock
+https://jujuberadio.com/classicrock
+# 72FM: https://72fm.com/station/97e7c7c1-713e-4998-9f91-66e83460c803?source=m3u
+#EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="Cyprus" radio="true",Jujube Radio Chinese Classics
+https://jujuberadio.com/chinese
 # 72FM: https://72fm.com/station/860bed25-d8b1-4266-8d82-a33965242a61?source=m3u
 #EXTINF:-1 group-title="Cyprus" radio="true",CYBC 1
 https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8
 # 72FM: https://72fm.com/station/7022dcf0-2e31-42e8-a24e-dc4edab9106e?source=m3u
 #EXTINF:-1 group-title="Cyprus" radio="true",Jujube Radio Hits
 https://jujuberadio.com/live
+# 72FM: https://72fm.com/station/0d7238c8-883d-4be7-ba89-6dd930988dfe?source=m3u
+#EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="Cyprus" radio="true",Jujube Radio Love Songs
+https://jujuberadio.com/love
+# 72FM: https://72fm.com/station/1439b51e-70dc-4335-92c5-d100609ce81c?source=m3u
+#EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="Cyprus" radio="true",Jujube Radio Party Classics
+https://jujuberadio.com/partyclassics
 # 72FM: https://72fm.com/station/5410588b-6614-48e6-9b88-8f372f8512f8?source=m3u
 #EXTINF:-1 tvg-logo="https://api.enerjiplay.com/uploads/images/file-1779347508013-389877087.jpg" group-title="Cyprus" radio="true",Capital Radio
 https://radyo1.radyo-dinle.tc/8256/stream
@@ -160,18 +169,9 @@ https://radyo1.radyo-dinle.tc/8210/stream
 # 72FM: https://72fm.com/station/4b8bfd19-d718-4ebc-b306-e389cab6b70c?source=m3u
 #EXTINF:-1 group-title="Cyprus" radio="true",CYBC 3
 https://r1.cloudskep.com/cybcr/cybc3/playlist.m3u8
-# 72FM: https://72fm.com/station/8b7436cc-4503-4de5-8db1-d6368eb23a7e?source=m3u
-#EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="Cyprus" radio="true",Jujube Radio Classic Rock
-https://jujuberadio.com/classicrock
 # 72FM: https://72fm.com/station/41660c82-d479-4e59-a64c-dc616927c237?source=m3u
 #EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="Cyprus" radio="true",Jujube Radio Dance Hits
 https://jujuberadio.com/dance
-# 72FM: https://72fm.com/station/0d7238c8-883d-4be7-ba89-6dd930988dfe?source=m3u
-#EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="Cyprus" radio="true",Jujube Radio Love Songs
-https://jujuberadio.com/love
-# 72FM: https://72fm.com/station/1439b51e-70dc-4335-92c5-d100609ce81c?source=m3u
-#EXTINF:-1 tvg-logo="https://jujuberadio.com/favicon.ico" group-title="Cyprus" radio="true",Jujube Radio Party Classics
-https://jujuberadio.com/partyclassics
 # 72FM: https://72fm.com/station/f8e3a9e1-dd9b-42a7-a25c-18b2826791ac?source=m3u
 #EXTINF:-1 tvg-logo="https://api.enerjiplay.com/uploads/images/file-1779347545583-640839459.jpg" group-title="Cyprus" radio="true",Play FM
 https://radyo.playfm.com.tr/listen/playfm/playfm.mp3
