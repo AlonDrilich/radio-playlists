@@ -4,14 +4,8 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/ae185e7b-b269-4cc7-a3a4-93fd46334145?source=m3u
-#EXTINF:-1 group-title="Georgia" radio="true",Radio Amra
-https://streamer.radio.co/s34b5469e0/listen
-# 72FM: https://72fm.com/station/edcb2243-5ffe-11e9-a622-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Georgia" radio="true",Tbilisi FM 93,5
-http://iis.ge:8000/radiotbilisi.mp3
-# 72FM: https://72fm.com/station/48c265ba-4102-4b16-95c1-a4f494bb48cd?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn.fortuna.ge/app/uploads/2024/02/fortuna-logo-2024-02-08_07-57-34_538522.png" group-title="Georgia" radio="true",არდაიდარდო
+# 72FM: https://72fm.com/station/6b687628-4aea-47ac-a5e6-1104e92f9791?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn.fortuna.ge/app/uploads/2024/02/ardaidardo-logo-2024-01-30-14-10-56-268127-2024-02-08_07-48-26_828205.svg" group-title="Georgia" radio="true",არ დაიდარდო (Ar Daidardo)
 https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8
 # 72FM: https://72fm.com/station/0d742e8f-5ff8-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/43916.png" group-title="Georgia" radio="true",Hereti FM
@@ -31,9 +25,6 @@ https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8
 # 72FM: https://72fm.com/station/ef9f7a61-bb7d-43eb-8d66-1504895b5621?source=m3u
 #EXTINF:-1 tvg-logo="https://www.positive.ge/img/logo.png" group-title="Georgia" radio="true",რადიო პოზიტივი (Radio Positive)
 https://stream.radiojar.com/sr4vzamzfnruv
-# 72FM: https://72fm.com/station/df94cddb-b728-4cd2-a81b-34c9dc916812?source=m3u
-#EXTINF:-1 group-title="Georgia" radio="true",WVFJ 93.3 & 102.1 The JOY FM
-https://rtn.cdnstream1.com/2576_96.aac?rand=81562
 # 72FM: https://72fm.com/station/ab716da9-657f-44db-a619-84f7c7bf0589?source=m3u
 #EXTINF:-1 group-title="Georgia" radio="true",უცნობი FM (Ucnobi FM)
 http://149.3.104.166:8000/stream.ogg
@@ -55,6 +46,9 @@ https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8
 # 72FM: https://72fm.com/station/4623426b-3740-47c3-8e0e-1370b08043cd?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiopalitra.ge/static/logos/logo_icon.svg" group-title="Georgia" radio="true",რადიო პალიტრა (Radio Palitra)
 https://radiostream.palitra.ge/stream.mp3
+# 72FM: https://72fm.com/station/8ddf8e92-517d-498b-b3be-e888444c6b8d?source=m3u
+#EXTINF:-1 tvg-logo="https://tbilisifm.ge/wp-content/uploads/2017/03/radio-iwyeba-chvenit-2-1-150x150.png" group-title="Georgia" radio="true",თბილისი FM (Tbilisi FM)
+http://iis.ge:8000/radiotbilisi.mp3
 # 72FM: https://72fm.com/station/561665cf-3adf-41b5-b94b-1e9d8d534bdf?source=m3u
 #EXTINF:-1 tvg-logo="https://spnews.io/img/logoRadio.png" group-title="Georgia" radio="true",რადიო სივრცე (Radio Sivrce)
 https://proxy.streamer.mediabox.ge/ice/8000/sivrce
@@ -64,9 +58,6 @@ https://edge.mixlr.com/channel/bzorq
 # 72FM: https://72fm.com/station/621ba5b0-8424-48e1-9abd-5ac1135ce59f?source=m3u
 #EXTINF:-1 tvg-logo="https://cdnn1.img.sputnik-abkhazia.info/i/logo/logo.svg" group-title="Georgia" radio="true",Арадио Sputnik Аҧсны
 https://icecast-rian.cdnvideo.ru/voicesuh
-# 72FM: https://72fm.com/station/e81caf1f-5049-48ad-99b7-b5ebdd03d3f3?source=m3u
-#EXTINF:-1 tvg-logo="https://www.mutantradio.net/icon?e5faaecf67dfe01a" group-title="Georgia" radio="true",Mutant Radio
-https://listen.radioking.com/radio/282820/stream/328621
 # 72FM: https://72fm.com/station/40ed722f-e71e-44b3-b5f4-e1230f1ee4d8?source=m3u
 #EXTINF:-1 group-title="Georgia" radio="true",Radio dardimandi
 https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
@@ -76,12 +67,18 @@ https://video.rionitv.com/s;stream
 # 72FM: https://72fm.com/station/395ff89d-0ea3-4fc1-8541-506b1ee4ef5f?source=m3u
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio2ge.jpg" group-title="Georgia" radio="true",Radio 2 - Tbilisi FM 100,9
 https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8
-# 72FM: https://72fm.com/station/e6487289-ed9a-47ef-991d-1fa22d15f7ef?source=m3u
-#EXTINF:-1 tvg-logo="https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/mono.m3u8" group-title="Georgia" radio="true",https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/mono.m3u8
-https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/mono.m3u8
+# 72FM: https://72fm.com/station/f040eba8-1cef-45e7-a20d-8134bb5ea7e8?source=m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRUX0p_TXYrbqA_Twv9PFt_R3lRIAMDLjShtcD_8DbS0YB93vyNKYRjPI&s=10" group-title="Georgia" radio="true",Mutant Radio
+https://listen.radioking.com/radio/282820/stream/328621
 # 72FM: https://72fm.com/station/5fe82aca-cd34-4ab7-aee7-83fd56e5e4bb?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiojukebox.ge/logo.png" group-title="Georgia" radio="true",JUKEBOX 94.3
 https://stream.radiojukebox.ge/stream.ogg
-# 72FM: https://72fm.com/station/6ac0a3a5-a543-4aae-91d4-65881ac0095f?source=m3u
+# 72FM: https://72fm.com/station/e6487289-ed9a-47ef-991d-1fa22d15f7ef?source=m3u
+#EXTINF:-1 tvg-logo="https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/mono.m3u8" group-title="Georgia" radio="true",https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/mono.m3u8
+https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/mono.m3u8
+# 72FM: https://72fm.com/station/406e74cf-2897-442e-a4f1-1c300583fdc1?source=m3u
 #EXTINF:-1 tvg-logo="https://vikentisradio.com/wp-content/uploads/2026/09/Gemini_Generated_Image_uunyd7uunyd7uuny.png" group-title="Georgia" radio="true",Vikentis Radio
 https://servidor33-3.brlogic.com:7210/live
+# 72FM: https://72fm.com/station/a035f993-4ffb-4a66-b7a2-0f54d1ee22ce?source=m3u
+#EXTINF:-1 group-title="Georgia" radio="true",Radio Amra
+https://streamer.radio.co/s34b5469e0/listen

@@ -4,51 +4,30 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/43be83dc-340b-11e8-bb9b-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://listen.moe/favicon.ico" group-title="South Korea" radio="true",Listen.moe Kpop
-https://listen.moe/kpop/stream
 # 72FM: https://72fm.com/station/7a72aa80-3902-4d73-a548-db81ac780240?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",Big B Radio - Kpop
 https://antares.dribbcast.com/proxy/kpop?mp=/s
 # 72FM: https://72fm.com/station/c038a859-7be1-11e9-aa30-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",KBS Classic FM
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2NzgzOTd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=nZk4tXIZP2vAT77B0qkqUFU83wdASgj5eseWijT4yh0IniIZZnh7VketzSW01~3H6imOR-Zv1h1tsTggh1H1x8LyxzE9Sai4vO~pjbcVctfhU6QaqRAQ0WrOIGXm2EWENXmPaNYWm-OX~1H8bp7TWt-961WekfMf3yhemJlPpsF9902-oFIGFHT1SDLzbdyGeDkMCRJOZmkRWYt4CZwmBU8BJmVTRjV9ZEjjjzKLk5RpocwkYgOUglfNRbZ0mU~0Tr6o0hoSf-am5ZM0AEdGKJ6KSnibi4UdR0c1Q-5rx~Ig8U5ZkZ~lsQY8DzbsKsY~Yz-sT5SLu2rKuBJQc1GYWA__
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQxMTAzODN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Q-6D8qKpBUZwUyDRv43aZSdAtZayES-JV07vz1zTBLAV9dG3e0VdwDTNPZ55~89~BCgMI0QK4ATbYQ8ZjcWm~0UW3uGX0wQtF4Iz87qYmg77u7BWv6qs3F1BAcVEc0-I2nCcrDF9vYoRnVf973jped9TWmi66Wc9Eg1r6ZgiK2-hin5Ked0~bxg~hEwuiqYuOXl~-I2EClps2JG1o9Yru6oD1vLoTBubFYsLcdJIqpga0jUJW3idgxR7uakuJiO01grtN0KAvIJdhaYXV7HdTtU2rPf~TEUoi3QykXo7QRYOhPaiPdOFZR8mF4dpmLJGINa~dkL40~~nKv1sdQSbgw__
 # 72FM: https://72fm.com/station/772b95cf-31e8-41f9-bad3-a2da08495e39?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",Oldpop Cafe
 http://cast.oldpopcafe.net:7080/
-# 72FM: https://72fm.com/station/8f6a0b47-7be2-11e9-aa30-52543be04c81?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",MBC FM4U
-https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6FC1CD1BA3D437045C4F75F83471024765413F05B00D72913F0036aA06A93746D5a7D34733C2CB47A08B3D01D4bC814065237BF2B459F3FDAB799DAB24830F49E7E807625093BA5125A45AB434630E2D6270259E8CB111008D9B3946963391CC123D198D41BC8D987508822B7C8B48CF
 # 72FM: https://72fm.com/station/fc4c247a-7f66-11e9-aa30-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",MBC FM
 https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6651ED14839C3D64DB4C951A3C71684B95FE35658407F25F321060a246793656A8aF83E23EB2734EE03E35314Eb5412B06E420F5DDF094200F1DF8DAD17C0684A0BD36FB121A015A653770786D0700CDCA57C52CB7E374FF81462855FAEFF89194462994594075F3759D5DF4FB2F353C
-# 72FM: https://72fm.com/station/6d4a1b58-b7c6-11e9-acb2-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://res.static.kbs.co.kr/favicon.png" group-title="South Korea" radio="true",KBS 1R
-https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzcxMzIwNn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=eDvDH75Q3QTu-J1j1tW17tGkLPSpFFGpFiUJAR~zTiWkjXE6GPnyYQVAvlfHBf2d8AeNsU0I-cCIC3jSRekiXEuB~iZgKOxSfBK0FDVtdnqNoWrr9vLOpAhjU51vINerSYfY0jcikHV~2at77yS4xNAQBsSb3gyWiRNn59rFNRUsH131rm3lUdegJNnKr3yv5v7Rt6hVH2hb~kNNs0D~rP5cdurNzftoPA6rB17Nn5h0GJQesefTqvIJh3h455QehRJ0pHUaMfKAb26AT0m1Ae7TyWExwFCvgOt8IhP9glRbRz7Qd5fTZYWRjJ-E8p5wbjRxV8ZwaBHk1s0HGNdAkg__
 # 72FM: https://72fm.com/station/1cc29b79-7be3-11e9-aa30-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",SBS Power FM
-https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1NTEyMDUsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImM1MmU1MTYzLTAxN2MtNDEyYi1hMzExLWUxMWYwY2FjMGI0YyIsImlhdCI6MTc5MzUwODAwNX0.SqeLhr52pGzha977F63zywtDhY4fQ5-QYIYPomy4tSM
+https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM5ODMyMDcsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImMzNjgwM2E5LTFlMjktNDMxMC1iYWE4LTRjYzk4MmE5NDJmNSIsImlhdCI6MTc5Mzk0MDAwN30.FTR0W6RYHq40WGd3Dj3PvMqXVFnpw70RzzmaUEd13o0
 # 72FM: https://72fm.com/station/ce8fa72b-4df6-11e8-a4d1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-# 72FM: https://72fm.com/station/5cfee8db-7be2-11e9-aa30-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://res.static.kbs.co.kr/favicon.png" group-title="South Korea" radio="true",KBS Cool FM
-https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2NTkxNjR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=K971H~TYyRfroye4mfqpGrRI-oW1rXzrb30u6V9YbagzyvPPfWXg3RkyWzmrLQBZvn0vfc2DsXt0vL3XfkmO2OooAN4cl6UpAXybxYzYKj2CsAy~~BjCdQbDURZs-90p3zejrBX61BbutZkZYtKCUV1j8T2jzvbG8avxF0YYDotDL2CAoxb-M70XqafqkLHK9iT1RVoFbSKHI5N7Ng3Mc2c0ylhXB9Nit3YvkzNd25Ldtl3YBrOcdi2scWffTN4BiwUNpolCMZGcLLRUcbntjtBJK8dmodjbxU6EH3BGf2O2z~A2TRyRScg8yNnmsRDUQ2ahfGkZV~NTWi~LD6ciMw__
 # 72FM: https://72fm.com/station/730d9f95-57a3-4eec-94a2-ed270baa64c8?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",MBC FM for you
-https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6BA1BD1463EA32042D4115453591D84A05BD39757F05522737B034aA36E03FF639a823493342B545A088381134b3B16C1BAB8017F2A2B244480E2DBBB9C195D82CAB126A850E8AA17EEDA1E364709A818FDB0AA5DB1FF5280CB3F1EF3431638F5B1956A1FC802143EDABF686FD413C91
-# 72FM: https://72fm.com/station/9b3576ec-7f67-11e9-aa30-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://res.static.kbs.co.kr/favicon.png" group-title="South Korea" radio="true",KBS 1Radio
-https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzY5NjM4MH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=kaVuof3zZ71CkFHyxNd69O~qD1fnpfDRs~UedNhkMf4po1l7V0ht7GNtefxszGX85Ym0DruadEBhM6EGZTAzqqGQzVGnOa5iAi20z4Wo--MHccI7DUygt6bl0BBzjXMQfW44scqPN1JMRlijjmFP7IZVyv8jA97pIbpBt-YkOH1PuIa1sJYwfrf8AgH7EDM6v~2TUPrYQs4KBg-gl8as7UQZ3OwMa45YjBKS0YlB76jU3J248HRQydYINIKGTp2dLOCzK5P8rf6drOvWbQQMfMhUEvl5Pr~C1Mf164A4yQqFb727DJWeWvw6MPjEd-EOFvo1KSV-slwKJO3ft0OHew__
+https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6BD10A1353C53F64DC42B52C3101A24B35593845DF0462CD3CF062a9B64D355650aBF33D3202B948901E3F1105b201AB98AFE36EFA378E1AF3E761051C40CA57FEA5FFEED52C40B1431DFF10FFBF246BA4066DA03A03422C18CE304280900149C3FC9F8293B5716479A27678973C5341
 # 72FM: https://72fm.com/station/3043d560-4358-4583-9e29-9fce6777a09c?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",CBS 음악 FM
 https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/e6bc48f7-7be2-11e9-aa30-52543be04c81?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",SBS Love FM
-https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1MzIwMDksInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMGRlMTZiNDAtY2QwOC00YWE3LTlmMzItNjMwMTdmY2U2YWRmIiwiaWF0IjoxNzkzNDg4ODA5fQ.zf9ccNbG4dsNoGSXfjhnfPdjsOyeifxWhIYV7u5aaoU
-# 72FM: https://72fm.com/station/015f47d3-16d1-40de-bd07-e9686d329108?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",CBS 음악FM
-https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/10fbdfdd-2a6f-49fb-a035-8963c57f52e8?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",YTN 라디오
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
@@ -63,10 +42,13 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist
 https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3
 # 72FM: https://72fm.com/station/8dc941a6-c866-4552-9fea-541c137cfb5d?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",kbs해피fm
-https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzQxNjc3MX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=aDb2fw6uRuJ0amRINufWDtApUVmtJV6-iQjTpqY102JDpcrPd72K-h~lHYwBSyfouiy-hu8YYsYrLkIycbH-FfA14WUFHEet9gW2TirhVfGBTeCydbrYGB4j~WarvzU2DzkhbIIm-LkfMhkMI3W-pPrlVKy2pQ3-bAlDqU1RKjZv6HygpB2q7mwUWAxla3it7X8Ar~kciOXwQldHiJb4IEcrnnaiaxE0UChke5AJaBK0cdG7Jr-5O4sAVvMsLhFJ~ZrBhmjLaTa8wYtHQAdmfJT77MnyS2xMePHtgBidXpu0A-SfZ7vfZ6nCndwjFomzKOmVGUIxG4hAjwDUoARROw__
+https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDI4NDQxMn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ageCnRIfAM7BFDbBfAXr09fOebUnaoKOuF-35LCoovAaRqSd35XkNp5RJx1HyiYBVos2BJaBGwAh8Wk2I73cOrdlQPlJowuSNk7a0DGn9CQF4oO6TQnOeZj2MMWIH~LjVHHjUToGlQwbrTqOJrjczIhuM2~Lk3D0HNWZ2kgcKX6IpB~fS-Y7lLQ0yNoA1dK0bSkDIE9tYJ-5pVN2GVeQdCL70d28rHF7EWv1zqLezPhayG-ACRpoVnF-eOOxZhNeZFDNXRgl6XnkndfqYDdDFKQtVkkV73ulVSIgYAFhOH9oJrC4F7V~3eOiyZhc6A2ObCqspIkwgvW13tSRsK3xaA__
 # 72FM: https://72fm.com/station/3a6cf532-d730-4b92-91bf-f3d5434a2159?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",MBC충북 표준FM
 http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8
+# 72FM: https://72fm.com/station/157bcaf5-d718-4ddf-bd97-adf23c78edc7?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",Listen.Moe KPop Vorbis
+https://listen.moe/kpop/stream
 # 72FM: https://72fm.com/station/00f532d5-7b4b-4f6f-8195-bef905df50ab?source=m3u
 #EXTINF:-1 tvg-logo="https://www.arirang.com/favicon.ico" group-title="South Korea" radio="true",Arirang Radio
 http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b3256000_sleng.m3u8
@@ -82,36 +64,30 @@ https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
 # 72FM: https://72fm.com/station/75092107-2a1f-11e9-96d1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",Buddhist True Network TV
 http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
-# 72FM: https://72fm.com/station/e9560580-d693-4e1b-9bad-02000631d818?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",KBS Cool FM
-https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM3NTM5NjR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Q6pK0hMwXaKgflEGIedct8E~X65Duy5BuBmPMkGwJWDH7hJUqz77nrXGNfwCdLYrSKHJC89vzErZYtUFIu5L5Hf9FL-xxWqmT9iaDdWkk7qZ09CYnbaFz3pO-tt7eNxETIyXfpjO5Mx-MfzevElnrfebt83xKUpsqRoiCIwKMBaX8NsdD9gRnMnnNgeu1e7~ltm8DSwn~rp1gXdLo3GXvoE3zh6d-td9J-Oqh9fu7EpE44BrF3oU94Pa8FKPl6EnSMFg~zzB67ELe5IsK6yUBRY9VlQZA1~wfRo8bndcQKOxYCUsNhCpSHb3ZqCOspewP4q1~nHJmHedEy5p-DMIuQ__
+# 72FM: https://72fm.com/station/0fc7173f-5106-4c47-9156-621124fb0803?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",SBS Love FM
+https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTQwMjY0MTksInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiYTI1ZGFiNTQtYTBkNS00NTFiLWIyNTYtMzIzMDQ0YzEzM2FkIiwiaWF0IjoxNzkzOTgzMjE5fQ.GqQJtXtPEZtbeySXupneg5CA_gr-dnBJTtsp9qXotng
 # 72FM: https://72fm.com/station/7a32f2f3-e429-11e8-a9cc-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",EBS TV-Kids
 http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 # 72FM: https://72fm.com/station/b1339480-2b71-11e9-a35e-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",Buddhist Broadcasting System TV
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-# 72FM: https://72fm.com/station/0fc7173f-5106-4c47-9156-621124fb0803?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",SBS Love FM
-https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1OTMyMTYsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiOWU2OWY2NGEtNTYxNS00NDVhLWFmMDgtMTMxNWZmYTVkNjA0IiwiaWF0IjoxNzkzNTUwMDE2fQ.axrOOsMvKadHEYMmSN1AEqn3OQs5Gr3HvtIDp-jvSis
+# 72FM: https://72fm.com/station/16c1e8aa-1e9e-422b-9611-842b61a70983?source=m3u
+#EXTINF:-1 tvg-logo="https://static.kbs.co.kr/www/20250220173400/resources/images/favicon/favicon.png" group-title="South Korea" radio="true",KBS_kor
+https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDE2NTU4Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ieGJeAr1nIt8Jyp1PNUIlg4DbcCTaevTV5FByt80AEw517J4~xDrS0A9gn7KEofgj633LRYF89cZwlHSafI~Gs7VkjV8N7wG~zvCdFqyP1kTuOZUPR~FkOzM3cUiXr~VstaxaV~Z7kq7bZoAbl~LNFVj3xXIdH2ujz61QZZqN7GJUKboUf1G2PPdxWgfDVaOfASSrvV3GZrfqvpOoDGuSnelIT6ASoC2jHuofah6yk2iS3OLFiyW-jNd4n-BeRrUOsMbcqvJoY7d6eeezuWs8q0lWXTtYEfXzt84ST1bOKXlKrF3VLO3LSVQLxK2aLMZxJH-d5zPyDHybq-I~MJAMQ__
 # 72FM: https://72fm.com/station/2b1b77a5-16d9-49eb-9359-38341f5674e4?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",Fred Film Radio(한국어)
 https://s10.webradio-hosting.com/proxy/fredradiokr/stream
-# 72FM: https://72fm.com/station/16c1e8aa-1e9e-422b-9611-842b61a70983?source=m3u
-#EXTINF:-1 tvg-logo="https://static.kbs.co.kr/www/20250220173400/resources/images/favicon/favicon.png" group-title="South Korea" radio="true",KBS_kor
-https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzczMjM3Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=d-pkwi33fs3YAGtTdqWALlcvE0jVCIiC5jqhO3t1NA3w2Ye5~PHt-DIHx1JLBcnEmYgFm8Zun-c42E9dtCkKVDRtOapCa0Ncrlh~t-vxrKieI5kt~e6lNCQ2tMUR~8FWNDHM7QKOsJd6mImGKpyUlVhLAdLWbaOYlOM7R7DHCqd2WezjSSj2nMA-KrhtZJWZ8Es9VVA8nDXzTGZ-uayogc1XBQ8sdKu7ODgRt-aKHRDObq6YHteberAcHE2FxA80NqQDkYGYG7ASxBlm3YQs0l93aZdTjCthv4REUp6meeQG-UxKse4HQd8CZ9LwPc~mSewrezhVtcQx8riPvzz3zA__
+# 72FM: https://72fm.com/station/2672e98d-b642-456e-8d77-e331ab4e007c?source=m3u
+#EXTINF:-1 tvg-logo="https://res.static.kbs.co.kr/favicon.png" group-title="South Korea" radio="true",KBS Cool FM
+https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQxNDg4MTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=OAkIceFOj0CFJo7Ej6aeriIVXLq2gdQn8uSXDG6wf3iGTWhYJjDjgNnPq-u53SFTSf1p8sc1zRMTDWWhPIBLVwkqBVo0b8~j8KOXipBWdUw2bB~myhGf9edXx4fxw0AGT0oCcWW6~trMq1Z1Mbm0Zm2ukayLJRN1qmxSclwloy7ij67Xz7SHZoeoL53ZZUyypnW2Vyz8afwLMa2lTniElBaPioaBlKYyPEQpxXbMu3JtZsO07JuMhGz0ym5X5emr5uoQxJ1Brtk7eE0OYLxL7Y6gQ91A-QCQfI6JTayh3k1CdjwyV4f1EZFq~ilomulflJw0CHJtukTTsjCWkrCB7g__
 # 72FM: https://72fm.com/station/c60ab0ce-723c-43a9-85a4-ff544710f27f?source=m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960" group-title="South Korea" radio="true",OBS 라디오
 https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/2672e98d-b642-456e-8d77-e331ab4e007c?source=m3u
-#EXTINF:-1 tvg-logo="https://res.static.kbs.co.kr/favicon.png" group-title="South Korea" radio="true",KBS Cool FM
-https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM3MTQzNzF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=OQgJ0UCDMR5aITEw7dETOv4eeblaXlz3sjKI0W0XhdKflfxXZ7PckZAv0swZcJW0-PKVyvQPLIe1S2dElQKpilki5HWDldVh70whPXt~tX17cZ9C2UysC72GslfqvJihQsOnG4ApSWMFBykBBn0iieWdRXZ~fq-DwII-KFB0Z9TeX42cs8WzYZdoRj5d-Uq82uG~cwGOl8LqVBaPAhRAfQ4VtzCilgh6yQxTxWwihDmcms1-WjZnzEpQ-OkxGoKjZ00Q0fO7YjY94r6HsX234~rb~mz270sQLbAcDGdgEys3GWdyrCjNWgLkreUTJ9PWcN-ZbnkcRL7-ATw8qdjxEQ__
 # 72FM: https://72fm.com/station/7ecf4a00-7be0-11e9-aa30-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",gukak
 http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/d5642b73-a600-4fdd-9a07-a63116b04e38?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",KBS Cool FM
-https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM3NDc5OTh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=fRPkMJ5TPwyUdSELohfIwC~QHG4ZnUfJTS-t6xxNhL5gTaUQqKvBB9j1OEGTn7UUyAc6elwsq9g-VUzS39hyFIGbFXmIW4BG2ok4iBNOjm9mxl61w~f243jkTIvUfejBuuJR-BruG-fZSy9jx0wPH1za3lz1KBHsFNgpfHIE63w3W64pR0Em9aYfFHL-uQBmEklUQ1bprVG-EeblUZKo8Cooml0EyMBqRyJLssNPdKalRRS56sOLEoAvOIibs~Qr9Eni-jG0wdRyEAwp2MzolVtoPUVMsKrqZ2cPrnF4tbGlhOR9aNrfQCveh-fSGqw78L1htt2StW~Ne9xwVdqFqQ__
 # 72FM: https://72fm.com/station/c649b05d-2a19-11e9-96d1-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",CPBC TV
 http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8
@@ -130,36 +106,30 @@ https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w16535700
 # 72FM: https://72fm.com/station/e58a9a59-e428-11e8-a9cc-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",EBS TV-e
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-# 72FM: https://72fm.com/station/066839bb-e428-11e8-a9cc-52543be04c81?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",EBS TV-2
-http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 # 72FM: https://72fm.com/station/e849a616-e2ff-4427-a2f6-a1071d2a073a?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",GugakFM
 https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8
-# 72FM: https://72fm.com/station/d06a6392-127d-40f8-b52d-fc610bc97178?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",KBS Cool FM
-https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2OTUyMDF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=bVrNQ2iOXlPxXAQaJXsNRf1JLGLZ4sHqLwfP9MRf574jiffLwiRt4oXYa420v5qCSN9gVd4A~n9eiQxf-zwwXgswkwZKnniGgowDAiEjmH0gvN9-wAhXl0RQLpuZFtEzCPh71AvGWPtH0HvpVNukSxQYXG5nYNO-sBLlIRo~Wz~ZuoUOH291eXyUKpRxqJP2kce6NNgelBE~RQ9-kHnyy~gjukjAJ1eh0iDIAzx02y9qUtCA9oGhVNfWPz31CSWm0iRhO-kKN5DWxOpptwWDp-ErpCWAZdmFi7O0QF7LNr6LlHcIhYFGLV0kzTuWUNjOnVwXlPbbiHCepgB8KrqS1w__
-# 72FM: https://72fm.com/station/01335461-d022-4ad8-9fbc-1bd3ef534def?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",MBC 올댓뮤직
-https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6A71131C038E39F49540D5E63ED1584085D733055909928333D051a196FF3B76AEaAC3B83782B549F0233CE1F5bAC180FA8CD728C8806F606043C9216F103A59C6862DD5A545E567774298503DEA20FE843CEC51F6F3D62FB745E6ED2328D6F040153655E9C909A101E1638D548D0A4C
-# 72FM: https://72fm.com/station/d9db0a16-9100-4917-b5f5-bd48a42a1e70?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",경인방송
-https://stream.ifm.kr/live/aod1/playlist.m3u8
+# 72FM: https://72fm.com/station/066839bb-e428-11e8-a9cc-52543be04c81?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",EBS TV-2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 # 72FM: https://72fm.com/station/8e068903-fbf8-4fac-aa9d-08b2b8d5eb47?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",Classic Odyssey
 http://live07.inlive.co.kr:21110/
+# 72FM: https://72fm.com/station/01335461-d022-4ad8-9fbc-1bd3ef534def?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",MBC 올댓뮤직
+https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6C21801243293DE45148C53635F1E248D5D531F5DA06829B3170F1aDB6E43A9658a023E63892774DE00F35F114bCF1150115DA12FCD197E73A502B2E37F8B0DC38F047ABDE7622EC12E89957D2BB9F2869FD1FAA6C26EC29AC35DC69EB62E959A18152906E2E1FF80E479C15A34B5563
+# 72FM: https://72fm.com/station/d9db0a16-9100-4917-b5f5-bd48a42a1e70?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",경인방송
+https://stream.ifm.kr/live/aod1/playlist.m3u8
 # 72FM: https://72fm.com/station/323d45ac-e429-11e8-a9cc-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",EBS TV-Plus 2
 http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-# 72FM: https://72fm.com/station/0cbefa4e-77f0-4b98-bfdf-37a32aeb0c8b?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",befm
-http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8
 # 72FM: https://72fm.com/station/cb45bd69-ec15-4fe2-8a6f-0af262fb2aad?source=m3u
 #EXTINF:-1 tvg-logo="https://jtv.co.kr/2021/favicon.ico" group-title="South Korea" radio="true",JTV 매직FM
 https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8
-# 72FM: https://72fm.com/station/bd8fb526-2493-4849-a686-88fbcaa2f144?source=m3u
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/da/9b/4bV5pJxL_o.png" group-title="South Korea" radio="true",KBS Classic FM
-https://radio.bsod.kr/stream/?stn=kbs&ch=1fm
+# 72FM: https://72fm.com/station/0cbefa4e-77f0-4b98-bfdf-37a32aeb0c8b?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",befm
+http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8
 # 72FM: https://72fm.com/station/a70d424e-e428-11e8-a9cc-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",EBS TV-i
 http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
@@ -168,7 +138,7 @@ http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://listen.moe/kpop/fallback
 # 72FM: https://72fm.com/station/e0df5138-3057-4f08-b1e9-1a6b72e0f4ad?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",KBS Classic FM
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2NzUzNzZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ewuChlY0aCfNyZEUVV-NbXO70s9kJFWeZeN6FOOsKpLLGbBy3ebbd0hlHKHzzvr~WKnL4jW~HhCZVbe0n7rV5R4CJ0~BZcpYIZqaEw0qzZHov-o904zyUlv7h0oQzwsWNxETAzKNKDB-u5DwVs3LQbAuVKQN6vJubXIjMrraCVT8EqywHnKM7LVFaJ5fq3JSj7L6N0K9Says5Oh0CrDpQQeK5VHbndWkXU-Lxm3S3kLBUUJBIgr9-WkrFTirFVzc9AVbwDuhFHqE8gSD5CnBrDYESfZLxGOiYpXhpQ6s4XFWomRZavhxZYoLX6HFSSxLXI1rnATbkugRfrKTlVSHvA__
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQxMDczOTV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=cNmDZKjXWeWtHzAqyQWwWkljXh9LyoDp9pepXS0xUfoM8IDssXW2iFyKs4M1QzlvXXHlGNf8b4Fu7nmOL6xJTIkf-x6HMEhDqNyavJTRok479QjUpxMq4IMDWPn3eZ71LXaE8FviQUAY0WU7AagWC~6mAdxjs9vWRaQ~EVcmQVLlMxxGXCK7Qc-M5WVaWzAdIMXe9mjkhwrqDo3JaiBzj7xesV0gOuwAOEiBaTnQjRha3NxLgarAyZ~~BJPNJgNiIOvCQJrgvgpWzFCI~dQXGkWbsLAJVm7s0Vacu9bTwdAvNFLVHnDJfM2-stmyAG5gzqQ9PF9DlvcAxfnzSC6Zzw__
 # 72FM: https://72fm.com/station/4e050a3d-b7c9-11e9-acb2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",Gukak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
@@ -183,112 +153,82 @@ https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
 http://141.164.38.238/listen/ara_fm/radio.mp3
 # 72FM: https://72fm.com/station/4be766ba-038c-4795-87b0-04be87b1e712?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",kbs classic fm
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2Njc1NjJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=DAXdgHBnWLd0BgwhYlwO23p6sJHq1YHuEGBPCohSv743o0iICyCjP4koKOyl71Uj47N31C-4I-1MdjyZP87og9Pz821bPjQPKSanao86SoACQlVBvdgFMjtJFTjxCjIFXjkCw2i41hZK0w1exw3qPUk9fKmbZoy7THZN~HLQ7QTN-PxiNfEPQus2r86Xm7tDCTxrwFL0spSufN9tjM9lJjLTwfID-8oipKLn7MOPCUJZ~DcABqA5R9~UijXkd2FgwodRchoD7hqHi83p28WB3ZG-mN8-zR7YvkYToeD23pU0qkwaidl3CMqUrKvXP5KupiIDgPUe0w4oS-8Xsrhhaw__
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQwOTk1ODB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=KexMIvyr8FpfjOxwI8gGWh-ZRG-hMtK6OMqk3IQrYowAwbAzVhxTyTam0o6kzp7j7s78~EXgi8bHpqD3emI~ib18EWlszLeujhGKWkBnbwkBuSLHgKWhf5YAvRYLRFFzglM9kqN0rhFMuLcLyzp5EMksNMvEd4m3C2oiNgoz8AnypIkuRQjl8cIV7q~-UP~BbUcSZJKihiFGNsVNx4YbPJSgjT-lmSHEwWdSELIPufTcjfzR6k5wcOQqT0l3S6HfbhymzRXjzPp7u8-HWBrgjJD10ebOBPbOdbCxn5pnFGfZOBacPfa4vUG~1A5GHBNn7gpZXlqIH6M9ZXA6YEwW-w__
 # 72FM: https://72fm.com/station/1a512cf7-f77c-49c0-b42d-4e3db0656b6a?source=m3u
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/694/gongdongceradio-jeonjufm-935mhz.70bc301e.png" group-title="South Korea" radio="true",JeonjuFM
 http://radiostream.communityradio.kr/jcfm1
-# 72FM: https://72fm.com/station/44dc6d1c-abe5-402a-be20-3545a0a13101?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",Floyd Server (Rock Ballad...From 09/25/05)
-http://1.uicl.co.kr:8000/;
-# 72FM: https://72fm.com/station/8bf0d36b-ed07-4ccd-8142-4a2c59400fbe?source=m3u
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/ace67skP1qBC1abH8" group-title="South Korea" radio="true",WOW CCM
-http://wowccm.iptime.org:8000/stream/1/
-# 72FM: https://72fm.com/station/4edaf384-7c48-4852-a390-c879e2fc41aa?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-images-3.listennotes.com/podcasts/scn-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-891mhz-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-NrySpdFHVJk-a9nswMfkelH.1400x1400.jpg" group-title="South Korea" radio="true",SCN - Seongseo Community FM
-http://115.85.182.39/scnfm
 # 72FM: https://72fm.com/station/6ad5927a-7ef7-456c-ad54-059873ff9f28?source=m3u
 #EXTINF:-1 tvg-logo="https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg" group-title="South Korea" radio="true",TBS FM 95.1
 https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8
+# 72FM: https://72fm.com/station/44dc6d1c-abe5-402a-be20-3545a0a13101?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",Floyd Server (Rock Ballad...From 09/25/05)
+http://1.uicl.co.kr:8000/;
+# 72FM: https://72fm.com/station/4edaf384-7c48-4852-a390-c879e2fc41aa?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-images-3.listennotes.com/podcasts/scn-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-891mhz-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-NrySpdFHVJk-a9nswMfkelH.1400x1400.jpg" group-title="South Korea" radio="true",SCN - Seongseo Community FM
+http://115.85.182.39/scnfm
 # 72FM: https://72fm.com/station/656c6a0b-f0a8-4c8f-a0ef-97c72d130eef?source=m3u
 #EXTINF:-1 tvg-logo="https://sky24.inlive.co.kr/images/9.png" group-title="South Korea" radio="true",하늘호수24
 https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8
-# 72FM: https://72fm.com/station/54ac5316-5788-452f-a15b-5a53c79d0375?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",K-RADIO
-https://s5.radio.co/s0a9796fe3/listen
 # 72FM: https://72fm.com/station/7702bb1f-26bf-4df6-9209-5f10fb847058?source=m3u
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/04/91/049137633fcae422618f5e45e770d603.jpg" group-title="South Korea" radio="true",SoneFM (SuwonFM)
 http://115.85.182.39/sonefm
+# 72FM: https://72fm.com/station/54ac5316-5788-452f-a15b-5a53c79d0375?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",K-RADIO
+https://s5.radio.co/s0a9796fe3/listen
+# 72FM: https://72fm.com/station/480e1b12-7e69-4824-980b-68bf799c97a2?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",Korean city pop
+http://65.21.61.215:8000/citypoptwo
 # 72FM: https://72fm.com/station/e89958f1-bc76-44fe-b681-841b5ec4ceae?source=m3u
 #EXTINF:-1 tvg-logo="https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg" group-title="South Korea" radio="true",TBS eFM 101.3
 https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8
 # 72FM: https://72fm.com/station/3df9fa02-ae92-4423-8f01-e007129c00ee?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",국방FM
 https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8
-# 72FM: https://72fm.com/station/480e1b12-7e69-4824-980b-68bf799c97a2?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",Korean city pop
-http://65.21.61.215:8000/citypoptwo
 # 72FM: https://72fm.com/station/03750ff6-6222-4672-8817-864830fac0eb?source=m3u
 #EXTINF:-1 tvg-logo="https://www.arirang.com/favicon.ico" group-title="South Korea" radio="true",Arirang Radio
 http://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/arirang_3ch_audio/chunklist_b128000.m3u8
-# 72FM: https://72fm.com/station/d35905f6-d373-4bec-8ff1-153d0e991c1c?source=m3u
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/da/9b/4bV5pJxL_o.png" group-title="South Korea" radio="true",KBS Classic FM
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2OTcwMDR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=dVZxnYZOb2gAaIrtubxiUlwEmz50t4MMhgpzvuUBrPXw-QCtUQuK91HsgLm8bzPF~HsS-04pvzcPBoqVoS1hUt8mIsTUxQ6ftjju9tbhhoItJGBqhEThokZ6BzFas5HJVWL0lLhV0dT0MZhaW3zrnJc~uBM3hQVYDjy-VW62f6xtCS4WCNVj09bEhV~OHrSEnJp8qfMqV6LQB0tyOsevqrSXq9xCPdwmwgHuL95DG~RrgjJUYa42CFAbLJDWnuOeJtDM6aKYHRCFGlKF1jNlD~lwmfYiYodpSFv04q3RYGxYkU1dTBGajOkb5PpRnu29k2qSNd4F6m1f4gYeIfBsuw__
+# 72FM: https://72fm.com/station/1cedd673-4904-412b-aed2-6eca20cb2240?source=m3u
+#EXTINF:-1 tvg-logo="https://wowccm.net/img/m_logo.png" group-title="South Korea" radio="true",WOWCCM
+http://wowccm.iptime.org:8000/stream/1/
 # 72FM: https://72fm.com/station/6f6ea925-4bc3-4dbc-8990-7f48c6f24cb9?source=m3u
 #EXTINF:-1 tvg-logo="https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-KO.png" group-title="South Korea" radio="true",REPLAY NEWS - 한국어 5분마다 뉴스 라디오
 https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3
 # 72FM: https://72fm.com/station/1ade2300-f75f-4dcd-aa77-06d276537c0e?source=m3u
 #EXTINF:-1 tvg-logo="https://afngo.net/static/media/Humphreys.80cba9f67149f1bf7018.png" group-title="South Korea" radio="true",AFN GO HUMPHREYS The Eagle
 http://14623.live.streamtheworld.com/AFNP_OSNAAC_SC
-# 72FM: https://72fm.com/station/12d601b9-0c10-4f6d-8d85-e460b993c1a4?source=m3u
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NyGnXcp.png" group-title="South Korea" radio="true",KBS HappyFM
-https://radio.bsod.kr/stream/?stn=kbs&ch=2radio&bora=true
 # 72FM: https://72fm.com/station/38b5da3e-1859-47f3-9fb3-38e34741a84a?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",CPBC
-https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1NTI0MjMsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1NzQzNmU3Ny1mNWJhLTRjZGQtYjUwOC1mMTYyMzllODE1YWEiLCJpYXQiOjE3OTM1MDkyMjN9.JFWnNAKyIKd1x7icQIzX3GLfAPrp5G5sfChyaIULwhQ
+https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM5ODQ0MjEsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzOWQ3Zjk2ZC01YzcwLTRmOWEtYWMwMi1jNjU0ZjJjYjIyYjYiLCJpYXQiOjE3OTM5NDEyMjF9.2cQIV2_xk2WLsR-eQg59ut5jDlAKqxA8k3-8l2IjxEE
 # 72FM: https://72fm.com/station/1c5e70a7-491a-455a-b1b3-48f4b8241155?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",MapoFM
 http://onair.mapofm.net/mapofm
-# 72FM: https://72fm.com/station/9d4d4eef-d7e3-4a96-bc8f-550d9b6962e4?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",(BSOD) MBC mini All-That-Music
-https://radio.bsod.kr/stream/?stn=mbc&ch=chm
-# 72FM: https://72fm.com/station/3058649c-068d-43e8-8c47-4a5a89dbdc4c?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",CBS 표준FM 98.1
-https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/59373d6b-79e2-41d1-a808-ea6a7cbe4ba3?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",KBS 2FM
-https://radio.bsod.kr/stream/?stn=kbs&ch=2fm
-# 72FM: https://72fm.com/station/b666f9d5-126e-48ce-8826-81fcfb065485?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",EBS FM 104.5
-http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8
-# 72FM: https://72fm.com/station/ccc17129-0131-4554-b780-2d3ccd45f68c?source=m3u
-#EXTINF:-1 tvg-logo="https://imgur.com/0sWnnQO" group-title="South Korea" radio="true",KBS Classic FM zstream
-https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM3NDAxNzR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=bN8G3rQIHEgoBj9UTMmJ5kEuK99fnd2Zl73Wjst8PwPUO6jdAoP92Rt0R8BVDJGR0aFVbzqTvPeH-s3anJuwiSv1fljkVVMBrlZhiWDhmtyiYXG02qLXI6PyeQKOKYQGiz2vTSBl6Ezz2jm~EcFwN3BGsAbB-RYttArgPHwQMDmcknpEpWAGf08NCOahi11dPGUliec9lDhcbI-UjLyQ67JF4x258ndtjmxN-bdUyq~bnpyPPNn-JNI-vSbDTog8maW6CVM0F2yctHjxmitlkHcJyLYujBoA~814JCgXCxDeBIkp7-obKp5n1sUOVRqLtabEfTXSTPZZ5pbrQZ7WVQ__
-# 72FM: https://72fm.com/station/0164bed4-d071-4b85-bc61-dd2f29783c64?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",K-Meat
-http://kmeathosting.com:8000/kmeat
 # 72FM: https://72fm.com/station/24163c48-89c6-4d34-99b7-a3c2e9d4cadd?source=m3u
 #EXTINF:-1 tvg-logo="https://music.yojosuknam.com/radio/icon-512.png" group-title="South Korea" radio="true",yojosuknam Radio
 https://stream.yojosuknam.com/live.mp3
-# 72FM: https://72fm.com/station/11c0bd17-9a8c-41a7-a050-3cf612c205f6?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",KBS 1RADIO
-https://radio.bsod.kr/stream/?stn=kbs&ch=1radio
-# 72FM: https://72fm.com/station/d6441a3a-478c-46e2-b50d-3b89240a8d88?source=m3u
-#EXTINF:-1 tvg-logo="https://music.yojosuknam.com/radio/icon-512.png" group-title="South Korea" radio="true",yojosuknam Radio
-https://audio.yojosuknam.com/radio/live.m3u8
-# 72FM: https://72fm.com/station/026c6b18-8726-4d14-a8e2-05bb9288be49?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",http://serpent0.duckdns.org:8088/kbs2fm.pls
-https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM3MTkxODF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=dq1k2xpzLX1DE83aQngZ19kW3PS0yrlCNWW0IyeFNV3xJWcIsw6O1JVN5kQdoqj4w6zUhTmEyiCWlTMaFJ2YYCqlsOHL66VYndakubbOUnOHa-8ubGMZ9rkvo02Pm5tg7aEmxd-KTLFyxE~NqtwKzkYDIISkEqktP~zT4XKLOl0EF-4DlFYnI~R1mCmkITpT--XYG3tyVsXC7w1C4sPwddD7UblTOMVDouRo2dY7TwK2u9jrc4sj4~lmfEavJhY6IWb-9IWxgn61A~X9L0Us2NC~cFbTO7r4mg7I0~KYHVDbp6HNFcdD1MzcwerQyItP6SPZhAXlsd~YRQLpnX5b5w__
-# 72FM: https://72fm.com/station/80e86ed2-df7c-4378-bda7-4ba5e5aae1bb?source=m3u
-#EXTINF:-1 tvg-logo="https://092007.xyz/apple-touch-icon.png" group-title="South Korea" radio="true",Soshi-Subs
-https://092007.xyz/radio/soshisubs
+# 72FM: https://72fm.com/station/3058649c-068d-43e8-8c47-4a5a89dbdc4c?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",CBS 표준FM 98.1
+https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/c6526df4-0e1f-4f95-baea-3483f8ca7bf1?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfZhAjmDC9Q6KIOILQiRnGR7_KpXwJ_RwArzYCNVwPg&s=10" group-title="South Korea" radio="true",MBC Munhwa Bangsong FM 4U
 http://211.33.246.4:32954/radio_fm/myStream.sdp/playlist.m3u8
-# 72FM: https://72fm.com/station/9b8512b7-436d-4da8-8777-633ad9b6671f?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",CBS JOY4U
-https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/b666f9d5-126e-48ce-8826-81fcfb065485?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",EBS FM 104.5
+http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8
+# 72FM: https://72fm.com/station/0164bed4-d071-4b85-bc61-dd2f29783c64?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",K-Meat
+http://kmeathosting.com:8000/kmeat
+# 72FM: https://72fm.com/station/d6441a3a-478c-46e2-b50d-3b89240a8d88?source=m3u
+#EXTINF:-1 tvg-logo="https://music.yojosuknam.com/radio/icon-512.png" group-title="South Korea" radio="true",yojosuknam Radio
+https://audio.yojosuknam.com/radio/live.m3u8
 # 72FM: https://72fm.com/station/a5e6a0b8-b68e-4931-80c6-1861299fad86?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",FEBC Seoul 106.9 FM (서울극동방송)
 http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8
-# 72FM: https://72fm.com/station/9686c674-268e-46b6-b8e3-c80df26733fd?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",CBS Std FM
-https://radio.bsod.kr/stream/?stn=cbs&ch=sfm
+# 72FM: https://72fm.com/station/80e86ed2-df7c-4378-bda7-4ba5e5aae1bb?source=m3u
+#EXTINF:-1 tvg-logo="https://092007.xyz/apple-touch-icon.png" group-title="South Korea" radio="true",Soshi-Subs
+https://092007.xyz/radio/soshisubs
+# 72FM: https://72fm.com/station/9b8512b7-436d-4da8-8777-633ad9b6671f?source=m3u
+#EXTINF:-1 group-title="South Korea" radio="true",CBS JOY4U
+https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/e9307192-2116-4d23-a2a2-93a0e662150a?source=m3u
 #EXTINF:-1 group-title="South Korea" radio="true",FEBC 제주극동방송 FM 104.7
 http://mlive2.febc.net:1935/live/jejufm/playlist.m3u8
-# 72FM: https://72fm.com/station/817d592b-206d-44d1-b58e-3f03c09af18a?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",KBS 3radio
-https://radio.bsod.kr/stream/?stn=kbs&ch=3radio
-# 72FM: https://72fm.com/station/fb8a911e-e106-43fa-af7e-9a2da7779164?source=m3u
-#EXTINF:-1 group-title="South Korea" radio="true",CBS Joy FM
-https://radio.bsod.kr/stream/?stn=cbs&ch=joy4u

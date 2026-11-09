@@ -10,10 +10,6 @@
     <streamingInternetRadio href="http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3" />
     <!-- Sky Plus -->
     <streamingInternetRadio href="https://stream.skymedia.ee/live/SKYPLUS" />
-    <!-- Retro FM Estonia -->
-    <streamingInternetRadio href="https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b" />
-    <!-- Sky Plus DnB -->
-    <streamingInternetRadio href="https://edge03.cdn.bitflip.ee:8888/NRJdnb" />
     <!-- Raadio 2 HQ -->
     <streamingInternetRadio href="http://icecast.err.ee/raadio2korge.mp3" />
     <!-- Pereraadio Tallinn -->
@@ -28,8 +24,6 @@
     <streamingInternetRadio href="http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3" />
     <!-- NRJ Tallinn -->
     <streamingInternetRadio href="https://edge03.cdn.bitflip.ee:8888/NRJ" />
-    <!-- VIKERRAADIO -->
-    <streamingInternetRadio href="http://icecast.err.ee/vikerraadiokorge.mp3" />
     <!-- Äripäeva Raadio -->
     <streamingInternetRadio href="https://www.aripaev.ee/raadio/stream.mp3" />
     <!-- Sooviraadio -->
@@ -40,8 +34,6 @@
     <streamingInternetRadio href="https://stream.skymedia.ee/live/SKY" />
     <!-- NRJ -->
     <streamingInternetRadio href="https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb" />
-    <!-- Семейное Радио Эли. Тарту 1035 КГц -->
-    <streamingInternetRadio href="http://icecast.pereraadio.ee:8000/RadioEli" />
     <!-- Sky Plus -->
     <streamingInternetRadio href="https://skymedia-live.bitflip.ee/SKYPLUS" />
     <!-- Hitmix Estonia -->
@@ -56,42 +48,36 @@
     <streamingInternetRadio href="https://edge02.cdn.bitflip.ee:8888/KISS" />
     <!-- R2 Eesti -->
     <streamingInternetRadio href="https://icecast.err.ee/r2eestikorge.mp3" />
-    <!-- Retro Love -->
-    <streamingInternetRadio href="https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud" />
     <!-- Star FM -->
     <streamingInternetRadio href="https://ice.leviracloud.eu/star320-mp3" />
-    <!-- Radio Nostalgia -->
-    <streamingInternetRadio href="https://c16.radioboss.fm:8327/stream" />
-    <!-- Retro fm disco -->
-    <streamingInternetRadio href="https://edge05.cdn.bitflip.ee:8888/retro1.mp3?" />
-    <!-- Pereraadio Tartu -->
-    <streamingInternetRadio href="http://icecast.pereraadio.ee:8000/Tartu" />
     <!-- Semeinoje Radio -->
     <streamingInternetRadio href="http://icecast.pereraadio.ee:8000/Semeinoje" />
     <!-- Taifuun FM -->
     <streamingInternetRadio href="https://eagle.streemlion.com/proxy/taifuunfm?mp=/stream" />
     <!-- Raadio Kadi -->
     <streamingInternetRadio href="https://edge06.cdn.bitflip.ee:8888/kadi" />
-    <!-- Pereraadio Kuressaare -->
-    <streamingInternetRadio href="http://icecast.pereraadio.ee:8000/Kuressaare" />
     <!-- Tre Raadio Põhja-Eesti -->
     <streamingInternetRadio href="http://cdn.treraadio.ee/pohja-tre" />
     <!-- Radio Azathoth Revival -->
     <streamingInternetRadio href="https://cast4.asurahosting.com/proxy/aadu/stream" />
-    <!-- Sky Plus D'N'B -->
-    <streamingInternetRadio href="https://edge01.cdn.bitflip.ee:8888/NRJdnb" />
+    <!-- VIKERRAADIO -->
+    <streamingInternetRadio href="http://icecast.err.ee/vikerraadiokorge.mp3" />
+    <!-- Radio Eli -->
+    <streamingInternetRadio href="http://icecast.pereraadio.ee:8000/RadioEli" />
     <!-- Kiss FM -->
     <streamingInternetRadio href="https://stream.skymedia.ee/live/KISS" />
+    <!-- Pereraadio Kuressaare -->
+    <streamingInternetRadio href="http://icecast.pereraadio.ee:8000/Kuressaare" />
     <!-- Legendaarne Raadio -->
     <streamingInternetRadio href="https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92" />
+    <!-- Pereraadio Tartu -->
+    <streamingInternetRadio href="http://icecast.pereraadio.ee:8000/Tartu" />
     <!-- Legendaarne Raadio -->
     <streamingInternetRadio href="https://stream.skymedia.ee/live/Legendaarne" />
-    <!-- Rock-FM Metal -->
-    <streamingInternetRadio href="https://edge04.cdn.bitflip.ee:8888/rckmetal" />
-    <!-- Hits Show Radio -->
-    <streamingInternetRadio href="https://stream.zeno.fm/7sreyeyustkuv" />
     <!-- RUUT FM -->
     <streamingInternetRadio href="https://a1.asurahosting.com/listen/ruut_fm/radio.mp3" />
+    <!-- Hits Show Radio -->
+    <streamingInternetRadio href="https://stream.zeno.fm/7sreyeyustkuv" />
     <!-- Radio Olematu -->
     <streamingInternetRadio href="https://radio.olematu.ee/listen/radio_olematu/radio.mp3" />
     <!-- Raadio Tallinn -->
@@ -102,62 +88,66 @@
     <streamingInternetRadio href="https://a10.asurahosting.com:7640/radio.mp3" />
     <!-- PUNK FM -->
     <streamingInternetRadio href="https://sapircast.caster.fm:11309/OsZpV" />
-    <!-- PCR.fm (Parnu Club Radio) -->
-    <streamingInternetRadio href="https://pcrfm.radiocult.fm/stream" />
-    <!-- Global Export FM -->
-    <streamingInternetRadio href="https://radio.globalexport.ee/stream.mp3" />
-    <!-- NRJ Estonia -->
-    <streamingInternetRadio href="https://stream.skymedia.ee/live/NRJ" />
-    <!-- Пирамида FM -->
-    <streamingInternetRadio href="https://listen9.myradio24.com/93928" />
-    <!-- R2 Rock -->
-    <streamingInternetRadio href="http://icecast.err.ee/r2rock.mp3" />
-    <!-- Raadio 4 -->
-    <streamingInternetRadio href="http://icecast.err.ee/r4retro.mp3" />
-    <!-- Tunitemusic -->
-    <streamingInternetRadio href="https://stream.radiojar.com/6x51bmzpfy3vv" />
-    <!-- Retro FM -->
-    <streamingInternetRadio href="https://stream.skymedia.ee/live/RETRO" />
+    <!-- Radio Nostalgia Estonia -->
+    <streamingInternetRadio href="https://c16.radioboss.fm:8327/stream" />
     <!-- Hits Show Radio - EST -->
     <streamingInternetRadio href="https://stream.zeno.fm/dghp9excl67vv" />
-    <!-- XFM Eesti -->
-    <streamingInternetRadio href="https://sc2.treraadio.ee/xfm-tallinn" />
+    <!-- Global Export FM -->
+    <streamingInternetRadio href="https://radio.globalexport.ee/stream.mp3" />
+    <!-- PCR.FM (Parnu Club Radio) -->
+    <streamingInternetRadio href="https://pcrfm.radiocult.fm/stream" />
+    <!-- R2 Rock -->
+    <streamingInternetRadio href="http://icecast.err.ee/r2rock.mp3" />
     <!-- BIGfm -->
     <streamingInternetRadio href="https://sc2.flamebox.org/bigfm-hd" />
-    <!-- NRJ DnB -->
-    <streamingInternetRadio href="https://stream.skymedia.ee/live/NRJdnb" />
-    <!-- AiEon -->
-    <streamingInternetRadio href="https://raadio.aieon.ee/radio.mp3" />
-    <!-- Raadio REMIX -->
-    <streamingInternetRadio href="https://stream.hostbee.nl:5740/stream" />
+    <!-- NRJ Estonia -->
+    <streamingInternetRadio href="https://stream.skymedia.ee/live/NRJ" />
+    <!-- Raadio 4 -->
+    <streamingInternetRadio href="http://icecast.err.ee/r4retro.mp3" />
     <!-- Rahvaraadio -->
     <streamingInternetRadio href="http://streamer.tt.ee:8000/rahvaraadio" />
-    <!-- Retro FM - Jõulud -->
-    <streamingInternetRadio href="https://stream.skymedia.ee/live/RetroJ6ulud" />
-    <!-- Space FM -->
-    <streamingInternetRadio href="https://stream.spacefm.ee/live" />
+    <!-- Пирамида FM -->
+    <streamingInternetRadio href="https://listen9.myradio24.com/93928" />
     <!-- Tagatuba FM -->
     <streamingInternetRadio href="https://mcr.streams.gr:10416/stream" />
-    <!-- Chat Raadio -->
-    <streamingInternetRadio href="https://puma.streemlion.com:1830/stream" />
-    <!-- Hot Fields AI Radio -->
-    <streamingInternetRadio href="https://radio.citrina.ee/listen/hot_fields_ai_radio/radio.mp3" />
-    <!-- NEUROSCOPE FM -->
-    <streamingInternetRadio href="https://a13.asurahosting.com/listen/neuroscope_fm/radio.mp3" />
-    <!-- R2Extra - Rap -->
-    <streamingInternetRadio href="http://icecast.err.ee/r2pkorge.mp3" />
-    <!-- Retro FM Eestikas -->
-    <streamingInternetRadio href="https://stream.skymedia.ee/live/retro2.mp3" />
+    <!-- Radio DRUZI -->
+    <streamingInternetRadio href="https://stream.druzi.media/192mp3" />
+    <!-- NRJ DnB -->
+    <streamingInternetRadio href="https://stream.skymedia.ee/live/NRJdnb" />
     <!-- SSS-Radio -->
     <streamingInternetRadio href="https://uvn-67-97.tll01.zonevs.eu/sss-radio" />
-    <!-- Super Ретро -->
-    <streamingInternetRadio href="https://stream.skymedia.ee/live/rrretro" />
-    <!-- Super Рок -->
-    <streamingInternetRadio href="https://stream.skymedia.ee/live/rrock" />
+    <!-- Chat Raadio -->
+    <streamingInternetRadio href="https://puma.streemlion.com:1830/stream" />
+    <!-- Retro FM Eestikas -->
+    <streamingInternetRadio href="https://stream.skymedia.ee/live/retro2.mp3" />
+    <!-- XFM Eesti -->
+    <streamingInternetRadio href="https://sc2.treraadio.ee/xfm-tallinn" />
+    <!-- Hot Fields AI Radio -->
+    <streamingInternetRadio href="https://radio.citrina.ee/listen/hot_fields_ai_radio/radio.mp3" />
+    <!-- Raadio REMIX -->
+    <streamingInternetRadio href="https://stream.hostbee.nl:5740/stream" />
+    <!-- Retro FM -->
+    <streamingInternetRadio href="https://stream.skymedia.ee/live/RETRO" />
+    <!-- Tunitemusic -->
+    <streamingInternetRadio href="https://stream.radiojar.com/6x51bmzpfy3vv" />
     <!-- Vikerraadio -->
     <streamingInternetRadio href="https://icecast.err.ee/vikerraadiokorge.mp3" />
     <!-- XL Radio Estonia -->
     <streamingInternetRadio href="https://stream.rcast.net/69794" />
     <!-- Радіо DrUzi -->
     <streamingInternetRadio href="https://druzi.fm:8443/192mp3" />
+    <!-- NEUROSCOPE FM -->
+    <streamingInternetRadio href="https://a13.asurahosting.com/listen/neuroscope_fm/radio.mp3" />
+    <!-- Space FM -->
+    <streamingInternetRadio href="https://stream.spacefm.ee/live" />
+    <!-- Super Ретро -->
+    <streamingInternetRadio href="https://stream.skymedia.ee/live/rrretro" />
+    <!-- Super Рок -->
+    <streamingInternetRadio href="https://stream.skymedia.ee/live/rrock" />
+    <!-- AiEon -->
+    <streamingInternetRadio href="https://raadio.aieon.ee/radio.mp3" />
+    <!-- R2Extra - Rap -->
+    <streamingInternetRadio href="http://icecast.err.ee/r2pkorge.mp3" />
+    <!-- Retro FM - Jõulud -->
+    <streamingInternetRadio href="https://stream.skymedia.ee/live/RetroJ6ulud" />
 </streamingInternetRadios>

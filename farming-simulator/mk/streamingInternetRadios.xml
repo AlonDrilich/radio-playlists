@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <streamingInternetRadios>
-    <!-- Kanal 103 -->
-    <streamingInternetRadio href="http://radiostream.neotel.mk/kanal103" />
-    <!-- Antenna 5 Macedonia -->
-    <streamingInternetRadio href="http://antenna5stream.neotel.mk:8000/live128" />
     <!-- Just Music Radio -->
     <streamingInternetRadio href="https://radiostream.neotel.mk/justmusicradio" />
     <!-- Radio Maria Macedonia -->
@@ -12,8 +8,6 @@
     <streamingInternetRadio href="http://liferadio.ddns.net:8000/" />
     <!-- Metropolis Radio Network -->
     <streamingInternetRadio href="https://eu4.fastcast4u.com/proxy/metradio?mp=/1" />
-    <!-- Jazz FM -->
-    <streamingInternetRadio href="https://radio.jazzfm.mk/listen/jazzfm/live" />
     <!-- Radio Meff -->
     <streamingInternetRadio href="https://s32.myradiostream.com:16040/;?type=http&amp;nocache=1688299470?0.591044522318551" />
     <!-- Lider FM 107,4 -->
@@ -22,14 +16,14 @@
     <streamingInternetRadio href="http://iandonov.radioca.st/;stream/1" />
     <!-- Urban FM 90.8 Skopje -->
     <streamingInternetRadio href="https://securestreams4.autopo.st:1668/stream" />
-    <!-- Скај Радио -->
-    <streamingInternetRadio href="http://s1.skyradio.com.mk:8002/" />
     <!-- Time FM Gevgelija -->
     <streamingInternetRadio href="https://s2.free-shoutcast.com/stream/18058" />
     <!-- Life Radio 89.1 Macedonia -->
     <streamingInternetRadio href="http://liferadio.ddns.net:8000/;" />
     <!-- Експрес Радио 101.1 Струмица, Македонија -->
     <streamingInternetRadio href="http://ekspresradio.dyndns.org:8000/" />
+    <!-- =KECO=ROCK BALLADS -->
+    <streamingInternetRadio href="http://online.radioroks.ua/RadioROKS_Ballads_HD" />
     <!-- Канал 77 Радио Мрежа -->
     <streamingInternetRadio href="https://radiocnd.mms.mk/proxy/player/stream" />
     <!-- Sky Radio 102.5 Skopje, Macedonia -->
@@ -38,14 +32,14 @@
     <streamingInternetRadio href="http://server.webnetradio.net:5490/stream?" />
     <!-- Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps) -->
     <streamingInternetRadio href="https://s1.skyradio.com.mk/retro.mp3" />
+    <!-- =KECO=70s ROCK -->
+    <streamingInternetRadio href="http://jfm1.hostingradio.ru:14536/rock70.mp3" />
     <!-- Radio Kanal 77 Skopje, Macedonia -->
     <streamingInternetRadio href="https://radiocnd.mms.mk/proxy/offnet/stream" />
     <!-- Antenna 5 -->
     <streamingInternetRadio href="https://fms.off.net.mk:8000/antenna5.stream" />
     <!-- Radio Fortuna 96.8 Skopje, Macedonia -->
     <streamingInternetRadio href="https://radiofortuna.ipradio.mk/;*.mp3%22" />
-    <!-- Sky Radio Hits Skopje, Macedonia -->
-    <streamingInternetRadio href="https://s1.skyradio.com.mk/hits.mp3" />
     <!-- SamoMK -->
     <streamingInternetRadio href="http://radiostream.neotel.mk/samomk" />
     <!-- Samo MK -->
@@ -56,14 +50,20 @@
     <streamingInternetRadio href="https://worldradio.online/proxy/?q=http://liferadio.ddns.net:8000/stream&amp;plugin_id=13399&amp;site_id=14630760" />
     <!-- RFM 91.3 - North Macedonia -->
     <streamingInternetRadio href="http://213.133.109.18:10004/stream" />
+    <!-- Hits Sky Radio 102.5 FM Macedonia (MP3 128 kbps) -->
+    <streamingInternetRadio href="https://s1.skyradio.com.mk/hits.mp3" />
     <!-- Radio Fortuna 96.8 FM -->
     <streamingInternetRadio href="https://radiofortuna.ipradio.mk/;*.mp3" />
+    <!-- 103 -->
+    <streamingInternetRadio href="http://radiostream.neotel.mk/kanal103" />
     <!-- radio 22 -->
     <streamingInternetRadio href="https://radio.server14.kariha.net:8008/" />
     <!-- Radio VMRO 1 -->
     <streamingInternetRadio href="https://radiovmro.radioca.st/;*.mp3" />
     <!-- Radio 105 Bombarder -->
     <streamingInternetRadio href="https://radio105bombarder.com:21010/" />
+    <!-- Jazz FM -->
+    <streamingInternetRadio href="https://radio.jazzfm.mk/listen/jazzfm/live" />
     <!-- Club FM Macedonia -->
     <streamingInternetRadio href="http://176.9.117.123:9996/;" />
 </streamingInternetRadios>

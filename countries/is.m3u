@@ -7,9 +7,6 @@
 # 72FM: https://72fm.com/station/961d3ec2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Iceland" radio="true",Bylgjan 98.9 Reykjavik
 http://icecast.365net.is:8000/orbbylgjan.aac
-# 72FM: https://72fm.com/station/d98c5e50-9d73-42b5-b52d-16669e9dbe1a?source=m3u
-#EXTINF:-1 tvg-logo="https://www.ruv.is/apple-touch-icon.png" group-title="Iceland" radio="true",Rúv rás1
-http://netradio.ruv.is/ras1.aac
 # 72FM: https://72fm.com/station/961e9f13-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Iceland" radio="true",80's Bylgjan
 http://icecast.365net.is:8000/orb80s.aac
@@ -55,6 +52,9 @@ https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8
 # 72FM: https://72fm.com/station/c7162b90-39e6-45c8-ac30-4901a48f5dc2?source=m3u
 #EXTINF:-1 group-title="Iceland" radio="true",Restro 89,5
 http://ice-11.spilarinn.is/retromobile
+# 72FM: https://72fm.com/station/ea3a1278-0b08-4254-a98b-cfee9a576b18?source=m3u
+#EXTINF:-1 group-title="Iceland" radio="true",Rás 1
+http://netradio.ruv.is/ras1.aac
 # 72FM: https://72fm.com/station/8d472d16-8ce9-49ed-9b60-df7cd7041566?source=m3u
 #EXTINF:-1 group-title="Iceland" radio="true",K 100
 https://ice-11.spilarinn.is/kaninnmobile
@@ -76,3 +76,6 @@ https://seyisfjorur-community-radio.radiocult.fm/stream
 # 72FM: https://72fm.com/station/86590d5f-5e43-49a7-a774-d9f34d47e49f?source=m3u
 #EXTINF:-1 group-title="Iceland" radio="true",RADIO AKI ASGEIRSSON : Tonlist / Music by Aki Asgeirsson
 https://kast.aki.is/radio
+# 72FM: https://72fm.com/station/86b4a6b3-9676-42ca-9dad-5e7e5af97fda?source=m3u
+#EXTINF:-1 group-title="Iceland" radio="true",Estuary FM
+https://89-126-248-183.sslip.io:9443/estuary

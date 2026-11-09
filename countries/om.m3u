@@ -4,9 +4,6 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/0925f9a5-2cee-4900-b8f0-d6b0b64a90af?source=m3u
-#EXTINF:-1 group-title="Oman" radio="true",Virgin Radio Oman
-http://uk5.internet-radio.com:8115/stream
 # 72FM: https://72fm.com/station/2cc238bc-2466-4e27-a5ad-af7e02991220?source=m3u
 #EXTINF:-1 group-title="Oman" radio="true",Quran Program Oman إذاعة-القرآن-الكريم
 https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
@@ -16,15 +13,15 @@ https://listen-halafm.sharp-stream.com/halafmlow.mp3
 # 72FM: https://72fm.com/station/ef2cb53f-3f77-482c-942b-a2826cb324af?source=m3u
 #EXTINF:-1 group-title="Oman" radio="true",Al Wisal
 http://uk7.internet-radio.com:8067/;
-# 72FM: https://72fm.com/station/df11c6f9-6671-11e9-af37-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Oman" radio="true",Merge
-http://uk7.internet-radio.com:8040/
 # 72FM: https://72fm.com/station/a4cc08fb-cfad-41a4-9672-9a710542f612?source=m3u
 #EXTINF:-1 tvg-logo="https://ayn.om/images/fav.ico?v=112" group-title="Oman" radio="true",90.4 FM الإذاعة-الإنجليزية
 https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
-# 72FM: https://72fm.com/station/6d448167-b7d7-4537-aa0e-fbd11e880783?source=m3u
-#EXTINF:-1 group-title="Oman" radio="true",Hi FM Oman
-http://listen-hifmtemp.sharp-stream.com/hifmmid.mp3
+# 72FM: https://72fm.com/station/243811b6-bb69-4913-a698-ce5f8d9940d8?source=m3u
+#EXTINF:-1 group-title="Oman" radio="true",Merge 104.8
+http://uk7.internet-radio.com:8040/
 # 72FM: https://72fm.com/station/e06ee212-1fc0-4e10-aff8-6c97966e2b9e?source=m3u
 #EXTINF:-1 tvg-logo="https://platform-upload.cdn-brlogic.com/246202/logo/2110a5264b0e40cecc62a70b644715be.png" group-title="Oman" radio="true",JazzWave Radio
 https://servidor19.brlogic.com:7126/live
+# 72FM: https://72fm.com/station/fbb15f71-f6d6-4615-9230-fb9e0f0e684b?source=m3u
+#EXTINF:-1 group-title="Oman" radio="true",Virgin Radio (Oman)
+http://uk5.internet-radio.com:8115/stream

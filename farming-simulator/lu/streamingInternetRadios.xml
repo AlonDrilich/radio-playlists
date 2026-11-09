@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <streamingInternetRadios>
-    <!-- Generation Dance Radio -->
-    <streamingInternetRadio href="http://generationdance.lu/radio/8030/hd" />
     <!-- RTL Radio Letzebuerg -->
     <streamingInternetRadio href="http://sc-rtllive.newmedia.lu/" />
     <!-- Eldoradio -->
     <streamingInternetRadio href="http://81.92.238.33/" />
     <!-- RTL Radio - Deutschlands Hit-Radio -->
     <streamingInternetRadio href="http://stream.rtlradio.de/rtl-de-national/mp3-192/" />
+    <!-- Generation Dance Radio -->
+    <streamingInternetRadio href="http://generationdance.lu/radio/8030/hd" />
     <!-- RTL Schlagerliebe -->
     <streamingInternetRadio href="http://stream.rtlradio.de/schlagerliebe/mp3-192/" />
     <!-- RTL Radio - Die besten Hits aller Zeiten -->
@@ -40,8 +40,6 @@
     <streamingInternetRadio href="http://streaming.aoip.international:8000/cr-gilsdorf" />
     <!-- RTL Today -->
     <streamingInternetRadio href="https://shoutcast.rtl.lu/rtltodayradio" />
-    <!-- Radio Radijacija -->
-    <streamingInternetRadio href="https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3" />
     <!-- FCE-CONTINUO Webradio -->
     <streamingInternetRadio href="https://www.radioking.com/play/fce-continuo" />
     <!-- AAAudio -->
@@ -50,4 +48,6 @@
     <streamingInternetRadio href="http://stream.peitengonair.lu:9000/live" />
     <!-- Luxembourg Global Radio -->
     <streamingInternetRadio href="https://radio.globalradio.lu:8000/radio.mp3" />
+    <!-- Radio RADIJACIJA -->
+    <streamingInternetRadio href="https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3" />
 </streamingInternetRadios>

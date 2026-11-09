@@ -1,41 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <streamingInternetRadios>
-    <!-- RMF FM -->
-    <streamingInternetRadio href="http://195.150.20.242:8000/rmf_fm" />
-    <!-- Radio Zet -->
-    <streamingInternetRadio href="http://zet-net-01.cdn.eurozet.pl:8400/" />
-    <!-- Antyradio -->
-    <streamingInternetRadio href="https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5" />
-    <!-- Polskie Radio Jedynka -->
-    <streamingInternetRadio href="http://mp3.polskieradio.pl:8900/;.mp3" />
     <!-- Polskie Radio 24 -->
     <streamingInternetRadio href="http://stream3.polskieradio.pl:8080/;.mp3" />
-    <!-- Trojka -->
-    <streamingInternetRadio href="http://stream3.polskieradio.pl:8904/" />
-    <!-- TOK FM -->
-    <streamingInternetRadio href="https://radiostream.pl/tuba10-1.mp3#TOK_FM" />
     <!-- Radio ZET -->
     <streamingInternetRadio href="https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5" />
-    <!-- ESKA ROCK -->
-    <streamingInternetRadio href="https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK" />
-    <!-- Polskie Radio Program 1 -->
-    <streamingInternetRadio href="http://mp3.polskieradio.pl:8900/" />
     <!-- Radio Wnet -->
     <streamingInternetRadio href="http://audio.radiownet.pl:8000/stream" />
     <!-- VOX FM -->
-    <streamingInternetRadio href="http://ic1.smcdn.pl/3990-1.mp3" />
+    <streamingInternetRadio href="http://ic2.smcdn.pl/3990-1.mp3" />
     <!-- Polskie Radio - Czwórka -->
     <streamingInternetRadio href="http://stream3.polskieradio.pl:8906/;stream" />
     <!-- RMF FM -->
     <streamingInternetRadio href="http://31.192.216.8/rmf_fm" />
     <!-- Radio Szczecin (128K MP3) -->
     <streamingInternetRadio href="http://stream4.nadaje.com:11986/prs" />
-    <!-- Radio Nowy Świat 256k -->
-    <streamingInternetRadio href="https://go-audio.toya.net.pl/63214" />
     <!-- Radioparty.pl House Party -->
     <streamingInternetRadio href="http://house.radioparty.pl:8010/" />
-    <!-- Polskie Radio Kierowców -->
-    <streamingInternetRadio href="http://stream3.polskieradio.pl:8918/;" />
     <!-- Radioparty.pl Energy2000 -->
     <streamingInternetRadio href="http://energy2000.radioparty.pl:8005/" />
     <!-- Radio Gdansk -->
@@ -48,18 +28,12 @@
     <streamingInternetRadio href="https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02" />
     <!-- Rock Radio -->
     <streamingInternetRadio href="https://radiostream.pl/tuba8-1.mp3?cache=1650763965" />
-    <!-- Chilli Zet -->
-    <streamingInternetRadio href="https://ch.cdn.eurozet.pl/chi-net.mp3" />
     <!-- Minimal Mix Radio -->
     <streamingInternetRadio href="http://orion.shoutca.st:8750/" />
     <!-- Radioparty.pl -->
     <streamingInternetRadio href="http://s7.radioparty.pl:8000/" />
-    <!-- Wnet.fm -->
-    <streamingInternetRadio href="https://media.wnet.fm/wnet.fm" />
     <!-- Radio Krakow -->
     <streamingInternetRadio href="http://stream3.nadaje.com:9116/radiokrakow" />
-    <!-- VOX FM 128 -->
-    <streamingInternetRadio href="https://ic2.smcdn.pl/3990-1.mp3" />
     <!-- Radio Eska Kraków -->
     <streamingInternetRadio href="http://ic1.smcdn.pl/2070-1.mp3" />
     <!-- ESKA GORĄCA 100 -->
@@ -77,9 +51,7 @@
     <!-- Radio Party - Kanał Główny -->
     <streamingInternetRadio href="https://s2.radioparty.pl:8015/stream?nocache=4171" />
     <!-- Radio RMF FM -->
-    <streamingInternetRadio href="https://rs201-krk.rmfstream.pl/rmf_fm" />
-    <!-- Radio Jasna Gora -->
-    <streamingInternetRadio href="http://online.radiojasnagora.pl:8000/rjg" />
+    <streamingInternetRadio href="http://31.192.216.4/rmf_fm" />
     <!-- RadioFEST -->
     <streamingInternetRadio href="https://play.radiofest.pl:8443/fest" />
     <!-- Radio Pogoda Poznań -->
@@ -96,8 +68,6 @@
     <streamingInternetRadio href="http://stream4.nadaje.com:9240/prw" />
     <!-- Polskie Radio Kierowców -->
     <streamingInternetRadio href="http://stream3.polskieradio.pl:8918/" />
-    <!-- Radio 7 -->
-    <streamingInternetRadio href="http://stream.radio7.pl:443/radio7.mp3" />
     <!-- Radio eM -->
     <streamingInternetRadio href="http://194.181.177.253:8000/" />
     <!-- Radio Złote Przeboje Białystok -->
@@ -106,10 +76,10 @@
     <streamingInternetRadio href="https://ssl-1.radiotvrepublika.pl:12698/stream" />
     <!-- Złote Przeboje Poznań -->
     <streamingInternetRadio href="http://radiostream.pl/tuba8926-1.mp3" />
+    <!-- Radio7 Mława -->
+    <streamingInternetRadio href="http://stream.radio7.pl:443/radio7.mp3" />
     <!-- Radio Italo4you 256kbps -->
     <streamingInternetRadio href="http://s0.radiohost.pl:8018/stream" />
-    <!-- Radio Disco Party - Disco Polo -->
-    <streamingInternetRadio href="https://s1.slotex.pl/shoutcast/7432/stream" />
     <!-- ESKA - Gorąca 20 -->
     <streamingInternetRadio href="https://waw.ic.smcdn.pl/6130-1.mp3" />
     <!-- Radio Parada 96.00 fm -->
@@ -122,34 +92,32 @@
     <streamingInternetRadio href="https://waw.ic.smcdn.pl/6120-1.mp3" />
     <!-- Radio Mirage - Italo Dance -->
     <streamingInternetRadio href="https://ssl-1.radiohost.pl:9569/stream" />
+    <!-- Radio ZET Chilli -->
+    <streamingInternetRadio href="https://ch.cdn.eurozet.pl/chi-net.mp3" />
+    <!-- Radio Eska Warszawa -->
+    <streamingInternetRadio href="https://waw.ic.smcdn.pl/2380-1.mp3" />
     <!-- JEDYNKA -->
     <streamingInternetRadio href="http://stream3.polskieradio.pl:8900/;" />
     <!-- Radio Mirage - Euro Dance -->
     <streamingInternetRadio href="http://s0.radiohost.pl:9569/;" />
     <!-- RMF Dance -->
     <streamingInternetRadio href="http://rmfstream1.interia.pl:8000/rmf_dance" />
-    <!-- Radio Eska Warszawa -->
-    <streamingInternetRadio href="https://waw.ic.smcdn.pl/2380-1.mp3" />
     <!-- Meloradio FM -->
     <streamingInternetRadio href="https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5" />
     <!-- RMF Polski Rock -->
     <streamingInternetRadio href="http://195.150.20.9/rmf_polski_rock" />
-    <!-- Polskie Radio RDC - Radio Dla Ciebie -->
-    <streamingInternetRadio href="http://stream2.nadaje.com:11140/rdc" />
     <!-- Radio RAM -->
     <streamingInternetRadio href="http://stream4.nadaje.com:9220/ram" />
     <!-- Zloteprzeboje -->
     <streamingInternetRadio href="https://radiostream.pl/tuba8904-1.mp3" />
-    <!-- VOX FM DISCO 90 -->
-    <streamingInternetRadio href="http://ic1.smcdn.pl/6170-1.mp3" />
     <!-- ZET DANCE -->
     <streamingInternetRadio href="http://pl01.cdn.eurozet.pl/ZETDAN.mp3" />
+    <!-- VOX FM DISCO 90 -->
+    <streamingInternetRadio href="http://ic1.smcdn.pl/6170-1.mp3" />
     <!-- Radio Eska Warszawa -->
     <streamingInternetRadio href="http://waw.ic.smcdn.pl/2380-1.mp3" />
     <!-- Muzyczne Radio -->
     <streamingInternetRadio href="http://stream3.technologicznie.net/muzyczne_radio_192.mp3" />
-    <!-- Radio TOP80 -->
-    <streamingInternetRadio href="https://top80.pl:8000/listen.mp3" />
     <!-- ESKA GORĄCA 20 -->
     <streamingInternetRadio href="http://ic1.smcdn.pl/6130-1.mp3" />
     <!-- Polskie Radio Poznań -->
@@ -160,44 +128,76 @@
     <streamingInternetRadio href="http://s3.slotex.pl:7222/stream" />
     <!-- Radio Warszawa 106.2 -->
     <streamingInternetRadio href="http://streaming01.technologicznie.net:8765/radio_warszawa.mp3" />
-    <!-- Antyradio Classic Rock -->
-    <streamingInternetRadio href="https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01" />
-    <!-- Radio Pogoda -->
-    <streamingInternetRadio href="https://radiostream.pl/tuba140-1.mp3" />
-    <!-- Radio Rzeszów -->
-    <streamingInternetRadio href="https://streaming.g-news.pl:8040/rzeszow" />
     <!-- RMF MAXXX 99.7 Pomorze -->
     <streamingInternetRadio href="https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&amp;skey=1616600473" />
     <!-- Radio Chopin -->
     <streamingInternetRadio href="http://stream3.polskieradio.pl:8910/" />
-    <!-- Radio Rmf Fm -->
-    <streamingInternetRadio href="http://195.150.20.7/rmf_fm" />
     <!-- Radio Plus 106.1 Kraków -->
     <streamingInternetRadio href="https://waw.ic.smcdn.pl/4070-1.mp3" />
-    <!-- RMF Dance -->
-    <streamingInternetRadio href="https://rs103-krk-cyfronet.rmfstream.pl/rmf_dance" />
     <!-- RMF Disco polo -->
-    <streamingInternetRadio href="http://195.150.20.244/rmf_disco_polo" />
-    <!-- DISCOPARTY.PL - Kanał Club -->
-    <streamingInternetRadio href="https://s3.slotex.pl/shoutcast/7354/stream" />
+    <streamingInternetRadio href="https://rs202-krk.rmfstream.pl/rmf_disco_polo" />
+    <!-- RMF Dance -->
+    <streamingInternetRadio href="https://rs201-krk-cyfronet.rmfstream.pl/rmf_dance" />
+    <!-- Antyradio -->
+    <streamingInternetRadio href="https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5" />
     <!-- Radio Zlote Przeboje Wroclaw -->
     <streamingInternetRadio href="https://radiostream.pl/tuba8940-1.mp3" />
     <!-- PLUS -->
-    <streamingInternetRadio href="http://plus-gdansk-01.eurozet.pl:8500/" />
-    <!-- Radio Kampus 97,1 FM -->
-    <streamingInternetRadio href="https://stream.radiokampus.fm/kampus" />
+    <streamingInternetRadio href="https://pl.cdn.eurozet.pl/plu-gdn.mp3" />
     <!-- Radio Anime24 -->
     <streamingInternetRadio href="http://91.232.4.33:7028/;" />
-    <!-- Mirage Space -->
-    <streamingInternetRadio href="http://s0.radiohost.pl:9563/" />
     <!-- Pro-Radio -->
     <streamingInternetRadio href="http://radiointernetowe.net:7802/" />
-    <!-- MELORADIO HOT DANCE -->
-    <streamingInternetRadio href="http://ml02.cdn.eurozet.pl/MELHDN.mp3" />
+    <!-- Mirage Space -->
+    <streamingInternetRadio href="http://s0.radiohost.pl:9563/" />
     <!-- Chilli ZET Deep -->
     <streamingInternetRadio href="http://ch02.cdn.eurozet.pl/CHIDEP.mp3" />
     <!-- Radio Centrum Lublin -->
     <streamingInternetRadio href="https://stream12.hosterion.pl/stream/akademickieradiocentrum" />
     <!-- Rockserwis.fm -->
     <streamingInternetRadio href="http://stream9.nadaje.com:8002/live" />
+    <!-- Radio SAR - Studencka Agencja Radiowa -->
+    <streamingInternetRadio href="https://stream.radiosar.pl/hdmain.mp3" />
+    <!-- RMF Muzyka_Filmowa -->
+    <streamingInternetRadio href="https://rs102-krk.rmfstream.pl/rmf_muzyka_filmowa" />
+    <!-- VOX FM 128kbps -->
+    <streamingInternetRadio href="https://pldm.one.pl/radio?url=https://www.eskago.pl/radio/vox-fm" />
+    <!-- DISCOPARTY.PL - Kanał disco -->
+    <streamingInternetRadio href="https://s1.slotex.pl/shoutcast/7432/stream" />
+    <!-- Trendy Radio -->
+    <streamingInternetRadio href="http://stream.trendyradio.pl:8000/h" />
+    <!-- MojePolskieRadio - PolskieRadio24 -->
+    <streamingInternetRadio href="http://stream3.polskieradio.pl:8080/" />
+    <!-- Radio Plus Gdansk -->
+    <streamingInternetRadio href="https://pl05.cdn.eurozet.pl/plu-gdn.mp3" />
+    <!-- VOX FM HIT 22 -->
+    <streamingInternetRadio href="http://ic1.smcdn.pl/6020-1.mp3" />
+    <!-- Radio RDN Małopolska -->
+    <streamingInternetRadio href="https://stream1.dabcom.pl/rdn_mpl" />
+    <!-- Radio Alex -->
+    <streamingInternetRadio href="http://proxima.shoutca.st:9045/stream" />
+    <!-- ZET Same Hity -->
+    <streamingInternetRadio href="https://zt.cdn.eurozet.pl/ZETHIT.mp3" />
+    <!-- VOX FM DISCO PARTY -->
+    <streamingInternetRadio href="http://ic1.smcdn.pl/6180-1.mp3" />
+    <!-- Radia Zet -->
+    <streamingInternetRadio href="http://zet-net-01.cdn.eurozet.pl:8400/" />
+    <!-- Radio Disco-Dance -->
+    <streamingInternetRadio href="https://radiodd.cloud/radio/8000/radio.mp3" />
+    <!-- MojePolskieRadio - Czworka -->
+    <streamingInternetRadio href="http://stream3.polskieradio.pl:8906/" />
+    <!-- DiscoParty.pl - Disco Impreza -->
+    <streamingInternetRadio href="https://s3.slotex.pl/shoutcast/7046/stream?sid=1" />
+    <!-- RMF Classic Rock -->
+    <streamingInternetRadio href="https://rs201-krk.rmfstream.pl/rmf_classic_rock" />
+    <!-- Radio 5 -->
+    <streamingInternetRadio href="https://streaming.radio5.com.pl:8888/radio5suwalki" />
+    <!-- Radio Plus Krakow -->
+    <streamingInternetRadio href="https://ic2.smcdn.pl/4070-1.mp3" />
+    <!-- Radio Leliwa -->
+    <streamingInternetRadio href="http://streaming.g-news.pl:8050/leliwa" />
+    <!-- Radio RM80 -->
+    <streamingInternetRadio href="http://91.232.4.33:9011/stream" />
+    <!-- Radio Zet na Rower -om -->
+    <streamingInternetRadio href="https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06" />
 </streamingInternetRadios>

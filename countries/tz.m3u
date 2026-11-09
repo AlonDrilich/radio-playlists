@@ -4,9 +4,6 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/4c1ec953-fcf5-4bf1-b03b-4be73ad4cb3f?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6417q.png" group-title="Tanzania" radio="true",Clouds FM
-http://eu6.fastcast4u.com:5306/;
 # 72FM: https://72fm.com/station/88083d75-5aa8-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Tanzania" radio="true",RADIO MARIA TANZANIA
 http://dreamsiteradiocp2.com:8034/stream
@@ -16,6 +13,9 @@ https://eatv.radioca.st/stream
 # 72FM: https://72fm.com/station/a8051d12-4186-4b72-8345-5a8091499a5b?source=m3u
 #EXTINF:-1 group-title="Tanzania" radio="true",Radio One Stereo
 https://radioonetanzania.radioca.st/stream
+# 72FM: https://72fm.com/station/d8acb5ef-b7d5-4fe4-8da1-709d08b52835?source=m3u
+#EXTINF:-1 tvg-logo="https://cloudsmedia.co.tz/build/assets/clouds_icon-4199f5a8.png" group-title="Tanzania" radio="true",Clouds FM
+http://eu6.fastcast4u.com:5306/;
 # 72FM: https://72fm.com/station/7ed9b9a3-8420-4999-a62a-54d9cf41d4fe?source=m3u
 #EXTINF:-1 group-title="Tanzania" radio="true",Capital Radio
 https://capitalradio.radioca.st/stream
@@ -28,12 +28,12 @@ http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 # 72FM: https://72fm.com/station/e05c3c87-946e-4dde-b4b8-e0244917c068?source=m3u
 #EXTINF:-1 group-title="Tanzania" radio="true",Nuru FM
 https://radiotadio.co.tz/nuru-fm-stream
-# 72FM: https://72fm.com/station/c2109fcd-6a26-48d1-9e78-5234906dd784?source=m3u
-#EXTINF:-1 tvg-logo="https://mungukwanza.com/wp-content/uploads/2023/12/cropped-Mungu-Kwanza-Logo.png" group-title="Tanzania" radio="true",Mungu Kwanza Radio
-https://mungukwanza.radioca.st/;
 # 72FM: https://72fm.com/station/bbfa219b-8f10-45dd-b4d6-80f4069c4028?source=m3u
 #EXTINF:-1 group-title="Tanzania" radio="true",ImbaNasi
 https://stream.zeno.fm/dsfhivkawjiuv
+# 72FM: https://72fm.com/station/f297314f-85bf-43d4-b71e-af88a253d7a8?source=m3u
+#EXTINF:-1 group-title="Tanzania" radio="true",Mungu Kwanza
+https://mungukwanza.radioca.st/;
 # 72FM: https://72fm.com/station/e09572b1-50a0-4979-ba95-5aff5c73e8bd?source=m3u
 #EXTINF:-1 tvg-logo="https://stream.zeno.fm/zhhawbqoikatv.m3u" group-title="Tanzania" radio="true",Ishizwe FM
 https://stream.zeno.fm/zhhawbqoikatv
@@ -43,12 +43,15 @@ https://radio.crownmedia.co.tz:8443/crown
 # 72FM: https://72fm.com/station/fee4e578-3c44-4bd1-bc7b-cd5385c2f1d0?source=m3u
 #EXTINF:-1 tvg-logo="https://radiokwizera.co.tz/wp-content/uploads/2026/02/cropped-RadioKwizeraLogo.png" group-title="Tanzania" radio="true",Radio Kwizera
 https://uk4-vn.mixstream.net/:8052/;listen.mp3
-# 72FM: https://72fm.com/station/84370cb1-5024-4282-99d6-d1518554f9b2?source=m3u
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPhLsuhT-haWZX7AcmFstsEjrSDfHZO6Xtaumqr1dWUPP72YsMnBPm8S1XPS3g5y_F1y5eEGcvU-T5DaugcQ8erYUiY1J-oyl6QeQLiF7CT-X1Z6nst7qeQ66Kgs0ZGzv0QqX1hc35V4XFQv3Xza5s2S3phz4rNzMMKX4xek1y5SaTbRLopqsyGTIf1lE/s1254/63262.png" group-title="Tanzania" radio="true",Nehestrat FM
-https://eu8.fastcast4u.com/proxy/nehestratfm?mp=/1
 # 72FM: https://72fm.com/station/bdc5ea78-cd94-4408-884e-34fd64647dcc?source=m3u
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/x7vljyzk9rkibiwmq1364/IMG-20261018-WA8046.jpg" group-title="Tanzania" radio="true",Makie Max Radio
 https://eu4.fastcast4u.com/proxy/makiemaxradio?mp=/1
+# 72FM: https://72fm.com/station/84370cb1-5024-4282-99d6-d1518554f9b2?source=m3u
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPhLsuhT-haWZX7AcmFstsEjrSDfHZO6Xtaumqr1dWUPP72YsMnBPm8S1XPS3g5y_F1y5eEGcvU-T5DaugcQ8erYUiY1J-oyl6QeQLiF7CT-X1Z6nst7qeQ66Kgs0ZGzv0QqX1hc35V4XFQv3Xza5s2S3phz4rNzMMKX4xek1y5SaTbRLopqsyGTIf1lE/s1254/63262.png" group-title="Tanzania" radio="true",Nehestrat FM
+https://eu8.fastcast4u.com/proxy/nehestratfm?mp=/1
+# 72FM: https://72fm.com/station/e67315b3-c82d-4bf4-b158-fa9022d7743a?source=m3u
+#EXTINF:-1 tvg-logo="https://radio.fumbatown.agency/icons/icon-512.png" group-title="Tanzania" radio="true",Fumba Town Radio
+https://stream.perspektiveausland.app/listen/fumba_town_radio/radio.mp3
 # 72FM: https://72fm.com/station/11b61fa6-e806-4266-8770-3fa6db9ff0c3?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/radio/glorious-online-radio/" group-title="Tanzania" radio="true",Glorious Online Radio
 https://stream.zeno.fm/xnamppblrnlvv

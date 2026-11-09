@@ -2,8 +2,6 @@
 <streamingInternetRadios>
     <!-- Radio Aktual -->
     <streamingInternetRadio href="http://195.95.158.131:9080/" />
-    <!-- Radio 1 -->
-    <streamingInternetRadio href="http://live.radio.si/Radio1" />
     <!-- Radio Veseljak -->
     <streamingInternetRadio href="http://195.95.158.131:9060/" />
     <!-- ROCK RADIO SI -->
@@ -20,8 +18,6 @@
     <streamingInternetRadio href="http://live.radioantena.si/Antena" />
     <!-- Radio KRka -->
     <streamingInternetRadio href="https://live.radio.si/Krka" />
-    <!-- Radio Nula -->
-    <streamingInternetRadio href="https://strm.radionula.com/classics" />
     <!-- Best FM Ljubljana -->
     <streamingInternetRadio href="https://live.radio.si/BestFM" />
     <!-- Radio Capris Dalmacija -->
@@ -54,10 +50,6 @@
     <streamingInternetRadio href="http://kruljo.radiostudent.si:8000/hiq" />
     <!-- Radio Capris 90 POP -->
     <streamingInternetRadio href="http://stream02.exit.si:8000/90?" />
-    <!-- Radio MARŠ -->
-    <streamingInternetRadio href="http://frekvenca.eu:8000/radiomars.mp3" />
-    <!-- Radio Nula Beatz -->
-    <streamingInternetRadio href="https://strm.radionula.com/lounge" />
     <!-- Radio Capris EX - YU -->
     <streamingInternetRadio href="http://stream02.exit.si:8000/EXYU?" />
     <!-- Hitradio center megamix -->
@@ -84,8 +76,6 @@
     <streamingInternetRadio href="http://stream02.exit.si:8000/LOVE?" />
     <!-- Radio Capris Hits -->
     <streamingInternetRadio href="http://stream02.exit.si:8000/HITS?" />
-    <!-- Radio Gorenc -->
-    <streamingInternetRadio href="http://stream.radiogorenc.si:8000/radiogorenc.mp3" />
     <!-- Radio Antena (105.2MHz) -->
     <streamingInternetRadio href="https://live.radio.si/Antena" />
     <!-- Hitradio center rock -->
@@ -130,6 +120,8 @@
     <streamingInternetRadio href="http://93.103.130.12:8080/tomi.mp3" />
     <!-- Radio Štajerski val -->
     <streamingInternetRadio href="https://stream.stajerskival.si:8443/live" />
+    <!-- Radio Gorenc -->
+    <streamingInternetRadio href="http://stream.radiogorenc.si:8000/radiogorenc.mp3" />
     <!-- Rock Radio -->
     <streamingInternetRadio href="https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;" />
     <!-- Retro Radio -->
@@ -148,6 +140,8 @@
     <streamingInternetRadio href="https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock" />
     <!-- Radio Student -->
     <streamingInternetRadio href="http://kruljo.radiostudent.si:8000/ehiq" />
+    <!-- Radio 1 -->
+    <streamingInternetRadio href="http://live.radio.si/Radio1" />
     <!-- Rock Radio Classics SLO -->
     <streamingInternetRadio href="https://stream.nextmedia.si/proxy/rocks_3?mp=/stream" />
     <!-- Univox -->
@@ -158,8 +152,12 @@
     <streamingInternetRadio href="http://evcast.mediacp.eu:1480/stream" />
     <!-- Rock radio classics -->
     <streamingInternetRadio href="https://stream.nextmedia.si/proxy/rocks_3" />
+    <!-- MARŠ 95,9 MHz -->
+    <streamingInternetRadio href="http://frekvenca.eu:8000/radiomars.mp3" />
     <!-- Radio Maxi -->
     <streamingInternetRadio href="https://live.radio.si/Maxi?t=1722577989752" />
+    <!-- Radio NULA Beatz -->
+    <streamingInternetRadio href="https://strm.radionula.com/lounge" />
     <!-- bAm BaM RADIO - All shades of house -->
     <streamingInternetRadio href="https://stream.laidbackvib.es:8888/320" />
     <!-- Radio1 -->
@@ -170,18 +168,20 @@
     <streamingInternetRadio href="https://live.radio.si/RockMB?t=1732114443550" />
     <!-- Radio 1 Rock -->
     <streamingInternetRadio href="https://live.radio.si/Radio1Rock?t=1776880155210" />
-    <!-- Radio Ptuj -->
-    <streamingInternetRadio href="https://live.radio.si/Ptuj" />
-    <!-- Radio Student -->
-    <streamingInternetRadio href="https://kruljo.radiostudent.si:8001/hiq" />
     <!-- Radio 1 80-a -->
     <streamingInternetRadio href="http://live.radio1.si/Radio80" />
-    <!-- Radio Ekspres SI -->
-    <streamingInternetRadio href="http://145.14.14.93:8016/stream/1/" />
+    <!-- Radio Student -->
+    <streamingInternetRadio href="https://kruljo.radiostudent.si:8001/hiq" />
+    <!-- Radio Ptuj -->
+    <streamingInternetRadio href="https://live.radio.si/Ptuj" />
     <!-- Toti Maxi -->
     <streamingInternetRadio href="https://live.radio.si/Maxi" />
+    <!-- Radio Ekspres SI -->
+    <streamingInternetRadio href="http://145.14.14.93:8016/stream/1/" />
     <!-- Koroški radio -->
     <streamingInternetRadio href="https://live.radio.si/Koroski" />
+    <!-- Radio NULA - Classics -->
+    <streamingInternetRadio href="https://strm.radionula.com/classics" />
     <!-- Kaef FM -->
     <streamingInternetRadio href="https://stream.kaef.fun/stream" />
     <!-- Radio METEOR .si -->
@@ -190,14 +190,14 @@
     <streamingInternetRadio href="https://live.radio1.si/Radio1KOR" />
     <!-- Radio Aktual -->
     <streamingInternetRadio href="https://live.radio.si/Aktual" />
-    <!-- Ambiland Spatial -->
-    <streamingInternetRadio href="https://radio.ambiland.space/spatial.mp3?src=radio-browser" />
-    <!-- Radio Capris Club -->
-    <streamingInternetRadio href="https://stream.exit.si/CLUB" />
-    <!-- Ambiland -->
-    <streamingInternetRadio href="https://radio.ambiland.space/live.mp3?src=radio-browser" />
-    <!-- Capital Radio SL -->
-    <streamingInternetRadio href="http://live.capitalradio.sl/" />
     <!-- Radio Capris Number 1's -->
     <streamingInternetRadio href="http://stream02.exit.si:8000/NO1?" />
+    <!-- Ambiland -->
+    <streamingInternetRadio href="https://radio.ambiland.space/live.mp3?src=radio-browser" />
+    <!-- Radio Capris Club -->
+    <streamingInternetRadio href="https://stream.exit.si/CLUB" />
+    <!-- AKTUAL KUM -->
+    <streamingInternetRadio href="http://stream.radioaktual.si/AktualK" />
+    <!-- Ambiland Spatial -->
+    <streamingInternetRadio href="https://radio.ambiland.space/spatial.mp3?src=radio-browser" />
 </streamingInternetRadios>

@@ -5,21 +5,17 @@
     <!-- Latvijas Radio 1 -->
     <streamingInternetRadio href="http://lr1mp1.latvijasradio.lv:8012/;" />
     <!-- Radio ENERGY.LV - Russian -->
-    <streamingInternetRadio href="http://radio1.radioenergy.lv:8000/" />
-    <!-- Alise Plus -->
-    <streamingInternetRadio href="http://fm2inet.aliseplus.lv:8080/" />
+    <streamingInternetRadio href="http://radio2.radioenergy.lv:9000/" />
     <!-- Radio SWH -->
     <streamingInternetRadio href="http://80.232.162.149:8000/swh96mp3" />
     <!-- Radio SWH+ -->
     <streamingInternetRadio href="http://80.232.162.149:8000/plus96mp3" />
-    <!-- TOP radio -->
-    <streamingInternetRadio href="https://topradio.live.advailo.com/topradio/mp3/icecast.audio" />
     <!-- Radio SWH Rock -->
     <streamingInternetRadio href="http://80.232.162.149:8000/rock96mp3" />
     <!-- Star Fm -->
     <streamingInternetRadio href="http://starfm.live.advailo.com/audio/mp3/icecast.audio" />
     <!-- Radio ENERGY.LV -->
-    <streamingInternetRadio href="http://radio2.radioenergy.lv:9000/" />
+    <streamingInternetRadio href="http://radio1.radioenergy.lv:8000/" />
     <!-- LRMAROCKRADIO -->
     <streamingInternetRadio href="https://c22.radioboss.fm:18318/stream" />
     <!-- Talsi Lounge -->
@@ -30,6 +26,8 @@
     <streamingInternetRadio href="http://lr3mp0.latvijasradio.lv:8004/;" />
     <!-- Radio SWH Gold -->
     <streamingInternetRadio href="http://80.232.162.149:8000/gold96mp3" />
+    <!-- TOP radio -->
+    <streamingInternetRadio href="https://topradio.live.advailo.com/topradio/mp3/icecast.audio" />
     <!-- Radio SWH - Spin FM -->
     <streamingInternetRadio href="http://80.232.162.149:8000/spin96mp3" />
     <!-- Eiropas Hītu Radio -->
@@ -54,6 +52,8 @@
     <streamingInternetRadio href="http://stream.ehrhiti.lv:8000/Stream_32.mp3" />
     <!-- LV Radio 1 -->
     <streamingInternetRadio href="http://lr1mp1.latvijasradio.lv:8012/" />
+    <!-- AlisePlus -->
+    <streamingInternetRadio href="http://fm2inet.aliseplus.lv:8080/" />
     <!-- Radio 7 -->
     <streamingInternetRadio href="https://listen.radio7.lv:2053/Radio7" />
     <!-- EHR Party Service -->
@@ -70,10 +70,10 @@
     <streamingInternetRadio href="https://s3.radio.co/s216811754/listen" />
     <!-- EHR Gold -->
     <streamingInternetRadio href="http://stream.ehrhiti.lv:8000/Stream_64.mp3" />
-    <!-- Radio Talsi .:: Electronic ::. -->
-    <streamingInternetRadio href="http://kuums.lv:6555/;" />
     <!-- Your City Radio -->
     <streamingInternetRadio href="https://c34.radioboss.fm:8234/stream" />
+    <!-- Radio Talsi .:: Electronic ::. -->
+    <streamingInternetRadio href="http://kuums.lv:6555/;" />
     <!-- Your City Padio -->
     <streamingInternetRadio href="https://c28.radioboss.fm:18234/stream" />
     <!-- EHR TOP 40 -->
@@ -84,52 +84,52 @@
     <streamingInternetRadio href="http://stream.ehrhiti.lv:8000/Stream_67.mp3" />
     <!-- Radio Talsi .:: Misc ::. -->
     <streamingInternetRadio href="http://radio.kuums.lv:4555/;" />
-    <!-- EHR Darbam -->
-    <streamingInternetRadio href="http://stream.ehrhiti.lv:8000/Stream_23.mp3" />
     <!-- Radio Talsi .:: Future ::. -->
     <streamingInternetRadio href="http://kuums.lv:7555/;" />
+    <!-- EHR Darbam -->
+    <streamingInternetRadio href="http://stream.ehrhiti.lv:8000/Stream_23.mp3" />
+    <!-- Schlager Time Radio -->
+    <streamingInternetRadio href="http://schlagers.org:8760/" />
     <!-- EHR Fresh -->
     <streamingInternetRadio href="http://stream.ehrhiti.lv:8000/Stream_25.mp3" />
     <!-- EHR iDeal Music -->
     <streamingInternetRadio href="http://stream.ehrhiti.lv:8000/Stream_78.mp3" />
     <!-- NewDanceRadio -->
     <streamingInternetRadio href="https://stream.newdanceradio.lv/mp3_192" />
-    <!-- Schlager Time Radio -->
-    <streamingInternetRadio href="http://schlagers.org:8760/" />
-    <!-- Radio Viens -->
-    <streamingInternetRadio href="https://radioviens.lv/live" />
     <!-- EHR Superhits (Radio SuperHits) -->
     <streamingInternetRadio href="https://27943.live.streamtheworld.com/EHR_SUPERHITS.mp3" />
+    <!-- Radio Viens -->
+    <streamingInternetRadio href="https://radioviens.lv/live" />
     <!-- Radio Talsi .:: Lounge ::. -->
     <streamingInternetRadio href="http://kuums.lv:5555/;" />
-    <!-- IvoFm -->
-    <streamingInternetRadio href="https://radio.ivofm.lv/listen/ivofm/radio.mp3" />
-    <!-- EHR Rise & Shine -->
-    <streamingInternetRadio href="http://stream.ehrhiti.lv:8000/Stream_36.mp3" />
-    <!-- KurmisLV -->
-    <streamingInternetRadio href="http://www.kurmislv.info:8000/live-kurmislv-hq.mp3" />
-    <!-- Dunaburg FM -->
-    <streamingInternetRadio href="https://dunaburgfm.s02.radio-tochka.com:1345/stream" />
-    <!-- EHR Latviešu Hiti -->
-    <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_LATVIESU_HITI.mp3" />
-    <!-- OMH (Our Music History) -->
-    <streamingInternetRadio href="http://omh.sytes.net:8000/;" />
     <!-- Radio Energy - Russian Radio -->
     <streamingInternetRadio href="http://radioenergy.lv:9000/;stream.mp3" />
-    <!-- Radio Energy - Hit Music Radio -->
-    <streamingInternetRadio href="http://radioenergy.lv:8000/;stream.mp3" />
-    <!-- Cave Lounge -->
-    <streamingInternetRadio href="https://stream.zeno.fm/geuwghjjyjjtv" />
-    <!-- Dance Station Radio -->
-    <streamingInternetRadio href="https://myradio24.org/97045" />
+    <!-- EHR Rise & Shine -->
+    <streamingInternetRadio href="http://stream.ehrhiti.lv:8000/Stream_36.mp3" />
+    <!-- IvoFm -->
+    <streamingInternetRadio href="https://radio.ivofm.lv/listen/ivofm/radio.mp3" />
+    <!-- EHR Latviešu Hiti -->
+    <streamingInternetRadio href="https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_LATVIESU_HITI.mp3" />
+    <!-- Dunaburg FM -->
+    <streamingInternetRadio href="https://dunaburgfm.s02.radio-tochka.com:1345/stream" />
+    <!-- KurmisLV -->
+    <streamingInternetRadio href="http://www.kurmislv.info:8000/live-kurmislv-hq.mp3" />
+    <!-- OMH (Our Music History) -->
+    <streamingInternetRadio href="http://omh.sytes.net:8000/;" />
     <!-- Flash Sound radio (LV) -->
     <streamingInternetRadio href="https://myradio24.org/65462" />
+    <!-- Talsi Lounge Radio -->
+    <streamingInternetRadio href="http://radio.kuums.lv:5555/;stream.mp3" />
+    <!-- Dance Station Radio -->
+    <streamingInternetRadio href="https://myradio24.org/97045" />
+    <!-- Cave Lounge -->
+    <streamingInternetRadio href="https://stream.zeno.fm/geuwghjjyjjtv" />
+    <!-- Radio Energy - Hit Music Radio -->
+    <streamingInternetRadio href="http://radioenergy.lv:8000/;stream.mp3" />
     <!-- Radio Marija Latvija -->
     <streamingInternetRadio href="https://dreamsiteradiocp2.com/proxy/rmlatvia?mp=/stream" />
     <!-- Radio SWH Spin -->
     <streamingInternetRadio href="https://live.radioswh.lv:8443/spinmp3" />
-    <!-- Talsi Lounge Radio -->
-    <streamingInternetRadio href="http://radio.kuums.lv:5555/;stream.mp3" />
     <!-- Xradio -->
     <streamingInternetRadio href="https://radio.xradio.vip/stream" />
 </streamingInternetRadios>

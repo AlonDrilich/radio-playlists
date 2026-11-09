@@ -4,9 +4,6 @@
 # Streams belong to their stations; 72FM does not own, operate or curate them.
 # Listen in the browser: https://72fm.com
 
-# 72FM: https://72fm.com/station/e1393f04-f2eb-42d0-961f-e4de13a489b4?source=m3u
-#EXTINF:-1 group-title="Iraq" radio="true",radio maria iraq
-http://dreamsiteradiocp4.com:8046/stream
 # 72FM: https://72fm.com/station/bc1e8eb3-a94e-48d7-892a-e790a1599b60?source=m3u
 #EXTINF:-1 group-title="Iraq" radio="true",SumerFm Iraq
 https://l3.itworkscdn.net/itwaudio/9012/stream
@@ -25,21 +22,18 @@ https://streams.radio.co/s0975ec186/listen
 # 72FM: https://72fm.com/station/894f73d0-647d-461b-845c-95d8e14a1e32?source=m3u
 #EXTINF:-1 group-title="Iraq" radio="true",Alseraj Radio Islam
 https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1
-# 72FM: https://72fm.com/station/98203dc0-f2dd-4175-877d-19ecd748b885?source=m3u
-#EXTINF:-1 group-title="Iraq" radio="true",راديو الغد، alghad FM
-http://s10.voscast.com:9410/
 # 72FM: https://72fm.com/station/0cb24613-f3ba-41d6-9410-b3aaaa49c3f9?source=m3u
 #EXTINF:-1 group-title="Iraq" radio="true",Al rasheed fm
 https://streaming.shoutcast.com/alrasheed-fm?1719771692024
 # 72FM: https://72fm.com/station/abf148ba-cb50-4d30-a0da-ee68620019aa?source=m3u
 #EXTINF:-1 group-title="Iraq" radio="true",Kurdistan 24
 https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
-# 72FM: https://72fm.com/station/79e3bcb9-a030-4832-870e-0933f3bde362?source=m3u
-#EXTINF:-1 group-title="Iraq" radio="true",Radio Shanasheel
-https://stream-152.zeno.fm/a33ka0d94p8uv
 # 72FM: https://72fm.com/station/02094829-49c1-4cc5-b357-5e05f968e58a?source=m3u
 #EXTINF:-1 group-title="Iraq" radio="true",Ankawa
 http://178.32.146.187/proxy/radioankawa?mp=/1/
+# 72FM: https://72fm.com/station/27db183f-6aaa-421d-885f-786b172c5b9c?source=m3u
+#EXTINF:-1 group-title="Iraq" radio="true",Radio Shanasheel
+https://stream-152.zeno.fm/a33ka0d94p8uv
 # 72FM: https://72fm.com/station/78fe4c57-8bfd-481b-a368-292581e4f6f5?source=m3u
 #EXTINF:-1 group-title="Iraq" radio="true",Turkmen FM تركمان إف إم
 https://radyo1.radyo-dinle.tc/8284/stream;
@@ -61,9 +55,12 @@ https://eu7.fastcast4u.com/proxy/radioashur?mp=/1
 # 72FM: https://72fm.com/station/b0d990d7-167a-44a1-830e-35dedaa2982d?source=m3u
 #EXTINF:-1 group-title="Iraq" radio="true",Al rasheed fm )Kirkuk)
 https://streaming.shoutcast.com/alrasheed-kirkuk
-# 72FM: https://72fm.com/station/129c4b6f-d980-42b7-8673-0e2e53abb509?source=m3u
-#EXTINF:-1 group-title="Iraq" radio="true",kanal 8
-https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8
 # 72FM: https://72fm.com/station/dfa44ba9-e0b9-4a22-a848-5b28d2781986?source=m3u
 #EXTINF:-1 tvg-logo="https://radio.host247.net/spedafm" group-title="Iraq" radio="true",speda radio
 https://radio.host247.net/spedafm
+# 72FM: https://72fm.com/station/129c4b6f-d980-42b7-8673-0e2e53abb509?source=m3u
+#EXTINF:-1 group-title="Iraq" radio="true",kanal 8
+https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8
+# 72FM: https://72fm.com/station/48df056d-d7a7-4822-bc27-8e51be4a3601?source=m3u
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQhaeVrwgMCxIOU3RhdGlvblByb2ZpbGUYgIDQ-Zy3iwoMogEEemVubw/image/?u=1661674829000" group-title="Iraq" radio="true",Ahmet Kaya - Anne Bul Beni Anne
+https://stream.zeno.fm/mk6qxx8hpm0uv

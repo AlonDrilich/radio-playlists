@@ -19,12 +19,12 @@ https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/542ed9ce-f3f1-4653-b1f0-f6cd7461bb75?source=m3u
 #EXTINF:-1 tvg-logo="https://www.tropicalia.com.py/dist/images/apple-touch-icon.png" group-title="Paraguay" radio="true",Tropicalia 93.9FM
 https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/964fc166-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Paraguay" radio="true",Radio Nacional del Paraguay 920 AM
-http://audio.radionacional.gov.py:8085/920
 # 72FM: https://72fm.com/station/98073eff-a00a-42ce-b855-715770e5cd87?source=m3u
 #EXTINF:-1 tvg-logo="https://rockandpop.com.py/wp-content/uploads/2020/06/cropped-cropped-logorockas-180x180-1-180x180.png" group-title="Paraguay" radio="true",Rock&Pop Paraguay
 https://cp9.serverse.com/proxy/rockandpop/stream
+# 72FM: https://72fm.com/station/964fc166-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Paraguay" radio="true",Radio Nacional del Paraguay 920 AM
+http://audio.radionacional.gov.py:8085/920
 # 72FM: https://72fm.com/station/65396ff4-6e59-4554-bfc1-c3a67f8cad8f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioaspen.com.py/wp-content/uploads/2021/05/cropped-android-chrome-512x512-1-1-180x180.png" group-title="Paraguay" radio="true",Radio Aspen Paraguay
 https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8?k=cab33b6f9bb8d7e340d2a8ce8d4476e4576ce92fbc993b81666e7db795dc1da7&exp=1664206557
@@ -40,27 +40,21 @@ https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715
 # 72FM: https://72fm.com/station/28192c9a-2bd6-4e0d-8a03-379a7890108a?source=m3u
 #EXTINF:-1 tvg-logo="https://py.radiodisney.com/favicon.ico" group-title="Paraguay" radio="true",Radio Disney Paraguay FM 96.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8?dist=web-radiodisney
-# 72FM: https://72fm.com/station/b3880ebb-c6e7-4db7-9b19-9245444f6232?source=m3u
-#EXTINF:-1 tvg-logo="https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/favicon-150x150.png" group-title="Paraguay" radio="true",FM POPULAR 103.1
-https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8
 # 72FM: https://72fm.com/station/1c179a86-5a89-11e9-a622-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Paraguay" radio="true",RADIO MARIA PARAGUAY
 http://dreamsiteradiocp.com:8090/stream
-# 72FM: https://72fm.com/station/5f369cb8-1ff8-4dd3-9178-976936358ca7?source=m3u
-#EXTINF:-1 group-title="Paraguay" radio="true",Radio Digital 88.5 Fm Paraguay
-http://streaming.camaronhosting.com:8036/
+# 72FM: https://72fm.com/station/c2966f33-3728-47d7-b9da-8022b6aeb40b?source=m3u
+#EXTINF:-1 group-title="Paraguay" radio="true",FM POPULAR 103.1
+https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8
 # 72FM: https://72fm.com/station/8bf4f5a4-5a45-4f95-a95d-1e8745a77305?source=m3u
 #EXTINF:-1 tvg-logo="https://zeno.fm/apple-icon-120x120.png" group-title="Paraguay" radio="true",Tereré Mix Paraguay
-https://stream-286.surfernetwork.com/a0z8gjrlucluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMHo4Z2pybHVjbHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImxidDJWQko2VGMtN1ZuU1dveWIzdmciLCJpYXQiOjE3OTM1NzMwMjYsImV4cCI6MTc5MzU3MzA4Nn0.zZjT5xB5hTBzHVuGCam4-TIUKz5iHLKxOCgfoRZw-bM
+https://stream-286.surfernetwork.com/a0z8gjrlucluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMHo4Z2pybHVjbHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkpOaUFuMnVlUUdtdUphU2VFWlc1WnciLCJpYXQiOjE3OTQwMDYyMjgsImV4cCI6MTc5NDAwNjI4OH0.dBF1ogtDMXDixPWlgb-WTpNT8aNn2BIQXmXltU7KRIQ
 # 72FM: https://72fm.com/station/41496f04-4e66-4892-8c99-e5871217589f?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240930_212416672.jpg?alt=media&token=fb9395f8-389a-4d42-ac12-0e7da655b528" group-title="Paraguay" radio="true",Radio Palma 106.5 FM
 http://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8
 # 72FM: https://72fm.com/station/28d68ce9-4775-4882-aa56-2ce9573bc7e6?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240720_160828943.jpg?alt=media&token=f299e9c1-3181-400b-a31c-39bd9b668160" group-title="Paraguay" radio="true",Radio Canal 100.1 FM
 https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/a3fe830c-0ee3-4961-8c89-e6961f9da2ff?source=m3u
-#EXTINF:-1 group-title="Paraguay" radio="true",Exclusiva FM 103.7
-https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/d966205b-ce84-41a5-b2a6-4e23bb29de30?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240930_211923664.jpg?alt=media&token=754b957d-19bb-49d6-8748-4da589fb8939" group-title="Paraguay" radio="true",Radio Estación 40 91.1 FM
 http://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8
@@ -94,9 +88,15 @@ http://radio.cdehosting.net:8040/;
 # 72FM: https://72fm.com/station/4d51387a-c993-4d78-9da2-7a0f4edecced?source=m3u
 #EXTINF:-1 tvg-logo="https://www.desdeparaguay.com/favicon.ico" group-title="Paraguay" radio="true",Emisoras Paraguay 106.1 FM
 https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8
+# 72FM: https://72fm.com/station/68104ae4-257b-4281-9258-88d4580ac037?source=m3u
+#EXTINF:-1 tvg-logo="https://m.facebook.com/story.php?story_fbid=385074119999677&id=100054912755185" group-title="Paraguay" radio="true",Radio Digital 88.5 Fm Paraguay
+http://streaming.camaronhosting.com:8036/
 # 72FM: https://72fm.com/station/e59ab0d4-11e6-4d1d-9475-d6f2d71883c5?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241105_202739298.jpg?alt=media&token=4e8619fe-ed18-4fce-b1ba-c2ecdd4239c3" group-title="Paraguay" radio="true",Radio ABC FM 98.5
 http://200.3.249.91:8000/abcradio/fm.mp3
+# 72FM: https://72fm.com/station/78fd1ee2-88bd-42fb-9b4b-86070f9be1e3?source=m3u
+#EXTINF:-1 tvg-logo="https://www.exclusivafm.com.py/FLYER%20WEB.png" group-title="Paraguay" radio="true",Exclusiva FM 103.7 FM
+https://sesion.desdeparaguay.net/hls/playlist.m3u8
 # 72FM: https://72fm.com/station/f818d16d-053b-4f9f-918d-758c90778a6e?source=m3u
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240809_152448137.jpg?alt=media&token=c2f91e77-f1e2-4779-aefc-625153c140a5" group-title="Paraguay" radio="true",Radio Aranduka 87.9 FM
 http://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8
@@ -118,18 +118,18 @@ http://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8
 # 72FM: https://72fm.com/station/df7c112f-75a3-49bc-9250-cee6688fbddd?source=m3u
 #EXTINF:-1 tvg-logo="https://turadio.com.py/wp-content/uploads/2019/10/caapucu-300x259.png" group-title="Paraguay" radio="true",RADIO CAAPUCU FM 91.7
 http://radio.host.com.py:9452/;
-# 72FM: https://72fm.com/station/46c977ad-6da1-4827-baaf-545079d21a2a?source=m3u
-#EXTINF:-1 tvg-logo="https://educacionfm.com.py/wp-content/uploads/2021/08/favicon-183x300.png" group-title="Paraguay" radio="true",Educación FM 99.7
-https://proxy01.servidorenlinea.net/cdehosting/8050/;
 # 72FM: https://72fm.com/station/9026acd0-fbbd-437e-8550-9683480d0da6?source=m3u
 #EXTINF:-1 group-title="Paraguay" radio="true",Aspen FM 102.7 Paraguay
 https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8
-# 72FM: https://72fm.com/station/5b2c1196-f0ac-46d3-aa25-81179e5dea00?source=m3u
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240707_215147809.jpg?alt=media&token=f575a19f-9671-488a-9d22-3ea89f5ad321" group-title="Paraguay" radio="true",Radio Impacto 95.3 FM
-http://radio.host.com.py:9714/stream
+# 72FM: https://72fm.com/station/46c977ad-6da1-4827-baaf-545079d21a2a?source=m3u
+#EXTINF:-1 tvg-logo="https://educacionfm.com.py/wp-content/uploads/2021/08/favicon-183x300.png" group-title="Paraguay" radio="true",Educación FM 99.7
+https://proxy01.servidorenlinea.net/cdehosting/8050/;
 # 72FM: https://72fm.com/station/db1c07b2-8c87-4b67-b4e8-c30114bed36e?source=m3u
 #EXTINF:-1 tvg-logo="https://radioconcierto.com.py/wp-content/uploads/2018/04/flaicon-2.png" group-title="Paraguay" radio="true",Radio Concierto 89.1
 https://radio.host.com.py/9572/stream
+# 72FM: https://72fm.com/station/5b2c1196-f0ac-46d3-aa25-81179e5dea00?source=m3u
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240707_215147809.jpg?alt=media&token=f575a19f-9671-488a-9d22-3ea89f5ad321" group-title="Paraguay" radio="true",Radio Impacto 95.3 FM
+http://radio.host.com.py:9714/stream
 # 72FM: https://72fm.com/station/34715bae-8311-433a-8a19-5310e5e566fb?source=m3u
 #EXTINF:-1 tvg-logo="https://www.laclave.com.py/wp-content/uploads/2024/01/unnamed-e1712685386448.png" group-title="Paraguay" radio="true",La Clave 103.9
 https://radio.host.com.py:7181/
@@ -184,6 +184,9 @@ https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9
 # 72FM: https://72fm.com/station/80a7d5b0-9ec3-45bc-b613-3886db784621?source=m3u
 #EXTINF:-1 tvg-logo="https://ibb.co/prLvsVGn" group-title="Paraguay" radio="true",Golden Classic Radio PY
 https://stream.zeno.fm/9wxcnjd0dievv
+# 72FM: https://72fm.com/station/ba57bbe9-1f75-439a-8eb1-226449f10381?source=m3u
+#EXTINF:-1 group-title="Paraguay" radio="true",ABC Cardinal 730AM
+https://ny1.radio.primcast.com/8342/stream
 # 72FM: https://72fm.com/station/aa0ff27e-7e81-42f6-9dc6-7c72089255ae?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn.radoxo.com/images/paraguay/radio-chaco-boreal.avif?v=1791194402" group-title="Paraguay" radio="true",Radio Chacho Boreal
 https://tigocloud.desdeparaguay.net/mov1330/mov1330.stream/chunklist_w1397196983.m3u8
@@ -193,9 +196,6 @@ https://tigocloud.desdeparaguay.net/movconquistador/movconquistador.stream/chunk
 # 72FM: https://72fm.com/station/c3abe2b9-6b32-4272-8a70-c4889bf94b87?source=m3u
 #EXTINF:-1 tvg-logo="https://www.getmeradio.com/stations/electrolevel-radiomix-8626/logos/512x512.png?t=1792973792074" group-title="Paraguay" radio="true",Electrolevel Radiomix
 http://212.84.160.3:6265/
-# 72FM: https://72fm.com/station/ba57bbe9-1f75-439a-8eb1-226449f10381?source=m3u
-#EXTINF:-1 group-title="Paraguay" radio="true",ABC Cardinal 730AM
-https://ny1.radio.primcast.com/8342/stream
 # 72FM: https://72fm.com/station/85c934fc-ba72-4863-a124-ba5369eb9dd2?source=m3u
 #EXTINF:-1 tvg-logo="https://www.abc.com.py/pf/resources/images/favicon.png?d=2650" group-title="Paraguay" radio="true",Cardinal Romance 98.5 FM
 https://ny1.radio.primcast.com/8350/stream
