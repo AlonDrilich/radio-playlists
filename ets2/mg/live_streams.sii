@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 13
+ stream_data: 14
  stream_data[0]: "http://onair15.xdevel.com:9248/;|Radio Don Bosco|Catholic|ENG|128|0"
  stream_data[1]: "http://drs-live-rna.gasy-internet.info:9001/;|RNA Madagascar|Various|MG|128|0"
  stream_data[2]: "http://rdj966.net:8000/rdj966.mp3|RDJ|Various|MG|128|0"
@@ -15,6 +15,7 @@ live_stream_def : .live_streams {
  stream_data[10]: "http://onair15.xdevel.com:9248/;stream.mp3|Radio Don Bosco|Rdb|MG|128|0"
  stream_data[11]: "https://listen.tropicastradio.com/stations/gwjhbnsfzq/live.mp3|Tropicast Radio Station|Various|MAL|128|0"
  stream_data[12]: "https://listen.tropicastradio.com/stations/3freccr11b/live.mp3|Radio RSF 109 Antanifotsy|Communautaire|MAL|128|0"
+ stream_data[13]: "https://a9.asurahosting.com/listen/fiderana/radio.mp3|Fiderana Web Radio|Christian|FRE|192|0"
 }
 
 }

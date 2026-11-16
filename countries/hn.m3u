@@ -9,7 +9,7 @@
 https://ice42.securenetsystems.net/HRN
 # 72FM: https://72fm.com/station/964857c9-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://d9hhnadinot6y.cloudfront.net/imag/2023/08/cropped-cropped-favico-192x192-1-180x180.png" group-title="Honduras" radio="true",Radio America 94.7 Tegucigalpa
-http://26563.live.streamtheworld.com:3690/AMERICA_SC
+http://26563.live.streamtheworld.com/AMERICA_SC
 # 72FM: https://72fm.com/station/96499bea-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Honduras" radio="true",Stereo Exitos 88.1 Tegucigalpa
 http://ice42.securenetsystems.net/EXITOS
@@ -18,7 +18,7 @@ http://ice42.securenetsystems.net/EXITOS
 http://ice42.securenetsystems.net/XY905
 # 72FM: https://72fm.com/station/96450d28-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Honduras" radio="true",Stereo Ceiba 99.9 - La Ceiba
-http://26653.live.streamtheworld.com/RADIO_CEIBAAAC_SC
+http://26563.live.streamtheworld.com:3690/RADIO_CEIBAAAC_SC
 # 72FM: https://72fm.com/station/964998e7-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Honduras" radio="true",Suave FM 102.5 Tegucigalpa
 http://ice42.securenetsystems.net/SUAVE
@@ -27,7 +27,7 @@ http://ice42.securenetsystems.net/SUAVE
 http://ice42.securenetsystems.net/94SUFM
 # 72FM: https://72fm.com/station/9617d9b0-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="Honduras" radio="true",Super 100 Tegucigalpa 100.1
-http://27413.live.streamtheworld.com:3690/SUPER100_SC
+http://26653.live.streamtheworld.com:3690/SUPER100_SC
 # 72FM: https://72fm.com/station/fbe82907-cfb0-4fd8-b54d-0074ccda7ea1?source=m3u
 #EXTINF:-1 group-title="Honduras" radio="true",ROCK N' POP
 https://ice42.securenetsystems.net/ROCKNPOP
@@ -100,24 +100,21 @@ https://stream.zeno.fm/n1dn94e661zuv
 # 72FM: https://72fm.com/station/3234f4c1-a6e9-4c67-bfe7-00befad2a8d8?source=m3u
 #EXTINF:-1 tvg-logo="https://deejayfm.com/wp-content/themes/deejayTemplate/assets/img/logo.png" group-title="Honduras" radio="true",Dee Jay
 https://stream.zeno.fm/6wpxyt9htg0uv
+# 72FM: https://72fm.com/station/53a6edc1-53c5-424d-82d9-faca86372a18?source=m3u
+#EXTINF:-1 tvg-logo="https://www.allradio.net/500/HXUoDCq0UJdep-qrzKD09.webp" group-title="Honduras" radio="true",RADIO GLOBO 88.5 MHZ
+https://api.condoristream.com/stream/radioglobo
 # 72FM: https://72fm.com/station/b01cc296-e8f9-44dc-a95d-677fc9496ff6?source=m3u
 #EXTINF:-1 tvg-logo="https://radiosdehonduras.live/images/radio-fenix-internacional.png" group-title="Honduras" radio="true",RADIO FÉNIX INTERNACIONAL
 http://listen.usuarios.space:8036/live
 # 72FM: https://72fm.com/station/18259b0a-0d0f-444c-b76b-55dbb7254dbc?source=m3u
 #EXTINF:-1 group-title="Honduras" radio="true",Stereo Dimensión - La 96
 https://rr5100.globalhost1.com:7328/stream
-# 72FM: https://72fm.com/station/53a6edc1-53c5-424d-82d9-faca86372a18?source=m3u
-#EXTINF:-1 tvg-logo="https://www.allradio.net/500/HXUoDCq0UJdep-qrzKD09.webp" group-title="Honduras" radio="true",RADIO GLOBO 88.5 MHZ
-https://api.condoristream.com/stream/radioglobo
 # 72FM: https://72fm.com/station/7fdbe355-a993-483d-9662-a2029e6526b5?source=m3u
 #EXTINF:-1 group-title="Honduras" radio="true",Neformatnoe Radio
 http://neformatnoe.ru:8777/live
 # 72FM: https://72fm.com/station/ab351e10-58e4-42da-aa57-0dd3b8be8f72?source=m3u
 #EXTINF:-1 group-title="Honduras" radio="true",LHT FM 104.1
 https://ice26.securenetsystems.net/LHTFM
-# 72FM: https://72fm.com/station/68fc7deb-a3c6-4562-b402-b47be67e9a67?source=m3u
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jhwUyNznv3.png" group-title="Honduras" radio="true",FM FAMA 97.7
-https://s9.myradiostream.com/:46498/stream
 # 72FM: https://72fm.com/station/8da618d1-a9c1-4677-b2ab-13b54b4ab7ec?source=m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/HRN.png/revision/latest/scale-to-width-down/250?cb=20260826002319&path-prefix=es" group-title="Honduras" radio="true",hrn 670 KHz
 https://securestreams7.autopo.st/?uri=http://216.152.154.134/HRN?=hrn670khz

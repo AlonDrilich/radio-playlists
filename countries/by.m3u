@@ -55,12 +55,12 @@ https://stream2.datacenter.by/vtvby
 # 72FM: https://72fm.com/station/2626d81c-6a22-416b-bfdc-ca9391065fd0?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiomaria.by/images/icons/icon-128.png" group-title="Belarus" radio="true",Радые Марыя
 https://server.radiorm.by:8443/live
-# 72FM: https://72fm.com/station/4fc00115-e4af-4cd3-9efa-a4bf2366b357?source=m3u
-#EXTINF:-1 group-title="Belarus" radio="true",Новое радио
-https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
 # 72FM: https://72fm.com/station/0dfcd823-d005-422b-8a58-f589c1530a2c?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Народное Радио
 https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
+# 72FM: https://72fm.com/station/4fc00115-e4af-4cd3-9efa-a4bf2366b357?source=m3u
+#EXTINF:-1 group-title="Belarus" radio="true",Новое радио
+https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
 # 72FM: https://72fm.com/station/3937d9d4-4ee8-444b-bdb6-fbf64c7324f8?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Radius FM
 https://stream2.datacenter.by/radiusfm_main
@@ -85,15 +85,18 @@ http://live.legendy.by:8000/legendyfm
 # 72FM: https://72fm.com/station/1e9b6159-e500-49a9-9054-9aad3a5f6023?source=m3u
 #EXTINF:-1 tvg-logo="https://minsknews.by/wp-content/uploads/2022/11/cropped-logo-180x180.webp" group-title="Belarus" radio="true",радио Минск 92.4
 https://radio.mk.by:8443/radiominsk
+# 72FM: https://72fm.com/station/0b25eaf4-8cca-4b09-9f35-5b883cb8fac7?source=m3u
+#EXTINF:-1 group-title="Belarus" radio="true",Компас FM 102,5
+https://radio.mil.by/live
 # 72FM: https://72fm.com/station/c7ce197d-51ac-4d32-a12a-22a22cdf4ad5?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Свое Радио (Пинск)
 https://live.svoyoradio.by:8443/svoyoradio
-# 72FM: https://72fm.com/station/7cea7750-bd7a-4453-a002-2b3a558951c0?source=m3u
-#EXTINF:-1 group-title="Belarus" radio="true",Retro Belarus
-https://air.sammit.tv:8443/retro
 # 72FM: https://72fm.com/station/448b4cb5-cead-4a0d-96c6-e9cb816c3213?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Center FM
 https://stream2.datacenter.by/stream
+# 72FM: https://72fm.com/station/7cea7750-bd7a-4453-a002-2b3a558951c0?source=m3u
+#EXTINF:-1 group-title="Belarus" radio="true",Retro Belarus
+https://air.sammit.tv:8443/retro
 # 72FM: https://72fm.com/station/7141294e-1831-437b-b81a-b8b93caeebdc?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",MFM Belarus
 https://radio.105fm.by/radio.105.0mfm
@@ -142,15 +145,21 @@ http://radio.100fm.by:8000/100fm128
 # 72FM: https://72fm.com/station/7f782637-2ae4-4f7c-b235-90520a7649f1?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Easy Listening BLR
 http://178.172.235.5:8001/10
-# 72FM: https://72fm.com/station/a335d5e9-48f7-4ed6-a13e-0b2e4b78f320?source=m3u
-#EXTINF:-1 tvg-logo="https://anothermusicproject.com/gfx/tx.favicon.ico" group-title="Belarus" radio="true",Another Music Project
-https://radio.anothermusicproject.com:8443/idm
 # 72FM: https://72fm.com/station/805b48c3-f9ad-4253-8e64-010ca13b5edd?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s167335/images/logod.png?t=636196552593670000" group-title="Belarus" radio="true",TEPLOE RADIO NETOP FM
 https://listen.teploe.net:8001/netopfm
+# 72FM: https://72fm.com/station/a335d5e9-48f7-4ed6-a13e-0b2e4b78f320?source=m3u
+#EXTINF:-1 tvg-logo="https://anothermusicproject.com/gfx/tx.favicon.ico" group-title="Belarus" radio="true",Another Music Project
+https://radio.anothermusicproject.com:8443/idm
+# 72FM: https://72fm.com/station/7239d1b3-2f62-416a-a709-3f69236482d9?source=m3u
+#EXTINF:-1 group-title="Belarus" radio="true",Чайная роза радио
+https://s05.volnorez.com/live-app/788219
 # 72FM: https://72fm.com/station/82e3af82-7e7e-4009-846b-e3aea9124315?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Aplus.FM Rock
 https://shoutcast.aplus.fm/aplus_rock_256
+# 72FM: https://72fm.com/station/f8ed75ce-7b99-46a9-8718-d73ba6ba0283?source=m3u
+#EXTINF:-1 tvg-logo="https://roks.by/assets/logo.svg" group-title="Belarus" radio="true",Radio ROKS
+https://stream.roks.com:8443/live256
 # 72FM: https://72fm.com/station/3f5d5039-5ecf-429a-ae2a-8c049ddfafb1?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Radio ALESIA
 https://air.alesia.live/alesia
@@ -163,12 +172,6 @@ https://hls.alesia.live/alesia/aac_hifi.m3u8
 # 72FM: https://72fm.com/station/2ac6aada-0800-4fa6-99f3-d5f49fc5b601?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Radio Alesia
 http://hls.alesia.live/alesia/aac_hifi.m3u8
-# 72FM: https://72fm.com/station/f8ed75ce-7b99-46a9-8718-d73ba6ba0283?source=m3u
-#EXTINF:-1 tvg-logo="https://roks.by/assets/logo.svg" group-title="Belarus" radio="true",Radio ROKS
-https://stream.roks.com:8443/live256
-# 72FM: https://72fm.com/station/7239d1b3-2f62-416a-a709-3f69236482d9?source=m3u
-#EXTINF:-1 group-title="Belarus" radio="true",Чайная роза радио
-https://s05.volnorez.com/live-app/788219
 # 72FM: https://72fm.com/station/945b1b81-44b2-4249-a9ac-865a5e4f28c9?source=m3u
 #EXTINF:-1 group-title="Belarus" radio="true",Pilot FM
 https://edge2.usp.unistar.by/hls/unistar_pilotfm/96k.m3u8?session_id=60c1fba2-77d4-4180-ab07-4f162b47f3fc

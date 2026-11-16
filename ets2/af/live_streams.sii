@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 51
+ stream_data: 52
  stream_data[0]: "http://hydra.cdnstream.com/1822_128|BEAUTIFUL INSTRUMENTALS|Classical|AF|192|0"
  stream_data[1]: "http://immortalharmony.out.airtime.pro:8000/immortalharmony_a|Ambient Space|Classical|AF|128|0"
  stream_data[2]: "http://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio|BBC UNHCR|Various|AF|56|0"
@@ -34,8 +34,8 @@ live_stream_def : .live_streams {
  stream_data[29]: "https://nova-ln.ice.infomaniak.ch/nova-ln-128|Nova La Nuit|Classical|AF|128|0"
  stream_data[30]: "http://stream.laut.fm/gradio-rap|gradio|Classical|AF|128|0"
  stream_data[31]: "http://retro128.streamr.ru/|RetroFM|Classical|AF|128|0"
- stream_data[32]: "http://stream.zeno.fm/9e880vgncd0uv|k|Classical|AF|128|0"
- stream_data[33]: "http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil|\xd7\x92\xd7\x9c \xd7\xa2\xd7\x91\xd7\xa8\xd7\x99|Classical|AF|128|0"
+ stream_data[32]: "http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil|\xd7\x92\xd7\x9c \xd7\xa2\xd7\x91\xd7\xa8\xd7\x99|Classical|AF|128|0"
+ stream_data[33]: "http://stream.zeno.fm/9e880vgncd0uv|k|Classical|AF|128|0"
  stream_data[34]: "https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3|Cosmo hi|Classical|AF|128|0"
  stream_data[35]: "http://dengeqamishlo.stream.laut.fm/dengeqamishlo|Qamislo|Classical|AF|128|0"
  stream_data[36]: "http://dsuradio.deltastate.edu:8000/stream|WDSW 88.1 - The Trail Roots, Blues & Rock Cleveland, MS|Rock|AF|192|0"
@@ -51,8 +51,9 @@ live_stream_def : .live_streams {
  stream_data[46]: "https://listen.radioking.com/radio/291025/stream/337294|chalabi|News|AF|128|0"
  stream_data[47]: "https://radiostream.pl/tuba140-1.mp3|rpw|Various|ORI|128|0"
  stream_data[48]: "https://coolism-web3rd.cdn.byteark.com/;stream/1|cool93|Classical|AF|128|0"
- stream_data[49]: "http://23.81.35.187:8054/stream|Radio Kabul|Various|AF|128|0"
- stream_data[50]: "https://streams.radio.co/sa3345aaa8/listen|Ariana FM 93.5 Kabul|News|DAR|128|0"
+ stream_data[49]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_CORUNA.mp3|rrr|Classical|AF|128|0"
+ stream_data[50]: "http://23.81.35.187:8054/stream|Radio Kabul|Various|AF|128|0"
+ stream_data[51]: "https://streams.radio.co/sa3345aaa8/listen|Ariana FM 93.5 Kabul|News|DAR|128|0"
 }
 
 }

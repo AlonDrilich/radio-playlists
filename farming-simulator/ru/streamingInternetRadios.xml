@@ -20,10 +20,10 @@
     <streamingInternetRadio href="http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps" />
     <!-- Радио Шансон - Radio Shanson -->
     <streamingInternetRadio href="http://chanson.hostingradio.ru:8041/chanson256.mp3" />
-    <!-- Ретро ФМ -->
-    <streamingInternetRadio href="http://retroserver.streamr.ru:8043/retro128" />
     <!-- Anon.FM -->
     <streamingInternetRadio href="https://icecast.anon.fm/radio" />
+    <!-- Ретро ФМ -->
+    <streamingInternetRadio href="http://retroserver.streamr.ru:8043/retro128" />
     <!-- Наше Радио -->
     <streamingInternetRadio href="http://nashe.streamr.ru/nashe-128.mp3" />
     <!-- Радио 7 на семи холмах -->
@@ -31,9 +31,7 @@
     <!-- Радио Книга -->
     <streamingInternetRadio href="http://bookradio.hostingradio.ru:8069/fm" />
     <!-- DiscoverTranceRadio (MP3 HQ stereo 192kBit/s) -->
-    <streamingInternetRadio href="http://chicago.discovertrance.com:9214//" />
-    <!-- Шансон без цензуры -->
-    <streamingInternetRadio href="http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3" />
+    <streamingInternetRadio href="http://node-2.promo-cloud.com:8006//" />
     <!-- РЕТРО ХИТ - RETRO HIT -->
     <streamingInternetRadio href="http://retro.volna.top/Retro" />
     <!-- Mixadance FM -->
@@ -70,14 +68,10 @@
     <streamingInternetRadio href="https://rusradio.hostingradio.ru/rusradio128.mp3" />
     <!-- Luxury Lounge - Late night, Deep sleep & Meditation -->
     <streamingInternetRadio href="http://188.40.109.122:8000/ices3" />
-    <!-- Романтический шансон -->
-    <streamingInternetRadio href="http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3" />
     <!-- Искатель -->
     <streamingInternetRadio href="http://iskatel.hostingradio.ru:8015/iskatel-128.mp3" />
     <!-- Ретро Хит -->
     <streamingInternetRadio href="http://air.volna.top/Retro" />
-    <!-- ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED] -->
-    <streamingInternetRadio href="http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3" />
     <!-- Радио Джаз 89,1FM -->
     <streamingInternetRadio href="http://jazz.streamr.ru/jazz-128.mp3" />
     <!-- Радио ЗВЕЗДА - Центральная Россия -->
@@ -88,10 +82,10 @@
     <streamingInternetRadio href="https://stream.musicaldecadence.ru/live" />
     <!-- Radio DFM Ufa 91.5 FM -->
     <streamingInternetRadio href="http://92.50.177.134:8000/dfm_ufa" />
-    <!-- Радио Крым -->
-    <streamingInternetRadio href="https://fm.1tvcrimea.ru:19000/stream.mp3?608bbb38" />
     <!-- НАШЕ Радио Тюмень -->
     <streamingInternetRadio href="http://nashe1.hostingradio.ru/nashe-256" />
+    <!-- Радио Крым -->
+    <streamingInternetRadio href="https://fm.1tvcrimea.ru:19000/stream.mp3?608bbb38" />
     <!-- Радио Ностальжи Россия -->
     <streamingInternetRadio href="https://listen7.myradio24.com/alexx333" />
     <!-- Europa Plus (128 kbps) -->
@@ -120,22 +114,22 @@
     <streamingInternetRadio href="http://amoris.sknt.ru/dubtechnomix.mp3" />
     <!-- rockfm.ru heavy -->
     <streamingInternetRadio href="https://jfm1.hostingradio.ru:14536/metal.mp3" />
-    <!-- Старое радио - Old Radio -->
-    <streamingInternetRadio href="http://195.91.237.50:8000/ices128" />
     <!-- Ретро FM 80е -->
     <streamingInternetRadio href="http://retro80.hostingradio.ru:8025/retro80-128.mp3" />
+    <!-- Старое радио - Old Radio -->
+    <streamingInternetRadio href="http://195.91.237.50:8000/ices128" />
     <!-- Серебряный дождь -->
     <streamingInternetRadio href="http://213.59.4.27:8000/silver128.mp3" />
-    <!-- BFM.ru -->
-    <streamingInternetRadio href="https://bfm.hostingradio.ru:9075/fm" />
     <!-- Sputnik News Belarussian -->
     <streamingInternetRadio href="https://nfw.ria.ru/flv/audio.aspx?ID=68862011&amp;amp;type=mp3" />
     <!-- Вести ФМ -->
     <streamingInternetRadio href="https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_64kbps" />
-    <!-- Радио Культура / Radio Kultura -->
-    <streamingInternetRadio href="http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps" />
+    <!-- BFM.ru -->
+    <streamingInternetRadio href="https://bfm.hostingradio.ru:9075/fm" />
     <!-- Relax FM Nature -->
     <streamingInternetRadio href="https://pub0101.101.ru/stream/trust/mp3/128/263" />
+    <!-- Радио Культура / Radio Kultura -->
+    <streamingInternetRadio href="http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps" />
     <!-- Радио Юность -->
     <streamingInternetRadio href="http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps" />
     <!-- BigTunesRadio - House -->
@@ -174,30 +168,36 @@
     <streamingInternetRadio href="http://icecast.vgtrk.cdnvideo.ru/moscowfm128?v=1550419566950" />
     <!-- Союз ФМ -->
     <streamingInternetRadio href="http://soyuzfm.su:8100//soyuzfm-320.mp3?1702169748633" />
-    <!-- Пи FM -->
-    <streamingInternetRadio href="http://cdn.pifm.ru/mp3" />
     <!-- Калина Красная -->
     <streamingInternetRadio href="http://icecast-studio21.cdnvideo.ru/KalynaK_1a" />
-    <!-- Говорит Москва -->
-    <streamingInternetRadio href="https://media.govoritmoskva.ru/radio/ru64.mp3" />
+    <!-- Пи FM -->
+    <streamingInternetRadio href="http://cdn.pifm.ru/mp3" />
     <!-- ROCK FM,HEAVY -->
     <streamingInternetRadio href="http://jfm1.hostingradio.ru:14536/metal.mp3" />
+    <!-- Говорит Москва -->
+    <streamingInternetRadio href="https://media.govoritmoskva.ru/radio/ru64.mp3" />
     <!-- Милицейская волна НН -->
     <streamingInternetRadio href="https://radiomv.hostingradio.ru:80/radiomv128.mp3" />
+    <!-- Радио Спутник -->
+    <streamingInternetRadio href="https://icecast-rian.cdnvideo.ru/voicerus" />
     <!-- ROCK FM, 80s -->
     <streamingInternetRadio href="http://jfm1.hostingradio.ru:14536/rock80.mp3" />
     <!-- РАДИО КАФЕ - Radio CAFE -->
     <streamingInternetRadio href="http://cafe.volna.top/Cafe" />
-    <!-- Радио Спутник -->
-    <streamingInternetRadio href="https://icecast-rian.cdnvideo.ru/voicerus" />
-    <!-- ДЕТСКОЕ РАДИО [DETSKOE RADIO BABY FM -->
-    <streamingInternetRadio href="http://a5.radioheart.ru:8012/nonstop" />
     <!-- Ретро Хит -->
     <streamingInternetRadio href="https://retro.volna.top/Retro" />
+    <!-- ДЕТСКОЕ РАДИО [DETSKOE RADIO BABY FM -->
+    <streamingInternetRadio href="http://a5.radioheart.ru:8012/nonstop" />
     <!-- Remix FM -->
     <streamingInternetRadio href="http://air4.amgradio.ru/RemixFM" />
     <!-- Radio Jazz 89.1 FM -->
     <streamingInternetRadio href="http://main.hostingradio.ru/jazz-128.mp3" />
     <!-- BigTunesRadio - Trance -->
     <streamingInternetRadio href="https://bigtunesradio.com:8003/trance.mp3?1712236520795" />
+    <!-- Luxury Lounge - Chillwave & Retrowave -->
+    <streamingInternetRadio href="http://188.40.109.122:8000/ices2" />
+    <!-- Радио дача -->
+    <streamingInternetRadio href="http://listen13.vdfm.ru:8000/dacha" />
+    <!-- Бизнес ФМ Санкт-Петербург 107.4 FM -->
+    <streamingInternetRadio href="http://bfmreg.hostingradio.ru/spb.bfm128.mp3" />
 </streamingInternetRadios>
