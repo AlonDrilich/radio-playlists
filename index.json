@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-23",
   "source": "Radio Browser (https://www.radio-browser.info)",
   "data_license": "Public domain (Radio Browser); playlists in this repository: CC0 1.0",
   "note": "Stream URLs point to third-party stations. 72FM does not own, operate or curate them.",
@@ -14,12 +14,12 @@
     "ets2": "per country, up to 100 most-voted MP3 or Ogg stations as a live_streams.sii for Euro Truck Simulator 2 and American Truck Simulator; AAC, playlist addresses and https on ports other than 443 are left out"
   },
   "totals": {
-    "working_unique_stations": 52272,
-    "countries": 172,
+    "working_unique_stations": 52677,
+    "countries": 173,
     "genres": 60,
     "ets2_countries": 148,
-    "farming_simulator_countries": 154,
-    "garrys_mod_countries": 163
+    "farming_simulator_countries": 153,
+    "garrys_mod_countries": 167
   },
   "playlists": [
     {
@@ -27,23 +27,23 @@
       "id": "af",
       "name": "Afghanistan",
       "flag": "🇦🇫",
-      "stations": 79,
-      "stations_available": 79,
+      "stations": 95,
+      "stations_available": 95,
       "path": "countries/af.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/af.m3u",
       "page_72fm": null,
       "ets2": {
-        "stations": 52,
+        "stations": 66,
         "path": "ets2/af/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/af/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 58,
+        "stations": 73,
         "path": "farming-simulator/af/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/af/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 65,
+        "stations": 80,
         "path": "garrys-mod/af-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/af-radio_pls.txt"
       }
@@ -105,8 +105,8 @@
       "id": "as",
       "name": "American Samoa",
       "flag": "🇦🇸",
-      "stations": 10,
-      "stations_available": 10,
+      "stations": 11,
+      "stations_available": 11,
       "path": "countries/as.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/as.m3u",
       "page_72fm": null,
@@ -163,7 +163,7 @@
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ao/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 43,
+        "stations": 44,
         "path": "garrys-mod/ao-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ao-radio_pls.txt"
       }
@@ -232,7 +232,7 @@
       "name": "Argentina",
       "flag": "🇦🇷",
       "stations": 300,
-      "stations_available": 1031,
+      "stations_available": 978,
       "path": "countries/ar.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ar.m3u",
       "page_72fm": "https://72fm.com/radio/ar",
@@ -305,7 +305,7 @@
       "name": "Australia",
       "flag": "🇦🇺",
       "stations": 300,
-      "stations_available": 1594,
+      "stations_available": 1596,
       "path": "countries/au.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/au.m3u",
       "page_72fm": "https://72fm.com/radio/au",
@@ -331,7 +331,7 @@
       "name": "Austria",
       "flag": "🇦🇹",
       "stations": 300,
-      "stations_available": 309,
+      "stations_available": 312,
       "path": "countries/at.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/at.m3u",
       "page_72fm": "https://72fm.com/radio/at",
@@ -356,23 +356,23 @@
       "id": "az",
       "name": "Azerbaijan",
       "flag": "🇦🇿",
-      "stations": 33,
-      "stations_available": 33,
+      "stations": 36,
+      "stations_available": 36,
       "path": "countries/az.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/az.m3u",
       "page_72fm": "https://72fm.com/radio/az",
       "ets2": {
-        "stations": 27,
+        "stations": 30,
         "path": "ets2/az/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/az/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 29,
+        "stations": 32,
         "path": "farming-simulator/az/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/az/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 30,
+        "stations": 33,
         "path": "garrys-mod/az-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/az-radio_pls.txt"
       }
@@ -408,11 +408,16 @@
       "id": "bh",
       "name": "Bahrain",
       "flag": "🇧🇭",
-      "stations": 11,
-      "stations_available": 11,
+      "stations": 12,
+      "stations_available": 12,
       "path": "countries/bh.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/bh.m3u",
-      "page_72fm": "https://72fm.com/radio/bh"
+      "page_72fm": "https://72fm.com/radio/bh",
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/bh-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/bh-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -471,23 +476,23 @@
       "id": "by",
       "name": "Belarus",
       "flag": "🇧🇾",
-      "stations": 58,
-      "stations_available": 58,
+      "stations": 59,
+      "stations_available": 59,
       "path": "countries/by.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/by.m3u",
       "page_72fm": "https://72fm.com/radio/by",
       "ets2": {
-        "stations": 23,
+        "stations": 24,
         "path": "ets2/by/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/by/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 33,
+        "stations": 34,
         "path": "farming-simulator/by/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/by/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 42,
+        "stations": 43,
         "path": "garrys-mod/by-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/by-radio_pls.txt"
       }
@@ -498,7 +503,7 @@
       "name": "Belgium",
       "flag": "🇧🇪",
       "stations": 300,
-      "stations_available": 449,
+      "stations_available": 453,
       "path": "countries/be.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/be.m3u",
       "page_72fm": "https://72fm.com/radio/be",
@@ -570,23 +575,23 @@
       "id": "bo",
       "name": "Bolivia",
       "flag": "🇧🇴",
-      "stations": 67,
-      "stations_available": 67,
+      "stations": 65,
+      "stations_available": 65,
       "path": "countries/bo.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/bo.m3u",
       "page_72fm": "https://72fm.com/radio/bo",
       "ets2": {
-        "stations": 35,
+        "stations": 34,
         "path": "ets2/bo/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/bo/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 43,
+        "stations": 42,
         "path": "farming-simulator/bo/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/bo/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 51,
+        "stations": 50,
         "path": "garrys-mod/bo-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/bo-radio_pls.txt"
       }
@@ -596,18 +601,18 @@
       "id": "ba",
       "name": "Bosnia & Herzegovina",
       "flag": "🇧🇦",
-      "stations": 140,
-      "stations_available": 140,
+      "stations": 142,
+      "stations_available": 142,
       "path": "countries/ba.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ba.m3u",
       "page_72fm": "https://72fm.com/radio/ba",
       "ets2": {
-        "stations": 84,
+        "stations": 86,
         "path": "ets2/ba/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ba/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 98,
+        "stations": 100,
         "path": "farming-simulator/ba/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ba/streamingInternetRadios.xml"
       },
@@ -623,7 +628,7 @@
       "name": "Brazil",
       "flag": "🇧🇷",
       "stations": 300,
-      "stations_available": 1412,
+      "stations_available": 1552,
       "path": "countries/br.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/br.m3u",
       "page_72fm": "https://72fm.com/radio/br",
@@ -649,7 +654,7 @@
       "name": "Bulgaria",
       "flag": "🇧🇬",
       "stations": 300,
-      "stations_available": 321,
+      "stations_available": 320,
       "path": "countries/bg.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/bg.m3u",
       "page_72fm": "https://72fm.com/radio/bg",
@@ -727,7 +732,7 @@
       "name": "Canada",
       "flag": "🇨🇦",
       "stations": 300,
-      "stations_available": 1352,
+      "stations_available": 1357,
       "path": "countries/ca.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ca.m3u",
       "page_72fm": "https://72fm.com/radio/ca",
@@ -831,7 +836,7 @@
       "name": "Chile",
       "flag": "🇨🇱",
       "stations": 300,
-      "stations_available": 496,
+      "stations_available": 492,
       "path": "countries/cl.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/cl.m3u",
       "page_72fm": "https://72fm.com/radio/cl",
@@ -857,7 +862,7 @@
       "name": "China",
       "flag": "🇨🇳",
       "stations": 300,
-      "stations_available": 1950,
+      "stations_available": 1942,
       "path": "countries/cn.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/cn.m3u",
       "page_72fm": "https://72fm.com/radio/cn",
@@ -883,7 +888,7 @@
       "name": "Colombia",
       "flag": "🇨🇴",
       "stations": 300,
-      "stations_available": 668,
+      "stations_available": 674,
       "path": "countries/co.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/co.m3u",
       "page_72fm": "https://72fm.com/radio/co",
@@ -934,23 +939,23 @@
       "id": "cr",
       "name": "Costa Rica",
       "flag": "🇨🇷",
-      "stations": 52,
-      "stations_available": 52,
+      "stations": 54,
+      "stations_available": 54,
       "path": "countries/cr.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/cr.m3u",
       "page_72fm": "https://72fm.com/radio/cr",
       "ets2": {
-        "stations": 20,
+        "stations": 21,
         "path": "ets2/cr/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cr/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 30,
+        "stations": 31,
         "path": "farming-simulator/cr/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cr/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 34,
+        "stations": 35,
         "path": "garrys-mod/cr-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cr-radio_pls.txt"
       }
@@ -986,8 +991,8 @@
       "id": "hr",
       "name": "Croatia",
       "flag": "🇭🇷",
-      "stations": 258,
-      "stations_available": 258,
+      "stations": 259,
+      "stations_available": 259,
       "path": "countries/hr.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/hr.m3u",
       "page_72fm": "https://72fm.com/radio/hr",
@@ -1012,23 +1017,23 @@
       "id": "cu",
       "name": "Cuba",
       "flag": "🇨🇺",
-      "stations": 22,
-      "stations_available": 22,
+      "stations": 23,
+      "stations_available": 23,
       "path": "countries/cu.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/cu.m3u",
       "page_72fm": "https://72fm.com/radio/cu",
       "ets2": {
-        "stations": 20,
+        "stations": 21,
         "path": "ets2/cu/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/cu/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 22,
+        "stations": 23,
         "path": "farming-simulator/cu/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/cu/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 22,
+        "stations": 23,
         "path": "garrys-mod/cu-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/cu-radio_pls.txt"
       }
@@ -1153,23 +1158,23 @@
       "id": "do",
       "name": "Dominican Republic",
       "flag": "🇩🇴",
-      "stations": 110,
-      "stations_available": 110,
+      "stations": 108,
+      "stations_available": 108,
       "path": "countries/do.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/do.m3u",
       "page_72fm": "https://72fm.com/radio/do",
       "ets2": {
-        "stations": 72,
+        "stations": 70,
         "path": "ets2/do/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/do/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 89,
+        "stations": 87,
         "path": "farming-simulator/do/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/do/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 93,
+        "stations": 92,
         "path": "garrys-mod/do-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/do-radio_pls.txt"
       }
@@ -1179,23 +1184,23 @@
       "id": "ec",
       "name": "Ecuador",
       "flag": "🇪🇨",
-      "stations": 152,
-      "stations_available": 152,
+      "stations": 154,
+      "stations_available": 154,
       "path": "countries/ec.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ec.m3u",
       "page_72fm": "https://72fm.com/radio/ec",
       "ets2": {
-        "stations": 43,
+        "stations": 41,
         "path": "ets2/ec/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ec/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 56,
+        "stations": 54,
         "path": "farming-simulator/ec/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ec/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 99,
+        "stations": 98,
         "path": "garrys-mod/ec-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ec-radio_pls.txt"
       }
@@ -1205,23 +1210,23 @@
       "id": "eg",
       "name": "Egypt",
       "flag": "🇪🇬",
-      "stations": 58,
-      "stations_available": 58,
+      "stations": 59,
+      "stations_available": 59,
       "path": "countries/eg.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/eg.m3u",
       "page_72fm": "https://72fm.com/radio/eg",
       "ets2": {
-        "stations": 56,
+        "stations": 58,
         "path": "ets2/eg/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/eg/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 57,
+        "stations": 59,
         "path": "farming-simulator/eg/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/eg/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 58,
+        "stations": 59,
         "path": "garrys-mod/eg-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/eg-radio_pls.txt"
       }
@@ -1283,23 +1288,23 @@
       "id": "et",
       "name": "Ethiopia",
       "flag": "🇪🇹",
-      "stations": 22,
-      "stations_available": 22,
+      "stations": 23,
+      "stations_available": 23,
       "path": "countries/et.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/et.m3u",
       "page_72fm": "https://72fm.com/radio/et",
       "ets2": {
-        "stations": 22,
+        "stations": 23,
         "path": "ets2/et/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/et/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 22,
+        "stations": 23,
         "path": "farming-simulator/et/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/et/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 22,
+        "stations": 23,
         "path": "garrys-mod/et-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/et-radio_pls.txt"
       }
@@ -1361,8 +1366,8 @@
       "id": "fi",
       "name": "Finland",
       "flag": "🇫🇮",
-      "stations": 132,
-      "stations_available": 132,
+      "stations": 134,
+      "stations_available": 134,
       "path": "countries/fi.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/fi.m3u",
       "page_72fm": "https://72fm.com/radio/fi",
@@ -1377,7 +1382,7 @@
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/fi/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 89,
+        "stations": 90,
         "path": "garrys-mod/fi-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/fi-radio_pls.txt"
       }
@@ -1388,7 +1393,7 @@
       "name": "France",
       "flag": "🇫🇷",
       "stations": 300,
-      "stations_available": 2782,
+      "stations_available": 2796,
       "path": "countries/fr.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/fr.m3u",
       "page_72fm": "https://72fm.com/radio/fr",
@@ -1424,8 +1429,8 @@
       "id": "ge",
       "name": "Georgia",
       "flag": "🇬🇪",
-      "stations": 26,
-      "stations_available": 26,
+      "stations": 28,
+      "stations_available": 28,
       "path": "countries/ge.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ge.m3u",
       "page_72fm": "https://72fm.com/radio/ge",
@@ -1440,7 +1445,7 @@
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ge/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 14,
+        "stations": 16,
         "path": "garrys-mod/ge-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ge-radio_pls.txt"
       }
@@ -1451,7 +1456,7 @@
       "name": "Germany",
       "flag": "🇩🇪",
       "stations": 300,
-      "stations_available": 5505,
+      "stations_available": 5517,
       "path": "countries/de.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/de.m3u",
       "page_72fm": "https://72fm.com/radio/de",
@@ -1476,23 +1481,23 @@
       "id": "gh",
       "name": "Ghana",
       "flag": "🇬🇭",
-      "stations": 91,
-      "stations_available": 91,
+      "stations": 90,
+      "stations_available": 90,
       "path": "countries/gh.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/gh.m3u",
       "page_72fm": "https://72fm.com/radio/gh",
       "ets2": {
-        "stations": 82,
+        "stations": 81,
         "path": "ets2/gh/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/gh/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 87,
+        "stations": 86,
         "path": "farming-simulator/gh/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/gh/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 88,
+        "stations": 87,
         "path": "garrys-mod/gh-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gh-radio_pls.txt"
       }
@@ -1514,7 +1519,7 @@
       "name": "Greece",
       "flag": "🇬🇷",
       "stations": 300,
-      "stations_available": 1880,
+      "stations_available": 1888,
       "path": "countries/gr.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/gr.m3u",
       "page_72fm": "https://72fm.com/radio/gr",
@@ -1591,19 +1596,24 @@
       "id": "gu",
       "name": "Guam",
       "flag": "🇬🇺",
-      "stations": 5,
-      "stations_available": 5,
+      "stations": 6,
+      "stations_available": 6,
       "path": "countries/gu.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/gu.m3u",
-      "page_72fm": "https://72fm.com/radio/gu"
+      "page_72fm": "https://72fm.com/radio/gu",
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/gu-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/gu-radio_pls.txt"
+      }
     },
     {
       "type": "country",
       "id": "gt",
       "name": "Guatemala",
       "flag": "🇬🇹",
-      "stations": 69,
-      "stations_available": 69,
+      "stations": 71,
+      "stations_available": 71,
       "path": "countries/gt.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/gt.m3u",
       "page_72fm": "https://72fm.com/radio/gt",
@@ -1660,12 +1670,12 @@
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ht.m3u",
       "page_72fm": "https://72fm.com/radio/ht",
       "ets2": {
-        "stations": 24,
+        "stations": 23,
         "path": "ets2/ht/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ht/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 25,
+        "stations": 24,
         "path": "farming-simulator/ht/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ht/streamingInternetRadios.xml"
       },
@@ -1680,23 +1690,23 @@
       "id": "hn",
       "name": "Honduras",
       "flag": "🇭🇳",
-      "stations": 38,
-      "stations_available": 38,
+      "stations": 40,
+      "stations_available": 40,
       "path": "countries/hn.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/hn.m3u",
       "page_72fm": "https://72fm.com/radio/hn",
       "ets2": {
-        "stations": 21,
+        "stations": 22,
         "path": "ets2/hn/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/hn/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 23,
+        "stations": 25,
         "path": "farming-simulator/hn/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/hn/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 33,
+        "stations": 35,
         "path": "garrys-mod/hn-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/hn-radio_pls.txt"
       }
@@ -1706,8 +1716,8 @@
       "id": "hk",
       "name": "Hong Kong SAR China",
       "flag": "🇭🇰",
-      "stations": 65,
-      "stations_available": 65,
+      "stations": 64,
+      "stations_available": 64,
       "path": "countries/hk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/hk.m3u",
       "page_72fm": "https://72fm.com/radio/hk",
@@ -1722,7 +1732,7 @@
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/hk/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 26,
+        "stations": 24,
         "path": "garrys-mod/hk-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/hk-radio_pls.txt"
       }
@@ -1733,7 +1743,7 @@
       "name": "Hungary",
       "flag": "🇭🇺",
       "stations": 300,
-      "stations_available": 324,
+      "stations_available": 331,
       "path": "countries/hu.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/hu.m3u",
       "page_72fm": "https://72fm.com/radio/hu",
@@ -1785,7 +1795,7 @@
       "name": "India",
       "flag": "🇮🇳",
       "stations": 300,
-      "stations_available": 733,
+      "stations_available": 731,
       "path": "countries/in.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/in.m3u",
       "page_72fm": "https://72fm.com/radio/in",
@@ -1811,7 +1821,7 @@
       "name": "Indonesia",
       "flag": "🇮🇩",
       "stations": 300,
-      "stations_available": 507,
+      "stations_available": 504,
       "path": "countries/id.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/id.m3u",
       "page_72fm": "https://72fm.com/radio/id",
@@ -1936,7 +1946,7 @@
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/il.m3u",
       "page_72fm": "https://72fm.com/radio/il",
       "ets2": {
-        "stations": 62,
+        "stations": 61,
         "path": "ets2/il/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/il/live_streams.sii"
       },
@@ -1957,7 +1967,7 @@
       "name": "Italy",
       "flag": "🇮🇹",
       "stations": 300,
-      "stations_available": 1579,
+      "stations_available": 1590,
       "path": "countries/it.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/it.m3u",
       "page_72fm": "https://72fm.com/radio/it",
@@ -2118,7 +2128,7 @@
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/xk.m3u",
       "page_72fm": "https://72fm.com/radio/xk",
       "ets2": {
-        "stations": 11,
+        "stations": 10,
         "path": "ets2/xk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/xk/live_streams.sii"
       },
@@ -2201,8 +2211,8 @@
       "id": "lb",
       "name": "Lebanon",
       "flag": "🇱🇧",
-      "stations": 115,
-      "stations_available": 115,
+      "stations": 113,
+      "stations_available": 113,
       "path": "countries/lb.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/lb.m3u",
       "page_72fm": "https://72fm.com/radio/lb",
@@ -2212,7 +2222,7 @@
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/lb/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 100,
+        "stations": 99,
         "path": "farming-simulator/lb/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/lb/streamingInternetRadios.xml"
       },
@@ -2243,18 +2253,18 @@
       "id": "lt",
       "name": "Lithuania",
       "flag": "🇱🇹",
-      "stations": 108,
-      "stations_available": 108,
+      "stations": 109,
+      "stations_available": 109,
       "path": "countries/lt.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/lt.m3u",
       "page_72fm": "https://72fm.com/radio/lt",
       "ets2": {
-        "stations": 82,
+        "stations": 83,
         "path": "ets2/lt/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/lt/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 84,
+        "stations": 85,
         "path": "farming-simulator/lt/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/lt/streamingInternetRadios.xml"
       },
@@ -2347,23 +2357,23 @@
       "id": "mw",
       "name": "Malawi",
       "flag": "🇲🇼",
-      "stations": 53,
-      "stations_available": 53,
+      "stations": 50,
+      "stations_available": 50,
       "path": "countries/mw.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/mw.m3u",
       "page_72fm": "https://72fm.com/radio/mw",
       "ets2": {
-        "stations": 34,
+        "stations": 33,
         "path": "ets2/mw/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mw/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 41,
+        "stations": 40,
         "path": "farming-simulator/mw/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mw/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 47,
+        "stations": 44,
         "path": "garrys-mod/mw-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mw-radio_pls.txt"
       }
@@ -2379,17 +2389,17 @@
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/my.m3u",
       "page_72fm": "https://72fm.com/radio/my",
       "ets2": {
-        "stations": 31,
+        "stations": 30,
         "path": "ets2/my/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/my/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 33,
+        "stations": 32,
         "path": "farming-simulator/my/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/my/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 42,
+        "stations": 41,
         "path": "garrys-mod/my-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/my-radio_pls.txt"
       }
@@ -2425,23 +2435,23 @@
       "id": "mt",
       "name": "Malta",
       "flag": "🇲🇹",
-      "stations": 14,
-      "stations_available": 14,
+      "stations": 16,
+      "stations_available": 16,
       "path": "countries/mt.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/mt.m3u",
       "page_72fm": "https://72fm.com/radio/mt",
       "ets2": {
-        "stations": 9,
+        "stations": 11,
         "path": "ets2/mt/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/mt/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 11,
+        "stations": 13,
         "path": "farming-simulator/mt/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/mt/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 12,
+        "stations": 14,
         "path": "garrys-mod/mt-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mt-radio_pls.txt"
       }
@@ -2499,7 +2509,7 @@
       "name": "Mexico",
       "flag": "🇲🇽",
       "stations": 300,
-      "stations_available": 1548,
+      "stations_available": 1571,
       "path": "countries/mx.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/mx.m3u",
       "page_72fm": "https://72fm.com/radio/mx",
@@ -2535,7 +2545,7 @@
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/md/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 25,
+        "stations": 26,
         "path": "farming-simulator/md/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/md/streamingInternetRadios.xml"
       },
@@ -2550,11 +2560,16 @@
       "id": "mc",
       "name": "Monaco",
       "flag": "🇲🇨",
-      "stations": 5,
-      "stations_available": 5,
+      "stations": 6,
+      "stations_available": 6,
       "path": "countries/mc.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/mc.m3u",
-      "page_72fm": "https://72fm.com/radio/mc"
+      "page_72fm": "https://72fm.com/radio/mc",
+      "garrys_mod": {
+        "stations": 5,
+        "path": "garrys-mod/mc-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/mc-radio_pls.txt"
+      }
     },
     {
       "type": "country",
@@ -2613,23 +2628,23 @@
       "id": "ma",
       "name": "Morocco",
       "flag": "🇲🇦",
-      "stations": 56,
-      "stations_available": 56,
+      "stations": 57,
+      "stations_available": 57,
       "path": "countries/ma.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ma.m3u",
       "page_72fm": "https://72fm.com/radio/ma",
       "ets2": {
-        "stations": 40,
+        "stations": 41,
         "path": "ets2/ma/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ma/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 47,
+        "stations": 48,
         "path": "farming-simulator/ma/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ma/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 49,
+        "stations": 50,
         "path": "garrys-mod/ma-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ma-radio_pls.txt"
       }
@@ -2681,8 +2696,8 @@
       "id": "np",
       "name": "Nepal",
       "flag": "🇳🇵",
-      "stations": 146,
-      "stations_available": 146,
+      "stations": 144,
+      "stations_available": 144,
       "path": "countries/np.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/np.m3u",
       "page_72fm": "https://72fm.com/radio/np",
@@ -2708,7 +2723,7 @@
       "name": "Netherlands",
       "flag": "🇳🇱",
       "stations": 300,
-      "stations_available": 1162,
+      "stations_available": 1170,
       "path": "countries/nl.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/nl.m3u",
       "page_72fm": "https://72fm.com/radio/nl",
@@ -2749,18 +2764,18 @@
       "id": "nz",
       "name": "New Zealand",
       "flag": "🇳🇿",
-      "stations": 207,
-      "stations_available": 207,
+      "stations": 206,
+      "stations_available": 206,
       "path": "countries/nz.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/nz.m3u",
       "page_72fm": "https://72fm.com/radio/nz",
       "ets2": {
-        "stations": 86,
+        "stations": 85,
         "path": "ets2/nz/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/nz/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 95,
+        "stations": 94,
         "path": "farming-simulator/nz/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/nz/streamingInternetRadios.xml"
       },
@@ -2775,8 +2790,8 @@
       "id": "ni",
       "name": "Nicaragua",
       "flag": "🇳🇮",
-      "stations": 22,
-      "stations_available": 22,
+      "stations": 23,
+      "stations_available": 23,
       "path": "countries/ni.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ni.m3u",
       "page_72fm": "https://72fm.com/radio/ni",
@@ -2827,8 +2842,8 @@
       "id": "kp",
       "name": "North Korea",
       "flag": "🇰🇵",
-      "stations": 7,
-      "stations_available": 7,
+      "stations": 9,
+      "stations_available": 9,
       "path": "countries/kp.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/kp.m3u",
       "page_72fm": "https://72fm.com/radio/kp",
@@ -2905,23 +2920,23 @@
       "id": "om",
       "name": "Oman",
       "flag": "🇴🇲",
-      "stations": 8,
-      "stations_available": 8,
+      "stations": 9,
+      "stations_available": 9,
       "path": "countries/om.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/om.m3u",
       "page_72fm": "https://72fm.com/radio/om",
       "ets2": {
-        "stations": 5,
+        "stations": 6,
         "path": "ets2/om/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/om/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 6,
+        "stations": 7,
         "path": "farming-simulator/om/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/om/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 6,
+        "stations": 7,
         "path": "garrys-mod/om-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/om-radio_pls.txt"
       }
@@ -2931,23 +2946,23 @@
       "id": "pk",
       "name": "Pakistan",
       "flag": "🇵🇰",
-      "stations": 59,
-      "stations_available": 59,
+      "stations": 57,
+      "stations_available": 57,
       "path": "countries/pk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pk.m3u",
       "page_72fm": "https://72fm.com/radio/pk",
       "ets2": {
-        "stations": 24,
+        "stations": 22,
         "path": "ets2/pk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/pk/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 55,
+        "stations": 52,
         "path": "farming-simulator/pk/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/pk/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 57,
+        "stations": 54,
         "path": "garrys-mod/pk-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/pk-radio_pls.txt"
       }
@@ -2957,8 +2972,8 @@
       "id": "ps",
       "name": "Palestinian Territories",
       "flag": "🇵🇸",
-      "stations": 8,
-      "stations_available": 8,
+      "stations": 9,
+      "stations_available": 9,
       "path": "countries/ps.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ps.m3u",
       "page_72fm": "https://72fm.com/radio/ps",
@@ -2968,12 +2983,12 @@
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ps/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 7,
+        "stations": 8,
         "path": "farming-simulator/ps/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ps/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 8,
+        "stations": 9,
         "path": "garrys-mod/ps-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/ps-radio_pls.txt"
       }
@@ -3009,8 +3024,8 @@
       "id": "py",
       "name": "Paraguay",
       "flag": "🇵🇾",
-      "stations": 65,
-      "stations_available": 65,
+      "stations": 64,
+      "stations_available": 64,
       "path": "countries/py.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/py.m3u",
       "page_72fm": "https://72fm.com/radio/py",
@@ -3025,7 +3040,7 @@
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/py/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 24,
+        "stations": 23,
         "path": "garrys-mod/py-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/py-radio_pls.txt"
       }
@@ -3035,13 +3050,13 @@
       "id": "pe",
       "name": "Peru",
       "flag": "🇵🇪",
-      "stations": 248,
-      "stations_available": 248,
+      "stations": 249,
+      "stations_available": 249,
       "path": "countries/pe.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pe.m3u",
       "page_72fm": "https://72fm.com/radio/pe",
       "ets2": {
-        "stations": 92,
+        "stations": 93,
         "path": "ets2/pe/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/pe/live_streams.sii"
       },
@@ -3062,7 +3077,7 @@
       "name": "Philippines",
       "flag": "🇵🇭",
       "stations": 300,
-      "stations_available": 673,
+      "stations_available": 678,
       "path": "countries/ph.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ph.m3u",
       "page_72fm": "https://72fm.com/radio/ph",
@@ -3088,7 +3103,7 @@
       "name": "Poland",
       "flag": "🇵🇱",
       "stations": 300,
-      "stations_available": 895,
+      "stations_available": 926,
       "path": "countries/pl.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pl.m3u",
       "page_72fm": "https://72fm.com/radio/pl",
@@ -3139,23 +3154,23 @@
       "id": "pr",
       "name": "Puerto Rico",
       "flag": "🇵🇷",
-      "stations": 49,
-      "stations_available": 49,
+      "stations": 50,
+      "stations_available": 50,
       "path": "countries/pr.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/pr.m3u",
       "page_72fm": "https://72fm.com/radio/pr",
       "ets2": {
-        "stations": 31,
+        "stations": 32,
         "path": "ets2/pr/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/pr/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 36,
+        "stations": 37,
         "path": "farming-simulator/pr/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/pr/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 40,
+        "stations": 41,
         "path": "garrys-mod/pr-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/pr-radio_pls.txt"
       }
@@ -3203,7 +3218,7 @@
       "name": "Romania",
       "flag": "🇷🇴",
       "stations": 300,
-      "stations_available": 829,
+      "stations_available": 827,
       "path": "countries/ro.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ro.m3u",
       "page_72fm": "https://72fm.com/radio/ro",
@@ -3229,7 +3244,7 @@
       "name": "Russia",
       "flag": "🇷🇺",
       "stations": 300,
-      "stations_available": 2465,
+      "stations_available": 2451,
       "path": "countries/ru.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ru.m3u",
       "page_72fm": "https://72fm.com/radio/ru",
@@ -3286,23 +3301,23 @@
       "id": "sa",
       "name": "Saudi Arabia",
       "flag": "🇸🇦",
-      "stations": 47,
-      "stations_available": 47,
+      "stations": 48,
+      "stations_available": 48,
       "path": "countries/sa.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/sa.m3u",
       "page_72fm": "https://72fm.com/radio/sa",
       "ets2": {
-        "stations": 28,
+        "stations": 29,
         "path": "ets2/sa/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/sa/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 32,
+        "stations": 33,
         "path": "farming-simulator/sa/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/sa/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 35,
+        "stations": 36,
         "path": "garrys-mod/sa-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/sa-radio_pls.txt"
       }
@@ -3339,7 +3354,7 @@
       "name": "Serbia",
       "flag": "🇷🇸",
       "stations": 300,
-      "stations_available": 354,
+      "stations_available": 353,
       "path": "countries/rs.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/rs.m3u",
       "page_72fm": "https://72fm.com/radio/rs",
@@ -3390,8 +3405,8 @@
       "id": "sk",
       "name": "Slovakia",
       "flag": "🇸🇰",
-      "stations": 135,
-      "stations_available": 135,
+      "stations": 136,
+      "stations_available": 136,
       "path": "countries/sk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/sk.m3u",
       "page_72fm": "https://72fm.com/radio/sk",
@@ -3442,13 +3457,13 @@
       "id": "za",
       "name": "South Africa",
       "flag": "🇿🇦",
-      "stations": 197,
-      "stations_available": 197,
+      "stations": 198,
+      "stations_available": 198,
       "path": "countries/za.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/za.m3u",
       "page_72fm": "https://72fm.com/radio/za",
       "ets2": {
-        "stations": 87,
+        "stations": 86,
         "path": "ets2/za/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/za/live_streams.sii"
       },
@@ -3495,7 +3510,7 @@
       "name": "Spain",
       "flag": "🇪🇸",
       "stations": 300,
-      "stations_available": 1196,
+      "stations_available": 1214,
       "path": "countries/es.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/es.m3u",
       "page_72fm": "https://72fm.com/radio/es",
@@ -3520,23 +3535,23 @@
       "id": "lk",
       "name": "Sri Lanka",
       "flag": "🇱🇰",
-      "stations": 60,
-      "stations_available": 60,
+      "stations": 63,
+      "stations_available": 63,
       "path": "countries/lk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/lk.m3u",
       "page_72fm": "https://72fm.com/radio/lk",
       "ets2": {
-        "stations": 37,
+        "stations": 39,
         "path": "ets2/lk/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/lk/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 46,
+        "stations": 48,
         "path": "farming-simulator/lk/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/lk/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 49,
+        "stations": 52,
         "path": "garrys-mod/lk-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/lk-radio_pls.txt"
       }
@@ -3595,22 +3610,38 @@
     },
     {
       "type": "country",
+      "id": "sd",
+      "name": "Sudan",
+      "flag": "🇸🇩",
+      "stations": 5,
+      "stations_available": 5,
+      "path": "countries/sd.m3u",
+      "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/sd.m3u",
+      "page_72fm": "https://72fm.com/radio/sd"
+    },
+    {
+      "type": "country",
       "id": "sr",
       "name": "Suriname",
       "flag": "🇸🇷",
-      "stations": 6,
-      "stations_available": 6,
+      "stations": 8,
+      "stations_available": 8,
       "path": "countries/sr.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/sr.m3u",
-      "page_72fm": "https://72fm.com/radio/sr"
+      "page_72fm": "https://72fm.com/radio/sr",
+      "garrys_mod": {
+        "stations": 6,
+        "path": "garrys-mod/sr-radio_pls.txt",
+        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/sr-radio_pls.txt"
+      }
     },
     {
       "type": "country",
       "id": "se",
       "name": "Sweden",
       "flag": "🇸🇪",
-      "stations": 181,
-      "stations_available": 181,
+      "stations": 189,
+      "stations_available": 189,
       "path": "countries/se.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/se.m3u",
       "page_72fm": "https://72fm.com/radio/se",
@@ -3636,7 +3667,7 @@
       "name": "Switzerland",
       "flag": "🇨🇭",
       "stations": 300,
-      "stations_available": 517,
+      "stations_available": 519,
       "path": "countries/ch.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ch.m3u",
       "page_72fm": "https://72fm.com/radio/ch",
@@ -3713,23 +3744,23 @@
       "id": "tz",
       "name": "Tanzania",
       "flag": "🇹🇿",
-      "stations": 18,
-      "stations_available": 18,
+      "stations": 20,
+      "stations_available": 20,
       "path": "countries/tz.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/tz.m3u",
       "page_72fm": "https://72fm.com/radio/tz",
       "ets2": {
-        "stations": 14,
+        "stations": 15,
         "path": "ets2/tz/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/tz/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 15,
+        "stations": 17,
         "path": "farming-simulator/tz/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/tz/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 16,
+        "stations": 18,
         "path": "garrys-mod/tz-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/tz-radio_pls.txt"
       }
@@ -3739,23 +3770,23 @@
       "id": "th",
       "name": "Thailand",
       "flag": "🇹🇭",
-      "stations": 95,
-      "stations_available": 95,
+      "stations": 94,
+      "stations_available": 94,
       "path": "countries/th.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/th.m3u",
       "page_72fm": "https://72fm.com/radio/th",
       "ets2": {
-        "stations": 53,
+        "stations": 54,
         "path": "ets2/th/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/th/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 60,
+        "stations": 61,
         "path": "farming-simulator/th/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/th/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 63,
+        "stations": 64,
         "path": "garrys-mod/th-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/th-radio_pls.txt"
       }
@@ -3791,8 +3822,8 @@
       "id": "tt",
       "name": "Trinidad & Tobago",
       "flag": "🇹🇹",
-      "stations": 22,
-      "stations_available": 22,
+      "stations": 21,
+      "stations_available": 21,
       "path": "countries/tt.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/tt.m3u",
       "page_72fm": "https://72fm.com/radio/tt",
@@ -3807,7 +3838,7 @@
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/tt/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 20,
+        "stations": 19,
         "path": "garrys-mod/tt-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/tt-radio_pls.txt"
       }
@@ -3817,23 +3848,23 @@
       "id": "tn",
       "name": "Tunisia",
       "flag": "🇹🇳",
-      "stations": 54,
-      "stations_available": 54,
+      "stations": 57,
+      "stations_available": 57,
       "path": "countries/tn.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/tn.m3u",
       "page_72fm": "https://72fm.com/radio/tn",
       "ets2": {
-        "stations": 51,
+        "stations": 54,
         "path": "ets2/tn/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/tn/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 54,
+        "stations": 57,
         "path": "farming-simulator/tn/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/tn/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 54,
+        "stations": 57,
         "path": "garrys-mod/tn-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/tn-radio_pls.txt"
       }
@@ -3844,7 +3875,7 @@
       "name": "Türkiye",
       "flag": "🇹🇷",
       "stations": 300,
-      "stations_available": 662,
+      "stations_available": 685,
       "path": "countries/tr.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/tr.m3u",
       "page_72fm": "https://72fm.com/radio/tr",
@@ -3895,18 +3926,13 @@
       "id": "vi",
       "name": "U.S. Virgin Islands",
       "flag": "🇻🇮",
-      "stations": 8,
-      "stations_available": 8,
+      "stations": 7,
+      "stations_available": 7,
       "path": "countries/vi.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/vi.m3u",
       "page_72fm": "https://72fm.com/radio/vi",
-      "farming_simulator": {
-        "stations": 5,
-        "path": "farming-simulator/vi/streamingInternetRadios.xml",
-        "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/vi/streamingInternetRadios.xml"
-      },
       "garrys_mod": {
-        "stations": 6,
+        "stations": 5,
         "path": "garrys-mod/vi-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/vi-radio_pls.txt"
       }
@@ -3916,8 +3942,8 @@
       "id": "ug",
       "name": "Uganda",
       "flag": "🇺🇬",
-      "stations": 147,
-      "stations_available": 147,
+      "stations": 146,
+      "stations_available": 146,
       "path": "countries/ug.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ug.m3u",
       "page_72fm": "https://72fm.com/radio/ug",
@@ -3995,7 +4021,7 @@
       "name": "United Kingdom",
       "flag": "🇬🇧",
       "stations": 300,
-      "stations_available": 1921,
+      "stations_available": 1928,
       "path": "countries/gb.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/gb.m3u",
       "page_72fm": "https://72fm.com/radio/gb",
@@ -4021,7 +4047,7 @@
       "name": "United States",
       "flag": "🇺🇸",
       "stations": 300,
-      "stations_available": 6911,
+      "stations_available": 7027,
       "path": "countries/us.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/us.m3u",
       "page_72fm": "https://72fm.com/radio/us",
@@ -4046,23 +4072,23 @@
       "id": "uy",
       "name": "Uruguay",
       "flag": "🇺🇾",
-      "stations": 126,
-      "stations_available": 126,
+      "stations": 129,
+      "stations_available": 129,
       "path": "countries/uy.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/uy.m3u",
       "page_72fm": "https://72fm.com/radio/uy",
       "ets2": {
-        "stations": 68,
+        "stations": 69,
         "path": "ets2/uy/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/uy/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 87,
+        "stations": 91,
         "path": "farming-simulator/uy/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/uy/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 99,
+        "stations": 100,
         "path": "garrys-mod/uy-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/uy-radio_pls.txt"
       }
@@ -4114,18 +4140,18 @@
       "id": "ve",
       "name": "Venezuela",
       "flag": "🇻🇪",
-      "stations": 164,
-      "stations_available": 164,
+      "stations": 165,
+      "stations_available": 165,
       "path": "countries/ve.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/ve.m3u",
       "page_72fm": "https://72fm.com/radio/ve",
       "ets2": {
-        "stations": 56,
+        "stations": 54,
         "path": "ets2/ve/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/ve/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 69,
+        "stations": 67,
         "path": "farming-simulator/ve/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/ve/streamingInternetRadios.xml"
       },
@@ -4192,23 +4218,23 @@
       "id": "zm",
       "name": "Zambia",
       "flag": "🇿🇲",
-      "stations": 81,
-      "stations_available": 81,
+      "stations": 80,
+      "stations_available": 80,
       "path": "countries/zm.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/countries/zm.m3u",
       "page_72fm": "https://72fm.com/radio/zm",
       "ets2": {
-        "stations": 62,
+        "stations": 61,
         "path": "ets2/zm/live_streams.sii",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/ets2/zm/live_streams.sii"
       },
       "farming_simulator": {
-        "stations": 74,
+        "stations": 73,
         "path": "farming-simulator/zm/streamingInternetRadios.xml",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/farming-simulator/zm/streamingInternetRadios.xml"
       },
       "garrys_mod": {
-        "stations": 75,
+        "stations": 74,
         "path": "garrys-mod/zm-radio_pls.txt",
         "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/garrys-mod/zm-radio_pls.txt"
       }
@@ -4244,17 +4270,27 @@
       "id": "2000s",
       "name": "2000s",
       "stations": 300,
-      "stations_available": 343,
+      "stations_available": 347,
       "path": "genres/2000s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/2000s.m3u",
       "page_72fm": null
     },
     {
       "type": "genre",
+      "id": "50s",
+      "name": "50s",
+      "stations": 119,
+      "stations_available": 119,
+      "path": "genres/50s.m3u",
+      "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/50s.m3u",
+      "page_72fm": "https://72fm.com/genre/50s"
+    },
+    {
+      "type": "genre",
       "id": "60s",
       "name": "60s",
-      "stations": 286,
-      "stations_available": 286,
+      "stations": 290,
+      "stations_available": 290,
       "path": "genres/60s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/60s.m3u",
       "page_72fm": "https://72fm.com/genre/60s"
@@ -4264,7 +4300,7 @@
       "id": "70s",
       "name": "70s",
       "stations": 300,
-      "stations_available": 572,
+      "stations_available": 580,
       "path": "genres/70s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/70s.m3u",
       "page_72fm": "https://72fm.com/genre/70s"
@@ -4274,7 +4310,7 @@
       "id": "80s",
       "name": "80s",
       "stations": 300,
-      "stations_available": 1176,
+      "stations_available": 1182,
       "path": "genres/80s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/80s.m3u",
       "page_72fm": "https://72fm.com/genre/80s"
@@ -4284,7 +4320,7 @@
       "id": "90s",
       "name": "90s",
       "stations": 300,
-      "stations_available": 907,
+      "stations_available": 914,
       "path": "genres/90s.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/90s.m3u",
       "page_72fm": "https://72fm.com/genre/90s"
@@ -4294,7 +4330,7 @@
       "id": "adult-contemporary",
       "name": "Adult Contemporary",
       "stations": 300,
-      "stations_available": 847,
+      "stations_available": 851,
       "path": "genres/adult-contemporary.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/adult-contemporary.m3u",
       "page_72fm": null
@@ -4304,7 +4340,7 @@
       "id": "alternative",
       "name": "Alternative",
       "stations": 300,
-      "stations_available": 765,
+      "stations_available": 768,
       "path": "genres/alternative.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/alternative.m3u",
       "page_72fm": "https://72fm.com/genre/alternative"
@@ -4314,7 +4350,7 @@
       "id": "ambient",
       "name": "Ambient",
       "stations": 300,
-      "stations_available": 334,
+      "stations_available": 346,
       "path": "genres/ambient.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/ambient.m3u",
       "page_72fm": "https://72fm.com/genre/ambient"
@@ -4323,8 +4359,8 @@
       "type": "genre",
       "id": "blues",
       "name": "Blues",
-      "stations": 283,
-      "stations_available": 283,
+      "stations": 286,
+      "stations_available": 286,
       "path": "genres/blues.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/blues.m3u",
       "page_72fm": "https://72fm.com/genre/blues"
@@ -4334,7 +4370,7 @@
       "id": "chill",
       "name": "Chill & Relax",
       "stations": 300,
-      "stations_available": 364,
+      "stations_available": 371,
       "path": "genres/chill.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/chill.m3u",
       "page_72fm": "https://72fm.com/genre/chill"
@@ -4344,7 +4380,7 @@
       "id": "chillout",
       "name": "Chillout",
       "stations": 300,
-      "stations_available": 378,
+      "stations_available": 388,
       "path": "genres/chillout.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/chillout.m3u",
       "page_72fm": "https://72fm.com/genre/chillout"
@@ -4354,7 +4390,7 @@
       "id": "christian",
       "name": "Christian",
       "stations": 300,
-      "stations_available": 963,
+      "stations_available": 1063,
       "path": "genres/christian.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/christian.m3u",
       "page_72fm": "https://72fm.com/genre/christian"
@@ -4363,8 +4399,8 @@
       "type": "genre",
       "id": "christmas",
       "name": "Christmas",
-      "stations": 260,
-      "stations_available": 260,
+      "stations": 268,
+      "stations_available": 268,
       "path": "genres/christmas.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/christmas.m3u",
       "page_72fm": null
@@ -4374,7 +4410,7 @@
       "id": "classic-hits",
       "name": "Classic Hits",
       "stations": 300,
-      "stations_available": 647,
+      "stations_available": 660,
       "path": "genres/classic-hits.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/classic-hits.m3u",
       "page_72fm": null
@@ -4384,7 +4420,7 @@
       "id": "classic-rock",
       "name": "Classic Rock",
       "stations": 300,
-      "stations_available": 720,
+      "stations_available": 728,
       "path": "genres/classic-rock.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/classic-rock.m3u",
       "page_72fm": "https://72fm.com/genre/classic-rock"
@@ -4394,7 +4430,7 @@
       "id": "classical",
       "name": "Classical",
       "stations": 300,
-      "stations_available": 1202,
+      "stations_available": 1213,
       "path": "genres/classical.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/classical.m3u",
       "page_72fm": "https://72fm.com/genre/classical"
@@ -4404,7 +4440,7 @@
       "id": "country",
       "name": "Country",
       "stations": 300,
-      "stations_available": 662,
+      "stations_available": 671,
       "path": "genres/country.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/country.m3u",
       "page_72fm": "https://72fm.com/genre/country"
@@ -4413,8 +4449,8 @@
       "type": "genre",
       "id": "cumbia",
       "name": "Cumbia",
-      "stations": 145,
-      "stations_available": 145,
+      "stations": 148,
+      "stations_available": 148,
       "path": "genres/cumbia.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/cumbia.m3u",
       "page_72fm": "https://72fm.com/genre/cumbia"
@@ -4424,7 +4460,7 @@
       "id": "dance",
       "name": "Dance",
       "stations": 300,
-      "stations_available": 1391,
+      "stations_available": 1403,
       "path": "genres/dance.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/dance.m3u",
       "page_72fm": "https://72fm.com/genre/dance"
@@ -4433,8 +4469,8 @@
       "type": "genre",
       "id": "deep-house",
       "name": "Deep House",
-      "stations": 179,
-      "stations_available": 179,
+      "stations": 186,
+      "stations_available": 186,
       "path": "genres/deep-house.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/deep-house.m3u",
       "page_72fm": "https://72fm.com/genre/deep-house"
@@ -4443,8 +4479,8 @@
       "type": "genre",
       "id": "disco",
       "name": "Disco",
-      "stations": 284,
-      "stations_available": 284,
+      "stations": 287,
+      "stations_available": 287,
       "path": "genres/disco.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/disco.m3u",
       "page_72fm": "https://72fm.com/genre/disco"
@@ -4453,8 +4489,8 @@
       "type": "genre",
       "id": "drum-and-bass",
       "name": "Drum and Bass",
-      "stations": 128,
-      "stations_available": 128,
+      "stations": 129,
+      "stations_available": 129,
       "path": "genres/drum-and-bass.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/drum-and-bass.m3u",
       "page_72fm": "https://72fm.com/genre/drum-and-bass"
@@ -4464,7 +4500,7 @@
       "id": "easy-listening",
       "name": "Easy Listening",
       "stations": 300,
-      "stations_available": 320,
+      "stations_available": 324,
       "path": "genres/easy-listening.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/easy-listening.m3u",
       "page_72fm": "https://72fm.com/genre/easy-listening"
@@ -4473,8 +4509,8 @@
       "type": "genre",
       "id": "edm",
       "name": "EDM",
-      "stations": 204,
-      "stations_available": 204,
+      "stations": 210,
+      "stations_available": 210,
       "path": "genres/edm.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/edm.m3u",
       "page_72fm": "https://72fm.com/genre/edm"
@@ -4484,7 +4520,7 @@
       "id": "electronic",
       "name": "Electronic",
       "stations": 300,
-      "stations_available": 1106,
+      "stations_available": 1127,
       "path": "genres/electronic.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/electronic.m3u",
       "page_72fm": "https://72fm.com/genre/electronic"
@@ -4494,7 +4530,7 @@
       "id": "folk",
       "name": "Folk",
       "stations": 300,
-      "stations_available": 636,
+      "stations_available": 646,
       "path": "genres/folk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/folk.m3u",
       "page_72fm": "https://72fm.com/genre/folk"
@@ -4503,8 +4539,8 @@
       "type": "genre",
       "id": "funk",
       "name": "Funk",
-      "stations": 275,
-      "stations_available": 275,
+      "stations": 274,
+      "stations_available": 274,
       "path": "genres/funk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/funk.m3u",
       "page_72fm": "https://72fm.com/genre/funk"
@@ -4514,7 +4550,7 @@
       "id": "gospel",
       "name": "Gospel",
       "stations": 300,
-      "stations_available": 373,
+      "stations_available": 469,
       "path": "genres/gospel.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/gospel.m3u",
       "page_72fm": "https://72fm.com/genre/gospel"
@@ -4523,8 +4559,8 @@
       "type": "genre",
       "id": "hard-rock",
       "name": "Hard Rock",
-      "stations": 190,
-      "stations_available": 190,
+      "stations": 193,
+      "stations_available": 193,
       "path": "genres/hard-rock.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/hard-rock.m3u",
       "page_72fm": "https://72fm.com/genre/hard-rock"
@@ -4534,7 +4570,7 @@
       "id": "hip-hop",
       "name": "Hip-Hop & Rap",
       "stations": 300,
-      "stations_available": 699,
+      "stations_available": 711,
       "path": "genres/hip-hop.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/hip-hop.m3u",
       "page_72fm": "https://72fm.com/genre/hip-hop"
@@ -4544,7 +4580,7 @@
       "id": "house",
       "name": "House",
       "stations": 300,
-      "stations_available": 631,
+      "stations_available": 644,
       "path": "genres/house.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/house.m3u",
       "page_72fm": "https://72fm.com/genre/house"
@@ -4554,7 +4590,7 @@
       "id": "indie",
       "name": "Indie",
       "stations": 300,
-      "stations_available": 460,
+      "stations_available": 467,
       "path": "genres/indie.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/indie.m3u",
       "page_72fm": "https://72fm.com/genre/indie"
@@ -4563,8 +4599,8 @@
       "type": "genre",
       "id": "instrumental",
       "name": "Instrumental",
-      "stations": 167,
-      "stations_available": 167,
+      "stations": 173,
+      "stations_available": 173,
       "path": "genres/instrumental.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/instrumental.m3u",
       "page_72fm": "https://72fm.com/genre/instrumental"
@@ -4574,7 +4610,7 @@
       "id": "jazz",
       "name": "Jazz",
       "stations": 300,
-      "stations_available": 1019,
+      "stations_available": 1032,
       "path": "genres/jazz.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/jazz.m3u",
       "page_72fm": "https://72fm.com/genre/jazz"
@@ -4583,8 +4619,8 @@
       "type": "genre",
       "id": "kids",
       "name": "Kids",
-      "stations": 147,
-      "stations_available": 147,
+      "stations": 148,
+      "stations_available": 148,
       "path": "genres/kids.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/kids.m3u",
       "page_72fm": "https://72fm.com/genre/kids"
@@ -4594,7 +4630,7 @@
       "id": "latin",
       "name": "Latin",
       "stations": 300,
-      "stations_available": 444,
+      "stations_available": 449,
       "path": "genres/latin.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/latin.m3u",
       "page_72fm": "https://72fm.com/genre/latin"
@@ -4603,8 +4639,8 @@
       "type": "genre",
       "id": "lounge",
       "name": "Lounge",
-      "stations": 282,
-      "stations_available": 282,
+      "stations": 285,
+      "stations_available": 285,
       "path": "genres/lounge.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/lounge.m3u",
       "page_72fm": "https://72fm.com/genre/lounge"
@@ -4614,7 +4650,7 @@
       "id": "metal",
       "name": "Metal",
       "stations": 300,
-      "stations_available": 451,
+      "stations_available": 454,
       "path": "genres/metal.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/metal.m3u",
       "page_72fm": "https://72fm.com/genre/metal"
@@ -4624,7 +4660,7 @@
       "id": "news",
       "name": "News",
       "stations": 300,
-      "stations_available": 3405,
+      "stations_available": 3443,
       "path": "genres/news.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/news.m3u",
       "page_72fm": "https://72fm.com/genre/news"
@@ -4634,7 +4670,7 @@
       "id": "oldies",
       "name": "Oldies",
       "stations": 300,
-      "stations_available": 1104,
+      "stations_available": 1123,
       "path": "genres/oldies.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/oldies.m3u",
       "page_72fm": "https://72fm.com/genre/oldies"
@@ -4644,7 +4680,7 @@
       "id": "pop",
       "name": "Pop",
       "stations": 300,
-      "stations_available": 5044,
+      "stations_available": 5098,
       "path": "genres/pop.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/pop.m3u",
       "page_72fm": "https://72fm.com/genre/pop"
@@ -4653,8 +4689,8 @@
       "type": "genre",
       "id": "punk",
       "name": "Punk",
-      "stations": 176,
-      "stations_available": 176,
+      "stations": 178,
+      "stations_available": 178,
       "path": "genres/punk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/punk.m3u",
       "page_72fm": "https://72fm.com/genre/punk"
@@ -4664,7 +4700,7 @@
       "id": "r-and-b",
       "name": "R&B",
       "stations": 300,
-      "stations_available": 374,
+      "stations_available": 386,
       "path": "genres/r-and-b.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/r-and-b.m3u",
       "page_72fm": "https://72fm.com/genre/r-and-b"
@@ -4673,8 +4709,8 @@
       "type": "genre",
       "id": "reggae",
       "name": "Reggae",
-      "stations": 231,
-      "stations_available": 231,
+      "stations": 237,
+      "stations_available": 237,
       "path": "genres/reggae.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/reggae.m3u",
       "page_72fm": "https://72fm.com/genre/reggae"
@@ -4683,8 +4719,8 @@
       "type": "genre",
       "id": "reggaeton",
       "name": "Reggaeton",
-      "stations": 162,
-      "stations_available": 162,
+      "stations": 167,
+      "stations_available": 167,
       "path": "genres/reggaeton.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/reggaeton.m3u",
       "page_72fm": "https://72fm.com/genre/reggaeton"
@@ -4693,8 +4729,8 @@
       "type": "genre",
       "id": "regional-mexican",
       "name": "Regional Mexican",
-      "stations": 134,
-      "stations_available": 134,
+      "stations": 138,
+      "stations_available": 138,
       "path": "genres/regional-mexican.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/regional-mexican.m3u",
       "page_72fm": "https://72fm.com/genre/regional-mexican"
@@ -4704,7 +4740,7 @@
       "id": "religious",
       "name": "Religious",
       "stations": 300,
-      "stations_available": 812,
+      "stations_available": 909,
       "path": "genres/religious.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/religious.m3u",
       "page_72fm": null
@@ -4714,7 +4750,7 @@
       "id": "rock",
       "name": "Rock",
       "stations": 300,
-      "stations_available": 2502,
+      "stations_available": 2521,
       "path": "genres/rock.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/rock.m3u",
       "page_72fm": "https://72fm.com/genre/rock"
@@ -4723,8 +4759,8 @@
       "type": "genre",
       "id": "salsa",
       "name": "Salsa",
-      "stations": 236,
-      "stations_available": 236,
+      "stations": 238,
+      "stations_available": 238,
       "path": "genres/salsa.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/salsa.m3u",
       "page_72fm": "https://72fm.com/genre/salsa"
@@ -4733,8 +4769,8 @@
       "type": "genre",
       "id": "schlager",
       "name": "Schlager",
-      "stations": 212,
-      "stations_available": 212,
+      "stations": 208,
+      "stations_available": 208,
       "path": "genres/schlager.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/schlager.m3u",
       "page_72fm": "https://72fm.com/genre/schlager"
@@ -4743,28 +4779,18 @@
       "type": "genre",
       "id": "smooth-jazz",
       "name": "Smooth Jazz",
-      "stations": 224,
-      "stations_available": 224,
+      "stations": 229,
+      "stations_available": 229,
       "path": "genres/smooth-jazz.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/smooth-jazz.m3u",
       "page_72fm": "https://72fm.com/genre/smooth-jazz"
     },
     {
       "type": "genre",
-      "id": "soft-rock",
-      "name": "Soft Rock",
-      "stations": 118,
-      "stations_available": 118,
-      "path": "genres/soft-rock.m3u",
-      "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/soft-rock.m3u",
-      "page_72fm": null
-    },
-    {
-      "type": "genre",
       "id": "soul",
       "name": "Soul",
       "stations": 300,
-      "stations_available": 396,
+      "stations_available": 402,
       "path": "genres/soul.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/soul.m3u",
       "page_72fm": "https://72fm.com/genre/soul"
@@ -4774,7 +4800,7 @@
       "id": "sports",
       "name": "Sports",
       "stations": 300,
-      "stations_available": 527,
+      "stations_available": 526,
       "path": "genres/sports.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/sports.m3u",
       "page_72fm": null
@@ -4784,7 +4810,7 @@
       "id": "talk",
       "name": "Talk",
       "stations": 300,
-      "stations_available": 1931,
+      "stations_available": 1944,
       "path": "genres/talk.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/talk.m3u",
       "page_72fm": "https://72fm.com/genre/talk"
@@ -4794,7 +4820,7 @@
       "id": "techno",
       "name": "Techno",
       "stations": 300,
-      "stations_available": 317,
+      "stations_available": 327,
       "path": "genres/techno.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/techno.m3u",
       "page_72fm": "https://72fm.com/genre/techno"
@@ -4804,7 +4830,7 @@
       "id": "top-40",
       "name": "Top 40 & Hits",
       "stations": 300,
-      "stations_available": 2085,
+      "stations_available": 2118,
       "path": "genres/top-40.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/top-40.m3u",
       "page_72fm": null
@@ -4813,8 +4839,8 @@
       "type": "genre",
       "id": "trance",
       "name": "Trance",
-      "stations": 232,
-      "stations_available": 232,
+      "stations": 235,
+      "stations_available": 235,
       "path": "genres/trance.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/trance.m3u",
       "page_72fm": "https://72fm.com/genre/trance"
@@ -4823,8 +4849,8 @@
       "type": "genre",
       "id": "tropical",
       "name": "Tropical",
-      "stations": 175,
-      "stations_available": 175,
+      "stations": 185,
+      "stations_available": 185,
       "path": "genres/tropical.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/tropical.m3u",
       "page_72fm": null
@@ -4833,8 +4859,8 @@
       "type": "genre",
       "id": "world",
       "name": "World Music",
-      "stations": 274,
-      "stations_available": 274,
+      "stations": 279,
+      "stations_available": 279,
       "path": "genres/world.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/genres/world.m3u",
       "page_72fm": "https://72fm.com/genre/world"
@@ -4844,7 +4870,7 @@
       "id": "top-500",
       "name": "Top 500 by votes",
       "stations": 500,
-      "stations_available": 52272,
+      "stations_available": 52677,
       "path": "top/top-500.m3u",
       "url": "https://raw.githubusercontent.com/AlonDrilich/radio-playlists/main/top/top-500.m3u",
       "page_72fm": "https://72fm.com"

@@ -28,12 +28,12 @@ http://68.235.35.243:9008/stream
 # 72FM: https://72fm.com/station/8c15014f-d052-4837-8e21-07dc9d27a9e8?source=m3u
 #EXTINF:-1 group-title="Costa Rica" radio="true",Radio Mil Recuerdos Stereo
 https://sechin.grupocentroserver.com/radio/8060/radio.mp3
-# 72FM: https://72fm.com/station/d9792185-25aa-11e9-a80b-52543be04c81?source=m3u
-#EXTINF:-1 group-title="Costa Rica" radio="true",Radio Omega 105.1 FM
-http://rtvhd.net:9932/stream
 # 72FM: https://72fm.com/station/f91f863e-6518-4da9-8f27-4571f8a5f877?source=m3u
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/943/63d062c743beb.png" group-title="Costa Rica" radio="true",103 (FM 103.1)
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac
+# 72FM: https://72fm.com/station/d9792185-25aa-11e9-a80b-52543be04c81?source=m3u
+#EXTINF:-1 group-title="Costa Rica" radio="true",Radio Omega 105.1 FM
+http://rtvhd.net:9932/stream
 # 72FM: https://72fm.com/station/b774859a-ba7a-42ac-b0cb-0cea6e53ce26?source=m3u
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/943/63d062c6d0e2c.png" group-title="Costa Rica" radio="true",Azul 99.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac
@@ -105,7 +105,7 @@ https://host.rowrigo.com/listen/radiocasino/radiocasino
 https://a1.asurahosting.com:8720/radio.mp3/;
 # 72FM: https://72fm.com/station/69a7d76f-fbc3-486e-9553-68edb8857cee?source=m3u
 #EXTINF:-1 group-title="Costa Rica" radio="true",MCC Radio
-https://stream-178.surfernetwork.com/ufd5gasyvn0tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZmQ1Z2FzeXZuMHR2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InFNSVkyZDhvVEFLYTRFaGUyd3dQcEEiLCJpYXQiOjE3OTQ0NjAzNDIsImV4cCI6MTc5NDQ2MDQwMn0.6ARDi8Id3Bl-jXdmhJjAs5naKHCj-oef9Sqm1iP1JQw
+https://stream-178.surfernetwork.com/ufd5gasyvn0tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZmQ1Z2FzeXZuMHR2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImRfRmt6N05oU01xdkxXblpYNldOcmciLCJpYXQiOjE3OTUzMjQ2MjksImV4cCI6MTc5NTMyNDY4OX0.CEOME13opfJhFYTLRpe_5fHNJR3O265k_EGkP7cLy30
 # 72FM: https://72fm.com/station/fb523cfe-4ce5-4cab-9570-f2c784c84317?source=m3u
 #EXTINF:-1 tvg-logo="https://avanceradio.com/images/logo.svg" group-title="Costa Rica" radio="true",Avance Radio
 https://radios.solumedia.com:6512/;
@@ -118,12 +118,12 @@ https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/stream/1/
 # 72FM: https://72fm.com/station/c4ee5a17-df43-458d-8ac6-82a730da1ac4?source=m3u
 #EXTINF:-1 group-title="Costa Rica" radio="true",Radio Hit
 https://live.turadio.stream:7004/stream?type=http&nocache=596
-# 72FM: https://72fm.com/station/94a2cb67-5f89-4390-80e7-e66f4406d0c2?source=m3u
-#EXTINF:-1 group-title="Costa Rica" radio="true",Conexiones del Ayer
-https://stream.conexionpositivaradio.com/listen/conexiones_del_ayer/radio.mp3
 # 72FM: https://72fm.com/station/84b5deb2-27f7-4886-a651-b5bbde6e7e30?source=m3u
 #EXTINF:-1 group-title="Costa Rica" radio="true",Radio Nosara
 https://sonicpanel.zonaradio.net/8038/stream
+# 72FM: https://72fm.com/station/94a2cb67-5f89-4390-80e7-e66f4406d0c2?source=m3u
+#EXTINF:-1 group-title="Costa Rica" radio="true",Conexiones del Ayer
+https://stream.conexionpositivaradio.com/listen/conexiones_del_ayer/radio.mp3
 # 72FM: https://72fm.com/station/41b94c5c-71fc-497a-8972-c8e8585153aa?source=m3u
 #EXTINF:-1 tvg-logo="https://nexotuner.net/wp-content/uploads/2026/05/NUEVOLOGORADIOINFUENCIA.jpg" group-title="Costa Rica" radio="true",Influencia Positiva Radio
 https://panel.gruponovaradial.com/listen/influencia_positiva_radio/radio.mp3
@@ -133,30 +133,36 @@ https://c34.radioboss.fm:9056/stream
 # 72FM: https://72fm.com/station/1bffb3da-6f8f-455e-8c53-c9df02309f67?source=m3u
 #EXTINF:-1 group-title="Costa Rica" radio="true",Conexión Positiva Radio
 https://stream.conexionpositivaradio.com/listen/conexion_positiva/radio.mp3
-# 72FM: https://72fm.com/station/aa7788b5-6ce3-4ff0-89cd-e66e63e83cc6?source=m3u
-#EXTINF:-1 group-title="Costa Rica" radio="true",FRECUENCIA CCI
-https://streaming.radio.co/s6729aeaac/listen
 # 72FM: https://72fm.com/station/6bf0957e-724c-443a-be46-63df0480ecc4?source=m3u
 #EXTINF:-1 group-title="Costa Rica" radio="true",onda digital fm sancarlos
 https://radio.serviciosderadio.com/listen/onda_digital_fm_costa_rica/radio.aac
+# 72FM: https://72fm.com/station/aa7788b5-6ce3-4ff0-89cd-e66e63e83cc6?source=m3u
+#EXTINF:-1 group-title="Costa Rica" radio="true",FRECUENCIA CCI
+https://streaming.radio.co/s6729aeaac/listen
 # 72FM: https://72fm.com/station/3495e01e-2517-4446-a17a-1680aa6cc531?source=m3u
 #EXTINF:-1 group-title="Costa Rica" radio="true",Osa Radio Online
 https://radioscr.digitaltvcr.xyz/listen/osaonline/osaradio
 # 72FM: https://72fm.com/station/7cbecdf7-b7da-4e45-95e9-dad88ab08d90?source=m3u
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/756/radio-diria.87fda3c0.png" group-title="Costa Rica" radio="true",Radio Diriá
 https://stream.zeno.fm/xk0xpwtc4ttvv.mp3
+# 72FM: https://72fm.com/station/cf937383-5585-42fe-896f-6f317b97a7d5?source=m3u
+#EXTINF:-1 group-title="Costa Rica" radio="true",Radio Columbia 98.7 FM
+https://s2.radio.co/s83b86382e/listen
+# 72FM: https://72fm.com/station/e5fcff8f-4058-4a7f-ba64-c760dfefe9f6?source=m3u
+#EXTINF:-1 group-title="Costa Rica" radio="true",Radio Universidad 96.7 FM
+https://r90.letio.com/io/?gs=8120&gsm=8120&type=live.m3u8
 # 72FM: https://72fm.com/station/74039849-26f7-43f8-aa55-90827e0ae4bb?source=m3u
 #EXTINF:-1 group-title="Costa Rica" radio="true",TV Radio Gracia y Verdad
 https://radio.grscr.com/listen/radio_gracia_y_verdad/radio.mp3
-# 72FM: https://72fm.com/station/74cf9cc6-5ca9-4d5c-9a40-66334886b696?source=m3u
-#EXTINF:-1 group-title="Costa Rica" radio="true",Radio Guachi
-https://stream.zeno.fm/jaovug37fhztv
+# 72FM: https://72fm.com/station/5cead9e1-ffe5-4a29-9378-cc28fb90e390?source=m3u
+#EXTINF:-1 tvg-logo="https://www.monumental.co.cr/wp-content/themes/ned-radio/assets/images/icons/apple-touch-icon.png" group-title="Costa Rica" radio="true",Radio Monumental 93.5 FM
+https://ddycmnicl95kp.cloudfront.net/live/zbzsy31mnb4q/master.m3u8
 # 72FM: https://72fm.com/station/6a802097-b54f-49c7-9eaf-a6c3896041a4?source=m3u
 #EXTINF:-1 group-title="Costa Rica" radio="true",Estereo Visión 98.3 FM
 https://live.turadio.stream:7009/
 # 72FM: https://72fm.com/station/cd442ddf-1205-4383-9909-9dc1b1b6877f?source=m3u
 #EXTINF:-1 tvg-logo="https://radiofides.co.cr/wp-content/uploads/2026/08/cropped-icono-web-fides-192x192.png" group-title="Costa Rica" radio="true",Radio Fides 93.1
 https://stream20.usastreams.com/8004/;
-# 72FM: https://72fm.com/station/e5fcff8f-4058-4a7f-ba64-c760dfefe9f6?source=m3u
-#EXTINF:-1 group-title="Costa Rica" radio="true",Radio Universidad 96.7 FM
-https://r90.letio.com/io/?gs=8120&gsm=8120&type=live.m3u8
+# 72FM: https://72fm.com/station/74cf9cc6-5ca9-4d5c-9a40-66334886b696?source=m3u
+#EXTINF:-1 group-title="Costa Rica" radio="true",Radio Guachi
+https://stream.zeno.fm/jaovug37fhztv

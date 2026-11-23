@@ -97,12 +97,12 @@ https://stream.zeno.fm/fy8achbq97zuv
 # 72FM: https://72fm.com/station/5a23e61f-3313-469d-9346-b07b63ca5b2b?source=m3u
 #EXTINF:-1 tvg-logo="https://www.hitradio.ma/logo/small-logo-hitradio.webp" group-title="Morocco" radio="true",HIT RADIO
 https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
-# 72FM: https://72fm.com/station/7401ca62-221f-42eb-9115-5aed9e71dddd?source=m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="Morocco" radio="true",Medi1 Hits
-https://cdn.live.easybroadcast.io/medi1radio/Hits
 # 72FM: https://72fm.com/station/d7b6ccd6-8214-4477-9b46-30389d062b3d?source=m3u
 #EXTINF:-1 group-title="Morocco" radio="true",Medi1 Radio
 https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8
+# 72FM: https://72fm.com/station/7401ca62-221f-42eb-9115-5aed9e71dddd?source=m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" group-title="Morocco" radio="true",Medi1 Hits
+https://cdn.live.easybroadcast.io/medi1radio/Hits
 # 72FM: https://72fm.com/station/3537590f-8d22-40b9-82d8-cd7dd1a5de44?source=m3u
 #EXTINF:-1 tvg-logo="https://radiolive.ma/logos/radio-star-maroc-fm.png" group-title="Morocco" radio="true",Radio Star Maroc FM
 https://a2.asurahosting.com:6100/radio.mp3
@@ -112,18 +112,18 @@ https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
 # 72FM: https://72fm.com/station/9e88f54e-7a06-4225-a01e-9644a48d8499?source=m3u
 #EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/f0b5829f-c5ed-4acc-a775-d921ecd2edc7-w320.webp" group-title="Morocco" radio="true",Medina FM Tarab (128 kbps)
 https://medinatarab.ice.infomaniak.ch/medinatarab-128.mp3
-# 72FM: https://72fm.com/station/e68ac2a4-9abc-4eea-a390-b0426864e503?source=m3u
-#EXTINF:-1 tvg-logo="https://radiolive.ma/icons/ZINE%20BLADI.png" group-title="Morocco" radio="true",ZINE BLADI
-https://asmaki.ma:8000/radio.mp3
 # 72FM: https://72fm.com/station/5c9aa341-31f9-4c76-a5b8-aea612006ff9?source=m3u
 #EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/11ee4925-5901-4d5f-81f3-23db7b0a3fa6-w320.webp" group-title="Morocco" radio="true",Medina FM Amazigh (128 kbps)
 https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3
-# 72FM: https://72fm.com/station/ee24e505-e4e1-4a52-b036-544358008808?source=m3u
-#EXTINF:-1 tvg-logo="https://radiolive.ma/icons/CAP%20RADIO.png" group-title="Morocco" radio="true",CAP RADIO
-https://listen.radioking.com/radio/710810/stream/776366
+# 72FM: https://72fm.com/station/e68ac2a4-9abc-4eea-a390-b0426864e503?source=m3u
+#EXTINF:-1 tvg-logo="https://radiolive.ma/icons/ZINE%20BLADI.png" group-title="Morocco" radio="true",ZINE BLADI
+https://asmaki.ma:8000/radio.mp3
 # 72FM: https://72fm.com/station/0bb1d938-2f1e-4ff5-8c43-2fa25ae65f68?source=m3u
 #EXTINF:-1 tvg-logo="https://radiolive.ma/logos/u-radio.png" group-title="Morocco" radio="true",U RADIO
 https://uradio-aac.ice.infomaniak.ch/uradio.aac
+# 72FM: https://72fm.com/station/ee24e505-e4e1-4a52-b036-544358008808?source=m3u
+#EXTINF:-1 tvg-logo="https://radiolive.ma/icons/CAP%20RADIO.png" group-title="Morocco" radio="true",CAP RADIO
+https://listen.radioking.com/radio/710810/stream/776366
 # 72FM: https://72fm.com/station/a9d04fb3-fd0e-4dbd-877e-5dd2d5d6e618?source=m3u
 #EXTINF:-1 tvg-logo="https://radiolive.ma/logos/radio-sawt-alamal.png" group-title="Morocco" radio="true",Radio Sawt Alamal
 https://stream.zeno.fm/qgw73bqh5qruv
@@ -133,42 +133,45 @@ https://cast5.my-control-panel.com/proxy/marrakec/stream
 # 72FM: https://72fm.com/station/13f7e33d-2b28-4c73-9634-e49ee2c0ae99?source=m3u
 #EXTINF:-1 tvg-logo="https://radioazawan.ma/redio/azawan.svg" group-title="Morocco" radio="true",Radio Azawan
 https://az-maroc.ice.infomaniak.ch/az-maroc-64.aac
-# 72FM: https://72fm.com/station/f622d310-df86-4ffb-850e-4941e364c22b?source=m3u
-#EXTINF:-1 tvg-logo="https://chada.ma/wp-content/uploads/2022/09/cropped-LOGO-CHADA-NEW-1.png" group-title="Morocco" radio="true",Chada FM
-https://stream.bodkas.com/playlist?id=chadafmradio
 # 72FM: https://72fm.com/station/9f26b055-db67-447a-81e6-ddb5c8c40dc3?source=m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMreguvYInAS9F80xUJvDuOjjQeeiH46CmBlYl8629A&s" group-title="Morocco" radio="true",Radio Adwaa FM 6
 https://stream.zeno.fm/tvxvud2kpm0uv
+# 72FM: https://72fm.com/station/f622d310-df86-4ffb-850e-4941e364c22b?source=m3u
+#EXTINF:-1 tvg-logo="https://chada.ma/wp-content/uploads/2022/09/cropped-LOGO-CHADA-NEW-1.png" group-title="Morocco" radio="true",Chada FM
+https://stream.bodkas.com/playlist?id=chadafmradio
 # 72FM: https://72fm.com/station/3194ab53-148e-482c-b392-6b33ad40d9b1?source=m3u
 #EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/fbd01c81-1f43-4f10-8682-19738ca43aec-w320.webp" group-title="Morocco" radio="true",Medina FM Andalou (128 kbps)
 https://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3
-# 72FM: https://72fm.com/station/bde2191e-4736-41b9-bbe7-816521af8662?source=m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yZXms7vyn-1JoEXa_XaHhyojkcilo9qPUC8bl55upA&s=10" group-title="Morocco" radio="true",Radio Azrou Live
-https://stream.zeno.fm/nzdw7gqc0s8uv
 # 72FM: https://72fm.com/station/7f8f3ce0-4780-4557-ba61-2df564ef3f75?source=m3u
 #EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/335c74c0-5b0a-4136-8945-cb7a6c4b4424-w320.webp" group-title="Morocco" radio="true",Medina FM Nostalgie (128 kbps)
 https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3
 # 72FM: https://72fm.com/station/1c1de83b-2d27-4ae2-920c-98a56df016b6?source=m3u
 #EXTINF:-1 group-title="Morocco" radio="true",aswatalweb
 http://78.129.252.13:24460/stream
+# 72FM: https://72fm.com/station/bde2191e-4736-41b9-bbe7-816521af8662?source=m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yZXms7vyn-1JoEXa_XaHhyojkcilo9qPUC8bl55upA&s=10" group-title="Morocco" radio="true",Radio Azrou Live
+https://stream.zeno.fm/nzdw7gqc0s8uv
 # 72FM: https://72fm.com/station/91ec0c03-f58c-4e42-a034-067a22f867d3?source=m3u
 #EXTINF:-1 tvg-logo="https://api.medinafm.ma/uploads/0a75b43e-0a49-418a-9ca5-b3bcc3428d27-w320.webp" group-title="Morocco" radio="true",Medina FM (128 kbps)
 https://medinafm.ice.infomaniak.ch/medinafm-128.mp3
 # 72FM: https://72fm.com/station/49545fc3-653c-4e36-b250-359024629b45?source=m3u
 #EXTINF:-1 tvg-logo="https://radioazawan.ma/redio/azawan.svg" group-title="Morocco" radio="true",Radio Azawan (192 kbps)
 https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3
-# 72FM: https://72fm.com/station/f9b87512-53c0-484f-a061-bbdfd45c378f?source=m3u
-#EXTINF:-1 group-title="Morocco" radio="true",Radio plus
-https://hosting.studioradiomedia.fr:3040/stream
-# 72FM: https://72fm.com/station/79ed8ddf-5e4d-4f4b-92e9-51dfbf899241?source=m3u
-#EXTINF:-1 tvg-logo="https://stream.vibe-stream.com/vibestream-logo.png" group-title="Morocco" radio="true",Kabana Rooftop Marrakech
-https://stream.vibe-stream.com/kabana-rooftop-marrakech.mp3
 # 72FM: https://72fm.com/station/2067f466-399f-440b-9b32-70d8832eb46b?source=m3u
 #EXTINF:-1 group-title="Morocco" radio="true",Medi1 Tarab
 https://cdn.live.easybroadcast.io/medi1radio/Tarab
+# 72FM: https://72fm.com/station/79ed8ddf-5e4d-4f4b-92e9-51dfbf899241?source=m3u
+#EXTINF:-1 tvg-logo="https://stream.vibe-stream.com/vibestream-logo.png" group-title="Morocco" radio="true",Kabana Rooftop Marrakech
+https://stream.vibe-stream.com/kabana-rooftop-marrakech.mp3
+# 72FM: https://72fm.com/station/f9b87512-53c0-484f-a061-bbdfd45c378f?source=m3u
+#EXTINF:-1 group-title="Morocco" radio="true",Radio plus
+https://hosting.studioradiomedia.fr:3040/stream
 # 72FM: https://72fm.com/station/787ca047-b18b-4430-b5cb-54628d77751e?source=m3u
 #EXTINF:-1 group-title="Morocco" radio="true",U Dance
 https://udance.ice.infomaniak.ch/udance-128.aac
 # 72FM: https://72fm.com/station/4797d484-176c-4c96-949b-243fb0b0dccd?source=m3u
 #EXTINF:-1 group-title="Morocco" radio="true",© XGlite™® XGlite Radio FM Web Station.
 http://109.169.15.21:10467/
+# 72FM: https://72fm.com/station/0867f945-ce8d-423f-b4b4-52030b28ad6e?source=m3u
+#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/330070/logo/b26ea79a-be52-4c20-b42e-45c4d87ae56a.png" group-title="Morocco" radio="true",R212 radio
+https://listen.radioking.com/radio/330070/stream/390475

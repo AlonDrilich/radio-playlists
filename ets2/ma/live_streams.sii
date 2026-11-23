@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 40
+ stream_data: 41
  stream_data[0]: "http://broadcast.ice.infomaniak.ch/aswat-high.mp3?.mp3|Radio Aswat|Various|ARA|128|0"
  stream_data[1]: "http://beldifm.hf.ma/radio/8000/radio.mp3|bldi|Classical|MA|64|0"
  stream_data[2]: "http://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3|Only rai|Various|MA|128|0"
@@ -35,13 +35,14 @@ live_stream_def : .live_streams {
  stream_data[30]: "https://cast5.my-control-panel.com/proxy/marrakec/stream|Marrakech Plus|Actualites|ARA|128|0"
  stream_data[31]: "https://stream.zeno.fm/tvxvud2kpm0uv|Radio Adwaa FM 6|Culture|ARA|128|0"
  stream_data[32]: "https://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3|Medina FM Andalou (128 kbps)|Al-ala|ARA|128|0"
- stream_data[33]: "https://stream.zeno.fm/nzdw7gqc0s8uv|Radio Azrou Live|Culture|ARA|128|0"
- stream_data[34]: "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3|Medina FM Nostalgie (128 kbps)|Morocco|ARA|128|0"
- stream_data[35]: "http://78.129.252.13:24460/stream|aswatalweb|Film talk|ARA|64|0"
+ stream_data[33]: "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3|Medina FM Nostalgie (128 kbps)|Morocco|ARA|128|0"
+ stream_data[34]: "http://78.129.252.13:24460/stream|aswatalweb|Film talk|ARA|64|0"
+ stream_data[35]: "https://stream.zeno.fm/nzdw7gqc0s8uv|Radio Azrou Live|Culture|ARA|128|0"
  stream_data[36]: "https://medinafm.ice.infomaniak.ch/medinafm-128.mp3|Medina FM (128 kbps)|Culture|ARA|128|0"
  stream_data[37]: "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3|Radio Azawan (192 kbps)|Culture|ARA|192|0"
- stream_data[38]: "https://stream.vibe-stream.com/kabana-rooftop-marrakech.mp3|Kabana Rooftop Marrakech|Arabic grooves|MA|128|0"
- stream_data[39]: "https://cdn.live.easybroadcast.io/medi1radio/Tarab|Medi1 Tarab|Arabic|ARA|128|0"
+ stream_data[38]: "https://cdn.live.easybroadcast.io/medi1radio/Tarab|Medi1 Tarab|Arabic|ARA|128|0"
+ stream_data[39]: "https://stream.vibe-stream.com/kabana-rooftop-marrakech.mp3|Kabana Rooftop Marrakech|Arabic grooves|MA|128|0"
+ stream_data[40]: "https://listen.radioking.com/radio/330070/stream/390475|R212 radio|Various|ARA|192|0"
 }
 
 }

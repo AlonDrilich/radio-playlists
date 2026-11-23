@@ -21,7 +21,7 @@
     <!-- Radio Dei Turku ja Eurajoki -->
     <streamingInternetRadio href="http://isojako.radiodei.fi:8000/turkueurajoki" />
     <!-- Sea fm -->
-    <streamingInternetRadio href="http://s3.myradiostream.com:4976/;" />
+    <streamingInternetRadio href="http://s3.myradiostream.com:4976/stream" />
     <!-- Radio Dei -->
     <streamingInternetRadio href="http://isojako.radiodei.fi:8000/yleisohjelma" />
     <!-- Rondo Classic Klasu -->
@@ -30,22 +30,24 @@
     <streamingInternetRadio href="http://isojako.radiodei.fi:8000/helsinki" />
     <!-- Roll FM -->
     <streamingInternetRadio href="http://stream.rollfm.fi/" />
-    <!-- Radio Keskisuomalainen -->
-    <streamingInternetRadio href="https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen" />
     <!-- Savon Aallot -->
     <streamingInternetRadio href="https://cast.savonaallot.fi/savonaallot" />
+    <!-- Radio Keskisuomalainen -->
+    <streamingInternetRadio href="https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen" />
     <!-- Radioverkko -->
     <streamingInternetRadio href="http://kuuntele.radioverkko.fi:8000/live" />
-    <!-- Kaaos Radio 24h Chill -->
-    <streamingInternetRadio href="http://stream.kaaosradio.fi:8000/chill" />
     <!-- Järviradio -->
     <streamingInternetRadio href="https://jarviradio.radiotaajuus.fi:9000/jr" />
+    <!-- Kaaos Radio 24h Chill -->
+    <streamingInternetRadio href="http://stream.kaaosradio.fi:8000/chill" />
     <!-- Radio Dei Kristiinankaupunki -->
     <streamingInternetRadio href="http://isojako.radiodei.fi:8000/kristiinankaupunki" />
     <!-- Radio Patmos -->
     <streamingInternetRadio href="https://s3.yesstreaming.net:7011/radio" />
     <!-- Radio Hear -->
     <streamingInternetRadio href="http://hear.fi:8000/hear.mp3" />
+    <!-- Sea FM Radio -->
+    <streamingInternetRadio href="http://s3.myradiostream.com:4976/;" />
     <!-- Radio Patmos -->
     <streamingInternetRadio href="http://s3.yesstreaming.net:7011/radio" />
     <!-- Radio Tuottaja1 -->
@@ -56,10 +58,10 @@
     <streamingInternetRadio href="http://isojako.radiodei.fi:8000/lapua" />
     <!-- Radio Dei Oulu -->
     <streamingInternetRadio href="http://isojako.radiodei.fi:8000/oulu" />
-    <!-- Radio 957 -->
-    <streamingInternetRadio href="https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_loggedin=false&amp;aw_0_1st.playerid=BMUK_tunein" />
     <!-- Radio City -->
     <streamingInternetRadio href="https://streaming.radioplay.fi/fi_radiocity_128.mp3" />
+    <!-- Radio 957 -->
+    <streamingInternetRadio href="https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_loggedin=false&amp;aw_0_1st.playerid=BMUK_tunein" />
     <!-- Radio Dei Rovaniemi -->
     <streamingInternetRadio href="http://isojako.radiodei.fi:8000/rovaniemi" />
     <!-- Radio Pori -->
@@ -82,8 +84,6 @@
     <streamingInternetRadio href="https://hypr.website/hypr.mp3" />
     <!-- DOUBLECLAP RADIO -->
     <streamingInternetRadio href="https://s3.radio.co/scfd7273b2/low" />
-    <!-- SuomiRap -->
-    <streamingInternetRadio href="https://streaming.radioplay.fi/fi_suomirap_128.mp3" />
     <!-- REPLAY NEWS - Suomi -->
     <streamingInternetRadio href="https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3" />
     <!-- NinjaBox 24/7 -->
@@ -94,40 +94,40 @@
     <streamingInternetRadio href="https://wr2.downtime.fi/kaakko.mp3" />
     <!-- FugeFM -->
     <streamingInternetRadio href="https://streaming.broadcast.radio/fugefm" />
-    <!-- Radio Ramona -->
-    <streamingInternetRadio href="https://stream.protonbroadcast.com:8443/ramona.mp3" />
     <!-- FinnRadio -->
     <streamingInternetRadio href="https://servidor39-5.brlogic.com:7076/live" />
+    <!-- Radio Classic -->
+    <streamingInternetRadio href="https://streaming.radioplay.fi/fi_classic_128.mp3" />
+    <!-- Radio Ramona -->
+    <streamingInternetRadio href="https://stream.protonbroadcast.com:8443/ramona.mp3" />
     <!-- Kerhoradio -->
     <streamingInternetRadio href="https://c40.radioboss.fm:8056/stream" />
-    <!-- Radio Vaasa -->
-    <streamingInternetRadio href="https://stream.protonbroadcast.com:8443/radiovaasa.mp3" />
     <!-- Kesäseuraradio -->
     <streamingInternetRadio href="https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b" />
+    <!-- Radio Vaasa -->
+    <streamingInternetRadio href="https://stream.protonbroadcast.com:8443/radiovaasa.mp3" />
     <!-- RollFM -->
     <streamingInternetRadio href="https://rollfm.online/" />
     <!-- Radio Moreeni -->
     <streamingInternetRadio href="https://moreenistream.tuni.fi/moreeni.mp3" />
-    <!-- Radio Musa -->
-    <streamingInternetRadio href="http://n09.radiojar.com/n6yg5q0z8vzuv.m4a" />
     <!-- Radio Boofi -->
     <streamingInternetRadio href="https://radio.iranian.fi/listen/vip/radio.mp3" />
+    <!-- Radio W&M -->
+    <streamingInternetRadio href="https://stream.zeno.fm/qgeotx9vzpluv" />
     <!-- Radio Mega -->
     <streamingInternetRadio href="https://streaming.radioplay.fi/fi_radiomega_128.mp3" />
     <!-- Radio Auran Aallot -->
     <streamingInternetRadio href="https://streaming.radioplay.fi/fi_auranaallot_128.mp3" />
-    <!-- Radio Classic -->
-    <streamingInternetRadio href="https://streaming.radioplay.fi/fi_classic_128.mp3" />
-    <!-- Radio W&M -->
-    <streamingInternetRadio href="https://stream.zeno.fm/qgeotx9vzpluv" />
+    <!-- Radio Musa -->
+    <streamingInternetRadio href="http://n09.radiojar.com/n6yg5q0z8vzuv.m4a" />
     <!-- Järviradio Puhe -->
     <streamingInternetRadio href="https://jarviradio.radiotaajuus.fi:9000/jrpuhe" />
     <!-- Karjalainen Syke -->
     <streamingInternetRadio href="https://radio.diks.fi/karjalainensyke" />
-    <!-- HaulFM -->
-    <streamingInternetRadio href="https://stream.haul.fm/haulmpfm.mp3" />
     <!-- Tekoälyradio -->
     <streamingInternetRadio href="https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3" />
+    <!-- HaulFM -->
+    <streamingInternetRadio href="https://stream.haul.fm/haulmpfm.mp3" />
     <!-- Radio City Kiekkoradio -->
     <streamingInternetRadio href="https://wr2.downtime.fi/kiekko.mp3" />
     <!-- Fin Est FM -->

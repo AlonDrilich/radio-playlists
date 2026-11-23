@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 52
+ stream_data: 66
  stream_data[0]: "http://hydra.cdnstream.com/1822_128|BEAUTIFUL INSTRUMENTALS|Classical|AF|192|0"
  stream_data[1]: "http://immortalharmony.out.airtime.pro:8000/immortalharmony_a|Ambient Space|Classical|AF|128|0"
  stream_data[2]: "http://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio|BBC UNHCR|Various|AF|56|0"
@@ -21,8 +21,8 @@ live_stream_def : .live_streams {
  stream_data[16]: "http://stream.laut.fm/indieparty|Indieparty by Greensleeves|Classical|AF|128|0"
  stream_data[17]: "https://cp12.serverse.com/proxy/moonphase/stream|Moon Phase Radio: Ambient|Various|AF|192|0"
  stream_data[18]: "http://stream.laut.fm/deutschrapradio|deutschrap Detmold|Classical|AF|128|0"
- stream_data[19]: "http://stream.zeno.fm/526wmr2en98uv|MOMENTO LOVE GOSPEL|Classical|AF|128|0"
- stream_data[20]: "http://ice.greekstream.net/focusfm?listenerid=ec33c4dfc99a6f71e6dc23583cbc91f2&awparams=companionAds:true|Focus|Classical|AF|128|0"
+ stream_data[19]: "http://ice.greekstream.net/focusfm?listenerid=ec33c4dfc99a6f71e6dc23583cbc91f2&awparams=companionAds:true|Focus|Classical|AF|128|0"
+ stream_data[20]: "http://stream.zeno.fm/526wmr2en98uv|MOMENTO LOVE GOSPEL|Classical|AF|128|0"
  stream_data[21]: "http://stream.gayfm.de/|GAYFM|Various|AF|128|0"
  stream_data[22]: "https://nova-vnt.ice.infomaniak.ch/nova-vnt-128|Nova Classics|Classical|AF|128|0"
  stream_data[23]: "https://radio95.radioca.st/stream/1/|Sha3by FM|Classical|AF|128|0"
@@ -51,9 +51,23 @@ live_stream_def : .live_streams {
  stream_data[46]: "https://listen.radioking.com/radio/291025/stream/337294|chalabi|News|AF|128|0"
  stream_data[47]: "https://radiostream.pl/tuba140-1.mp3|rpw|Various|ORI|128|0"
  stream_data[48]: "https://coolism-web3rd.cdn.byteark.com/;stream/1|cool93|Classical|AF|128|0"
- stream_data[49]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_CORUNA.mp3|rrr|Classical|AF|128|0"
+ stream_data[49]: "https://streaming.viveradio.es/viveburgos|rrr|Classical|AF|128|0"
  stream_data[50]: "http://23.81.35.187:8054/stream|Radio Kabul|Various|AF|128|0"
  stream_data[51]: "https://streams.radio.co/sa3345aaa8/listen|Ariana FM 93.5 Kabul|News|DAR|128|0"
+ stream_data[52]: "https://stream.zeno.fm/ynwu3bzocuauv|Afghan Aykhanum Radio|Afghan music|DAR|128|0"
+ stream_data[53]: "https://stream.zeno.fm/zhsfxpeqczzvv|Arman FM 98.1|Afghan music|DAR|128|0"
+ stream_data[54]: "https://stream.radiojar.com/vemf3w2rv38uv|Radio Afghanistan International|News|DAR|128|0"
+ stream_data[55]: "https://s5.radio.co/se6264cb34/listen|Radio Begum|Education|DAR|96|0"
+ stream_data[56]: "https://stream.zeno.fm/ui78yc3qvotuv|Hamsada Radio|Afghan music|DAR|128|0"
+ stream_data[57]: "https://streams.radio.co/s08eb94fbc/listen|Radio Meher|Afghan music|DAR|192|0"
+ stream_data[58]: "https://stream.zeno.fm/i9w3sw7wtwttv|Radio Haqiqat|Afghan music|DAR|128|0"
+ stream_data[59]: "https://stream.zeno.fm/sgp6ng971k8uv|Wardak FM|Pashto music|PAS|128|0"
+ stream_data[60]: "https://radioghazal.com/live.mp3|Radio Ghazal|Afghan music|DAR|128|0"
+ stream_data[61]: "https://radio.hewadict.com/proxy/quranradio?mp=/stream|Taleemul Quran Radio|Islamic|PAS|64|0"
+ stream_data[62]: "https://stream.zeno.fm/rk1up6247p8uv|Radio Kunduz FM 89.6|News|DAR|128|0"
+ stream_data[63]: "https://stream.zeno.fm/0f51gtg6cm8uv|Radio Barin|Afghan music|DAR|128|0"
+ stream_data[64]: "https://stream.zeno.fm/cspa89xfsc9uv|Radio Tarhan|Turkmen music|TUR|128|0"
+ stream_data[65]: "https://radio.hewadict.com/proxy/tislamradio?mp=/stream|Taleemul Islam Radio|Education|PAS|128|0"
 }
 
 }

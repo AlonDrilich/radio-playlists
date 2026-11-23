@@ -79,12 +79,12 @@ http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3
 # 72FM: https://72fm.com/station/9610a8e7-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Jazz Radio Electro Swing
 http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
-# 72FM: https://72fm.com/station/9606311c-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Kiss FM (de Saint-Tropez à Monaco)
-http://kissfm.ice.infomaniak.ch/kissfm-128.mp3
 # 72FM: https://72fm.com/station/96135b8e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Soul
 http://jazz-wr10.ice.infomaniak.ch/jazz-wr10-128.mp3
+# 72FM: https://72fm.com/station/9606311c-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Kiss FM (de Saint-Tropez à Monaco)
+http://kissfm.ice.infomaniak.ch/kissfm-128.mp3
 # 72FM: https://72fm.com/station/96177334-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Beur FM
 http://broadcast.infomaniak.ch/beurfm-high.mp3
@@ -145,6 +145,9 @@ http://213.251.190.165/pulstranceHD.mp3
 # 72FM: https://72fm.com/station/c5bc6ba3-5adf-4bb6-8982-82d53a682799?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Jazzradio.fr Jazz & Classique
 https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
+# 72FM: https://72fm.com/station/042d3140-227c-4fac-9387-4903b692d5f2?source=m3u
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="France" radio="true",RTL
+https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
 # 72FM: https://72fm.com/station/9635ad8a-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",FIP autour de l’électro
 http://direct.fipradio.fr/live/fip-webradio8.mp3
@@ -154,9 +157,6 @@ http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3
 # 72FM: https://72fm.com/station/b5be28a3-4fa3-42b9-a9dd-168cc25961a3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.algorythmeradio.com/assets/images/icon-algo.ico" group-title="France" radio="true",Algorythme Drum & Bass
 https://radio9.pro-fhi.net/flux-endvtlna/stream
-# 72FM: https://72fm.com/station/042d3140-227c-4fac-9387-4903b692d5f2?source=m3u
-#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="France" radio="true",RTL
-https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
 # 72FM: https://72fm.com/station/96167407-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",RFI Persian
 http://live02.rfi.fr/rfienpersan-64k.mp3
@@ -166,27 +166,27 @@ http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
 # 72FM: https://72fm.com/station/d407234d-18b3-4419-ba07-e19b2c8cb885?source=m3u
 #EXTINF:-1 group-title="France" radio="true",VIP-Radios - Time To Relax
 http://178.32.111.41:8048/stream-128kmp3-TimeToRelax
-# 72FM: https://72fm.com/station/ce3b536e-2e20-11ea-aa0c-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon" group-title="France" radio="true",Chante France Nouveautés
-http://stream.chantefrance.com/cf-nouveautes.aac
 # 72FM: https://72fm.com/station/9610b12b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",King Dub Radio
 http://london-dedicated.myautodj.com:8862/stream
+# 72FM: https://72fm.com/station/ce3b536e-2e20-11ea-aa0c-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon" group-title="France" radio="true",Chante France Nouveautés
+http://stream.chantefrance.com/cf-nouveautes.aac
 # 72FM: https://72fm.com/station/c454908c-eb81-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="France" radio="true",FIP Groove
 http://icecast.radiofrance.fr/fipgroove-hifi.aac
 # 72FM: https://72fm.com/station/cbca0f46-ced9-4154-8157-c87039765207?source=m3u
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi076SvIq9FK1ila6iO0HpdpC6f6eMrCLPrNli3Y6WYe_7cVIM8GTSIKi5L2v3bmwD298Xc2jjmRlPX9nzJseyatmlnRhmrgL7QBGiUKBWhNDpmpSigoBKW-DQg-ytDeOF-iUaikzXDJef87-Or9eBq7fXL13kARxykDqVbhhIuT_e9niBlF0ZMztzw/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-19_14-44-01.png" group-title="France" radio="true",📺 RFI Monde
 https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3
-# 72FM: https://72fm.com/station/96210edc-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",RFI Anglais - English
-http://live02.rfi.fr/rfienanglais-64.mp3
-# 72FM: https://72fm.com/station/ab91bc51-8ddd-4d13-a349-26955c326541?source=m3u
-#EXTINF:-1 group-title="France" radio="true",B4B Radio DISCO FUNK
-https://eu10.fastcast4u.com:8120/
 # 72FM: https://72fm.com/station/961469e2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",France Maghreb 2 Province
 http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
+# 72FM: https://72fm.com/station/ab91bc51-8ddd-4d13-a349-26955c326541?source=m3u
+#EXTINF:-1 group-title="France" radio="true",B4B Radio DISCO FUNK
+https://eu10.fastcast4u.com:8120/
+# 72FM: https://72fm.com/station/96210edc-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",RFI Anglais - English
+http://live02.rfi.fr/rfienanglais-64.mp3
 # 72FM: https://72fm.com/station/5e86f5f1-b14b-43f9-acd3-3416f8d53486?source=m3u
 #EXTINF:-1 tvg-logo="https://www.europe1.fr/build/e1/images/favicon-120x120.png" group-title="France" radio="true",Europe1
 http://stream.europe1.fr/europe1.aac
@@ -214,15 +214,15 @@ http://listen.radioking.com/radio/8916/stream/19088
 # 72FM: https://72fm.com/station/96131e7f-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France" radio="true",France Bleu Paris
 http://direct.francebleu.fr/live/fb1071-midfi.mp3
+# 72FM: https://72fm.com/station/9f756e2d-8e9b-45f5-8fc1-61573e23036b?source=m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png" group-title="France" radio="true",FUN Radio
+http://icecast.funradio.fr/fun-1-44-128
 # 72FM: https://72fm.com/station/e1302232-248d-4433-88c6-c12b1bfafc81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Radio Heavy Metal
 https://manager7.streamradio.fr:1435/stream
 # 72FM: https://72fm.com/station/9618a113-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",France Musique | La Jazz
 http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3
-# 72FM: https://72fm.com/station/9f756e2d-8e9b-45f5-8fc1-61573e23036b?source=m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png" group-title="France" radio="true",FUN Radio
-http://icecast.funradio.fr/fun-1-44-128
 # 72FM: https://72fm.com/station/0ad35804-770d-11e9-8b97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",RADIO MARIA FRANCE
 http://dreamsiteradiocp2.com:8110/stream
@@ -262,18 +262,21 @@ https://audio.bfmtv.com/bfmbusiness_128.mp3
 # 72FM: https://72fm.com/station/9606ade0-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Ladies & Crooners
 http://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3
-# 72FM: https://72fm.com/station/7b20f515-d6c3-11e8-a2a6-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Radio Vibration
-https://vibration.ice.infomaniak.ch/vibration-high.mp3
 # 72FM: https://72fm.com/station/ab6a33e5-e8b5-4cf4-bfb7-ec0ae779cb7c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-0cfbd6d4.png" group-title="France" radio="true",France Info
 https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
-# 72FM: https://72fm.com/station/9612a35e-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",FIP autour du groove
-http://direct.fipradio.fr/live/fip-webradio3.mp3
+# 72FM: https://72fm.com/station/7b20f515-d6c3-11e8-a2a6-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Radio Vibration
+https://vibration.ice.infomaniak.ch/vibration-high.mp3
+# 72FM: https://72fm.com/station/f940cc74-1673-4bc8-adbc-832d5d51a012?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Kurd1 Radyo
+https://listen.radioking.com/radio/119251/stream/158701
 # 72FM: https://72fm.com/station/f48ce4f1-3f31-11e8-b74d-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Reggae.fr
 https://listen.radioking.com/radio/50473/stream/87415
+# 72FM: https://72fm.com/station/9612a35e-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",FIP autour du groove
+http://direct.fipradio.fr/live/fip-webradio3.mp3
 # 72FM: https://72fm.com/station/38dfcfb2-489d-11e9-80ab-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",hitfm reunion 974
 http://hitfm.ice.infomaniak.ch/hitfm-192.mp3
@@ -286,30 +289,33 @@ http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
 # 72FM: https://72fm.com/station/96134356-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Generations Rap FR
 http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3
-# 72FM: https://72fm.com/station/43e7a507-2745-46cb-b08b-88e0bc0f0368?source=m3u
-#EXTINF:-1 group-title="France" radio="true",MRADIO FRANCE
-http://mfm.ice.infomaniak.ch/mfm-64.aac
 # 72FM: https://72fm.com/station/14f3e67d-eb88-4b46-82f0-e0e17154cbf3?source=m3u
 #EXTINF:-1 group-title="France" radio="true",RFM Collector
 http://stream.rfm.fr/rfm-wr1.mp3
+# 72FM: https://72fm.com/station/43e7a507-2745-46cb-b08b-88e0bc0f0368?source=m3u
+#EXTINF:-1 group-title="France" radio="true",MRADIO FRANCE
+http://mfm.ice.infomaniak.ch/mfm-64.aac
 # 72FM: https://72fm.com/station/96128e69-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",FIP autour du reggae
 http://direct.fipradio.fr/live/fip-webradio6.mp3
 # 72FM: https://72fm.com/station/9613f2c0-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Generations Soul
 http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3
-# 72FM: https://72fm.com/station/2f2875a6-bf0a-41bc-b31b-d181c323654d?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Europe 2 Radio Officiel
-https://europe2.lmn.fm/europe2-57600/playlist.m3u8?aw_0_1st.playerid=lagardereappEurope2
 # 72FM: https://72fm.com/station/2dcf08e1-215c-41cc-b413-1c0103b327f9?source=m3u
 #EXTINF:-1 tvg-logo="https://rmc.bfmtv.com/apple-icon-228x228.png" group-title="France" radio="true",BFM Avec RMC
 https://audio.bfmtv.com/rmcradio_128.mp3
-# 72FM: https://72fm.com/station/d1b4a4ee-e101-4191-aecb-05ec78bb92d3?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="France" radio="true",Latina bachata
-https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
+# 72FM: https://72fm.com/station/2f2875a6-bf0a-41bc-b31b-d181c323654d?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Europe 2 Radio Officiel
+https://europe2.lmn.fm/europe2-57600/playlist.m3u8?aw_0_1st.playerid=lagardereappEurope2
 # 72FM: https://72fm.com/station/26d8d87a-1329-4cf3-b947-d587bbeccd1e?source=m3u
 #EXTINF:-1 group-title="France" radio="true",LOVE RADIO Only Love Songs 70s80s90s - www.love.radio
 https://loveradio.streamingmedia.it/france
+# 72FM: https://72fm.com/station/d1b4a4ee-e101-4191-aecb-05ec78bb92d3?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="France" radio="true",Latina bachata
+https://latinabachata.ice.infomaniak.ch/latinabachata.mp3
+# 72FM: https://72fm.com/station/51775b57-e11a-40ef-8894-38b07d80bb73?source=m3u
+#EXTINF:-1 tvg-logo="https://db.radioline.fr/pictures/radio_fa64fea9b6ccd92e058ced3fa41f58f5/logo200.jpg" group-title="France" radio="true",Europe 1
+https://europe1.lmn.fm/europe1.mp3
 # 72FM: https://72fm.com/station/9616baeb-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Espace Dance 90
 http://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
@@ -319,21 +325,18 @@ http://allzic07.ice.infomaniak.ch/allzic07.mp3
 # 72FM: https://72fm.com/station/9617a5f4-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Beur FM
 http://broadcast.infomaniak.ch/beurfm-high.aac
-# 72FM: https://72fm.com/station/51775b57-e11a-40ef-8894-38b07d80bb73?source=m3u
-#EXTINF:-1 tvg-logo="https://db.radioline.fr/pictures/radio_fa64fea9b6ccd92e058ced3fa41f58f5/logo200.jpg" group-title="France" radio="true",Europe 1
-https://europe1.lmn.fm/europe1.mp3
 # 72FM: https://72fm.com/station/5e8fd865-2455-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Chill Out
 http://allzic53.ice.infomaniak.ch/allzic53.mp3
+# 72FM: https://72fm.com/station/ee24e264-06fd-46cb-8f92-798aadde0aef?source=m3u
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8f2aad_93ae56d1764947358ca5524a248f789e~mv2.png" group-title="France" radio="true",Le Bon Mix HiFi Flac 1411 Kbps
+https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
 # 72FM: https://72fm.com/station/9613694b-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Contemporary Jazz
 http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3
 # 72FM: https://72fm.com/station/961331db-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Vibration 80's
 http://vibration80s.ice.infomaniak.ch/vibration80s.mp3
-# 72FM: https://72fm.com/station/ee24e264-06fd-46cb-8f92-798aadde0aef?source=m3u
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8f2aad_93ae56d1764947358ca5524a248f789e~mv2.png" group-title="France" radio="true",Le Bon Mix HiFi Flac 1411 Kbps
-https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
 # 72FM: https://72fm.com/station/2d94cc90-516c-4748-9d6e-0e9a076b9ea9?source=m3u
 #EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",MRadio Disney
 http://mfmwr-002.ice.infomaniak.ch/mfmwr-002.mp3
@@ -358,12 +361,12 @@ http://allzic39.ice.infomaniak.ch/allzic39.mp3
 # 72FM: https://72fm.com/station/4f4a3176-343c-4571-ac03-0dad7c5f0a09?source=m3u
 #EXTINF:-1 tvg-logo="https://chillofi-radio.dez.ovh/img/clofi-logo.jpg" group-title="France" radio="true",Chillofi radio
 http://streams.dez.ovh:8000/radio.mp3
-# 72FM: https://72fm.com/station/9614c51c-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Kiss FM (de Toulon à Marseille)
-http://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3
 # 72FM: https://72fm.com/station/960678ee-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",M Radio
 http://mfm.ice.infomaniak.ch/mfm-128.mp3
+# 72FM: https://72fm.com/station/9614c51c-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Kiss FM (de Toulon à Marseille)
+http://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3
 # 72FM: https://72fm.com/station/78f153c2-13d0-4b5b-b51f-d22e5f63ff34?source=m3u
 #EXTINF:-1 group-title="France" radio="true",RFM - La Radio Couleur
 https://stream.rfm.fr/rfm-wr3.aac
@@ -373,12 +376,15 @@ http://ods.ice.infomaniak.ch/ods-high.mp3
 # 72FM: https://72fm.com/station/96150311-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/voltage/images/favicon.ico" group-title="France" radio="true",Voltage
 http://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3
-# 72FM: https://72fm.com/station/96131573-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France" radio="true",France Bleu Pays de Savoie
-http://direct.francebleu.fr/live/fbpaysdesavoie-midfi.mp3
 # 72FM: https://72fm.com/station/96141072-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Blues
 http://allzic09.ice.infomaniak.ch/allzic09.mp3
+# 72FM: https://72fm.com/station/96131573-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France" radio="true",France Bleu Pays de Savoie
+http://direct.francebleu.fr/live/fbpaysdesavoie-midfi.mp3
+# 72FM: https://72fm.com/station/36eba167-5c51-4421-98f0-d2cda24be928?source=m3u
+#EXTINF:-1 tvg-logo="https://img.nrj.fr/8loJFyDgG_Gm_fgnk1fhkYIewhI=/medias%2F2021%2F06%2Flogo-nrj_60db2627d4729.svg" group-title="France" radio="true",Nrj Hits
+https://streaming.nrjaudio.fm/ou7xugf3s5gi?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-Hits
 # 72FM: https://72fm.com/station/961363c4-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Jazzy French
 http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3
@@ -388,21 +394,21 @@ http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
 # 72FM: https://72fm.com/station/9624d0bb-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Galaxie New Wave
 https://www.radioking.com/play/galaxienewwave
-# 72FM: https://72fm.com/station/36eba167-5c51-4421-98f0-d2cda24be928?source=m3u
-#EXTINF:-1 tvg-logo="https://img.nrj.fr/8loJFyDgG_Gm_fgnk1fhkYIewhI=/medias%2F2021%2F06%2Flogo-nrj_60db2627d4729.svg" group-title="France" radio="true",Nrj Hits
-https://streaming.nrjaudio.fm/ou7xugf3s5gi?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-Hits
 # 72FM: https://72fm.com/station/cc48afa5-2455-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio 80s
 http://allzic08.ice.infomaniak.ch/allzic08.mp3
+# 72FM: https://72fm.com/station/71ab8906-a508-4f98-a498-8840b41b79d5?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="France" radio="true",France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+# 72FM: https://72fm.com/station/88496158-90c1-411f-9a3b-719397a8dcca?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Radio Nostalgie France
+https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm
 # 72FM: https://72fm.com/station/d94c5090-1b7d-11ea-a620-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/img/logo-france-bleu-seo.jpg" group-title="France" radio="true",France Bleu Provence
 https://icecast.radiofrance.fr/fbprovence-midfi.mp3?ID=radiofrance
 # 72FM: https://72fm.com/station/b9df5aac-b32d-403d-a5eb-2937157cb314?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rfi.fr/apple-touch-icon.png" group-title="France" radio="true",RFI Tieng Viet
 http://live02.rfi.fr/rfivietnamien-96k.mp3
-# 72FM: https://72fm.com/station/88496158-90c1-411f-9a3b-719397a8dcca?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Radio Nostalgie France
-https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm
 # 72FM: https://72fm.com/station/76e27393-2456-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio 2000s
 http://allzic49.ice.infomaniak.ch/allzic49.mp3
@@ -415,9 +421,6 @@ http://stream.fr.morow.com:8080/morow_med.mp3
 # 72FM: https://72fm.com/station/9613b951-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/witfm/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Wit FM 90's
 http://wit90s.ice.infomaniak.ch/wit90s.mp3
-# 72FM: https://72fm.com/station/71ab8906-a508-4f98-a498-8840b41b79d5?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="France" radio="true",France Inter
-http://direct.franceinter.fr/live/franceinter-midfi.mp3
 # 72FM: https://72fm.com/station/964c2e18-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://radiomaria.fr/wp-content/themes/radiomaria/apple-touch-icon.png" group-title="France" radio="true",Radio Maria France
 http://dreamsiteradiocp4.com:8056/
@@ -427,15 +430,18 @@ http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
 # 72FM: https://72fm.com/station/960a7d0c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",France Musique | Classique Plus
 http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3
-# 72FM: https://72fm.com/station/960d53c0-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Radio Espérance Parole de Dieu
-https://esperance.streamakaci.com/parole-de-dieu.mp3
 # 72FM: https://72fm.com/station/0dcaca42-06fc-4433-8b17-bad6c5841dd5?source=m3u
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="France" radio="true",OUI FM LES SLOWS DU ROCK
 https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3
+# 72FM: https://72fm.com/station/960d53c0-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Radio Espérance Parole de Dieu
+https://esperance.streamakaci.com/parole-de-dieu.mp3
 # 72FM: https://72fm.com/station/fb398bd6-9873-4c06-b6d3-e2e3ca6d5c3c?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/da/51/10220/c300.png" group-title="France" radio="true",RTL France
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8
+# 72FM: https://72fm.com/station/d39ab442-6c34-4097-afd0-e298ac21e50c?source=m3u
+#EXTINF:-1 tvg-logo="https://img.nrj.fr/J6jlakQsQ2siRzCzCI_2IDCQj1E=/80x80/https%3A%2F%2Fplayers.nrjaudio.fm%2Flive-metadata%2Fplayer%2Fimg%2Fplayer-files%2Fnosta%2Flogos%2F640x640%2FP_Nostalgie_Premium_Logo_2023.png" group-title="France" radio="true",Nostalgie HQ
+https://streaming.nrjaudio.fm/oua8a3w2dqao?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=
 # 72FM: https://72fm.com/station/960d60b8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Jazz Radio Stax and Motown
 http://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3
@@ -445,18 +451,15 @@ http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3
 # 72FM: https://72fm.com/station/961362ef-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Jazz Radio Gospel
 http://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3
-# 72FM: https://72fm.com/station/d39ab442-6c34-4097-afd0-e298ac21e50c?source=m3u
-#EXTINF:-1 tvg-logo="https://img.nrj.fr/J6jlakQsQ2siRzCzCI_2IDCQj1E=/80x80/https%3A%2F%2Fplayers.nrjaudio.fm%2Flive-metadata%2Fplayer%2Fimg%2Fplayer-files%2Fnosta%2Flogos%2F640x640%2FP_Nostalgie_Premium_Logo_2023.png" group-title="France" radio="true",Nostalgie HQ
-https://streaming.nrjaudio.fm/oua8a3w2dqao?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=
 # 72FM: https://72fm.com/station/780f330e-5a1f-4f98-a5ba-cc261ec6a06c?source=m3u
 #EXTINF:-1 tvg-logo="https://tekno1.fr/wp-content/uploads/2019/12/cropped-favi2020-192x192.png" group-title="France" radio="true",TEKNO1
 http://cressida.shoutca.st:8591/stream/1/
-# 72FM: https://72fm.com/station/9613eaef-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Generations R&B Gold
-http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.mp3
 # 72FM: https://72fm.com/station/960bf247-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Radio Espérance Grégorien
 https://esperance.streamakaci.com/gregorien.mp3
+# 72FM: https://72fm.com/station/9613eaef-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Generations R&B Gold
+http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.mp3
 # 72FM: https://72fm.com/station/960b2feb-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Collines La Radio
 http://collineslaradio.ice.infomaniak.ch/collineslaradio-128.mp3
@@ -465,31 +468,31 @@ http://collineslaradio.ice.infomaniak.ch/collineslaradio-128.mp3
 http://icecast.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
 # 72FM: https://72fm.com/station/960730df-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",RFI Musique
-http://rfimusiquemonde64k.ice.infomaniak.ch/rfimusiquemonde-64k.mp3
+http://live02.rfi.fr/rfimusiquemonde-64k.mp3
 # 72FM: https://72fm.com/station/789132dd-cb36-4465-ae75-a44fb0533c59?source=m3u
 #EXTINF:-1 tvg-logo="https://www.magnumlaradio.com/wp-content/themes/magnumlaradio/assets/images/favicon.ico" group-title="France" radio="true",Magnum La Radio
 http://str0.creacast.com/magnum
 # 72FM: https://72fm.com/station/96169541-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Generations Reggaeton
 http://generations-rgton.ice.infomaniak.ch/generations-rgton.aac
-# 72FM: https://72fm.com/station/482ada2f-4cef-46f0-9bee-5fec787e456b?source=m3u
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-disney_600px-carre.png" group-title="France" radio="true",Allzik Disney
-https://allzic52.ice.infomaniak.ch/allzic52.mp3
-# 72FM: https://72fm.com/station/0cccf705-2459-11e8-91bf-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Deep Disco
-http://allzic31.ice.infomaniak.ch/allzic31.mp3
-# 72FM: https://72fm.com/station/ca19e388-4c86-4765-aed9-0ecbd1abd6d6?source=m3u
-#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange329.png" group-title="France" radio="true",Latina fiesta
-https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
 # 72FM: https://72fm.com/station/4b96ce1a-bb77-4bcc-be59-be493608631e?source=m3u
 #EXTINF:-1 tvg-logo="https://www.bfmtv.com/android-icon-192x192.png" group-title="France" radio="true",BFM Radio (128.mp3)
 https://audio.bfmtv.com/bfmradio_128.mp3
-# 72FM: https://72fm.com/station/4562517b-b092-461f-8878-4e35cd981de9?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="France" radio="true",France Inter
-https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance
+# 72FM: https://72fm.com/station/0cccf705-2459-11e8-91bf-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Deep Disco
+http://allzic31.ice.infomaniak.ch/allzic31.mp3
+# 72FM: https://72fm.com/station/482ada2f-4cef-46f0-9bee-5fec787e456b?source=m3u
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/media/radios/allzic-disney_600px-carre.png" group-title="France" radio="true",Allzik Disney
+https://allzic52.ice.infomaniak.ch/allzic52.mp3
 # 72FM: https://72fm.com/station/264b5883-9a02-4d5d-99bf-060a1666e902?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="France" radio="true",FIP Hip Hop
 http://icecast.radiofrance.fr/fiphiphop-hifi.aac
+# 72FM: https://72fm.com/station/4562517b-b092-461f-8878-4e35cd981de9?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="France" radio="true",France Inter
+https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance
+# 72FM: https://72fm.com/station/ca19e388-4c86-4765-aed9-0ecbd1abd6d6?source=m3u
+#EXTINF:-1 tvg-logo="https://ecouter.lesindesradios.net/logos/orange329.png" group-title="France" radio="true",Latina fiesta
+https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
 # 72FM: https://72fm.com/station/9617beba-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Autoroute Info 107.7 Zone Nord
 http://media.autorouteinfo.fr:8000/direct_nord.mp3
@@ -499,39 +502,39 @@ http://str30.creacast.com/pharefm_worship
 # 72FM: https://72fm.com/station/961b4dd2-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Chérie FM Martinique
 http://2stream.dyndns.org:8000/cheriefmmq
-# 72FM: https://72fm.com/station/96150547-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/voltage/images/favicon.ico" group-title="France" radio="true",Voltage 80's
-http://voltage80s.ice.infomaniak.ch/voltage80s-128.mp3
 # 72FM: https://72fm.com/station/881a0f74-533c-415c-8184-f09fa63c8895?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Latcho Flamenco
 https://listen.radioking.com/radio/109486/stream/148513
+# 72FM: https://72fm.com/station/96150547-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/voltage/images/favicon.ico" group-title="France" radio="true",Voltage 80's
+http://voltage80s.ice.infomaniak.ch/voltage80s-128.mp3
 # 72FM: https://72fm.com/station/14a81004-1379-11e9-a80b-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Международное Французское Радио RFI
 http://live02.rfi.fr/rfirusse-96k.mp3
 # 72FM: https://72fm.com/station/b8246f43-7136-4328-8027-e137515b68dd?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Metal Invasion Radio
 https://radio.metal-invasion.fr/radio/8000/stream96
-# 72FM: https://72fm.com/station/96136634-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Jazz & Cinema
-http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
 # 72FM: https://72fm.com/station/dacfb5d1-20ab-11ea-a955-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Radio Eure du Blues
 http://euredublues.ddns.net:8000/euredublues.ogg
-# 72FM: https://72fm.com/station/924985e9-ecb4-4126-b3f1-34ddeb93f4a4?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/6fo6l1uD2X/vignette.png" group-title="France" radio="true",OUI FM ROCK 80's
-https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3
+# 72FM: https://72fm.com/station/96136634-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Jazz & Cinema
+http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
 # 72FM: https://72fm.com/station/c09dbfe5-71f6-45fb-819e-839a58cdef10?source=m3u
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/logo-ici.jpg" group-title="France" radio="true",ICI NORD
 https://stream.radiofrance.fr/fbnord/fbnord_midfi.m3u8
+# 72FM: https://72fm.com/station/924985e9-ecb4-4126-b3f1-34ddeb93f4a4?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/6fo6l1uD2X/vignette.png" group-title="France" radio="true",OUI FM ROCK 80's
+https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3
 # 72FM: https://72fm.com/station/75cb7408-5f1a-4b0a-bafe-7dd621372f39?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Allzic Radio Orientale
 https://allzic33.ice.infomaniak.ch/allzic33.aac
-# 72FM: https://72fm.com/station/96150863-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/voltage/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Voltage 2000
-http://voltage2000.ice.infomaniak.ch/voltage2000-128.mp3
 # 72FM: https://72fm.com/station/960ca944-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Africa N°1
 http://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+# 72FM: https://72fm.com/station/96150863-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/voltage/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Voltage 2000
+http://voltage2000.ice.infomaniak.ch/voltage2000-128.mp3
 # 72FM: https://72fm.com/station/9612a51a-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",FIP tout nouveau, tout FIP
 http://direct.fipradio.fr/live/fip-webradio5.mp3
@@ -559,21 +562,21 @@ https://icecast.skyrock.net/s/francais_aac_64k?tvr_name=radiofr&tvr_section1=64a
 # 72FM: https://72fm.com/station/b8448cfb-53db-11e8-a4d1-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Urban Hit - Latino
 http://urbanhitreggeaton.ice.infomaniak.ch/urbanhitreggeaton-128.mp3?
-# 72FM: https://72fm.com/station/bc3392f0-2459-11e8-91bf-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Funk
-http://allzic08.ice.infomaniak.ch/allzic11.mp3
 # 72FM: https://72fm.com/station/75b6b22f-f4b7-43ae-aa73-96a7b47eeb4f?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/s3/cruiser-production/2022/07/160994f8-296b-4cd8-97a0-34c9111cdd9d/400x400_fip-metal-20222x_2.webp" group-title="France" radio="true",FIP Metal
 https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance
+# 72FM: https://72fm.com/station/bc3392f0-2459-11e8-91bf-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Funk
+http://allzic08.ice.infomaniak.ch/allzic11.mp3
 # 72FM: https://72fm.com/station/2596606e-b454-11e9-acb2-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Radio 17bis
 http://listen.radioking.com/radio/444/stream/1754
-# 72FM: https://72fm.com/station/e70311c9-190c-11ea-a620-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Fréquence Mutine
-http://icecast.infini.fr:8000/mutine
 # 72FM: https://72fm.com/station/37b84f17-81b6-4f44-8562-fd62b53be6f4?source=m3u
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="France" radio="true",OUI FM BLUES'N'ROCK
 https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3
+# 72FM: https://72fm.com/station/e70311c9-190c-11ea-a620-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Fréquence Mutine
+http://icecast.infini.fr:8000/mutine
 # 72FM: https://72fm.com/station/3ca92c2c-bf73-11e9-8502-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",JAZZ RADIO - Jazz & Classique
 http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
@@ -601,15 +604,15 @@ http://live02.rfi.fr/rfimusiquemonde-96k.mp3
 # 72FM: https://72fm.com/station/96136a2d-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio New Orleans
 http://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3
-# 72FM: https://72fm.com/station/81bc1bcb-cab2-4011-b85c-5001ff8b708b?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/S2UWS5S3lJ/vignette.png" group-title="France" radio="true",OUI FM ALTERNATIF
-https://ouifm2.ice.infomaniak.ch/ouifm2.mp3
 # 72FM: https://72fm.com/station/9acf48e5-8acb-45d3-bbf1-75a3f637c218?source=m3u
 #EXTINF:-1 tvg-logo="https://image.radioking.io/radios/467555/logo/c57b5e74-9d39-48d6-9d29-1d346967f1ee.png" group-title="France" radio="true",FM 80 FUNKY MUSIC
 https://play.radioking.io/fm80funkymusic/523739
 # 72FM: https://72fm.com/station/96136bfe-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Soul Food by DJ Philgood
 http://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3
+# 72FM: https://72fm.com/station/81bc1bcb-cab2-4011-b85c-5001ff8b708b?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/S2UWS5S3lJ/vignette.png" group-title="France" radio="true",OUI FM ALTERNATIF
+https://ouifm2.ice.infomaniak.ch/ouifm2.mp3
 # 72FM: https://72fm.com/station/9617a8a1-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Generations Rap FR Gold
 http://gene-wr06.ice.infomaniak.ch/gene-wr06.aac
@@ -619,12 +622,12 @@ http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3
 # 72FM: https://72fm.com/station/0125e382-5c53-11e8-b0ce-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Le Son Parisien
 http://stream.lesonparisien.com/hi.mp3
-# 72FM: https://72fm.com/station/0536a5b6-2456-11e8-91bf-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio 90s
-http://allzic24.ice.infomaniak.ch/allzic24.mp3
 # 72FM: https://72fm.com/station/3a6c5ce7-0c5c-11ea-a87e-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Rock & Folk (rock n folk)
 https://rockfolk.ice.infomaniak.ch/rockfolk.mp3
+# 72FM: https://72fm.com/station/0536a5b6-2456-11e8-91bf-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio 90s
+http://allzic24.ice.infomaniak.ch/allzic24.mp3
 # 72FM: https://72fm.com/station/4bdea53b-2d67-11ea-aa0c-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/blackbox/images/favicon.ico" group-title="France" radio="true",BlackBox classic US
 https://blackbox-classic-us.ice.infomaniak.ch/blackbox-classic-us.mp3
@@ -643,39 +646,39 @@ https://esperance.streamakaci.com/louange.mp3
 # 72FM: https://72fm.com/station/bd406025-f400-11e9-a96c-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/favicon.ico" group-title="France" radio="true",Allzic Radio 50s
 http://allzic29.ice.infomaniak.ch/allzic29.mp3
-# 72FM: https://72fm.com/station/961773f4-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Generations Rap U.S
-http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac
 # 72FM: https://72fm.com/station/96135ac9-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Jazz Radio Zen Attitude
 http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3
+# 72FM: https://72fm.com/station/961773f4-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",Generations Rap U.S
+http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac
 # 72FM: https://72fm.com/station/ec952681-b808-4b77-aa5d-892b7d14331c?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Crooner Radio Legends
 http://croonerradio_legends.ice.infomaniak.ch/croonerradio-legends-midfi.mp3
+# 72FM: https://72fm.com/station/c257d985-4a5a-4f5d-b861-6a1397d8a9c1?source=m3u
+#EXTINF:-1 tvg-logo="https://www.rtl.fr/favicon.ico" group-title="France" radio="true",RTL France
+https://icecast.rtl.fr/rtl-1-44-128
 # 72FM: https://72fm.com/station/83b983ae-483b-4767-be4a-916f3a9d680b?source=m3u
 #EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/filters:format(webp)/radios/africaradio/radiostream/dnV47tflYH/vignette.png" group-title="France" radio="true",Africa Radio Rumba Webradio
 https://webradio1.ice.infomaniak.ch/webradio4-128.mp3
+# 72FM: https://72fm.com/station/1a9c8c79-2e17-11ea-aa0c-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Urban afro
+https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3
 # 72FM: https://72fm.com/station/961309dd-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/favicon-112.png" group-title="France" radio="true",France Bleu Isère
 http://direct.francebleu.fr/live/fbisere-midfi.mp3
 # 72FM: https://72fm.com/station/96070e32-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Maxi 80
 http://audio1.maxi80.com/
-# 72FM: https://72fm.com/station/1a9c8c79-2e17-11ea-aa0c-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Urban afro
-https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3
-# 72FM: https://72fm.com/station/960c22d1-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Radio Espérance Enseignement
-https://esperance.streamakaci.com/enseignement.mp3
-# 72FM: https://72fm.com/station/9614a0f9-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Radio Scoop Lyon
-http://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-128.mp3
 # 72FM: https://72fm.com/station/7d913888-3cfa-4254-aa88-8683f9002eb8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-114x114.png" group-title="France" radio="true",Radio Vaticana Francais
 https://radio.vaticannews.va/stream-fr
-# 72FM: https://72fm.com/station/c257d985-4a5a-4f5d-b861-6a1397d8a9c1?source=m3u
-#EXTINF:-1 tvg-logo="https://www.rtl.fr/favicon.ico" group-title="France" radio="true",RTL France
-https://icecast.rtl.fr/rtl-1-44-128
+# 72FM: https://72fm.com/station/9614a0f9-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Radio Scoop Lyon
+http://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-128.mp3
+# 72FM: https://72fm.com/station/960c22d1-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Radio Espérance Enseignement
+https://esperance.streamakaci.com/enseignement.mp3
 # 72FM: https://72fm.com/station/9613ec70-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Generations SlowJam
 http://gene-wr11.ice.infomaniak.ch/gene-wr11.mp3
@@ -685,12 +688,12 @@ http://icecast.radiofrance.fr/francemusiquelabo-hifi.aac
 # 72FM: https://72fm.com/station/e6fe915e-db25-11e9-a8ba-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Jazz Lounge
 http://allzic03.ice.infomaniak.ch/allzic03.mp3
-# 72FM: https://72fm.com/station/9616bbb9-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Espace Dance 90
-http://espace-disco.ice.infomaniak.ch/espace-disco-high.aac
 # 72FM: https://72fm.com/station/4bfa3b18-478b-4057-9bff-90ee4943a0ee?source=m3u
 #EXTINF:-1 tvg-logo="https://www.rfi.fr/apple-touch-icon.png" group-title="France" radio="true",RFI Russia
 https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3
+# 72FM: https://72fm.com/station/9616bbb9-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.radioespace.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Espace Dance 90
+http://espace-disco.ice.infomaniak.ch/espace-disco-high.aac
 # 72FM: https://72fm.com/station/0b3ff698-3282-483c-96bc-1ba9ff08ea25?source=m3u
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/media/radio/thumb/180x180_electro-swing.png" group-title="France" radio="true",Jazz Radio Electro Swing
 https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090
@@ -703,135 +706,144 @@ https://wr.lmn.fm/e1-wr3.aac?aw_0_1st.playerid=lgrdnwsRadioplayer
 # 72FM: https://72fm.com/station/9614b836-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",PulsRadio Hits
 http://193.200.43.23/hitpartyHD.mp3
-# 72FM: https://72fm.com/station/b1e155e8-2e16-11ea-aa0c-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Urban Hit rap FR
-https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3
 # 72FM: https://72fm.com/station/cf927e12-2208-41ba-b66d-7a2fc05f8d9d?source=m3u
 #EXTINF:-1 group-title="France" radio="true",RTL 2
 https://icecast.rtl.fr/rtl2-1-44-128?listen=webGJmqBU59boQ7rZDjrGO5e4
 # 72FM: https://72fm.com/station/5ab5b266-a643-4666-a69b-31a748c62b73?source=m3u
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="France" radio="true",OUI FM ROCK 70's
 https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3
+# 72FM: https://72fm.com/station/b1e155e8-2e16-11ea-aa0c-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Urban Hit rap FR
+https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3
+# 72FM: https://72fm.com/station/9617af1b-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Generations Funk
+http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
 # 72FM: https://72fm.com/station/05aadea1-245a-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Top 50
 http://allzic55.ice.infomaniak.ch/allzic55.mp3
 # 72FM: https://72fm.com/station/96137ff4-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Phare FM Louange
 http://str0.creacast.com/pharefm_louange
-# 72FM: https://72fm.com/station/9617af1b-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Generations Funk
-http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
 # 72FM: https://72fm.com/station/bf16cbc0-164f-4736-bc61-0ffa1c988f47?source=m3u
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/ufIfkfDXSl/vignette.png" group-title="France" radio="true",OUI FM REGGAE
 https://ouifmganja.ice.infomaniak.ch/ouifmganja-128.mp3
 # 72FM: https://72fm.com/station/a373697c-730a-455c-903a-447d7c26aa6a?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s262538/images/logod.png?t=636966437370000000" group-title="France" radio="true",Fip Monde
 http://direct.fipradio.fr/live/fipworld-hifi.aac
-# 72FM: https://72fm.com/station/ec193110-3321-4e19-85d0-36eee211b269?source=m3u
-#EXTINF:-1 group-title="France" radio="true",VIP-Radios - Healing Music
-http://178.32.111.41:8039/stream-128kmp3-HealingMusic
-# 72FM: https://72fm.com/station/671e40e6-2459-11e8-91bf-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Disco
-http://allzic36.ice.infomaniak.ch/allzic36.mp3
 # 72FM: https://72fm.com/station/5e7d27fd-478a-458e-9a3f-85e47332a011?source=m3u
 #EXTINF:-1 tvg-logo="https://radionotredame.net/favicon.ico" group-title="France" radio="true",Radio Notre Dame (lower bitrate)
 https://windu.radionotredame.net/RadioNotreDame-Fm.mp3
+# 72FM: https://72fm.com/station/671e40e6-2459-11e8-91bf-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Disco
+http://allzic36.ice.infomaniak.ch/allzic36.mp3
+# 72FM: https://72fm.com/station/ec193110-3321-4e19-85d0-36eee211b269?source=m3u
+#EXTINF:-1 group-title="France" radio="true",VIP-Radios - Healing Music
+http://178.32.111.41:8039/stream-128kmp3-HealingMusic
 # 72FM: https://72fm.com/station/43a188fd-2459-11e8-91bf-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",Allzic Radio Disney
 http://allzic52.ice.infomaniak.ch/allzic52.mp3
 # 72FM: https://72fm.com/station/99092504-86c7-484a-9e3c-deaed2be630b?source=m3u
 #EXTINF:-1 tvg-logo="https://www.france24.com/favicon-194x194.png" group-title="France" radio="true",France24 Français
 http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8
-# 72FM: https://72fm.com/station/ac8b0eda-c69b-4f3e-acb7-71666085dc33?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="France" radio="true",OUI FM ROCK 90's
-https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3
 # 72FM: https://72fm.com/station/960e2413-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Radio 6 Calais
 http://radio6-calais.ice.infomaniak.ch/radio6-calais-128.mp3
+# 72FM: https://72fm.com/station/ac8b0eda-c69b-4f3e-acb7-71666085dc33?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="France" radio="true",OUI FM ROCK 90's
+https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3
 # 72FM: https://72fm.com/station/a93bec5c-39b3-463a-ad2b-0f2d81ea55d3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="France" radio="true",France Musique Piano Zen
 http://icecast.radiofrance.fr/francemusiquepianozen-hifi.aac
+# 72FM: https://72fm.com/station/1a7f5ed1-f017-4391-af29-25bfb99e953a?source=m3u
+#EXTINF:-1 group-title="France" radio="true",CLASSIC HITS RADIO
+http://www.play4.fr/play4-club.mp3
 # 72FM: https://72fm.com/station/4d8ac011-c43c-4ffa-9ff7-4b72053f3605?source=m3u
 #EXTINF:-1 group-title="France" radio="true",rjfm
 http://listen.radioking.com/radio/563/stream/62872
 # 72FM: https://72fm.com/station/c6009d9c-d19b-4d98-853f-1ae3789b17b2?source=m3u
 #EXTINF:-1 group-title="France" radio="true",OUI FM ROCK 2000
 https://ouifmrock2000s.ice.infomaniak.ch/ouifmrock2000.mp3
-# 72FM: https://72fm.com/station/1a7f5ed1-f017-4391-af29-25bfb99e953a?source=m3u
-#EXTINF:-1 group-title="France" radio="true",CLASSIC HITS RADIO
-http://www.play4.fr/play4-club.mp3
-# 72FM: https://72fm.com/station/961530ce-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",RFI Russe
-http://live02.rfi.fr/rfienrusse-64.mp3
 # 72FM: https://72fm.com/station/d25d3f80-d0d4-4784-98c2-e11102ca98a5?source=m3u
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s262533/images/logod.png?t=636966437720000000" group-title="France" radio="true",Fip Jazz
 http://direct.fipradio.fr/live/fipjazz-hifi.aac
+# 72FM: https://72fm.com/station/961530ce-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",RFI Russe
+http://live02.rfi.fr/rfienrusse-64.mp3
 # 72FM: https://72fm.com/station/f2560bb7-6d83-11e9-af37-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",AlterNantes
 http://diffusion.lafrap.fr/alternantes.mp3
-# 72FM: https://72fm.com/station/96097250-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/favicon-112.png" group-title="France" radio="true",France Bleu Cotentin
-http://direct.francebleu.fr/live/fbcotentin-midfi.mp3
-# 72FM: https://72fm.com/station/7b765c30-9c69-4412-9059-d94608944819?source=m3u
-#EXTINF:-1 group-title="France" radio="true",France24 arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-# 72FM: https://72fm.com/station/96130546-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",France Bleu Breizh Izel
-http://direct.francebleu.fr/live/fbbreizizel-midfi.mp3
-# 72FM: https://72fm.com/station/58590ae8-2457-11e8-91bf-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Allzic Radio R&B
-http://allzic08.ice.infomaniak.ch/allzic10.mp3
-# 72FM: https://72fm.com/station/9617b159-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Generations Reggae
-http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.aac
-# 72FM: https://72fm.com/station/961e6742-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",France Musique | Ocora - Musiques du monde
-http://direct.francemusique.fr/live/francemusiqueocoramonde-hifi.mp3
 # 72FM: https://72fm.com/station/4ed72eba-d787-40bb-8528-9ade9fd0113a?source=m3u
 #EXTINF:-1 tvg-logo="https://api2.frequence3.net/static/img/stations/horizontal/frequence3gold.png" group-title="France" radio="true",Frequence 3 Gold FLAC
 https://frequence3.net-radio.fr/frequence3gold.flac
-# 72FM: https://72fm.com/station/24340331-c16f-4e8d-9bfc-bc7a1dc6a00d?source=m3u
-#EXTINF:-1 tvg-logo="https://www.croonerradio.fr/wp-content/uploads/2021/06/LOGO-CROONER-RADIO-WR-CLASSIC-GOLD.jpg" group-title="France" radio="true",Crooner Radio Classic Gold
-http://croonerradio_classicgold.ice.infomaniak.ch/croonerradio-classicgold-midfi.mp3
-# 72FM: https://72fm.com/station/277524f2-db27-11e9-a8ba-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Allzic Zouk
-http://allzic28.ice.infomaniak.ch/allzic28.mp3
-# 72FM: https://72fm.com/station/9612ece9-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/forum/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Forum
-http://start-forum.ice.infomaniak.ch/start-forum-high.mp3
+# 72FM: https://72fm.com/station/96097250-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/images/favicon-112.png" group-title="France" radio="true",France Bleu Cotentin
+http://direct.francebleu.fr/live/fbcotentin-midfi.mp3
 # 72FM: https://72fm.com/station/698ca170-093f-45aa-a7bb-4c809d04183d?source=m3u
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="France" radio="true",France Culture
 https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance
-# 72FM: https://72fm.com/station/96142496-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" group-title="France" radio="true",100% Radio Souvenirs
-http://100radio-souvenirs.ice.infomaniak.ch/100radio-souvenirs-128.mp3
 # 72FM: https://72fm.com/station/3fb647f3-93af-4d33-9cad-3d69e2efb048?source=m3u
 #EXTINF:-1 tvg-logo="https://www.croonerradio.fr/favicon.ico" group-title="France" radio="true",croonerradio julioiglesias
 http://croonerradio_julioiglesias.ice.infomaniak.ch/croonerradio-julioiglesias-midfi.mp3
+# 72FM: https://72fm.com/station/96130546-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",France Bleu Breizh Izel
+http://direct.francebleu.fr/live/fbbreizizel-midfi.mp3
+# 72FM: https://72fm.com/station/7b765c30-9c69-4412-9059-d94608944819?source=m3u
+#EXTINF:-1 group-title="France" radio="true",France24 arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+# 72FM: https://72fm.com/station/9612ece9-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/forum/images/favicon.vnd.microsoft.icon" group-title="France" radio="true",Forum
+http://start-forum.ice.infomaniak.ch/start-forum-high.mp3
+# 72FM: https://72fm.com/station/58590ae8-2457-11e8-91bf-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Allzic Radio R&B
+http://allzic08.ice.infomaniak.ch/allzic10.mp3
+# 72FM: https://72fm.com/station/961e6742-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",France Musique | Ocora - Musiques du monde
+http://direct.francemusique.fr/live/francemusiqueocoramonde-hifi.mp3
+# 72FM: https://72fm.com/station/9617b159-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Generations Reggae
+http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.aac
+# 72FM: https://72fm.com/station/277524f2-db27-11e9-a8ba-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Allzic Zouk
+http://allzic28.ice.infomaniak.ch/allzic28.mp3
+# 72FM: https://72fm.com/station/24340331-c16f-4e8d-9bfc-bc7a1dc6a00d?source=m3u
+#EXTINF:-1 tvg-logo="https://www.croonerradio.fr/wp-content/uploads/2021/06/LOGO-CROONER-RADIO-WR-CLASSIC-GOLD.jpg" group-title="France" radio="true",Crooner Radio Classic Gold
+http://croonerradio_classicgold.ice.infomaniak.ch/croonerradio-classicgold-midfi.mp3
+# 72FM: https://72fm.com/station/96142496-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" group-title="France" radio="true",100% Radio Souvenirs
+http://100radio-souvenirs.ice.infomaniak.ch/100radio-souvenirs-128.mp3
 # 72FM: https://72fm.com/station/9612ef7e-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Radio Bonheur
 http://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
-# 72FM: https://72fm.com/station/aab0149f-9b8c-4098-82bc-0dd1c53bd5d9?source=m3u
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s309248/images/logod.jpg" group-title="France" radio="true",RFM - 100% New Wave
-http://stream.rfm.fr/rfm-wr12.aac/playlist.m3u8
-# 72FM: https://72fm.com/station/961300da-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France" radio="true",France Bleu Azur
-http://direct.francebleu.fr/live/fbazur-midfi.mp3
 # 72FM: https://72fm.com/station/96183d1c-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Allzic Radio Rock
 http://allzic17.ice.infomaniak.ch/allzic17.mp3
+# 72FM: https://72fm.com/station/aab0149f-9b8c-4098-82bc-0dd1c53bd5d9?source=m3u
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s309248/images/logod.jpg" group-title="France" radio="true",RFM - 100% New Wave
+http://stream.rfm.fr/rfm-wr12.aac/playlist.m3u8
+# 72FM: https://72fm.com/station/f760fce4-6d26-4203-9eb6-cf25e8799716?source=m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/France_Inter_logo_2021.svg" group-title="France" radio="true",France Inter
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+# 72FM: https://72fm.com/station/961300da-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="France" radio="true",France Bleu Azur
+http://direct.francebleu.fr/live/fbazur-midfi.mp3
+# 72FM: https://72fm.com/station/53adaf12-1dd1-4700-852b-f55da044ee7f?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Rire et Chansons Canulars
+https://streaming.nrjaudio.fm/ouwgjmsk6j4d?aw_0_1st.station=Rire-Chansons-CANULARS&origine=mytuner
 # 72FM: https://72fm.com/station/78ebf89d-ebc3-448f-827f-1ff7eae47964?source=m3u
 #EXTINF:-1 group-title="France" radio="true",VIP-Radios - Relax Zone
 http://178.32.111.41:8045/stream-128kmp3-RelaxZone
 # 72FM: https://72fm.com/station/96174b37-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://www.odsradio.com/apple-touch-icon-120x120.png" group-title="France" radio="true",ODS Radio
 http://ods.ice.infomaniak.ch/ods-high.aac
-# 72FM: https://72fm.com/station/9613fce2-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",M Radio 100% Céline Dion
-http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
 # 72FM: https://72fm.com/station/40d1066e-4903-4775-b137-07fa1b4b1cf9?source=m3u
 #EXTINF:-1 tvg-logo="https://www.croonerradio.fr/favicon.ico" group-title="France" radio="true",Crooner Radio Swing
 http://croonerradio_swing.ice.infomaniak.ch/croonerradio-swing-midfi.mp3
+# 72FM: https://72fm.com/station/9613fce2-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 tvg-logo="https://mradio.fr/apple-touch-icon-120x120.png" group-title="France" radio="true",M Radio 100% Céline Dion
+http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
+# 72FM: https://72fm.com/station/0af72e12-050b-477e-bec9-ed7b5bcb56c6?source=m3u
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/alouette/images/favicon.x-icon" group-title="France" radio="true",Alouette
+https://alouette.ice.infomaniak.ch/alouette-high.mp3
 # 72FM: https://72fm.com/station/693fc913-647b-4ee1-b654-d71fb022ce05?source=m3u
 #EXTINF:-1 tvg-logo="https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/radio/radio_2002.png" group-title="France" radio="true",Europe 2 Classics
 https://europe2.lmn.fm/vr-wr2.mp3?aw_0_1st.playerid=lagardereappVirgin
@@ -844,9 +856,6 @@ http://stream.rfm.fr/rfm-wr6.mp3
 # 72FM: https://72fm.com/station/96138296-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Radio Neptune
 http://icecast.infini.fr:8000/neptune
-# 72FM: https://72fm.com/station/0af72e12-050b-477e-bec9-ed7b5bcb56c6?source=m3u
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/alouette/images/favicon.x-icon" group-title="France" radio="true",Alouette
-https://alouette.ice.infomaniak.ch/alouette-high.mp3
 # 72FM: https://72fm.com/station/df93ef73-7b82-4478-9e02-a30fe0251b16?source=m3u
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/favicon.ico" group-title="France" radio="true",Allzic Classic Piano
 http://allzic47.ice.infomaniak.ch/allzic47.mp3
@@ -856,9 +865,6 @@ http://classicfm.ice.infomaniak.ch/classic-fm.mp3
 # 72FM: https://72fm.com/station/a25b97e7-9b23-413e-823e-baec874d0bf8?source=m3u
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="France" radio="true",Vintage 80 90
 https://radio8.pro-fhi.net/live/VINTAGE80-90
-# 72FM: https://72fm.com/station/53adaf12-1dd1-4700-852b-f55da044ee7f?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Rire et Chansons Canulars
-https://streaming.nrjaudio.fm/ouwgjmsk6j4d?aw_0_1st.station=Rire-Chansons-CANULARS&origine=mytuner
 # 72FM: https://72fm.com/station/9617a748-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-114x114.png" group-title="France" radio="true",Generations Rap FR
 http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.aac
@@ -868,27 +874,24 @@ http://listen.radioking.com/radio/16769/stream/49487
 # 72FM: https://72fm.com/station/9dcbee15-ce91-4656-9760-925e480e86d3?source=m3u
 #EXTINF:-1 tvg-logo="https://www.virageradio.com/media/radio/thumb/150x150_61e543e1c1713-virage-legendes-plan-de-travail-1.webp" group-title="France" radio="true",Virage Radio Légendes du Rock
 https://virage-radio-legende-du-rock.ice.infomaniak.ch/virage-radio-legende-du-rock.aac
-# 72FM: https://72fm.com/station/f760fce4-6d26-4203-9eb6-cf25e8799716?source=m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/France_Inter_logo_2021.svg" group-title="France" radio="true",France Inter
-https://icecast.radiofrance.fr/franceinter-hifi.aac
+# 72FM: https://72fm.com/station/96168b6d-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Radio ONE
+http://radioone.ice.infomaniak.ch/radioone-96.mp3
+# 72FM: https://72fm.com/station/1c400623-69c7-493c-93b9-e5b4f37dd7d2?source=m3u
+#EXTINF:-1 group-title="France" radio="true",Radio SUN FLAC
+http://diffusion.lafrap.fr:8000/sun.flac
 # 72FM: https://72fm.com/station/d2b47f3c-ef68-4949-9f61-7eed459221d2?source=m3u
 #EXTINF:-1 tvg-logo="https://image.radioking.io/radios/669715/logo/e0191854-a603-41f5-9729-121a1f215f57.jpeg" group-title="France" radio="true",Radio Choco
 https://listen.radioking.com/radio/669715/stream/733765
 # 72FM: https://72fm.com/station/e7c5fe5d-1110-455a-9d80-c07f851cf799?source=m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/2048px-FIP_logo_2021.svg.png" group-title="France" radio="true",FIP Sacré Français !
 http://icecast.radiofrance.fr/fipsacrefrancais-hifi.aac
-# 72FM: https://72fm.com/station/1c400623-69c7-493c-93b9-e5b4f37dd7d2?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Radio SUN FLAC
-http://diffusion.lafrap.fr:8000/sun.flac
-# 72FM: https://72fm.com/station/961f707c-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",France Musique | La Contemporaine
-http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3
-# 72FM: https://72fm.com/station/96168b6d-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 group-title="France" radio="true",Radio ONE
-http://radioone.ice.infomaniak.ch/radioone-96.mp3
 # 72FM: https://72fm.com/station/96059fa8-0601-11e8-ae97-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Fusion FM
 http://fusionfm.ice.infomaniak.ch:8000/fusionfm-192.mp3
+# 72FM: https://72fm.com/station/961f707c-0601-11e8-ae97-52543be04c81?source=m3u
+#EXTINF:-1 group-title="France" radio="true",France Musique | La Contemporaine
+http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3
 # 72FM: https://72fm.com/station/1e864af9-477e-4423-b31f-32d19158891c?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Atomic radio
 http://radios.topymedia.com:8032/
@@ -901,6 +904,3 @@ http://allzic06.ice.infomaniak.ch/allzic06.mp3
 # 72FM: https://72fm.com/station/80d4e7dd-7744-11ea-b1cf-52543be04c81?source=m3u
 #EXTINF:-1 group-title="France" radio="true",Radio Alligator
 http://listen.radioking.com/radio/39962/stream/76445
-# 72FM: https://72fm.com/station/9620acd9-0601-11e8-ae97-52543be04c81?source=m3u
-#EXTINF:-1 tvg-logo="https://phauneradio.com/wp-content/uploads/cropped-phaune-favicon-180x180.png" group-title="France" radio="true",Phaune radio
-http://stream.phauneradio.com/phaune_128

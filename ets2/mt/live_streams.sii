@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 9
+ stream_data: 11
  stream_data[0]: "http://s10.voscast.com:8202/stream|One Radio|Various|MAL|128|0"
  stream_data[1]: "http://dreamsiteradiocp.com:8102/|Radju Maria Malta|Various|MAL|32|0"
  stream_data[2]: "http://dreamsiteradiocp.com:8102/stream|RADJU MARIJA MALTA|Catholic|MAL|32|0"
@@ -11,6 +11,8 @@ live_stream_def : .live_streams {
  stream_data[6]: "https://campusfm.radioca.st/campusfm_live|Campus 103.7|Various|MT|192|0"
  stream_data[7]: "https://stream.v3.network/proxy/897bay/stream.mp3|89.7 Bay|Various|MT|256|0"
  stream_data[8]: "https://listentoair.live/stream|AIR AI Radio|Ai music|ENG|192|0"
+ stream_data[9]: "https://stream.grunginradio.com/listen/grunginradio/radio.mp3|GrungInRadio|80s 90s grunge|ENG|192|0"
+ stream_data[10]: "http://s3.voscast.com:9258/default|Malta's Lite Radio|Various|MT|128|0"
 }
 
 }

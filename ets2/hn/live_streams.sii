@@ -1,13 +1,13 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 21
- stream_data[0]: "http://26563.live.streamtheworld.com/AMERICA_SC|Radio America 94.7 Tegucigalpa|Noticias|SPA|48|0"
+ stream_data: 22
+ stream_data[0]: "http://27573.live.streamtheworld.com/AMERICA_SC|Radio America 94.7 Tegucigalpa|Noticias|SPA|48|0"
  stream_data[1]: "http://ice42.securenetsystems.net/EXITOS|Stereo Exitos 88.1 Tegucigalpa|Tegucigalpa|SPA|64|0"
  stream_data[2]: "http://ice42.securenetsystems.net/XY905|XY 90.5 FM Tegucigalpa|Pop|SPA|64|0"
  stream_data[3]: "http://ice42.securenetsystems.net/SUAVE|Suave FM 102.5 Tegucigalpa|Pop|SPA|64|0"
  stream_data[4]: "http://ice42.securenetsystems.net/94SUFM|94 SU FM 94.1 Tegucigalpa|Tegucigalpa|SPA|64|0"
- stream_data[5]: "http://26653.live.streamtheworld.com:3690/SUPER100_SC|Super 100 Tegucigalpa 100.1|Adult contemporary|SPA|64|0"
+ stream_data[5]: "http://27413.live.streamtheworld.com/SUPER100_SC|Super 100 Tegucigalpa 100.1|Adult contemporary|SPA|64|0"
  stream_data[6]: "https://ice42.securenetsystems.net/ROCKNPOP|ROCK N' POP|Pop|HN|64|0"
  stream_data[7]: "https://stream.zeno.fm/83h238tqsceuv|Musiquera 93.3 FM|Musiquera|ESP|128|0"
  stream_data[8]: "https://streaming.exclusive.radio/er/gratefuldead/icecast.audio|GD Dubai|Various|HN|128|0"
@@ -23,6 +23,7 @@ live_stream_def : .live_streams {
  stream_data[18]: "https://stream.zeno.fm/6n7fp9t2pceuv|Radioactiva 99.7 Honduras|Hip-hop|ESP|128|0"
  stream_data[19]: "http://listen.usuarios.space:8036/live|RADIO FENIX INTERNACIONAL|Musica popular mexicana|SPA|128|0"
  stream_data[20]: "http://neformatnoe.ru:8777/live|Neformatnoe Radio|Various|ENG|128|0"
+ stream_data[21]: "https://radio.hch.tv/stream|HCH Radio|Cristiana|SPA|128|0"
 }
 
 }

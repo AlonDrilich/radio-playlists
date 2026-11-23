@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : .live_streams {
- stream_data: 27
+ stream_data: 30
  stream_data[0]: "http://s39.myradiostream.com/5458/listen.mp3|Araz fm 103.3|Various|AZ|128|0"
  stream_data[1]: "http://94.20.74.206:4448/stream1|Asan Radio|Various|AZE|112|0"
  stream_data[2]: "http://radio.autoliferadio.com:8090/radio|AutoLife Radio Azerbaijan|Pop|AZE|192|0"
@@ -23,12 +23,15 @@ live_stream_def : .live_streams {
  stream_data[18]: "http://5.191.241.101:8000/rahatmarket|Rahat Supermarket Radio|Various|AZE|64|0"
  stream_data[19]: "http://icecast.livetv.az/yurdfm|Yurd fm|Various|AZE|192|0"
  stream_data[20]: "http://icecast.livetv.az/mediajazz|Media fm jazz|Jazz fusion|AZ|128|0"
- stream_data[21]: "https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3|Baku Jazz Radio|Various|AZ|192|0"
- stream_data[22]: "https://live.dinle.az/dalgafm|Dalga fm 92.5|Folk|AZE|128|0"
+ stream_data[21]: "https://live.dinle.az/dalgafm|Dalga fm 92.5|Folk|AZE|128|0"
+ stream_data[22]: "https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3|Baku Jazz Radio|Various|AZ|192|0"
  stream_data[23]: "http://icecast.livetv.az/mediamugam|Media FM Mugam|Folk/ethno/national|AZE|128|0"
  stream_data[24]: "http://icecast.livetv.az/mediarelax|Media FM Relax|Chill-out|ENG|128|0"
- stream_data[25]: "https://icecast.livetv.az/mediafm|Media FM Classic|Classical|AZE|192|0"
- stream_data[26]: "https://audiostr.atv.az/106.3fm|106.3 fm.az|Folk|AZE|192|0"
+ stream_data[25]: "https://audiostr.atv.az/106.3fm|106.3 fm.az|Folk|AZE|192|0"
+ stream_data[26]: "https://icecast.livetv.az/mediafm|Media FM Classic|Classical|AZE|192|0"
+ stream_data[27]: "https://stream.bakuradioalliance.az/hitfm|Baku Hit FM|Hits|AZE|192|0"
+ stream_data[28]: "https://audiostr.atv.az/106fm|106fm|Pop|AZE|128|0"
+ stream_data[29]: "https://stream.bakuradioalliance.az/retrofm|Baku Retro FM|Retro|AZE|192|0"
 }
 
 }
